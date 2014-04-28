@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Research.pawnLabel>Onderzoeker</Research.pawnLabel>
+	<Research.gerundLabel>Onderzoekt</Research.gerundLabel>
+	
+	<Cleaning.pawnLabel>Schoonmaker</Cleaning.pawnLabel>
+	<Cleaning.gerundLabel>Maakt schoon</Cleaning.gerundLabel>
+	
+	<Hauling.pawnLabel>Drager</Hauling.pawnLabel>
+	<Hauling.gerundLabel>Draagt</Hauling.gerundLabel>
+	
+    <Art.pawnLabel>Kunstenaar</Art.pawnLabel>
+    <Art.gerundLabel>Kunst</Art.gerundLabel>
+	
+	<Crafting.pawnLabel>Steenhouwer</Crafting.pawnLabel>
+	<Crafting.gerundLabel>Bewerkt</Crafting.gerundLabel>
+	
+	<PlantCutting.pawnLabel>Planten snijder</PlantCutting.pawnLabel>
+	<PlantCutting.gerundLabel>Snijdt planten</PlantCutting.gerundLabel>
+	
+	<Growing.pawnLabel>Landbouwer</Growing.pawnLabel>
+	<Growing.gerundLabel>Zaait</Growing.gerundLabel>
+	
+	<Mining.pawnLabel>Mijnwerker</Mining.pawnLabel>
+	<Mining.gerundLabel>Delft</Mining.gerundLabel>
+	
+	<Repair.pawnLabel>Reperateur</Repair.pawnLabel>
+	<Repair.gerundLabel>Repareert</Repair.gerundLabel>
+	
+
+	<Construction.pawnLabel>Bouwer</Construction.pawnLabel>
+	<Construction.gerundLabel>Bouwt</Construction.gerundLabel>
+	
+	<Hunting.pawnLabel>Jager</Hunting.pawnLabel>
+	<Hunting.gerundLabel>Jaagt</Hunting.gerundLabel>
+	
+
+	<Cooking.pawnLabel>Kok</Cooking.pawnLabel>
+	<Cooking.gerundLabel>Kookt</Cooking.gerundLabel>
+
+	<Doctor.pawnLabel>Dokter</Doctor.pawnLabel>
+	<Doctor.gerundLabel>Verzorgt</Doctor.gerundLabel>
+	
+	<Firefighter.pawnLabel>Brandweerman</Firefighter.pawnLabel>
+	<Firefighter.gerundLabel>Blust</Firefighter.gerundLabel>
+
+</LanguageData>

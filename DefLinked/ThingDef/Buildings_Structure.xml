@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<DoorPowered.label>Electrische deur</DoorPowered.label>
+	<DoorPowered.description>Sluit ruimtes af. Als er stroom op staat, kunnen kolonisten er ongehinderd door.</DoorPowered.description>
+	
+	<DoorSimple.label>Gewone deur</DoorSimple.label>
+	<DoorSimple.description>Sluit ruimtes af. Moet handmatig worden geopend en gesloten. Vertraagt kolonisten als ze erdoor gaan.</DoorSimple.description>
+	
+	<WallMetal.label>Metalen muur</WallMetal.label>
+	<WallMetal.description>Een metalen muur met electrische bekabeling.</WallMetal.description>
+	<WallStone.label>Stenen muur</WallStone.label>
+	<WallStone.description>Een stenen muur. Het kan eeuwen blijven staan. Hetkan niet branden en heeft geen electrische bekabeling.</WallStone.description>
+	
+	<PowerConduit.label>Stroomkabel</PowerConduit.label>
+	<PowerConduit.description>Geeft stroom door.</PowerConduit.description>
+	
+	<Sandbags.label>Zandzakken</Sandbags.label>
+	<Sandbags.description>Geeft dekking voor kogels.</Sandbags.description>
+	
+
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Goto.reportString>Is onderweg.</Goto.reportString>
+	<Wait.reportString>Staat stil.</Wait.reportString>
+	
+	<AttackStatic.reportString>Valt TargetA aan.</AttackStatic.reportString>
+    <AttackMelee.reportString>Valt TargetA aan melee.</AttackMelee.reportString>
+	
+	<Hunt.reportString>Jaagt op TargetA.</Hunt.reportString>
+	
+	<UseVerbOnThing.reportString>Gebruikt Verb.</UseVerbOnThing.reportString>
+	
+	<Equip.reportString>Rust zich uit met TargetA.</Equip.reportString>
+	
+	<Ignite.reportString>Zet TargetA in brand.</Ignite.reportString>
+	
+	<BeatFire.reportString>Slaat vuur uit.</BeatFire.reportString>
+	
+	<ExtinguishSelf.reportString>Blussen zichzelf.</ExtinguishSelf.reportString>
+	
+	<EatFood.reportString>Eet van TargetA.</EatFood.reportString>
+	
+	<DeliverFood.reportString>Voert TargetB met TargetA.</DeliverFood.reportString>
+	
+	<FeedPatient.reportString>Voert TargetB met TargetA.</FeedPatient.reportString>
+	
+	<HaulToSquare.reportString>Draagt TargetA naar opslagplaats.</HaulToSquare.reportString>
+	
+	<HaulToContainer.reportString>Draagt TargetA.</HaulToContainer.reportString>
+	
+	<PlaceNoCostFrame.reportString>Bouwt TargetA.</PlaceNoCostFrame.reportString>
+	
+	<DoBill.reportString>Doet opdracht aan TargetA.</DoBill.reportString>
+	
+	<Rescue.reportString>Redt TargetA.</Rescue.reportString>
+	
+	<Capture.reportString>Vangt TargetA.</Capture.reportString>
+	
+	<Arrest.reportString>Neemt TargetA gevangen.</Arrest.reportString>
+	
+	<EscortPrisonerToBed.reportString>Escorteert gevangene TargetA.</EscortPrisonerToBed.reportString>
+	
+	<TakeWoundedPrisonerToBed.reportString>Brengt gewonde gevangene TargetA naar bed.</TakeWoundedPrisonerToBed.reportString>
+	
+	<Clean.reportString>Maakt TargetA schoon.</Clean.reportString>
+	
+	<Sleep.reportString>Slaapt.</Sleep.reportString>
+	
+	<Research.reportString>Onderzoekt.</Research.reportString>
+	
+	<UseCommsConsole.reportString>Gebruikt communicaties console.</UseCommsConsole.reportString>
+	
+	<Mine.reportString>Delft TargetA.</Mine.reportString>
+	
+	<Repair.reportString>Repareert TargetA.</Repair.reportString>
+	
+	<FinishFrame.reportString>Bouwt TargetA.</FinishFrame.reportString>
+	
+	<Sow.reportString>Zaait TargetA.</Sow.reportString>
+	
+	<Harvest.reportString>Oogst TargetA.</Harvest.reportString>
+	
+	<CutPlant.reportString>Snijdt TargetA.</CutPlant.reportString>
+	
+	<Deconstruct.reportString>Breekt TargetA af.</Deconstruct.reportString>
+	
+	<PrisonerFriendlyChat.reportString>Praat met gevangene TargetA.</PrisonerFriendlyChat.reportString>
+	
+	<PrisonerBeatingMild.reportString>Slaat gevangene TargetA licht.</PrisonerBeatingMild.reportString>
+	
+	<PrisonerBeatingVicious.reportString>Slaat gevangene TargetA hard.</PrisonerBeatingVicious.reportString>
+	
+	<PrisonerExecution.reportString>Doodt TargetA.</PrisonerExecution.reportString>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</LanguageData>

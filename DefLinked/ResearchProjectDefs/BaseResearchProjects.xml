@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Hydroponics.label>Hydrocultuur</Hydroponics.label>
+	<Hydroponics.description>Maakt het mogelijk om Hydrocultuur tafels te maken en planten overdekt te kunnen verbouwen.</Hydroponics.description>
+	
+	<PneumaticPicks.label>Pneumatische houwelen</PneumaticPicks.label>
+	<PneumaticPicks.description>De houwelen zijn 20% effectiever.</PneumaticPicks.description>
+	
+	<Stonecutting.label>Steenhouwen</Stonecutting.label>
+    <Stonecutting.description>Maakt het mogelijk de Steenhouwerstafel te bouwen. Hier kunnen je kolonisten stenen puin omzetten in bruikbare stenen blokken.</Stonecutting.description>
+	
+	<NutrientResynthesis.label>Nutrient Resynthesis</NutrientResynthesis.label>
+	<NutrientResynthesis.description>Voedingsstoffen pasta automaten verbruiken 10% minder voedsel per geproduceerde maaltijd.</NutrientResynthesis.description>
+	
+	<GunTurretCooling.label>Kanon geschut verkoelen</GunTurretCooling.label>
+	<GunTurretCooling.description>Kanonnen schieten nu 4 keer in plaats van 3 keer per ronde.</GunTurretCooling.description>
+	
+	<CarpetMaking.label>Tapijt maken</CarpetMaking.label>
+	<CarpetMaking.description>Maakt het mogelijk om tapijt aan te leggen. Dit verbeterd de kwaliteit van de omgeving.\n\nJe kolonisten zijn hier erg blij mee.</CarpetMaking.description>
+	
+	
+	<FearTech1.label>Angst Technologie</FearTech1.label>
+	<FearTech1.description>Onderzoek nieuwe manieren om angst te zaaien.</FearTech1.description>
+	<FearTech1.descriptionDiscovered>Je kan nu martel kooien bouwen om de lijken van je vijanden of kolonisten tentoon te stellen. Zij die hier naar kijken zullen intense angst en walging voelen. Dit is een technologie uit de oudheid, simpel, maar erg effectief.</FearTech1.descriptionDiscovered>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</LanguageData>

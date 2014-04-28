@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<SleepingSpot.Label>Slaap plek</SleepingSpot.Label>
+	<SleepingSpot.Description>Markeert een plek op de grond waar mensen kunnen slapen. Heel erg oncomfortabel. Efficientie: 8/10</SleepingSpot.Description>
+
+	<Bed.Label>Bed</Bed.Label>
+	<Bed.Description>Een comfortabel matras met lakens en een frame om op te slapen. Efficientie: 10/10</Bed.Description>
+
+	<TableButcher.Label>Slagerstafel</TableButcher.Label>
+	<TableButcher.Description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.Description>
+	
+	<CookStove.Label>Kookeiland</CookStove.Label>
+	<CookStove.Description>Een kookeiland met aanrecht om maaltijden te maken van simpele ingrediënten.</CookStove.Description>
+	
+	<TableStonecutter.Label>Steenhouwerstafel</TableStonecutter.Label>
+	<TableStonecutter.Description>Een tafel waar de steenhouwer stenen puin in stenen blokken kan verwerken.</TableStonecutter.Description>
+	
+	<HydroponicsBasin.label>hydrocultuur basin</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
+	
+	<PlantPot.label>Bloemenpot</PlantPot.label>
+	<PlantPot.description>Hierin kunnen decorative planten geplant worden.</PlantPot.description>
+	
+	<ResearchBench.label>Onderzoekstafel</ResearchBench.label>
+	<ResearchBench.description>Onderzoekers werken hier aan om ontdekkingen te doen.</ResearchBench.description>
+	
+	<EquipmentRack.label>Wapenrek</EquipmentRack.label>
+	<EquipmentRack.description>Hier kan je wapens in opslaan.</EquipmentRack.description>
+	
+	<OrbitalTradeBeacon.label>Orbitale handelsbaken</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.description>Nodig om te handelen met ruimteschepen. Je kan goederen alleen verkopen als ze in de buurt van het baken zijn opgeslagen. Er mag geen dak boven het baken zijn. Ruimte handelaren droppen ook hun goederen hier naast.</OrbitalTradeBeacon.description>
+	
+	<Chair.label>Stoel</Chair.label>
+	<Chair.description>Een plek om te zitten.</Chair.description>
+	
+	<TableShort.label>Tafel (klein)</TableShort.label>
+	<TableShort.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort.description>
+	
+	<TableLong.label>Tafel (groot)</TableLong.label>
+	<TableLong.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong.description>
+	
+	<StandingLamp.label>Staande lamp</StandingLamp.label>
+	<StandingLamp.description>De staande lamp verlicht een ruimte.</StandingLamp.description>
+	
+	<SunLamp.label>Zonnelamp</SunLamp.label>
+	<SunLamp.description>Verlicht een ruimte genoeg om gewassen te laten groeien.</SunLamp.description>
+	
+</LanguageData>

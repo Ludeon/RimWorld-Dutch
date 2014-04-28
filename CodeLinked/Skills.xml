@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>Niveau</Level>
+  <ProgressToNextLevel>Voortgang tot het volgende niveau</ProgressToNextLevel>
+  <Passion>Passie</Passion>
+  <PassionNone>Geen (leert {0}x)</PassionNone>
+  <PassionMinor>Geintereseert (leert {0}x)</PassionMinor>
+  <PassionMajor>Vurig (leert {0}x)</PassionMajor>
+  <EffectsAtLevel>Effecten op niveau {0}</EffectsAtLevel>
+  
+  
+
+  <Skill0>Onbekwaam</Skill0>
+  <Skill1>Onbekwaam</Skill1>
+  <Skill2>Minimale besef</Skill2>
+  <Skill3>Basis kennis</Skill3>
+  <Skill4>Amateur</Skill4>
+  <Skill5>Ervaren amateur</Skill5>
+  <Skill6>Beoefenaar</Skill6>
+  <Skill7>Ervaren beoefenaar</Skill7>
+  <Skill8>Beroeps</Skill8>
+  <Skill9>Ervaren beroeps</Skill9>
+  <Skill10>Expert</Skill10>
+  <Skill11>Ervaren expert</Skill11>
+  <Skill12>Zeer ervaren expert</Skill12>
+  <Skill13>Meester</Skill13>
+  <Skill14>Ervaren meester</Skill14>
+  <Skill15>Wereld-klasse meester</Skill15>
+  <Skill16>Zonnestelsel-klasse meester</Skill16>
+  <Skill17>Vereerde meester</Skill17>
+  <Skill18>Visionair</Skill18>
+  <Skill19>Legendarisch</Skill19>
+  <Skill20>Goddelijk</Skill20>
+
+
+  
+  
+  
+</LanguageData>

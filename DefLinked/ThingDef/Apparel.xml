@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<Apparel_BasicShirt.label>T-Shirt</Apparel_BasicShirt.label>
+	<Apparel_CollarShirt.label>Overhemd</Apparel_CollarShirt.label>
+	<Apparel_Duster.label>Stofjas</Apparel_Duster.label>
+	<Apparel_Jacket.label>Jas</Apparel_Jacket.label>
+	<Apparel_VestPlate.label>Kogelvrij vest</Apparel_VestPlate.label>
+	<Apparel_PowerArmor.label>Energie Pantser</Apparel_PowerArmor.label>
+	<Apparel_TribalA.label>Stam kleding</Apparel_TribalA.label>
+
+</LanguageData>

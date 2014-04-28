@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AteRawFood.label>Rauw voedsel gegeten</AteRawFood.label>
+	<AteRawFood.description>Ik moest rauw voedsel eten. Kunnen we het niet koken, of tenminste in voedingsstoffen pasta omzetten?</AteRawFood.description>
+	
+	<AteNutrientPasteMeal.label>Voedingsstoffen pasta gegeten</AteNutrientPasteMeal.label>
+	<AteNutrientPasteMeal.description>Ik moest voedingsstoffen pasta eten. Ik weet dat het me in leven houdt, maar het is niet te vreten!</AteNutrientPasteMeal.description>
+	
+	<AteFineMeal.label>Goede maaltijd gegeten</AteFineMeal.label>
+	<AteFineMeal.description>Ik heb een goede maaltijd gegeten. Dat was lekker!</AteFineMeal.description>
+	
+	<AteLavishMeal.label>Luxueuze maaltijd gegeten</AteLavishMeal.label>
+	<AteLavishMeal.description>Deze luxueuze maaltijd was geweldig! Het heeft mijn lichaam en ziel gevoed.</AteLavishMeal.description>
+	
+	<AteHumanoidMeatDirect.label>rauwe kannibalisme</AteHumanoidMeatDirect.label>
+	<AteHumanoidMeatDirect.description>Ik moest het vleed van een ander mens eten, rauw zoals een dier. Dit is een nachtmerrie.</AteHumanoidMeatDirect.description>
+	
+	<AteHumanoidMeatAsIngredient.label>Gekookte kannibalisme</AteHumanoidMeatAsIngredient.label>
+	<AteHumanoidMeatAsIngredient.description>Ik at een maaltijd gemaakt van mensenvlees. Dit is gruwelijk.</AteHumanoidMeatAsIngredient.description>
+
+	<ButcheredHumanoidCorpse.label>Mensen geslacht</ButcheredHumanoidCorpse.label>
+	<ButcheredHumanoidCorpse.description>Ik heb zojuist het lijk van een mens geslacht alsof het een dier was.</ButcheredHumanoidCorpse.description>
+
+	<ObservedLayingCorpse.label>Lijk gezien</ObservedLayingCorpse.label>
+	<ObservedLayingCorpse.description>Ik heb een lijk van een mens op de grond gezien.</ObservedLayingCorpse.description>
+
+	<ObservedGibbetCageEmpty.label>Martelkooi gezien</ObservedGibbetCageEmpty.label>
+	<ObservedGibbetCageEmpty.description>Deze martelkooien zien er zo barbaars uit.</ObservedGibbetCageEmpty.description>
+
+	<ObservedGibbetCageFullStranger.label>Vreemdeling in martelkooi gezien</ObservedGibbetCageFullStranger.label>
+	<ObservedGibbetCageFullStranger.description>Ik zag een vreemde in een martelkooi tentoon gesteld. Wat een barbaarse plek.</ObservedGibbetCageFullStranger.description>
+
+	<ObservedGibbetCageFullColonist.label>Kolonist in martelkooi gezien</ObservedGibbetCageFullColonist.label>
+	<ObservedGibbetCageFullColonist.description>Ik zag een van onze doden in een martelkooi. Ik ken deze kolonist. Dit is een beangstigende plek.</ObservedGibbetCageFullColonist.description>
+
+	<NewColonyOptimism.label>Nieuwe kolonie optimisme</NewColonyOptimism.label>
+	<NewColonyOptimism.description>We zijn zojuist hier geland. Het is een moeilijke situatie, maar ik ben verheugd een nieuwe kolonie te kunnen stichten.</NewColonyOptimism.description>
+	
+	<NewColonyHope.label>Nieuwe kolonie hoop</NewColonyHope.label>
+	<NewColonyHope.description>Ik raak gewend aan de nieuwe situatie, maar ben nog steeds enthousiast met de sistuatie. Ik hoop maar dat het goed blijft gaan...</NewColonyHope.description>
+
+	<SleptOutside.label>Buiten geslapen</SleptOutside.label>
+	<SleptOutside.description>Ik moest buiten slapen, zonder bescherming van de elementen.</SleptOutside.description>
+	
+	<SleptOnGround.label>Op de grond geslapen</SleptOnGround.label>
+    <SleptOnGround.description>Ik moest op de grond slapen als een dier.</SleptOnGround.description>
+	
+	<BattleWounded.label>Gewond</BattleWounded.label>
+	<BattleWounded.description>Dat is mijn bloed! Ik ben gewond geraakt in een gevecht!</BattleWounded.description>
+	
+	<KnowPrisonerBeaten.label>Een gevangene is geslagen</KnowPrisonerBeaten.label>
+	<KnowPrisonerBeaten.description>Ze slaan de gevangene.</KnowPrisonerBeaten.description>
+	
+	<KnowPrisonerSold.label>Een gevangene is verkocht</KnowPrisonerSold.label>
+	<KnowPrisonerSold.description>Deze kolonie heeft een gevangene in slavernij verkocht. Dat is een verontrustende gedachte.</KnowPrisonerSold.description>
+	
+	<KnowPrisonerExecuted.label>Een gevangene is gedood</KnowPrisonerExecuted.label>
+	<KnowPrisonerExecuted.description>Er is een gevangene gedood. De kolonie wordt met de dag gemener.</KnowPrisonerExecuted.description>
+	
+	<WitnessedDeath.label>Iemand zien sterven</WitnessedDeath.label>
+	<WitnessedDeath.description>Ik zag iemand sterven. Het ene moment leefde hij nog, het volgende was hij dood.</WitnessedDeath.description>
+	
+	<PrisonerFriendlyChat.label>Overgehaald door bewaker</PrisonerFriendlyChat.label>
+	<PrisonerFriendlyChat.description>Ik heb met de bewaker gesproken over de kolonie. Het klinkt als een goede plek...</PrisonerFriendlyChat.description>
+	
+	<PrisonerBeatenMild.label>Door bewaker geslagen</PrisonerBeatenMild.label>
+	<PrisonerBeatenMild.description>De bewaker heeft me net geslagen. Hij brak geen botten, maar het doet wel pijn!</PrisonerBeatenMild.description>
+	
+	<PrisonerBeatenVicious.label>Door bewaker venijnig geslagen</PrisonerBeatenVicious.label>
+	<PrisonerBeatenVicious.description>De bewaker heeft me net venijnig geslagen. Ik kan hier aan doodgaan...</PrisonerBeatenVicious.description>
+	
+	<SocialTalk.label>Sociaal contact gehad</SocialTalk.label>
+	<SocialTalk.description>Ik heb net gezellig gepraat met iemand.</SocialTalk.description>
+
+</LanguageData>

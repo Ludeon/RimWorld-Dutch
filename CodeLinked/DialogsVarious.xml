@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>Bevestig</Confirm>
+  <GoBack>Ga terug</GoBack>
+  <OK>OK</OK>
+  <ConfirmDelete>Wil je {0} echt verwijderen?</ConfirmDelete>
+  <DeleteThisSavegame>Verwijder deze savegame.</DeleteThisSavegame>
+  <OverwriteButton>Overschrijven</OverwriteButton>
+  <SavedAs>Opgeslagen als {0}.</SavedAs>
+  <NeedAName>Voer een naam in alstublieft.</NeedAName>
+
+
+  <NameColonyMessage>Iedereen weet dat je niet lang op deze plek wilt blijven. Maar {0} suggesteert dat je de kolonie toch een naam geeft.\n\nHoe moet het genoemd worden?</NameColonyMessage>
+  <ColonyGainsName>De kolonie staat nu bekend als: {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Deze kolonie naam is ongeldig.</ColonyNameIsInvalid>
+
+  <ZoneGainsName>Deze zone heet nu: {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Voer een geldige naam in.</ZoneNameIsInvalid>
+
+
+  <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
+
+
+  <ConfirmResolutionChange>Je hebt de resolutie aangepast. Werkt de nieuwe resolutie goed?\n\nAutomatische terugzetting in {0}...
+  You've changed your resolution. Does the new one work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Houden</ResolutionKeep>
+  <ResolutionRevert>Terugzetten</ResolutionRevert>
+  
+  
+  <OverviewOf>Overzicht van {0}</OverviewOf>
+  
+    
+  <Research>Onderzoek</Research>
+  <Researched>Onderzocht</Researched>
+  <Unresearched>Niet onderzocht</Unresearched>
+  <Finished>Afgerond</Finished>
+  <InProgress>Wordt uitgevoerd</InProgress>
+
+
+  <MapSizePerformanceWarning>Waarschuwing: Het spel is nog niet zo geoptimaliseerd, zodat de prestaties op grotere kaart maten slechter zijn. Het spel werkt goed op 200x200, dus blijf op dat formaat tenzij je computer een beest is en je OK bent met verminderde prestaties.</MapSizePerformanceWarning>
+  <MapSize>Kaart grootte</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} kwadranten)</MapSizeDesc>
+
+  
+
+  <Suspended>Opgeschort</Suspended>
+  <NotSuspended>Niet opgeschort</NotSuspended>
+  <SuspendedAllCaps>OPGESCHORT</SuspendedAllCaps>
+  <RepeatCount>Herhaal: {0}</RepeatCount>
+  <Forever>Voor altijd</Forever>
+  <IngredientSearchRadius>Grondstoffen zoek bereik</IngredientSearchRadius>
+  <TargetCount>Maken tot je er {0} hebt</TargetCount>
+  <Infinite>Oneindig</Infinite>
+  <RecipeCannotHaveTargetCount>(Dit recept kan geen doel aantal hebben omdat het meerdere of onvoorspelbare ingredienten heeft.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Toegestane ingredienten.</PermittedIngredients>
+  <MinimumSkills>Minimale vaardigheid:</MinimumSkills>
+  <DoXTimes>Herhaal X keer</DoXTimes>
+  <DoUntilYouHaveX>Herhaal tot je er X hebt</DoUntilYouHaveX>
+  <DoForever>Herhaal voor altijd</DoForever>
+  
+  
+
+  <TradeGoodsNearBeaconLesson>Om items of zilver te versturen naar orbitale handelaren te verzenden, moet je een ORBITALE HANDELSBAKEN buiten bouwen en er een opslagplaats dichtbij aanleggen.</TradeGoodsNearBeaconLesson>
+  <YourTradeableSilver>Je verhandelbare zilver: {0}</YourTradeableSilver>
+  
+  
+</LanguageData>

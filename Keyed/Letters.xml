@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Ga naar lokatie</JumpToLocation>
+
+  <RelationsBrokenDown>Je relaties met {0} zijn kapot gelopen. Ze zijn nu vijanden van jou.</RelationsBrokenDown>
+  <RelationsWarmed>Je relaties met {0} zijn verbeterd. Ze zijn niet langer vijanden van jou.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Because you captured {0}, {1} is now your enemy.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Kolonie goede wil</ColonyGoodwill>
+  <Neutral>Neutraal</Neutral>
+
+  <ShortCircuitRain>Een {0} is kort gesloten in de regen en heeft een brand veroorzaakt.</ShortCircuitRain>
+  <AreaRevealed>Een nieuw ruimte is ontdekt.</AreaRevealed>
+
+  <RoofCollapsed>Een dak is ingestort omdat het te ver van ondersteuning was.</RoofCollapsed>
+  <TheseThingsCrushed>Deze dingen zijn verpletterd:</TheseThingsCrushed>
+  <NothingCrushed>Niets was verpletterd.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} is geestelijk ingestort en valt iedereen aan.</MentalBreakRampage>
+  <MentalBreakDaze>{0} heeft het opgegeven en verlaat de kolonie.</MentalBreakDaze>
+  <MentalBreakLeave>{0}heeft het opgegeven en loopt verbijsterd rond.</MentalBreakLeave>
+
+  <RecruitSuccess>Het is {0} gelukt om {1} te rekruteren ({2}kans).</RecruitSuccess>
+  <RecruitFail>Het is {0} niet gelukt om {1} te rekruteren ({2}kans).</RecruitFail>
+  
+  
+</LanguageData>

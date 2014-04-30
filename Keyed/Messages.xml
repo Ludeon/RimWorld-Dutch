@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MessageRaidersLeaving>Plunderaars van {0} verlaten het gebied.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>Plunderaars van {0} hebben het opgegeven en verlaten het gebied.</MessageRaidersGivenUpLeaving>
+
+	<MessageShipHasLeftCommsRange>{0} is nu buiten bereik.</MessageShipHasLeftCommsRange>
+
+	<MessageNeedBeaconToTradeWithShip>Je hebt een orbitale baken nodig voor de handel met een ruimteschip.</MessageNeedBeaconToTradeWithShip>
+
+	<MessageBillComplete>Opdracht afgerond: {0}.</MessageBillComplete>
+
+	<MessageFullyHealed>{0} is volledig genezen.</MessageFullyHealed>
+
+	<MessageFightersFleeing>Vechters van {0} vluchten.</MessageFightersFleeing>
+
+	<MessageFriendlyFightersLeaving>Vriendelijke vechters van {0} verlaten het gebied.</MessageFriendlyFightersLeaving>
+
+	<MessageRaidersBeginningAssault>Plunderaars van {0} beginnen met de aanval.</MessageRaidersBeginningAssault>
+
+	<MessageRaidersDetectedEarlyAssault>Plunderaars van {0} hebben je ontdekt en vallen aan.</MessageRaidersDetectedEarlyAssault>
+
+	<MessagePrisonerIsEscaping>Gevangene {0} is aan het ontsnappen.</MessagePrisonerIsEscaping>
+
+	<MessageRecruitSuccess>{0} heeft {1} succesvol gerekruteerd ({2} kans).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} kon {1} niet rekruteren ({2} kans).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} kon {1} niet rekruteren (Gevangene onder loyaliteit drempel).</MessageRecruitFailBecauseLoyalty>
+
+	<MessageTraderCannotAfford>De handelaar kan dit niet betalen.</MessageTraderCannotAfford>
+	<MessageColonyCannotAfford>Die kolonie kan dit niet betalen.</MessageColonyCannotAfford>
+	<MessageColonyNotEnoughSilver>Je hebt niet genoeg zilver.</MessageColonyNotEnoughSilver>
+	<MessageTraderNotEnoughSilver>Handelaar heeft niet genoeg zilver.</MessageTraderNotEnoughSilver>
+
+	<MessageCriticalAlert>Ernstig alarm: {0}</MessageCriticalAlert>
+
+</LanguageData>

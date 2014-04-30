@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalInsanitySingle>Een lokale {0} is gek geworden. Het zal iedereen aanvallen die het ziet.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Een soort van paranormale golf is over het landschap getrokken. Je kolonisten zijn in orde, maar...\n\nHet ziet ernaar uit dat veel van de lokale {0}s in de omgeving gestoord zijn geworden.</AnimalInsanityMultiple>
+
+  <CropBlight>Een mysterieuze plaag heeft je planten vernietigd.</CropBlight>
+
+  <EclipseIncident>Een van de manen van deze planeet is voor de zon gekomen. Een zonsverduistering is begonnen.</EclipseIncident>
+
+  <MiracleHeal>{0} heeft een wonderbaarlijke genezing ervaren!</MiracleHeal>
+
+  
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Een groep overvallers van {0} zijn vlakbij gearriveerd.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Een groep overvallers van {0} zijn vlakbij uit de lucht komen vallen.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Een groep overvallers van {0} zijn bovenop je geland vanuit de lucht!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>Ze plannen voor een tijdje en vallen dan aan.\n\nBereid een verdediging voor of val ze preventief aan.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Ze vallen direct aan.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Het ziet ernaar uit dat ze de kolonie willen belegeren.</EnemyRaidBesiege>
+
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Een groep vriendelijke vechters van {0} zijn vlakbij gearriveerd.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Een groep vriendelijke vechters van {0} zijn uit de lucht komen vallen.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Een groep vriendelijke vechters van {0} zijn bovenop je geland vanuit de lucht!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>Ze bereiden zich een tijdje voor voordat ze je komen helpen.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>Ze komen je direct helpen.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Het ziet ernaar uit dat ze belegeringstactieken willen gebruiken om je te helpen.</FriendlyRaidBesiege>
+
+  <RefugeePodCrash>Je hebt vlakbij een ontsnappingscapsule ontdekt.\n\nAls iemand de landing heeft overleeft, zullen ze zwaar gewond zijn.</RefugeePodCrash>
+
+  <CargoPodCrash>Je hebt vlakbij een groep vrachtcapsules zien landen.\n\nMisschien vindt je wel wat nuttigs in de wrakken.</CargoPodCrash>
+
+  <AnElectricalConduit>een electronische leiding</AnElectricalConduit>
+  <AWallsPowerConduit>een electronische leiding in een muur</AWallsPowerConduit>
+  <ShortCircuit>een fout in {0} heeft een kortsluiting veroorzaakt.\n\nEen totaal van {1} Wd aan stroom in de aangesloten batterijen heeft zich ontladen in een electrische explosie.</ShortCircuit>
+  <ShortCircuitWasLarge>Deze grote hoeveelheid aan stroom heeft een middelgrote explosie veroorzaakt.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Dat is een enorme explosie. Wauw!</ShortCircuitWasHuge>
+
+  <SolarFlare>Een zonne vlam is begonnen\n\nDe intense radiatie zorgt dat alle electrische apparaten niet meer werken.\n\nIn ongeveer een dag zou het voorbij moeten zijn.</SolarFlare>
+
+  <TraderArrival>Een handelsschip is binnen bereik.\n\nZe is bekend als {0}. Zij zijn {1}.</TraderArrival>
+
+  <SingleTravelerPassing>Een {0} van {1} komt langs. HECAP heet {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Een groep reizigers van {0} komen langs.</GroupTravelersPassing>
+
+  <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\nHECAP heet {2}</SingleVisitorArrives>
+  <GroupVisitorsArrive>Een groep bezoekers van {0} komen de kolonie bezoeken.</GroupVisitorsArrive>
+  <VisitorsLeaving>Bezoekers van {0} verlaten de kolonie.</VisitorsLeaving>
+
+  <WandererJoin>Een {0} genaamd NAME is gearriveerd en sluit zich aan bij de kolonie. HECAP is een {1}.</WandererJoin>
+  
+</LanguageData>

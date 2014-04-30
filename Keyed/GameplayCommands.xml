@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CommandForbiddenDesc>Verboden - Kolonisten mogen hier niet aan komen.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Niet verboden - Kolonisten mogen hier aan komen.</CommandNotForbiddenDesc>
+	
+  <CommandTogglePowerDesc>Aan-/Uitschakelen.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Aan/UIt</CommandTogglePowerLabel>
+
+  <CommandGatherSpotToggleLabel>Verzamelplaats</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Actief - Kolonisten zullen zich rond dit object verzamelen.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inactief - Kolonisten zullen zich niet rond dit object verzamelen.</CommandGatherSpotToggleDescInactive>
+  
+  <CommandDraftLabel>Wapen trekken</CommandDraftLabel>
+  <CommandUndraftLabel>Wapen holsteren</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Militaire modus in/uitschakelen.\n\nKolonisten in militaire modus accepteren opdrachten en vechten. Ze zullen niet werken, eten of slapen.</CommandToggleDraftDesc>
+  <IsIncapped>{0} is zwaar gewond.</IsIncapped>
+
+  <CommandCancelConstructionLabel>Ongedaan maken</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Maak deze constructie ongedaan.</CommandCancelConstructionDesc>
+
+  <CommandBedSetForPrisonersLabel>Markeer voor gevangenen</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc> Markeer de bedden in deze kamer voor gevangenen.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForColonistsLabel>Markeer voor kolonisten</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc> Markeer de bedden in deze kamer voor kolonisten.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Gevangenen modus aanzetten heeft effect op de hele kamer(sinds gevangenen en kolonisten niet in dezelfde kamer kunnen slapen).\n\nDeze personen verliezen de rechten van hun bed:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Gevangenen modus uitzetten heeft effect op de hele kamer(sinds gevangenen en kolonisten niet in dezelfde kamer kunnen slapen).\n\nDeze personen verliezen de rechten van hun bed:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Weet je zeker dat je dit wilt doen?</AreYouSure>
+
+  <CommandDetonateDesc>Begin het aftellen voor de ontploffing.</CommandDetonateDesc>
+  <CommandDetonateLabel>Laten ontploffen</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Hernoem deze zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Hernoemen</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Het verbergen/tonen van deze zone.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Verbergen</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Tonen</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Verwijder deze zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Verwijderen</CommandDeleteZoneLabel>
+  
+</LanguageData>

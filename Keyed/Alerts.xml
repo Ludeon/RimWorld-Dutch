@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClickToJumpToProblem>Klik om naar het probleem te gaan.</ClickToJumpToProblem>
+	
+	
+  <MentalBreakSoon>Waarschuwing: Zenuwinzinking</MentalBreakSoon>
+  <MentalBreakSoonDesc>Deze kolonisten staan op het punt van een zenuwinzinking: \n\n{0}\nVerbeter hun psychologie snel of het gaat fout.</MentalBreakSoonDesc>
+
+  <MentalBreakImminent>Dreigende zenuwinzinking</MentalBreakImminent>
+  <MentalBreakImminentDesc>Deze kolonisten zijn te gestressed en staan op het punt van een zenuwinzinking:\n\n{0}</MentalBreakImminentDesc>
+
+  <ColonistNeedsRescue>Kolonist moet gered worden</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonisten moeten gered worden</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Deze kolonisten liggen zwaar gewond op de grond:\n\n{0}\nStuur een andere kolonist om ze te redden en naar een bed te brengen. \n\n(Om een kolonist te redden, selecteer een andere kolonist en klik met de klik met de rechter muisknop op het slachtoffer en selecteer Kolonist redden.)</ColonistsNeedRescueDesc>
+
+  <BuildARoom>Bouw een kamer</BuildARoom>
+  <BuildARoomDesc>Je hebt geen kamers.\n\nBouw een afgesloten ruimte door muren en een deur te gebruiken.\n\nGebruik het ARCHITECT menu aan de onderkant van het scharm om aan te geven waar je iets gebouwd wilt hebben.</BuildARoomDesc>
+
+  <NeedGrowingZone>Landbouw zone nodig</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Je hebt geen landbouw zones.\n\nPlaats een landbouw zone op vruchtbare grond door het ARCHITECT menu te gebruiken.</NeedGrowingZoneDesc>
+
+  <NeedDefenses>Verdediging nodig</NeedDefenses>
+  <NeedDefensesDesc>Je bent hier nu al enige tijd en bent waarschijnlijk al gezien. Piraten zullen binnenkort komen aanvallen. \n\nBereid je verdediging voor.\n\nBouw enkele kanonnen.</NeedDefensesDesc>
+
+  <NeedDoctor>Arts nodig</NeedDoctor>
+  <NeedDoctorDesc>Deze patienten zijn zwaar gewond, hongerig en liggen in bed. Ze moeten gevoerd worden, maar je hebt geen gezonde kolonisten aangewezen als arts.\n\n\{0}\nWijs een gezonde kolonist aan als Arts.</NeedDoctorDesc>
+
+  <NeedMiner>Mijnwerker nodig</NeedMiner>
+  <NeedMinerDesc>Je hebt enkele rotsen aangewezen om te worden ontgonnen, maar geen van je kolonisten is aan gewezen als mijnwerker.\n\nWijs een kolonist aan als Mijnwerker.</NeedMinerDesc>
+
+  <NeedWarden>Bewaker nodig</NeedWarden>
+  <NeedWardenDesc>Je hebt een gevangene, maar geen van je kolonisten is aangewezen als bewaker.\n\nWijs een kolonist aan als Bewaker.</NeedWardenDesc>
+
+  <LowFood>Weinig voedsel</LowFood>
+  <LowFoodDesc>Je hebt slechts {0} voedsel in opslag. Dit is gevaarlijk weinig.\n\nGroei, koop, vindt, of jaag voor voedsel.</LowFoodDesc>
+
+  <NeedColonistBeds>Kolonisten bedden nodig</NeedColonistBeds>
+  <NeedColonistBedsDesc>Je hebt meer kolonisten dan bedden. Sommige kolonisten kunnen niet slapen.\n\nMaak enkele bedden, of verander een gevangenen bed in een kolonisten bed.</NeedColonistBedsDesc>
+
+  <Starvation>Honger</Starvation>
+  <StarvationDesc>Deze kolonisten zijn hongerig:\n\n{0}\nGeef ze wat eten. Je zult een voedselbron zoals een voedingsstoffen pasta automaat en wat voedsel om het te voeden nodig hebben. Zorg er ook voor dat je kolonisten niet in militaire modus staan.</StarvationDesc>
+
+  <Exhaustion>Uitputting</Exhaustion>
+  <ExhaustionDesc>Deze kolonisten zijn uitgeput en hebben rust nodig:\n\n{0}\nGeen ze wat rust. Ze hebben een bed voor kolonisten nodig. Zorg er ook voor dat ze niet in militaire modus staan.</ExhaustionDesc>
+
+  <NeedFoodHopper>Voedsel vultrechtertrechter nodig</NeedFoodHopper>
+  <NeedFoodHopperDesc>Je hebt een voedingsstoffen pasta automaat zonder vultrechtertrechter ernaast.\n\nOm te werken, de voedingsstoffen pasta automaat moet een vultrechtertrechter ernaast hebben gevuld met voedsel.\n\nBouw een vultrechtertrechter naast de automaat.</NeedFoodHopperDesc>
+
+ <BuildingNeedsPower>Gebouw heeft stroom nodig</BuildingNeedsPower>
+  <BuildingsNeedPower>Gebouwen hebben stroom nodig</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Deze gebouwen zitten zonder stroom:\n\n{0}\nMaak een connectie met een stroom generator of een batterij.</BuildingsNeedPowerDesc>
+  <AndMore>en verder</AndMore>
+  
+  <NeedMealSource>Voedselbron nodig</NeedMealSource>
+  <NeedMealSourceDesc>Je hebt geen manier om eetbare maaltijden te maken.\n\nBouw een voedingsstoffen pasta automaat of een kookeiland.\n\n(Het mag niet in een gevangenencel staan, anders kunnen kolonisten het niet gebruiken.)</NeedMealSourceDesc>
+
+  <NeedBatteries>Batterijen nodig</NeedBatteries>
+  <NeedBatteriesDesc>Je hebt alleen zonnepanelen maar geen batterijen. Dit betekend dat je zonder stroom zit als de zon ondergaat.\n\nBouw een paar batterijen om &apos;s nachts ook stroom te hebben.</NeedBatteriesDesc>
+
+  <NoTradingCapacity>Geen mogelijkheden tot handel</NoTradingCapacity>
+  <NoTradingCapacityDesc>Je hebt geen manier om te handelen met ruimteschepen.\n\nBouw een communicaties console.</NoTradingCapacityDesc>
+
+  <NeedResearchProject>Onderzoek project nodig</NeedResearchProject>
+  <NeedResearchProjectDesc>Je hebt de mogelijkheid om iets te onderzoeken, maar geen project geselecteerd.\n\nOpen het onderzoek menu en selecteer een project.</NeedResearchProjectDesc>
+
+  <NeedDump>Stortplaats nodig</NeedDump>
+  <NeedDumpDesc>Je hebt brokstukken die je kolonisten willen verplaatsen, maar ze kunnen het nergens kwijt.\n\nWijs een opslagplaats aan en zet de opslag instellingen op accepteer brokstukken.</NeedDumpDesc>
+
+  <NeedGrave>Graf nodig</NeedGrave>
+  <NeedGraveDesc>Er ligt een dood lijk op de grond en je kolonisten kunnen het nergens kwijt.\n\nLeg een graf aan of maak een stortplaats en zet de opslag instellingen op accepteer lijken.</NeedGraveDesc>
+
+  <ColonistsIdle>{0} werkloze kolonisten</ColonistsIdle>
+  <ColonistsIdleDesc>Deze kolonisten zijn werkloos:\n\n{0}\nJe zou ze wat nuttigs te doen kunnen geven.</ColonistsIdleDesc>
+  
+  <TableNeedsChairs>Tafel heeft stoelen nodig</TableNeedsChairs>
+  <TableNeedsChairsDesc>Je hebt een tafel zonder stoelen ernaast. Tafels zijn nutteloos zonder tenzij kolonisten er aan kunnen zitten.</TableNeedsChairsDesc>
+  
+  
+  
+</LanguageData>

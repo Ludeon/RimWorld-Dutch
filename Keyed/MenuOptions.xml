@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Audiovisuals>Audiovisuele hulpmiddelen</Audiovisuals>
+
+	<GameVolume>Spel volume</GameVolume>
+	<MusicVolume>Muziek volume</MusicVolume>
+	 
+	<GraphicsQuality>Grafische kwaliteit</GraphicsQuality>
+	<GraphicsQualityNormal>Normaal</GraphicsQualityNormal>
+	<GraphicsQualityGreat>Goed</GraphicsQualityGreat>  
+
+	<CustomCursor>Aangepaste muis aanwijzer</CustomCursor>
+
+	<ChooseLanguage>Kies taal</ChooseLanguage>
+
+	<AdaptiveTutor>Adaptieve leraar</AdaptiveTutor>
+	<ResetAdaptiveTutor>Reset adaptieve leraar</ResetAdaptiveTutor>
+	<AdaptiveTutorIsReset>De adaptieve leraar is opnieuw ingesteld. Hij zal je nu alles opnieuw aanleren.</AdaptiveTutorIsReset>
+
+	<RunInBackground>Ga verder op de achtergrond</RunInBackground>
+	<DevelopmentMode>Ontwikkelaars modus</DevelopmentMode>
+	<LogDeepProfileData>Deep profiler inschakelen</LogDeepProfileData>
+
+	<NamesYouWantToSee>Achternamen van de Naam in het Spel of Achtergrond verhaal in het Spel van personen in het spel die je wilt zien:</NamesYouWantToSee>
+
+	<Resolution>Resolutie</Resolution>
+	<Fullscreen>Volledig Scherm</Fullscreen>
+	<CurrentRes>Huidige resolutie {0}</CurrentRes>
+  
+</LanguageData>

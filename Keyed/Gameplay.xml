@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Various -->
+ 	<WorkLeft>Werk te gaan</WorkLeft>
+	<Contents>Inhoud</Contents>
+	<ForPrisonerUse>Voor gebruik door gevangenen</ForPrisonerUse>
+	<ForColonistUse>Voor gebruik door kolonisten</ForColonistUse>
+	<Owner>Eigenaar</Owner>
+	<Nobody>Niemand</Nobody>
+	<Unowned>Geen eigenaar</Unowned>
+	<GunInstalled>Geinstalleerd</GunInstalled>
+	<DeadTime>Dood {0}</DeadTime>
+	<WalkSpeed>Loop snelheid {0}</WalkSpeed>
+	<DyingLower>Sterft</DyingLower>
+	<PawnEffectiveness>Effectiviteit</PawnEffectiveness>
+	<FilthOnFeet>Vuil aan voeten:</FilthOnFeet>
+	
+	<!-- Job reports -->
+ 	<ReportHaulingTo>Draagt {0} naar {1}.</ReportHaulingTo>
+	<ReportHauling>Draagt {0}.</ReportHauling>
+
+	<!-- Shooting report -->
+	<RangeSlashSkill>Bereik/bekwaamheid</RangeSlashSkill>
+	<RangeSlashEquipment>Bereik/uitrusting</RangeSlashEquipment>
+	<Darkness>Duisternis</Darkness>
+	<TargetProne>Kwetsbaarheid doel</TargetProne>
+	<TargetSize>Doel grootte</TargetSize>
+	<Weather>Weer</Weather>
+	<ShootingCover>Dekking</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} stopt {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>Geen dekking</NoCoverLower>
+	
+	<!-- Status levels -->
+	<Loyalty>Loyaliteit</Loyalty>
+	<LoyaltyTip>Loyaliteit staat voor het geloof van een persoon in de kolonie. Als het te laag zakt, kan de persoon opgeven, of wordt hij onredelijk.\n\nLoyaliteit is gelijk aan de vreugde of angst - Afhankelijk van welke hoger is.</LoyaltyTip>
+	<Happiness>Vreugde</Happiness>
+	<HappinessTip>Vreugde wordt verkregen als er aan fysieke of psygische wensen wordt voldaan.</HappinessTip>
+	<Fear>Angst</Fear>
+	<FearTip>Angst geeft weer hoe sterk een persoon wordt geïntimideerd door hun omgeving.\n\nHet neemt toe als men leert van bedreigingen, geweld en de vertegenwoordiging van de macht.</FearTip>
+	<Food>Eten</Food>
+	<FoodTip>Eten geeft aan hoe tevreden iemand is met zijn maaltijden.\n\nEten wordt gereset wanneer iemand eet. Na een tijdje begint het weer te dalen, tot er weer wordt gegeten. Als Eten 0 bereikt, krijgt de persoon schade tot de dood volgt.</FoodTip>
+	<Rest>Rust</Rest>
+	<RestTip>Rust is de kwaliteit van ontspanning en slaap die een persoon krijgt.\n\nHet stijgt tot het maximum als de persoon ligt te slapen in een bed. Eenmaal wakker, daalt het na een tijdje.</RestTip>
+	<Environment>Omgeving</Environment>
+	<EnvironmentTip>Omgeving staat voor hoe prettig de persoon zijn omgeving vindt.\n\nHet is hoog als de persoon in een ruime kamer is met mooie decoratie. Het is laag als de persoo in een lelijke omgeving is.</EnvironmentTip>
+	<Openness>Openheid</Openness>
+	
+	<!-- Thoughts -->
+	<ThoughtExpiresIn>Loopt af in: {0}</ThoughtExpiresIn>
+	<ThoughtStartsExpiringIn>Begint in {0} af te lopen</ThoughtStartsExpiringIn>
+	<ThoughtFinishesExpiringIn>Loopt na {0} af</ThoughtFinishesExpiringIn>
+	<MentalBreakThreshold>Drempelwaarde zenuwinzinking</MentalBreakThreshold> 
+
+	<!--Effectiveness-->
+ 	<EffectivenessFull>Vol</EffectivenessFull>
+	<EffectivenessReduced>Verminderd</EffectivenessReduced>
+	<EffectivenessImpaired>Verzwakt</EffectivenessImpaired>
+	<EffectivenessIncapacitated>Bewusteloos</EffectivenessIncapacitated>
+
+	<!-- Time indicator-->
+	<ClockDay>Dag</ClockDay>
+	<ClockTime>Uur</ClockTime>
+	<ClockTip>De actuele tijd en het aantal dagen zinds je heir geland bent.</ClockTip>
+
+	<!-- Inspector -->
+ 	<Health>Schadepunten</Health>
+	<Faction>Factie</Faction>
+	<Equipped>Uitgerust met</Equipped>
+	<EquippedNothing>Niets</EquippedNothing>
+	<Incapacitated>Zwaar gewond</Incapacitated>
+	<InRestraints>In handboeien (langzamer)</InRestraints>
+	<SelectNextInSquareTip>Selecteert het volgende item in het zelfde gebied.\n\nJe kan dit ook doen door langzaam op hetzelfde veld te klikken.</SelectNextInSquareTip>
+ 
+	<!-- ITab titles -->
+	<TabBills>Opdrachten</TabBills>
+	<TabGrowing>Groeien</TabGrowing>
+	<TabCharacter>Karakter</TabCharacter>
+	<TabNeeds>Status</TabNeeds>
+	<TabPrisoner>Gevangene</TabPrisoner>
+	<TabThoughts>Gedachten</TabThoughts>
+	<TabStorage>Voorraad</TabStorage>
+
+	<!-- ITabs -->
+	<AddBill>Opdracht toevoegen</AddBill>
+	<RecipeRequiresSkills>Het recept {0} vereist de volgende vaardigheden. Echter, niemand uit de kolonie heeft deze vaardigheden en dat is waarom niemand deze taak kan uitvoeren.</RecipeRequiresSkills>
+	<BillConfig>Veranderen</BillConfig>
+	<SuspendedCaps>GESCHORST</SuspendedCaps>
+	<PlantVerb>Planten</PlantVerb>
+	<RecruitmentDifficulty>Rekruteringsmoeilijkheid</RecruitmentDifficulty>
+	<PrisonerGetsFood>Krijgt eten</PrisonerGetsFood>
+	<ShouldTryToRecruit>Probeer te rekruteren</ShouldTryToRecruit>
+	<PrisonerNoInteraction>Geen interactie</PrisonerNoInteraction>
+	<PrisonerFriendlyChat>Vriendelijk gesprek</PrisonerFriendlyChat>
+	<PrisonerMildBeating>Milde pak slaag</PrisonerMildBeating>
+	<PrisonerViciousBeating>Wrede pak slaag</PrisonerViciousBeating>
+	<PrisonerExecution>Executie</PrisonerExecution>
+
+	<!-- like 'Blood of John' -->
+	<OfLower>van</OfLower>
+
+	<!-- Power readout -->
+	<PowerNotConnected>Geen stroom aangesloten.</PowerNotConnected>
+	<PowerConnectedRate>Aangesloten, verbruikt: {0}W</PowerConnectedRate>
+	<PowerConnectedStored>Aangesloten, totaal opgeslagen: {0}Wd</PowerConnectedStored>
+	<PowerNeeded>Stroom nodig</PowerNeeded>
+	<PowerOutput>Vermogen</PowerOutput>
+	<PowerBatteryStored>Opgeslagen</PowerBatteryStored>
+	<PowerBatteryEfficiency>Efficiëntie</PowerBatteryEfficiency>
+
+	<!--Rotting-->
+	<RotStateFresh>Fris</RotStateFresh>
+	<RotStateRotting>Verrot</RotStateRotting>
+	<RotStateDessicated>Uitgedroogd</RotStateDessicated>
+
+	<!-- Tooltip -->
+	<Carrying>Draagt</Carrying>
+	<ShotBy>Beschoten door {0}</ShotBy>
+	<CannotHit>Kan het doel niet raken.</CannotHit> 
+
+	<!-- Storage priority labels -->
+	<StoragePriorityUnstored>Niet opslaan</StoragePriorityUnstored>
+	<StoragePriorityLow>Laag</StoragePriorityLow>
+	<StoragePriorityNormal>Normaal</StoragePriorityNormal>
+	<StoragePriorityPreferred>Gewenst</StoragePriorityPreferred>
+	<StoragePriorityImportant>Belangrijk</StoragePriorityImportant>
+	<StoragePriorityCritical>Kritisch</StoragePriorityCritical>
+
+	<!-- Meal -->
+	<TimeToSpoil>Verrot in {0}</TimeToSpoil>
+	<Ingredients>Ingrdiënten</Ingredients>
+
+	<!-- Plants -->
+	<PercentGrowth>{0}% groei</PercentGrowth>
+	<Growing></Growing>
+	<NotGrowingNow>Groeit nu niet (moet {0} worden).</NotGrowingNow>
+	<HarvestableIn>Oogstbaar in {0} van groei.</HarvestableIn>
+	<FullyGrownIn>Volgroeit in {0} van groei.</FullyGrownIn>
+	<ReadyToHarvest>Klaar om te oogsten.</ReadyToHarvest>
+	<Mature>Rijp.</Mature>
+
+	<!-- Zones -->
+	<Zone>Zone</Zone>
+	<GrowingZone>Groei zone</GrowingZone>
+	<Stockpile>Opslagruimte</Stockpile>
+	<DumpingStockpile>Stortplaats</DumpingStockpile>
+	<SellingStockpile>Verkoop opslagruimte</SellingStockpile>
+	<Priority>Prioriteit</Priority>
+
+	<!-- General time stuff -->
+	<Days>dagen</Days>
+	<Seconds>seconden</Seconds>
+	
+	<!-- Mouseover indicator -->
+	<Undiscovered>Niet ontdekt</Undiscovered>
+
+	<!-- Buttons -->
+	<ZoneVisibilityToggleButton>Schakel de zichtbaarheid van de zones om.</ZoneVisibilityToggleButton>
+
+	<!-- Fire -->
+	<Fire>Brand</Fire>
+	<FireOn>Brand op {0}</FireOn>
+	<Burning>Brand</Burning>
+	<FireSizeLower>Vuurgrootte {0}</FireSizeLower>
+
+	<!-- Map conditions (eclipse, solar flare, etc )-->
+	<MapConditionsTip>Bijzondere omstandigheden die op dit moment de omgeving beïnvloeden.</MapConditionsTip>
+	<SolarFlare>Zonnevlam</SolarFlare>
+	<Eclipse>Zonsverduistering</Eclipse>	
+
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<NewColony>Nieuwe kolonie</NewColony>
+	<BackToGame>Terug naar het spel</BackToGame>
+	<Save>Opslaan</Save>
+	<Load>Laden</Load>
+	<Options>Opties</Options>
+	<Mods>Mods</Mods>
+	<Credits>Credits</Credits>
+	<QuitToMainMenu>Afsluiten naar het hoofdmenu</QuitToMainMenu>
+	<QuitToOS>Afsluiten naar OS</QuitToOS>
+	<FictionPrimer>Fictie Inleiding</FictionPrimer>
+	<LudeonBlog>Ludeon blog</LudeonBlog>
+	<Forums>Forums</Forums>
+	<OfficialWiki>Officiele wiki</OfficialWiki>
+	<TynansTwitter>Tynan's twitter</TynansTwitter>
+	<TynansDesignBook>Tynan's ontwerp boek</TynansDesignBook>
+
+	<BuildNowAvailable>Versie {0} is nu verkrijgbaar. Je zal het spel moeten updaten.</BuildNowAvailable>
+	<BuildUpToDate>Versie is actueel.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Fout bij het proberen om de versie te controleren: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Versie informatie laden...</LoadingVersionInfo>
+
+	<GetMods>Zoek mods</GetMods>
+	<ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitzetten? Het spel werkt niet tenzij je een andere mod hebt dat alle functionaliteiten overneemt.\n\nLet op, andere mods kunnen alle defs in de core mod overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
+	<Author>Auteur</Author>
+
+	<Gameplay>Gameplay</Gameplay>
+
+	<ChooseAIStoryteller>Kies een AI verteller</ChooseAIStoryteller>
+
+	<CreateCharacters>Personages maken</CreateCharacters>
+	<FirstNameDesc>Voornaam.\n\nDeze naam verschijnt alleen in sommige menu's.</FirstNameDesc>
+	<ShortIdentifierDesc>Bijnaam.\n\nDeze naam wordt altijd weergegeven. Het kan de eerste of laatste naam zijn, maar ook een geheel andere bijnaam.</ShortIdentifierDesc>
+	<LastNameDesc>Achternaam.\n\nDeze naam verschijnt alleen in sommige menu's.</LastNameDesc>
+	<Randomize>Willekeurig</Randomize>
+	<AgeIndicator>Leeftijd {0}</AgeIndicator>
+	<Backstory>Achtergrond</Backstory>
+	<IncapableOf>Niet in staat om</IncapableOf>
+	<Traits>Eigenschappen</Traits>
+	<TraitsDoNothing>De meeste vaardigheden hebben momenteel geen functie. Dit zal in de toekomst veranderen.</TraitsDoNothing>
+	<Skills>Vaardigheden</Skills>
+	<NoneLower>Niets</NoneLower>
+	<Adulthood>Volwassen leeftijd</Adulthood>
+	<Childhood>Kinderjaren</Childhood>
+	<Male>Mannelijk</Male>
+	<Female>Vrouwelijk</Female>
+
+	<Start>Start</Start>
+	<Advanced>Geavanceerd</Advanced>
+	<Next>Volgende</Next>
+	<Back>Terug</Back>
+
+	<ConfirmQuit>Wil je echt stoppen? Alle niet opgeslagen voortgang gaat verloren.</ConfirmQuit>
+	<EveryoneNeedsValidName>Elke personage heeft een geldige naam nodig.</EveryoneNeedsValidName>
+
+	<GeneratingWorld>Wereld aanmaken...</GeneratingWorld>
+
+</LanguageData>

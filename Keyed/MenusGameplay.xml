@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Dark>Donker</Dark>
+  <Lit>Verlicht</Lit>
+  <LitBrightly>Fel verlicht</LitBrightly>
+
+  <WorkTab>Werk</WorkTab>
+  <ManualPriorities>Handmatige prioriteiten</ManualPriorities>
+  <HigherPriority>Hogere prioriteit</HigherPriority>
+  <LowerPriority>Lagere prioriteit</LowerPriority>
+  <RelevantSkills>Relevante vaardigheden: {0}\nGemiddelde van relevante vaardigheden: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klik om te springen naar:</ClickToJumpTo>
+  <CannotDoThisWork>{0} kan dit werk niet doen.</CannotDoThisWork>
+  <NoneBrackets>(geen)</NoneBrackets>
+  
+  <FactionsTab>Facties</FactionsTab>
+  <Hostile>Vijandig</Hostile>
+  <HostileTo>Vijand van {0}</HostileTo>
+  <CurrentGoodwill>Huidige goede wil met deze factie (-100 to 100).</CurrentGoodwill>
+
+  <SkillMax>MAX</SkillMax>
+  
+</LanguageData>

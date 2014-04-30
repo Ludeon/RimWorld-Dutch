@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Niets</WorkTagNone>
+  <WorkTagIntellectual>Mentaal werk</WorkTagIntellectual>
+  <WorkTagManualDumb>Eenvoudig werk</WorkTagManualDumb>
+  <WorkTagManualSkilled>Vakkundig werk</WorkTagManualSkilled>
+  <WorkTagViolent>Geweld</WorkTagViolent>
+  <WorkTagCaring>Verzorgen</WorkTagCaring>
+  <WorkTagSocial>Sociaal</WorkTagSocial>
+  <WorkTagScary>Angstaanjagend</WorkTagScary>
+  <WorkTagArtistic>Kunst</WorkTagArtistic>
+  <WorkTagCrafting>Steenhouwen</WorkTagCrafting>
+  <WorkTagCooking>Koken</WorkTagCooking>
+  <WorkTagFirefighting>Brand blussen</WorkTagFirefighting>
+  <WorkTagCleaning>Schoon maken</WorkTagCleaning>
+  <WorkTagHauling>Dragen</WorkTagHauling>
+  <WorkTagPlantWork>Landbouw</WorkTagPlantWork>
+  <WorkTagMining>Delven</WorkTagMining>
+
+</LanguageData>

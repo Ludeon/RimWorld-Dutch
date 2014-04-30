@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ConceptText_MoveCamera>Beweeg de kamera door de MIDDELSTE MUISKNOP (scroll wieltje) in te drukken en te slepen, of door de WASD toetsen te gebruiken.</ConceptText_MoveCamera>
+
+  <ConceptText_RescueColonist>Om een gewonde kolonist te redden, selecteer een gezonde kolonist en klik met de rechter muisknop op de gewonde kolonist.</ConceptText_RescueColonist>
+
+  <ConceptText_Capture1>Een vijand is bewusteloos geraakt. Je kan hem gevangen nemen!</ConceptText_Capture1>
+  <ConceptText_Capture2>Om een vijand gevangen te nemen, selecteer een kolonist, klik met de rechter muisknop op de bewustelose vijand en selecteer Gevangen nemen.\n\nJe hebt een bed nodig die gemarkeerd is voor gevangenen.</ConceptText_Capture2>
+
+  <ConceptText_Draft1>Om kolonisten militaire opdrachten te geven in gevechten, selecteer een kolonist en klik de Trek wapen knop.</ConceptText_Draft1>
+  <ConceptText_Draft2>Een kolonist met getrokken wapen doet alleen wat je hem vertelt hebt en kan alleen militaire acties ondernemen. Als de kolonist een wapen heeft, kan deze worden gebruikt.\n\nDetacheer je kolonisten niet te lang - ze worden zonder eten en drinken niet erg blij.</ConceptText_Draft2>
+
+   <ConceptText_Forbid>Kolonisten zullen niet aan voorwerpen gemarkeerd met VERBODEN komen.\n\nSelecteer het eten en metaal bij je landingsplaats en druk op F om het VERBOD op te heffen.</ConceptText_Forbid>
+
+  <ConceptText_BillsTab>Om kolonisten aan een werkbank te laten werken, selecteer de werkbank en open het Werkopdrachten menu. Hier kan jij aangeven welke maaltijden er gekookt moeten worden, wat er gemaakt moet worden en welke dieren er geslacht moeten worden.</ConceptText_BillsTab>
+
+  <ConceptText_GrowingFood>Om voedsel te verbouwen, plaats een LANDBOUW zone door het Architect menu te gebruiken.\n\nZe kunnen alleen geplaatst worden op vruchtbare grond.</ConceptText_GrowingFood>
+
+  <ConceptText_BuildOrbitalTradeBeacon>Hint:\n\nOm voorwerpen of zilver naar orbitale handelaren te sturen, moet je een ORBITALE HANDELSBAKEN buiten plaatsen en een opslagruimte bij aanmaken.</ConceptText_BuildOrbitalTradeBeacon>
+
+  <ConceptText_ReadingAlerts>Als je even niet meer weet wat je moet doen, kijk even of er nog MELDINGEN zijn aan de rechter kant van het scherm..</ConceptText_ReadingAlerts>
+
+  <ConceptText_CameraZoom>Zoom in en uit met de muiswiel of de T en G toetsen.</ConceptText_CameraZoom>
+
+  <ConceptText_TimeControls>Je kan het spel versnellen, vertragen of pauzeren met de snelheidsknoppen rechts onderin het scherm.</ConceptText_TimeControls>
+
+  <ConceptText_PrisonerTab>Kijk in de tab 'Gevangene' van je gevangenen om in te stellen hoe ze behandeld moeten worden.\n\nJe zal een kolonist met de Bewaker werk type moeten hebben om de gevangenen te behandelen.</ConceptText_PrisonerTab>
+
+  <ConceptText_Mining>Je kan aangeven waar er gedolven moet worden met het Architect Menu.\n\nHet delven van mineralen levert metaal op.\n\nHet delven van steen levert niets op.</ConceptText_Mining>
+
+  <ConceptText_WorkOverview1>Je kan de werktaken van elke kolonist instellen met het OVERZICHT menu rechts onderin het scherm.\n\nZe zullen altijd het werk met de hoogste prioriteit doen dat ze kunnen vinden.</ConceptText_WorkOverview1>
+  <ConceptText_WorkOverview2>Kolonisten zullen geen werk doen wat niet is geselecteerd voor ze.\n\nAls niemand een werk type is aangewezen, zal het nooit gedaan worden!</ConceptText_WorkOverview2>
+
+  <ConceptText_EquippingWeapons>Om je kolonist een wapen te laten gebruiken, selecteer de kolonist en klik met de rechter muisknop op een wapen.\n\nEr liggen wapens op de grond vlak bij je landingsplaats.</ConceptText_EquippingWeapons>
+
+  <ConceptText_HomeRegion>Een regio gemarkeerd als THUIS REGIO vertelt je kolonisten waar ze moeten schoonmaken en branden blussen.\n\nLeg een THUIS REGIO aan met de Regio catagorie in het Architect menu.</ConceptText_HomeRegion>
+
+  <ConceptText_StorageTabCategories>In de opslag tab kan je catagorieen openklappen om specifieke voorwerpen wel of niet toe te staan. Selecteer de driehoeken links van de catagorieen om ze open te klappen.</ConceptText_StorageTabCategories>
+
+  <ConceptText_StorageTab>Je kan de opslag zones en ruimtes configureren door ze te selecteren en de OPSLAG tab in het inspectie paneel te selecteren.</ConceptText_StorageTab>
+
+  <ConceptText_SpacePause>Hit de SPATIEBALK om het spel te pauzeren of door te laten gaan.\n\nJe kan opdrachten geven terwijl het spel gepauzeert is.\n\nOnthoud dit - als het spel te hectisch wordt, druk gewoon op de SPATIEBALK!</ConceptText_SpacePause>
+
+  <ConceptText_RightClickClearLetter>Je kan berichten snel verwijderen door er met de rechter muisknop op te klikken.</ConceptText_RightClickClearLetter>
+
+  <ConceptText_OpeningComms>Om te communiceren, selecteer een kolonist en klik met de rechter muisknop op de communicatie console.</ConceptText_OpeningComms>
+
+  <ConceptText_StoragePriority>Je kan de PRIORITEIT van de opslagplaatsen veranderen. Kolonisten vullen opslagplaatsen met een hogere prioriteit eerst.</ConceptText_StoragePriority>
+
+  <ConceptText_Wiki>Je kan informatie opzoeken op de WIKI pagina.\n\nGebuik de WIKI link rechts onderin het scherm.\n\nLET OP: de wiki is in het Engels.</ConceptText_Wiki>
+
+  <ConceptText_TradeGoodsMustBeNearBeacon>Je kan alleen voorwerpen verkopen die vlakbij (of op) een orbitale handels baken en niet onder een dak liggen.</ConceptText_TradeGoodsMustBeNearBeacon>
+   
+</LanguageData>

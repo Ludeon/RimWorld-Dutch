@@ -1,0 +1,10 @@
+TODO:
+
+	Files to be translated:
+
+		->ConceptDefs
+		->Credits
+		->Designators
+		->NoEffectTraits
+
+

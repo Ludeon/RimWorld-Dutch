@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>De {0} vertegenwoordiger slingert enkele scheldwoorden naar het beeldscherm en sluit af.</FactionGreetingHostile>
+  <FactionGreetingWary>De {0} vertegenwoordiger groet {1} behoedzaam en vraagt wat hij wilt.</FactionGreetingWary>
+  <FactionGreetingWarm>De {0} vertegenwoordiger groet {1} van harte en vraagt hoe het in de kolonie gaat.</FactionGreetingWarm>
+
+  <Disconnect>Afsluiten</Disconnect>
+
+  <OfferGift>Bied gift aan</OfferGift>
+  <NeedSilverLaunchable>{0} zilver verstuurbaar nodig</NeedSilverLaunchable>
+  <NotEnoughSilver>Niet genoeg zilver.</NotEnoughSilver>
+  <SilverForGoodwill>{0} zilver voor {1} goede wil</SilverForGoodwill>
+  <SilverGiftSent>De {0} vertegenwoordiger bedankt jou.\n\n(Goede wil verbeterd met {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>Verzoek militaire hulp ({0} goede wil)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} wil niet met facties vechten waarmee ze vrienden zijn. Dit is inclusief facties die jou bedreigen, {1}. Wil je nog steeds om hulp vragen?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Ja, stuur ze toch.</CallConfirm>
+  <CallCancel>Nee, laat maar zitten.</CallCancel>
+  <MilitaryAidSent>De {0} vertegenwoordiger stemt ermee in om strijders te sturen om je te helpen.</MilitaryAidSent>
+  
+  
+</LanguageData>

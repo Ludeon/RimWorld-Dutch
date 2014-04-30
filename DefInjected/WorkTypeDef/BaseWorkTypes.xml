@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Research.pawnLabel>Onderzoeker</Research.pawnLabel>
+	<Research.gerundLabel>Onderzoeken</Research.gerundLabel>
+	<Research.verb>Onderzoekt</Research.verb>
+	<Research.tooltipDesc>Onderzoeker onderzoekt dingen.</Research.tooltipDesc>
+	
+	<Cleaning.pawnLabel>Schoonmaker</Cleaning.pawnLabel>
+	<Cleaning.gerundLabel>Schoon maken</Cleaning.gerundLabel>
+	<Cleaning.verb>Maakt schoon</Cleaning.verb>
+	<Cleaning.tooltipDesc>Schoonmakers ruimen gemoste vloeistoffen op en vegen het puin in aangewezen Thuis regios, waardoor het leuker wordt om in de kolonie te wonen.</Cleaning.tooltipDesc>
+	
+	<Hauling.pawnLabel>Drager</Hauling.pawnLabel>
+	<Hauling.gerundLabel>Dragen</Hauling.gerundLabel>
+	<Hauling.verb>Draagt</Hauling.verb>
+	<Hauling.tooltipDesc>Dragers dragen voorwerpen van A naar Beter.</Hauling.tooltipDesc>
+	
+    <Art.pawnLabel>Kunstenaar</Art.pawnLabel>
+    <Art.gerundLabel>Maakt kunst</Art.gerundLabel>
+    <Art.verb>Is creatief</Art.verb>
+    <Art.tooltipDesc>Kunstenaars maken prachtige kunst.</Art.tooltipDesc>
+	
+	<Crafting.pawnLabel>Steenhouwer</Crafting.pawnLabel>
+	<Crafting.gerundLabel>Bewerken</Crafting.gerundLabel>
+	<Crafting.verb>Bewerkt</Crafting.verb>
+	<Crafting.tooltipDesc>Steenhouwers maken stenen blokken van ruwe steen.</Crafting.tooltipDesc>
+	
+	<PlantCutting.pawnLabel>Planten snijder</PlantCutting.pawnLabel>
+	<PlantCutting.gerundLabel>Planten snijden</PlantCutting.gerundLabel>
+	<PlantCutting.verb>Snijdt planten</PlantCutting.verb>
+	<PlantCutting.tooltipDesc>Planten snijders snijden en oogsten planten die daarvoor gemarkeerd zijn.</PlantCutting.tooltipDesc>
+	
+	<Growing.pawnLabel>Landbouwer</Growing.pawnLabel>
+	<Growing.gerundLabel>Zaaien</Growing.gerundLabel>
+	<Growing.verb>Zaait</Growing.verb>
+	<Growing.tooltipDesc>Landbouwers planten zaden en oogsten groenten.</Growing.tooltipDesc>
+	
+	<Mining.pawnLabel>Mijnwerker</Mining.pawnLabel>
+	<Mining.gerundLabel>Delven</Mining.gerundLabel>
+	<Mining.verb>Delft</Mining.verb>
+	<Mining.tooltipDesc>Mijnwerkers delven velden uit die je daarvoor hebt aangewezen. Als dit velden zijn met mineralen krijg je er bruikbare metalen voor terug.</Mining.tooltipDesc>
+	
+	<Repair.pawnLabel>Reperateur</Repair.pawnLabel>
+	<Repair.gerundLabel>Repareren</Repair.gerundLabel>
+	<Repair.verb>Repareert</Repair.verb>
+	<Repair.tooltipDesc>Reperateuren repareren gebouwen en voorwerpen.</Repair.tooltipDesc>
+	
+	<Construction.pawnLabel>Timmerman</Construction.pawnLabel>
+	<Construction.gerundLabel>Bouwen</Construction.gerundLabel>
+	<Construction.verb>Bouwt</Construction.verb>
+	<Construction.tooltipDesc>Timmermannen bouwen je kolonie op.</Construction.tooltipDesc>
+	
+	<Hunting.pawnLabel>Jager</Hunting.pawnLabel>
+	<Hunting.gerundLabel>Jagen</Hunting.gerundLabel>
+	<Hunting.verb>Jaagt</Hunting.verb>
+	<Hunting.tooltipDesc>Jagers jagen op dieren die aangewezen zijn voor de jacht.</Hunting.tooltipDesc>
+	
+	<Cooking.pawnLabel>Kok</Cooking.pawnLabel>
+	<Cooking.gerundLabel>Koken</Cooking.gerundLabel>
+	<Cooking.verb>Kookt</Cooking.verb>
+	<Cooking.tooltipDesc>Koks vullen voedingsstoffen pasta automaten aan en koken maaltijden.</Cooking.tooltipDesc>
+	
+	<Warden.pawnLabel>Bewaker</Warden.pawnLabel>
+	<Warden.gerundLabel>Bewaken</Warden.gerundLabel>
+	<Warden.verb>Bewaakt</Warden.verb>
+	<Warden.tooltipDesc>Bewakers bezoeken gevangenen om ze te rekuteren, een praatje te houden, te slaan, of te doden - wat jij ze ook vertelt. Ze leveren ook voedsel aan gevangenen.</Warden.tooltipDesc>
+
+	<Doctor.pawnLabel>Dokter</Doctor.pawnLabel>
+	<Doctor.gerundLabel>Genezen</Doctor.gerundLabel>
+	<Doctor.verb>Geneest</Doctor.verb>
+	<Doctor.tooltipDesc>De dokter brengt voedsel naar zij die zelf niet kunnen lopen. Zowel voor kolonisten als gevangenen.</Doctor.tooltipDesc>
+	
+	<Firefighter.pawnLabel>Brandweerman</Firefighter.pawnLabel>
+	<Firefighter.gerundLabel>Blussen</Firefighter.gerundLabel>
+	<Firefighter.verb>Blust</Firefighter.verb>
+	<Firefighter.tooltipDesc>Brandweermannen blussen branden in de kolonie.</Firefighter.tooltipDesc>
+
+</LanguageData>

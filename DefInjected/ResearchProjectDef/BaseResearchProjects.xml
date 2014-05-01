@@ -13,7 +13,7 @@
 	<NutrientResynthesis.label>Nutrient Resynthesis</NutrientResynthesis.label>
 	<NutrientResynthesis.description>Voedingsstoffen pasta automaten verbruiken 10% minder voedsel per geproduceerde maaltijd.</NutrientResynthesis.description>
 	
-	<GunTurretCooling.label>Kanon geschut verkoelen</GunTurretCooling.label>
+	<GunTurretCooling.label>Kanon geschut afkoelen</GunTurretCooling.label>
 	<GunTurretCooling.description>Kanonnen schieten nu 4 keer in plaats van 3 keer per ronde.</GunTurretCooling.description>
 	
 	<CarpetMaking.label>Tapijt maken</CarpetMaking.label>

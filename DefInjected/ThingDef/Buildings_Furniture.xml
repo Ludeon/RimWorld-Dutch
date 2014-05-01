@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<SleepingSpot.Label>Slaap plek</SleepingSpot.Label>
-	<SleepingSpot.Description>Markeert een plek op de grond waar mensen kunnen slapen. Heel erg oncomfortabel. Efficientie: 8/10</SleepingSpot.Description>
+	<SleepingSpot.label>Slaap plek</SleepingSpot.label>
+	<SleepingSpot.description>Markeert een plek op de grond waar mensen kunnen slapen. Heel erg oncomfortabel. Efficientie: 8/10</SleepingSpot.description>
 
-	<Bed.Label>Bed</Bed.Label>
-	<Bed.Description>Een comfortabel matras met lakens en een frame om op te slapen. Efficientie: 10/10</Bed.Description>
+	<Bed.label>Bed</Bed.label>
+	<Bed.description>Een comfortabel matras met lakens en een frame om op te slapen. Efficientie: 10/10</Bed.description>
 
-	<TableButcher.Label>Slagerstafel</TableButcher.Label>
-	<TableButcher.Description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.Description>
+	<TableButcher.label>Slagers tafel</TableButcher.label>
+	<TableButcher.description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.description>
 	
-	<CookStove.Label>Kookeiland</CookStove.Label>
-	<CookStove.Description>Een kookeiland met aanrecht om maaltijden te maken van simpele ingrediënten.</CookStove.Description>
+	<CookStove.label>Kookeiland</CookStove.label>
+	<CookStove.description>Een kookeiland met aanrecht om maaltijden te maken van simpele ingrediënten.</CookStove.description>
 	
-	<TableStonecutter.Label>Steenhouwerstafel</TableStonecutter.Label>
-	<TableStonecutter.Description>Een tafel waar de steenhouwer stenen puin in stenen blokken kan verwerken.</TableStonecutter.Description>
+	<TableStonecutter.label>Steenhouwers tafel</TableStonecutter.label>
+	<TableStonecutter.description>Een tafel waar de steenhouwer stenen puin in stenen blokken kan verwerken.</TableStonecutter.description>
 	
 	<HydroponicsBasin.label>hydrocultuur basin</HydroponicsBasin.label>
 	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
@@ -22,13 +22,13 @@
 	<PlantPot.label>Bloemenpot</PlantPot.label>
 	<PlantPot.description>Hierin kunnen decorative planten geplant worden.</PlantPot.description>
 	
-	<ResearchBench.label>Onderzoekstafel</ResearchBench.label>
+	<ResearchBench.label>Onderzoeks tafel</ResearchBench.label>
 	<ResearchBench.description>Onderzoekers werken hier aan om ontdekkingen te doen.</ResearchBench.description>
 	
 	<EquipmentRack.label>Wapenrek</EquipmentRack.label>
 	<EquipmentRack.description>Hier kan je wapens in opslaan.</EquipmentRack.description>
 	
-	<OrbitalTradeBeacon.label>Orbitale handelsbaken</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.label>Orbitale handels baken</OrbitalTradeBeacon.label>
 	<OrbitalTradeBeacon.description>Nodig om te handelen met ruimteschepen. Je kan goederen alleen verkopen als ze in de buurt van het baken zijn opgeslagen. Er mag geen dak boven het baken zijn. Ruimte handelaren droppen ook hun goederen hier naast.</OrbitalTradeBeacon.description>
 	
 	<Chair.label>Stoel</Chair.label>

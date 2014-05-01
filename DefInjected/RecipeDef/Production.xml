@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MakeStoneBlocks.label>Maakt stenen blokken</MakeStoneBlocks.label>
+	<MakeStoneBlocks.description>Hakt stenen puin in bruikbare stenen blokken.</MakeStoneBlocks.description>
+	<MakeStoneBlocks.jobString>Steenhouwer.</MakeStoneBlocks.jobString>
+	
+</LanguageData>

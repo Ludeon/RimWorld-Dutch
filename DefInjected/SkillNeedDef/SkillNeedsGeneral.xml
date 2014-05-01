@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<CookTime.description>Kookt maaltijden in {0}% van de normale tijd.</CookTime.description>
+	<ButcheryTime.description>Slacht in {0}% van de normale tijd.</ButcheryTime.description>
+	<ButcheryEfficiency.description>Produceert {0}% van de normale hoeveelheid vlees tijdens het slachten.</ButcheryEfficiency.description>
+	
+	<StonecuttingTime.description>Hakt steen in {0}% van de normale tijd.</StonecuttingTime.description>
+	<StonecuttingEfficiency.description>Produceert {0}% van de normale hoeveelheid stenen blokken tijdens het steen hakken.</StonecuttingEfficiency.description>
+	
+	<MiningSpeed.description>Delft met {0}% snelheid.</MiningSpeed.description>
+	<ResearchSpeed.description>Onderzoekt met {0}% snelheid.</ResearchSpeed.description>
+	<ConstructionSpeed.description>Bouwt en repareert met {0}% snelheid.</ConstructionSpeed.description>
+	<SowingHarvestingSpeed.description>Zaait en oogst planten met {0}% snelheid.</SowingHarvestingSpeed.description>
+	
+	<SocialImpact.description>Sociale interacties hebben {0}% invloed op de stemming.</SocialImpact.description>
+	<GiftImpact.description>Geschenken hebben {0}% invloed op de factie relaties.</GiftImpact.description>
+	<RecruitChance.description>{0}% kans om een ​​gevangene te rekruteren in de beste situatie.</RecruitChance.description>
+	<TradePriceImprovement.description>Handelsprijzen zijn {0}% beter bij aan- en verkoop.</TradePriceImprovement.description>
+	
+	<ShootingAccuracy.description>{0}% miskans per veld vanaf de schutter naar het doel.</ShootingAccuracy.description>
+	<MeleeHitChance.description>{0}% kans om te raken in melee.</MeleeHitChance.description>
+	
+</LanguageData>

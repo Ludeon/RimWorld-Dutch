@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+		<Construction.skillLabel>Aanleg</Construction.skillLabel>
+		<Construction.pawnLabel>Timmerman</Construction.pawnLabel>
+	
+		<Growing.skillLabel>Landbouw</Growing.skillLabel>
+		<Growing.pawnLabel>Boer</Growing.pawnLabel>
+	
+		<Research.skillLabel>Onderzoek</Research.skillLabel>
+		<Research.pawnLabel>Onderzoeker</Research.pawnLabel>
+	
+		<Mining.skillLabel>Delven</Mining.skillLabel>
+		<Mining.pawnLabel>Mijnwerker</Mining.pawnLabel>
+	
+		<Shooting.skillLabel>Schieten</Shooting.skillLabel>
+		<Shooting.pawnLabel>Schutter</Shooting.pawnLabel>
+	
+		<Melee.skillLabel>Melee</Melee.skillLabel>
+		<Melee.pawnLabel>Vechter</Melee.pawnLabel>
+	
+		<Social.skillLabel>Maatschappelijk</Social.skillLabel>
+		<Social.pawnLabel>Maatschappelijkwerker</Social.pawnLabel>
+	
+		<Cooking.skillLabel>Koken</Cooking.skillLabel>
+		<Cooking.pawnLabel>Kok</Cooking.pawnLabel>
+	
+		<Medicine.skillLabel>Medicatie</Medicine.skillLabel>
+		<Medicine.pawnLabel>Dokter</Medicine.pawnLabel>
+	
+		<Artistic.skillLabel>Kunst</Artistic.skillLabel>
+		<Artistic.pawnLabel>Kunstenaar</Artistic.pawnLabel>
+	
+		<Crafting.skillLabel>Knutselen</Crafting.skillLabel>
+		<Crafting.pawnLabel>Hobbyist</Crafting.pawnLabel>
+	
+</LanguageData>

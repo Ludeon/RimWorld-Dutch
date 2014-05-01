@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Root.label>Wortel</Root.label>
+	<Resources.label>Grondstoffen</Resources.label>
+	
+	<Foods.label>Voedsel</Foods.label>
+	<FoodMeals.label>maaltijden</FoodMeals.label>
+	<FoodRaw.label>Rauw</FoodRaw.label>
+	<MeatRaw.label>Vlees</MeatRaw.label>
+	
+	<PlantFoodRaw.label>Vegetarisch</PlantFoodRaw.label>
+	<Manufactured.label>Vervaardigd</Manufactured.label>
+	<ResourcesRaw.label>Rauwe grondstoffen</ResourcesRaw.label>
+	
+	<Weapons.label>Wapen</Weapons.label>
+	
+	<Debris.label>Puin</Debris.label>
+	
+	<Corpses.label>Lijken</Corpses.label>
+	<CorpsesHumanoid.label>Mensenlijken</CorpsesHumanoid.label>
+	<CorpsesAnimal.label>Dierenlijken</CorpsesAnimal.label>
+	<CorpsesMechanoid.label>Mechanoidlijken</CorpsesMechanoid.label>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Orders.label>Opdrachten</Orders.label>
+    <Orders.description>Markeer specifieke opdrachten met specifieke voorwerpen, dieren, enz.</Orders.description>
+	
+	<Zone.label>Zone</Zone.label>
+    <Zone.description>Markeer zones waar kolonisten verschillende activiteiten uitvoeren.</Zone.description>
+	
+	<Structure.label>Constructie</Structure.label>
+    <Structure.description>Constructies zoals muren en stroom kabels.</Structure.description>
+	
+	<Floors.label>Vloeren</Floors.label>
+    <Floors.description>Vloeren.</Floors.description>
+	
+	<Building.label>Gebouwen</Building.label>
+    <Building.description>Grote gebouwen.</Building.description>
+	
+	<Furniture.label>Meubels</Furniture.label>
+    <Furniture.description>Meubels en werktafels.</Furniture.description>
+	
+	<Security.label>Veligheid</Security.label>
+    <Security.description>Veiligheid en gevechts georiënteerde constructies.</Security.description>
+
+</LanguageData>

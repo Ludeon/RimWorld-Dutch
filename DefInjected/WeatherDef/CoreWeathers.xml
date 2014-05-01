@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Clear.label>Helder</Clear.label>
+	<Clear.description>Een heldere dag. Niet positief of negatief.</Clear.description>
+	<Fog.label>Mist</Fog.label>
+	<Fog.description>Mist verminderd de kans om te raken met wapens.</Fog.description>
+	<Rain.label>Regen</Rain.label>
+	<Rain.description>Regen verminderd de kans om te raken met wapens, blust brandjes en vertraagt mensen.</Rain.description>
+	<DryThunderstorm.label>Onweer, droog</DryThunderstorm.label>
+	<DryThunderstorm.description>Droge onweer is gevaarlijk omdat de bliksem branden kan beginnen en er geen regen is om ze te blussen.</DryThunderstorm.description>
+	<RainyThunderstorm.label>Onweer met regen</RainyThunderstorm.label>
+	<RainyThunderstorm.description>De bliksem start branden, maar de regen blust ze. De regen vertraagt de bewegingssnelheid van mensen en verminderd de kans om te raken met wapens.</RainyThunderstorm.description>
+	<FoggyRain.label>Mist, regen</FoggyRain.label>
+	<FoggyRain.description>Verminderd raak kans met wapens en bewegingssnelheid.</FoggyRain.description>
+	
+</LanguageData>

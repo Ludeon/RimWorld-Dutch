@@ -25,8 +25,8 @@
   <ZoneNameIsInvalid>Voer een geldige naam in.</ZoneNameIsInvalid>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Save game incompatibility</SaveGameIncompatibleWarningTitle>
+  <SaveGameIncompatibleWarningText>Versie klopt niet: Kaart is opgeslagen met game-versie {0}, we lopen versie {1}.\n\nDit spel laden zal waarschijnlijk fouten en crashes veroorzaken.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Save game onverenigbaarheid</SaveGameIncompatibleWarningTitle>
 
   <!-- Resolution change dialog -->
   <ConfirmResolutionChange>Je hebt de resolutie aangepast. Werkt de nieuwe resolutie goed?\n\nAutomatische terugzetting in {0}...</ConfirmResolutionChange>
@@ -74,7 +74,7 @@
   <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
   
   <!--Other-->
-  <ResearchFinished>Forschung fertig: {0}</ResearchFinished>
-  <ResearchScreen>Forschungsmenü</ResearchScreen>  
+  <ResearchFinished>Onderzoek klaar: {0}</ResearchFinished>
+  <ResearchScreen>Onderzoek scherm</ResearchScreen>  
   
 </LanguageData>

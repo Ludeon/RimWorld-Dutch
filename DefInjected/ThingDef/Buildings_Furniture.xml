@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<SleepingSpot.label>Schlafstelle</SleepingSpot.label>
-	<SleepingSpot.description>Markiert eine Stelle auf dem Boden, wo die Leute schlafen können. Nicht sonderlich bequem. Ausruh-Effektivität: 8/10</SleepingSpot.description>
+	<SleepingSpot.Label>Slaap plek</SleepingSpot.Label>
+	<SleepingSpot.Description>Markeert een plek op de grond waar mensen kunnen slapen. Heel erg oncomfortabel. Efficientie: 8/10</SleepingSpot.Description>
 
-	<Bed.label>Bett</Bed.label>
-	<Bed.description>Eine gemütliche Matratze mit Bettwäsche auf einen Rahmen. Ein guter Ort zum Ausruhen. Ausruh-Effektivität: 10/10</Bed.description>
+	<Bed.Label>Bed</Bed.Label>
+	<Bed.Description>Een comfortabel matras met lakens en een frame om op te slapen. Efficientie: 10/10</Bed.Description>
 
-	<TableButcher.label>Schlachttisch</TableButcher.label>
-	<TableButcher.description>Ein schwerer Tisch, auf dem tote Tiere zu rohem Fleisch verarbeitet werden.</TableButcher.description>
+	<TableButcher.Label>Slagerstafel</TableButcher.Label>
+	<TableButcher.Description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.Description>
 	
-	<CookStove.label>Kochherd</CookStove.label>
-	<CookStove.description>Ein einfacher Herd und Arbeitsplatten für die Zubereitung von Mahlzeiten aus einfachen Zutaten.</CookStove.description>
+	<CookStove.Label>Kookeiland</CookStove.Label>
+	<CookStove.Description>Een kookeiland met aanrecht om maaltijden te maken van simpele ingrediënten.</CookStove.Description>
 	
-	<TableStonecutter.label>Steinmetz Tisch</TableStonecutter.label>
-	<TableStonecutter.description>Ein Tisch, auf dem man Geröll in nutzbare Steinblöcke verarbeiten kann.</TableStonecutter.description>
+	<TableStonecutter.Label>Steenhouwerstafel</TableStonecutter.Label>
+	<TableStonecutter.Description>Een tafel waar de steenhouwer stenen puin in stenen blokken kan verwerken.</TableStonecutter.Description>
 	
-	<HydroponicsBasin.label>Hydrokultur Becken</HydroponicsBasin.label>
-	<HydroponicsBasin.description>Um Nahrung auch im Gebäude anzubauen. In Hydrokultur Becken kann man schnell ein wenig Nahrung anbauen.</HydroponicsBasin.description>
+	<HydroponicsBasin.label>hydrocultuur basin</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
 	
-	<PlantPot.label>Blumentopf</PlantPot.label>
-	<PlantPot.description>Hier kann man dekorative Pflanzen anpflanzen.</PlantPot.description>
+	<PlantPot.label>Bloemenpot</PlantPot.label>
+	<PlantPot.description>Hierin kunnen decorative planten geplant worden.</PlantPot.description>
 	
-	<ResearchBench.label>Forschungs- Tisch</ResearchBench.label>
-	<ResearchBench.description>Forscher arbeiten hier um neue Sachen zu entdecken.</ResearchBench.description>
+	<ResearchBench.label>Onderzoekstafel</ResearchBench.label>
+	<ResearchBench.description>Onderzoekers werken hier aan om ontdekkingen te doen.</ResearchBench.description>
 	
-	<EquipmentRack.label>Regal</EquipmentRack.label>
-	<EquipmentRack.description>Hier wird die Ausrüstung gelagert.</EquipmentRack.description>
-
-	<OrbitalTradeBeacon.label>Orbitales Funkfeuer</OrbitalTradeBeacon.label>
-	<OrbitalTradeBeacon.description>Für Orbital Handel benötigt. Du kannst nur Waren verkaufen, die in der Nähe des Funkfeuers und nicht unter einem Dach sind. Orbital Händler lassen hier ihre Waren fallen.</OrbitalTradeBeacon.description>
+	<EquipmentRack.label>Wapenrek</EquipmentRack.label>
+	<EquipmentRack.description>Hier kan je wapens in opslaan.</EquipmentRack.description>
 	
-	<Chair.label>Stuhl</Chair.label>
-	<Chair.description>Leute sitzen hier.</Chair.description>
+	<OrbitalTradeBeacon.label>Orbitale handelsbaken</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.description>Nodig om te handelen met ruimteschepen. Je kan goederen alleen verkopen als ze in de buurt van het baken zijn opgeslagen. Er mag geen dak boven het baken zijn. Ruimte handelaren droppen ook hun goederen hier naast.</OrbitalTradeBeacon.description>
 	
-	<TableShort.label>Tisch (klein)</TableShort.label>
-	<TableShort.description>Leute essen hier, wenn Stühle am Tisch stehen.</TableShort.description>
+	<Chair.label>Stoel</Chair.label>
+	<Chair.description>Een plek om te zitten.</Chair.description>
 	
-	<TableLong.label>Tisch (groß)</TableLong.label>
-	<TableLong.description>Leute essen hier, wenn Stühle am Tisch stehen.</TableLong.description>
+	<TableShort.label>Tafel (klein)</TableShort.label>
+	<TableShort.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort.description>
 	
-	<StandingLamp.label>Stehlampe</StandingLamp.label>
-	<StandingLamp.description>Stehlampe die eine Fläche beleuchtet.</StandingLamp.description>
+	<TableLong.label>Tafel (groot)</TableLong.label>
+	<TableLong.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong.description>
 	
-	<SunLamp.label>Sonnen- Lampe</SunLamp.label>
-	<SunLamp.description>Beleuchtet eine Fläche hell genug, damit Pflanzen wachsen.</SunLamp.description>
+	<StandingLamp.label>Staande lamp</StandingLamp.label>
+	<StandingLamp.description>De staande lamp verlicht een ruimte.</StandingLamp.description>
+	
+	<SunLamp.label>Zonnelamp</SunLamp.label>
+	<SunLamp.description>Verlicht een ruimte genoeg om gewassen te laten groeien.</SunLamp.description>
 	
 </LanguageData>

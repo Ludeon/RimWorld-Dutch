@@ -14,41 +14,34 @@
   -->
 
 	
-	<Silver.label>Silber</Silver.label>
-	<Silver.description>Hat eigentlich nur einen Nutzen: Handel.</Silver.description>
-	<Metal.label>Metall</Metal.label>
-	<Metal.description>Zum Bauen von Gebäuden benötigt.</Metal.description>
-	<StoneBlocks.label>Steinblöcke</StoneBlocks.label>
-	<StoneBlocks.description>Zum Bauen von Gebäuden benötigt.</StoneBlocks.description>
+	<Silver.label>Zilver</Silver.label>
+	<Silver.description>Heeft maar een doel: Handel.</Silver.description>
+	<Metal.label>Metaal</Metal.label>
+	<Metal.description>Nodig voor het maken van gebouwen.</Metal.description>
+	<StoneBlocks.label>Steenblokken</StoneBlocks.label>
+	<StoneBlocks.description>Nodig voor het maken van gebouwen.</StoneBlocks.description>
 	
-	<RawPotatoes.label>Kartoffeln</RawPotatoes.label>
-	<RawPotatoes.description>Rohe Kartoffeln.</RawPotatoes.description>
+	<RawPotatoes.label>Aardappelen</RawPotatoes.label>
+	<RawPotatoes.description>Rauwe aardappelen.</RawPotatoes.description>
 	
-	<RawBerries.label>Beeren</RawBerries.label>
-	<RawBerries.description>Verschiedene Beeren. Sind auch roh lecker.</RawBerries.description>
+	<RawBerries.label>Bessen</RawBerries.label>
+	<RawBerries.description>Rauwe bessen.</RawBerries.description>
 	
-	<RawAgave.label>Agavefrüchte</RawAgave.label>	
-	<RawAgave.description>Rohe Früchte der Agave.</RawAgave.description>
+	<RawAgave.label>Agave</RawAgave.label>
+	<RawAgave.description>Rauwe agave.</RawAgave.description>
 	
+	<!--=============== UNUSED ====================-->
 	
+	<Uranium.label>Uranium</Uranium.label>
+	<Uranium.description>Voorziet reaktoren van energie.</Uranium.description>
 	
-  <!--=============== UNUSED ====================-->
+	<Medicine.label>Medicijnen</Medicine.label>
+	<Medicine.description>Doktoren gebruiken medicatie om de gewonden te genezen.</Medicine.description>
 	
-	<Uranium.label>Uran</Uranium.label>
-    <Uranium.description>Befeuert Reaktoren.</Uranium.description>
+	<Shells.label>Kogelhulsen</Shells.label>
+	<Shells.description>Afgevuurd door kanonnen.</Shells.description>
 	
-	<Medicine.label>Medizin</Medicine.label>
-    <Medicine.description>Ärzte verwenden Medizin zum Heilen.</Medicine.description>
-	
-	<Shells.label>Patronen</Shells.label>
-    <Shells.description>Kanonen schießen damit.</Shells.description>
-	
-	<Missiles.label>Raketen</Missiles.label>
-    <Missiles.description>Wird von Raketenwerfern abgefeuert.</Missiles.description>
-	
-	
-	
-	
-	
-	
+	<Missiles.label>Raketten</Missiles.label>
+	<Missiles.description>Gelanceerd door raketwerpers.</Missiles.description>
+  
 </LanguageData>

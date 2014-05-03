@@ -10,16 +10,25 @@
 	<Structure.label>Constructie</Structure.label>
     <Structure.description>Constructies zoals muren en stroom kabels.</Structure.description>
 	
-	<Floors.label>Vloeren</Floors.label>
-    <Floors.description>Vloeren.</Floors.description>
-	
-	<Building.label>Gebouwen</Building.label>
-    <Building.description>Grote gebouwen.</Building.description>
+	<Production.label>Productie</Production.label>
+    <Production.description>Gebouwen die worden gebruikt voor het produceren van goederen.</Production.description>
 	
 	<Furniture.label>Meubels</Furniture.label>
     <Furniture.description>Meubels en werktafels.</Furniture.description>
+
+    <Power.label>Electra</Power.label>
+    <Power.description>Stroom opwekking, transport en beheer.</Power.description>	
 	
 	<Security.label>Veligheid</Security.label>
     <Security.description>Veiligheid en gevechts georiënteerde constructies.</Security.description>
 
+	<Misc.label>Diversen</Misc.label>
+	<Misc.description>Diversen.</Misc.description>
+	
+	<Floors.label>Vloeren</Floors.label>
+    <Floors.description>Vloeren.</Floors.description>	
+	
+    <Decoration.label>Decoratie</Decoration.label>
+    <Decoration.description>Mooie dingen voor het verhogen van geluk.</Decoration.description>	
+	
 </LanguageData>

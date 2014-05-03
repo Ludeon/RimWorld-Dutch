@@ -38,7 +38,7 @@
   <ShortCircuitWasLarge>Deze grote hoeveelheid aan stroom heeft een middelgrote explosie veroorzaakt.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Dat is een enorme explosie. Wauw!</ShortCircuitWasHuge>
 
-  <SolarFlare>Een zonne vlam is begonnen\n\nDe intense radiatie zorgt dat alle electrische apparaten niet meer werken.\n\nIn ongeveer een dag zou het voorbij moeten zijn.</SolarFlare>
+  <LetterSolarFlare>Een zonne vlam is begonnen\n\nDe intense radiatie zorgt dat alle electrische apparaten niet meer werken.\n\nIn ongeveer een dag zou het voorbij moeten zijn.</LetterSolarFlare>
 
   <TraderArrival>Een handelsschip is binnen bereik.\n\nZe is bekend als {0}. Zij zijn {1}.</TraderArrival>
 

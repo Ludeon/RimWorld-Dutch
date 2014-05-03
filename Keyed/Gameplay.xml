@@ -165,7 +165,7 @@
 
 	<!-- Map conditions (eclipse, solar flare, etc )-->
 	<MapConditionsTip>Bijzondere omstandigheden die op dit moment de omgeving beïnvloeden.</MapConditionsTip>
-	<SolarFlare>Zonnevlam</SolarFlare>
-	<Eclipse>Zonsverduistering</Eclipse>	
+<!-- 	<SolarFlare>Zonnevlam</SolarFlare>
+	<Eclipse>Zonsverduistering</Eclipse> -->	
 
 </LanguageData>

@@ -50,6 +50,8 @@
 
   <ConceptText_Wiki>Je kan informatie opzoeken op de WIKI pagina.\n\nGebuik de WIKI link rechts onderin het scherm.\n\nLET OP: de wiki is in het Engels.</ConceptText_Wiki>
 
-  <ConceptText_TradeGoodsMustBeNearBeacon>Je kan alleen voorwerpen verkopen die vlakbij (of op) een orbitale handels baken en niet onder een dak liggen.</ConceptText_TradeGoodsMustBeNearBeacon>
-   
+  <ConceptText_TradeGoodsMustBeNearBeacon>Om voorwerpen, grondstoffen of zilver te verhandelen, moet je een ORBITALE HANDELSBAKEN buiten bouwen en een opslagzone naast leggen.</ConceptText_TradeGoodsMustBeNearBeacon>
+
+  <ConceptText_ArrestingCreatesEnemies>Als je iemand arresteerd, wordt zijn hele factie vijand van je\n\nGa niet iemand arresteren als je geen vijanden met zijn/haar factie wilt zijn.</ConceptText_ArrestingCreatesEnemies>
+  
 </LanguageData>

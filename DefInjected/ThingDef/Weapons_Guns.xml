@@ -29,20 +29,28 @@
 	<Gun_T9IncendiaryLauncher.label>T-9 Ontvlambare draagraket </Gun_T9IncendiaryLauncher.label>
 	<Gun_T9IncendiaryLauncher.description>Een ontvlambare draagraketten werper. Zet de boel in de brand.</Gun_T9IncendiaryLauncher.description>
 	
+	<Bullet_L15LMG.label>L-15 kogel</Bullet_L15LMG.label>
+	<Gun_L15LMG.label>L-15 LMG</Gun_L15LMG.label>
+	<Gun_L15LMG.description>Licht machine geweer.</Gun_L15LMG.description>
+		
 	<Bullet_R4ChargeRifle.label>Energie schot</Bullet_R4ChargeRifle.label>
 	<Gun_R4ChargeRifle.label>R-4 Energiegeweer</Gun_R4ChargeRifle.label>
 	<Gun_R4ChargeRifle.description>Een wapen dat energie projectielen afvuurt.</Gun_R4ChargeRifle.description>
 	
-	<Bullet_L15LMG.label>L-15 kogel</Bullet_L15LMG.label>
-	<Gun_L15LMG.label>L-15 LMG</Gun_L15LMG.label>
-	<Gun_L15LMG.description>Licht machine geweer.</Gun_L15LMG.description>
-	
+	<Bullet_TurretImprovised.label>Geimproviseerde kanonskogel</Bullet_TurretImprovised.label>
+	<Gun_TurretImprovised.label>Geimproviseerd kanon</Gun_TurretImprovised.label>
+	<Gun_TurretImprovised.description>Suboptimaal kanon bevestigd aan een turret.</Gun_TurretImprovised.description>
+
 	<Bullet_Minigun.label>Minigun kogel</Bullet_Minigun.label>
 	<Gun_Minigun.label>Minigun</Gun_Minigun.label>
 	<Gun_Minigun.description>Niet bedoeld om door mensen gedragen te worden. Alleen voor Rambo!</Gun_Minigun.description>
 	
-	<Bullet_TurretImprovised.label>Geimproviseerde kanonskogel</Bullet_TurretImprovised.label>
-	<Gun_TurretImprovised.label>Geimproviseerd kanon</Gun_TurretImprovised.label>
-	<Gun_TurretImprovised.description>Suboptimaal kanon bevestigd aan een turret.</Gun_TurretImprovised.description>
-	
+	<Bullet_MechChargeBlaster.label>Charge blaster kogel</Bullet_MechChargeBlaster.label>
+	<Gun_MechChargeBlaster.label>Charge blaster</Gun_MechChargeBlaster.label>
+	<Gun_MechChargeBlaster.description>Charged-shot blaster voor ondersteunend vuur. Door mechanoids gebouwd.</Gun_MechChargeBlaster.description>
+<!-- 
+	<Bullet_MechInfernoCannon.label>Vuurhaard kanon granaat</Bullet_MechInfernoCannon.label>
+	<Gun_MechInfernoCannon.label>Vuurhaard kanon</Gun_MechInfernoCannon.label>
+	<Gun_MechInfernoCannon.description>Brandstichtende-schot, mini-artillerie apparaat. Mechanoid-gebouwd..</Gun_MechInfernoCannon.description>
+ -->
 </LanguageData>

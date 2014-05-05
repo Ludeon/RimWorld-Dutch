@@ -70,7 +70,6 @@
   <BillRepeatTargetCountShort>Tot {0}</BillRepeatTargetCountShort>
 
   <!-- Trade -->
-  <TradeGoodsNearBeaconLesson>Om items of zilver te versturen naar orbitale handelaren te verzenden, moet je een ORBITALE HANDELSBAKEN buiten bouwen en er een opslagplaats dichtbij aanleggen.</TradeGoodsNearBeaconLesson>
   <YourTradeableSilver>Je verhandelbare zilver: {0}</YourTradeableSilver>
   <YourTradeableSilverTip>Je kan alleen met silver handelen, als het vlakbij de Orbitale Handelsbaken en niet onder een dak ligt.</YourTradeableSilverTip>
   

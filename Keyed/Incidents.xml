@@ -12,18 +12,18 @@
 
   
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Een groep overvallers van {0} zijn vlakbij gearriveerd.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Een groep overvallers van {0} zijn vlakbij uit de lucht komen vallen.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Een groep overvallers van {0} zijn bovenop je geland vanuit de lucht!</EnemyRaidCenterDrop>
+  <EnemyRaidWalkIn>Een groep van {0} zijn vlakbij gearriveerd.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Een groep van {0} zijn vlakbij uit de lucht komen vallen.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Een groep van {0} zijn bovenop je geland vanuit de lucht!</EnemyRaidCenterDrop>
   <EnemyRaidStageThenAttack>Ze plannen voor een tijdje en vallen dan aan.\n\nBereid een verdediging voor of val ze preventief aan.</EnemyRaidStageThenAttack>
   <EnemyRaidImmediateAttack>Ze vallen direct aan.</EnemyRaidImmediateAttack>
   <EnemyRaidBesiege>Het ziet ernaar uit dat ze de kolonie willen belegeren.</EnemyRaidBesiege>
 
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Een groep vriendelijke vechters van {0} zijn vlakbij gearriveerd.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Een groep vriendelijke vechters van {0} zijn uit de lucht komen vallen.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Een groep vriendelijke vechters van {0} zijn bovenop je geland vanuit de lucht!</FriendlyRaidCenterDrop>
+  <FriendlyRaidWalkIn>Een groep vriendelijke {0} van {1} zijn vlakbij gearriveerd.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Een groep vriendelijke {0} van {1} zijn uit de lucht komen vallen.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Een groep vriendelijke {0} van {1} zijn bovenop je geland vanuit de lucht!</FriendlyRaidCenterDrop>
   <FriendlyRaidStageThenAttack>Ze bereiden zich een tijdje voor voordat ze je komen helpen.</FriendlyRaidStageThenAttack>
   <FriendlyRaidImmediateAttack>Ze komen je direct helpen.</FriendlyRaidImmediateAttack>
   <FriendlyRaidBesiege>Het ziet ernaar uit dat ze belegeringstactieken willen gebruiken om je te helpen.</FriendlyRaidBesiege>

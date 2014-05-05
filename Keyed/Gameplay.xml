@@ -63,15 +63,26 @@
 	<ClockTime>Uur</ClockTime>
 	<ClockTip>De actuele tijd en het aantal dagen zinds je heir geland bent.</ClockTip>
 
-	<!-- Inspector -->
+	<!-- Pawn info readout -->
  	<Health>Schadepunten</Health>
+	<PawnMainDescWithFactionGendered>{0} {1} van {2}</PawnMainDescWithFactionGendered>
+    <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+    <PawnMainDescWithFactionGenderless>{0} van {1}</PawnMainDescWithFactionGenderless>
+    <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
 	<Faction>Factie</Faction>
 	<Equipped>Uitgerust met</Equipped>
 	<EquippedNothing>Niets</EquippedNothing>
 	<Incapacitated>Zwaar gewond</Incapacitated>
 	<InRestraints>In handboeien (langzamer)</InRestraints>
+	<Carrying>Dragend</Carrying>
+	<SanityDazedWander>Gebroken: Verdwaasd en rondlopend</SanityDazedWander>
+	<SanityGiveUpExit>Gebroken: Opgegeven en vertrekken</SanityGiveUpExit>
+	<SanityPanicFlee>Gebroken: Vluchtend in paniek</SanityPanicFlee>
+	<SanityPsychotic>Gebroken: Psychotische rooftocht</SanityPsychotic>	
+  
+    <!-- Inspector general stuff -->	
 	<SelectNextInSquareTip>Selecteert het volgende item in het zelfde gebied.\n\nJe kan dit ook doen door langzaam op hetzelfde veld te klikken.</SelectNextInSquareTip>
- 
+
 	<!-- ITab titles -->
 	<TabBills>Opdrachten</TabBills>
 	<TabGrowing>Groeien</TabGrowing>
@@ -113,8 +124,7 @@
 	<RotStateRotting>Verrot</RotStateRotting>
 	<RotStateDessicated>Uitgedroogd</RotStateDessicated>
 
-	<!-- Tooltip -->
-	<Carrying>Draagt</Carrying>
+	<!-- Shooting tooltip -->
 	<ShotBy>Beschoten door {0}</ShotBy>
 	<CannotHit>Kan het doel niet raken.</CannotHit> 
 

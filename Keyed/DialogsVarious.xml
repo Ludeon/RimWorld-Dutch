@@ -47,6 +47,10 @@
   <MapSizePerformanceWarning>Waarschuwing: De prestaties op grotere kaart maten kunnen slechter zijn.</MapSizePerformanceWarning>
   <MapSize>Kaart grootte</MapSize>
   <MapSizeDesc>{0}x{0} ({1} velden)</MapSizeDesc>
+  <MapSizeSmall>Smal</MapSizeSmall>
+  <MapSizeMedium>Middelmatig</MapSizeMedium>
+  <MapSizeLarge>Groot</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>  
  
   <!-- Bill config -->
   <Suspended>Opgeschort</Suspended>

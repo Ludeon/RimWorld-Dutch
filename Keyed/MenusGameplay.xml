@@ -17,7 +17,7 @@
   <FactionsTab>Facties</FactionsTab>
   <Hostile>Vijandig</Hostile>
   <HostileTo>Vijand van {0}</HostileTo>
-  <CurrentGoodwill>Huidige goede wil met deze factie (-100 to 100).</CurrentGoodwill>
+  <CurrentGoodwill>Huidige goede wil met deze factie.</CurrentGoodwill>
 
   <SkillMax>MAX</SkillMax>
   

@@ -22,13 +22,13 @@
 	<StandingLamp.label>Staande lamp</StandingLamp.label>
 	<StandingLamp.description>De staande lamp verlicht een ruimte.</StandingLamp.description>
 
-	<StandingLamp.label>Staande lamp (rood)</StandingLamp.label>
-	<StandingLamp.description>De staande lamp verlicht een ruimte met een rode kleur.</StandingLamp.description>
+	<StandingLamp_Red.label>Staande lamp (rood)</StandingLamp_Red.label>
+	<StandingLamp_Red.description>De staande lamp verlicht een ruimte met een rode kleur.</StandingLamp_Red.description>
 
-	<StandingLamp.label>Staande lamp (groen)</StandingLamp.label>
-	<StandingLamp.description>De staande lamp verlicht een ruimte met een groene kleur.</StandingLamp.description>
+	<StandingLamp_Green.label>Staande lamp (groen)</StandingLamp_Green.label>
+	<StandingLamp_Green.description>De staande lamp verlicht een ruimte met een groene kleur.</StandingLamp_Green.description>
 	
-	<StandingLamp.label>Staande lamp (blauwe)</StandingLamp.label>
-	<StandingLamp.description>De staande lamp verlicht een ruimte met een blauwe kleur.</StandingLamp.description>
+	<BlueStandingLamp.label>Staande lamp (blauwe)</BlueStandingLamp.label>
+	<BlueStandingLamp.description>De staande lamp verlicht een ruimte met een blauwe kleur.</BlueStandingLamp.description>
 	
 </LanguageData>

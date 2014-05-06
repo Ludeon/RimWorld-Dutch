@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<OrbitalTradeBeacon.label>Orbitale handels baken</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.description>Nodig om te handelen met ruimteschepen. Je kan goederen alleen verkopen als ze in de buurt van het baken zijn opgeslagen. Er mag geen dak boven het baken zijn. Ruimte handelaren droppen ook hun goederen hier naast.</OrbitalTradeBeacon.description>
+	
+	<ResearchBench.label>Onderzoeks tafel</ResearchBench.label>
+	<ResearchBench.description>Onderzoekers werken hier aan om ontdekkingen te doen.</ResearchBench.description>
+		
+	<CommsConsole.label>Communicatie console</CommsConsole.label>
+	<CommsConsole.description>Maakt het communiceren met nabije ruimteschepen voor handel mogelijk. Communiceren met je buren is ook mogelijk.</CommsConsole.description>
+	
+	<Grave.label>Graf</Grave.label>
+	<Grave.description>De laatste rustplaats voor de doden.\n\n-Game Over-</Grave.description>
+	
+	<FertilizerPump.label>Meststoffen pomp</FertilizerPump.label>
+	<FertilizerPump.description>Staat je toe om meststoffen pompen te bouwen. Deze kunnen overal landbouw grond maken.</FertilizerPump.description>
+	
+</LanguageData>

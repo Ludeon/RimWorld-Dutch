@@ -16,7 +16,4 @@
 	<PowerConduit.label>Stroomkabel</PowerConduit.label>
 	<PowerConduit.description>Geeft stroom door.</PowerConduit.description>
 	
-	<Sandbags.label>Zandzakken</Sandbags.label>
-	<Sandbags.description>Geeft dekking voor kogels.</Sandbags.description>
-
 </LanguageData>

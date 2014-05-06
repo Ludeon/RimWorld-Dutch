@@ -1,0 +1,24 @@
+<LanguageData>
+	
+	<NutrientPasteDispenser.label>Voedings stoffen pasta automaat.</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Synthetiseert voedingsstoffen pasta uit biologische grondstoffen.</NutrientPasteDispenser.description>
+	
+	<Hopper.label>Vultrechter</Hopper.label>
+	<Hopper.description>Houdt ingredienten voor automaten zoals de voedingstoffen pasta automaat.</Hopper.description>
+	
+	<TableButcher.label>Slagers tafel</TableButcher.label>
+	<TableButcher.description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.description>
+	
+	<CookStove.label>Kookeiland</CookStove.label>
+	<CookStove.description>Een kookeiland met aanrecht om maaltijden te maken van simpele ingrediënten.</CookStove.description>
+	
+	<TableStonecutter.label>Steenhouwers tafel</TableStonecutter.label>
+	<TableStonecutter.description>Een tafel waar de steenhouwer stenen puin in stenen blokken kan verwerken.</TableStonecutter.description>
+	
+	<HydroponicsBasin.label>Hydrocultuur basin</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
+	
+	<SunLamp.label>Zonnelamp</SunLamp.label>
+	<SunLamp.description>Verlicht een ruimte genoeg om gewassen te laten groeien.</SunLamp.description>
+	
+</LanguageData>	

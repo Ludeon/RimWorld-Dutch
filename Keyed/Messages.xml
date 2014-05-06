@@ -32,5 +32,9 @@
 	<MessageTraderNotEnoughSilver>Handelaar heeft niet genoeg zilver.</MessageTraderNotEnoughSilver>
 
 	<MessageCriticalAlert>Ernstig alarm: {0}</MessageCriticalAlert>
+  
+	<MessageMustDesignateHarvestablePlants>Moet oogstbare planten selecteren.</MessageMustDesignateHarvestablePlants>
+	<MessageMustDesignatePlants>Moet planten selecteren.</MessageMustDesignatePlants>
+	<MessageMustDesignateHaulable>Moet draagbare voorwerpen selecteren.</MessageMustDesignateHaulable>
 
 </LanguageData>

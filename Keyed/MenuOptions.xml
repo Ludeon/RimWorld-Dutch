@@ -27,5 +27,7 @@
 	<Resolution>Resolutie</Resolution>
 	<Fullscreen>Volledig Scherm</Fullscreen>
 	<CurrentRes>Huidige resolutie {0}</CurrentRes>
+	
+	<OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
   
 </LanguageData>

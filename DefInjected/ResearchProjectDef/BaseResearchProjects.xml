@@ -26,4 +26,7 @@
 	<StrongDoors.label>Versterkte deuren</StrongDoors.label>
     <StrongDoors.description>Electrische deuren hebben 100 extra schadepunten.</StrongDoors.description>
 	
+    <ColoredLights.label>Colored lights</ColoredLights.label>
+    <ColoredLights.description>Allows collonists to construct colored lights for decorative purposes.</ColoredLights.description>
+	
 </LanguageData>

@@ -9,7 +9,7 @@
 	
 	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
 	
-	<Stun.deathMessage>{0} is verlamd tot de dood.</Stun.deathMessage>
+	<Stun.deathMessage>{0} is overrompeld en stierf.</Stun.deathMessage>
 	
 	<Bleeding.deathMessage>{0} is doodgebloed.</Bleeding.deathMessage>
 	

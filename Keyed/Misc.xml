@@ -24,7 +24,7 @@
 	<CorpseDesc>Dode lichaam van {0}.</CorpseDesc>
 
 
-	<BlueprintLabelExtra> (blauwdruk)</BlueprintLabelExtra>
-	<FrameLabelExtra> (gebouw)</FrameLabelExtra>
+	<BlueprintLabelExtra>(blauwdruk)</BlueprintLabelExtra>
+	<FrameLabelExtra>(gebouw)</FrameLabelExtra>
 
 </LanguageData>

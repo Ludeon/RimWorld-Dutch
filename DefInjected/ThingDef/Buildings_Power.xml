@@ -8,5 +8,8 @@
 	
 	<Battery.label>Batterij</Battery.label>
 	<Battery.description>Slaat het teveel aan stroom op en levert stroom als er een tekort is.LET OP - volle batterijen hebben de neiging te exploderen als ze te warm of nat worden.</Battery.description>
-
+	
+	<PowerConduit.label>Stroomkabel</PowerConduit.label>
+	<PowerConduit.description>Geeft stroom door.</PowerConduit.description>
+	
 </LanguageData>

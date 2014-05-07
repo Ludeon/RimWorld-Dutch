@@ -13,11 +13,11 @@
 	<AteLavishMeal.label>Luxueuze maaltijd gegeten</AteLavishMeal.label>
 	<AteLavishMeal.description>Deze luxueuze maaltijd was geweldig! Het heeft mijn lichaam en ziel gevoed.</AteLavishMeal.description>
 	
-	<AteWithoutTable.label>Vom Boden gegessen</AteWithoutTable.label>
-    <AteWithoutTable.description>Ich musste vom Boden essen. Können wir keine Tische aufstellen?</AteWithoutTable.description>	
+	<AteWithoutTable.label>Van de grond gegeten</AteWithoutTable.label>
+    <AteWithoutTable.description>Ik moest van de grond eten. Kunnen we niet aan tafel zitten?</AteWithoutTable.description>	
 	
-	<AteHumanoidMeatDirect.label>rauwe kannibalisme</AteHumanoidMeatDirect.label>
-	<AteHumanoidMeatDirect.description>Ik moest het vleed van een ander mens eten, rauw zoals een dier. Dit is een nachtmerrie.</AteHumanoidMeatDirect.description>
+	<AteHumanoidMeatDirect.label>Rauwe kannibalisme</AteHumanoidMeatDirect.label>
+	<AteHumanoidMeatDirect.description>Ik moest het vlees van een ander mens eten, rauw zoals een dier. Dit is een nachtmerrie.</AteHumanoidMeatDirect.description>
 	
 	<AteHumanoidMeatAsIngredient.label>Gekookte kannibalisme</AteHumanoidMeatAsIngredient.label>
 	<AteHumanoidMeatAsIngredient.description>Ik at een maaltijd gemaakt van mensenvlees. Dit is gruwelijk.</AteHumanoidMeatAsIngredient.description>

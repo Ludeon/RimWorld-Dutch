@@ -10,6 +10,9 @@
 	<Stonecutting.label>Steenhouwen</Stonecutting.label>
     <Stonecutting.description>Maakt het mogelijk de Steenhouwerstafel te bouwen. Hier kunnen je kolonisten stenen puin omzetten in bruikbare stenen blokken.</Stonecutting.description>
 	
+	<SlagRefining.label>SlagRefining</SlagRefining.label>
+    <SlagRefining.description>Bouwen slak raffinaderijen die hitte en sterke elektromagneten gebruiken om bruikbare metalen te halen uit slakken puin.</SlagRefining.description>
+		
 	<NutrientResynthesis.label>Nutrient Resynthesis</NutrientResynthesis.label>
 	<NutrientResynthesis.description>Voedingsstoffen pasta automaten verbruiken 10% minder voedsel per geproduceerde maaltijd.</NutrientResynthesis.description>
 	

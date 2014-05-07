@@ -13,7 +13,4 @@
 	<WallStone.label>Stenen muur</WallStone.label>
 	<WallStone.description>Een stenen muur. Het kan eeuwen blijven staan. Hetkan niet branden en heeft geen electrische bekabeling.</WallStone.description>
 	
-	<PowerConduit.label>Stroomkabel</PowerConduit.label>
-	<PowerConduit.description>Geeft stroom door.</PowerConduit.description>
-	
 </LanguageData>

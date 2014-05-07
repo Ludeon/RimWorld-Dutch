@@ -15,6 +15,9 @@
 	<TableStonecutter.label>Steenhouwers tafel</TableStonecutter.label>
 	<TableStonecutter.description>Een tafel waar de steenhouwer stenen puin in stenen blokken kan verwerken.</TableStonecutter.description>
 	
+	<SlagRefinery.label>Slag refinery</SlagRefinery.label>
+	<SlagRefinery.description>Haalt bruikbaar metaal uit slak puin. Verbruikt veel stroom.</SlagRefinery.description>
+	
 	<HydroponicsBasin.label>Hydrocultuur basin</HydroponicsBasin.label>
 	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
 	

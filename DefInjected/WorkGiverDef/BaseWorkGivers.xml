@@ -41,5 +41,7 @@
 	<DoBillsCook.gerund>kookt</DoBillsCook.gerund>
 	<DoBillsStonecut.verb>stenen hakken</DoBillsStonecut.verb>
 	<DoBillsStonecut.gerund>hakt stenen</DoBillsStonecut.gerund>
+	<DoBillsSlagRefining.verb>zuiveren</DoBillsSlagRefining.verb>
+	<DoBillsSlagRefining.gerund>zuiveren</DoBillsSlagRefining.gerund>
 	
 </LanguageData>

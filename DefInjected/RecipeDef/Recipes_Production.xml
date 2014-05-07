@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MakeStoneBlocks.label>Maakt stenen blokken</MakeStoneBlocks.label>
+	<MakeStoneBlocks.description>Hakt stenen puin in bruikbare stenen blokken.</MakeStoneBlocks.description>
+	<MakeStoneBlocks.jobString>Steenhouwer.</MakeStoneBlocks.jobString>
+	
+	<ExtractMetalFromSlag.label>De extractie van metalen uit slak</ExtractMetalFromSlag.label>
+	<ExtractMetalFromSlag.description>Bruikbaar metalen uit slak puin halen door het gebruik van hitte en sterke elektromagneten.</ExtractMetalFromSlag.description>
+	<ExtractMetalFromSlag.jobString>De extractie van metalen uit slak</ExtractMetalFromSlag.jobString>
+	
+</LanguageData>

@@ -1,18 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<DebrisRock.label>Steen puin</DebrisRock.label>
-	<DebrisSlag.label>Metaal puin</DebrisSlag.label>
-	
+
 	<DoorKey.label>Deursleutel</DoorKey.label>
+	<DoorKey.description>Deuren gaan open voor iemand met deze sleutel.</DoorKey.description>
 	
 	<Puddle_Fuel.label>Benzine plas</Puddle_Fuel.label>
+	<Puddle_Fuel.description>Brandt op de grond.</Puddle_Fuel.description>
 	
 	<OilCan.label>Oliekan</OilCan.label>
+	<OilCan.description>Ontploft bij beschadiging.</OilCan.description>
 	
 	<PressurizedCanister.label>Drukvat</PressurizedCanister.label>
+	<PressurizedCanister.description>Jets en ontploft bij beschadiging.</PressurizedCanister.description>
 	
 	<ElectricalBox.label>Schakelkast</ElectricalBox.label>
+	<ElectricalBox.description>Ontploft en steekt de omgeving in de brand bij beschadiging.</ElectricalBox.description>
 	
 	<DropPodIncoming.label>Landingscapsule (vallend)</DropPodIncoming.label>
 	

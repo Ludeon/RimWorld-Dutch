@@ -8,6 +8,9 @@
 	<StonecuttingTime.description>Hakt stenen in {0}% van de normale snelheid.</StonecuttingTime.description>
 	<StonecuttingEfficiency.description>Procudeert {0}% meer stenen tijdens het steenhouwen.</StonecuttingEfficiency.description>
 	
+	<SlagExtractTime.description>Haalt metaal uit slak puin in {0}% van de normale snelheid.</SlagExtractTime.description>
+	<SlagExtractEfficiency.description>Procudeert {0}% meer metaal uit slak puin.</SlagExtractEfficiency.description>
+		
 	<MiningSpeed.description>Delft op {0}% van de normale snelheid.</MiningSpeed.description>
 	<ResearchSpeed.description>Onderzoekt op {0}% van de normale snelheid.</ResearchSpeed.description>
 	<ConstructionSpeed.description>Bouwt en repareert op {0}% van de normale snelheid.</ConstructionSpeed.description>

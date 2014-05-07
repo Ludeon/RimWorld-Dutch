@@ -4,6 +4,12 @@
 	<MessageRaidersLeaving>Plunderaars van {0} verlaten het gebied.</MessageRaidersLeaving>
 	<MessageRaidersGivenUpLeaving>Plunderaars van {0} hebben het opgegeven en verlaten het gebied.</MessageRaidersGivenUpLeaving>
 
+	<MessageFightersFleeing>Vechters van {0} vluchten.</MessageFightersFleeing>
+	<MessageFriendlyFightersLeaving>Vriendelijke vechters van {0} verlaten het gebied.</MessageFriendlyFightersLeaving>
+
+	<MessageRaidersBeginningAssault>Plunderaars van {0} beginnen met de aanval.</MessageRaidersBeginningAssault>
+	<MessageRaidersDetectedEarlyAssault>Plunderaars van {0} hebben je ontdekt en vallen aan.</MessageRaidersDetectedEarlyAssault>
+	
 	<MessageShipHasLeftCommsRange>{0} is nu buiten bereik.</MessageShipHasLeftCommsRange>
 
 	<MessageNeedBeaconToTradeWithShip>Je hebt een orbitale baken nodig voor de handel met een ruimteschip.</MessageNeedBeaconToTradeWithShip>
@@ -11,14 +17,6 @@
 	<MessageBillComplete>Opdracht afgerond: {0}.</MessageBillComplete>
 
 	<MessageFullyHealed>{0} is volledig genezen.</MessageFullyHealed>
-
-	<MessageFightersFleeing>Vechters van {0} vluchten.</MessageFightersFleeing>
-
-	<MessageFriendlyFightersLeaving>Vriendelijke vechters van {0} verlaten het gebied.</MessageFriendlyFightersLeaving>
-
-	<MessageRaidersBeginningAssault>Plunderaars van {0} beginnen met de aanval.</MessageRaidersBeginningAssault>
-
-	<MessageRaidersDetectedEarlyAssault>Plunderaars van {0} hebben je ontdekt en vallen aan.</MessageRaidersDetectedEarlyAssault>
 
 	<MessagePrisonerIsEscaping>Gevangene {0} is aan het ontsnappen.</MessagePrisonerIsEscaping>
 

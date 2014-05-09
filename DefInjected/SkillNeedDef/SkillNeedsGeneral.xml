@@ -2,8 +2,8 @@
 <LanguageData>
 	
 	<CookTime.description>Kookt maaltijden in {0}% van de normale snelheid.</CookTime.description>
-	<ButcheryTime.description>Slacht in {0}% van de normale snelheid.</ButcheryTime.description>
-	<ButcheryFleshTime.description>Produceert {0}% meer vlees tijdens het slachten.</ButcheryFleshTime.description>
+	<ButcheryFleshTime.description>Slacht in {0}% van de normale snelheid.</ButcheryFleshTime.description>
+	<ButcheryFleshEfficiency.description>Produceert {0}% meer vlees tijdens het slachten.</ButcheryFleshEfficiency.description>
 	
 	<ButcheryMechanoidTime.description>Demonteert mechanoids in {0}% van de normale snelheid.</ButcheryMechanoidTime.description>
 	<ButcheryMechanoidEfficiency.description>Produceert {0}% meer materialen tijdens het demonteren.</ButcheryMechanoidEfficiency.description>

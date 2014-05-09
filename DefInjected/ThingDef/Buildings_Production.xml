@@ -5,6 +5,13 @@
 	
 	<Hopper.label>Vultrechter</Hopper.label>
 	<Hopper.description>Houdt ingredienten voor automaten zoals de voedingstoffen pasta automaat.</Hopper.description>
+
+	<!-- ========================= Work tables ========================== -->	
+	<TableSawmillHand.label>Hand zagerij</TableSawmillHand.label>
+	<TableSawmillHand.description>Een kleine spier-aangedreven zagerij voor het zagen van hout in houten planken.</TableSawmillHand.description>
+	
+	<TableSawmillElectric.label>Electrische zagerij</TableSawmillElectric.label>
+	<TableSawmillElectric.description>Een kleine electrisch-aangedreven zagerij voor het zagen van hout in houten planken.</TableSawmillElectric.description>
 	
 	<TableButcher.label>Slagers tafel</TableButcher.label>
 	<TableButcher.description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.description>
@@ -18,6 +25,10 @@
 	<SlagRefinery.label>Slag refinery</SlagRefinery.label>
 	<SlagRefinery.description>Haalt bruikbaar metaal uit slak puin. Verbruikt veel stroom.</SlagRefinery.description>
 	
+	<Crematorium.label>Crematorium</Crematorium.label>
+	<Crematorium.description>Verbrandt lijken.</Crematorium.description>
+		
+	<!-- ========== Hydroponics ============== -->
 	<HydroponicsBasin.label>Hydrocultuur basin</HydroponicsBasin.label>
 	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
 	

@@ -17,7 +17,7 @@
 	<ColonistsNeedRescueDesc>  Deze kolonisten liggen zwaar gewond op de grond:\n\n{0}\nStuur een andere kolonist om ze te redden en naar een bed te brengen. \n\n(Om een kolonist te redden, selecteer een andere kolonist en klik met de klik met de rechter muisknop op het slachtoffer en selecteer Kolonist redden.)</ColonistsNeedRescueDesc>
 
 	<BuildARoom>Bouw een kamer</BuildARoom>
-	<BuildARoomDesc>Je hebt geen kamers.\n\nBouw een afgesloten ruimte door muren en een deur te gebruiken.\n\nGebruik het ARCHITECT menu aan de onderkant van het scharm om aan te geven waar je iets gebouwd wilt hebben.</BuildARoomDesc>
+	<BuildARoomDesc>Je hebt geen kamers.\n\nBouw een afgesloten ruimte door muren en een deur te gebruiken.\n\nGebruik het ARCHITECT menu aan de onderkant van het scherm om aan te geven waar je iets gebouwd wilt hebben. Als je hebt aangegeven waar gebouwt moet worden, zullen je kolonisten het werk doen zodra ze kunnen.</BuildARoomDesc>
 
 	<NeedGrowingZone>Landbouw zone nodig</NeedGrowingZone>
 	<NeedGrowingZoneDesc>Je hebt geen landbouw zones.\n\nPlaats een landbouw zone op vruchtbare grond door het ARCHITECT menu te gebruiken.</NeedGrowingZoneDesc>

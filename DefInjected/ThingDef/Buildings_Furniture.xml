@@ -1,24 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
+    <!--============================== Beds ==============================-->
 	<SleepingSpot.label>Slaap plek</SleepingSpot.label>
 	<SleepingSpot.description>Markeert een plek op de grond waar mensen kunnen slapen. Heel erg oncomfortabel. Efficientie: 8/10</SleepingSpot.description>
 
 	<Bed.label>Bed</Bed.label>
 	<Bed.description>Een comfortabel matras met lakens en een frame om op te slapen. Efficientie: 10/10</Bed.description>
 
-	<EquipmentRack.label>Wapenrek</EquipmentRack.label>
-	<EquipmentRack.description>Hier kan je wapens in opslaan.</EquipmentRack.description>
+	<!--======================= Basic domestic furniture ==============================-->
+	<Chair_Metal.label>Metalen stoel</Chair_Metal.label>
+	<Chair_Metal.description>Een plek om te zitten.</Chair_Metal.description>
 	
-	<Chair.label>Stoel</Chair.label>
-	<Chair.description>Een plek om te zitten.</Chair.description>
+	<!--======================= Tables ==============================-->
+	<TableShort_Metal.label>Metalen tafel (klein)</TableShort_Metal.label>
+	<TableShort_Metal.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort_Metal.description>
 	
-	<TableShort.label>Tafel (klein)</TableShort.label>
-	<TableShort.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort.description>
+	<TableLong_Metal.label>Metalen tafel (groot)</TableLong_Metal.label>
+	<TableLong_Metal.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong_Metal.description>	
 	
-	<TableLong.label>Tafel (groot)</TableLong.label>
-	<TableLong.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong.description>
+	<TableShort_Wood.label>Houten tafel (klein)</TableShort_Wood.label>
+	<TableShort_Wood.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort_Wood.description>
 	
+	<TableLong_Wood.label>Houten tafel (groot)</TableLong_Wood.label>
+	<TableLong_Wood.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong_Wood.description>	
+	
+	<!-- ======================== Lighting ======================= -->
 	<StandingLamp.label>Staande lamp</StandingLamp.label>
 	<StandingLamp.description>De staande lamp verlicht een ruimte.</StandingLamp.description>
 
@@ -28,7 +35,11 @@
 	<StandingLamp_Green.label>Staande lamp (groen)</StandingLamp_Green.label>
 	<StandingLamp_Green.description>De staande lamp verlicht een ruimte met een groene kleur.</StandingLamp_Green.description>
 	
-	<BlueStandingLamp.label>Staande lamp (blauwe)</BlueStandingLamp.label>
-	<BlueStandingLamp.description>De staande lamp verlicht een ruimte met een blauwe kleur.</BlueStandingLamp.description>
+	<StandingLamp_Blue.label>Staande lamp (blauwe)</StandingLamp_Blue.label>
+	<StandingLamp_Blue.description>De staande lamp verlicht een ruimte met een blauwe kleur.</StandingLamp_Blue.description>
+	
+	<!--============================== Storage ==============================-->
+	<EquipmentRack.label>Wapenrek</EquipmentRack.label>
+	<EquipmentRack.description>Hier kan je wapens in opslaan.</EquipmentRack.description>
 	
 </LanguageData>

@@ -1,16 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
+	<!--========================= Doors =============================-->
 	<DoorPowered.label>Electrische deur</DoorPowered.label>
 	<DoorPowered.description>Sluit ruimtes af. Als er stroom op staat, kunnen kolonisten er ongehinderd door.</DoorPowered.description>
 	
-	<DoorSimple.label>Gewone deur</DoorSimple.label>
-	<DoorSimple.description>Sluit ruimtes af. Moet handmatig worden geopend en gesloten. Vertraagt kolonisten als ze erdoor gaan.</DoorSimple.description>
+	<DoorWood.label>Houten deur</DoorWood.label>
+	<DoorWood.description>Sluit ruimtes af. Moet handmatig worden geopend en gesloten. Vertraagt kolonisten als ze erdoor gaan.</DoorWood.description>
 	
+	<!--========================= Walls =============================-->
+	<WallLog.label>Houten stammen muur</WallLog.label>
+	<WallLog.description>Een muur gemaakt van gestapelde houten stammen. Sterk en snel op te bouwen, maar brandbaar en verbruikt veel stammen.</WallLog.description>
+	
+	<WallWood.label>Houten muur</WallWood.label>
+	<WallWood.description>Een muur gemaakt van houten planken. Goedkoop en snel op te bouwen, maar brandbaar en zwak.</WallWood.description>
+		
 	<WallMetal.label>Metalen muur</WallMetal.label>
-	<WallMetal.description>Een metalen muur met electrische bekabeling.</WallMetal.description>
+	<WallMetal.description>Een metalen muur met electrische bekabeling. Sterk, maar duur en langzaam om te bouwen.</WallMetal.description>
 	
 	<WallStone.label>Stenen muur</WallStone.label>
-	<WallStone.description>Een stenen muur. Het kan eeuwen blijven staan. Hetkan niet branden en heeft geen electrische bekabeling.</WallStone.description>
+	<WallStone.description>Een stenen muur. Het kan eeuwen blijven staan. Het kan niet branden en heeft geen electrische bekabeling.</WallStone.description>
 	
 </LanguageData>

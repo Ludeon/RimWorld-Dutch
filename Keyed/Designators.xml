@@ -10,9 +10,12 @@
   <DesignatorDeconstruct>Afbreken</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Breekt gebouwen af en krijg een deel van de bouwkosten terug.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestPlants>Planten oogsten</DesignatorHarvestPlants>
-  <DesignatorHarvestPlantsDesc>Markeert planten om geoogst te worden. Het voedsel dat geoogst kan worden wordt geoogst, de rest van de plant blijft staan.</DesignatorHarvestPlantsDesc>
-
+  <DesignatorHarvestFood>Planten oogsten</DesignatorHarvestFood>
+  <DesignatorHarvestFoodDesc>Markeert planten om geoogst te worden voor voedsel. Het voedsel dat geoogst kan worden wordt geoogst, de rest van de plant blijft staan.</DesignatorHarvestFoodDesc>
+  
+  <DesignatorHarvestWood>Hout hakken</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Markeert bomen die gekapt moeten worden.</DesignatorHarvestWoodDesc>
+  
   <DesignatorHaulThings>Voorwerpen dragen</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Markeert puin en andere voorwerpen om gedragen te worden. Is niet nodig voor voedsel of lijken, welke altijd draagbaar zijn.</DesignatorHaulThingsDesc>
   <NothingToHaulHere>Niets om te dagen.</NothingToHaulHere>

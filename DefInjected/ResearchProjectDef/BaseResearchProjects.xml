@@ -12,24 +12,30 @@
 	
 	<SlagRefining.label>SlagRefining</SlagRefining.label>
     <SlagRefining.description>Bouwen slak raffinaderijen die hitte en sterke elektromagneten gebruiken om bruikbare metalen te halen uit slakken puin.</SlagRefining.description>
-		
+   
+    <Machining.label>Machinaal vervaardigen</Machining.label>
+    <Machining.description>Bouwen bewerkingstafels om dode mechanoids demonteren in bruikbare metalen.</Machining.description>	
+	
 	<NutrientResynthesis.label>Nutrient Resynthesis</NutrientResynthesis.label>
 	<NutrientResynthesis.description>Voedingsstoffen pasta automaten verbruiken 10% minder voedsel per geproduceerde maaltijd.</NutrientResynthesis.description>
 	
 	<GunTurretCooling.label>Kanon geschut afkoelen</GunTurretCooling.label>
 	<GunTurretCooling.description>Kanonnen schieten nu 4 keer in plaats van 3 keer per ronde.</GunTurretCooling.description>
 	
-	<CarpetMaking.label>Tapijt maken</CarpetMaking.label>
-	<CarpetMaking.description>Maakt het mogelijk om tapijt aan te leggen. Dit verbeterd de kwaliteit van de omgeving.\n\nJe kolonisten zijn hier erg blij mee.</CarpetMaking.description>
-	
-	<FearTech1.label>Angst Technologie</FearTech1.label>
-	<FearTech1.description>Onderzoek nieuwe manieren om angst te zaaien.</FearTech1.description>
-	<FearTech1.descriptionDiscovered>Je kan nu martel kooien bouwen om de lijken van je vijanden of kolonisten tentoon te stellen. Zij die hier naar kijken zullen intense angst en walging voelen. Dit is een technologie uit de oudheid, simpel, maar erg effectief.</FearTech1.descriptionDiscovered>
+    <Cremation.label>Crematie</Cremation.label>
+    <Cremation.description>Bouw crematoriums waar je van je lijken af kan komen.</Cremation.description>
 	
 	<StrongDoors.label>Versterkte deuren</StrongDoors.label>
     <StrongDoors.description>Electrische deuren hebben 100 extra schadepunten.</StrongDoors.description>
-	
-    <ColoredLights.label>Colored lights</ColoredLights.label>
-    <ColoredLights.description>Allows collonists to construct colored lights for decorative purposes.</ColoredLights.description>
-	
+
+	<CarpetMaking.label>Tapijt maken</CarpetMaking.label>
+	<CarpetMaking.description>Maakt het mogelijk om tapijt aan te leggen. Dit verbeterd de kwaliteit van de omgeving.\n\nJe kolonisten zijn hier erg blij mee.</CarpetMaking.description>
+		
+    <ColoredLights.label>Gekleurde lampen</ColoredLights.label>
+    <ColoredLights.description>Maakt het mogelijk om je kolonisten gekleurde lampen te laten maken. Alleen decoratief.</ColoredLights.description>
+
+	<FearTech1.label>Angst Technologie</FearTech1.label>
+	<FearTech1.description>Onderzoek nieuwe manieren om angst te zaaien.</FearTech1.description>
+	<FearTech1.descriptionDiscovered>Je kan nu martel kooien bouwen om de lijken van je vijanden of kolonisten tentoon te stellen. Zij die hier naar kijken zullen intense angst en walging voelen. Dit is een technologie uit de oudheid, simpel, maar erg effectief.</FearTech1.descriptionDiscovered>
+		
 </LanguageData>

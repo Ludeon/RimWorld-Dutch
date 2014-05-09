@@ -21,10 +21,10 @@
     <Art.verb>Is creatief</Art.verb>
     <Art.tooltipDesc>Kunstenaars maken prachtige kunst.</Art.tooltipDesc>
 	
-	<Crafting.pawnLabel>Steenhouwer</Crafting.pawnLabel>
-	<Crafting.gerundLabel>Bewerken</Crafting.gerundLabel>
-	<Crafting.verb>Bewerkt</Crafting.verb>
-	<Crafting.tooltipDesc>Steenhouwers maken stenen blokken van ruwe steen.</Crafting.tooltipDesc>
+	<Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
+	<Crafting.gerundLabel>Handwerken</Crafting.gerundLabel>
+	<Crafting.verb>Handwerken</Crafting.verb>
+	<Crafting.tooltipDesc>Handwerkers maken voorwerpen van ruwe materialen.</Crafting.tooltipDesc>
 	
 	<PlantCutting.pawnLabel>Planten snijder</PlantCutting.pawnLabel>
 	<PlantCutting.gerundLabel>Planten snijden</PlantCutting.gerundLabel>

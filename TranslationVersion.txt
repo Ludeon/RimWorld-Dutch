@@ -1,0 +1,8 @@
+Translation version: game version: 0.4.436.1
+
+NOTE:
+This file is just for me, to see if I get the my latest version with each new game version.
+It serves no purpose other then to show me how many of my mistakes I had to fix, 
+and to make sure I do not have to translate things twice.
+
+-- Ser Geeves.

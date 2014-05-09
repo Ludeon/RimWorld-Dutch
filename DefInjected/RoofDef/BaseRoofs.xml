@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<RoofMetal.label>Metalen dak</RoofMetal.label>
-	<RoofRockThin.label>Stenen dak (dunn)</RoofRockThin.label>
+	<RoofConstructed.label>Vervaardigd dak</RoofConstructed.label>
+	<RoofRockThin.label>Stenen dak (dun)</RoofRockThin.label>
 	<RoofRockThick.label>Berg boven het hoofd</RoofRockThick.label>
 	
 </LanguageData>

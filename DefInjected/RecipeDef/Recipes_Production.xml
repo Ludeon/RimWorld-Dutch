@@ -1,10 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MakeStoneBlocks.label>Maakt stenen blokken</MakeStoneBlocks.label>
+	<MakeStoneBlocks.label>Maak stenen blokken</MakeStoneBlocks.label>
 	<MakeStoneBlocks.description>Hakt stenen puin in bruikbare stenen blokken.</MakeStoneBlocks.description>
-	<MakeStoneBlocks.jobString>Steenhouwer.</MakeStoneBlocks.jobString>
+	<MakeStoneBlocks.jobString>Stenen blokken maken.</MakeStoneBlocks.jobString>
 	
+	<MakeWoodPlanks_Hand.label>Maak houten planken</MakeWoodPlanks_Hand.label>
+	<MakeWoodPlanks_Hand.description>Zaagt 10 stammen in 25 houten planken met de hand. Erg traag.</MakeWoodPlanks_Hand.description>
+	<MakeWoodPlanks_Hand.jobString>Houten planken maken.</MakeWoodPlanks_Hand.jobString>
+	
+	<MakeWoodPlanks_Electric.label>Maak houten planken</MakeWoodPlanks_Electric.label>
+	<MakeWoodPlanks_Electric.description>Zaagt 10 stammen in 25 houten planken.</MakeWoodPlanks_Electric.description>
+	<MakeWoodPlanks_Electric.jobString>Houten planken maken.</MakeWoodPlanks_Electric.jobString>
+		
 	<ExtractMetalFromSlag.label>De extractie van metalen uit slak</ExtractMetalFromSlag.label>
 	<ExtractMetalFromSlag.description>Bruikbaar metalen uit slak puin halen door het gebruik van hitte en sterke elektromagneten.</ExtractMetalFromSlag.description>
 	<ExtractMetalFromSlag.jobString>De extractie van metalen uit slak</ExtractMetalFromSlag.jobString>

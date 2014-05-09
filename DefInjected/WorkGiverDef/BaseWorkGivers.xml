@@ -1,47 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<DoctorFeed.verb>behandelen</DoctorFeed.verb>
-	<DoctorFeed.gerund>behandelt</DoctorFeed.gerund>
-	<GrowerSow.verb>zaaien</GrowerSow.verb>
-	<GrowerSow.gerund>zaait</GrowerSow.gerund>
-	<GrowerHarvest.verb>oogsten</GrowerHarvest.verb>
-	<GrowerHarvest.gerund>oogst</GrowerHarvest.gerund>
-	<Mine.verb>delven</Mine.verb>
-	<Mine.gerund>delft</Mine.gerund>
-	<Research.verb>onderzoeken</Research.verb>
-	<Research.gerund>onderzoekt</Research.gerund>
-	<HaulGeneral.verb>dragen</HaulGeneral.verb>
-	<HaulGeneral.gerund>draagt</HaulGeneral.gerund>
-	<PlantsCut.verb>planten snijden</PlantsCut.verb>
-	<PlantsCut.gerund>snijdt planten</PlantsCut.gerund>
-	<CleanFilth.verb>schoonmaken</CleanFilth.verb>
-	<CleanFilth.gerund>maakt schoon</CleanFilth.gerund>
-	<Repair.verb>repareren</Repair.verb>
-	<Repair.gerund>repareert</Repair.gerund>
-	<FightFires.verb>blussen</FightFires.verb>
-	<FightFires.gerund>blust</FightFires.gerund>
+	<DoctorFeed.verb>behandelt</DoctorFeed.verb>
+	<DoctorFeed.gerund>behandelen</DoctorFeed.gerund>
+	<GrowerSow.verb>zaait</GrowerSow.verb>
+	<GrowerSow.gerund>zaaien</GrowerSow.gerund>
+	<GrowerHarvest.verb>oogst</GrowerHarvest.verb>
+	<GrowerHarvest.gerund>oogsten</GrowerHarvest.gerund>
+	<Mine.verb>delft</Mine.verb>
+	<Mine.gerund>delven</Mine.gerund>
+	<Research.verb>onderzoekt</Research.verb>
+	<Research.gerund>onderzoeken</Research.gerund>
+	<HaulGeneral.verb>draagt</HaulGeneral.verb>
+	<HaulGeneral.gerund>dragen</HaulGeneral.gerund>
+	<PlantsCut.verb>snijdt planten</PlantsCut.verb>
+	<PlantsCut.gerund>planten snijden</PlantsCut.gerund>
+	<CleanFilth.verb>maakt schoon</CleanFilth.verb>
+	<CleanFilth.gerund>schoonmaken</CleanFilth.gerund>
+	<Repair.verb>repareert</Repair.verb>
+	<Repair.gerund>repareren</Repair.gerund>
+	<FightFires.verb>blust</FightFires.verb>
+	<FightFires.gerund>blussen</FightFires.gerund>
 	<Warden.verb>bewaakt</Warden.verb>
 	<Warden.gerund>bewaken</Warden.gerund>
-	<Deconstruct.verb>afbreken</Deconstruct.verb>
-	<Deconstruct.gerund>breekt af</Deconstruct.gerund>
-	<ConstructFinishFrames.verb>bouwen</ConstructFinishFrames.verb>
-	<ConstructFinishFrames.gerund>bouwt</ConstructFinishFrames.gerund>
-	<ConstructDeliverResourcesToFrames.verb>werken</ConstructDeliverResourcesToFrames.verb>
-	<ConstructDeliverResourcesToFrames.gerund>werkt aan</ConstructDeliverResourcesToFrames.gerund>
-	<ConstructDeliverResourcesToBlueprints.verb>werken</ConstructDeliverResourcesToBlueprints.verb>
-	<ConstructDeliverResourcesToBlueprints.gerund>werkt aan</ConstructDeliverResourcesToBlueprints.gerund>
-	<HunterHunt.verb>jagen</HunterHunt.verb>
-	<HunterHunt.gerund>jaagt</HunterHunt.gerund>
-	<CookFillHopper.verb>vullen</CookFillHopper.verb>
-	<CookFillHopper.gerund>vult</CookFillHopper.gerund>
-	<DoBillsButcher.verb>slachten</DoBillsButcher.verb>
-	<DoBillsButcher.gerund>slacht</DoBillsButcher.gerund>
-	<DoBillsCook.verb>koken</DoBillsCook.verb>
-	<DoBillsCook.gerund>kookt</DoBillsCook.gerund>
-	<DoBillsStonecut.verb>stenen hakken</DoBillsStonecut.verb>
-	<DoBillsStonecut.gerund>hakt stenen</DoBillsStonecut.gerund>
+	<Deconstruct.verb>breekt af</Deconstruct.verb>
+	<Deconstruct.gerund>afbreken</Deconstruct.gerund>
+	<ConstructFinishFrames.verb>bouwt</ConstructFinishFrames.verb>
+	<ConstructFinishFrames.gerund>bouwen</ConstructFinishFrames.gerund>
+	<ConstructDeliverResourcesToFrames.verb>werkt</ConstructDeliverResourcesToFrames.verb>
+	<ConstructDeliverResourcesToFrames.gerund>werken</ConstructDeliverResourcesToFrames.gerund>
+	<ConstructDeliverResourcesToBlueprints.verb>werkt</ConstructDeliverResourcesToBlueprints.verb>
+	<ConstructDeliverResourcesToBlueprints.gerund>werken</ConstructDeliverResourcesToBlueprints.gerund>
+	<HunterHunt.verb>jaagt</HunterHunt.verb>
+	<HunterHunt.gerund>jagen</HunterHunt.gerund>
+	
+	<!-- ============= Cooking ============= -->
+	<CookFillHopper.verb>vult</CookFillHopper.verb>
+	<CookFillHopper.gerund>vullen</CookFillHopper.gerund>
+	<DoBillsButcher.verb>slacht</DoBillsButcher.verb>
+	<DoBillsButcher.gerund>slachten</DoBillsButcher.gerund>
+	<DoBillsCook.verb>kookt</DoBillsCook.verb>
+	<DoBillsCook.gerund>koken</DoBillsCook.gerund>
+	
+	<!-- ============= Crafting ============= -->
+	<DoBillsCremate.verb>cremeren</DoBillsCremate.verb>
+	<DoBillsCremate.gerund>cremeert</DoBillsCremate.gerund>
+	<DoBillsStonecut.verb>hakt stenen</DoBillsStonecut.verb>
+	<DoBillsStonecut.gerund>stenen hakken</DoBillsStonecut.gerund>
 	<DoBillsSlagRefining.verb>zuiveren</DoBillsSlagRefining.verb>
 	<DoBillsSlagRefining.gerund>zuiveren</DoBillsSlagRefining.gerund>
+	<DoBillsButcherMechanoid.verb>demonteert</DoBillsButcherMechanoid.verb>
+	<DoBillsButcherMechanoid.gerund>demonteren</DoBillsButcherMechanoid.gerund>	
 	
 </LanguageData>

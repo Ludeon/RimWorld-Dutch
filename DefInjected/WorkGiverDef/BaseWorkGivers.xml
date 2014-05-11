@@ -37,8 +37,8 @@
 	<!-- ============= Cooking ============= -->
 	<CookFillHopper.verb>vult</CookFillHopper.verb>
 	<CookFillHopper.gerund>vullen</CookFillHopper.gerund>
-	<DoBillsButcher.verb>slacht</DoBillsButcher.verb>
-	<DoBillsButcher.gerund>slachten</DoBillsButcher.gerund>
+	<DoBillsButcherFlesh.verb>slacht</DoBillsButcherFlesh.verb>
+	<DoBillsButcherFlesh.gerund>slachten</DoBillsButcherFlesh.gerund>
 	<DoBillsCook.verb>kookt</DoBillsCook.verb>
 	<DoBillsCook.gerund>koken</DoBillsCook.gerund>
 	

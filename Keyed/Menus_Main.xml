@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!--=========== Main menu ==========-->
 	<NewColony>Nieuwe kolonie</NewColony>
 	<BackToGame>Terug naar het spel</BackToGame>
 	<Save>Opslaan</Save>
@@ -17,19 +18,22 @@
 	<TynansTwitter>Tynan's twitter</TynansTwitter>
 	<TynansDesignBook>Tynan's ontwerp boek</TynansDesignBook>
 
+	<!--=========== Version info ==========-->
 	<BuildNowAvailable>Versie {0} is nu verkrijgbaar. Je zal het spel moeten updaten.</BuildNowAvailable>
 	<BuildUpToDate>Versie is actueel.</BuildUpToDate>
 	<ErrorGettingVersionInfo>Fout bij het proberen om de versie te controleren: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Versie informatie laden...</LoadingVersionInfo>
 
+	<!--=========== Mods screen ==========-->
 	<GetMods>Zoek mods</GetMods>
 	<ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitzetten? Het spel werkt niet tenzij je een andere mod hebt dat alle functionaliteiten overneemt.\n\nLet op, andere mods kunnen alle defs in de core mod overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
 	<Author>Auteur</Author>
 
-	<Gameplay>Gameplay</Gameplay>
-
+	<!--=========== Storyteller chooser ==========-->
 	<ChooseAIStoryteller>Kies een AI verteller</ChooseAIStoryteller>
+	<HowStorytellersWork>De AI Storyteller creëert evenementen zoals piraten overvallen, grondstoffen drops, of aanvallen van dieren. Hun keuzes zullen het verhaal van je kolonie beïnvloeden.</HowStorytellersWork>
 
+	<!--=========== Character chooser ==========-->
 	<CreateCharacters>Personages maken</CreateCharacters>
 	<FirstNameDesc>Voornaam.\n\nDeze naam verschijnt alleen in sommige menu's.</FirstNameDesc>
 	<ShortIdentifierDesc>Bijnaam.\n\nDeze naam wordt altijd weergegeven. Het kan de eerste of laatste naam zijn, maar ook een geheel andere bijnaam.</ShortIdentifierDesc>
@@ -41,17 +45,19 @@
 	<Traits>Eigenschappen</Traits>
 	<TraitsDoNothing>De meeste vaardigheden hebben momenteel geen functie. Dit zal in de toekomst veranderen.</TraitsDoNothing>
 	<Skills>Vaardigheden</Skills>
-	<NoneLower>Niets</NoneLower>
-	<Adulthood>Volwassenheid</Adulthood>
+	<NoneLower>niets</NoneLower>
+	<Adulthood>Volwassen</Adulthood>
 	<Childhood>Kinderjaren</Childhood>
-	<Male>Mannelijk</Male>
-	<Female>Vrouwelijk</Female>
+	<Male>Man</Male>
+	<Female>Vrouw</Female>
 
+	<!--=========== Misc ==========-->
 	<Start>Start</Start>
 	<Advanced>Geavanceerd</Advanced>
 	<Next>Volgende</Next>
 	<Back>Terug</Back>
-
+	<Gameplay>Gameplay</Gameplay>
+	
 	<ConfirmQuit>Wil je echt stoppen? Alle niet opgeslagen voortgang gaat verloren.</ConfirmQuit>
 	<EveryoneNeedsValidName>Elke personage heeft een geldige naam nodig.</EveryoneNeedsValidName>
 

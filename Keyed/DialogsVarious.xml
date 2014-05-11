@@ -1,83 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>Bevestig</Confirm>
-  <GoBack>Ga terug</GoBack>
-  <OK>OK</OK>
-  
-  <!-- Save/load -->
-  <SaveGameButton>Opslaan</SaveGameButton>
-  <OverwriteButton>Overschrijven</OverwriteButton>
-  <LoadGameButton>Laden</LoadGameButton>
-  <ConfirmDelete>Wil je {0} echt verwijderen?</ConfirmDelete>
-  <DeleteThisSavegame>Verwijder deze savegame.</DeleteThisSavegame>
-  <SavedAs>Opgeslagen als {0}.</SavedAs>
-  <NeedAName>Voer een naam in alstublieft.</NeedAName>
-  <LoadingLongEvent>Laden...</LoadingLongEvent>  
+	<Confirm>Bevestig</Confirm>
+	<GoBack>Ga terug</GoBack>
+	<OK>OK</OK>
 
-  <!-- Colony naming-->
-  <NameColonyMessage>Iedereen weet dat je niet lang op deze plek wilt blijven. Maar {0} suggesteert dat je de kolonie toch een naam geeft.\n\nHoe moet het genoemd worden?</NameColonyMessage>
-  <ColonyGainsName>De kolonie staat nu bekend als: {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Deze kolonie naam is ongeldig.</ColonyNameIsInvalid>
+	<!-- Save/load -->
+	<SaveGameButton>Opslaan</SaveGameButton>
+	<OverwriteButton>Overschrijven</OverwriteButton>
+	<LoadGameButton>Laden</LoadGameButton>
+	<ConfirmDelete>Wil je {0} echt verwijderen?</ConfirmDelete>
+	<DeleteThisSavegame>Verwijder deze savegame.</DeleteThisSavegame>
+	<SavedAs>Opgeslagen als {0}.</SavedAs>
+	<NeedAName>Voer een naam in alstublieft.</NeedAName>
+	<LoadingLongEvent>Laden...</LoadingLongEvent>  
 
-  <!-- Zone naming -->
-  <ZoneGainsName>Deze zone heet nu: {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Voer een geldige naam in.</ZoneNameIsInvalid>
+	<!-- Colony naming-->
+	<NameColonyMessage>Iedereen weet dat je niet lang op deze plek wilt blijven. Maar {0} suggesteert dat je de kolonie toch een naam geeft.\n\nHoe moet het genoemd worden?</NameColonyMessage>
+	<ColonyGainsName>De kolonie staat nu bekend als: {0}.</ColonyGainsName>
+	<ColonyNameIsInvalid>Deze kolonie naam is ongeldig.</ColonyNameIsInvalid>
 
-  <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Versie klopt niet: Kaart is opgeslagen met game-versie {0}, we lopen versie {1}.\n\nDit spel laden zal waarschijnlijk fouten en crashes veroorzaken.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Save game onverenigbaarheid</SaveGameIncompatibleWarningTitle>
+	<!-- Zone naming -->
+	<ZoneGainsName>Deze zone heet nu: {0}.</ZoneGainsName>
+	<ZoneNameIsInvalid>Voer een geldige naam in.</ZoneNameIsInvalid>
 
-  <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>Je hebt de resolutie aangepast. Werkt de nieuwe resolutie goed?\n\nAutomatische terugzetting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Houden</ResolutionKeep>
-  <ResolutionRevert>Terugzetten</ResolutionRevert>
-  
-  <!-- Overview -->
-  <OverviewOf>Overzicht van {0}</OverviewOf>
-  
-  <!-- Research -->   
-  <Research>Onderzoek</Research>
-  <Researched>Onderzocht</Researched>
-  <Unresearched>Niet onderzocht</Unresearched>
-  <Finished>Afgerond</Finished>
-  <InProgress>Wordt uitgevoerd</InProgress>
+	<!-- Save game incompatible warning -->
+	<SaveGameIncompatibleWarningText>Versie klopt niet: Kaart is opgeslagen met game-versie {0}, we lopen versie {1}.\n\nDit spel laden zal waarschijnlijk fouten en crashes veroorzaken.</SaveGameIncompatibleWarningText>
+	<SaveGameIncompatibleWarningTitle>Save game onverenigbaarheid</SaveGameIncompatibleWarningTitle>
 
-  <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>Waarschuwing: De prestaties op grotere kaart maten kunnen slechter zijn.</MapSizePerformanceWarning>
-  <MapSize>Kaart grootte</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} velden)</MapSizeDesc>
-  <MapSizeSmall>Smal</MapSizeSmall>
-  <MapSizeMedium>Middelmatig</MapSizeMedium>
-  <MapSizeLarge>Groot</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>  
- 
-  <!-- Bill config -->
-  <Suspended>Opgeschort</Suspended>
-  <NotSuspended>Niet opgeschort</NotSuspended>
-  <SuspendedAllCaps>OPGESCHORT</SuspendedAllCaps>
-  <RepeatCount>Herhaal: {0}</RepeatCount>
-  <Forever>Voor altijd</Forever>
-  <IngredientSearchRadius>Grondstoffen zoek bereik</IngredientSearchRadius>
-  <TargetCount>Maken tot je er {0} hebt</TargetCount>
-  <Infinite>Oneindig</Infinite>
-  <RecipeCannotHaveTargetCount>(Dit recept kan geen doel aantal hebben omdat het meerdere of onvoorspelbare ingredienten heeft.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Toegestane ingredienten.</PermittedIngredients>
-  <MinimumSkills>Minimale vaardigheid:</MinimumSkills>
-  <DoXTimes>Herhaal X keer</DoXTimes>
-  <DoUntilYouHaveX>Herhaal tot je er X hebt</DoUntilYouHaveX>
-  <DoForever>Herhaal voor altijd</DoForever>
-  <BillRepeatTargetCountShort>Tot {0}</BillRepeatTargetCountShort>
+	<!-- Resolution change dialog -->
+	<ConfirmResolutionChange>Je hebt de resolutie aangepast. Werkt de nieuwe resolutie goed?\n\nAutomatische terugzetting in {0}...</ConfirmResolutionChange>
+	<ResolutionKeep>Houden</ResolutionKeep>
+	<ResolutionRevert>Terugzetten</ResolutionRevert>
 
-  <!-- Trade -->
-  <YourTradeableSilver>Je verhandelbare zilver: {0}</YourTradeableSilver>
-  <YourTradeableSilverTip>Je kan alleen met silver handelen, als het vlakbij de Orbitale Handelsbaken en niet onder een dak ligt.</YourTradeableSilverTip>
-  
-  <!-- Comms -->
-  <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
-  
-  <!--Other-->
-  <ResearchFinished>Onderzoek klaar: {0}</ResearchFinished>
-  <ResearchScreen>Onderzoek scherm</ResearchScreen>  
+	<!-- Overview -->
+	<OverviewOf>Overzicht van {0}</OverviewOf>
+
+	<!-- Research -->   
+	<Research>Onderzoek</Research>
+	<Researched>Onderzocht</Researched>
+	<Unresearched>Niet onderzocht</Unresearched>
+	<Finished>Afgerond</Finished>
+	<InProgress>Wordt uitgevoerd</InProgress>
+	<ResearchMenuWithoutBench>Totdat je een ONDERZOEKSTAFEL bouwt, zullen je kolonisten niet daadwerkelijk in staat zijn om onderzoek te doen.\n\nEchter, je kunt naar onderzoeksprojecten kijken en kiezen zonder onderzoekstafel.</ResearchMenuWithoutBench>
+
+	<!-- Advanced game start options -->
+	<MapSizePerformanceWarning>Waarschuwing: De prestaties op grotere kaart maten kunnen slechter zijn.</MapSizePerformanceWarning>
+	<MapSize>Kaart grootte</MapSize>
+	<MapSizeDesc>{0}x{0} ({1} velden)</MapSizeDesc>
+	<MapSizeSmall>Smal</MapSizeSmall>
+	<MapSizeMedium>Middelmatig</MapSizeMedium>
+	<MapSizeLarge>Groot</MapSizeLarge>
+	<MapSizeExtreme>Ludeonicrous</MapSizeExtreme>  
+
+	<!-- Bill config -->
+	<Suspended>Opgeschort</Suspended>
+	<NotSuspended>Niet opgeschort</NotSuspended>
+	<SuspendedAllCaps>OPGESCHORT</SuspendedAllCaps>
+	<RepeatCount>Herhaal: {0}</RepeatCount>
+	<Forever>Voor altijd</Forever>
+	<IngredientSearchRadius>Grondstoffen zoek bereik</IngredientSearchRadius>
+	<TargetCount>Maken tot je er {0} hebt</TargetCount>
+	<Infinite>Oneindig</Infinite>
+	<RecipeCannotHaveTargetCount>(Dit recept kan geen doel aantal hebben omdat het meerdere of onvoorspelbare ingredienten heeft.)</RecipeCannotHaveTargetCount>
+	<PermittedIngredients>Toegestane ingredienten.</PermittedIngredients>
+	<MinimumSkills>Minimale vaardigheid:</MinimumSkills>
+	<DoXTimes>Herhaal X keer</DoXTimes>
+	<DoUntilYouHaveX>Herhaal tot je er X hebt</DoUntilYouHaveX>
+	<DoForever>Herhaal voor altijd</DoForever>
+	<BillRepeatTargetCountShort>Tot {0}</BillRepeatTargetCountShort>
+
+	<!-- Trade -->
+	<YourTradeableSilver>Je verhandelbare zilver: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Je kan alleen met silver handelen, als het vlakbij de Orbitale Handelsbaken en niet onder een dak ligt.</YourTradeableSilverTip>
+
+	<!-- Comms -->
+	<SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
+
+	<!--Other-->
+	<ResearchFinished>Onderzoek klaar: {0}</ResearchFinished>
+	<ResearchScreen>Onderzoek scherm</ResearchScreen>  
   
 </LanguageData>

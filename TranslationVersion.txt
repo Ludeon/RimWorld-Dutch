@@ -1,4 +1,4 @@
-Translation version: game version: 0.4.436.2
+Translation version: game version: 0.4.437.1
 
 NOTE:
 This file is just for me, to see if I get the my latest version with each new game version.

@@ -42,10 +42,10 @@
 	<Unresearched>Niet onderzocht</Unresearched>
 	<Finished>Afgerond</Finished>
 	<InProgress>Wordt uitgevoerd</InProgress>
-	<ResearchMenuWithoutBench>Totdat je een ONDERZOEKSTAFEL bouwt, zullen je kolonisten niet daadwerkelijk in staat zijn om onderzoek te doen.\n\nEchter, je kunt naar onderzoeksprojecten kijken en kiezen zonder onderzoekstafel.</ResearchMenuWithoutBench>
+	<ResearchMenuWithoutBench>Totdat je een ONDERZOEKSTAFEL bouwt, zullen je kolonisten niet daadwerkelijk in staat zijn om onderzoek te doen.\n\nEchter, je kunt naar onderzoeksprojecten kijken en een project selecteren zonder onderzoekstafel.</ResearchMenuWithoutBench>
 
 	<!-- Advanced game start options -->
-	<MapSizePerformanceWarning>Waarschuwing: De prestaties op grotere kaart maten kunnen slechter zijn.</MapSizePerformanceWarning>
+	<MapSizePerformanceWarning>WAARSCHUWING:. Prestaties kunnen degraderen op grotere kaart maten tenzij je computer vrij krachtig is.\n\nAls je een zwakke machine hebt, kies Smal.\n\nLudeonicrous grootte is niet getest en zal vrijwel zeker niet goed te spelen.</MapSizePerformanceWarning>
 	<MapSize>Kaart grootte</MapSize>
 	<MapSizeDesc>{0}x{0} ({1} velden)</MapSizeDesc>
 	<MapSizeSmall>Smal</MapSizeSmall>

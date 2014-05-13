@@ -76,7 +76,7 @@
 	<InRestraints>In handboeien (langzamer)</InRestraints>
 	<Carrying>Dragend</Carrying>
 	<SanityDazedWander>Gebroken: Verdwaasd en rondlopend</SanityDazedWander>
-	<SanityGiveUpExit>Gebroken: Opgegeven en vertrekken</SanityGiveUpExit>
+	<SanityGiveUpExit>Gebroken: Opgegeven en vertrekkend</SanityGiveUpExit>
 	<SanityPanicFlee>Gebroken: Vluchtend in paniek</SanityPanicFlee>
 	<SanityPsychotic>Gebroken: Psychotische rooftocht</SanityPsychotic>	
   
@@ -84,7 +84,7 @@
 	<SelectNextInSquareTip>Selecteert het volgende item in het zelfde gebied.\n\nJe kan dit ook doen door langzaam op hetzelfde veld te klikken.</SelectNextInSquareTip>
 
 	<!-- ITab titles -->
-	<TabBills>Opdrachten</TabBills>
+	<TabBills>Opdracht</TabBills>
 	<TabGrowing>Groeien</TabGrowing>
 	<TabCharacter>Karakter</TabCharacter>
 	<TabNeeds>Status</TabNeeds>

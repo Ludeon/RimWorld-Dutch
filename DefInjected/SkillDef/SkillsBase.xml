@@ -31,7 +31,7 @@
 		<Artistic.skillLabel>Kunst</Artistic.skillLabel>
 		<Artistic.pawnLabel>Kunstenaar</Artistic.pawnLabel>
 	
-		<Crafting.skillLabel>Knutselen</Crafting.skillLabel>
-		<Crafting.pawnLabel>Hobbyist</Crafting.pawnLabel>
+		<Crafting.skillLabel>Handwerken</Crafting.skillLabel>
+		<Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
 	
 </LanguageData>

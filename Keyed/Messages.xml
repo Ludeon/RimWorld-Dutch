@@ -22,7 +22,7 @@
 
 	<MessageRecruitSuccess>{0} heeft {1} succesvol gerekruteerd ({2} kans).</MessageRecruitSuccess>
 	<MessageRecruitFail>{0} kon {1} niet rekruteren ({2} kans).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} kon {1} niet rekruteren (Gevangene onder loyaliteit drempel).</MessageRecruitFailBecauseLoyalty>
+	<MessageRecruitFailBecauseLoyalty>{0} kon {1} niet rekruteren (Gevangene onvoldoende loyaliteit).</MessageRecruitFailBecauseLoyalty>
 
 	<MessageTraderCannotAfford>De handelaar kan dit niet betalen.</MessageTraderCannotAfford>
 	<MessageColonyCannotAfford>Die kolonie kan dit niet betalen.</MessageColonyCannotAfford>

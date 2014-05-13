@@ -32,8 +32,8 @@
 
   <CargoPodCrash>Je hebt vlakbij een groep vrachtcapsules zien landen.\n\nMisschien vindt je wel wat nuttigs in de wrakken.</CargoPodCrash>
 
-  <AnElectricalConduit>een electronische leiding</AnElectricalConduit>
-  <AWallsPowerConduit>een electronische leiding in een muur</AWallsPowerConduit>
+  <AnElectricalConduit>een stroom kabel</AnElectricalConduit>
+  <AWallsPowerConduit>een stroom kabel in een muur</AWallsPowerConduit>
   <ShortCircuit>een fout in {0} heeft een kortsluiting veroorzaakt.\n\nEen totaal van {1} Wd aan stroom in de aangesloten batterijen heeft zich ontladen in een electrische explosie.</ShortCircuit>
   <ShortCircuitWasLarge>Deze grote hoeveelheid aan stroom heeft een middelgrote explosie veroorzaakt.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Dat is een enorme explosie. Wauw!</ShortCircuitWasHuge>

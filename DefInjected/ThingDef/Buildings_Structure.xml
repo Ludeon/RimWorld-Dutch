@@ -13,7 +13,7 @@
 	<WallLog.description>Een muur gemaakt van gestapelde houten stammen. Sterk en snel op te bouwen, maar brandbaar en verbruikt veel stammen.</WallLog.description>
 	
 	<WallWood.label>Houten muur</WallWood.label>
-	<WallWood.description>Een muur gemaakt van houten planken. Goedkoop en snel op te bouwen, maar brandbaar en zwak.</WallWood.description>
+	<WallWood.description>Een muur gemaakt van houten planken met een ingebouwde stroomkabel. Goedkoop en snel gebouwd.</WallWood.description>
 		
 	<WallMetal.label>Metalen muur</WallMetal.label>
 	<WallMetal.description>Een metalen muur met electrische bekabeling. Sterk, maar duur en langzaam om te bouwen.</WallMetal.description>

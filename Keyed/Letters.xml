@@ -6,7 +6,7 @@
   <RelationsBrokenDown>Je relaties met {0} zijn kapot gelopen. Ze zijn nu vijanden van jou.</RelationsBrokenDown>
   <RelationsWarmed>Je relaties met {0} zijn verbeterd. Ze zijn niet langer vijanden van jou.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Because you captured {0}, {1} is now your enemy.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Omdat je {0} gevangen nam, is {1} nu een vijand.</RelationsBrokenCapture>
 
   <ColonyGoodwill>Kolonie goede wil</ColonyGoodwill>
   <Neutral>Neutraal</Neutral>

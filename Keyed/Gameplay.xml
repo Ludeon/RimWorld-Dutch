@@ -21,6 +21,7 @@
 	<ReportHauling>Draagt {0}.</ReportHauling>
 
 	<!-- Shooting report -->
+	<WeaponMissRadius>Wapen mis radius</WeaponMissRadius>
 	<RangeSlashSkill>Bereik/bekwaamheid</RangeSlashSkill>
 	<RangeSlashEquipment>Bereik/uitrusting</RangeSlashEquipment>
 	<Darkness>Duisternis</Darkness>
@@ -142,7 +143,7 @@
 
 	<!-- Plants -->
 	<PercentGrowth>{0}% groei</PercentGrowth>
-	<Growing></Growing>
+	<Growing>Aan het groeien.</Growing>
 	<NotGrowingNow>Groeit nu niet (moet {0} worden).</NotGrowingNow>
 	<HarvestableIn>Oogstbaar in {0} van groei.</HarvestableIn>
 	<FullyGrownIn>Volgroeit in {0} van groei.</FullyGrownIn>
@@ -158,8 +159,8 @@
 	<Priority>Prioriteit</Priority>
 
 	<!-- General time stuff -->
-	<Days>dagen</Days>
-	<Seconds>seconden</Seconds>
+	<DaysLower>dagen</DaysLower>
+	<SecondsLower>seconden</SecondsLower>
 	
 	<!-- Mouseover indicator -->
 	<Undiscovered>Niet ontdekt</Undiscovered>
@@ -169,8 +170,8 @@
 
 	<!-- Fire -->
 	<Fire>Brand</Fire>
-	<FireOn>Brand op {0}</FireOn>
-	<Burning>Brand</Burning>
+	<FireOn>Schiet op {0}</FireOn>
+	<Burning>Brandend</Burning>
 	<FireSizeLower>Vuurgrootte {0}</FireSizeLower>
 
 	<!-- Map conditions (eclipse, solar flare, etc )-->

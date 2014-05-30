@@ -6,7 +6,7 @@
 	<CannotUseNoPower>Kan niet gebruikt worden (Geen stroom)</CannotUseNoPower>
 	<CannotUseNoPath>Kan niet gebruikt worden (Geen pad)</CannotUseNoPath>
 
-	<FireAt>Brand op {0}</FireAt>
+	<FireAt>Schiet op {0}</FireAt>
 
 	<OutOfRange>buiten bereik</OutOfRange>
 	<CannotHitTarget>kan doel niet raken</CannotHitTarget>

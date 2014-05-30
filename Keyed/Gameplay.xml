@@ -170,7 +170,7 @@
 
 	<!-- Fire -->
 	<Fire>Brand</Fire>
-	<FireOn>Schiet op {0}</FireOn>
+	<FireOn>Brand op {0}</FireOn>
 	<Burning>Brandend</Burning>
 	<FireSizeLower>Vuurgrootte {0}</FireSizeLower>
 

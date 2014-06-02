@@ -57,6 +57,9 @@
 	<NeedMealSource>Voedselbron nodig</NeedMealSource>
 	<NeedMealSourceDesc>Je hebt geen manier om eetbare maaltijden te maken.\n\nBouw een voedingsstoffen pasta automaat of een kookeiland.\n\n(Het mag niet in een gevangenencel staan, anders kunnen kolonisten het niet gebruiken.)</NeedMealSourceDesc>
 
+	<NeedHomeRegion>Thuis regio nodig</NeedHomeRegion>
+	<NeedHomeRegionDesc>Je moet een thuis regio definiëren, zodat je kolonisten weten waar ze moeten schoon maken, branden blussen en reparaties uitvoeren. Definieer een thuis regio door in het Architect menu in de sectie ZONES voor thuis regio te kiezen.</NeedHomeRegionDesc>
+
 	<NeedBatteries>Batterijen nodig</NeedBatteries>
 	<NeedBatteriesDesc>Je hebt alleen zonnepanelen maar geen batterijen. Dit betekend dat je zonder stroom zit als de zon ondergaat.\n\nBouw een paar batterijen om &apos;s nachts ook stroom te hebben.</NeedBatteriesDesc>
 

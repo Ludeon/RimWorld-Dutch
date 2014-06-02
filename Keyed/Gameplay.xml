@@ -15,7 +15,8 @@
 	<DyingLower>Sterft</DyingLower>
 	<PawnEffectiveness>Effectiviteit</PawnEffectiveness>
 	<FilthOnFeet>Vuil aan voeten:</FilthOnFeet>
-	
+	<NotEnoughStoredLower>niet genoeg opgeslagen</NotEnoughStoredLower>
+  
 	<!-- Job reports -->
  	<ReportHaulingTo>Draagt {0} naar {1}.</ReportHaulingTo>
 	<ReportHauling>Draagt {0}.</ReportHauling>
@@ -82,7 +83,7 @@
 	<SanityPsychotic>Gebroken: Psychotische rooftocht</SanityPsychotic>	
   
     <!-- Inspector general stuff -->	
-	<SelectNextInSquareTip>Selecteert het volgende item in het zelfde gebied.\n\nJe kan dit ook doen door langzaam op hetzelfde veld te klikken.</SelectNextInSquareTip>
+	<SelectNextInSquareTip>Selecteert het volgende item in het zelfde gebied.\n\nSneltoets: {0} \n\nJe kan dit ook doen door langzaam op hetzelfde veld te klikken.</SelectNextInSquareTip>
 
 	<!-- ITab titles -->
 	<TabBills>Opdracht</TabBills>

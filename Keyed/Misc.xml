@@ -12,7 +12,6 @@
 
 	<CloseButton>Sluiten</CloseButton>
 
-
 	<VersionIndicator>Versie {0}</VersionIndicator>
 	<DevelopmentBuildLower>Ontwikkelversie</DevelopmentBuildLower>
 	<CompiledOn>Gecompileert op {0}</CompiledOn>
@@ -23,8 +22,10 @@
 	<CorpseLabel>{0} lijk</CorpseLabel>
 	<CorpseDesc>Dode lichaam van {0}.</CorpseDesc>
 
-
 	<BlueprintLabelExtra>(blauwdruk)</BlueprintLabelExtra>
 	<FrameLabelExtra>(gebouw)</FrameLabelExtra>
 
+	<!-- History events -->
+    <ColonistDied>Kolonist ging dood</ColonistDied>
+  
 </LanguageData>

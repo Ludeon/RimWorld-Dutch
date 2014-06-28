@@ -4,27 +4,33 @@
 	<!-- Various -->
  	<WorkLeft>Werk te gaan</WorkLeft>
 	<Contents>Inhoud</Contents>
+	<ContainedResources>Opgeslagen grondstoffen</ContainedResources>
 	<ForPrisonerUse>Voor gebruik door gevangenen</ForPrisonerUse>
 	<ForColonistUse>Voor gebruik door kolonisten</ForColonistUse>
 	<Owner>Eigenaar</Owner>
 	<Nobody>Niemand</Nobody>
 	<Unowned>Geen eigenaar</Unowned>
-	<GunInstalled>Geinstalleerd</GunInstalled>
 	<DeadTime>Dood {0}</DeadTime>
 	<WalkSpeed>Loop snelheid {0}</WalkSpeed>
 	<DyingLower>Sterft</DyingLower>
 	<PawnEffectiveness>Effectiviteit</PawnEffectiveness>
 	<FilthOnFeet>Vuil aan voeten:</FilthOnFeet>
 	<NotEnoughStoredLower>niet genoeg opgeslagen</NotEnoughStoredLower>
-  
+    <NothingLower>niets</NothingLower>
+	
+	<!-- Turrets -->
+	<GunInstalled>Geinstalleerd</GunInstalled>
+	<MinimumRange>Minimaal bereik</MinimumRange>
+	<CanFireIn>Kan schieten in</CanFireIn>
+
 	<!-- Job reports -->
  	<ReportHaulingTo>Draagt {0} naar {1}.</ReportHaulingTo>
 	<ReportHauling>Draagt {0}.</ReportHauling>
 
 	<!-- Shooting report -->
 	<WeaponMissRadius>Wapen mis radius</WeaponMissRadius>
-	<RangeSlashSkill>Bereik/bekwaamheid</RangeSlashSkill>
-	<RangeSlashEquipment>Bereik/uitrusting</RangeSlashEquipment>
+	<ShootReportSkill>Bekwaamheid</ShootReportSkill>
+	<ShootReportWeapon>Wapen</ShootReportWeapon>
 	<Darkness>Duisternis</Darkness>
 	<TargetProne>Kwetsbaarheid doel</TargetProne>
 	<TargetSize>Doel grootte</TargetSize>
@@ -34,18 +40,14 @@
 	<NoCoverLower>Geen dekking</NoCoverLower>
 	
 	<!-- Status levels -->
-	<Loyalty>Loyaliteit</Loyalty>
-	<LoyaltyTip>Loyaliteit staat voor het geloof van een persoon in de kolonie. Als het te laag zakt, kan de persoon opgeven, of wordt hij onredelijk.\n\nLoyaliteit is gelijk aan de vreugde of angst - Afhankelijk van welke hoger is.</LoyaltyTip>
-	<Happiness>Vreugde</Happiness>
-	<HappinessTip>Vreugde wordt verkregen als er aan fysieke of psygische wensen wordt voldaan.</HappinessTip>
-	<Fear>Angst</Fear>
-	<FearTip>Angst geeft weer hoe sterk een persoon wordt geïntimideerd door hun omgeving.\n\nHet neemt toe als men leert van bedreigingen, geweld en de vertegenwoordiging van de macht.</FearTip>
+	<Mood>Stemming</Mood>
+    <MoodTip>Voor een goede stemming vervul de lichamelijke en geestelijke behoeften.\n\nAls iemands stemming te laag is, kunnen ze gek worden.</MoodTip>
 	<Food>Eten</Food>
 	<FoodTip>Eten geeft aan hoe tevreden iemand is met zijn maaltijden.\n\nEten wordt gereset wanneer iemand eet. Na een tijdje begint het weer te dalen, tot er weer wordt gegeten. Als Eten 0 bereikt, krijgt de persoon schade tot de dood volgt.</FoodTip>
 	<Rest>Rust</Rest>
 	<RestTip>Rust is de kwaliteit van ontspanning en slaap die een persoon krijgt.\n\nHet stijgt tot het maximum als de persoon ligt te slapen in een bed. Eenmaal wakker, daalt het na een tijdje.</RestTip>
 	<Environment>Omgeving</Environment>
-	<EnvironmentTip>Omgeving staat voor hoe prettig de persoon zijn omgeving vindt.\n\nHet is hoog als de persoon in een ruime kamer is met mooie decoratie. Het is laag als de persoo in een lelijke omgeving is.</EnvironmentTip>
+	<EnvironmentTip>Omgeving staat voor hoe prettig de persoon zijn omgeving vindt.\n\nHet is hoog als de persoon in een ruime kamer is met mooie decoratie. Het is laag als de persoon in een lelijke omgeving is.</EnvironmentTip>
 	<Openness>Openheid</Openness>
 	
 	<!-- Thoughts -->
@@ -59,11 +61,6 @@
 	<EffectivenessReduced>Verminderd</EffectivenessReduced>
 	<EffectivenessImpaired>Verzwakt</EffectivenessImpaired>
 	<EffectivenessIncapacitated>Bewusteloos</EffectivenessIncapacitated>
-
-	<!-- Time indicator-->
-	<ClockDay>Dag</ClockDay>
-	<ClockTime>Uur</ClockTime>
-	<ClockTip>De actuele tijd en het aantal dagen zinds je heir geland bent.</ClockTip>
 
 	<!-- Pawn info readout -->
  	<Health>Schadepunten</Health>
@@ -84,6 +81,7 @@
   
     <!-- Inspector general stuff -->	
 	<SelectNextInSquareTip>Selecteert het volgende item in het zelfde gebied.\n\nSneltoets: {0} \n\nJe kan dit ook doen door langzaam op hetzelfde veld te klikken.</SelectNextInSquareTip>
+	<DefInfoTip>Bekijk informatie over dit object.</DefInfoTip>
 
 	<!-- ITab titles -->
 	<TabBills>Opdracht</TabBills>
@@ -91,6 +89,7 @@
 	<TabCharacter>Karakter</TabCharacter>
 	<TabNeeds>Status</TabNeeds>
 	<TabPrisoner>Gevangene</TabPrisoner>
+	<TabGear>Uitrusting</TabGear>
 	<TabThoughts>Gedachten</TabThoughts>
 	<TabStorage>Voorraad</TabStorage>
 
@@ -108,6 +107,14 @@
 	<PrisonerMildBeating>Milde pak slaag</PrisonerMildBeating>
 	<PrisonerViciousBeating>Wrede pak slaag</PrisonerViciousBeating>
 	<PrisonerExecution>Executie</PrisonerExecution>
+	<Equipment>Uitrusting</Equipment>
+	<Apparel>Kleding</Apparel>
+	<Inventory>Inventaris</Inventory>
+	<ThingInfo>Informatie</ThingInfo>
+	<DropThing>Laat vallen</DropThing>
+	<TotalModifiers>Totaal aanpassingen</TotalModifiers>
+	<DamageAbsorption>Schade afname</DamageAbsorption>
+	<MoveSpeed>Beweeg snelheid</MoveSpeed>
 
 	<!-- like 'Blood of John' -->
 	<OfLower>van</OfLower>
@@ -146,7 +153,6 @@
 	<PercentGrowth>{0}% groei</PercentGrowth>
 	<Growing>Aan het groeien.</Growing>
 	<NotGrowingNow>Groeit nu niet (moet {0} worden).</NotGrowingNow>
-	<HarvestableIn>Oogstbaar in {0} van groei.</HarvestableIn>
 	<FullyGrownIn>Volgroeit in {0} van groei.</FullyGrownIn>
 	<ReadyToHarvest>Klaar om te oogsten.</ReadyToHarvest>
 	<Mature>Rijp.</Mature>
@@ -156,7 +162,6 @@
 	<GrowingZone>Groei zone</GrowingZone>
 	<Stockpile>Opslagruimte</Stockpile>
 	<DumpingStockpile>Stortplaats</DumpingStockpile>
-	<SellingStockpile>Verkoop opslagruimte</SellingStockpile>
 	<Priority>Prioriteit</Priority>
 
 	<!-- General time stuff -->
@@ -168,6 +173,7 @@
 
 	<!-- Buttons -->
 	<ZoneVisibilityToggleButton>Schakel de zichtbaarheid van de zones om.</ZoneVisibilityToggleButton>
+	<AutoHomeRegionToggleButton>Schakel het automatisch aanleggen van een Thuis zone rond constructies om.</AutoHomeRegionToggleButton>
 
 	<!-- Fire -->
 	<Fire>Brand</Fire>
@@ -178,4 +184,25 @@
 	<!-- Map conditions (eclipse, solar flare, etc )-->
 	<MapConditionsTip>Bijzondere omstandigheden die op dit moment de omgeving beïnvloeden.</MapConditionsTip>
 
+	<!-- Building placement restricters -->
+	<MustPlaceUnroofed>Kan niet onder een dak geplaatst worden.</MustPlaceUnroofed>
+	<MustPlaceHeadOnShipBeam>Moet met de kop aan de draagbalk geplaatst worden.</MustPlaceHeadOnShipBeam>
+	<MustPlaceNextToHopperAccepter>Moet naast iets geplaatst worden dat een vultrechter nodig heeft.</MustPlaceNextToHopperAccepter>
+	<MustPlaceOnSteamGeyser>Moet boven een stoom geiser geplaatst worden.</MustPlaceOnSteamGeyser>
+
+	<!-- Longsleep pod -->
+	<PodContains>Bevat</PodContains>
+
+	<!-- Ship launch report -->
+	<ShipReportCannotLaunch>Kan niet gelanceerd worden.</ShipReportCannotLaunch>
+	<ShipReportCanLaunch>Klaar voor vertrek.</ShipReportCanLaunch>
+	<ShipReportMissingPart>Belangrijk component missend.</ShipReportMissingPart>
+	<ShipReportNoFullPods>Geen volle langslaap capsules</ShipReportNoFullPods>
+
+	<!-- Game over -->
+	<GameOverEveryoneDead>Iedereen is dood of weg. Dit verhaal is over.\n\nMisschien dat iemand anders deze ruines gaat gebruiken.</GameOverEveryoneDead>
+	<GameOverShipLaunched>Je hebt het schip gelanceerd! Deze kolonisten zijn ontsnapt:\n\n{0}\nDeze kolonisten zijn achter gelaten:\n\n{1}\nJe AI zal nu proberen je schip naar een veilige plek te leiden. Het kan je naar een betere planeet op dit systeem brengen, of een jaren-lange reis naar een andere ster leiden. Het kan zelfs besluiten onder het ice van een astroide te schuilen voor duizenden jaren, wachttend op betere omstandigheden.\n\nDat merk je wel als je wakker wordt.</GameOverShipLaunched>
+	<GameOverKeepPlaying>Doorgaan met spelen</GameOverKeepPlaying>
+	<GameOverMainMenu>Hoofd menu</GameOverMainMenu>
+	
 </LanguageData>

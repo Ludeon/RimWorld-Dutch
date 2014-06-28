@@ -4,31 +4,31 @@
   <NoEffectTraitsList>
     <![CDATA[
   //-------Talents and skills
-Gedachten lezen
-Wiskunde talent
-Taal talent
-Rapierverstand
-Straling tolerantie
-Fantasierijke
-Zakelijk inzicht
-Charisma
-Geweermaker
-Imitator
-Seksueel ervaren
-Seksueel onervaren
-Artistiek
-Muzikant
-Breister
-Wever
-Weer voorspeller
-Leider
-Fashion kennis
-Automonteur
-Cultureel aanpasbaar
-Eidetische geheugen
-Fotografisch geheugen
-Empathie
-Gadgeteer
+	Gedachten lezen
+	Wiskunde talent
+	Taal talent
+	Rapierverstand
+	Straling tolerantie
+	Fantasierijke
+	Zakelijk inzicht
+	Charisma
+	Geweermaker
+	Imitator
+	Seksueel ervaren
+	Seksueel onervaren
+	Artistiek
+	Muzikant
+	Breister
+	Wever
+	Weer voorspeller
+	Leider
+	Fashion kennis
+	Automonteur
+	Cultureel aanpasbaar
+	Eidetische geheugen
+	Fotografisch geheugen
+	Empathie
+	Gadgeteer
 
 
 
@@ -144,8 +144,7 @@ Dyslectische
 Gespleten persoonlijkheid
 Preuts
 Koppig
-Stotteren
-Cosmetische chirurgie
+Stotter
 Zwak
 Werkverslaafde
 Chauvinistisch
@@ -159,7 +158,6 @@ Trots
 Alcoholintolerantie
 
 
-
 //-------Compulsions
 Dwangmatig feestvieren
 Gokverslaafde 
@@ -169,10 +167,6 @@ Dwangmatig dief
 Dwangmatig schelden
 
 
-
-
-
-
 //------Societal position
 Illuminati verbindingen 
 Verstoten door familie 
@@ -180,26 +174,6 @@ Criminele reputatie
 Geëxcommuniceerd 
 Beroemd 
 Geen identiteit
-
-// Aanspraak op gastvrijheid van X factie
-// Sociale status onder X-groep
-// Militaire rang in X factie
-// In de schuld aan X factie
-// Opgejaagd door X factie
-// Adel in X cultuur
-// Erfgenaam / erfgename
-// Lid van
-//  o Military
-//  o Kerk
-//  o Bedrijf
-//  o Universiteit
-//  o Ordo Historia
-//  o Criminele organisatie
-//  o Stam
-//  o Gilde / unie
-//  o Politiebureau
-
-
 
 
 //-------Medical and body
@@ -235,15 +209,32 @@ O-benen
 Platte voeten
 
 
-//-------Aug abilities
+//-------Medisch en lichaam
 Telescopische visie
 Universele spijsvertering
 Scrubber longen
 
 
-
-
 //---- INACTIVE-------------
+
+// Aanspraak op gastvrijheid van X factie
+// Sociale status onder X-groep
+// Militaire rang in X factie
+// In de schuld aan X factie
+// Opgejaagd door X factie
+// Adel in X cultuur
+// Erfgenaam / erfgename
+// Lid van
+//  o Military
+//  o Kerk
+//  o Bedrijf
+//  o Universiteit
+//  o Ordo Historia
+//  o Criminele organisatie
+//  o Stam
+//  o Gilde / unie
+//  o Politiebureau
+
 // Heeft vijanden die komen
 // Besmet met X langdurige pathogeen
 // Gezworen te doen X

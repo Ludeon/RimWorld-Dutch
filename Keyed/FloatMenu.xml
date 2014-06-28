@@ -11,7 +11,8 @@
 	<OutOfRange>buiten bereik</OutOfRange>
 	<CannotHitTarget>kan doel niet raken</CannotHitTarget>
 	<CannotFight>{0} kan niet vechten</CannotFight>
-
+	<OrderManThing>Beman {0}</OrderManThing>
+	
 	<MeleeAttack>Melee aanval {0}</MeleeAttack>
 	<MeleeAttackToDeath>Melee aanval {0} tot het dood is</MeleeAttackToDeath>
 	<NoPath>geen pad</NoPath>
@@ -21,6 +22,7 @@
 	<BurningLower>Brandt</BurningLower>
 	<NoEmptyPlaceLower>Geen lege opslagruimte beschikbaar</NoEmptyPlaceLower>
 	<AlreadyFilledLower>Reeds gevuld</AlreadyFilledLower>
+	<MissingMaterials>heeft materialen nodig</MissingMaterials>
 	
 	<CannotGoNoPath>Kan hier niet heen gaan (geen pad)</CannotGoNoPath>
 	<GoHere>Ga hier heen</GoHere>
@@ -42,11 +44,20 @@
 
 	<Equip>Uitrusten met {0}</Equip>
 	<CannotEquip>Kan {0} niet uitrusten</CannotEquip>
+	
+	<Wear>Draag {0}</Wear>
+	<CannotWear>kan {0} niet dragen</CannotWear>
+  
+	<Strip>Strip {0}</Strip>
+	<CannotStrip>Kan {0} niet strippen</CannotStrip>
 
 	<Deposit>Sla {0} op in {1}</Deposit>
 	<CannotDeposit>Kan {0} niet in {1} opslaan</CannotDeposit>
 
 	<Drop>Laat {0} vallen</Drop>
+	
+	<!-- Specific thing interactions -->
+    <EnterLongsleepPod>Ga langslaap capsule in</EnterLongsleepPod>
 
 	<!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
 	<CannotGenericWork>Kan {1} niet {0}</CannotGenericWork>

@@ -30,5 +30,14 @@
 	<CurrentRes>Huidige resolutie {0}</CurrentRes>
 	
 	<OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  
-</LanguageData>
+	<Privacy>Privacy</Privacy>
+
+	<UserName>Gebruikersnaam</UserName>
+
+	<ChooseHistoryUploadPref>Gameplay data upload voorkeur.</ChooseHistoryUploadPref>
+
+	<CurrentHistoryUploadPref>Huidig {0}</CurrentHistoryUploadPref>
+
+	<AboutHistoryUpload>Gebruikers gameplay data helpt de ontwikkelaar om het spel te balanceren. Als je het ermee eens hebt wordt je spel data elke {0} ingame dagen (en in sommige gevallen zoals het einde van het spel) naar de Rimworld server gestuurd en geanaliseerd. Geuploade data bestaat uit statistieken en geschiedenis informatie gerelateerd an het spel. Geen persoonlijke informatie is verstuurd, behalve de gebruikersnaam, dus het is geheel anoniem.</AboutHistoryUpload>
+
+	</LanguageData>

@@ -1,35 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Dark>Donker</Dark>
-  <Lit>Verlicht</Lit>
-  <LitBrightly>Fel verlicht</LitBrightly>
-  <SkillMax>MAX</SkillMax>
-  
-  <!-- Work tab -->
-  <WorkTab>Werk</WorkTab>
-  <ManualPriorities>Handmatig</ManualPriorities>
-  <HigherPriority>Hogere prioriteit</HigherPriority>
-  <LowerPriority>Lagere prioriteit</LowerPriority>
-  <RelevantSkills>Relevante vaardigheden: {0}\nGemiddelde van relevante vaardigheden: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Klik om te springen naar:</ClickToJumpTo>
-  <CannotDoThisWork>{0} kan dit werk niet doen.</CannotDoThisWork>
-  <NoneBrackets>(geen)</NoneBrackets>
-  
-  <!-- Factions tab -->
-  <FactionsTab>Facties</FactionsTab>
-  <Hostile>Vijandig</Hostile>
-  <HostileTo>Vijand van {0}</HostileTo>
-  <CurrentGoodwill>Huidige goede wil met deze factie.</CurrentGoodwill>
+	<SkillMax>MAX</SkillMax>
 
-  <!-- Statistics tab -->
-  <StatisticsTab>Statistieken</StatisticsTab>
-  <ColonyWealthTotal>Kolonie rijkdom</ColonyWealthTotal>
-  <ColonyWealthItems>Kolonie rijkdom (voorwerpen)</ColonyWealthItems>
-  <ColonyWealthBuildings>Kolonie rijkdom (gebouwen)</ColonyWealthBuildings>
-  <ColonyStrength>Kolonie kracht</ColonyStrength>
-  <Danger>Gevaar</Danger>
-  <FiresOnMap>Brand op de map</FiresOnMap>
-  <NumEnemyRaids>Vijandige overvallen</NumEnemyRaids>
-  
+	<!-- Work tab -->
+	<WorkTab>Werk</WorkTab>
+	<ManualPriorities>Handmatig</ManualPriorities>
+	<HigherPriority>Hogere prioriteit</HigherPriority>
+	<LowerPriority>Lagere prioriteit</LowerPriority>
+	<RelevantSkills>Relevante vaardigheden: {0}\nGemiddelde van relevante vaardigheden: {1} / {2}</RelevantSkills>
+	<ClickToJumpTo>Klik om te springen naar:</ClickToJumpTo>
+	<CannotDoThisWork>{0} kan dit werk niet doen.</CannotDoThisWork>
+	<NoneBrackets>(geen)</NoneBrackets>
+
+	<!-- Factions tab -->
+	<FactionsTab>Facties</FactionsTab>
+	<Hostile>Vijandig</Hostile>
+	<HostileTo>Vijand van {0}</HostileTo>
+	<CurrentGoodwill>Huidige goede wil met deze factie.</CurrentGoodwill>
+
+	<!-- Statistics tab -->
+	<StatisticsTab>Statistieken</StatisticsTab>
+	<ColonyWealthTotal>Kolonie rijkdom</ColonyWealthTotal>
+	<ColonyWealthItems>Kolonie rijkdom (voorwerpen)</ColonyWealthItems>
+	<ColonyWealthBuildings>Kolonie rijkdom (gebouwen)</ColonyWealthBuildings>
+	<NumBigThreats>Grote gevaren</NumBigThreats>
+	<NumEnemyRaids>Vijandige aanvallen</NumEnemyRaids>
+	<DamageTaken>Schade ontvangen</DamageTaken>
+	<ColonistsKilled>Kolonisten gedood</ColonistsKilled>
+	<ColonistsLaunched>Kolonisten gelanceerd naar de ruimte</ColonistsLaunched>
+
+	<!-- History tab -->
+	<HistoryTab>Geschiedenis</HistoryTab>
+	<SelectGraph>Selecteer grafiek</SelectGraph>
+	<Last30Days>Laatste 30 dagen</Last30Days>
+	<Last100Days>Laatste 100 dagen</Last100Days>
+	<Last300Days>Laatste 300 dagen</Last300Days>
+	<AllDays>Alle</AllDays>
+	<Day>Dagen</Day>
+	<Value>Waarde</Value>
+	<External>Externe</External>
+
 </LanguageData>

@@ -17,15 +17,17 @@
 	<OfficialWiki>Officiele wiki</OfficialWiki>
 	<TynansTwitter>Tynan's twitter</TynansTwitter>
 	<TynansDesignBook>Tynan's ontwerp boek</TynansDesignBook>
+	<HelpTranslate>Vertaal RimWorld</HelpTranslate>
 
 	<!--=========== Version info ==========-->
-	<BuildNowAvailable>Versie {0} is nu verkrijgbaar. Je zal het spel moeten updaten.</BuildNowAvailable>
+	<BuildNowAvailable>Versie {0} is nu verkrijgbaar. Kijk op ludeon.com voor meer informatie.</BuildNowAvailable>
 	<BuildUpToDate>Versie is actueel.</BuildUpToDate>
 	<ErrorGettingVersionInfo>Fout bij het proberen om de versie te controleren: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Versie informatie laden...</LoadingVersionInfo>
 
 	<!--=========== Mods screen ==========-->
 	<GetMods>Zoek mods</GetMods>
+	<OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
 	<ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitzetten? Het spel werkt niet tenzij je een andere mod hebt dat alle functionaliteiten overneemt.\n\nLet op, andere mods kunnen alle defs in de core mod overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
 	<Author>Auteur</Author>
 

@@ -51,4 +51,22 @@
 
   <WandererJoin>Een {0} genaamd NAME is gearriveerd en sluit zich aan bij de kolonie. HECAP is een {1}.</WandererJoin>
   
+  <!-- Crashed ship part-->
+  <SpaceshipPartCrash>Een groot stuk van een zeer oud schip is dichtbij neergestort.\n\nJe kolonisten voelen het prikkelen in hun achterhoofd, sprekend over onuitsprekelijke daden. Het moet een AI persona met een psychische vaardigheid aan boord hebben. En deze AI is niet vriendelijk.\n\nVernietig het zo snel mogelijk.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>Het oude gebouw heeft een psychische golf uitgezonden dat de dieren gek gedreven heeft.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Het neergestorte schip heeft een psychische golf uitgezonden dat kolonist {0} gek gedreven heeft.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>{0} dagen geleden wakker geworden.</AwokeDaysAgo>
+  <PsychicDroneLevel>Psychische drone level: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Laag</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Medium</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Hoog</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Extreem</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Het neergestorte schip stuurt nu een sterkere psychische drone uit. Elke mensachtige in de omgeving voelt zich verontrust, doodsbang en paranoide.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0} is ontdekt als spion van vijand {1}.\n\nDe spion probeert nu te vluchten.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>Een pijn schiet door je hoofd alsof het een spijker is!\n\nEen afgelegen motor van haat is actief. Het projecteert een krachtige psychische golf boven de hele regio. De komende paar dagen zal iedereens stemming slechter zijn.</LetterIncidentPsychicDrone>
+  
 </LanguageData>

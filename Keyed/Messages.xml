@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MessageRaidersLeaving>Plunderaars van {0} verlaten het gebied.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>Plunderaars van {0} hebben het opgegeven en verlaten het gebied.</MessageRaidersGivenUpLeaving>
+	<MessageSiegersAssaulting>Sieging {0} van {1} vallen de kolonie aan.</MessageSiegersAssaulting>
 
-	<MessageFightersFleeing>Vechters van {0} vluchten.</MessageFightersFleeing>
-	<MessageFriendlyFightersLeaving>Vriendelijke vechters van {0} verlaten het gebied.</MessageFriendlyFightersLeaving>
+	<MessageRaidersBeginningAssault>{0} van {1} beginnen hun aanval.</MessageRaidersBeginningAssault>
+	<MessageRaidersDetectedEarlyAssault>{0} van {1} hebben je ontdekt en beginnen hun aanval.</MessageRaidersDetectedEarlyAssault>
+	<MessageRaidersKidnapping>{0} van {1} hebben besloten gevangenen te nemen en de kolonie te verlaten.</MessageRaidersKidnapping>
 
-	<MessageRaidersBeginningAssault>Plunderaars van {0} beginnen met de aanval.</MessageRaidersBeginningAssault>
-	<MessageRaidersDetectedEarlyAssault>Plunderaars van {0} hebben je ontdekt en vallen aan.</MessageRaidersDetectedEarlyAssault>
-	
+	<MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} van {0} hebben het opgegeven en verlaten het gebied.</MessageRaidersGivenUpLeaving>
+	<MessageRaidersSatisfiedLeaving>{0} van {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
+
+	<MessageFightersFleeing>{0} van {1} vluchten.</MessageFightersFleeing>
+	<MessageFriendlyFightersLeaving>Vriendelijke {0} van {1} verlaten het gebied.</MessageFriendlyFightersLeaving>
+
 	<MessageShipHasLeftCommsRange>{0} is nu buiten bereik.</MessageShipHasLeftCommsRange>
 
 	<MessageNeedBeaconToTradeWithShip>Je hebt een orbitale baken nodig voor de handel met een ruimteschip.</MessageNeedBeaconToTradeWithShip>

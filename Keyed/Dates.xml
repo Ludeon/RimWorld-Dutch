@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Tiid</ClockTime>
+  <ClockDate>Datum</ClockDate>
+  <ClockYear>Jaar</ClockYear>
+  <DateReadoutTip>Dagen verstreken sinds je aankomst:{0}\nEr zijn {1} dagen in elke maand.</DateReadoutTip>
+
+  <FullDate>{1} {0}, Jaar {2}</FullDate>
+  <MonthFullDate>{1} {0}</MonthFullDate>
+  
+  <MonthFullJanuary>Januari</MonthFullJanuary>
+  <MonthFullFebruary>Februari</MonthFullFebruary>
+  <MonthFullMarch>Maart</MonthFullMarch>
+  <MonthFullApril>April</MonthFullApril>
+  <MonthFullMay>Mei</MonthFullMay>
+  <MonthFullJune>Juni</MonthFullJune>
+  <MonthFullJuly>Juli</MonthFullJuly>
+  <MonthFullAugust>Augustus</MonthFullAugust>
+  <MonthFullSeptember>September</MonthFullSeptember>
+  <MonthFullOctober>October</MonthFullOctober>
+  <MonthFullNovember>November</MonthFullNovember>
+  <MonthFullDecember>December</MonthFullDecember>
+
+  <MonthShortJanuary>Jan</MonthShortJanuary>
+  <MonthShortFebruary>Feb</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Apr</MonthShortApril>
+  <MonthShortMay>Mei</MonthShortMay>
+  <MonthShortJune>Jun</MonthShortJune>
+  <MonthShortJuly>Jul</MonthShortJuly>
+  <MonthShortAugust>Aug</MonthShortAugust>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
+  <MonthShortOctober>Oct</MonthShortOctober>
+  <MonthShortNovember>Nov</MonthShortNovember>
+  <MonthShortDecember>Dec</MonthShortDecember>
+    
+</LanguageData>

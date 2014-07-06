@@ -3,18 +3,6 @@
 
 	<ClickToJumpToProblem>Klik om naar het probleem te gaan.</ClickToJumpToProblem>
 
-	<AlertNeedStockpile>Opslagplaats nodig</AlertNeedStockpile>
-	<AlertNeedStockpileDesc>Je kolonisten hebben een opslagplaats nodig om alle grondstoffen te plaatsen. Zet een opslagplaats op voor ze.\n\nJe kan opslagplaatsen aanwijzen door in de Zones sectie van het Architect menu te zoeken.</AlertNeedStockpileDesc>
-
-	<AlertUnforbidStartingResources>Grondstoffen toestaan</AlertUnforbidStartingResources>
-	<AlertUnforbidStartingResourcesDesc>Grondstoffen op de map starten met de selectie VERBODEN.\n\nVoordat je kolonisten er mee mogen werken, moet je aangeven dat ze de grondstoffen mogen gebruiken. Dit kan door de TOESTAAN knop onder in het scherm (sneltoets: F).</AlertUnforbidStartingResourcesDesc>
-
-	<AlertEquipStartingWeapons>Wapens uitrusten</AlertEquipStartingWeapons>
-	<AlertEquipStartingWeaponsDesc>Je kolonisten landen met enkele wapens. Rust je kolonisten er mee uit!\n\nSelecteer elke kolonist en klik met de rechter muisknop op een wapen waar je ze mee wilt uitrusten.</AlertEquipStartingWeaponsDesc>
-
-	<NeedSawmill>Zaagmolen nodig</NeedSawmill>
-	<NeedSawmillDesc>Je hebt een zaagmolen nodig om de houten stammen om te zetten in de meer bruikbare houten planken.\n\nBouw een HAND zaagmolen of een ELECTRISCHE zaagmolen.</NeedSawmillDesc>
-
 	<EquipStartingEquipment>Neem je uitrusting</EquipStartingEquipment>
 	<EquipStartingEquipmentDesc>Je bent geland met enkele wapens. Neem ze van je landingszone.\n\nOm iets uit te rusten, selecteer een kolonist en klik met de rechter muisknop op het voorwerp dat je wilt uitrusten.</EquipStartingEquipmentDesc>
 
@@ -29,7 +17,7 @@
 	<ColonistsNeedRescueDesc>  Deze kolonisten liggen zwaar gewond op de grond:\n\n{0}\nStuur een andere kolonist om ze te redden en naar een bed te brengen. \n\n(Om een kolonist te redden, selecteer een andere kolonist en klik met de klik met de rechter muisknop op het slachtoffer en selecteer Kolonist redden.)</ColonistsNeedRescueDesc>
 
 	<BuildARoom>Bouw een kamer</BuildARoom>
-	<BuildARoomDesc>Een kamer bestaat uit meerdere stukken muur en deur.\n\nGebruik het ARCHITECT menu aan de onderkant van het scherm om aan te geven waar je iets gebouwd wilt hebben. Als je hebt aangegeven waar gebouwt moet worden, zullen je kolonisten het werk doen zodra ze kunnen.</BuildARoomDesc>
+	<BuildARoomDesc>Je hebt geen kamers.\n\nBouw een afgesloten ruimte door muren en een deur te gebruiken.\n\nGebruik het ARCHITECT menu aan de onderkant van het scherm om aan te geven waar je iets gebouwd wilt hebben. Als je hebt aangegeven waar gebouwt moet worden, zullen je kolonisten het werk doen zodra ze kunnen.</BuildARoomDesc>
 
 	<NeedGrowingZone>Landbouw zone nodig</NeedGrowingZone>
 	<NeedGrowingZoneDesc>Je hebt geen landbouw zones.\n\nPlaats een landbouw zone op vruchtbare grond door het ARCHITECT menu te gebruiken.</NeedGrowingZoneDesc>
@@ -50,7 +38,7 @@
 	<LowFoodDesc>Je hebt slechts {0} voedsel in opslag. Dit is gevaarlijk weinig.\n\nGroei, koop, vindt, of jaag voor voedsel.</LowFoodDesc>
 
 	<NeedColonistBeds>Kolonisten bedden nodig</NeedColonistBeds>
-	<NeedColonistBedsDesc>Je hebt meer kolonisten dan bedden. Sommige kolonisten kunnen niet slapen.\n\nMaak enkele bedden, of verander een gevangenen bed in een kolonisten bed.\n\nMocht je geen grondstoffen hebben, een slaapplek is gratis en kan direct geplaatst worden.</NeedColonistBedsDesc>
+	<NeedColonistBedsDesc>Je hebt meer kolonisten dan bedden. Sommige kolonisten kunnen niet slapen.\n\nMaak enkele bedden, of verander een gevangenen bed in een kolonisten bed.</NeedColonistBedsDesc>
 
 	<Starvation>Honger</Starvation>
 	<StarvationDesc>Deze kolonisten zijn hongerig:\n\n{0}\nGeef ze wat eten. Je zult een voedselbron zoals een voedingsstoffen pasta automaat en wat voedsel om het te voeden nodig hebben. Zorg er ook voor dat je kolonisten niet in militaire modus staan.</StarvationDesc>
@@ -82,7 +70,7 @@
 	<NeedResearchProjectDesc>Je hebt de mogelijkheid om iets te onderzoeken, maar geen project geselecteerd.\n\nOpen het onderzoek menu en selecteer een project.</NeedResearchProjectDesc>
 
 	<NeedDump>Stortplaats nodig</NeedDump>
-	<NeedDumpDesc>Je hebt stukken steen die je kolonisten willen verplaatsen, maar ze kunnen het nergens kwijt.\n\nWijs een opslagplaats aan en zet de opslag instellingen op accepteer stukken steen.</NeedDumpDesc>
+	<NeedDumpDesc>Je hebt brokstukken die je kolonisten willen verplaatsen, maar ze kunnen het nergens kwijt.\n\nWijs een opslagplaats aan en zet de opslag instellingen op accepteer brokstukken.</NeedDumpDesc>
 
 	<NeedGrave>Graf nodig</NeedGrave>
 	<NeedGraveDesc>Er ligt een dood lijk op de grond en je kolonisten kunnen het nergens kwijt.\n\nLeg een graf aan of maak een stortplaats en zet de opslag instellingen op accepteer lijken.</NeedGraveDesc>
@@ -90,9 +78,6 @@
 	<ColonistsIdle>{0} werkloze kolonisten</ColonistsIdle>
 	<ColonistsIdleDesc>Deze kolonisten zijn werkloos:\n\n{0}\nJe zou ze wat nuttigs te doen kunnen geven.</ColonistsIdleDesc>
 
-	<HaltedConstructions>{0} bouwopdrachten missen materialen</HaltedConstructions>
-    <HaltedConstructionsDesc>De volgende bouwopdrachten missen materialen:\n\n{0}\nHet zou verstandig zijn als je de materialen beschikbaar maakt voor je kolonisten.</HaltedConstructionsDesc>
-	
 	<TableNeedsChairs>Tafel heeft stoelen nodig</TableNeedsChairs>
 	<TableNeedsChairsDesc>Je hebt een tafel zonder stoelen ernaast. Tafels zijn nutteloos zonder tenzij kolonisten er aan kunnen zitten.</TableNeedsChairsDesc>
 

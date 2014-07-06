@@ -17,9 +17,9 @@
   <DesignatorHarvestWoodDesc>Markeert bomen die gekapt moeten worden.</DesignatorHarvestWoodDesc>
   
   <DesignatorHaulThings>Voorwerpen dragen</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Markeert stukken steen en andere voorwerpen om gedragen te worden. Is niet nodig voor voedsel of lijken, welke altijd draagbaar zijn.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Markeert puin en andere voorwerpen om gedragen te worden. Is niet nodig voor voedsel of lijken, welke altijd draagbaar zijn.</DesignatorHaulThingsDesc>
   <NothingToHaulHere>Niets om te dagen.</NothingToHaulHere>
-  <MustHaulHaulables>Kan alleen gebruikt worden om niet automatisch draagdare voorwerpen te selecteren (zoals stukken steen).</MustHaulHaulables>
+  <MustHaulHaulables>Kan alleen gebruikt worden om niet automatisch draagdare voorwerpen te selecteren (zoals puin).</MustHaulHaulables>
 
   <DesignatorHunt>Jagen</DesignatorHunt>
   <DesignatorHuntDesc>Markeert dieren om op te jagen.</DesignatorHuntDesc>

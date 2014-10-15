@@ -1,108 +1,108 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Goto.reportString>Geht.</Goto.reportString>
+	<Goto.reportString>Bewegen.</Goto.reportString>
 	
-	<Wait.reportString>Steht.</Wait.reportString>
+	<Wait.reportString>Staan.</Wait.reportString>
 	
-	<AttackStatic.reportString>Greift TargetA an.</AttackStatic.reportString>
+	<AttackStatic.reportString>valt TargetA aan.</AttackStatic.reportString>
 	
-    <AttackMelee.reportString>Greift TargetA im Nahkampf an.</AttackMelee.reportString>
+    <AttackMelee.reportString>Valt TargetA met de hand aan.</AttackMelee.reportString>
 	
-	<UseVerbOnThing.reportString>Benutzt verb.</UseVerbOnThing.reportString>
+	<UseVerbOnThing.reportString>Gebruikt verb.</UseVerbOnThing.reportString>
 	
-	<Equip.reportString>Rüstet sich mit TargetA aus.</Equip.reportString>
+	<Equip.reportString>Rust zich met TargetA uit.</Equip.reportString>
 	
     <!--============= Misc ============-->
   
-	<Wear.reportString>Zieht TargetA an.</Wear.reportString>
+	<Wear.reportString>Trekt TargetA aan.</Wear.reportString>
   
-	<Strip.reportString>Zieht TargetA aus.</Strip.reportString>
+	<Strip.reportString>Trekt TargetA uit.</Strip.reportString>
 	
-	<Hunt.reportString>Jagt TargetA.</Hunt.reportString>
+	<Hunt.reportString>Jaagt op TargetA.</Hunt.reportString>
 	
-	<ManThing.reportString>Bedient Maschine.</ManThing.reportString>
+	<ManThing.reportString>Bedient machine.</ManThing.reportString>
 	
-	<EnterCryptosleepPod.reportString>Benutzt Kryoschlafkapsel.</EnterCryptosleepPod.reportString>
+	<EnterCryptosleepPod.reportString>Gaat cryptosleep pod in.</EnterCryptosleepPod.reportString>
 	
-	<UseNeurotrainer.reportString>Benutzt Neuronaltrainer.</UseNeurotrainer.reportString>
+	<UseNeurotrainer.reportString>Gebruikt Neuronaltrainer.</UseNeurotrainer.reportString>
 	
     <!--============ Fire ============-->
   
-	<Ignite.reportString>Zündet TargetA an.</Ignite.reportString>
+	<Ignite.reportString>Steekt TargetA aan.</Ignite.reportString>
 	
-	<BeatFire.reportString>Löscht Feuer.</BeatFire.reportString>
+	<BeatFire.reportString>Vuur aan het uitslaan.</BeatFire.reportString>
 	
-	<ExtinguishSelf.reportString>Löscht sich selbst.</ExtinguishSelf.reportString>
+	<ExtinguishSelf.reportString>Blust zichzelf.</ExtinguishSelf.reportString>
 	
     <!--============ Need satisfaction ============-->
   
-	<EatFood.reportString>Isst von TargetA.</EatFood.reportString>
+	<EatFood.reportString>Eet van TargetA.</EatFood.reportString>
 	
-	<LayDown.reportString>Legt sich hin.</LayDown.reportString>
+	<LayDown.reportString>Gaat slapen.</LayDown.reportString>
 	
     <!--============= Item hauling ===============-->
 	
-	<HaulToCell.reportString>Trägt TargetA zum Boden.</HaulToCell.reportString>
+	<HaulToCell.reportString>Draagt TargetA naar opslagplaats.</HaulToCell.reportString>
 	
-	<HaulToContainer.reportString>Trägt TargetA.</HaulToContainer.reportString>
+	<HaulToContainer.reportString>Draagt TargetA.</HaulToContainer.reportString>
 	
     <!--============= Pawn hauling ===============-->
 	
-	<Rescue.reportString>Rettet TargetA.</Rescue.reportString>
+	<Rescue.reportString>Redt TargetA.</Rescue.reportString>
 	
-	<Capture.reportString>Fängt TargetA.</Capture.reportString>
+	<Capture.reportString>Pakt TargetA.</Capture.reportString>
 	
-	<Arrest.reportString>Nimmt TargetA gefangen.</Arrest.reportString>
+	<Arrest.reportString>Neemt TargetA gevangen.</Arrest.reportString>
 	
-	<EscortPrisonerToBed.reportString>Eskortiert Gefangenen TargetA.</EscortPrisonerToBed.reportString>
+	<EscortPrisonerToBed.reportString>Escorteert gevangene TargetA.</EscortPrisonerToBed.reportString>
 	
-	<TakeWoundedPrisonerToBed.reportString>Bringt verwundeten Gefangenen TargetA weg.</TakeWoundedPrisonerToBed.reportString>
+	<TakeWoundedPrisonerToBed.reportString>Brengt de gewonde gevangene TargetA naar bed.</TakeWoundedPrisonerToBed.reportString>
 	
-	<TakeToBedToOperate.reportString>Bringt TargetA ins Bett.</TakeToBedToOperate.reportString>
+	<TakeToBedToOperate.reportString>Brengt TargetA naar bed.</TakeToBedToOperate.reportString>
 	
-	<Kidnap.reportString>Entführt TargetA.</Kidnap.reportString>
-	
-	
+	<Kidnap.reportString>Ontvoert TargetA.</Kidnap.reportString>
 	
 	
-	<DeliverFood.reportString>Bringt TargetB zu TargetA.</DeliverFood.reportString>
 	
-	<FeedPatient.reportString>Füttert TargetB mit TargetA.</FeedPatient.reportString>
 	
-	<HealPatient.reportString>Heilt TargetA.</HealPatient.reportString>
+	<DeliverFood.reportString>Brengt TargetB naar TargetA.</DeliverFood.reportString>
 	
-	<PlaceNoCostFrame.reportString>Baut TargetA.</PlaceNoCostFrame.reportString>
+	<FeedPatient.reportString>Voert TargetB met TargetA.</FeedPatient.reportString>
 	
-	<DoBill.reportString>Macht Aufgabe am TargetA.</DoBill.reportString>
+	<HealPatient.reportString>Lapt TargetA op.</HealPatient.reportString>
 	
-	<Clean.reportString>Säubert TargetA.</Clean.reportString>
+	<PlaceNoCostFrame.reportString>Bouwt TargetA.</PlaceNoCostFrame.reportString>
 	
-	<Research.reportString>Forscht.</Research.reportString>
+	<DoBill.reportString>Doet opdrachten voor TargetA.</DoBill.reportString>
 	
-	<UseCommsConsole.reportString>Funkt.</UseCommsConsole.reportString>
+	<Clean.reportString>Maakt TargetA schoon.</Clean.reportString>
 	
-	<Mine.reportString>Baut TargetA ab.</Mine.reportString>
+	<Research.reportString>Doet onderzoek.</Research.reportString>
 	
-	<Repair.reportString>Repariert TargetA.</Repair.reportString>
+	<UseCommsConsole.reportString>Gebruikt communicatieconsole.</UseCommsConsole.reportString>
 	
-	<FinishFrame.reportString>Baut TargetA.</FinishFrame.reportString>
+	<Mine.reportString>Delft TargetA.</Mine.reportString>
 	
-	<Sow.reportString>Sät TargetA.</Sow.reportString>
+	<Repair.reportString>Repareert TargetA.</Repair.reportString>
 	
-	<Harvest.reportString>Erntet TargetA.</Harvest.reportString>
+	<FinishFrame.reportString>Bouwt TargetA.</FinishFrame.reportString>
 	
-	<CutPlant.reportString>Schneidet TargetA.</CutPlant.reportString>
+	<Sow.reportString>Zaagt TargetA.</Sow.reportString>
 	
-	<Deconstruct.reportString>Reißt TargetA ab.</Deconstruct.reportString>
+	<Harvest.reportString>Oogst TargetA.</Harvest.reportString>
 	
-	<PrisonerFriendlyChat.reportString>Redet mit Gefangenen TargetA.</PrisonerFriendlyChat.reportString>
+	<CutPlant.reportString>Snijdt TargetA.</CutPlant.reportString>
 	
-	<PrisonerBeatingMild.reportString>Schlägt Gefangene TargetA leicht.</PrisonerBeatingMild.reportString>
+	<Deconstruct.reportString>Breekt TargetA af.</Deconstruct.reportString>
 	
-	<PrisonerBeatingVicious.reportString>Schlägt Gefangenen TargetA brutal.</PrisonerBeatingVicious.reportString>
+	<PrisonerFriendlyChat.reportString>Praat met gevangene TargetA.</PrisonerFriendlyChat.reportString>
 	
-	<PrisonerExecution.reportString>Exekutiert TargetA.</PrisonerExecution.reportString>
+	<PrisonerBeatingMild.reportString>Slaat gevangene TargetA.</PrisonerBeatingMild.reportString>
+	
+	<PrisonerBeatingVicious.reportString>Slaat gevangene TargetA hard.</PrisonerBeatingVicious.reportString>
+	
+	<PrisonerExecution.reportString>Executeert TargetA.</PrisonerExecution.reportString>
 	
 	
 	

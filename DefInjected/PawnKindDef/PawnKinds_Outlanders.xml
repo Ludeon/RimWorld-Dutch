@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Slave.label>Sklave</Slave.label>
-	<Villager.label>Dorfbewohner</Villager.label>
-	<TownGuard.label>Stadtwache</TownGuard.label>
+	<Slave.label>Slaaf</Slave.label>
+	<Villager.label>Dropsbewoner</Villager.label>
+	<TownGuard.label>Stadswacht</TownGuard.label>
 	
 	
 	

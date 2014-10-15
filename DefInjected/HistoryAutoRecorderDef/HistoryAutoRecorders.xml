@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<WealthTotal.label>Wert (Gesamt)</WealthTotal.label>
+	<WealthTotal.label>Welstand (totaal)</WealthTotal.label>
 	
-	<WealthItems.label>Wert (Gegenstände)</WealthItems.label>
+	<WealthItems.label>Welstand (voorwerpen)</WealthItems.label>
 	
-	<WealthBuildings.label>Wert (Gebäude)</WealthBuildings.label>
+	<WealthBuildings.label>Welstand (gebouwen)</WealthBuildings.label>
 	
-	<FreeColonists.label>Freie Kolonisten</FreeColonists.label>
+	<FreeColonists.label>Vrije kolonisten</FreeColonists.label>
 	
-	<Prisoners.label>Gefangene</Prisoners.label>
+	<Prisoners.label>Gevangenen</Prisoners.label>
 	
-	<ColonistMood.label>Stimmung</ColonistMood.label>
+	<ColonistMood.label>Stemming</ColonistMood.label>
 	
 	<!--
 	<ColonistFear.label>Angst</ColonistFear.label>

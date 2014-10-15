@@ -1,42 +1,42 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
 	<!-- Diseases -->
-	<Euthanasia.label>Sterbehilfe</Euthanasia.label>
+	<Euthanasia.label>euthanasie</Euthanasia.label>
 	
-	<ShutDown.label>Abschaltung</ShutDown.label>
+	<ShutDown.label>Uitzetten</ShutDown.label>
 	
-	<WoundInfection.label>Infizierte Wunde</WoundInfection.label>
+	<WoundInfection.label>Geïnfecteerde wond</WoundInfection.label>
 	<rep>
 		<path>WoundInfection.disease.severityStages[0].label</path>
 		<trans>gering</trans>
 	</rep>
 	<rep>
 		<path>WoundInfection.disease.severityStages[1].label</path>
-		<trans>größer</trans>
+		<trans>groot</trans>
 	</rep>
 	<rep>
 		<path>WoundInfection.disease.severityStages[2].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>WoundInfection.disease.severityStages[3].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>WoundInfection.disease.severityStages[4].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	
-	<BadBack.label>Rückenprobleme</BadBack.label>
+	<BadBack.label>Rugproblemen</BadBack.label>
 	
-	<Cataract.label>Grauer Star</Cataract.label>
+	<Cataract.label>grauwe staar</Cataract.label>
 	
-	<Anesthetic.label>Betäubung</Anesthetic.label>
+	<Anesthetic.label>Verdoofd</Anesthetic.label>
 	
-	<Concussion.label>Gehirnerschütterung</Concussion.label>
+	<Concussion.label>hersenschudding</Concussion.label>
 	
-	<Flu.label>Grippe</Flu.label>
+	<Flu.label>griep</Flu.label>
 	<rep>
 		<path>Flu.disease.severityStages[0].label</path>
 		<trans>gering</trans>
@@ -47,15 +47,15 @@
 	</rep>
 	<rep>
 		<path>Flu.disease.severityStages[2].label</path>
-		<trans>größer</trans>
+		<trans>groot</trans>
 	</rep>
 	<rep>
 		<path>Flu.disease.severityStages[3].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>Flu.disease.severityStages[4].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	
 	<Plague.label>Pest</Plague.label>
@@ -69,19 +69,19 @@
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[2].label</path>
-		<trans>größer</trans>
+		<trans>groot</trans>
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[3].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[4].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>Plague.disease.severityStages[5].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	
 	<Malaria.label>Malaria</Malaria.label>
@@ -95,15 +95,15 @@
 	</rep>
 	<rep>
 		<path>Malaria.disease.severityStages[2].label</path>
-		<trans>größer</trans>
+		<trans>groot</trans>
 	</rep>
 	<rep>
 		<path>Malaria.disease.severityStages[3].label</path>
-		<trans>extrem</trans>
-	</rep>
+		<trans>extreem</trans>
+	</rep>       
 	<rep>
 		<path>Malaria.disease.severityStages[4].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	
 	<SleepingSickness.label>Schlafkrankheit</SleepingSickness.label>
@@ -121,19 +121,19 @@
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[3].label</path>
-		<trans>größer</trans>
+		<trans>groot</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[4].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[5].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	<rep>
 		<path>SleepingSickness.disease.severityStages[6].label</path>
-		<trans>extrem</trans>
+		<trans>extreem</trans>
 	</rep>
 	
 	

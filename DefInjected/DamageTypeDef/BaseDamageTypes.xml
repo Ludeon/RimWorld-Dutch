@@ -1,68 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Cut.label>Schnitt</Cut.label>
-	<Cut.deathMessage>{0} wurde zerschnitten</Cut.deathMessage>
+	<Cut.label>Snee</Cut.label>
+	<Cut.deathMessage>{0} is gestorven aan sneden</Cut.deathMessage>
 	
-	<Crush.label>Quetschung</Crush.label>
-	<Crush.deathMessage>{0} wurde zerquetscht.</Crush.deathMessage>
+	<Crush.label>Verplettering</Crush.label>
+	<Crush.deathMessage>{0} is geplet</Crush.deathMessage>
 	
-	<Blunt.label>Schlag</Blunt.label>
-	<Blunt.deathMessage>{0} wurde erschlagen.</Blunt.deathMessage>
+	<Blunt.label>Slag</Blunt.label>
+	<Blunt.deathMessage>{0} is doodgeslagen.</Blunt.deathMessage>
 	
-	<Stab.label>Stich</Stab.label>
-	<Stab.deathMessage>{0} wurde erstochen.</Stab.deathMessage>
+	<Stab.label>Steek</Stab.label>
+	<Stab.deathMessage>{0} is doodgestoken.</Stab.deathMessage>
 	
-	<Bullet.label>Kugel</Bullet.label>
-	<Bullet.deathMessage>{0} wurde erschossen.</Bullet.deathMessage>
+	<Bullet.label>Kogel</Bullet.label>
+	<Bullet.deathMessage>{0} is doodgeschoten.</Bullet.deathMessage>
 	
-	<Arrow.label>Pfeil</Arrow.label>
-	<Arrow.deathMessage>{0} wurde erschossen.</Arrow.deathMessage>
+	<Arrow.label>Pijl</Arrow.label>
+	<Arrow.deathMessage>{0} is doodgeschoten.</Arrow.deathMessage>
 	
-	<Scratch.label>Kratzer</Scratch.label>
-	<Scratch.deathMessage>{0} wurde zerrissen.</Scratch.deathMessage>
+	<Scratch.label>Krab</Scratch.label>
+	<Scratch.deathMessage>{0} is doodgekrabt.</Scratch.deathMessage>
 	
-	<Bite.label>Biss</Bite.label>
-	<Bite.deathMessage>{0} wurde totgebissen.</Bite.deathMessage>
+	<Bite.label>Beet</Bite.label>
+	<Bite.deathMessage>{0} is doodgebeten.</Bite.deathMessage>
 	
-	<Bomb.label>Explosion</Bomb.label>
-	<Bomb.deathMessage>{0} ist in einer Explosion umgekommen.</Bomb.deathMessage>
+	<Bomb.label>Explosie</Bomb.label>
+	<Bomb.deathMessage>{0} is omgekomen door een explosie.</Bomb.deathMessage>
 	
-	<Flame.label>Flamme</Flame.label>
-	<Flame.deathMessage>{0} ist verbrannt.</Flame.deathMessage>
+	<Flame.label>Vuur</Flame.label>
+	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
 	
-	<SurgicalCut.label>Operativer Eingriff</SurgicalCut.label>
-	<SurgicalCut.deathMessage>{0} ist bei der Operation verstorben.</SurgicalCut.deathMessage>
+	<SurgicalCut.label>medische ingreep</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} is bij een medische ingreep omgekomen.</SurgicalCut.deathMessage>
 	
-	<Stun.label>Betäubung</Stun.label>
-	<Stun.deathMessage>{0} wurde betäubt und starb.</Stun.deathMessage>
+	<Stun.label>Verlamd</Stun.label>
+	<Stun.deathMessage>{0} werd verlamd en is er aan gestorven.</Stun.deathMessage>
 	
 	<EMP.label>EMP</EMP.label>
-	<EMP.deathMessage>{0} wurde durch EMP getötet.</EMP.deathMessage>
+	<EMP.deathMessage>{0} is door een EMP gedood.</EMP.deathMessage>
 	
-	<Bleeding.label>Blutung</Bleeding.label>
-	<Bleeding.deathMessage>{0} ist verblutet.</Bleeding.deathMessage>
+	<Bleeding.label>Bloeding</Bleeding.label>
+	<Bleeding.deathMessage>{0} is doodgebloed.</Bleeding.deathMessage>
 	
-	<Suffocation.label>Erstickung</Suffocation.label>
-	<Suffocation.deathMessage>{0} ist erstickt.</Suffocation.deathMessage>
+	<Suffocation.label>Verstikking</Suffocation.label>
+	<Suffocation.deathMessage>{0} is gestikt.</Suffocation.deathMessage>
 	
-	<Starvation.label>Hunger</Starvation.label>
-	<Starvation.deathMessage>{0} ist verhungert.</Starvation.deathMessage>
+	<Starvation.label>Honger</Starvation.label>
+	<Starvation.deathMessage>{0} is verhongerd.</Starvation.deathMessage>
 	
   <!-- Healing local injury -->
-	<HealLocalInjury.label>Heilen einzelner Verletzungen</HealLocalInjury.label>
+	<HealLocalInjury.label>Locale wonden aan het verzorgen</HealLocalInjury.label>
 	
   <!-- Healing global injury -->
-	<HealGlobalInjury.label>Heilen aller Verletzungen</HealGlobalInjury.label>
+	<HealGlobalInjury.label>Alle wonden aan het verzorgen</HealGlobalInjury.label>
 	
   <!-- Restoring body part -->
-	<RestoringBodyPart.label>Körperteil wieder herstellen</RestoringBodyPart.label>
+	<RestoringBodyPart.label>Lichaamsdeel herstellen</RestoringBodyPart.label>
 	
   <!-- misc -->
-	<Breakdown.label>Zusammenbruch</Breakdown.label>
-	<Mining.label>Abbauen</Mining.label>
+	<Breakdown.label>Zenuwinzinking</Breakdown.label>
+	<Mining.label>Delven</Mining.label>
 	<Rotting.label>Verrotten</Rotting.label>
-	<Extinguish.label>Löschen</Extinguish.label>
+	<Extinguish.label>Blussen</Extinguish.label>
 	
 	
 </LanguageData>

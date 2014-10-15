@@ -2,28 +2,49 @@
 <LanguageData>
 
   <!-- glow -->
-  <Dark>Donker</Dark>
-  <Lit>Verlicht</Lit>
-  <LitBrightly>Sterk verlicht</LitBrightly>
+  <Dark>Dunkel</Dark>
+  <Lit>Hell</Lit>
+  <LitBrightly>Sehr hell</LitBrightly>
   
   <!-- food quality -->
-  <NoneQuality>Geen</NoneQuality>
-  <PlantQuality>Plant</PlantQuality>
-  <RawQuality>Rauw</RawQuality>
-  <MealAwfulQuality>Slecht</MealAwfulQuality>
-  <MealSimpleQuality>Simpel</MealSimpleQuality>
-  <MealFineQuality>Goed</MealFineQuality>
-  <MealLavishLavish>Uitmuntend</MealLavishLavish>
+  <NoneQuality>Keine</NoneQuality>
+  <PlantQuality>Pflanzlich</PlantQuality>
+  <RawQuality>Roh</RawQuality>
+  <MealAwfulQuality>Wiederlich</MealAwfulQuality>
+  <MealSimpleQuality>Einfach</MealSimpleQuality>
+  <MealFineQuality>Lecker</MealFineQuality>
+  <MealLavishLavish>Reichlich</MealLavishLavish>
   
   <!-- diet type -->
-  <NeverEats>Eet nooit</NeverEats>
-  <Omnivorous>Omnivoor</Omnivorous>
-  <Herbivorous>Herbivoor</Herbivorous>
-  <Carnivorous>Carnivoor</Carnivorous>
+  <NeverEats>Isst nicht</NeverEats>
+  <Omnivorous>Allesfresser</Omnivorous>
+  <Herbivorous>Pflanzenfresser</Herbivorous>
+  <Carnivorous>Fleischfresser</Carnivorous>
   
   <!-- history upload pref -->
-  <Unspecified>Niet besloten</Unspecified>
-  <Always>Toestaan</Always>
-  <Never>Niet toestaan</Never>
+  <Unspecified>Unentschlossen</Unspecified>
+  <Always>Erlauben</Always>
+  <Never>Nicht erlauben</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>sehr billig</PriceTypeVeryCheap>
+  <PriceTypeCheap>billig</PriceTypeCheap>
+  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeExpensive>teuer</PriceTypeExpensive>
+  <PriceTypeExorbitant>überteuert</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>Allgemein</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Allgemein</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Rüstung</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primär</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Arbeit</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Kampf</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sozial</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Versch.</StatCategory_PawnMisc>
+  <StatCategory_Building>Gebäude</StatCategory_Building>
+  
+  <EquippedStatOffsets>Anpassung wenn ausgerüstet</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Modifizierer wenn Ausrüstung hieraus gemacht ist</StuffOfEquipmentStatModifiers>
   
 </LanguageData>

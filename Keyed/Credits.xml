@@ -1,80 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <FullCredits>
-  <![CDATA[
-	--Ludomancer--
-    Tynan Sylvester
-
-    --Spel ontwerp--
-    Rhopunzel
-
-    --Menu ontwerp--
-    Ricardo Tomé
-
-    --Muziek en geluid effecten--
-    Alistair Lindsay
-
-	--Additional programming--
-    Piotr Walczak
-
-    --Donated mod code--
-    Haplo
-	
-    --Creatieve content moderatie--
-    Joshua Grant
-    Conor Robinson
-
-    --Creatieve content systeem--
-    Benjamin 'Hypolite' Lorteau
-
-    --Primary translators--
-    TheEisbaer (Duits)
-    Haplo (Duits)
-    Hiztaar (Frans)
-    Neone (Pools)
-    AlyxMS (Chinees)
-    AcDie (Russisch)
-    joeyeti (Slowaaks)
-    Vhiden (Spaans)
-    Ribas (Portugees)
-    Ser-Geeves (Nederlands)
-
-    --Bijdragende vertalers--
-    GlobusGames (Pools)
-    John Fucking Rambo (Pools)
-
-    --Testers--
-    Semmy
-    ItchyFlea
-    Erik Nystrom
-	Pheanox
-    Haplo
-    Many others!
-
-    --Gratis geluiden met dank aan--
-	Onderzoek borrelen: Glaneur de sons
-	klik: TicTacShutUp
-	Schep hits: shall555
-	Houweel hits: cameronmusic
-	Gebouw plaatsing: joedeshon and HazMatt
-	Vlees effecten: harri
-	Eten neerzetten: JustinBW
-	Voedingsstoffen pasta automaat: raywilson
-	Wapen hanteren: S_Dij, KNO_SFX
-	Lijk neerleggen: CosmicEmbers and Sauron974
-	Groeien klaar pop: yottasounds
-	Vuur uitbarsting: JoelAudio (Joel Azzopardi)
-	Interface pops: Volterock, patchen, broumbroum
-	Melee mis: yuval
-	Boor bouw A: cmusounddesign
-	Boor bouw B: AGFX
-	Bouw ratel: gelo_papas
-	Bouw graaien: D W
-	Het eten: zebraphone
-	Granaat pin: ryanconway
-	]]>
-  </FullCredits>
   
+    <!-- Names -->
+  <Credit_Ludomancer>Entwickler</Credit_Ludomancer>
+  <Credit_MusicAndSound>Musik und Soundeffekte</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Zusätzliche Programmierung</Credit_AdditionalProgramming>
+  <Credit_GameArt>Spiel Grafik</Credit_GameArt>
+  <Credit_MenuArt>Menü Grafik</Credit_MenuArt>
+
+  <Credits_TitleTesting>Test Team</Credits_TitleTesting>
+  <Credit_Tester>Tester</Credit_Tester>
+
+  <Credits_TitleLanguage>Sprache: {0}</Credits_TitleLanguage>
+  <Credit_Writer>Schreiber</Credit_Writer>
+  <Credit_Translator>Übersetzer</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open-Source-Bibliotheken</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Geräusch Generierung</Credit_NoiseGeneration>
   
 </LanguageData>

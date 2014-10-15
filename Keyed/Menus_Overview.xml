@@ -1,44 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+  
+  <!-- Tab titles -->
+  <WorkTab>Arbeit</WorkTab>
+  <FactionsTab>Fraktionen</FactionsTab>
+  <StatisticsTab>Statistik</StatisticsTab>
+  <HistoryTab>Geschichte</HistoryTab>
+  <WorldTab>Welt</WorldTab>
 
-	<SkillMax>MAX</SkillMax>
+  <!-- Work tab -->
+  <ManualPriorities>Manuelle Prior.</ManualPriorities>
+  <HigherPriority>Höhere Priorität</HigherPriority>
+  <LowerPriority>Niedrige Priorität</LowerPriority>
+  <RelevantSkills>Relevante Fähigkeiten: {0}\nDurchschnitt aller relevanten Fähigkeiten: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Zum Hinspringen, hier klicken:</ClickToJumpTo>
+  <CannotDoThisWork>{0} kann diese Art von Arbeit nicht machen.</CannotDoThisWork>
+  <NoneBrackets>(nichts)</NoneBrackets>
+  
+  <!-- Factions tab -->
+  <Hostile>Feindlich</Hostile>
+  <HostileTo>Gegner von {0}</HostileTo>
+  <CurrentGoodwill>Aktueller Ruf bei dieser Fraktion (-100 bis 100).</CurrentGoodwill>
 
-	<!-- Work tab -->
-	<WorkTab>Werk</WorkTab>
-	<ManualPriorities>Handmatig</ManualPriorities>
-	<HigherPriority>Hogere prioriteit</HigherPriority>
-	<LowerPriority>Lagere prioriteit</LowerPriority>
-	<RelevantSkills>Relevante vaardigheden: {0}\nGemiddelde van relevante vaardigheden: {1} / {2}</RelevantSkills>
-	<ClickToJumpTo>Klik om te springen naar:</ClickToJumpTo>
-	<CannotDoThisWork>{0} kan dit werk niet doen.</CannotDoThisWork>
-	<NoneBrackets>(geen)</NoneBrackets>
+  <!-- Statistics tab -->
+  <Storyteller>Erzähler</Storyteller>
+  <ColonyWealthTotal>Wert der Kolonie</ColonyWealthTotal>
+  <ColonyWealthItems>Wert der Kolonie (Gegenstände)</ColonyWealthItems>
+  <ColonyWealthBuildings>Wert der Kolonie (Gebäude)</ColonyWealthBuildings>
+  <NumThreatBigs>Größere Gefahren</NumThreatBigs>
+  <NumEnemyRaids>Überfälle</NumEnemyRaids>
+  <DamageTaken>Schaden genommen</DamageTaken>
+  <ColonistsKilled>Getötete Kolonisten</ColonistsKilled>
+  <ColonistsLaunched>Mit Raumschiff gestartete Kolonisten</ColonistsLaunched>
 
-	<!-- Factions tab -->
-	<FactionsTab>Facties</FactionsTab>
-	<Hostile>Vijandig</Hostile>
-	<HostileTo>Vijand van {0}</HostileTo>
-	<CurrentGoodwill>Huidige goede wil met deze factie.</CurrentGoodwill>
-
-	<!-- Statistics tab -->
-	<StatisticsTab>Statistieken</StatisticsTab>
-	<ColonyWealthTotal>Kolonie rijkdom</ColonyWealthTotal>
-	<ColonyWealthItems>Kolonie rijkdom (voorwerpen)</ColonyWealthItems>
-	<ColonyWealthBuildings>Kolonie rijkdom (gebouwen)</ColonyWealthBuildings>
-	<NumBigThreats>Grote gevaren</NumBigThreats>
-	<NumEnemyRaids>Vijandige aanvallen</NumEnemyRaids>
-	<DamageTaken>Schade ontvangen</DamageTaken>
-	<ColonistsKilled>Kolonisten gedood</ColonistsKilled>
-	<ColonistsLaunched>Kolonisten gelanceerd naar de ruimte</ColonistsLaunched>
-
-	<!-- History tab -->
-	<HistoryTab>Geschiedenis</HistoryTab>
-	<SelectGraph>Selecteer grafiek</SelectGraph>
-	<Last30Days>Laatste 30 dagen</Last30Days>
-	<Last100Days>Laatste 100 dagen</Last100Days>
-	<Last300Days>Laatste 300 dagen</Last300Days>
-	<AllDays>Alle</AllDays>
-	<Day>Dagen</Day>
-	<Value>Waarde</Value>
-	<External>Externe</External>
-
+  <!-- History tab -->
+  <SelectGraph>Wähle Graph</SelectGraph>
+  <Last30Days>30 Tage</Last30Days>
+  <Last100Days>100 Tage</Last100Days>
+  <Last300Days>300 Tage</Last300Days>
+  <AllDays>Alle</AllDays>
+  <Day>Tag</Day>
+  <Value>Wert</Value>
+  <External>Extern</External>
+  
 </LanguageData>

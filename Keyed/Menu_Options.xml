@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Audiovisuals>Audiovisuele hulpmiddelen</Audiovisuals>
+  <!-- Audiovisuals -->
+  <Audiovisuals>Audio/Grafik</Audiovisuals>
+  <GameVolume>Spiellautstärke</GameVolume>
+  <MusicVolume>Musiklautstärke</MusicVolume>
+  <GraphicsQuality>Grafikqualität</GraphicsQuality>
+  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Gut</GraphicsQualityGreat>
 
-	<GameVolume>Spel volume</GameVolume>
-	<MusicVolume>Muziek volume</MusicVolume>
-	 
-	<GraphicsQuality>Grafische kwaliteit</GraphicsQuality>
-	<GraphicsQualityNormal>Normaal</GraphicsQualityNormal>
-	<GraphicsQualityGreat>Goed</GraphicsQualityGreat>  
-
-	<EdgeScreenScroll>Schermzijde muis scroll</EdgeScreenScroll>
-	<CustomCursor>Aangepaste muis aanwijzer</CustomCursor>
-
-	<ChooseLanguage>Kies taal</ChooseLanguage>
-
-	<AdaptiveTutor>Adaptieve leraar</AdaptiveTutor>
-	<ResetAdaptiveTutor>Reset adaptieve leraar</ResetAdaptiveTutor>
-	<AdaptiveTutorIsReset>De adaptieve leraar is opnieuw ingesteld. Hij zal je nu alles opnieuw aanleren.</AdaptiveTutorIsReset>
-
-	<RunInBackground>Ga verder op de achtergrond</RunInBackground>
-	<DevelopmentMode>Ontwikkelaars modus</DevelopmentMode>
-	<LogDeepProfileData>Deep profiler inschakelen</LogDeepProfileData>
-
-	<NamesYouWantToSee>Achternamen van de Naam in het Spel of Achtergrond verhaal in het Spel van personen in het spel die je wilt zien:</NamesYouWantToSee>
-
-	<Resolution>Resolutie</Resolution>
-	<Fullscreen>Volledig Scherm</Fullscreen>
-	<CurrentRes>Huidige resolutie {0}</CurrentRes>
-	
-	<OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-	<Privacy>Privacy</Privacy>
-
-	<UserName>Gebruikersnaam</UserName>
-
-	<ChooseHistoryUploadPref>Gameplay data upload voorkeur.</ChooseHistoryUploadPref>
-
-	<CurrentHistoryUploadPref>Huidig {0}</CurrentHistoryUploadPref>
-
-	<AboutHistoryUpload>Gebruikers gameplay data helpt de ontwikkelaar om het spel te balanceren. Als je het ermee eens hebt wordt je spel data elke {0} ingame dagen (en in sommige gevallen zoals het einde van het spel) naar de Rimworld server gestuurd en geanaliseerd. Geuploade data bestaat uit statistieken en geschiedenis informatie gerelateerd an het spel. Geen persoonlijke informatie is verstuurd, behalve de gebruikersnaam, dus het is geheel anoniem.</AboutHistoryUpload>
-
-	</LanguageData>
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Maus-Scroll am Bildschirmrand</EdgeScreenScroll>
+  <CustomCursor>Individueller Mauszeiger</CustomCursor>
+  <ChooseLanguage>Sprache wählen</ChooseLanguage>
+  <AdaptiveTutor>Adaptives Tutorial</AdaptiveTutor>
+  <ResetAdaptiveTutor>Adapt. Tutorial zurücksetzen</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Das adaptive Tutorial wurde zurückgesetzt. Es wird dir nun alles von Anfang an neu erklären.</AdaptiveTutorIsReset>
+  <RunInBackground>Im Hintergrund aktiv</RunInBackground>
+  <DevelopmentMode>Entwicklungsmodus</DevelopmentMode>
+  <LogDeepProfileData>Tiefenprofiler aktivieren</LogDeepProfileData>
+  <OpenSaveGameDataFolder>Spielstandsverzeichnis</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Nachnamen von Charakteren des 'Name in game' bzw. 'Backstory in game' Tiers, die du gerne sehen möchtest:</NamesYouWantToSee>
+  <ChangeStoryteller>Ändere Erzähler-KI</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>Auflösung</Resolution>
+  <Fullscreen>Vollbild</Fullscreen>
+  <CurrentRes>Aktuell: {0}</CurrentRes>
+  <ChooseResolution>Wähle Auflösung</ChooseResolution>
+  
+  <Privacy>Privatsphäre</Privacy>
+  
+  <UserName>Benutzer</UserName>
+  
+  <ChooseHistoryUploadPref>Wähle Upload-Einstellungen</ChooseHistoryUploadPref>
+  
+  <CurrentHistoryUploadPref>Aktuell: {0}</CurrentHistoryUploadPref>
+  
+    <AboutHistoryUpload>Die Spielverlaufsdaten der Spieler helfen dem Entwicklern das Spiel zu verbessern.\nWenn Du zustimmst, werden Deine Informationen alle {0} RimWorld-Tage (und bei einigen anderen seltenen Ereignissen, wie z.B. dem Spielende) auf den RimWorld-Server hochgeladen und dort analysiert.\nDie hochgeladenen Spieldaten enthalten nur Statistiken und historische Ereignisse, die mit dem Spiel zu tun haben. Es werden keine persönlichen Informationen, mit Ausnahme des eingetragenen Benutzernamens, gesendet.\nDas bedeutet, dass die Informationen komplett Anonym sind.</AboutHistoryUpload>
+  
+  
+</LanguageData>

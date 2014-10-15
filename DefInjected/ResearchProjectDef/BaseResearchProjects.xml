@@ -1,41 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Hydroponics.label>Hydrocultuur</Hydroponics.label>
-	<Hydroponics.description>Maakt het mogelijk om Hydrocultuur tafels te maken en planten overdekt te kunnen verbouwen.</Hydroponics.description>
-	
-	<PneumaticPicks.label>Pneumatische houwelen</PneumaticPicks.label>
-	<PneumaticPicks.description>De houwelen zijn 20% effectiever.</PneumaticPicks.description>
-	
-	<Stonecutting.label>Steenhouwen</Stonecutting.label>
-    <Stonecutting.description>Maakt het mogelijk de Steenhouwerstafel te bouwen. Hier kunnen je kolonisten stenen puin omzetten in bruikbare stenen blokken.</Stonecutting.description>
-	
-	<SlagRefining.label>SlagRefining</SlagRefining.label>
-    <SlagRefining.description>Bouwen slak raffinaderijen die hitte en sterke elektromagneten gebruiken om bruikbare metalen te halen uit slakken puin.</SlagRefining.description>
-   
-    <Machining.label>Machinaal vervaardigen</Machining.label>
-    <Machining.description>Bouwen bewerkingstafels om dode mechanoids demonteren in bruikbare metalen.</Machining.description>	
-	
-	<NutrientResynthesis.label>Nutrient Resynthesis</NutrientResynthesis.label>
-	<NutrientResynthesis.description>Voedingsstoffen pasta automaten verbruiken 10% minder voedsel per geproduceerde maaltijd.</NutrientResynthesis.description>
-	
-	<GunTurretCooling.label>Kanon geschut afkoelen</GunTurretCooling.label>
-	<GunTurretCooling.description>Kanonnen schieten nu 4 keer in plaats van 3 keer per ronde.</GunTurretCooling.description>
-	
-    <Cremation.label>Crematie</Cremation.label>
-    <Cremation.description>Bouw crematoriums waar je van je lijken af kan komen.</Cremation.description>
-	
-	<StrongDoors.label>Versterkte deuren</StrongDoors.label>
-    <StrongDoors.description>Electrische deuren hebben 100 extra schadepunten.</StrongDoors.description>
+	<Hydroponics.label>Hydrokulturen</Hydroponics.label>
+	<Hydroponics.description>Schaltet die Hydrokulturbecken frei. Hiermit kannst du Pflanzen im Gebäude anbauen.</Hydroponics.description>
 
-	<CarpetMaking.label>Tapijt maken</CarpetMaking.label>
-	<CarpetMaking.description>Maakt het mogelijk om tapijt aan te leggen. Dit verbeterd de kwaliteit van de omgeving.\n\nJe kolonisten zijn hier erg blij mee.</CarpetMaking.description>
-		
-    <ColoredLights.label>Gekleurde lampen</ColoredLights.label>
-    <ColoredLights.description>Maakt het mogelijk om je kolonisten gekleurde lampen te laten maken. Alleen decoratief.</ColoredLights.description>
+	<PneumaticPicks.label>Pneumatische Spitzhacken</PneumaticPicks.label>
+	<PneumaticPicks.description>Die Spitzhacken sind 20% effizienter.</PneumaticPicks.description>
+	
+	<Stonecutting.label>Steinhauerei</Stonecutting.label>
+    	<Stonecutting.description>Du kannst den Tisch eines Steinmetzen bauen. Hiermit kannst du Felsbrocken in Steinblöcke verarbeiten, welche du wiederum für den Bau verwenden kannst.</Stonecutting.description>
 
-	<FearTech1.label>Angst Technologie</FearTech1.label>
-	<FearTech1.description>Onderzoek nieuwe manieren om angst te zaaien.</FearTech1.description>
-	<FearTech1.descriptionDiscovered>Je kan nu martel kooien bouwen om de lijken van je vijanden of kolonisten tentoon te stellen. Zij die hier naar kijken zullen intense angst en walging voelen. Dit is een technologie uit de oudheid, simpel, maar erg effectief.</FearTech1.descriptionDiscovered>
-		
+	<ElectricSmelting.label>Elektr. Schmelzofen</ElectricSmelting.label>
+    	<ElectricSmelting.description>Du kannst elektrische Schmelzöfen bauen. Sie benutzen Wärme und starke Elektromagnete, um Schlackebrocken und andere Dinge einzuschmelzen.</ElectricSmelting.description>
+	
+	<Machining.label>Mechanik</Machining.label>
+    	<Machining.description>Du kannst Mechanikwerkbänke bauen, an denen Mechanoiden in brauchbares Metall zerlegt werden können.</Machining.description>	
+	
+	<NutrientResynthesis.label>Nährstoff Resynthese</NutrientResynthesis.label>
+	<NutrientResynthesis.description>Nährstoffpastenspender verbraucht 10% weniger Nahrung pro Mahlzeit.</NutrientResynthesis.description>
+	
+	<GunTurretCooling.label>Kühlung Autom. Gewehr</GunTurretCooling.label> 
+	<GunTurretCooling.description>Selbstschussanlagen schießen anstatt mit 3, mit 4 Schüssen pro Salve.</GunTurretCooling.description>
+	
+	<Mortars.label>Mörser</Mortars.label> 
+	<Mortars.description>Lerne Mörser zu bauen, die Geschosse über Mauern auf weit entfernte Ziele verschießen.</Mortars.description>
+	
+	<Cremation.label>Feuerbestattung</Cremation.label> 
+	<Cremation.description>Baue Krematorien, in denen Leichen verbrannt werden können.</Cremation.description>
+
+	<CarpetMaking.label>Teppichherstellung</CarpetMaking.label>
+	<CarpetMaking.description>Schaltet die Herstellung von Teppichen frei. Hiermit kann die Umgebung der Kolonisten verschönert werden.</CarpetMaking.description>
+	
+	<Tailoring.label>Schneidern</Tailoring.label>
+	<Tailoring.description>Erlaubt Kolonisten einen Schneidertisch zu bauen. Mit diesem kann Kleidung aus Stoff, Leder oder anderen Materialien hergestellt werden..</Tailoring.description>
+	
+	<ColoredLights.label>Farbige Beleuchtung</ColoredLights.label>
+	<ColoredLights.description>Erlaubt Kolonisten farbige Lichter zur Dekoration zu erstellen.</ColoredLights.description>
+	
+	<HospitalBed.label>Krankenbetten</HospitalBed.label>
+	<HospitalBed.description>Erlaubt Kolonisten Krankenbetten herzustellen, welche die Chance auf erfolgreiche medizinische Operationen erhöhen.</HospitalBed.description>
+
+	<!--
+	<FearTech1.label>Folterwerkzeuge 1</FearTech1.label>
+	<FearTech1.description>Erforsche neue Wege, Angst zu verbreiten.</FearTech1.description>
+	<FearTech1.descriptionDiscovered>Du kannst jetzt Galgenkäfige zur Zurschaustellung von Leichen von Feinden oder Unruhestiftern bauen. Ihr Anblick ruft Angst und Ekel hervor. Dieses ist ein antikes und grobes, aber außerordentlich wirkungsvolles Werkzeug.</FearTech1.descriptionDiscovered>
+	-->
+
+
+	
 </LanguageData>

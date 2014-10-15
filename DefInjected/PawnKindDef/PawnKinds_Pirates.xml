@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Drifter.label>Zwerver</Drifter.label>
-	<Scavenger.label>Aaseter</Scavenger.label>
-	<Pirate.label>Piraat</Pirate.label>
+	<Drifter.label>Wanderer</Drifter.label>
+	<Scavenger.label>Schrottjäger</Scavenger.label>
+	<Thrasher.label>Schläger</Thrasher.label>
+	<Pirate.label>Pirat</Pirate.label>
 	
 </LanguageData>

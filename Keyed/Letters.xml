@@ -1,29 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <JumpToLocation>Ga naar lokatie</JumpToLocation>
+  <JumpToLocation>Zum Ort springen</JumpToLocation>
 
-  <RelationsBrokenDown>Je relaties met {0} zijn kapot gelopen. Ze zijn nu vijanden van jou.</RelationsBrokenDown>
-  <RelationsWarmed>Je relaties met {0} zijn verbeterd. Ze zijn niet langer vijanden van jou.</RelationsWarmed>
+  <RelationsBrokenDown>Die Beziehungen zu {0} haben sich verschlechtert. Sie sind dir jetzt feindlich gesinnt.</RelationsBrokenDown>
+  <RelationsWarmed>Die Beziehungen zu {0} haben sich verbessert. Sie sind dir nicht länger feindlich gesinnt.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Omdat je {0} gevangen nam, is {1} nu een vijand.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Weil du {0} gefangen hast, ist dir {1} jetzt feindlich gesinnt.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Kolonie goede wil</ColonyGoodwill>
-  <Neutral>Neutraal</Neutral>
+  <ColonyGoodwill>Ruf der Kolonie</ColonyGoodwill>
+  <Neutral>Neutral</Neutral>
 
-  <ShortCircuitRain>Een {0} is kort gesloten in de regen en heeft een brand veroorzaakt.</ShortCircuitRain>
-  <AreaRevealed>Een nieuw ruimte is ontdekt.</AreaRevealed>
+  <ShortCircuitRain>{0} hatte durch den Regen einen Kurzschluss und fing Feuer.</ShortCircuitRain>
+  <AreaRevealed>Ein neues Gebiet wurde entdeckt.</AreaRevealed>
 
-  <RoofCollapsed>Een dak is ingestort omdat het te ver van ondersteuning was.</RoofCollapsed>
-  <TheseThingsCrushed>Deze dingen zijn verpletterd:</TheseThingsCrushed>
-  <NothingCrushed>Niets was verpletterd.</NothingCrushed>
+  <RoofCollapsed>Ein Dach ist eingestürzt, da jede mögliche Stütze zu weit entfernt war.</RoofCollapsed>
+  <TheseThingsCrushed>Folgendes wurden zerquetscht:</TheseThingsCrushed>
+  <NothingCrushed>Nichts wurde zerquetscht.</NothingCrushed>
   
-  <MentalBreakRampage>{0} is geestelijk ingestort en valt iedereen aan.</MentalBreakRampage>
-  <MentalBreakDaze>{0} heeft het opgegeven en verlaat de kolonie.</MentalBreakDaze>
-  <MentalBreakLeave>{0}heeft het opgegeven en loopt verbijsterd rond.</MentalBreakLeave>
+  <MentalBreakRampage>{0} hat einen Nervenzusammenbruch und startet einen Amoklauf.</MentalBreakRampage>
+  <MentalBreakDaze>{0} hat aufgegeben und läuft verwirrt herum.</MentalBreakDaze>
+  <MentalBreakLeave>{0} hat aufgegeben und verlässt die Kolonie.</MentalBreakLeave>
 
-  <RecruitSuccess>Het is {0} gelukt om {1} te rekruteren ({2}kans).</RecruitSuccess>
-  <RecruitFail>Het is {0} niet gelukt om {1} te rekruteren ({2}kans).</RecruitFail>
+  <RecruitSuccess>{0} hat erfolgreich {1} rekrutiert ({2} Chance).</RecruitSuccess>
+  <RecruitFail>{0} konnte {1} nicht rekrutieren ({2} Chance).</RecruitFail>
   
+  <Birthday>Heute ist {0}'s Geburtstag! {1} wurde {2}.</Birthday>
+  <BirthdayWithInjuries>Heute ist {0}'s Geburtstag! {1} wurde {2}.\n\nAltersbedingt wurden bei {0} die folgenden Krankheiten diagnostiziert:\n{3}</BirthdayWithInjuries>
+  
+  <NewDisease>{0} ist krank geworden ({1}). Stelle sicher, dass {0} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, damit HE sich schnell erholen kann.</NewDisease>
+  <NewPartDisease>{0} ist mit {1} infiziert. Stelle sicher, dass {0} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, damit HE sich schnell erholen kann.</NewPartDisease>
   
 </LanguageData>

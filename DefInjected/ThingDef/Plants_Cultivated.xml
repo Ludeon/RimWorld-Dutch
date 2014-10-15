@@ -1,16 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<PlantPotato.label>Aardappel plant</PlantPotato.label>
-	<PlantPotato.description>Een simpele, gezonde knol. Doet het relatief goed in arme grond.</PlantPotato.description>
+	<!--=========================== Crops ==============================-->
 
-	<PlantStrawberry.label>Aardbeien plant</PlantStrawberry.label>
-	<PlantStrawberry.description>Fragile maar oh zo lekkere fruit. Overheerlijk zelfs als het rauw gegeten wordt. Het heeft rijke grond nodig om te groeien.</PlantStrawberry.description>
+	<PlantPotato.label>Kartoffeln</PlantPotato.label>
+	<PlantPotato.description>Eine einfache, sehr nahrhafte Knolle. Wächst auch in relativ nährstoffarmen Böden.</PlantPotato.description>
 
-	<PlantRose.label>Roos</PlantRose.label>
-	<PlantRose.description>Een wonderschone gekweekte bloem.</PlantRose.description>
+	<PlantStrawberry.label>Erdbeerpflanze</PlantStrawberry.label>
+	<PlantStrawberry.description>Eine empfindliche, aber geschmacksvolle Frucht. Selbst roh schmeckt sie sehr gut.</PlantStrawberry.description>
 
-	<PlantDaylily.label>Daglelie</PlantDaylily.label>
-	<PlantDaylily.description>Een wonderschone gekweekte bloem.</PlantDaylily.description>
+	<PlantCotton.label>Baumwollpflanze</PlantCotton.label>
+	<PlantCotton.description>Hier wächst Baumwolle. Eine gute Pflanzenfaser, mit der man Kleidung herstellen kann.</PlantCotton.description>
 
+	<PlantDevilstrand.label>Teufelsgarnpilz</PlantDevilstrand.label>
+	<PlantDevilstrand.description>Dieser empfindliche Pilz wurde genetisch modifiziert, um feinste Seidennetze herzustellen. Lange Zeit wurden ihm mystische Eigenschaften nachgesagt, aber sein Name kommt von dem Neid, den er in den Menschen weckt.</PlantDevilstrand.description>
+
+	<!--=========================== Decorative ==============================-->
+	
+	<PlantRose.label>Rose</PlantRose.label>
+	<PlantRose.description>Eine wunderschöne, angepflanzte Blume.</PlantRose.description>
+
+	<PlantDaylily.label>Taglilie</PlantDaylily.label>
+	<PlantDaylily.description>Eine wunderschöne, angepflanzte Blume.</PlantDaylily.description>
+
+	
 </LanguageData>

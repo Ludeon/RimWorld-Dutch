@@ -1,55 +1,93 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<DoctorFeed.verb>behandelt</DoctorFeed.verb>
-	<DoctorFeed.gerund>behandelen</DoctorFeed.gerund>
-	<GrowerSow.verb>zaait</GrowerSow.verb>
-	<GrowerSow.gerund>zaaien</GrowerSow.gerund>
-	<GrowerHarvest.verb>oogst</GrowerHarvest.verb>
-	<GrowerHarvest.gerund>oogsten</GrowerHarvest.gerund>
-	<Mine.verb>delft</Mine.verb>
-	<Mine.gerund>delven</Mine.gerund>
-	<Research.verb>onderzoekt</Research.verb>
-	<Research.gerund>onderzoeken</Research.gerund>
-	<HaulGeneral.verb>draagt</HaulGeneral.verb>
-	<HaulGeneral.gerund>dragen</HaulGeneral.gerund>
-	<PlantsCut.verb>snijdt planten</PlantsCut.verb>
-	<PlantsCut.gerund>planten snijden</PlantsCut.gerund>
-	<CleanFilth.verb>maakt schoon</CleanFilth.verb>
-	<CleanFilth.gerund>schoonmaken</CleanFilth.gerund>
-	<Repair.verb>repareert</Repair.verb>
-	<Repair.gerund>repareren</Repair.gerund>
-	<FightFires.verb>blust</FightFires.verb>
-	<FightFires.gerund>blussen</FightFires.gerund>
-	<Warden.verb>bewaakt</Warden.verb>
-	<Warden.gerund>bewaken</Warden.gerund>
-	<Deconstruct.verb>breekt af</Deconstruct.verb>
-	<Deconstruct.gerund>afbreken</Deconstruct.gerund>
-	<ConstructFinishFrames.verb>bouwt</ConstructFinishFrames.verb>
-	<ConstructFinishFrames.gerund>bouwen</ConstructFinishFrames.gerund>
-	<ConstructDeliverResourcesToFrames.verb>werkt</ConstructDeliverResourcesToFrames.verb>
-	<ConstructDeliverResourcesToFrames.gerund>werken</ConstructDeliverResourcesToFrames.gerund>
-	<ConstructDeliverResourcesToBlueprints.verb>werkt</ConstructDeliverResourcesToBlueprints.verb>
-	<ConstructDeliverResourcesToBlueprints.gerund>werken</ConstructDeliverResourcesToBlueprints.gerund>
-	<HunterHunt.verb>jaagt</HunterHunt.verb>
-	<HunterHunt.gerund>jagen</HunterHunt.gerund>
+	<DoctorFeed.verb>füttere</DoctorFeed.verb>
+	<DoctorFeed.gerund>füttert</DoctorFeed.gerund>
+	<DoctorEmergencyHeal.verb>behandle</DoctorEmergencyHeal.verb>
+	<DoctorEmergencyHeal.gerund>behandelt</DoctorEmergencyHeal.gerund>
+	<DoctorHeal.verb>behandle</DoctorHeal.verb>
+	<DoctorHeal.gerund>behandelt</DoctorHeal.gerund>
+	<GrowerSow.verb>sähe</GrowerSow.verb>
+	<GrowerSow.gerund>sät</GrowerSow.gerund>
+	<GrowerHarvest.verb>ernte</GrowerHarvest.verb>
+	<GrowerHarvest.gerund>erntet</GrowerHarvest.gerund>
+	<Mine.verb>bau ab</Mine.verb>
+	<Mine.gerund>baut ab</Mine.gerund>
+	<Research.verb>forsche</Research.verb>
+	<Research.gerund>forscht</Research.gerund>
+	<HaulGeneral.verb>trage</HaulGeneral.verb>
+	<HaulGeneral.gerund>trägt</HaulGeneral.gerund>
+	<HaulCorpses.verb>trage</HaulCorpses.verb>
+	<HaulCorpses.gerund>trägt</HaulCorpses.gerund>
+	<PlantsCut.verb>schneide</PlantsCut.verb>
+	<PlantsCut.gerund>schneidet</PlantsCut.gerund>
+	<CleanFilth.verb>säubere</CleanFilth.verb>
+	<CleanFilth.gerund>säubert</CleanFilth.gerund>
+	<Repair.verb>repariere</Repair.verb>
+	<Repair.gerund>repariert</Repair.gerund>
+	<FightFires.verb>lösche</FightFires.verb>
+	<FightFires.gerund>löscht</FightFires.gerund>
+	<Warden.verb>beaufsichtige</Warden.verb>
+	<Warden.gerund>beaufsichtigt</Warden.gerund>
+	<Deconstruct.verb>reiß ab</Deconstruct.verb>
+	<Deconstruct.gerund>reißt ab</Deconstruct.gerund>
+	<ConstructFinishFrames.verb>baue</ConstructFinishFrames.verb>
+	<ConstructFinishFrames.gerund>baut</ConstructFinishFrames.gerund>
+	<ConstructDeliverResourcesToFrames.verb>arbeite</ConstructDeliverResourcesToFrames.verb>
+	<ConstructDeliverResourcesToFrames.gerund>arbeitet an</ConstructDeliverResourcesToFrames.gerund>
+	<ConstructDeliverResourcesToBlueprints.verb>arbeite</ConstructDeliverResourcesToBlueprints.verb>
+	<ConstructDeliverResourcesToBlueprints.gerund>arbeitet an</ConstructDeliverResourcesToBlueprints.gerund>
+	<HunterHunt.verb>jage</HunterHunt.verb>
+	<HunterHunt.gerund>jagt</HunterHunt.gerund>
+	<BecomePatient.verb>empfange Behandlung in</BecomePatient.verb>
+	<BecomePatient.gerund>empfängt behandlung in</BecomePatient.gerund>
 	
 	<!-- ============= Cooking ============= -->
-	<CookFillHopper.verb>vult</CookFillHopper.verb>
-	<CookFillHopper.gerund>vullen</CookFillHopper.gerund>
-	<DoBillsButcherFlesh.verb>slacht</DoBillsButcherFlesh.verb>
-	<DoBillsButcherFlesh.gerund>slachten</DoBillsButcherFlesh.gerund>
-	<DoBillsCook.verb>kookt</DoBillsCook.verb>
-	<DoBillsCook.gerund>koken</DoBillsCook.gerund>
+	
+	<DoBillsCook.verb>koch</DoBillsCook.verb>
+	<DoBillsCook.gerund>kocht</DoBillsCook.gerund>
+	<DoBillsButcherFlesh.verb>schlachte</DoBillsButcherFlesh.verb>
+	<DoBillsButcherFlesh.gerund>schlachtet</DoBillsButcherFlesh.gerund>
+	<CookFillHopper.verb>fülle</CookFillHopper.verb>
+	<CookFillHopper.gerund>füllt</CookFillHopper.gerund>
 	
 	<!-- ============= Crafting ============= -->
-	<DoBillsCremate.verb>cremeren</DoBillsCremate.verb>
-	<DoBillsCremate.gerund>cremeert</DoBillsCremate.gerund>
-	<DoBillsStonecut.verb>hakt stenen</DoBillsStonecut.verb>
-	<DoBillsStonecut.gerund>stenen hakken</DoBillsStonecut.gerund>
-	<DoBillsSlagRefining.verb>zuiveren</DoBillsSlagRefining.verb>
-	<DoBillsSlagRefining.gerund>zuiveren</DoBillsSlagRefining.gerund>
-	<DoBillsButcherMechanoid.verb>demonteert</DoBillsButcherMechanoid.verb>
-	<DoBillsButcherMechanoid.gerund>demonteren</DoBillsButcherMechanoid.gerund>	
+	
+	<DoBillsCremate.verb>verbrenne Leiche</DoBillsCremate.verb>
+	<DoBillsCremate.gerund>verbrennt Leiche</DoBillsCremate.gerund>
+	
+	<DoBillsMakeClothes.verb>produziere Kleidung</DoBillsMakeClothes.verb>
+	<DoBillsMakeClothes.gerund>produziert Kleidung</DoBillsMakeClothes.gerund>
+	
+	<DoBillsStonecut.verb>bearbeite Steine</DoBillsStonecut.verb>
+	<DoBillsStonecut.gerund>bearbeitet Steine</DoBillsStonecut.gerund>
+	
+	<DoBillsSlagRefining.verb>veredle</DoBillsSlagRefining.verb>
+	<DoBillsSlagRefining.gerund>veredelt</DoBillsSlagRefining.gerund>
+	
+	<DoBillsButcherMechanoid.verb>zerlege</DoBillsButcherMechanoid.verb>
+	<DoBillsButcherMechanoid.gerund>zerlegt</DoBillsButcherMechanoid.gerund>
+	
+	<!--
+	<DoBillsMakeWoodPlanks_Electric.verb>zersäge Stämme</DoBillsMakeWoodPlanks_Electric.verb>
+	<DoBillsMakeWoodPlanks_Electric.gerund>zersägt Stämme</DoBillsMakeWoodPlanks_Electric.gerund>
+	<DoBillsMakeWoodPlanks_Hand.verb>zersäge Stämme</DoBillsMakeWoodPlanks_Hand.verb>
+	<DoBillsMakeWoodPlanks_Hand.gerund>zersägt Stämme</DoBillsMakeWoodPlanks_Hand.gerund>
+	-->
+	
+  <!-- ============= Medical operations ============= -->
+	
+	<TakeToBedToOperate.verb>bringe zur Operation</TakeToBedToOperate.verb>
+	<TakeToBedToOperate.gerund>bringt zur Operation</TakeToBedToOperate.gerund>
+	
+	<DoBillsMedicalHumanOperation.verb>operiere</DoBillsMedicalHumanOperation.verb>
+	<DoBillsMedicalHumanOperation.gerund>operiert</DoBillsMedicalHumanOperation.gerund>
+	
+	<DoBillsMedicalMechanoidOperation.verb>modifiziere</DoBillsMedicalMechanoidOperation.verb>
+	<DoBillsMedicalMechanoidOperation.gerund>modifiziert</DoBillsMedicalMechanoidOperation.gerund>
+  
+  
+	
+	
 	
 </LanguageData>

@@ -1,34 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Orders.label>Opdrachten</Orders.label>
-    <Orders.description>Markeer specifieke opdrachten met specifieke voorwerpen, dieren, enz.</Orders.description>
+	<Orders.label>Befehle</Orders.label>
+    <Orders.description>Markierungen, um bestimmte Aufgaben ausführen zu lassen.</Orders.description>
 	
 	<Zone.label>Zone</Zone.label>
-    <Zone.description>Markeer zones waar kolonisten verschillende activiteiten uitvoeren.</Zone.description>
+    <Zone.description>Verschiedenen Zonen, in denen Kolonisten bestimmte Aufgaben erledigen, bzw. in denen Objekte gelagert werden.</Zone.description>
 	
-	<Structure.label>Constructie</Structure.label>
-    <Structure.description>Constructies zoals muren en stroom kabels.</Structure.description>
+	<Structure.label>Strukturen</Structure.label>
+    <Structure.description>Strukturen, wie z.B. Wände und Türen.</Structure.description>
 	
-	<Production.label>Productie</Production.label>
-    <Production.description>Gebouwen die worden gebruikt voor het produceren van goederen.</Production.description>
+	<Production.label>Produktion</Production.label>
+    <Production.description>Gegenstände, die etwas produzieren.</Production.description>
 	
-	<Furniture.label>Meubels</Furniture.label>
-    <Furniture.description>Meubels en werktafels.</Furniture.description>
+	<Furniture.label>Möbel</Furniture.label>
+    <Furniture.description>Kleine wohnliche Gegenstände.</Furniture.description>
+	
+	<Power.label>Strom</Power.label>
+    <Power.description>Erzeugung elektr. Energie, sowie deren Transport und Management.</Power.description>
+	
+	<Security.label>Sicherheit</Security.label>
+    <Security.description>Sicherheits- und Kampforientierte Strukturen.</Security.description>
+	
+	<Misc.label>Verschiedenes</Misc.label>
+    <Misc.description>Verschiedene Konstruktionen.</Misc.description>
+	
+	<Floors.label>Böden</Floors.label>
+    <Floors.description>Unterschiedliche Fußböden.</Floors.description>
+	
+	<Decoration.label>Dekoration</Decoration.label>
+    <Decoration.description>Objekte, die zum Verbessern der Stimmung unter den Kolonisten beitragen.</Decoration.description>
+	
+	<Ship.label>Raumschiff</Ship.label>
+    <Ship.description>Einzelne Komponenten des neuen Raumschiffes.</Ship.description>
 
-    <Power.label>Electra</Power.label>
-    <Power.description>Stroom opwekking, transport en beheer.</Power.description>	
-	
-	<Security.label>Veligheid</Security.label>
-    <Security.description>Veiligheid en gevechts georiënteerde constructies.</Security.description>
-
-	<Misc.label>Diversen</Misc.label>
-	<Misc.description>Diversen.</Misc.description>
-	
-	<Floors.label>Vloeren</Floors.label>
-    <Floors.description>Vloeren.</Floors.description>	
-	
-    <Decoration.label>Decoratie</Decoration.label>
-    <Decoration.description>Mooie dingen voor het verhogen van geluk.</Decoration.description>	
-	
 </LanguageData>

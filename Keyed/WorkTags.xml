@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WorkTagNone>Niets</WorkTagNone>
-  <WorkTagIntellectual>Mentaal werk</WorkTagIntellectual>
-  <WorkTagManualDumb>Eenvoudig werk</WorkTagManualDumb>
-  <WorkTagManualSkilled>Vakkundig werk</WorkTagManualSkilled>
-  <WorkTagViolent>Geweld</WorkTagViolent>
-  <WorkTagCaring>Verzorgen</WorkTagCaring>
-  <WorkTagSocial>Sociaal</WorkTagSocial>
-  <WorkTagScary>Angstaanjagend</WorkTagScary>
-  <WorkTagArtistic>Kunst</WorkTagArtistic>
-  <WorkTagCrafting>Handwerken</WorkTagCrafting>
-  <WorkTagCooking>Koken</WorkTagCooking>
-  <WorkTagFirefighting>Brand blussen</WorkTagFirefighting>
-  <WorkTagCleaning>Schoon maken</WorkTagCleaning>
-  <WorkTagHauling>Dragen</WorkTagHauling>
-  <WorkTagPlantWork>Landbouw</WorkTagPlantWork>
-  <WorkTagMining>Delven</WorkTagMining>
+  <WorkTagNone>Nichts</WorkTagNone>
+  <WorkTagIntellectual>Geistige Arbeit</WorkTagIntellectual>
+  <WorkTagManualDumb>Einfache Arbeit</WorkTagManualDumb>
+  <WorkTagManualSkilled>Geschickte Arbeit</WorkTagManualSkilled>
+  <WorkTagViolent>Gewalt</WorkTagViolent>
+  <WorkTagCaring>Fürsorge</WorkTagCaring>
+  <WorkTagSocial>Sozial</WorkTagSocial>
+  <WorkTagScary>Furchterregend</WorkTagScary>
+  <WorkTagArtistic>Künstlerisch</WorkTagArtistic>
+  <WorkTagCrafting>Handwerk</WorkTagCrafting>
+  <WorkTagCooking>Kochen</WorkTagCooking>
+  <WorkTagFirefighting>Löschen</WorkTagFirefighting>
+  <WorkTagCleaning>Reinigen</WorkTagCleaning>
+  <WorkTagHauling>Tragen</WorkTagHauling>
+  <WorkTagPlantWork>Landwirtschaft</WorkTagPlantWork>
+  <WorkTagMining>Abbauen</WorkTagMining>
 
 </LanguageData>

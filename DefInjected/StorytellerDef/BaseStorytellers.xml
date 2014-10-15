@@ -1,24 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+	<Cassandra.label>Cassandra Klassisch</Cassandra.label>
+    <Cassandra.description>Cassandra erzählt die Geschichte so, dass die Spannungs- und Schwierigkeitskurve stetig ansteigt.</Cassandra.description>
+    <Cassandra.quotation>Die Essenz guter Erzählkunst ist der perfekte Fortschritt eines ständig härter werdenden Kampfes.</Cassandra.quotation>
 	
-	<Callie.label>Rustige Klassieke Callie</Callie.label> 
-	<Callie.description>Callie is de rustigere en minder aggresieve zuster van Kassandra. Geweldig voor je eerste keer.</Callie.description>
-	<Callie.quotation>Je krijgt een rustige start, maar een spetterend einde!</Callie.quotation>
+	<Phoebe.label>Phoebe Basisbau</Phoebe.label>
+	<Phoebe.description>Phoebe gibt dir sehr viel Zeit zwischen Katastrophen, so dass du entspannen und deine Kolonie in Ruhe aufbauen kannst.</Phoebe.description>
+	<Phoebe.quotation>Lass uns entspannen und eine Basis bauen.</Phoebe.quotation>
 	
-	<Cassandra.label>Klassieke Kassandra</Cassandra.label>
-    <Cassandra.description>Cassandra creëert verhaal evenementen op een gestaag groeiende curve van uitdaging en spanning.</Cassandra.description>
-    <Cassandra.quotation>De essentie van een goed verhaal is de perfecte mix van groei en groter wordende conflicten.</Cassandra.quotation>
-	
-	<Phoebe.label>Vriendelijke Phoebe</Phoebe.label>
-	<Phoebe.description>Phoebe wil niemand pijn doen. Ze wil een rustgevend verhaal over de bouw van een kolonie. Dus ze is erg vriendelijk.</Phoebe.description>
-	<Phoebe.quotation>Kunnen we gewoon niet allemaal met elkaar samen spelen? Ik wil helemaal geen verhaal dat mij beangstigd. Laten we er een maken over vriendschap en hoop.</Phoebe.quotation>
-	
-	<Randy.label>Willekeurige Reinier</Randy.label>
-	<Randy.description>Reinier volgt geen enkele regel. Hij vertelt een verhaal in willekeurige volgorde. Het maakt hem helemaal niet uit of het er een is van overleving of vernietiging. Het is allemaal drama volgens hem.</Randy.description>
-	<Randy.quotation>De wereld volgt geen regels, waarom zou ik dat dan wel doen!? Heb je een vuurtje voor me?</Randy.quotation>
-	
-	<Cleopatra.label>Stoere Cleopatra (Klassiek)</Cleopatra.label>
-    <Cleopatra.description>Kassandra's onvergevende nicht.</Cleopatra.description>
-    <Cleopatra.quotation>De dieptes van de menselijke natuur is te zien door een lens van pijn en vernedering.</Cleopatra.quotation>
-		
+	<Randy.label>Reiner Zufall</Randy.label>
+	<Randy.description>Reiner folgt keinen Regeln. Er generiert zufällige Ereignisse und es ist ihm egal, ob die Geschichte ein Triumph oder eine hoffnungslose Niederlage wird. \nFür ihn ist alles Drama.</Randy.description>
+	<Randy.quotation>Die Welt besteht aus Zufällen, man. Also sollten Geschichten es auch sein! Hey, hast du Feuer?</Randy.quotation>
+
 </LanguageData>

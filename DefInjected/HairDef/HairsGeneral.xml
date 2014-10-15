@@ -2,16 +2,18 @@
 <LanguageData>
 	
 	<Afro.label>Afro</Afro.label>
-	<Bob.label>Boblijn</Bob.label>
-	<Burgundy.label>Burgundy</Burgundy.label>
-	<Flowy.label>Licht golvend</Flowy.label>
+	<Bob.label>Bob</Bob.label>
+	<Burgundy.label>Burgund</Burgundy.label>
+	<Flowy.label>Gelockt</Flowy.label>
 	<Long.label>Lang</Long.label>
-	<Mohawk.label>Hanenkam</Mohawk.label>
+	<Mohawk.label>Irokese</Mohawk.label>
 	<Mop.label>Mop</Mop.label>
-	<Pigtails.label>Varkensstaartjes</Pigtails.label>
-	<Shaved.label>Geschoren</Shaved.label>
-	<Spikes.label>Stekels</Spikes.label>
-	<Tuft.label>Bosje</Tuft.label>
-	<Wavy.label>Golvend</Wavy.label>
+	<Pigtails.label>Zöpfe</Pigtails.label>
+	<Shaved.label>Glatze</Shaved.label>
+	<Spikes.label>Spikes</Spikes.label>
+	<Tuft.label>Gestrubbelt</Tuft.label>
+	<Wavy.label>Gewellt</Wavy.label>
 	
+
+
 </LanguageData>

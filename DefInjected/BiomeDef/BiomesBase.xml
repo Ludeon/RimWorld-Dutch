@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+  <!-- ======== Unlandable biomes ==========-->
+  
+	<Ocean.label>Oceaan</Ocean.label>
+	<Ocean.description>Een grote ocean, goed voor vissen, maar niet voor jou</Ocean.description>	
+	
+	<IceSheet.label>IJskap</IceSheet.label>
+	<IceSheet.description>Een dikke ijskap bedekt het landschap. Door het ijs kun je hier niet bij de bodem of gesteenten, daarom zijn hier ook geen planten. De enige dieren die je hier tegen zult komen zijn ook op doorreis naar andere plaatsen - of ze zijn hopenloos verdwaald.</IceSheet.description>	
+	
+
+  <!-- ======== Buildable biomes ==========-->	
+
+	<AridShrubland.label>Savanne</AridShrubland.label>
+	<AridShrubland.description>Een droog gebied, maar niet droog genoeg voor een woestijn. Open vlaktes met gras, en hier en daar een groepje bomen. Hier groeien planten, en hier en je zult zelfs dieren vinden.</AridShrubland.description>
+	
+	
+	<TemperateForest.label>Gematigd woud</TemperateForest.label>
+	<TemperateForest.description>Een vriendelijk landschap, waar je aardig wat bomen en veel open plekken zult vinden. Ook zijn er veel dieren te vinden tussen de bomen en op de open plekken.</TemperateForest.description>
+	
+	
+	<Desert.label>Woestijn</Desert.label>
+	<Desert.description>Een zeer droog en heet gebied, waar erg weinig dieren en planten zijn.</Desert.description>
+	
+	
+	<TropicalRainforest.label>Tropisch regenwoud</TropicalRainforest.label>
+	<TropicalRainforest.description>Een dikke, natte jungel. De dichte plantengroei en de aggressieve dieren hinderen het bouwen van je basis en het overleven op zich.</TropicalRainforest.description>
+	
+
+  <!-- ======== Landable biomes (not implemented) ==========-->
+	   
+	<Tundra.label>Tundra</Tundra.label>
+   <Tundra.description>In dit grotendeels bevroren landschap zul je weinig planten en bomen vinden. Hier zul je slechts een paar kleine dieren en wat grotere groepen plantenetenden dieren en hun vijanden aantreffen.</Tundra.description> 
+	<BorealForest.label>Naaldbos</BorealForest.label>
+	<BorealForest.description>Een noordelijk bos, bestaande uit naaldbomen. Ondanks de strenge winters wonen in de naaldbossen zowel kleine als grote dieren.</BorealForest.description>
+	
+	
+	
+</LanguageData>

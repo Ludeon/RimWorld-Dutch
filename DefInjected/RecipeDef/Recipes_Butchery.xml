@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<ButcherCorpseFlesh.label>Slacht schepsel</ButcherCorpseFlesh.label>
-	<ButcherCorpseFlesh.description>Slacht een schepsel om aan vlees te komen.</ButcherCorpseFlesh.description>
-	<ButcherCorpseFlesh.jobString>Slachten.</ButcherCorpseFlesh.jobString>	
-	
-	<ButcherCorpseMechanoid.label>Mechanoid demonteren</ButcherCorpseMechanoid.label>
-	<ButcherCorpseMechanoid.description>Demonteert een dode mechanoid voor bruikbare onderdelen.</ButcherCorpseMechanoid.description>
-	<ButcherCorpseMechanoid.jobString>Mechanoid demonteren.</ButcherCorpseMechanoid.jobString>
+	<ButcherCorpseFlesh.label>Schlachte Kreatur</ButcherCorpseFlesh.label>
+	<ButcherCorpseFlesh.description>Schlachtet eine Kreatur, um an das genießbare Fleisch heranzukommen.</ButcherCorpseFlesh.description>
+	<ButcherCorpseFlesh.jobString>Schlachtet.</ButcherCorpseFlesh.jobString>
 
+	<ButcherCorpseMechanoid.label>Zerlege Mechanoiden</ButcherCorpseMechanoid.label>
+	<ButcherCorpseMechanoid.description>Zerlegt einen Mechanoiden in seine Einzelteile.</ButcherCorpseMechanoid.description>
+	<ButcherCorpseMechanoid.jobString>Zerlegt Mechanoiden.</ButcherCorpseMechanoid.jobString>
+	
 </LanguageData>

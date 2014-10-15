@@ -2,21 +2,31 @@
 <LanguageData>
 
 	<Colony.label>Kolonie</Colony.label>
-    <Colony.description>Jouw eigen kolonie.</Colony.description>
+    <Colony.description>Deine Gemeinschaft Überlebender.</Colony.description>
+    <Colony.pawnsPlural>Kolonisten</Colony.pawnsPlural>
 	
-	<Spacer.label>Ruimtereiziger</Spacer.label>
-    <Spacer.description>Reizigers van de verste hoeken van de ruimte.</Spacer.description>
+	<Spacer.label>Raumfahrer</Spacer.label>
+    <Spacer.description>Leute aus den Tiefen des Weltalls.</Spacer.description>
+    <Spacer.pawnsPlural>Raumfahrer</Spacer.pawnsPlural>
 	
-	<Outlander.label>Vreemdeling dorp</Outlander.label>
-    <Outlander.description>Een kleine gemeenschap van overlevers.\n\nDeze mensen hebben hier enkele tientallen jaren geleefd. Ze hebben bijna alle technologieën verloren dat hun hier bracht en werken meestal met simpele mechanische gereedschappen en gebouwen. Ze verdedigen zich met geavanceerde buskruit-tijdperk wapens.\n\nVan nature niet aggresief of zwak, ze zijn voornamelijk geintereseerd in handel, vertrouwen en overleven.</Outlander.description>
+	<Outlander.label>Stadt der Outlander</Outlander.label>
+    <Outlander.description>Eine größere Gemeinschaft von Überlebenden.\n\nDiese Leute leben hier seit einigen Jahrzehnten. Sie haben ihre Technologie, mit der sie hergekommen sind, verloren und arbeiten jetzt für gewöhnlich mit einfachen mechanischen Werkzeugen und Strukturen. Zur Verteidigung benutzen sie Schießpulverwaffen.\n\nVon Natur aus weder zurückhaltend noch aggressiv, sind sie jedoch mit der praktischen Seite des Überlebens, Vertrauens und Handels bestens vertraut.</Outlander.description>
+	<Outlander.pawnsPlural>Outlander</Outlander.pawnsPlural>
 	
-	<Pirate.label>Piraten groep</Pirate.label>
-    <Pirate.description>Een groep bandieten.\n\nBandieten groeien niets, bouwen niet en handelen bijna nooit. Ze verrijken zich voornamelijk door het beroven van de productievere dorpen in de omgeving.\n\nHet niveau van hun technologie hangt af van wie ze recentelijk hebben gejat. Hun wapens zijn voornamelijk uit de buskruit-tijdperk, hoewel sommige liever met messen spelen en anderen het geluk hebben om geavanceerde wapens te bezitten.</Pirate.description>
+	<Pirate.label>Piratenbande</Pirate.label>
+    <Pirate.description>Eine Gruppe von Piraten.\n\nPiraten bauen nichts an, sie errichten kein Gebäude und sie handeln nur sehr selten. Stattdessen bereichern sie sich durch das Überfallen und Ausrauben anderer, produktiverer Gruppen in ihrem Gebiet.\n\nIhre Technologie hängt meistens davon ab, wem sie kürzlich was gestohlen haben. Am meisten benutzen sie Schießpulverwaffen, aber wenn sie Glück hatten, haben sie auch Energiewaffen. Manche stechen auch einfach nur auf ihre Gegner ein.</Pirate.description>
+	<Pirate.pawnsPlural>Piraten</Pirate.pawnsPlural>
 	
-	<Tribal.label>Volksstam</Tribal.label>
-    <Tribal.description>Deze volksstammen zijn hier al heel lang. Misschien dat hun voorouders hier geland waren duizenden jaren geleden. Misschien dat ze een natuurramp overleeft hebben dat een andere technologische volksstam heeft uitgeroeid. Hoe dan ook, deze volksstammen zijn voornamelijk nomadische stammen die van het land leven en primitieve gereedschappen en wapens gebruiken.\n\nSommige stammen zijn aggresiever dan anderen; de meeste staan open voor handel en allianties, zelfs met vreemdelingen zoals jij. Nauwe samenwerking en werving wordt moeilijk vanwege de technologische- en taalbariere tussen de stammen en je eigen kolonisten.\n\nOndankts hun zichtbare technologische zwakte zijn de stammen gevaarlijke vijanden of waardevolle vrienden vanwege hun vaardigheid in simpele oorlogvoering, hun nummers, en hun gehardheid.</Tribal.description>
+	<Tribe.label>Stamm der Ureinwohner</Tribe.label>
+    <Tribe.description>Diese Leute leben hier seit sehr, sehr langer Zeit. Vielleicht sind ihre Vorfahren vor tausenden von Jahren hier abgestürzt, vielleicht haben sie eine Katastrophe überlebt, welche die Technologie ihrer Zivilisation ausgelöscht hat. Was auch immer passiert ist, diese Ureinwohner sind Nomaden, die vom Land leben und primitive Werkzeuge und Waffen benutzen.\n\nManche Ureinwohner sind aggressiver als andere; Viele sind offen für Handel und Allianzen, sogar mit so seltsamen Leuten wie dir. Eine engere Zusammenarbeit oder gar Rekrutierung wird wegen des riesigen sozialen Unterschieds und der Sprachbarriere zwischen den Ureinwohnern und dir sehr schwierig sein.\n\nTrotz ihrer technologischen Schwäche können die Ureinwohner sehr gefährliche Gegner oder aber auch Verbündete sein, da ihre Erfahrung mit primitiven Waffen, ihre Anzahl und ihr Überlebenswille sehr hoch sind.</Tribe.description>
+	<Tribe.pawnsPlural>Stammesmitglieder</Tribe.pawnsPlural>
 	
-	<Mechanoid.label>Mechanoid collectief</Mechanoid.label>
-    <Mechanoid.description>Een collectief van oude zelfreplicerende machines.</Mechanoid.description>
+	<Mechanoid.label>Mechanoiden Schwarm</Mechanoid.label>
+	<Mechanoid.description>Ein Schwarm uralter Roboter, mit der Fähigkeit neue herzustellen.</Mechanoid.description>
+	<Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
+	<Mechanoid.fixedName>Ein Mechanoiden Schwarm</Mechanoid.fixedName>
+	
+	
+	
 	
 </LanguageData>

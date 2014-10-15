@@ -1,25 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Root.label>Wortel</Root.label>
-	<Resources.label>Grondstoffen</Resources.label>
-	
-	<Foods.label>Voedsel</Foods.label>
-	<FoodMeals.label>Maaltijden</FoodMeals.label>
-	<FoodRaw.label>Rauw</FoodRaw.label>
-	<MeatRaw.label>Vlees</MeatRaw.label>
-	
+	<Root.label>Basis</Root.label>
+	<Resources.label>Ressourcen</Resources.label>
+	<Foods.label>Nahrung</Foods.label>
+	<FoodMeals.label>Mahlzeiten</FoodMeals.label>
+	<FoodRaw.label>Roh</FoodRaw.label>
+	<MeatRaw.label>Fleisch</MeatRaw.label>
 	<PlantFoodRaw.label>Vegetarisch</PlantFoodRaw.label>
-	<Manufactured.label>Vervaardigd</Manufactured.label>
-	<ResourcesRaw.label>Rauwe grondstoffen</ResourcesRaw.label>
-	
-	<Weapons.label>Wapen</Weapons.label>
-	
-	<Debris.label>Puin</Debris.label>
-	
-	<Corpses.label>Lijken</Corpses.label>
-	<CorpsesHumanoid.label>Mensenlijken</CorpsesHumanoid.label>
-	<CorpsesAnimal.label>Dierenlijken</CorpsesAnimal.label>
-	<CorpsesMechanoid.label>Mechanoidlijken</CorpsesMechanoid.label>
+	<Manufactured.label>Hergestellt</Manufactured.label>
+	<Fabric.label>Stoff</Fabric.label>
+	<ResourcesRaw.label>Rohstoffe</ResourcesRaw.label>
+	<Items.label>Gegenstände</Items.label>
+	<Weapons.label>Waffen</Weapons.label>
+	<Apparel.label>Kleidung</Apparel.label>
+	<BodyParts.label>Körperteile</BodyParts.label>
+	<Chunks.label>Brocken</Chunks.label>
+	<Corpses.label>Leichen</Corpses.label>
+	<CorpsesHumanoid.label>Menschenleichen</CorpsesHumanoid.label>
+	<CorpsesAnimal.label>Tierleichen</CorpsesAnimal.label>
+	<CorpsesMechanoid.label>Mechanoidleichen</CorpsesMechanoid.label>
 
 </LanguageData>

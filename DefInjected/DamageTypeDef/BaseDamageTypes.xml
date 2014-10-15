@@ -1,31 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Crush.deathMessage>{0} is verpletterd.</Crush.deathMessage>
+	<Cut.label>Schnitt</Cut.label>
+	<Cut.deathMessage>{0} wurde zerschnitten</Cut.deathMessage>
 	
-	<Bludgeon.deathMessage>{0} is doodgeslagen.</Bludgeon.deathMessage>
+	<Crush.label>Quetschung</Crush.label>
+	<Crush.deathMessage>{0} wurde zerquetscht.</Crush.deathMessage>
 	
-	<Bullet.deathMessage>{0} is doodgeschoten.</Bullet.deathMessage>
+	<Blunt.label>Schlag</Blunt.label>
+	<Blunt.deathMessage>{0} wurde erschlagen.</Blunt.deathMessage>
 	
-	<Bomb.deathMessage>{0} is gestorven in een explosie.</Bomb.deathMessage>
+	<Stab.label>Stich</Stab.label>
+	<Stab.deathMessage>{0} wurde erstochen.</Stab.deathMessage>
 	
-	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
+	<Bullet.label>Kugel</Bullet.label>
+	<Bullet.deathMessage>{0} wurde erschossen.</Bullet.deathMessage>
 	
-	<Stun.deathMessage>{0} is overrompeld en stierf.</Stun.deathMessage>
+	<Arrow.label>Pfeil</Arrow.label>
+	<Arrow.deathMessage>{0} wurde erschossen.</Arrow.deathMessage>
 	
-	<Bleeding.deathMessage>{0} is doodgebloed.</Bleeding.deathMessage>
+	<Scratch.label>Kratzer</Scratch.label>
+	<Scratch.deathMessage>{0} wurde zerrissen.</Scratch.deathMessage>
 	
-	<Suffocation.deathMessage>{0} is gestikt.</Suffocation.deathMessage>
+	<Bite.label>Biss</Bite.label>
+	<Bite.deathMessage>{0} wurde totgebissen.</Bite.deathMessage>
 	
-	<Starvation.deathMessage>{0} is verhongert.</Starvation.deathMessage>
+	<Bomb.label>Explosion</Bomb.label>
+	<Bomb.deathMessage>{0} ist in einer Explosion umgekommen.</Bomb.deathMessage>
 	
+	<Flame.label>Flamme</Flame.label>
+	<Flame.deathMessage>{0} ist verbrannt.</Flame.deathMessage>
 	
+	<SurgicalCut.label>Operativer Eingriff</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} ist bei der Operation verstorben.</SurgicalCut.deathMessage>
 	
+	<Stun.label>Betäubung</Stun.label>
+	<Stun.deathMessage>{0} wurde betäubt und starb.</Stun.deathMessage>
 	
+	<EMP.label>EMP</EMP.label>
+	<EMP.deathMessage>{0} wurde durch EMP getötet.</EMP.deathMessage>
 	
+	<Bleeding.label>Blutung</Bleeding.label>
+	<Bleeding.deathMessage>{0} ist verblutet.</Bleeding.deathMessage>
 	
+	<Suffocation.label>Erstickung</Suffocation.label>
+	<Suffocation.deathMessage>{0} ist erstickt.</Suffocation.deathMessage>
 	
+	<Starvation.label>Hunger</Starvation.label>
+	<Starvation.deathMessage>{0} ist verhungert.</Starvation.deathMessage>
 	
+  <!-- Healing local injury -->
+	<HealLocalInjury.label>Heilen einzelner Verletzungen</HealLocalInjury.label>
+	
+  <!-- Healing global injury -->
+	<HealGlobalInjury.label>Heilen aller Verletzungen</HealGlobalInjury.label>
+	
+  <!-- Restoring body part -->
+	<RestoringBodyPart.label>Körperteil wieder herstellen</RestoringBodyPart.label>
+	
+  <!-- misc -->
+	<Breakdown.label>Zusammenbruch</Breakdown.label>
+	<Mining.label>Abbauen</Mining.label>
+	<Rotting.label>Verrotten</Rotting.label>
+	<Extinguish.label>Löschen</Extinguish.label>
 	
 	
 </LanguageData>

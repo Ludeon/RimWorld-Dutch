@@ -1,45 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-    <!--============================== Beds ==============================-->
-	<SleepingSpot.label>Slaap plek</SleepingSpot.label>
-	<SleepingSpot.description>Markeert een plek op de grond waar mensen kunnen slapen. Heel erg oncomfortabel. Efficientie: 8/10</SleepingSpot.description>
+	<!--============================== Beds ==============================-->
+  
+	<SleepingSpot.label>Schlafplatz</SleepingSpot.label>
+	<SleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Leute schlafen können. Nicht sonderlich bequem. Schlafqualität: 8/10</SleepingSpot.description>
 
-	<Bed.label>Bed</Bed.label>
-	<Bed.description>Een comfortabel matras met lakens en een frame om op te slapen. Efficientie: 10/10</Bed.description>
+	<Bed.label>Bett</Bed.label>
+	<Bed.description>Eine gemütliche Matratze mit Bettwäsche auf einen Rahmen. Ein guter Ort zum Ausruhen. Schlafqualität: 10/10</Bed.description>
+	
+	<RoyalBed.label>Doppelbett</RoyalBed.label>
+	<RoyalBed.description>Ein großes Bett, in dem wirklich jeder genug Platz findet.</RoyalBed.description>
+	
+	<HospitalBed.label>Krankenbett</HospitalBed.label>
+	<HospitalBed.description>Ein Bett, das speziell für die Behandlung verletzter Personen entworfen wurde. Verbessert die Wahrscheinlichkeit medizinische Arbeiten erfolgreich zu beenden.</HospitalBed.description>
 
 	<!--======================= Basic domestic furniture ==============================-->
-	<Chair_Metal.label>Metalen stoel</Chair_Metal.label>
-	<Chair_Metal.description>Een plek om te zitten.</Chair_Metal.description>
+
+	<Stool.label>Hocker</Stool.label>
+	<Stool.description>Leute sitzen hier.</Stool.description>
 	
-	<!--======================= Tables ==============================-->
-	<TableShort_Metal.label>Metalen tafel (klein)</TableShort_Metal.label>
-	<TableShort_Metal.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort_Metal.description>
+	<!-- Table base -->
 	
-	<TableLong_Metal.label>Metalen tafel (groot)</TableLong_Metal.label>
-	<TableLong_Metal.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong_Metal.description>	
+	<TableShort.label>Tisch (klein)</TableShort.label>
+	<TableShort.description>Kolonisten essen hier, sofern Stühle am Tisch stehen.</TableShort.description>
 	
-	<TableShort_Wood.label>Houten tafel (klein)</TableShort_Wood.label>
-	<TableShort_Wood.description>Kolonisten eten hier als er stoelen omheen staan.</TableShort_Wood.description>
+	<TableLong.label>Tisch (groß)</TableLong.label>
+	<TableLong.description>Kolonisten essen hier, sofern Stühle am Tisch stehen.</TableLong.description>
 	
-	<TableLong_Wood.label>Houten tafel (groot)</TableLong_Wood.label>
-	<TableLong_Wood.description>Kolonisten eten hier als er stoelen omheen staan.</TableLong_Wood.description>	
 	
 	<!-- ======================== Lighting ======================= -->
-	<StandingLamp.label>Staande lamp</StandingLamp.label>
-	<StandingLamp.description>De staande lamp verlicht een ruimte.</StandingLamp.description>
-
-	<StandingLamp_Red.label>Staande lamp (rood)</StandingLamp_Red.label>
-	<StandingLamp_Red.description>De staande lamp verlicht een ruimte met een rode kleur.</StandingLamp_Red.description>
-
-	<StandingLamp_Green.label>Staande lamp (groen)</StandingLamp_Green.label>
-	<StandingLamp_Green.description>De staande lamp verlicht een ruimte met een groene kleur.</StandingLamp_Green.description>
 	
-	<StandingLamp_Blue.label>Staande lamp (blauwe)</StandingLamp_Blue.label>
-	<StandingLamp_Blue.description>De staande lamp verlicht een ruimte met een blauwe kleur.</StandingLamp_Blue.description>
+	<StandingLamp.label>Stehlampe</StandingLamp.label>
+	<StandingLamp.description>Stehlampe, die eine Fläche beleuchtet.</StandingLamp.description>
+	
+	<StandingLamp_Red.label>Stehlampe (rot)</StandingLamp_Red.label>
+	<StandingLamp_Red.description>Stehlampe, die eine Fläche rot beleuchtet.</StandingLamp_Red.description>
+	
+	<StandingLamp_Green.label>Stehlampe (grün)</StandingLamp_Green.label>
+	<StandingLamp_Green.description>Stehlampe, die eine Fläche grün beleuchtet.</StandingLamp_Green.description>
+	
+	<StandingLamp_Blue.label>Stehlampe (blau)</StandingLamp_Blue.label>
+	<StandingLamp_Blue.description>Stehlampe, die eine Fläche blau beleuchtet.</StandingLamp_Blue.description>
 	
 	<!--============================== Storage ==============================-->
-	<EquipmentRack.label>Wapenrek</EquipmentRack.label>
-	<EquipmentRack.description>Hier kan je wapens in opslaan.</EquipmentRack.description>
+	
+	<EquipmentRack.label>Waffenregal</EquipmentRack.label>
+	<EquipmentRack.description>Hier wird Ausrüstung gelagert.</EquipmentRack.description>
 	
 </LanguageData>

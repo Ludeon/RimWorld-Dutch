@@ -1,77 +1,89 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Bel {0}</CallOnRadio>
-	<CannotUseSolarFlare>Kan niet gebruikt worden (Zonnestorm)</CannotUseSolarFlare>
-	<CannotUseNoPower>Kan niet gebruikt worden (Geen stroom)</CannotUseNoPower>
-	<CannotUseNoPath>Kan niet gebruikt worden (Geen pad)</CannotUseNoPath>
+	<CallOnRadio>Rufe {0}</CallOnRadio>
+	<CannotUseSolarFlare>Kann nicht benutzt werden (Sonneneruption)</CannotUseSolarFlare>
+	<CannotUseNoPower>Kann nicht benutzt werden (kein Strom)</CannotUseNoPower>
+	<CannotUseNoPath>Kann nicht benutzt werden (kein Weg)</CannotUseNoPath>
+	<CannotUseReserved>Kann nicht benutzt werden (reserviert)</CannotUseReserved>
+	<CannotUseFull>Kann nicht benutzt werden (voll)</CannotUseFull>
 
-	<FireAt>Schiet op {0}</FireAt>
+  <FireAt>Schieße auf {0}</FireAt>
 
-	<OutOfRange>buiten bereik</OutOfRange>
-	<CannotHitTarget>kan doel niet raken</CannotHitTarget>
-	<CannotFight>{0} kan niet vechten</CannotFight>
-	<OrderManThing>Beman {0}</OrderManThing>
-	
-	<MeleeAttack>Melee aanval {0}</MeleeAttack>
-	<MeleeAttackToDeath>Melee aanval {0} tot het dood is</MeleeAttackToDeath>
-	<NoPath>geen pad</NoPath>
+  <OutOfRange>Außer Reichweite</OutOfRange>
+  <CannotHitTarget>Kann das Ziel nicht treffen</CannotHitTarget>
+  <CannotFight>{0} kann nicht kämpfen</CannotFight>
 
-   	<ForbiddenLower>Verboden</ForbiddenLower>
-	<SociallyImproperLower>Sociaal ongeschikt</SociallyImproperLower>
-	<BurningLower>Brandt</BurningLower>
-	<NoEmptyPlaceLower>Geen lege opslagruimte beschikbaar</NoEmptyPlaceLower>
-	<AlreadyFilledLower>Reeds gevuld</AlreadyFilledLower>
-	<MissingMaterials>heeft materialen nodig</MissingMaterials>
-	
-	<CannotGoNoPath>Kan hier niet heen gaan (geen pad)</CannotGoNoPath>
-	<GoHere>Ga hier heen</GoHere>
+  <OrderManThing>Bemanne {0}</OrderManThing>
   
-	<Arrest>Arresteer {0}</Arrest>
-	<CannotArrest>Kan niet arresteren</CannotArrest>
-
-	<Capture>Neem {0} gevangen</Capture>
-	<CannotCapture>Kan niet gevangen nemen</CannotCapture>
-
-	<Rescue>Red {0}</Rescue>
-	<CannotRescue>Kan niet redden</CannotRescue>
-
-	<NoPrisonerBed>Geen afgesloten gevangenen bed beschikbaar.</NoPrisonerBed>
-	<NoNonPrisonerBed>Geen gevangenen bed beschikbaar.</NoNonPrisonerBed>
-	<Reserved>Gereserveerd door iemand anders.</Reserved>
-	<ReservedBy>Gereserveerd door {0}.</ReservedBy>
-	<IsReservedBy>{0} is gereserveerd door {1}.</IsReservedBy>
-
-	<Equip>Uitrusten met {0}</Equip>
-	<CannotEquip>Kan {0} niet uitrusten</CannotEquip>
-	
-	<Wear>Draag {0}</Wear>
-	<CannotWear>kan {0} niet dragen</CannotWear>
+  <MeleeAttack>Nahkampf Angriff auf {0}</MeleeAttack>
+  <MeleeAttackToDeath>Nahkampf Angriff auf {0} bis zum Tod</MeleeAttackToDeath>
+  <NoPath>Kein Weg</NoPath>
   
-	<Strip>Strip {0}</Strip>
-	<CannotStrip>Kan {0} niet strippen</CannotStrip>
-
-	<Deposit>Sla {0} op in {1}</Deposit>
-	<CannotDeposit>Kan {0} niet in {1} opslaan</CannotDeposit>
-
-	<Drop>Laat {0} vallen</Drop>
+ 	<ForbiddenLower>Verboten</ForbiddenLower>
+	<SociallyImproperLower>Gesellschaftlich unangebracht</SociallyImproperLower>
+	<PrisonerRoomLower>Gefängnis</PrisonerRoomLower>
+	<BurningLower>Brennt</BurningLower>
+	<NoEmptyPlaceLower>Kein leerer Lagerplatz verfügbar</NoEmptyPlaceLower>
+	<AlreadyFilledLower>Bereits gefüllt</AlreadyFilledLower>
+	<MissingMaterials>benötigt Materialien</MissingMaterials>
 	
-	<!-- Specific thing interactions -->
-    <EnterLongsleepPod>Ga langslaap capsule in</EnterLongsleepPod>
 
-	<!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-	<CannotGenericWork>Kan {1} niet {0}</CannotGenericWork>
+  <CannotGoNoPath>Kann hier nicht hin. (Kein Weg)</CannotGoNoPath>
+  <GoHere>Gehe hier hin</GoHere>
+  
+  <Arrest>{0} einsperren</Arrest>
+  <CannotArrest>Einsperren nicht möglich</CannotArrest>
 
-	<!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-	<CannotGenericAlreadyAm>Al {1} aan het {2}</CannotGenericAlreadyAm>
+  <Capture>{0} fangen</Capture>
+  <CannotCapture>Fangen nicht möglich</CannotCapture>
 
-	<CannotPrioritizeIsNotA>Kan geen voorrang geven ({0} is niet een {1})</CannotPrioritizeIsNotA>
+  <Rescue>{0} retten</Rescue>
+  <CannotRescue>Rettung nicht möglich</CannotRescue>
 
-	<CannotPrioritizeResearch>Kan geen voorrang geven (onderzoek en een taak van lange duur)</CannotPrioritizeResearch>
+  <NoPrisonerBed>Keine Betten im Gefängnis-Modus verfügbar.</NoPrisonerBed>
+  <NoNonPrisonerBed>Keine Betten im Kolonisten-Modus verfügbar</NoNonPrisonerBed>
+  <Reserved>Wird von jemand anderen benutzt.</Reserved>
+  <ReservedBy>Wird von {0} benutzt.</ReservedBy>
+  <IsReservedBy>{0} wird von {1} benutzt.</IsReservedBy>
 
-	<CannotPrioritizeForbidden>Kan geen voorrang geven ({0} is verboden)</CannotPrioritizeForbidden>
+  <NoManipulationSkill>unfähig</NoManipulationSkill>
 
-	<!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-	<PrioritizeGeneric>Priorizeer {0} {1}</PrioritizeGeneric>
-	  
+  <Equip>{0} ausrüsten</Equip>
+  <CannotEquip>Kann {0} nicht ausrüsten</CannotEquip>
+  
+  <Wear>Ziehe {0} an</Wear>
+  <CannotWear>Kann {0} nicht anziehen</CannotWear>
+  
+  <Strip>Ziehe {0} aus</Strip>
+  <CannotStrip>Kann {0} nicht ausziehen</CannotStrip>
+
+  <Deposit>Lagere {0} in {1}</Deposit>
+  <CannotDeposit>Kann {0} nicht in {1} lagern</CannotDeposit>
+
+  <Drop>Lass {0} fallen</Drop>
+  
+  <UseMedicalBed>Erholen bis geheilt</UseMedicalBed>
+  <NotInjured>Nicht verletzt</NotInjured>
+  <SomeoneElseSleeping>Belegt</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Betrete Kryoschlafkapsel</EnterCryptosleepPod>
+  
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Kann {1} nicht {0}.</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>{1} wird bereits {0}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Kann nicht priorisiert werden ({0} ist kein {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Kann nicht priorisiert werden (Forschung ist eine langfristige Aufgabe)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Kann nicht priorisiert werden ({0} ist verboten)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Priorisiere {0} {1}</PrioritizeGeneric>
+  
 </LanguageData>

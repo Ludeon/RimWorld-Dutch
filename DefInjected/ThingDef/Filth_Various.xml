@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<FilthBlood.label>Bloed</FilthBlood.label>
-	<FilthDirt.label>Vuil</FilthDirt.label>
-	<FilthSand.label>Zand</FilthSand.label>
-	<RockRubble.label>Steen puin</RockRubble.label>
-	<SlagRubble.label>Metaal puin</SlagRubble.label>
-	<SandbagRubble.label>Verspreide zandzakken</SandbagRubble.label>
+	<FilthBlood.label>Blut</FilthBlood.label>
+	<FilthDirt.label>Dreck</FilthDirt.label>
+	<FilthSand.label>Sand</FilthSand.label>
+	<RockRubble.label>Geröll</RockRubble.label>
+	<SlagRubble.label>Metallschutt</SlagRubble.label>
+	<SandbagRubble.label>Zerstörte Sandsäcke</SandbagRubble.label>
+	
+	
 
 </LanguageData>

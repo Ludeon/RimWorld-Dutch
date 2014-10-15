@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AteRawFood.label>Hat rohe Nahrung gegessen</AteRawFood.label>
+	<AteRawFood.description>Ich musste rohe Nahrung essen. Können wir sie nicht kochen oder zumindest zu Nährstoffpaste verarbeiten?</AteRawFood.description>
+	
+	<AteNutrientPasteMeal.label>Hat Nährstoffpaste gegessen</AteNutrientPasteMeal.label>
+	<AteNutrientPasteMeal.description>Ich musste Nährstoffpaste essen. Ich weiß es hält mich am Leben, aber niemand will diese Pampe wirklich essen.</AteNutrientPasteMeal.description>
+	
+	<AteFineMeal.label>Hat eine leckere Mahlzeit gegessen</AteFineMeal.label>
+	<AteFineMeal.description>Ich habe ein leckere Mahlzeit gegessen. Mmm, Yummy!</AteFineMeal.description>
+	
+	<AteLavishMeal.label>Hat eine üppige Mahlzeit gegessen</AteLavishMeal.label>
+	<AteLavishMeal.description>Diese Mahlzeit war sehr üppig und so lecker. Sie nährt meinen Körper und meine Seele.</AteLavishMeal.description>
+	
+  <!-- =========== Cannibalism ===============-->
+	<AteHumanoidMeatDirect.label>Kannibalismus (roh)</AteHumanoidMeatDirect.label>
+	<AteHumanoidMeatDirect.description>Ich habe das Fleisch eines anderen Menschen gegessen, roh, wie ein Tier. Das ist ein Alptraum.</AteHumanoidMeatDirect.description>
+	
+	<AteHumanoidMeatAsIngredient.label>Kannibalismus (gekocht)</AteHumanoidMeatAsIngredient.label>
+	<AteHumanoidMeatAsIngredient.description>Ich habe eine Mahlzeit mit Menschenfleisch als Zutat gegessen. Das ist so furchtbar.</AteHumanoidMeatAsIngredient.description>
+	
+	
+	<AteHumanoidMeatDirectCannibal.label>Kannibalismus (roh)</AteHumanoidMeatDirectCannibal.label>
+	<AteHumanoidMeatDirectCannibal.description>Ich habe das Fleisch eines anderen Menschen gegessen, roh, wie ein Tier. Es war so... saftig.</AteHumanoidMeatDirectCannibal.description>
+	
+	<AteHumanoidMeatAsIngredientCannibal.label>Kannibalismus (gekocht)</AteHumanoidMeatAsIngredientCannibal.label>
+	<AteHumanoidMeatAsIngredientCannibal.description>Ich habe eine ein Essen aus Menschenfleisch gegessen. Soo lecker. Wenn ich doch nur ein paar dicke Bohnen und einen leckeren Chianti dazu hätte.</AteHumanoidMeatAsIngredientCannibal.description>
+	
+	
+	<ButcheredHumanoidCorpse.label>Menschen geschlachtet</ButcheredHumanoidCorpse.label>
+	<ButcheredHumanoidCorpse.description>Ich habe gerade jemanden geschlachtet. Als wär's ein Tier.</ButcheredHumanoidCorpse.description>
+	
+	
+	<AteWithoutTable.label>Vom Boden gegessen</AteWithoutTable.label>
+    <AteWithoutTable.description>Ich musste vom Boden essen. Können wir keine Tische aufstellen?</AteWithoutTable.description>
+
+  <!-- Combat -->
+	
+	<ObservedLayingCorpse.label>Leiche gesehen</ObservedLayingCorpse.label>
+	<ObservedLayingCorpse.description>Ich habe eine Leiche auf dem Boden herum liegen sehen.</ObservedLayingCorpse.description>
+	
+	<ObservedLayingRottingCorpse.label>Verrottende Leiche gesehen</ObservedLayingRottingCorpse.label>
+	<ObservedLayingRottingCorpse.description>Ich habe eine verrottende Leiche auf dem Boden liegen sehen. Es war eklig.</ObservedLayingRottingCorpse.description>
+
+	<WitnessedDeathAlly.label>Sah Verbündeten sterben</WitnessedDeathAlly.label>
+	<WitnessedDeathAlly.description>Ich habe einen Verbündeten sterben sehen. In einen Moment war er noch am Leben und im nächsten Tot.</WitnessedDeathAlly.description>
+	
+	<WitnessedDeathStranger.label>Sah jemanden sterben</WitnessedDeathStranger.label>
+	<WitnessedDeathStranger.description>Ich habe jemanden sterben sehen. In einen Moment war er noch am Leben und im nächsten Tot.</WitnessedDeathStranger.description>
+	
+	<WitnessedDeathStrangerBloodlust.label>Sah jemanden sterben</WitnessedDeathStrangerBloodlust.label>
+	<WitnessedDeathStrangerBloodlust.description>Ich habe jemanden sterben sehen. Wow, das war intensiv!</WitnessedDeathStrangerBloodlust.description>
+	
+	<KilledHumanoidBloodlust.label>Hat jemanden getötet</KilledHumanoidBloodlust.label>
+	<KilledHumanoidBloodlust.description>Ich habe jemanden umgebracht. Was für ein Gefühl!</KilledHumanoidBloodlust.description>
+	
+	<BattleWounded.label>Verwundet</BattleWounded.label>
+	<BattleWounded.description>Das ist mein Blut! Ich wurde im Kampf verletzt!</BattleWounded.description>
+	
+	<!--
+	<ObservedGibbetCageEmpty.label>Galgenkäfig gesehen</ObservedGibbetCageEmpty.label>
+	<ObservedGibbetCageEmpty.description>Diese Galgenkäfige sehen furchtbar aus.</ObservedGibbetCageEmpty.description>
+
+	<ObservedGibbetCageFullStranger.label>Fremden in Galgenkäfig gesehen</ObservedGibbetCageFullStranger.label>
+	<ObservedGibbetCageFullStranger.description>Ich habe einen Leiche von einem Fremden im Galgenkäfig gesehen. Was für ein grausamer Ort.</ObservedGibbetCageFullStranger.description>
+
+	<ObservedGibbetCageFullColonist.label>Kolonist in Galgenkäfig gesehen</ObservedGibbetCageFullColonist.label>
+	<ObservedGibbetCageFullColonist.description>Ich habe einen von uns in einem Galgenkäfig gesehen. Vor kurzem habe ich mit dieser Person noch gesprochen. Dieser Ort ist so schrecklich.</ObservedGibbetCageFullColonist.description>
+	-->
+
+	<NewColonyOptimism.label>Neue-Kolonie-Optimismus</NewColonyOptimism.label>
+	<NewColonyOptimism.description>Wir sind gerade erst hier gelandet. Es ist eine schwierige Situation, aber ich bin auch aufgeregt, dass wir eine neue Kolonie gründen.</NewColonyOptimism.description>
+	
+	<NewColonyHope.label>Neue-Kolonie-Hoffnung</NewColonyHope.label>
+	<NewColonyHope.description>Ich gewöhne mich langsam an unsere Situation, aber es ist noch immer aufregend. Ich hoffe es funktioniert...</NewColonyHope.description>
+
+	<SleptOutside.label>Draußen geschlafen</SleptOutside.label>
+	<SleptOutside.description>Ich musste draußen schlafen, ohne jeglichen Schutz vor den Elementen.</SleptOutside.description>
+	
+	<SleptOnGround.label>Auf dem Boden geschlafen</SleptOnGround.label>
+    <SleptOnGround.description>Ich musste, wie ein Tier, auf dem Boden schlafen.</SleptOnGround.description>
+
+	
+	<KnowPrisonerBeaten.label>Ein Gefangener wurde geschlagen</KnowPrisonerBeaten.label>
+	<KnowPrisonerBeaten.description>Sie schlagen Gefangene.</KnowPrisonerBeaten.description>
+	
+	<KnowPrisonerSold.label>Ein Gefangener wurde verkauft</KnowPrisonerSold.label>
+	<KnowPrisonerSold.description>Unsere Kolonie hat einen Gefangenen verkauft. Der Gedanke daran ist besorgniserregend.</KnowPrisonerSold.description>
+	
+	<KnowPrisonerExecuted.label>Ein Gefangener wurde exekutiert</KnowPrisonerExecuted.label>
+	<KnowPrisonerExecuted.description>Ein Gefangener wurde kaltblütig exekutiert. Diese Kolonie scheint jeden Tag schlimmer zu werden.</KnowPrisonerExecuted.description>
+	
+	<JustImprisoned.label>Wurde gerade eingesperrt</JustImprisoned.label>
+	<JustImprisoned.description>Ich wurde gerade eingesperrt. Ich sollte mich besser zusammenreißen und versuchen hiermit klar zu kommen.</JustImprisoned.description>
+	
+	<PrisonerFriendlyChat.label>Vom Aufseher überzeugt</PrisonerFriendlyChat.label>
+	<PrisonerFriendlyChat.description>Ich habe mit dem Aufseher über die Kolonie gesprochen. Es hört sich nach einem guten Ort an...</PrisonerFriendlyChat.description>
+	
+	<PrisonerBeatenMild.label>Vom Aufseher geschlagen</PrisonerBeatenMild.label>
+	<PrisonerBeatenMild.description>Der Aufseher hat mich geschlagen. Er hat mir nichts gebrochen, aber man, das tut weh.</PrisonerBeatenMild.description>
+	
+	<PrisonerBeatenVicious.label>Vom Aufseher brutal geschlagen</PrisonerBeatenVicious.label>
+	<PrisonerBeatenVicious.description>Der Aufseher hat mich brutal zusammengeschlagen. Es stört niemanden, wenn ich dabei sterbe...</PrisonerBeatenVicious.description>
+	
+	<SocialTalk.label>Hatte sozialen Kontakt</SocialTalk.label>
+	<SocialTalk.description>Ich hatte ein gutes Gespräch.</SocialTalk.description>
+	
+	<AbrasiveTalk.label>Hatte unangenehmes Gespräch</AbrasiveTalk.label>
+	<AbrasiveTalk.description>Jemand war unfreundlich zu mir. Das Schlimmste dabei ist, dass er es wahrscheinlich nicht einmal bemerkt hat..</AbrasiveTalk.description>
+	
+	<GreenThumbHappy.label>Pflanze angepflanzt</GreenThumbHappy.label>
+	<GreenThumbHappy.description>Was die Welt braucht sind mehr Pflanzen!</GreenThumbHappy.description>
+
+</LanguageData>

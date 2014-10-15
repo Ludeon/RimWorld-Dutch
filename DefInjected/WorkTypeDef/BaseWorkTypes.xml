@@ -1,79 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Research.pawnLabel>Onderzoeker</Research.pawnLabel>
-	<Research.gerundLabel>Onderzoeken</Research.gerundLabel>
-	<Research.verb>Onderzoekt</Research.verb>
-	<Research.tooltipDesc>Onderzoeker onderzoekt dingen.</Research.tooltipDesc>
+	<Research.pawnLabel>Forscher</Research.pawnLabel>
+	<Research.gerundLabel>Forschen</Research.gerundLabel>
+	<Research.verb>Forscht bei</Research.verb>
+	<Research.tooltipDesc>Forscher erforschen Dinge.</Research.tooltipDesc>
 	
-	<Cleaning.pawnLabel>Schoonmaker</Cleaning.pawnLabel>
-	<Cleaning.gerundLabel>Schoon maken</Cleaning.gerundLabel>
-	<Cleaning.verb>Maakt schoon</Cleaning.verb>
-	<Cleaning.tooltipDesc>Schoonmakers ruimen gemorste vloeistoffen op en vegen het puin in aangewezen Thuis regios, waardoor het leuker wordt om in de kolonie te wonen.</Cleaning.tooltipDesc>
+	<Cleaning.pawnLabel>Reiniger</Cleaning.pawnLabel>
+	<Cleaning.gerundLabel>Reinigen</Cleaning.gerundLabel>
+	<Cleaning.verb>Reinigt</Cleaning.verb>
+	<Cleaning.tooltipDesc>Reiniger entfernen Müll, putzen den Boden und machen das Leben in der Kolonie lebenswerter.</Cleaning.tooltipDesc>
 	
-	<Hauling.pawnLabel>Drager</Hauling.pawnLabel>
-	<Hauling.gerundLabel>Dragen</Hauling.gerundLabel>
-	<Hauling.verb>Draagt</Hauling.verb>
-	<Hauling.tooltipDesc>Dragers dragen voorwerpen van A naar Beter.</Hauling.tooltipDesc>
+	<Hauling.pawnLabel>Träger</Hauling.pawnLabel>
+	<Hauling.gerundLabel>Tragen</Hauling.gerundLabel>
+	<Hauling.verb>Trägt</Hauling.verb>
+	<Hauling.tooltipDesc>Träger tragen Dinge dorthin, wo sie hingehören.</Hauling.tooltipDesc>
 	
-    <Art.pawnLabel>Kunstenaar</Art.pawnLabel>
-    <Art.gerundLabel>Maakt kunst</Art.gerundLabel>
-    <Art.verb>Is creatief</Art.verb>
-    <Art.tooltipDesc>Kunstenaars maken prachtige kunst.</Art.tooltipDesc>
+    <Art.pawnLabel>Künstler</Art.pawnLabel>
+    <Art.gerundLabel>Kreativ sein</Art.gerundLabel>
+    <Art.verb>Ist kreativ</Art.verb>
+    <Art.tooltipDesc>Künstler erzeugen wunderbare Kunstgegenstände.</Art.tooltipDesc>
 	
 	<Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
-	<Crafting.gerundLabel>Handwerken</Crafting.gerundLabel>
-	<Crafting.verb>Handwerken</Crafting.verb>
-	<Crafting.tooltipDesc>Handwerkers maken voorwerpen van ruwe materialen.</Crafting.tooltipDesc>
+	<Crafting.gerundLabel>Fertigen</Crafting.gerundLabel>
+	<Crafting.verb>Fertigt</Crafting.verb>
+	<Crafting.tooltipDesc>Handwerker stellen Dinge aus rohen Materialien her.</Crafting.tooltipDesc>
 	
-	<PlantCutting.pawnLabel>Planten snijder</PlantCutting.pawnLabel>
-	<PlantCutting.gerundLabel>Planten snijden</PlantCutting.gerundLabel>
-	<PlantCutting.verb>Snijdt planten</PlantCutting.verb>
-	<PlantCutting.tooltipDesc>Planten snijders snijden en oogsten planten die daarvoor gemarkeerd zijn.</PlantCutting.tooltipDesc>
+	<PlantCutting.pawnLabel>Pflanzenschneider</PlantCutting.pawnLabel>
+	<PlantCutting.gerundLabel>Pfl. schneiden</PlantCutting.gerundLabel>
+	<PlantCutting.verb>Schneidet Pflanzen</PlantCutting.verb>
+	<PlantCutting.tooltipDesc>Pflanzenschneider schneiden und ernten die markierten Pflanzen und Bäume.</PlantCutting.tooltipDesc>
 	
-	<Growing.pawnLabel>Landbouwer</Growing.pawnLabel>
-	<Growing.gerundLabel>Zaaien</Growing.gerundLabel>
-	<Growing.verb>Zaait</Growing.verb>
-	<Growing.tooltipDesc>Landbouwers planten zaden en oogsten groenten.</Growing.tooltipDesc>
+	<Growing.pawnLabel>Landwirt</Growing.pawnLabel>
+	<Growing.gerundLabel>Anbauen</Growing.gerundLabel>
+	<Growing.verb>Baut an</Growing.verb>
+	<Growing.tooltipDesc>Ein Landwirt pflanzt Samen an und erntet die ausgewachsenen Feldfrüchte.</Growing.tooltipDesc>
 	
-	<Mining.pawnLabel>Mijnwerker</Mining.pawnLabel>
-	<Mining.gerundLabel>Delven</Mining.gerundLabel>
-	<Mining.verb>Delft</Mining.verb>
-	<Mining.tooltipDesc>Mijnwerkers delven velden uit die je daarvoor hebt aangewezen. Als dit velden zijn met mineralen krijg je er bruikbare metalen voor terug.</Mining.tooltipDesc>
+	<Mining.pawnLabel>Bergarbeiter</Mining.pawnLabel>
+	<Mining.gerundLabel>Abbauen</Mining.gerundLabel>
+	<Mining.verb>Baut ab</Mining.verb>
+	<Mining.tooltipDesc>Ein Bergarbeiter baut die markierten Quadrate ab. Wenn es sich um Mineralienquadrate handelt, bekommt man brauchbare Mineralien.</Mining.tooltipDesc>
 	
-	<Repair.pawnLabel>Reperateur</Repair.pawnLabel>
-	<Repair.gerundLabel>Repareren</Repair.gerundLabel>
-	<Repair.verb>Repareert</Repair.verb>
-	<Repair.tooltipDesc>Reperateuren repareren gebouwen en voorwerpen.</Repair.tooltipDesc>
+	<Repair.pawnLabel>Mechaniker</Repair.pawnLabel>
+	<Repair.gerundLabel>Reparieren</Repair.gerundLabel>
+	<Repair.verb>Repariert</Repair.verb>
+	<Repair.tooltipDesc>Mechaniker reparieren beschädigte Gebäude und Ausrüstung.</Repair.tooltipDesc>
 	
-	<Construction.pawnLabel>Timmerman</Construction.pawnLabel>
-	<Construction.gerundLabel>Bouwen</Construction.gerundLabel>
-	<Construction.verb>Bouwt</Construction.verb>
-	<Construction.tooltipDesc>Timmermannen bouwen je kolonie op.</Construction.tooltipDesc>
+	<Construction.pawnLabel>Bauarbeiter</Construction.pawnLabel>
+	<Construction.gerundLabel>Bauen</Construction.gerundLabel>
+	<Construction.verb>Baut</Construction.verb>
+	<Construction.tooltipDesc>Bauarbeiter errichten die Dinge, die vorgegeben wurden.</Construction.tooltipDesc>
 	
-	<Hunting.pawnLabel>Jager</Hunting.pawnLabel>
+	<Hunting.pawnLabel>Jäger</Hunting.pawnLabel>
 	<Hunting.gerundLabel>Jagen</Hunting.gerundLabel>
-	<Hunting.verb>Jaagt</Hunting.verb>
-	<Hunting.tooltipDesc>Jagers jagen op dieren die aangewezen zijn voor de jacht.</Hunting.tooltipDesc>
+	<Hunting.verb>Jagt</Hunting.verb>
+	<Hunting.tooltipDesc>Jäger töten Tiere, die zum Abschuss markiert wurden.</Hunting.tooltipDesc>
 	
-	<Cooking.pawnLabel>Kok</Cooking.pawnLabel>
-	<Cooking.gerundLabel>Koken</Cooking.gerundLabel>
-	<Cooking.verb>Kookt</Cooking.verb>
-	<Cooking.tooltipDesc>Koks vullen voedingsstoffen pasta automaten aan en koken maaltijden.</Cooking.tooltipDesc>
+	<Cooking.pawnLabel>Koch</Cooking.pawnLabel>
+	<Cooking.gerundLabel>Kochen</Cooking.gerundLabel>
+	<Cooking.verb>Kocht</Cooking.verb>
+	<Cooking.tooltipDesc>Der Koch füllt Nährstoffpastenspender und bereitet Mahlzeiten zu.</Cooking.tooltipDesc>
 	
-	<Warden.pawnLabel>Bewaker</Warden.pawnLabel>
-	<Warden.gerundLabel>Bewaken</Warden.gerundLabel>
-	<Warden.verb>Bewaakt</Warden.verb>
-	<Warden.tooltipDesc>Bewakers bezoeken gevangenen om ze te rekuteren, een praatje te houden, te slaan, of te doden - wat jij ze ook vertelt. Ze leveren ook voedsel aan gevangenen.</Warden.tooltipDesc>
+	<Warden.pawnLabel>Aufseher</Warden.pawnLabel>
+	<Warden.gerundLabel>Aufsehen</Warden.gerundLabel>
+	<Warden.verb>Überwacht</Warden.verb>
+	<Warden.tooltipDesc>Aufseher besuchen die Gefangenen, haben ein nettes Gespräch, verprügeln sie oder exekutieren sie - Was immer du entscheidest. Weiterhin bringen Aufseher den Gefangenen ihr Essen.</Warden.tooltipDesc>
 
-	<Doctor.pawnLabel>Dokter</Doctor.pawnLabel>
-	<Doctor.gerundLabel>Genezen</Doctor.gerundLabel>
-	<Doctor.verb>Geneest</Doctor.verb>
-	<Doctor.tooltipDesc>De dokter brengt voedsel naar zij die zelf niet kunnen lopen. Zowel voor kolonisten als gevangenen.</Doctor.tooltipDesc>
+	<Patient.pawnLabel>Patient</Patient.pawnLabel>
+	<Patient.gerundLabel>Patient</Patient.gerundLabel>
+	<Patient.verb>Patient</Patient.verb>
+	<Patient.tooltipDesc>Patienten gehen in ein Krankenbett, wenn sie medizinische Behandlung benötigen.</Patient.tooltipDesc>
+
+	<Doctor.pawnLabel>Doktor</Doctor.pawnLabel>
+	<Doctor.gerundLabel>Verarzten</Doctor.gerundLabel>
+	<Doctor.verb>Verarztet</Doctor.verb>
+	<Doctor.tooltipDesc>Der Arzt bringt essen und behandelt diejenigen, die verletzt im Bett liegen. Er versorgt Kolonisten und Gefangene gleichermaßen.</Doctor.tooltipDesc>
 	
-	<Firefighter.pawnLabel>Brandweerman</Firefighter.pawnLabel>
-	<Firefighter.gerundLabel>Blussen</Firefighter.gerundLabel>
-	<Firefighter.verb>Blust</Firefighter.verb>
-	<Firefighter.tooltipDesc>Brandweermannen blussen branden in de kolonie.</Firefighter.tooltipDesc>
+	<Firefighter.pawnLabel>Feuerwehrmann</Firefighter.pawnLabel>
+	<Firefighter.gerundLabel>Löschen</Firefighter.gerundLabel>
+	<Firefighter.verb>Löscht</Firefighter.verb>
+	<Firefighter.tooltipDesc>Der Feuerwehrmann löscht Feuer in der Kolonie.</Firefighter.tooltipDesc>
 
 </LanguageData>

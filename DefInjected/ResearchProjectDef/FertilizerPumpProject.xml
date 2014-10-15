@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<FertilizerPump.label>Meststoffen pomp</FertilizerPump.label>
-	<FertilizerPump.description>Staat je toe om meststoffen pompen te bouwen. Deze kunnen overal landbouw grond maken.</FertilizerPump.description>
+	<FertilizerPump.label>Düngepumpe</FertilizerPump.label>
+	<FertilizerPump.description>Erlaubt den Bau von Düngepumpen, die jeden Boden fruchtbar machen kann.</FertilizerPump.description>
+
 
 </LanguageData>

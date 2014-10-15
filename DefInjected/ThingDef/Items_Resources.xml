@@ -1,47 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <!-- This is just example data. The default English data is in the xml.
-  
-  If you want to make another language, just write all the strings in all defs in this format:
-  
-  <defName.fieldName>Translation</defName.fieldName>
-  
-  To do other def types, make other directories under DefLinked named after the type of def you want to modify.
-  e.g. to modify the FactionDefs, make a folder called FactionDef and put your translations in it.
-  
-  For a full translation, you'll have to make a directory for every type of def with a player-visible string field (that's most of them).
-  -->
+
+	<!--=============== Pure stuffs: Basics ====================-->
+
+	<Silver.label>Silber</Silver.label>
+	<Silver.description>Wird hauptsächlich als Währung beim Handeln akzeptiert, kann aber auch für attraktive Dekorationen hergenommen werden.</Silver.description>
+	
+	<Gold.label>Gold</Gold.label>
+	<Gold.description>Das verführerischste aller Metalle. Millionen sind in der endlosen Gier der Menschheit nach Gold gestorben. Das weiche Metall hat fast keinen eigenen Nutzen, ist aber sehr schön und selten.</Gold.description>
+	
+	<Metal.label>Metall</Metal.label>
+	<Metal.description>Ein vielseitiges Material zum Bauen von Strukturen, Werkzeugen und Waffen.</Metal.description>
+	
+	<Plasteel.label>Plastahl</Plasteel.label>
+	<Plasteel.description>Fortschritliches Material aus der Raumfahrttechnologie. Plastahl ist aufgrund der einzigartigen molekularen Struktur extrem stark und doch leicht.</Plasteel.description>
+	
+	<StoneBlocks.label>Steinblöcke</StoneBlocks.label>
+	<StoneBlocks.description>Blöcke aus solidem Stein. Meistens nur brauchbar, um einfache, aber starke und langlebige Strukturen zu bauen.</StoneBlocks.description>
+	<StoneBlocks.stuffProps.nameAsStuff>Stein</StoneBlocks.stuffProps.nameAsStuff>
+	
+	<WoodLog.label>Holz</WoodLog.label>
+	<WoodLog.description>Holz von Bäumen oder anderen holzartigen Gewächsen. Brauchbar um hölzerne Strukturen, Waffen oder einfache Prothesen zu bauen. Im Fall der Fälle kann ein Holzblock auch als Waffe eingesetzt werden.</WoodLog.description>
+	
+	<Uranium.label>Uran</Uranium.label>
+	<Uranium.description>Reaktormaterial.</Uranium.description>
+	
+	<!--
+	<WoodPlank.label>Holz Planke</WoodPlank.label>
+	<WoodPlank.description>Zum Bauen von Strukturen.</WoodPlank.description>
+	-->
+	
+	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+	
+	<Cloth.label>Stoff</Cloth.label>
+	<Cloth.description>Stoff aus organischen Fasern gewebt.</Cloth.description>
+	
+	<Synthread.label>Syngarn</Synthread.label>
+	<Synthread.description>Stoff aus der Raumfahrttechnik, der für normale Kleidung entwickelt wurde. Er ist weich, leicht, stark und isoliert gut.</Synthread.description>
+	
+	<DevilstrandCloth.label>Teufelsgarn</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Sehr strapazierfähiger Stoff, der aus den seidenproduzierenden Teufelsgarnpilzen gewonnen wurde.</DevilstrandCloth.description>
+	
+	<Hyperweave.label>Nanofaser</Hyperweave.label>
+	<Hyperweave.description>High-Tech Nano-Fasern, die zu einem Stoff verwoben wurden. Das Material ist etwas schwer, ist aber kaum zu zerstören.</Hyperweave.description>
+	
+	
+	<!--=============== Raw foods ====================-->
+	
+	<RawPotatoes.label>Kartoffel</RawPotatoes.label>
+	<RawPotatoes.description>Rohe Kartoffeln.</RawPotatoes.description>
+	
+	<RawBerries.label>Beere</RawBerries.label>
+	<RawBerries.description>Verschiedene Beeren. Sind auch roh lecker.</RawBerries.description>
+	
+	<RawAgave.label>Agavefrucht</RawAgave.label>	
+	<RawAgave.description>Rohe Früchte der Agave.</RawAgave.description>
+	
+	
+    <!--=============== Manufactured ====================-->
+	
+	<Medicine.label>Medizin</Medicine.label>
+    <Medicine.description>Ärzte verwenden Medizin zum Heilen von Verwundeten.</Medicine.description>
+	
+	<Shells.label>Patronen</Shells.label>
+    <Shells.description>Werden von Kanonen verschossen.</Shells.description>
+	
+	<!--
+	<Missiles.label>Rakete</Missiles.label>
+    <Missiles.description>Wird von Raketenwerfern abgefeuert.</Missiles.description>
+	-->
 
 	
-	<Silver.label>Zilver</Silver.label>
-	<Silver.description>Heeft maar een doel: Handel.</Silver.description>
-	<Metal.label>Metaal</Metal.label>
-	<Metal.description>Nodig voor het maken van gebouwen.</Metal.description>
-	<StoneBlocks.label>Steenblokken</StoneBlocks.label>
-	<StoneBlocks.description>Nodig voor het maken van gebouwen.</StoneBlocks.description>
-	
-	<RawPotatoes.label>Aardappelen</RawPotatoes.label>
-	<RawPotatoes.description>Rauwe aardappelen.</RawPotatoes.description>
-	
-	<RawBerries.label>Bessen</RawBerries.label>
-	<RawBerries.description>Rauwe bessen.</RawBerries.description>
-	
-	<RawAgave.label>Agave</RawAgave.label>
-	<RawAgave.description>Rauwe agave.</RawAgave.description>
-	
-	<!--=============== UNUSED ====================-->
-	
-	<Uranium.label>Uranium</Uranium.label>
-	<Uranium.description>Voorziet reaktoren van energie.</Uranium.description>
-	
-	<Medicine.label>Medicijnen</Medicine.label>
-	<Medicine.description>Doktoren gebruiken medicatie om de gewonden te genezen.</Medicine.description>
-	
-	<Shells.label>Kogelhulsen</Shells.label>
-	<Shells.description>Afgevuurd door kanonnen.</Shells.description>
-	
-	<Missiles.label>Raketten</Missiles.label>
-	<Missiles.description>Gelanceerd door raketwerpers.</Missiles.description>
-  
 </LanguageData>

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Centipede.label>Centipede</Centipede.label>
+	<Centipede.label>Raupe</Centipede.label>
+	<Scyther.label>Sense</Scyther.label>
+	<!--<Lancer.label>Lancier</Lancer.label>-->
 	
 </LanguageData>

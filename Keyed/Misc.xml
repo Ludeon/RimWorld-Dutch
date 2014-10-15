@@ -1,31 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<GameStartDialog>Je wordt met zijn drieën wakker uit je langslaap sarcofagen met het geluid van sirenes en scheurend metaal. Je hebt net genoeg tijd om in de reddingscapsules te stappen voor het schip uit elkaar gerukt wordt.\n\nEnige tijd later, land je op deze onbekende Rimwereld.\n\nTerwijl de restanten van je schip om je heen op de grond vallen, begin je plannen te maken om te overleven.</GameStartDialog>
+	<Autosaving>Speichere..</Autosaving>
+
+	<GameStartDialog>Ihr drei wacht in euren Kryoschlafkapseln zum Geräusch von Sirenen und berstendem Metall auf. Trotz Explosionen und entweichender Atemluft schafft ihr es gerade noch, die rettenden Fluchtkapseln zu erreichen. Als ihr euch ins All katapultiert, zerbricht hinter euch das Raumschiff in tausend Teile.\n\nEinige Zeit später landet ihr auf dieser unbekannten Rimworld.\n\nUm euch herum schlagen noch die letzten Trümmer des zerstörten Raumschiffes ein, als ihr beginnt, Pläne für euer Überleben zu schmieden..</GameStartDialog>
 	
 	<Colony>Kolonie</Colony>
-
-	<ChangeLanguageFromMainMenu>Je kan alleen de taal veranderen via de opties in het hoofdmenu.</ChangeLanguageFromMainMenu>
 	
-	<AndLower>en</AndLower>
-	<DisabledLower>gedeactiveerd</DisabledLower>
+	<ChangeLanguageFromMainMenu>Die Sprache kannst du nur im Hauptmenü ändern.</ChangeLanguageFromMainMenu>
 
-	<CloseButton>Sluiten</CloseButton>
-
-	<VersionIndicator>Versie {0}</VersionIndicator>
-	<DevelopmentBuildLower>Ontwikkelversie</DevelopmentBuildLower>
-	<CompiledOn>Gecompileert op {0}</CompiledOn>
-
-	<MeatLabel>{0} vlees</MeatLabel>
-	<MeatDesc>Rauw vlees van een {0}.</MeatDesc>
-
-	<CorpseLabel>{0} lijk</CorpseLabel>
-	<CorpseDesc>Dode lichaam van {0}.</CorpseDesc>
-
-	<BlueprintLabelExtra>(blauwdruk)</BlueprintLabelExtra>
-	<FrameLabelExtra>(gebouw)</FrameLabelExtra>
-
-	<!-- History events -->
-    <ColonistDied>Kolonist ging dood</ColonistDied>
+	<AndLower>und</AndLower>
+	<DisabledLower>deaktiviert</DisabledLower>
   
+    <CloseButton>Schließen</CloseButton>
+
+
+  <VersionIndicator>Version {0}</VersionIndicator>
+  <DevelopmentBuildLower>Entwicklungsversion</DevelopmentBuildLower>
+  <CompiledOn>Erstellt am {0}</CompiledOn>
+
+  <MeatLabel>{0} Fleisch</MeatLabel>
+   <MeatDesc>Rohes Fleisch von {0}.</MeatDesc>
+   
+  <LeatherLabel>{0} Leder</LeatherLabel>
+  <LeatherDesc>Leder aus der Haut von {0}.</LeatherDesc>
+   
+	<CorpseLabel>{0} (Leiche)</CorpseLabel>
+	<CorpseDesc>Toter Körper von {0}.</CorpseDesc>
+  <DeadLabel>{0} (tot)</DeadLabel>
+
+
+	<BlueprintLabelExtra> (geplant)</BlueprintLabelExtra>
+  <FrameLabelExtra> (wird gebaut)</FrameLabelExtra>
+  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(verschiedenes)</VariousLabel>
+	
+	
+  <!-- History events -->
+  <ColonistDied>Kolonist gestorben</ColonistDied>
+	
 </LanguageData>

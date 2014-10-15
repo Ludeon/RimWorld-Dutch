@@ -1,10 +1,15 @@
-NL-Rimworld
-===========
+RimWorld Dutch
+================
 
-Dutch translation of Rimworld
+This is the dutch translation data for RimWorld.
 
-All copyrights are owned by Ludeon studios. License info here: http://ludeon.com/forums/index.php?topic=2933
+See this page for license info:
 
-Translators:
--Ser-Geeves
--ConfusedWings
+http://ludeon.com/forums/index.php?topic=2933.0
+
+
+
+Official Translators:
+---------------------
+- datdenkikniet
+

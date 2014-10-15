@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FactionGreetingHostile>De {0} vertegenwoordiger slingert enkele scheldwoorden naar het beeldscherm en sluit af.</FactionGreetingHostile>
-  <FactionGreetingWary>De {0} vertegenwoordiger groet {1} behoedzaam en vraagt wat hij wilt.</FactionGreetingWary>
-  <FactionGreetingWarm>De {0} vertegenwoordiger groet {1} van harte en vraagt hoe het in de kolonie gaat.</FactionGreetingWarm>
+  <FactionGreetingHostile>Der Sprecher der {0} schreit ein paar Beleidungen, bevor er die Verbindung trennt.</FactionGreetingHostile>
+  <FactionGreetingWary>Der Sprecher der {0} begrüßt {1} misstrauisch und fragt nach HISem Begehr.</FactionGreetingWary>
+  <FactionGreetingFriendly>Der Sprecher der {0} begrüßt {1} herzlich und fragt, wie es der Kolonie so geht.</FactionGreetingFriendly>
 
-  <Disconnect>Afsluiten</Disconnect>
+  <Disconnect>Verbindung trennen</Disconnect>
 
-  <OfferGift>Bied gift aan</OfferGift>
-  <NeedSilverLaunchable>{0} zilver verstuurbaar nodig</NeedSilverLaunchable>
-  <NotEnoughSilver>Niet genoeg zilver.</NotEnoughSilver>
-  <SilverForGoodwill>{0} zilver voor {1} goede wil</SilverForGoodwill>
-  <SilverGiftSent>De {0} vertegenwoordiger bedankt jou.\n\n(Goede wil verbeterd met {1}).</SilverGiftSent>
+  <OfferGift>Geschenk anbieten</OfferGift>
+  <NeedSilverLaunchable>benötigt {0} Silber (versandbereit)</NeedSilverLaunchable>
+  <NotEnoughSilver>Nicht genug Silber.</NotEnoughSilver>
+  <SilverForGoodwill>{0} Silber für {1} Ruf</SilverForGoodwill>
+  <SilverGiftSent>Der {0} Sprecher bedankt sich.\n\n(Ruf um {1} verbessert).</SilverGiftSent>
 
 
-  <RequestMilitaryAid>Verzoek militaire hulp ({0} goede wil)</RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy>{0} wil niet met facties vechten waarmee ze vrienden zijn. Dit is inclusief facties die jou bedreigen, {1}. Wil je nog steeds om hulp vragen?</MilitaryAidConfirmMutualEnemy>
-  <CallConfirm>Ja, stuur ze toch.</CallConfirm>
-  <CallCancel>Nee, laat maar zitten.</CallCancel>
-  <MilitaryAidSent>De {0} vertegenwoordiger stemt ermee in om strijders te sturen om je te helpen.</MilitaryAidSent>
+  <RequestMilitaryAid>Bitte um sofortige militärische Hilfe ({0} Ruf)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} hilft dir nicht gegen Fraktionen, die nicht ihre Feinde sind. Einige Gegner, die dich gerade angreifen, zählen zu dieser Gruppe: {1}. Willst du noch immer um Hilfe bitten?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Ja, bitte sie trotzdem.</CallConfirm>
+  <CallCancel>Nein, dann halt nicht.</CallCancel>
+  <MilitaryAidSent>Der Sprecher der {0} stimmt zu und entsendet Kämpfer, die dir helfen werden..</MilitaryAidSent>
   
   
 </LanguageData>

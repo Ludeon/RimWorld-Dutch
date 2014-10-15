@@ -1,35 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-		<Construction.skillLabel>Konstruktion</Construction.skillLabel>
-		<Construction.pawnLabel>Bauarbeiter</Construction.pawnLabel>
+		<Construction.skillLabel>Bouwen</Construction.skillLabel>
+		<Construction.pawnLabel>Bouwer</Construction.pawnLabel>
 	
-		<Growing.skillLabel>Landwirtschaft</Growing.skillLabel>
-		<Growing.pawnLabel>Landwirt</Growing.pawnLabel>
+		<Growing.skillLabel>Verbouwing</Growing.skillLabel>
+		<Growing.pawnLabel>boer</Growing.pawnLabel>
 	
-		<Research.skillLabel>Forschung</Research.skillLabel>
-		<Research.pawnLabel>Forscher</Research.pawnLabel>
+		<Research.skillLabel>Onderzoek</Research.skillLabel>
+		<Research.pawnLabel>Onderzoeker</Research.pawnLabel>
 	
-		<Mining.skillLabel>Bergbau</Mining.skillLabel>
-		<Mining.pawnLabel>Bergarbeiter</Mining.pawnLabel>
+		<Mining.skillLabel>Delven</Mining.skillLabel>
+		<Mining.pawnLabel>Delver</Mining.pawnLabel>
 	
-		<Shooting.skillLabel>Schießen</Shooting.skillLabel>
-		<Shooting.pawnLabel>Schütze</Shooting.pawnLabel>
+		<Shooting.skillLabel>Schieten</Shooting.skillLabel>
+		<Shooting.pawnLabel>Schutter</Shooting.pawnLabel>
 	
-		<Melee.skillLabel>Nahkampf</Melee.skillLabel>
-		<Melee.pawnLabel>Schläger</Melee.pawnLabel>
+		<Melee.skillLabel>Vechten met de hand</Melee.skillLabel>
+		<Melee.pawnLabel>handvechter</Melee.pawnLabel>
 	
-		<Social.skillLabel>Sozial</Social.skillLabel>
-		<Social.pawnLabel>Redner</Social.pawnLabel>
+		<Social.skillLabel>Sociaal</Social.skillLabel>
+		<Social.pawnLabel>spreker</Social.pawnLabel>
 	
-		<Cooking.skillLabel>Kochen</Cooking.skillLabel>
-		<Cooking.pawnLabel>Koch</Cooking.pawnLabel>
+		<Cooking.skillLabel>Koken</Cooking.skillLabel>
+		<Cooking.pawnLabel>Kok</Cooking.pawnLabel>
 	
-		<Medicine.skillLabel>Medizin</Medicine.skillLabel>
-		<Medicine.pawnLabel>Doktor</Medicine.pawnLabel>
+		<Medicine.skillLabel>Medicijn</Medicine.skillLabel>
+		<Medicine.pawnLabel>Dokter</Medicine.pawnLabel>
 	
-		<Artistic.skillLabel>Kreativ</Artistic.skillLabel>
-		<Artistic.pawnLabel>Künstler</Artistic.pawnLabel>
+		<Artistic.skillLabel>Creatief</Artistic.skillLabel>
+		<Artistic.pawnLabel>Kunstenaar</Artistic.pawnLabel>
 	
 		<Crafting.skillLabel>Handwerk</Crafting.skillLabel>
 		<Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>

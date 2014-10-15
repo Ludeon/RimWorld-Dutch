@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ShipBasics.label>Grundlagen Raumschiffe</ShipBasics.label>
-	<ShipBasics.description>Erlaubt dir fortgeschrittene Raumschiffskonstruktionstechnologien zu erforschen, um dann letztendlich ein Raumschiff bauen zu können, mit dem du diesen Planeten verlassen kannst.</ShipBasics.description>
+	<ShipBasics.label>Schipbouwkunst</ShipBasics.label>
+	<ShipBasics.description>Hiermee kun je het begin van je ruimteschip bouwen.</ShipBasics.description>
 
-	<ShipCryptosleep.label>Schiff Kryoschlafkapsel</ShipCryptosleep.label>
-	<ShipCryptosleep.description>Erlaubt dir Kryoschlafkapseln zu bauen, mit denen Kolonisten im Kryoschlaf zwischen den Sternen transportiert werden können.</ShipCryptosleep.description>
+	<ShipCryptosleep.label>Cryptosleeppod</ShipCryptosleep.label>
+	<ShipCryptosleep.description>Hiermee kun je Crypotsleeppods bouwen, waarin je kolonisten de lange reis zullen overleven.</ShipCryptosleep.description>
 	
-	<ShipReactor.label>Schiff Antimaterie Reaktor</ShipReactor.label>
-	<ShipReactor.description>Erlaubt dir einen Antimaterie-Eindämmungs-Kern zu erstellen, der einen Antimaterie-Reaktor ermöglicht.</ShipReactor.description>
+	<ShipReactor.label>Antimateriereactor</ShipReactor.label>
+	<ShipReactor.description>Hiermee kun je je antimaterie-motoren aandrijven.</ShipReactor.description>
 	
-	<ShipEngine.label>Schiff Antimaterie Antrieb</ShipEngine.label>
-	<ShipEngine.description>Erlaubt dir einen Antimaterie-Eindämmungs-Kern zu erstellen, der einen Antimaterie-Antrieb ermöglicht.</ShipEngine.description>
+	<ShipEngine.label>Antimaterie-motoren</ShipEngine.label>
+	<ShipEngine.description>Hiermee kun je de motoren van je schip bouwen.</ShipEngine.description>
 	
-	<ShipComputerCore.label>Schiff Computer Kern</ShipComputerCore.label>
-	<ShipComputerCore.description>Ermöglicht es, eine vorhandene KI dazu zu bewegen, der Kern eines Raumschiff-Navigationscomputers zu werden.</ShipComputerCore.description>
+	<ShipComputerCore.label>Computer kern</ShipComputerCore.label>
+	<ShipComputerCore.description>Hiermee kun je een computerkern voor je schip bouwen, die je schip zal aansturen.</ShipComputerCore.description>
 	
 
 </LanguageData>

@@ -1,112 +1,112 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Zum Hinspringen klicken</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Klik hier om er naar toe te gaan</ClickToJumpToProblem>
   
-  <AlertNeedStockpile>Lager benötigt</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Deine Kolonisten benötigen einen Ort zum Lagern ihrer Gegenstände. Weise ihnen eine LAGERZONE zu.\n\nDu findest die Lager im Abschnitt ZONEN des ARCHITEKT Menüs unten links.</AlertNeedStockpileDesc>
+  <AlertNeedStockpile>Opslagplaats nodig</AlertNeedStockpile>
+  <AlertNeedStockpileDesc>Je kolonisten hebben een plaats nodig om hun spullen neer te kunnen leggen. Wijs hen een opslagplaats toe.\n\nDeze vind je in het "Zone" menu van de Architect, linksonderin.</AlertNeedStockpileDesc>
 
-  <AlertUnforbidStartingResources>Rohstoffe erlauben</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Anfangsrohstoffe auf der Karte sind VERBOTEN.\n\nDamit die Kolonisten hiermit interagieren, musst du es ERLAUBEN, indem du es auswählst und die ERLAUBEN Schaltfläche unten am Bildschirm betätigst.</AlertUnforbidStartingResourcesDesc>
+  <AlertUnforbidStartingResources>Spullen toestaan</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>De beginspullen zijn Verboden.\n\nOm je kolonisten hier wat mee te kunnen laten doen, moet je ze toestaan, door ze aan te klikken en op "Toestaan" te klikken.</AlertUnforbidStartingResourcesDesc>
 
-  <AlertEquipStartingWeapons>Waffen ausrüsten</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Deine Kolonisten sind mit ein paar Waffen gelandet. Rüste sie aus!\n\nWähle jeden Kolonisten aus und weise die jeweilige Waffe, die du ihm geben willst, mit einem Rechtsklick auf die Waffe zu.</AlertEquipStartingWeaponsDesc>
+  <AlertEquipStartingWeapons>Wapens uitrusten</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Samen met je kolonisten zijn enkele wapens geland. Rust je kolonisten met hen uit!\n\nWijs je kolonisten een wapen toe, door er met je rechtermuisknop op te klikken.</AlertEquipStartingWeaponsDesc>
   
-  <NeedSawmill>Sägemühle benötigt</NeedSawmill>
-  <NeedSawmillDesc>Du benötigst eine Sägemühle, um Stämme in nützlichere Planken zu zersägen.\n\nBaue eine HANDSÄGE oder eine ELEKTRISCHE SÄGE.</NeedSawmillDesc>
+  <NeedSawmill>Zaagmolen nodig</NeedSawmill>
+  <NeedSawmillDesc>Je hebt een zaagmolen nodig, om planken te maken van hout.\n\nBouw een handzagerij of een electrische zagerij.</NeedSawmillDesc>
   
-  <EquipStartingEquipment>Ausrüstung benutzen</EquipStartingEquipment>
-  <EquipStartingEquipmentDesc>Du bist mit einigen Waffen gelandet. Hol' sie von der Landezone.\n\nUm etwas auszurüsten, wähle einen Kolonisten und anschließend mit einem Rechtsklick den Gegenstand, den du ausrüsten willst.</EquipStartingEquipmentDesc>
+  <EquipStartingEquipment>Uitrusting aandoen</EquipStartingEquipment>
+  <EquipStartingEquipmentDesc>Je bent met een aantal wapens geland.\n\nDoe ze aan door er met de rechtermuisknop op te klikken.</EquipStartingEquipmentDesc>
   
-  <MentalBreakSoon>Warnung: Nervenzusammenbruch</MentalBreakSoon>
-  <MentalBreakSoonDesc>Diese Kolonisten erleiden bald einen Nervenzusammenbruch:\n\n{0}\nVerbessere ihre Bedürfnisse, ansonsten wird etwas sehr Schlimmes passieren.</MentalBreakSoonDesc>
+  <MentalBreakSoon>Waarschuwing: zenuwinzinking</MentalBreakSoon>
+  <MentalBreakSoonDesc>Deze kolonisten krijgen binnenkort een zenuwinzinking:\n\n{0}\nVerbeter hun gemoedstoestand, om dit te voorkomen.</MentalBreakSoonDesc>
 
-  <MentalBreakImminent>Achtung: Nervenzusammenbruch</MentalBreakImminent>
-  <MentalBreakImminentDesc>Diese Kolonisten sind sehr stark gestresst und können jeden Moment einen Nervenzusammenbruch erleiden:\n\n{0}</MentalBreakImminentDesc>
+  <MentalBreakImminent>Waarschuwing: zenuwinzinking</MentalBreakImminent>
+  <MentalBreakImminentDesc>Deze kolonisten zijn zeer gestresd, en kunnen zeer binnenkort een zenuwinzinking krijgen:\n\n{0}</MentalBreakImminentDesc>
 
-  <ColonistNeedsRescue>Bewustloser Kolonist</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Bewustlose Kolonisten</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>Diese Kolonisten liegen bewusstlos am Boden:\n\n{0}\nSchicke einen anderen Kolonisten zu ihnen, damit er sie ins Bett tragen kann.\n\n(Zum Retten mit der rechten Maustaste auf den verwundeten Kolonisten klicken).</ColonistsNeedRescueDesc>
+  <ColonistNeedsRescue>Kolonist heeft hulp nodig</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonisten hebben hulp nodig</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Deze kolonisten liggen bewustenloos op de grond:\n\n{0}\nStuur een andere kolonist naar hen toe, die hen naar een bed kan dragen.\n\n(Om te redden: klik met de rechtermuisknop op de te redden kolonist).</ColonistsNeedRescueDesc>
 
-  <BuildARoom>Baue einen Raum</BuildARoom>
-  <BuildARoomDesc>Du hast keine Räume.\n\nBaue vier Wände und eine Tür um einen Raum zu erstellen.\n\nBenutze das ARCHITEKT Menü, unten links, um zu bestimmen, was wohin gebaut werden soll.</BuildARoomDesc>
+  <BuildARoom>Bouw een kamer</BuildARoom>
+  <BuildARoomDesc>Je hebt geen kamers.\n\nBouw vier muren en een deur om een kamer te maken.\n\nGebruik het architectmenu, dat zich linksonder bevindt, om aan te geven waar gebouwd moet worden.</BuildARoomDesc>
 
-  <NeedGrowingZone>Anbaugebiet benötigt</NeedGrowingZone>
-  <NeedGrowingZoneDesc>Du hast keine Anbaugebiete.\n\nPlatziere mit dem ARCHITEKT Menü ein Anbaugebiet auf fruchtbarem Boden.</NeedGrowingZoneDesc>
+  <NeedGrowingZone>Verbouwingsgebied nodig</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Je hebt geen verbouwingsgebieden.\n\nWijs met het architectmenu wat vruchtbare grond aan waar dingen verbouwd kunnen worden</NeedGrowingZoneDesc>
 
-  <NeedDefenses>Verteidigung benötigt</NeedDefenses>
-  <NeedDefensesDesc>Du bist schon einige ganze Weile hier und wurdest wahrscheinlich auch schon entdeckt. Bald werden die Piratenüberfälle beginnen.\n\nDu solltest die Verteidigung der Kolonie vorbereiten.\n\nBaue ein paar Selbstschussanlagen.</NeedDefensesDesc>
+  <NeedDefenses>Verdediging nodig</NeedDefenses>
+  <NeedDefensesDesc>Je bent hier nu al een tijdje, en je zult waarschijnlijk snel ontdekt worden. Snel zullen piraten beginnnen je aan te vallen.\n\nJe moet met verdedigingswerken je kolonie voorbereiden.\n\nBouw een paar automatische kanonnen.</NeedDefensesDesc>
 
-  <NeedDoctor>Arzt benötigt</NeedDoctor>
-  <NeedDoctorDesc>Diese Patienten benötigen medizinische Behandlung. Sie müssen versorgt werden, allerdings gibt es keinen Arzt:\n\n{0}\nWeise einem gesunden Kolonisten den Arbeitstyp Arzt zu. Wenn Wunden nicht behandelt werden, können sie bleibenden Schaden verursachen.</NeedDoctorDesc>
+  <NeedDoctor>Arts nodig</NeedDoctor>
+  <NeedDoctorDesc>Deze mensen hebben medische behandeling nodig. Zij moeten verzorgd worden, maar er is geen arts beschikbaar:\n\n{0}\nWijs een gezonde kolonist aan om arts te zijn. Als de wonden niet behandeld worden, kan er blijvende schade optreden.</NeedDoctorDesc>
 
-  <NeedMiner>Bergarbeiter benötigt</NeedMiner>
-  <NeedMinerDesc>Es soll etwas abgebaut werden, aber es ist kein Kolonist als Bergarbeiter eingeteilt.\n\nWeise einem Kolonisten den Arbeitstyp Bergarbeiter zu.</NeedMinerDesc>
+  <NeedMiner>Delver nodig</NeedMiner>
+  <NeedMinerDesc>Er moet gedelft worden, maar er is geen delver beschikbaar.\n\nWijs een kolonist aan om delver te zijn.</NeedMinerDesc>
 
-  <NeedWarden>Aufseher benötigt</NeedWarden>
-  <NeedWardenDesc>Du hast Gefangene aber keinen Aufseher.\n\nWeise einem Kolonisten den Arbeitstyp Aufseher zu.</NeedWardenDesc>
+  <NeedWarden>Bewaker nodig</NeedWarden>
+  <NeedWardenDesc>Je hebt gevangenen, maar geen bewaker.\n\nWijs een kolonist aan om bewaker te zijn.</NeedWardenDesc>
 
-  <LowFood>Wenig Nahrung</LowFood>
-  <LowFoodDesc>Du hast nur noch {0} Lebensmittel im Lager. Das ist gefährlich wenig.\n\nKaufe, finde, jage oder baue Nahrung an.</LowFoodDesc>
+  <LowFood>Weinig voedsel</LowFood>
+  <LowFoodDesc>Je hebt nog maar {0} levensmiddelen beschikbaar. Dat is niet veel.\n\nKoop aan, jaag op of verbouw meer voedsel.</LowFoodDesc>
 
-  <NeedColonistBeds>Betten benötigt</NeedColonistBeds>
-  <NeedColonistBedsDesc>Du hast mehr Kolonisten als Betten. Einige haben keinen Schlafplatz.\n\nBaue mehr Betten oder ändere Gefängnisbetten in Betten für Kolonisten.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Bedden nodig</NeedColonistBeds>
+  <NeedColonistBedsDesc>Je hebt meer kolonisten dan bedding. Sommigen hebben geen slaapplaats.\n\nBouw meer bedden, of wijs gevangenisbedden aan als gewone bedden.</NeedColonistBedsDesc>
 
-  <Starvation>Hunger</Starvation>
-  <StarvationDesc>Diese Kolonisten sind am verhungern:\n\n{0}\nHole etwas Nahrung. Du braucht eine Nahrungsquelle, wie den Nährstoffpastenspender oder eine Kochstelle. Stelle außerdem sicher, dass sie nicht im Militärdienst sind.</StarvationDesc>
+  <Starvation>Verhongering</Starvation>
+  <StarvationDesc>Deze kolonisten zijn aan het verhongeren:\n\n{0}\nZorg voor wat voedsel. Jet moet een voedselbron hebben, zoals een Voedingspasta-automaat. Stel vast, dat zij niet in millitaire dienst zijn.</StarvationDesc>
 
-  <Exhaustion>Erschöpfung</Exhaustion>
-  <ExhaustionDesc>Diese Kolonisten sind erschöpft und brauchen eine Pause:\n\n{0}\nLass sie sich ein bisschen ausruhen: Sie benötigen ein Kolonistenbett. Stelle außerdem sicher, dass sie nicht im Militärdienst sind.</ExhaustionDesc>
+  <Exhaustion>Uitputting</Exhaustion>
+  <ExhaustionDesc>Deze kolonisten zijn uitgeput en hebben een pauze nodig:\n\n{0}\nLaat hen een beetje uitrusten: ze hebben een bed nodig. Stel vast, dat zij niet in millitaire dienst zijn.</ExhaustionDesc>
 
-  <NeedFoodHopper>Trichter benötigt</NeedFoodHopper>
-  <NeedFoodHopperDesc>Du hast einen Nährstoffpastenspender, aber keinen angebauten Trichter.\n\nDamit er funktioniert braucht er einen Trichter mit rohen Lebensmitteln.\n\nBaue einen Trichter direkt neben dem Spender.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Voedingstrechter nodig</NeedFoodHopper>
+  <NeedFoodHopperDesc>Je hebt een voedingspasta-automaat, maar geen voedingstrechter.\n\nHij functioneert niet zonder een trechter die levensmiddelen injecteert.\n\nBouw een trechter, direct naast de automaat.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Gebäude ohne Strom</BuildingNeedsPower>
-  <BuildingsNeedPower>Gebäude ohne Strom</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>Diese Gebäude brauchen Strom, sind aber komplett vom Stromnetz abgeschnitten:\n\n{0}\nVerbinde sie mit einem Stromgenerator oder einer Batterie.</BuildingsNeedPowerDesc>
+  <BuildingNeedsPower>Bebouw zonder stroom</BuildingNeedsPower>
+  <BuildingsNeedPower>Gebouwen zonder stroom</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Deze gebouwen hebben stroom nodig, maar ze zijn volledig van het stroomnet afgesneden:\n\n{0}\nVerbind hen met een generator of een batterij.</BuildingsNeedPowerDesc>
   
-  <AndMore>und weitere</AndMore>
+  <AndMore>en meer</AndMore>
   
-  <NeedMealSource>Nahrung benötigt</NeedMealSource>
-  <NeedMealSourceDesc>Du hast keinen Weg um vernünftige Mahlzeiten aus rohen Zutaten herzustellen.\n\nBaue einen Nährstoffpastenspender oder eine Kochstelle\n\n(Der Spender darf nicht in einer Gefängniszelle stehen. Dort können die Kolonisten ihn nicht verwenden.)</NeedMealSourceDesc>
+  <NeedMealSource>Voedingsbron nodig</NeedMealSource>
+  <NeedMealSourceDesc>Je hebt geen manier om goede maaltijden van rauw voedsel te maken.\n\nBouw een voedingspasta-automaat of een fornuis\n\n(De automaat mag niet in een gevangenis staan, want daar mogen je kolonisten niet komen.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Heimzone benötigt</NeedHomeRegion>
-  <NeedHomeRegionDesc>Du musst eine HEIMZONE definieren. Nur hier werden deine Kolonisten reinigen, Feuer löschen und Strukturen reparieren.\n\nDefiniere eine Heimzone aus dem Abschnitt ZONEN im ARCHITEKT Menü.</NeedHomeRegionDesc>
+  <NeedHomeRegion>Thuiszone nodig</NeedHomeRegion>
+  <NeedHomeRegionDesc>Je moet een thuiszone definieren. Alleen hier zullen je kolonisten schoonmaken, eten eten en gebouwen repareren.\n\nDefinieer een thuiszone door middel van het Architectmenu.</NeedHomeRegionDesc>
   
-  <NeedBatteries>Batterien benötigt</NeedBatteries>
-  <NeedBatteriesDesc>Du hast Solarzellen, aber keine Batterien. Das bedeutet, dass du Nachts keinen Strom hast.\n\nBaue ein oder zwei Batterien, die dich auch Nachts mit Strom versorgen.</NeedBatteriesDesc>
+  <NeedBatteries>Batterijen nodig</NeedBatteries>
+  <NeedBatteriesDesc>Je hebt zonnepanelen, maar geen batterijen. Dat betekent, dat je 's nachts geen stroom hebt.\n\nBouw een of twee batterijen, die je 's nachts van stroom zullen voorzien.</NeedBatteriesDesc>
 
-  <NoTradingCapacity>Keine Funkausrüstung</NoTradingCapacity>
-  <NoTradingCapacityDesc>Du kannst nicht mit Schiffen im Orbit handeln.\n\nBaue eine Kommunikationskonsole.</NoTradingCapacityDesc>
+  <NoTradingCapacity>Geen handelcapaciteit</NoTradingCapacity>
+  <NoTradingCapacityDesc>Je kunt geen handel drijven.\n\nBouw een communicatieconsole.</NoTradingCapacityDesc>
 
-  <NeedResearchProject>Kein Forschungsprojekt</NeedResearchProject>
-  <NeedResearchProjectDesc>Du hast die Ausrüstung zum Forschen, aber kein Forschungsprojekt.\n\nÖffne das Forschungsmenü und wähle ein Projekt aus.</NeedResearchProjectDesc>
+  <NeedResearchProject>Geen onderzoeksproject</NeedResearchProject>
+  <NeedResearchProjectDesc>Je hebt de benodigdheden om te onderzoeken, maar geen onderzoeksproject.\n\nOpen het onderzoeksproject en wijs er een aan.</NeedResearchProjectDesc>
 
-  <NeedDump>Keine Abfallzone</NeedDump>
-  <NeedDumpDesc>Du hast Steinbrocken, die deine Kolonisten wegräumen wollen. Allerdings gibt es keinen Ort, wo sie sie hinbringen können.\n\nBaue eine Abfallzone.</NeedDumpDesc>
+  <NeedDump>Geen afvalzone</NeedDump>
+  <NeedDumpDesc>Je hebt puin, dat je kolonisten weg willen hebben. Er is echter geen plaats, waar zij het kunnen laten.\n\nWijs een afvalzone aan.</NeedDumpDesc>
 
-  <NeedGrave>Grab benötigt</NeedGrave>
-  <NeedGraveDesc>Die Kolonisten haben keinen Ort, zu dem sie eine herumliegende Leiche bringen können.\n\nBaue ein Grab oder richte eine Zone entsrpechend ein.</NeedGraveDesc>
+  <NeedGrave>Graf nodig</NeedGrave>
+  <NeedGraveDesc>Je kolonisten hebben geen plaats, om rondzwervende lichamen te laten.\n\nBouw een graf of wijs een dumpzone aan.</NeedGraveDesc>
 
-  <ColonistsIdle>{0} Kolonisten untätig</ColonistsIdle>
-  <ColonistsIdleDesc>Diese Kolonisten laufen untätig herum:\n\n{0}\nDu solltest eine Beschäftigung für sie finden.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} kolonisten zijn aan het lantefanteren</ColonistsIdle>
+  <ColonistsIdleDesc>Deze kolonisten lopen doelloos rond:\n\n{0}\nHet is beter als je ze iets productiefs laat doen.</ColonistsIdleDesc>
   
-  <HaltedConstructions>{0}x Material fehlt</HaltedConstructions>
-  <HaltedConstructionsDesc>Bei diesen Konstruktionen fehlt Material:\n\n{0}\nDu solltest etwas unternehmen, um den Kolonisten die benötigten Materialien bereit stellen zu können.</HaltedConstructionsDesc>
+  <HaltedConstructions>{0} gebouwen hebben materialen nodig</HaltedConstructions>
+  <HaltedConstructionsDesc>Bij deze gebouwen missen materialen:\n\n{0}\nJet moet wat doen, om je kolonisten van de nodige materialen te voorzien.</HaltedConstructionsDesc>
   
-  <TableNeedsChairs>Tisch ohne Stuhl</TableNeedsChairs>
-  <TableNeedsChairsDesc>Du hast einen Tisch ohne Stühle. Tische sind sinnlos, wenn keine Stühle an ihnen stehen.</TableNeedsChairsDesc>
+  <TableNeedsChairs>Tafel zonder stoelen</TableNeedsChairs>
+  <TableNeedsChairsDesc>Je hebt een tafel zonder stoelen. Tafels zonder stoelen zijn nutteloos, omdat je er niet aan kunt gaan zitten.</TableNeedsChairsDesc>
   
-    <ColonistNeedsTreatment>Behandlung benötigt</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Die folgenden Kolonisten benötigen medizinische Behandlung. Ohne diese können sie an ihren Verletzungen sterben oder sie bekommen einen bleibenden Schaden.\n\n{0}\nBehandle sie, indem Du sie in ein Krankenbett schickst.\n\n(Zuerste definiere ein Krankenbett, indem du es anwählst und es in ein Krankenbett umwandelst. Danach wähle den verwundeten Kolonisten aus und rechtsklicke auf das Krankenbett, um ihn zum Patienten zu machen.)</ColonistNeedsTreatmentDesc>
+    <ColonistNeedsTreatment>Behandeling nodig</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>De volgende kolonisten hebben behandeling nodig. Zonder die behandeling kunnen ze aan hun verwondingen sterven.\n\n{0}\nBehandel hen, door ze in een medisch bed te plaatsen.\n\n(Stel eerst een ziekenbed in, en wijs daarna een andere kolonist aan om de gewonde te behandelen.)</ColonistNeedsTreatmentDesc>
 
-  <ColonistsAwaitingMedicalOperation>{0} Kolonist(en) warten auf ihre Operation</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>Diese Kolonisten warten auf ihre medizinische Operation:\n\n{0}\nStelle sicher, dass du das benötigte medizinische Material sowie einen Arzt bereitstehen hast.</ColonistsAwaitingMedicalOperationDesc>
+  <ColonistsAwaitingMedicalOperation>{0} kolonist(en) wachten op een operatie</ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>Deze kolonisten wachten op een medische ingreep:\n\n{0}\nMaak zeker, dat er een goede arts en genoeg medicijnen beschikbaar zijn.</ColonistsAwaitingMedicalOperationDesc>
 
-  <PawnsWithLifeThreateningDisease>Schwere Krankheit</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Diese Kolonisten stehen kurz davor an ihrer schweren Krankheit zu sterben:\n\n{0}\nSorge dafür, dass sie so viel ärztliche Versorgung wie möglich erhalten.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Diese Kolonisten stehen kurz davor an ihrer schweren Krankheit zu sterben:\n\n{0}\nZiehe in Betracht, die infizierten Körperteile, soweit möglich, zu ersetzen oder zumindest zu amputieren.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDisease>Zware ziekte</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Deze kolonisten staan op het punt aan hun ziektes te overlijden:\n\n{0}\nZorg ervoor, dat zij zoveel mogenlijk behandeling krijgen.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Deze kolonisten staan op het punt aan hun ziektes te overlijde:\n\n{0}\nProbeer, indien mogenlijk, de geinfecteerde lichaamsdelen te amputeren.</PawnsWithLifeThreateningDiseaseAmputationDesc>
   
-  <!--<AlertAbsentMinded>{0} ist in Gedanken verloren</AlertAbsentMinded>-->
+  <!--<AlertAbsentMinded>{0} is zijn verstand verloren</AlertAbsentMinded>-->
   
 </LanguageData>

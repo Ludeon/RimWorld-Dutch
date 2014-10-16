@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClockTime>Zeit</ClockTime>
+  <ClockTime>Tijd</ClockTime>
   <ClockDate>Datum</ClockDate>
-  <ClockYear>Jahr</ClockYear>
-  <DateReadoutTip>Seit deiner Ankunft sind {0} Tage vergangen.\nJeder Monat hat {1} Tage.</DateReadoutTip>
+  <ClockYear>Jaar</ClockYear>
+  <DateReadoutTip>Sinds je aankomst zijn er {0} dagen voorbijgegaan.\Iedere maand heeft {1} dagen.</DateReadoutTip>
 
 
 
-  <FullDate>{0} {1}, Jahr {2}</FullDate>
+  <FullDate>{0} {1}, jaar {2}</FullDate>
   <MonthFullDate>{0} {1}</MonthFullDate>
   
-  <MonthFullJanuary>Januar</MonthFullJanuary>
-  <MonthFullFebruary>Februar</MonthFullFebruary>
-  <MonthFullMarch>März</MonthFullMarch>
+  <MonthFullJanuary>Januari</MonthFullJanuary>
+  <MonthFullFebruary>Februari</MonthFullFebruary>
+  <MonthFullMarch>Maart</MonthFullMarch>
   <MonthFullApril>April</MonthFullApril>
-  <MonthFullMay>Mai</MonthFullMay>
+  <MonthFullMay>Mei</MonthFullMay>
   <MonthFullJune>Juni</MonthFullJune>
   <MonthFullJuly>Juli</MonthFullJuly>
-  <MonthFullAugust>August</MonthFullAugust>
+  <MonthFullAugust>Augustus</MonthFullAugust>
   <MonthFullSeptember>September</MonthFullSeptember>
   <MonthFullOctober>Oktober</MonthFullOctober>
   <MonthFullNovember>November</MonthFullNovember>
-  <MonthFullDecember>Dezember</MonthFullDecember>
+  <MonthFullDecember>December</MonthFullDecember>
   
   <MonthShortJanuary>Jan</MonthShortJanuary>
   <MonthShortFebruary>Febr</MonthShortFebruary>
-  <MonthShortMarch>März</MonthShortMarch>
+  <MonthShortMarch>Mar</MonthShortMarch>
   <MonthShortApril>Apr</MonthShortApril>
-  <MonthShortMay>Mai</MonthShortMay>
-  <MonthShortJune>Juni</MonthShortJune>
-  <MonthShortJuly>Juli</MonthShortJuly>
+  <MonthShortMay>Mei</MonthShortMay>
+  <MonthShortJune>Jun.</MonthShortJune>
+  <MonthShortJuly>Jul.</MonthShortJuly>
   <MonthShortAugust>Aug</MonthShortAugust>
   <MonthShortSeptember>Sept</MonthShortSeptember>
   <MonthShortOctober>Okt</MonthShortOctober>
   <MonthShortNovember>Nov</MonthShortNovember>
-  <MonthShortDecember>Dez</MonthShortDecember>
+  <MonthShortDecember>Dec</MonthShortDecember>
     
     
 </LanguageData>

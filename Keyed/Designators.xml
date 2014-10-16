@@ -1,86 +1,86 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Abbrechen</DesignatorCancel>
-  <DesignatorCancelDesc>Bricht das Bauen von Gebäuden, das Abbauen, das Tragen, das Ernten und alle anderen Aufgaben ab.</DesignatorCancelDesc>
+  <DesignatorCancel>Annuleren</DesignatorCancel>
+  <DesignatorCancelDesc>Annuleert het bouwen van gebouwen, ophalen van spullen en andere orders.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Pflanzen schneiden</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Markiert Pflanzen, die entfernt werden sollen. Die Pflanze wird komplett entfernt. Eventuell vorhandene Nahrung wird geerntet.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>Planten wieden</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Markeert planten die gewied moeten worden. Hieronder vallen ook planten die geoogst kunnen worden</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Abreißen</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Reiße Gebäude ab. Du erhälst einen Teil der Ressourcen zurück.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>Afbreken</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Breek gebouwen af. Je krijgt een deel van de gebruikte goederen terug.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvest>Ernten</DesignatorHarvest>
-  <DesignatorHarvestDesc>Markiert Pflanzen, um die Nahrung oder andere Produkte zu ernten.</DesignatorHarvestDesc>
+  <DesignatorHarvest>Oogsten</DesignatorHarvest>
+  <DesignatorHarvestDesc>Markeer planten, die geoogst kunnen worden.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Holz hacken</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Markiert Bäume die gefällt werden sollen, um Holz zu bekommen.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Hout hakken</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Markeer bomen, die omgehakt kunnen worden.</DesignatorHarvestWoodDesc>
   
-  <DesignatorHaulThings>Gegenstände entfernen</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Markiert Felsbrocken und andere Gegenstände die weggetragen werden sollen. Nicht erforderlich für Gegenstände wie z.B. Nahrung, Leichen usw.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Nichts zum Wegtragen gefunden.</NothingToHaulHere>
-  <MustHaulHaulables>Es können nur Gegenstände markiert werden, die nicht automatisch weggetragen werden (z.B. Felsbrocken).</MustHaulHaulables>
+  <DesignatorHaulThings>Dingen ophalen</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Markeer objecten, zoals stenen, puin, sintel of bessen om opgehaald te worden</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Niets om op te halen gevonden.</NothingToHaulHere>
+  <MustHaulHaulables>Je kunt alleen dingen markeren, die niet automatisch opgehaald worden.</MustHaulHaulables>
 
   <DesignatorHunt>Jagen</DesignatorHunt>
-  <DesignatorHuntDesc>Markiert Tiere, die vom Jäger gejagt werden sollen.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Markeer dieren waarop gejaagd moet worden.</DesignatorHuntDesc>
 
-  <DesignatorMine>Abbauen</DesignatorMine>
-  <DesignatorMineDesc>Markiert Gestein u.ä., das abgebaut werden soll.</DesignatorMineDesc>
+  <DesignatorMine>Delven</DesignatorMine>
+  <DesignatorMineDesc>Markeer gesteente dat gedolven moet worden.</DesignatorMineDesc>
 
-  <DesignatorPlan>Planen</DesignatorPlan>
-  <DesignatorPlanDesc>Platziert Planungsmarkierungen. Die Markierungen machen nichts, außer dass sie dir helfen zukünftige Erweiterungen zu planen.</DesignatorPlanDesc>
+  <DesignatorPlan>Plannen</DesignatorPlan>
+  <DesignatorPlanDesc>Plaatst planningsvakken. Hier gebeurt niets, maar het is handing om te zien wat je nu eigenlijk wil gaan doen.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Plan entfernen</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Entfernt Planungsmarkierungen.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Plannen verwijderen</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Verwijder planningsvakken.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Heimzone erstellen</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Kolonisten löschen Feuer und säubern in dieser Zone.</DesignatorHomeRegionAddDesc>
+  <DesignatorHomeRegionAdd>Thuiszone instellen</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Kolonisten eten voedsel en repareren gebouwen in deze zone.</DesignatorHomeRegionAddDesc>
 
-  <DesignatorHomeRegionRemove>Heimzone entfernen</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Entfernt Heimzone. Kolonisten löschen hier kein Feuer und säuber auch nicht mehr.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionRemove>Thuiszone verwijderen</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Thuiszone verwijderen.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>'Kein Dach' erstellen</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Erstellt eine Zone, in der keine Dächer generiert werden. Kolonisten reißen bereits bestehende Dächer ab.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorRegionNoRoofAdd>'geen dak' instellen</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Stel een zone in, waarin geen daken gebouwd mogen worden. Kolonisten zullen reeds bestaande daken in deze zone afbreken.</DesignatorRegionNoRoofAddDesc>
 
-  <DesignatorRegionNoRoofRemove>'Kein Dach' entfernen</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Entfernt eine 'Kein Dach' Zone. Dächer werden hier wieder generiert.</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorRegionNoRoofRemove>'geen dak' verwijderen</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Verwijder 'geen dak' zone. Daken zullen hierin weer hersteld worden</DesignatorRegionNoRoofRemoveDesc>
 
-  <DesignatorGrowingZoneDesc>Erstellt eine Zone, in der Kolonisten Pflanzen anbauen können.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Stel een zone in waarin kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Erstellt eine Zone in der Ressourcen gelagert werden.\nDieses Werkzeug kann auch bereits bestehende Lager erweitern.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Stelt een zone in waarin kolonisten goederen kunnen opslaan.\nHiermee kun je ook reeds bestaande opslagzones uitbreiden.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Erstellt eine Zone in der Abfälle gelagert werden.\nDieses Werkzeug kann auch bereits bestehende Lager erweitern.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Stelt een zone in waarin kolonisten afval kunnen opslaan.\nHiermee kun je ook reeds bestaande afvalzones uitbreiden.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Zonen entfernen</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Entfernt Zonen, wie z.B. Lager- und Abfallzonen.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>Zones verwijderen</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Verwijder zones, zoals opslag- en afvalzones.</DesignatorZoneDeleteDesc>
     
-  <DesignatorClaim>In Besitz nehmen</DesignatorClaim>
-  <DesignatorClaimDesc>Nimm neutrale Strukturen für deine Kolonie in Anspruch. Hierunter fallen z.B. Antike Ruinen oder verlassene Belagerungsstrukturen. Beanspruchte Strukturen können von den Kolonisten repariert und benutzt werden.</DesignatorClaimDesc>
+  <DesignatorClaim>In bezit nemen</DesignatorClaim>
+  <DesignatorClaimDesc>Neem  neutrale gebouwen in bezit. Je kolonisten zullen deze ook repareren e.d.</DesignatorClaimDesc>
   
   
   <!-- placement of blueprints -->
-  <UnchosenStuff>Nicht ausgewähltes Material</UnchosenStuff>
-  <TooCloseToMapEdge>Zu nah am Kartenrand.</TooCloseToMapEdge>
-  <OutOfBounds>Außerhalb der Karte.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Kann nicht in unentdeckte Gebiete platziert werden.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaktionspunkt blockert durch {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Interaktionspunkt ist außerhalb der Begrenzungen.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interaktionspunkt wird blockiert durch {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} wird {1}'s Interaktionspunkt blockieren.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>Der Boden hier ist schon {0}.</TerrainIsAlready>
-  <IdenticalThingExists>Hier ist bereits ein identischer Gegenstand.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Hier ist bereits ein identischer Plan.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>Der Boden kann das nicht tragen.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Dieser Platz ist schon belegt.</SpaceAlreadyOccupied>
+  <UnchosenStuff>Ongekozen materiaal</UnchosenStuff>
+  <TooCloseToMapEdge>Te dicht bij de rand van de kaart.</TooCloseToMapEdge>
+  <OutOfBounds>Buiten de kaart.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Kan niet in onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Interactiepunt geblokeert door {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interactiepunt is buiten de kaart.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interactiepunt zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} zou {1}'s interactiepunt blokeren.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>De grond is hier al {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Hier bestaat exact hetzelfde ding al.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Hier is precies hetzelfde plan.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>De grond kan dit niet ondersteunen.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Deze plaats is al bezet.</SpaceAlreadyOccupied>
 
   
   <!-- placement of zones -->
-  <ExpandOrCreateZone>Erweitert {0} oder\nErstellt {1}</ExpandOrCreateZone>
-  <CreateNewZone>Erstellt {0}</CreateNewZone>
+  <ExpandOrCreateZone>Verwijder {0} oder\nStel {1} in</ExpandOrCreateZone>
+  <CreateNewZone>Stel {0} in</CreateNewZone>
   
   
   <!-- desc helpers -->
-  <TransmitsPower>Leitet Strom</TransmitsPower>
+  <TransmitsPower>Transporteert stroom</TransmitsPower>
 
 
 </LanguageData>

@@ -1,48 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 
-	<NutrientPasteDispenser.label>Nährstoff Spender</NutrientPasteDispenser.label>
-	<NutrientPasteDispenser.description>Synthetisiert Nähstoffpaste von organischen Rohstoffen.</NutrientPasteDispenser.description>
+	<NutrientPasteDispenser.label>Voedingsstoffenpaste-automaat</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Maakt voedingsstoffenpasta van rauw voedsel.</NutrientPasteDispenser.description>
 	
-	<Hopper.label>Trichter</Hopper.label>
-	<Hopper.description>Lagert Rohstoffe für eine angeschlossene Maschine, wie z.B. dem Nährstoffpastenspender.</Hopper.description>
+	<Hopper.label>Voedingstrechter</Hopper.label>
+	<Hopper.description>Stopt materialen in de aangelegen machine, zoals bijvoorbeeld in de voedingsstoffenpasta-automaat.</Hopper.description>
 	
 	<!-- ========================= Work tables ==========================-->
 
 	<!--
-	<TableSawmillHand.label>Hand Säge</TableSawmillHand.label>
-	<TableSawmillHand.description>Ein Sägetisch, auf dem man Baumstämme in Holzplanken zersägt. Die Säge wird mit Muskelkraft betrieben.</TableSawmillHand.description>
+	<TableSawmillHand.label>Handzaag</TableSawmillHand.label>
+	<TableSawmillHand.description>Een handzaag, waarmee planken kunnen worden gemaakt.</TableSawmillHand.description>
 	
-	<TableSawmillElectric.label>Elektr. Säge</TableSawmillElectric.label>
-	<TableSawmillElectric.description>Ein elektrisch betriebener Sägetisch, der Baumstämme in Holzplanken zersägt.</TableSawmillElectric.description>
+	<TableSawmillElectric.label>Electrische zaag</TableSawmillElectric.label>
+	<TableSawmillElectric.description>Een electrische zaag, waarmee planken kunnen worden gemaakt.</TableSawmillElectric.description>
 	-->
 	
-	<TableButcher.label>Schlachttisch</TableButcher.label>
-	<TableButcher.description>Ein schwerer Tisch, auf dem tote Tiere zu rohem Fleisch verarbeitet werden.</TableButcher.description>
+<TableButcher.label>Slagertafel</TableButcher.label>
+	<TableButcher.description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.description>
 	
-	<TableTailor.label>Schneider Tisch</TableTailor.label>
-	<TableTailor.description>Ein Tisch mit allem, was zum Herstellen und Verbessern von Kleidung notwendig ist.</TableTailor.description>
+	<CookStove.label>Fornuis</CookStove.label>
+	<CookStove.description>Een fornuis met aanrecht om maaltijden te maken van simpele ingrediënten.</CookStove.description>
 	
-	<TableMachining.label>Mechanik Werkbank</TableMachining.label>
-	<TableMachining.description>Ein Tisch mit Werkzeug, an dem mechanische Geräte gebaut und zerlegt werden können.</TableMachining.description>
+	<TableStonecutter.label>Steenhouwerstafel</TableStonecutter.label>
+	<TableStonecutter.description>Een tafel waar steenhouwers stenen blokken kunnen maken van puin.</TableStonecutter.description>
 	
-	<CookStove.label>Kochplatte</CookStove.label>
-	<CookStove.description>Ein einfacher Herd mit Arbeitsplatte, für die Zubereitung von Mahlzeiten.</CookStove.description>
+	<SlagRefinery.label>Sintelsmelter</SlagRefinery.label>
+	<SlagRefinery.description>Haalt bruikbaar metaal uit sintel. Verbruikt veel stroom.</SlagRefinery.description>
 	
-	<TableStonecutter.label>Steinmetz Tisch</TableStonecutter.label>
-	<TableStonecutter.description>Ein Tisch, auf dem man Geröll in nutzbare Steinblöcke verarbeiten kann.</TableStonecutter.description>
-	
-	<ElectricSmelter.label>Elektr. Schmelzofen</ElectricSmelter.label>
-	<ElectricSmelter.description>Extrahiert Metall aus Schlackebrocken und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</ElectricSmelter.description>
-	
-	<Crematorium.label>Krematorium</Crematorium.label>
-	<Crematorium.description>Verbrennt Leichen.</Crematorium.description>
-	
-	<!-- ========== Hydroponics ==============-->
-	
-	<HydroponicsBasin.label>Hydrokultur Becken</HydroponicsBasin.label>
-	<HydroponicsBasin.description>Um Nahrung auch im Gebäude anzubauen. In Hydrokultur Becken kann man schnell ein wenig Nahrung anbauen.</HydroponicsBasin.description>
+	<Crematorium.label>Crematorium</Crematorium.label>
+	<Crematorium.description>Verbrandt lijken.</Crematorium.description>
+		
+	<!-- ========== Hydroponics ============== -->
+	<HydroponicsBasin.label>Hydrocultuur basin</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Een basin waarin groenten en fruit geteelt kunnen worden. Ze hebben weining ruimte voor planten, maar de planten groeien wel sneller.</HydroponicsBasin.description>
 	
 	
 </LanguageData>

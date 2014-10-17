@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
    <!--=============== AI persona core ====================-->
-	<AIPersonaCore.label>KI Kern</AIPersonaCore.label>
-	<AIPersonaCore.description>Ein hochentwickelter Computer Kern, der eine übermenschliche KI beherbergt. In ihrem isolierten Zustand ist der Kern inaktiv. Aber in eine passende Hilfsstruktur eingebaut, wird daraus ein Verstand mit beängstigender Leistung.</AIPersonaCore.description>
+	<AIPersonaCore.label>AI kern</AIPersonaCore.label>
+	<AIPersonaCore.description>Een bovenmenselijke computerkern, die een bovenmenselijke AI herbergt. In afgezonderde toestand is de kern inactief, maar in een passed hulpstuk ingebouwd zal hij zeer handig zijn.</AIPersonaCore.description>
 	
   <!--=============== Neurotrainer ====================-->
 	<Neurotrainer.label>Neurotrainer</Neurotrainer.label>
-	<Neurotrainer.description>Ein nanotechnologie Gerät für den Einmalgebrauch. Der Neurotrainer implantiert Nanomaschinen in das Gehirn des Benutzers, welche die Fähigkeiten im festgelegten Bereich verbessern.</Neurotrainer.description>
+	<Neurotrainer.description>Een nanotechnologisch, eenmaal te gebruiken stukje techniek. De neurotrainer implanteert een nanomachientje in je hersenen, waardoor je een bepaald ding een stuk beter zult kunnen.</Neurotrainer.description>
 	
 </LanguageData>

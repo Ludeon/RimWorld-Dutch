@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<Apparel_CowboyHat.label>Cowboy Hut</Apparel_CowboyHat.label>
-	<Apparel_CowboyHat.description>Stylisch und doch Wild hält dieser Hut die Sonne und den Regen ab - und gibt jedem der ihn trägt das gewisse Etwas. Er ist der wichtigste Teil eines traditionellen Western-Outfits.</Apparel_CowboyHat.description>
+	<Apparel_CowboyHat.label>Cowboyhoed</Apparel_CowboyHat.label>
+	<Apparel_CowboyHat.description>Stijlvol en toch wild houdt deze hoed zon en regen tegen - en geeft het ieder die hem draagt wel iets. Het is het belangrijkste deel van een echte Western-outfit.</Apparel_CowboyHat.description>
    
-	<Apparel_PowerArmorHelmet.label>Energierüstungshelm</Apparel_PowerArmorHelmet.label>
-	<Apparel_PowerArmorHelmet.description>Ein Teil der Energierüstung. Wird hauptsächlich von schwerer Infanterie getragen.</Apparel_PowerArmorHelmet.description>
+	<Apparel_PowerArmorHelmet.label>Powerarmor helm</Apparel_PowerArmorHelmet.label>
+	<Apparel_PowerArmorHelmet.description>Een deel van het powerarmor. Wordt alleen door zware infanterie gedragen.</Apparel_PowerArmorHelmet.description>
 	
 	<Apparel_KevlarHelmet.label>Kevlar Helm</Apparel_KevlarHelmet.label>
-	<Apparel_KevlarHelmet.description>Wichtiger Teil der persönlichen Schutzausrüstung. Hilft die Energie einer Granatenexplosion zu absorbieren.</Apparel_KevlarHelmet.description>
+	<Apparel_KevlarHelmet.description>Belangrijk deel van de persoonlijke beschermingsuitrusting. Absorbeert een deel van de explosie van, bijvoorbeeld, een granaat.</Apparel_KevlarHelmet.description>
 	
-	<Apparel_MilitaryHelmet.label>Militär Helm</Apparel_MilitaryHelmet.label>
-	<Apparel_MilitaryHelmet.description>Ein schwerer, altertümlich aussehender Helm, der trotz allem bei feindlichen Angriffen sehr nützlich ist. Wird hauptsächlich zum Schutz vor langsamen Geschossen eingesetzt.</Apparel_MilitaryHelmet.description>
+	<Apparel_MilitaryHelmet.label>Millitaire helm</Apparel_MilitaryHelmet.label>
+	<Apparel_MilitaryHelmet.description>Een zware, vreemd uitziende helm, die bij aanvallen zeer nuttig is. Wordt ingezet voor het beschermen van langzaame mensen.</Apparel_MilitaryHelmet.description>
 
 </LanguageData>

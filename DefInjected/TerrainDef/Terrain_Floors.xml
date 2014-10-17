@@ -1,44 +1,38 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- ================= Wood floor ================= -->
-
-	<WoodPlankFloor.label>Holzboden</WoodPlankFloor.label>
-	<WoodPlankFloor.description>Ein Holzfussboden. Gibt einen gemütlichen Raum.</WoodPlankFloor.description>
-
+	<WoodPlankFloor.label>Houten vloer</WoodPlankFloor.label>
+	<WoodPlankFloor.description>Houten plankenvloeren. Maak een gezellige en huiselijke ruimte.</WoodPlankFloor.description>
+		
 	<!-- ================= Tile ================= -->
-
-	<MetalTile.label>Metallplatte</MetalTile.label>
-	<MetalTile.description>Metall Fliesen, für den Raumschiff-Look.</MetalTile.description>
+	<MetalTile.label>Metalen tegel</MetalTile.label>
+	<MetalTile.description>Metalen tegels, voor dat ruimteschip look.</MetalTile.description>
+		
+	<PavedTile.label>Beton platen</PavedTile.label>
+	<PavedTile.description>Utilitair betontegels. Snel om op te bewegen, maar niet erg mooi.</PavedTile.description>
 	
-	<PavedTile.label>Betonplatte</PavedTile.label>
-	<PavedTile.description>Gebrauchstaugliche Betonplatten. Man kann darauf schnell laufen, allerdings sieht sie nicht sonderlich schön aus.</PavedTile.description>
+	<StoneTile.label>Stenen tegel</StoneTile.label>
+    <StoneTile.description>Massieve stenen tegels voor een kasteel gevoel.</StoneTile.description>
 	
-	<StoneTile.label>Steinplatte</StoneTile.label>
-    <StoneTile.description>Solide Steinplatten, für das Burg-Feeling.</StoneTile.description>
+    <!-- ================= Carpets ================= -->	
+	<CarpetRed.label>Rood tapijt</CarpetRed.label>
+	<CarpetRed.description>Hoogpolig tapijt in een mooie rozen rode tint.</CarpetRed.description>
 	
+	<CarpetGreen.label>Groen tapijt</CarpetGreen.label>
+	<CarpetGreen.description>Een natuurlijk groen tapijt.</CarpetGreen.description>
 	
-	<!-- ================= Carpets ================= -->
-	
-	<CarpetRed.label>Roter Teppich</CarpetRed.label>
-	<CarpetRed.description>Plüsch-Teppich in einem schönen roten Farbton.</CarpetRed.description>
-	
-	<CarpetGreen.label>Grüner Teppich</CarpetGreen.label>
-	<CarpetGreen.description>Ein Teppich in einem natürlichen Grün.</CarpetGreen.description>
-	
-	<CarpetBlue.label>Blauer Teppich</CarpetBlue.label>
-	<CarpetBlue.description>Plüsch-Teppich in einem kühlen Blau.</CarpetBlue.description>
-	
-
-	<!-- ================= Foundation solids ================= -->
-	
+	<CarpetBlue.label>Blauw tapijt</CarpetBlue.label>
+	<CarpetBlue.description>Hoogpolig tapijt in een koele blauwe kleur.</CarpetBlue.description>
+    
+	<!-- ================= Foundation solids ================= -->	
 	<Concrete.label>Beton</Concrete.label>
-    <Concrete.description>Schnell-festigender Beton. Man kann darauf schnell laufen, dafür ist er aber recht hässlich. Du musst in der Lage sein, Löcher in den Boden zu graben, damit du den Beton gießen kannst.</Concrete.description>
+    <Concrete.description>Snel gestort beton. Snel om op te lopen, maar heel lelijk. Je moet in staat zijn om te graven in de grond om deze te kunnen gieten.</Concrete.description>
 	
-	<SmoothStone.label>Glatter Stein</SmoothStone.label>
-    <SmoothStone.description>Geglätteter Naturstein. Man kann darauf schnell laufen und er ist auch noch hübsch anzusehen.</SmoothStone.description>
+	<SmoothStone.label>Gladde steen</SmoothStone.label>
+    <SmoothStone.description>Gladgestreken natuursteen. Snel om op te lopen en mooi om naar te kijken.</SmoothStone.description>
+	
+	<RoughHewnRock.label>Ruw gehakte steen</RoughHewnRock.label>
 
-	<RoughHewnRock.label>Grob behauener Stein</RoughHewnRock.label>
-
-
+	
 </LanguageData>

@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Sandbags.label>Sandsäcke</Sandbags.label>
-	<Sandbags.description>Gibt Deckung bei Beschuss.</Sandbags.description>
+	<Sandbags.label>Zandzak</Sandbags.label>
+	<Sandbags.description>Geeft dekking tegen geweervuur.</Sandbags.description>
 	
-	<TurretGun.label>Autom. Geschütz</TurretGun.label>
-	<TurretGun.description>Eine schwache, improvisierte Selbstschussanlage, die automatisch auf Gegner in der Nähe schießt. Hinweis: Beschädigung kann zur Explosion führen.</TurretGun.description>
+	<TurretGun.label>Automatisch kanon</TurretGun.label>
+	<TurretGun.description>Een zwakk, geimproviseerd kanon, dat automatisch vuurt op vijanden die te dichtbij komen. Explodeert bij beschadiging als </TurretGun.description>
 
-	<Turret_MortarIncendiary.label>Mörser (Brand)</Turret_MortarIncendiary.label>
-	<Turret_MortarIncendiary.description>Ein Mörser der Brandgeschosse verschießt. Muss bemannt werden. Hinweis: Beschädigung kann zur Explosion führen.</Turret_MortarIncendiary.description>
+	<Turret_MortarIncendiary.label>Mortier (brandstichtend)</Turret_MortarIncendiary.label>
+	<Turret_MortarIncendiary.description>Een mortier dat brandbommen schiet. Moet bemand zijn. Note: beschadiging kan tot ontploffing leiden.</Turret_MortarIncendiary.description>
 
 	<Turret_MortarBomb.label>Mörser (Explosiv)</Turret_MortarBomb.label>
-	<Turret_MortarBomb.description>Ein Mörser der Explosivgeschosse verschießt. Muss bemannt werden. Hinweis: Beschädigung kann zur Explosion führen.</Turret_MortarBomb.description>
+	<Turret_MortarBomb.description>Ein Mörser der Explosivgeschosse verschießt. Moet bemand zijn. Note: beschadiging kan tot ontploffing leiden.</Turret_MortarBomb.description>
 
 	<Turret_MortarEMP.label>Mörser (EMP)</Turret_MortarEMP.label>
-	<Turret_MortarEMP.description>Ein Mörser der EMP Granaten verschießt. Muss bemannt werden. Hinweis: Beschädigung kann zur Explosion führen.</Turret_MortarEMP.description>
+	<Turret_MortarEMP.description>Ein Mörser der EMP Granaten verschießt.Moet bemand zijn. Note: beschadiging kan tot ontploffing leiden.</Turret_MortarEMP.description>
 	
 </LanguageData>

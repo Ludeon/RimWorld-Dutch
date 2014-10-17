@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
 	<!--========================= Doors =============================-->
 	
-	<Door.label>Tür</Door.label>
-	<Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Door.description>
+	<Door.label>Door</Door.label>
+	<Door.description>Sluit een ruimte af. Moet met de hand geopend en gesloten worden, wat kolonisten vertraagt.</Door.description>
 	
-	<Autodoor.label>Autotür</Autodoor.label>
-	<Autodoor.description>Trennt Räume. Elektrisch betätigt können die Kolonisten hindurchgehen ohne langsamer zu werden.</Autodoor.description>
+	<Autodoor.label>Autodeur</Autodoor.label>
+	<Autodoor.description>Sluit een ruimte af. Electrisch bediend, waardoor kolonisten niet gehinderd worden.</Autodoor.description>
 	
 	<!--========================= Walls =============================-->
 	
-	<Wall.label>Wand</Wall.label>
-	<Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Wall.description>
+	<Wall.label>Muur</Wall.label>
+	<Wall.description>Een niet-passeerbare wand, die een dak kan dragen.</Wall.description>
 	
-	<WallConduit.label>Wand mit Kabel</WallConduit.label>
-	<WallConduit.description>Eine Wand mit integriertem Stromkabel.</WallConduit.description>
+	<WallConduit.label>Muur met kabel</WallConduit.label>
+	<WallConduit.description>Een muur met een geïntegreerde stroomkabel.</WallConduit.description>
 	
 </LanguageData>

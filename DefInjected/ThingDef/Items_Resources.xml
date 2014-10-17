@@ -1,73 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--=============== Pure stuffs: Basics ====================-->
 
-	<Silver.label>Silber</Silver.label>
-	<Silver.description>Wird hauptsächlich als Währung beim Handeln akzeptiert, kann aber auch für attraktive Dekorationen hergenommen werden.</Silver.description>
+	<Silver.label>Zilver</Silver.label>
+	<Silver.description>Heeft maar een doel: Handel.(Je kunt er ook belachelijk dure muren van maken)</Silver.description>
 	
-	<Gold.label>Gold</Gold.label>
-	<Gold.description>Das verführerischste aller Metalle. Millionen sind in der endlosen Gier der Menschheit nach Gold gestorben. Das weiche Metall hat fast keinen eigenen Nutzen, ist aber sehr schön und selten.</Gold.description>
+	<Gold.label>Goud</Gold.label>
+	<Gold.description>Het edelste metaal van allen. Miljoenen zijn er in de eindeloze lust naar goud gestorven. Het gewilde metaal heeft geen nut, behalve dat het er mooi uitziet.</Gold.description>
 	
-	<Metal.label>Metall</Metal.label>
-	<Metal.description>Ein vielseitiges Material zum Bauen von Strukturen, Werkzeugen und Waffen.</Metal.description>
+  <Metal.label>Metaal</Metal.label>
+	<Metal.description>Nodig voor het maken van gebouwen.</Metal.description>
+	
 	
 	<Plasteel.label>Plastahl</Plasteel.label>
 	<Plasteel.description>Fortschritliches Material aus der Raumfahrttechnologie. Plastahl ist aufgrund der einzigartigen molekularen Struktur extrem stark und doch leicht.</Plasteel.description>
 	
-	<StoneBlocks.label>Steinblöcke</StoneBlocks.label>
-	<StoneBlocks.description>Blöcke aus solidem Stein. Meistens nur brauchbar, um einfache, aber starke und langlebige Strukturen zu bauen.</StoneBlocks.description>
-	<StoneBlocks.stuffProps.nameAsStuff>Stein</StoneBlocks.stuffProps.nameAsStuff>
+	<StoneBlocks.label>Steenblokken</StoneBlocks.label>
+	<StoneBlocks.description>Nodig voor het maken van gebouwen.</StoneBlocks.description>
+  <StoneBlocks.stuffProps.nameAsStuff>Steen</StoneBlocks.stuffProps.nameAsStuff>
 	
-	<WoodLog.label>Holz</WoodLog.label>
-	<WoodLog.description>Holz von Bäumen oder anderen holzartigen Gewächsen. Brauchbar um hölzerne Strukturen, Waffen oder einfache Prothesen zu bauen. Im Fall der Fälle kann ein Holzblock auch als Waffe eingesetzt werden.</WoodLog.description>
+	<WoodLog.label>Hout</WoodLog.label>                                                                              
+	<WoodLog.description>Hout van bomen en andere houthartige planten. Te gebruiken voor wapens, gebouwen of primitieve protheses. In geval van nood kun je het ook als wapen gebruiken.</WoodLog.description>
 	
-	<Uranium.label>Uran</Uranium.label>
-	<Uranium.description>Reaktormaterial.</Uranium.description>
+	<Uranium.label>Uranium</Uranium.label>
+	<Uranium.description>Reactormateriaal.</Uranium.description>
 	
 	<!--
-	<WoodPlank.label>Holz Planke</WoodPlank.label>
-	<WoodPlank.description>Zum Bauen von Strukturen.</WoodPlank.description>
+	<WoodPlank.label>Houten plank</WoodPlank.label>
+	<WoodPlank.description>ZVoor het bouwen van gebouwen.</WoodPlank.description>
 	-->
 	
 	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
 	
-	<Cloth.label>Stoff</Cloth.label>
-	<Cloth.description>Stoff aus organischen Fasern gewebt.</Cloth.description>
+	<Cloth.label>Stof</Cloth.label>
+	<Cloth.description>Stof van organische materialen geweven.</Cloth.description>
 	
-	<Synthread.label>Syngarn</Synthread.label>
-	<Synthread.description>Stoff aus der Raumfahrttechnik, der für normale Kleidung entwickelt wurde. Er ist weich, leicht, stark und isoliert gut.</Synthread.description>
+	<Synthread.label>Syngaren</Synthread.label>
+	<Synthread.description>Stof uit de ruimtetechniek, die voor normale kleding ontwikkeld. Het is licht en isoleert goed.</Synthread.description>
 	
 	<DevilstrandCloth.label>Teufelsgarn</DevilstrandCloth.label>
     <DevilstrandCloth.description>Sehr strapazierfähiger Stoff, der aus den seidenproduzierenden Teufelsgarnpilzen gewonnen wurde.</DevilstrandCloth.description>
 	
-	<Hyperweave.label>Nanofaser</Hyperweave.label>
-	<Hyperweave.description>High-Tech Nano-Fasern, die zu einem Stoff verwoben wurden. Das Material ist etwas schwer, ist aber kaum zu zerstören.</Hyperweave.description>
+	<Hyperweave.label>Hyperweave</Hyperweave.label>
+	<Hyperweave.description>High-Tech Nanobuisjes, die tot een stof zijn verworven. Het materiaal is wat zwaar, maar bied goede bescherming.</Hyperweave.description>
 	
 	
 	<!--=============== Raw foods ====================-->
 	
-	<RawPotatoes.label>Kartoffel</RawPotatoes.label>
-	<RawPotatoes.description>Rohe Kartoffeln.</RawPotatoes.description>
+	<RawPotatoes.label>Aardappel</RawPotatoes.label>
+	<RawPotatoes.description>Rauwe aardappelen.</RawPotatoes.description>
 	
-	<RawBerries.label>Beere</RawBerries.label>
-	<RawBerries.description>Verschiedene Beeren. Sind auch roh lecker.</RawBerries.description>
+	<RawBerries.label>Bessen</RawBerries.label>
+	<RawBerries.description>Verschillende bessen. Zijn rauw ook lekker.</RawBerries.description>
 	
-	<RawAgave.label>Agavefrucht</RawAgave.label>	
-	<RawAgave.description>Rohe Früchte der Agave.</RawAgave.description>
+	<RawAgave.label>Agave</RawAgave.label>	
+	<RawAgave.description>Rauwe vruchten van de agaveplant.</RawAgave.description>
 	
 	
     <!--=============== Manufactured ====================-->
 	
-	<Medicine.label>Medizin</Medicine.label>
-    <Medicine.description>Ärzte verwenden Medizin zum Heilen von Verwundeten.</Medicine.description>
+	<Medicine.label>Medicijn</Medicine.label>
+    <Medicine.description>Artsen gebruiken medicijnen om gewonden te verzorgen.</Medicine.description>
 	
 	<Shells.label>Patronen</Shells.label>
-    <Shells.description>Werden von Kanonen verschossen.</Shells.description>
+    <Shells.description>Worden door kanonnen geschoten.</Shells.description>
 	
 	<!--
-	<Missiles.label>Rakete</Missiles.label>
-    <Missiles.description>Wird von Raketenwerfern abgefeuert.</Missiles.description>
+	<Missiles.label>Raketten</Missiles.label>
+    <Missiles.description>Worden door raketwerpers afgevuurd.</Missiles.description>
 	-->
 
 	

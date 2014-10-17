@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
 
-	<PlantRaspberry.label>Himbeerbusch</PlantRaspberry.label>
-	<PlantRaspberry.description>Ein Busch mit leckeren roten Beeren.</PlantRaspberry.description>
+	<PlantRaspberry.label>Framboozenstruik</PlantRaspberry.label>
+	<PlantRaspberry.description>Een struik met lekkere rode bessen.</PlantRaspberry.description>
 
-	<PlantBush.label>Busch</PlantBush.label>
-	<PlantBush.description>Ein kleines Gebüsch. Spricht im Normalfall nicht.</PlantBush.description>
+	<PlantBush.label>Struik</PlantBush.label>
+	<PlantBush.description>Een kleine struik. Spreekt normaal niet</PlantBush.description>
 
 	
 	<!--======================= Wild plants - carpets ========================-->
 	
 	<PlantGrass.label>Gras</PlantGrass.label>
-	<PlantGrass.description>Raues, wildes Gras. Braucht zum Wachsen nur ein wenig Licht und minimale Nährstoffe im Boden.</PlantGrass.description>
+	<PlantGrass.description>Rauw, wild gras. Heeft om te groeien weinig licht en weinig voedingsstoffen nodig.</PlantGrass.description>
 
-	<PlantDandelion.label>Löwenzahn</PlantDandelion.label>
-	<PlantDandelion.description>Gewöhnliche kleine Pflanze. Wird aufgrund ihrer Fruchtbarkeit oft als Unkraut angesehen, sieht aber hübsch aus.</PlantDandelion.description>
+	<PlantDandelion.label>Paardenbleom</PlantDandelion.label>
+	<PlantDandelion.description>Gewoonlijke kleine plant. Word door zijn vruchtbaarheid vaak als onkruid gezien, maar ziet er mooi uit.</PlantDandelion.description>
 
 	
 	<!--============================ Wild - Trees ============================-->
 	
-	<PlantTreeOak.label>Eiche</PlantTreeOak.label>
-	<PlantTreeOak.description>Ein starker Hartholz-Baum. Wächst langsam, aber das Holz ist sehr stark.</PlantTreeOak.description>
+	<PlantTreeOak.label>Eik</PlantTreeOak.label>
+	<PlantTreeOak.description>Een sterke hardhoudboom. Groeit langzaam, maar het hout is sterk</PlantTreeOak.description>
 	
-	<PlantTreePoplar.label>Pappel</PlantTreePoplar.label>
-	<PlantTreePoplar.description>Ein Weichholz-Baum. Wächst schnell, aber das Holz ist nicht sehr stark.</PlantTreePoplar.description>
+	<PlantTreePoplar.label>Populier</PlantTreePoplar.label>
+	<PlantTreePoplar.description>Een zachthoutboom. Groeit snel, maar het hout is niet zo sterk</PlantTreePoplar.description>
 	
 	
 </LanguageData>

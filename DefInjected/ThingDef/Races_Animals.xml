@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 
 	<!-- ============================ Animals ========================== -->
   
 	<Muffalo.label>Muffalo</Muffalo.label>
-	<Muffalo.description>Ein großes pflanzenfressendes Herdentier. Es stammt vom Büffel ab, der an außergewöhnliche Umgebungen angepasst wurde. Friedlich solange man es nicht stört.</Muffalo.description>
-	<Muffalo_Leather.label>Muffaloleder</Muffalo_Leather.label>
-	<Muffalo_Meat.label>Muffalofleisch</Muffalo_Meat.label>
+	<Muffalo.description>Een groot, plantenetend kuddedier. Stamt af van de buffalo, die aan de natuur is aangepast. Vriendelijk zolang je hem niet stoort.</Muffalo.description>
+	<Muffalo_Leather.label>Muffaloleer</Muffalo_Leather.label>
+	<Muffalo_Meat.label>Muffalovlees</Muffalo_Meat.label>
 	
-	<Deer.label>Rotwild</Deer.label>
-	<Deer.description>Ein mittelgroßes pflanzenfressendes Herdentier. Friedlich solange man es nicht stört.</Deer.description>
-	<Deer_Leather.label>Hirschfell</Deer_Leather.label>
-	<Deer_Meat.label>Wildfleisch</Deer_Meat.label>
+	<Deer.label>Hert</Deer.label>
+	<Deer.description>Een middelgroot plantenetend kuddedier. Vriendelijk zolang je hem niet stoort.</Deer.description>
+	<Deer_Leather.label>Hertenvel</Deer_Leather.label>
+	<Deer_Meat.label>Hertenvlees</Deer_Meat.label>
 	
-	<Squirrel.label>Eichhörnchen</Squirrel.label>
-	<Squirrel.description>Eines von den vielseitigen, abgehärteten Nagetieren, die dem Menschen überall hin folgen.</Squirrel.description>
-	<Squirrel_Leather.label>Eichhörnchenleder</Squirrel_Leather.label>
-	<Squirrel_Meat.label>Eichhörnchenfleisch</Squirrel_Meat.label>
+	<Squirrel.label>Eekhoorn</Squirrel.label>
+	<Squirrel.description>Een veelzijdig dier, dat mensen overal volgt.</Squirrel.description>
+	<Squirrel_Leather.label>Eekhoornleer</Squirrel_Leather.label>
+	<Squirrel_Meat.label>Eekhoornvlees</Squirrel_Meat.label>
 	
-	<WildBoar.label>Wildschwein</WildBoar.label>
+	<WildBoar.label>Wild zwijn</WildBoar.label>
 	<WildBoar.description>Auch wenn einige Kulturen es als unrein ansehen, ist dieser verwilderte Nachfahre des Hausschweins bekannt für den speziellen Geschmack des Fleisches.</WildBoar.description>
 	<WildBoar_Leather.label>Wildschweinleder</WildBoar_Leather.label>
 	<WildBoar_Meat.label>Wildschweinfleisch</WildBoar_Meat.label>

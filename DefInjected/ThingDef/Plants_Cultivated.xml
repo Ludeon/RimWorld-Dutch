@@ -1,27 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 	<!--=========================== Crops ==============================-->
 
-	<PlantPotato.label>Kartoffeln</PlantPotato.label>
-	<PlantPotato.description>Eine einfache, sehr nahrhafte Knolle. Wächst auch in relativ nährstoffarmen Böden.</PlantPotato.description>
+	<PlantPotato.label>Aardappelen</PlantPotato.label>
+	<PlantPotato.description>Een eenvoudige, zeer voedzame knol. Groeit ook op relatief onvoedzame bodems.</PlantPotato.description>
 
-	<PlantStrawberry.label>Erdbeerpflanze</PlantStrawberry.label>
-	<PlantStrawberry.description>Eine empfindliche, aber geschmacksvolle Frucht. Selbst roh schmeckt sie sehr gut.</PlantStrawberry.description>
+	<PlantStrawberry.label>Aardbeienplant</PlantStrawberry.label>
+	<PlantStrawberry.description>Een veelvoorkomende, doch smakende vrucht. Ook rauw smaakt hij zeer goed.</PlantStrawberry.description>
 
-	<PlantCotton.label>Baumwollpflanze</PlantCotton.label>
-	<PlantCotton.description>Hier wächst Baumwolle. Eine gute Pflanzenfaser, mit der man Kleidung herstellen kann.</PlantCotton.description>
+	<PlantCotton.label>Katoenplant</PlantCotton.label>
+	<PlantCotton.description>Hier groeit katoen. Een goede stof, waarvan je kleding kunt maken.</PlantCotton.description>
 
-	<PlantDevilstrand.label>Teufelsgarnpilz</PlantDevilstrand.label>
-	<PlantDevilstrand.description>Dieser empfindliche Pilz wurde genetisch modifiziert, um feinste Seidennetze herzustellen. Lange Zeit wurden ihm mystische Eigenschaften nachgesagt, aber sein Name kommt von dem Neid, den er in den Menschen weckt.</PlantDevilstrand.description>
+	<PlantDevilstrand.label>Duivelspaddenstoel</PlantDevilstrand.label>
+	<PlantDevilstrand.description>Deze veelvoorkomende paddenstoel is genetisch gemodificeert om er de fijnste stof van te verkrijgen. Lange tijd werden hem mystieke eigenschappen toegewezen, maar hij heeft zijn naam gekregen door de nijd die hij veroorzaakt.</PlantDevilstrand.description>
 
 	<!--=========================== Decorative ==============================-->
 	
-	<PlantRose.label>Rose</PlantRose.label>
-	<PlantRose.description>Eine wunderschöne, angepflanzte Blume.</PlantRose.description>
+	<PlantRose.label>Roos</PlantRose.label>
+	<PlantRose.description>Een prachtige, geplante bloem.</PlantRose.description>
 
-	<PlantDaylily.label>Taglilie</PlantDaylily.label>
-	<PlantDaylily.description>Eine wunderschöne, angepflanzte Blume.</PlantDaylily.description>
+	<PlantDaylily.label>Lelie</PlantDaylily.label>
+	<PlantDaylily.description>Een prachtige, geplante bloem.</PlantDaylily.description>
 
 	
 </LanguageData>

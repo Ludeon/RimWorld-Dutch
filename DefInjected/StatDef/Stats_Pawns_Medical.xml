@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<MedicalOperationSpeed.label>Medizinische Operationsgeschwindigkeit</MedicalOperationSpeed.label>
-	<MedicalOperationSpeed.description>Die Geschwindigkeit, mit der ein Charakter eine Operation durchführt.</MedicalOperationSpeed.description>
+	<MedicalOperationSpeed.label>Medische operatiesnelheid</MedicalOperationSpeed.label>
+	<MedicalOperationSpeed.description>de snelheid, waarmee een persoon een operatie uitvoert.</MedicalOperationSpeed.description>
 	
-	<BaseHealingQuality.label>Grundheilungsqualität</BaseHealingQuality.label>
-	<BaseHealingQuality.description>Die Grundqualität, mit der ein Charakter andere heilen kann, wenn er als Arzt arbeitet.</BaseHealingQuality.description>
+	<BaseHealingQuality.label>Oplapkwaliteit</BaseHealingQuality.label>
+	<BaseHealingQuality.description>De grondkwaliteit waarmee een persoon een andere kan oplappen.</BaseHealingQuality.description>
 	
-	<HealingSpeed.label>Heilungsgeschwindigkeit</HealingSpeed.label>
-	<HealingSpeed.description>Die Geschwindigkeit, mit der ein Charakter Wunden heilen kann, wenn er als Arzt arbeitet.</HealingSpeed.description>
+	<HealingSpeed.label>Oplapsnelheid</HealingSpeed.label>
+	<HealingSpeed.description>De snelheid waarmee een persoon een ander persoon op kan lappen.</HealingSpeed.description>
 	
 </LanguageData>

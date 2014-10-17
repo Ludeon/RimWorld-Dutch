@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<MoveSpeed.label>Bewegungsgeschwindigkeit</MoveSpeed.label>
-	<MoveSpeed.description>Die Geschwindigkeit, mit der sich dieser Charakter durch die Welt bewegt. In Zellen pro Sekunde.</MoveSpeed.description>
+	<MoveSpeed.label>Bewegingssnelheid</MoveSpeed.label>
+	<MoveSpeed.description>De snelheid waarmee een persoon zich voortbeweegt door de wereld. Uitgedrukt in cellen per seconde</MoveSpeed.description>
 	
-	<MentalBreakThreshold.label>Zusammenbruchschwelle</MentalBreakThreshold.label>
-	<MentalBreakThreshold.description>So lange die Stimmung unterhalb dieser Schwelle ist, besteht die Gefahr eines Zusammenbruchs des Charkters.</MentalBreakThreshold.description>
+	<MentalBreakThreshold.label>Zenuwinzinkinsdrempel</MentalBreakThreshold.label>
+	<MentalBreakThreshold.description>Zo lang de stemming van een persoon boven dit getal ligt, is er geen kans op een zenuwinzinking bij deze persoon.</MentalBreakThreshold.description>
 	
-	<PsychicSensitivity.label>Psychische Sensibilität</PsychicSensitivity.label>
-	<PsychicSensitivity.description>Multiplikator auf die Wirkung von psychischen Phänomenen, die diesen Charakter beeinflussen.</PsychicSensitivity.description>
+	<PsychicSensitivity.label>Psychische gevoeligheid</PsychicSensitivity.label>
+	<PsychicSensitivity.description>Vermenigvuldiger van de impact van psychische fenomenen, die een persoon beinvloeden.</PsychicSensitivity.description>
 	
-	<GlobalLearningFactor.label>Globaler Lernfaktor</GlobalLearningFactor.label>
-	<GlobalLearningFactor.description>Globale Lerneffektivität für alle Fähigkeiten.</GlobalLearningFactor.description>
+	<GlobalLearningFactor.label>Globale leerfactor</GlobalLearningFactor.label>
+	<GlobalLearningFactor.description>Globale leereffectiviteit van een persoon.</GlobalLearningFactor.description>
 	
 </LanguageData>

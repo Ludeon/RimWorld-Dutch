@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<WorkToBuild.label>Benötigte Arbeit</WorkToBuild.label>
-	<WorkToBuild.description>Die benötigte Arbeit, um dieses zu bauen.</WorkToBuild.description>
+	<WorkToBuild.label>Vereiste arbeid</WorkToBuild.label>
+	<WorkToBuild.description>De vereiste arbeid om dit af te maken.</WorkToBuild.description>
 	
-	<DoorOpenSpeed.label>Öffnen Geschwindigkeit</DoorOpenSpeed.label>
-	<DoorOpenSpeed.description>Die Geschwindigkeit der Tür sich zu öffnen.</DoorOpenSpeed.description>
+	<DoorOpenSpeed.label>Opensnelheid</DoorOpenSpeed.label>
+	<DoorOpenSpeed.description>De snelheid waarmee de deur zich opent.</DoorOpenSpeed.description>
 	
-	<BedRestEffectiveness.label>Ausruh-Effizienz</BedRestEffectiveness.label>
-	<BedRestEffectiveness.description>Wie effektiv das Ausruhen in diesem Bett ist.</BedRestEffectiveness.description>
+	<BedRestEffectiveness.label>Uitrusteffectiviteit</BedRestEffectiveness.label>
+	<BedRestEffectiveness.description>Hoe effectief het uitrusten in dit bed is.</BedRestEffectiveness.description>
 	
 	
 	

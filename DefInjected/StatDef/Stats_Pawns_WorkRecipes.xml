@@ -1,35 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<CookSpeed.label>Kochgeschwindigkeit</CookSpeed.label>
-	<CookSpeed.description>Die Geschwindigkeit eines Charakters etwas zu kochen.</CookSpeed.description>
+	<CookSpeed.label>Kooksnelheid</CookSpeed.label>
+	<CookSpeed.description>De snelheid waarmee een persoon iets kan koken.</CookSpeed.description>
 	
-	<ButcheryFleshSpeed.label>Schlachtgeschwindigkeit</ButcheryFleshSpeed.label>
-	<ButcheryFleshSpeed.description>Die Geschwindigkeit eines Charakters eine Kreatur zu schlachten.</ButcheryFleshSpeed.description>
+	<ButcheryFleshSpeed.label>Slachtsnelheid</ButcheryFleshSpeed.label>
+	<ButcheryFleshSpeed.description>De snelheid waarmee een persoon een schepsel kan slachten.</ButcheryFleshSpeed.description>
 	
-	<ButcheryFleshEfficiency.label>Schlachteffektivität</ButcheryFleshEfficiency.label>
-	<ButcheryFleshEfficiency.description>Ein Multiplikator auf die Menge Fleisch, die der Charakter erzeugt.</ButcheryFleshEfficiency.description>
+	<ButcheryFleshEfficiency.label>Slachteffectiviteit</ButcheryFleshEfficiency.label>
+	<ButcheryFleshEfficiency.description>Een verveelvoudiger van de hoeveelheid vlees die een persoon produceert.</ButcheryFleshEfficiency.description>
 	
-	<ButcheryMechanoidSpeed.label>Mechanoid Demontagegeschwindigkeit</ButcheryMechanoidSpeed.label>
-	<ButcheryMechanoidSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Charakters einen Mechanoiden zu zerlegen.</ButcheryMechanoidSpeed.description>
+	<ButcheryMechanoidSpeed.label>Mechanoide-afbreeksnelheid</ButcheryMechanoidSpeed.label>
+	<ButcheryMechanoidSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon een mechanoide kan afbreken.</ButcheryMechanoidSpeed.description>
 	
-	<ButcheryMechanoidEfficiency.label>Mechanoid Demontageeffektivität</ButcheryMechanoidEfficiency.label>
-	<ButcheryMechanoidEfficiency.description>Ein Multiplikator auf die Menge an Material, die der Charakter entnimmt.</ButcheryMechanoidEfficiency.description>
+	<ButcheryMechanoidEfficiency.label>Mechanoide-afbreekeffectiviteit</ButcheryMechanoidEfficiency.label>
+	<ButcheryMechanoidEfficiency.description>Een verveelvoudiger van de hoeveelheid metaal die een persoon produceert als hij/zij een mechanoide afbreekt.</ButcheryMechanoidEfficiency.description>
 	
-	<StonecuttingSpeed.label>Steinhaugeschwindigkeit</StonecuttingSpeed.label>
-	<StonecuttingSpeed.description>Die Geschwindigkeit eines Charakters Felsen zu Steinblöcken zu verarbeiten.</StonecuttingSpeed.description>
+	<StonecuttingSpeed.label>Steenhouw-snelheid</StonecuttingSpeed.label>
+	<StonecuttingSpeed.description>De snelheid waarmee een persoon een stuk steen kan verwerken.</StonecuttingSpeed.description>
 	
-	<StonecuttingEfficiency.label>Steinhaueffektivität</StonecuttingEfficiency.label>
-	<StonecuttingEfficiency.description>Ein Multiplikator auf die Menge an Steinen, die der Charakter herausbekommen kann.</StonecuttingEfficiency.description>
+	<StonecuttingEfficiency.label>Steenhouw-effectiviteit</StonecuttingEfficiency.label>
+	<StonecuttingEfficiency.description>Een verveelvouderig van de hoeveelheid blokken steen een persoon uit een stuk pijn.</StonecuttingEfficiency.description>
 	
-	<TailoringSpeed.label>Schneidergeschwindigkeit</TailoringSpeed.label>
-	<TailoringSpeed.description>Die Geschwindigkeit eines Charakters Kleidung herzustellen.</TailoringSpeed.description>
+	<TailoringSpeed.label>Kleermaaksnelheid</TailoringSpeed.label>
+	<TailoringSpeed.description>De snelheid waarmee een persoon kleding maakt.</TailoringSpeed.description>
 	
-	<SmeltingSpeed.label>Schmelzgeschwindigkeit</SmeltingSpeed.label>
-	<SmeltingSpeed.description>Die Geschwindigkeit eines Charakters Objekte einzuschmelzen.</SmeltingSpeed.description>
+	<SmeltingSpeed.label>Smeltsnelheid</SmeltingSpeed.label>
+	<SmeltingSpeed.description>De snelheid waarmee een persoon sintel omsmelt in metaal.</SmeltingSpeed.description>
 	
-	<SmeltingEfficiency.label>Schmelzeffektivität</SmeltingEfficiency.label>
-	<SmeltingEfficiency.description>Ein Multiplikator auf die Menge an Material, die der Charakter herausbekommen kann.</SmeltingEfficiency.description>
+	<SmeltingEfficiency.label>Smelteffectiviteit</SmeltingEfficiency.label>
+	<SmeltingEfficiency.description>Een verveelvoudiger van de hoeveelheid metaal die een persoon kan smelten uit een stuk sintel.</SmeltingEfficiency.description>
 	
 	
 </LanguageData>

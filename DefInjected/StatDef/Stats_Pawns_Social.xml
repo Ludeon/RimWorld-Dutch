@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<RecruitPrisonerChance.label>Wahrscheinlichkeit Gefangene Rekrutieren</RecruitPrisonerChance.label>
-	<RecruitPrisonerChance.description>Die Grundwahrscheinlichkeit mit der dieser Charakter Gefangene rekrutiert.</RecruitPrisonerChance.description>
+	<RecruitPrisonerChance.label>Recruteringskans</RecruitPrisonerChance.label>
+	<RecruitPrisonerChance.description>De kans waarmee een persoon gerectruteerd wordt.</RecruitPrisonerChance.description>
 	
-	<SocialImpact.label>Auswirkung sozialer Gespräche</SocialImpact.label>
-	<SocialImpact.description>Wenn der Charakter sich mit anderen unterhält, ist dieses der Effekt, den er auf die anderen ausübt.</SocialImpact.description>
+	<SocialImpact.label>Sociale impact</SocialImpact.label>
+	<SocialImpact.description>Het effect dat een persoon uitoefent op anderen als hij met hen in gesprek is.</SocialImpact.description>
 	
-	<GiftImpact.label>Auswirkung diplomatischer Geschenke</GiftImpact.label>
-	<GiftImpact.description>Wenn dieser Charakter Geschenke an andere Fraktionen gibt, ist dieses der Multiplikator, der sich auf das Verhältnis auswirkt.</GiftImpact.description>
+	<GiftImpact.label>Cadeau-impact</GiftImpact.label>
+	<GiftImpact.description>De impact die het geven van een kado door een persoon heeft op de ontvangende.</GiftImpact.description>
 	
-	<TradePriceImprovement.label>Handelspreisverbesserung</TradePriceImprovement.label>
-	<TradePriceImprovement.description>Wenn dieser Charakter Preise aushandelt, werden die Kauf- und Verkaufspreise um diese Prozentzahl angepasst.</TradePriceImprovement.description>
+	<TradePriceImprovement.label>Handelsprijsverbetering</TradePriceImprovement.label>
+	<TradePriceImprovement.description>Het percentage waarmee de handelaar zijn inkoop- en verkoopprijs aanpast als er met een persoon gehandelt wordt.</TradePriceImprovement.description>
 	
 	
 

@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<WorkSpeedGlobal.label>Globale Arbeitsgeschwindigkeit</WorkSpeedGlobal.label>
-	<WorkSpeedGlobal.description>Ein Multiplikator auf die Geschwindigkeit eines Charakters arbeiten zu verrichten.</WorkSpeedGlobal.description>
+	<WorkSpeedGlobal.label>Globale werksnelheid</WorkSpeedGlobal.label>
+	<WorkSpeedGlobal.description>Een verveelvoudiger waarmee een persoon al het werk kan uitvoeren.</WorkSpeedGlobal.description>
 	
-	<MiningSpeed.label>Abbaugeschwindigkeit</MiningSpeed.label>
-	<MiningSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Charakters Felsen abzubauen.</MiningSpeed.description>
+	<MiningSpeed.label>Delfsnelheid</MiningSpeed.label>
+	<MiningSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan delven.</MiningSpeed.description>
 	
-	<ResearchSpeed.label>Forschungsgeschwindigkeit</ResearchSpeed.label>
-	<ResearchSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Charakters zu forschen.</ResearchSpeed.description>
+	<ResearchSpeed.label>Onderzoekssnelheid</ResearchSpeed.label>
+	<ResearchSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan onderzoeken.</ResearchSpeed.description>
 	
-	<ConstructionSpeed.label>Aufbaugeschwindigkeit</ConstructionSpeed.label>
-	<ConstructionSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Charakters etwas aufzubauen.</ConstructionSpeed.description>
+	<ConstructionSpeed.label>Bouwsnelheid</ConstructionSpeed.label>
+	<ConstructionSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan bouwen.</ConstructionSpeed.description>
 	
-	<PlantWorkSpeed.label>Feldarbeitsgeschwindigkeit</PlantWorkSpeed.label>
-	<PlantWorkSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Charakters etwas anzuflanzen oder zu ernten.</PlantWorkSpeed.description>
+	<PlantWorkSpeed.label>Plantwerksnelheid</PlantWorkSpeed.label>
+	<PlantWorkSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon werk kan doen dat te maken heeft met planten.</PlantWorkSpeed.description>
 	
 	
 	

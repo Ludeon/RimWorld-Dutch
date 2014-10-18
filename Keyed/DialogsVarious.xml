@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Confirm>Bestätigen</Confirm>
@@ -6,158 +6,158 @@
   <OK>OK</OK>
 
   <!-- Save/load -->
-  <SaveGameButton>Speichern</SaveGameButton>
-  <OverwriteButton>Überschreiben</OverwriteButton>
+  <SaveGameButton>Opslaan</SaveGameButton>
+  <OverwriteButton>Overschrijven</OverwriteButton>
   <LoadGameButton>Laden</LoadGameButton>
-  <ConfirmDelete>Willst du {0} wirklich löschen?</ConfirmDelete>
-  <DeleteThisSavegame>Lösche diesen Spielstand.</DeleteThisSavegame>
-  <SavedAs>Spiel als {0} gespeichert.</SavedAs>
-  <NeedAName>Bitte einen Namen eingeben.</NeedAName>
-  <LoadingLongEvent>Lade...</LoadingLongEvent>
+  <ConfirmDelete>Weet je zeker dat je {0} wil verwijderen??</ConfirmDelete>
+  <DeleteThisSavegame>Verwijder dit spelbestand.</DeleteThisSavegame>
+  <SavedAs>Spel als {0} opgeslagen.</SavedAs>
+  <NeedAName>Geef alsjeblieft een naam op.</NeedAName>
+  <LoadingLongEvent>Laden...</LoadingLongEvent>
 
   <!-- Colony naming-->
-  <NameColonyMessage>Jeder weiß, dass ihr nicht lange hier bleiben wollt. Aber {0} findet, dass die Kolonie trotzdem einen Namen bekommen sollte.\n\nWie soll sie heißen?</NameColonyMessage>
-  <ColonyGainsName>Die Kolonie heißt jetzt {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Dieser Koloniename ist ungültig.</ColonyNameIsInvalid>
+  <NameColonyMessage>Iedereen weet dat jullie hier niet lang willen blijven. Maar {0} vindt, dat de kolonie alsnog een naam moet krijgen.\n\nHoe moet hij heten?</NameColonyMessage>
+  <ColonyGainsName>De kolonie staat nu bekend als {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Deze naam is ongeldig.</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
-  <ZoneGainsName>Die Zone heißt jetzt {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Bitte gib einen gültigen Namen ein.</ZoneNameIsInvalid>
+  <ZoneGainsName>De zone heet nu {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Deze naam is ongeldig.\n\nGeef alsjeblieft een goede naam op.</ZoneNameIsInvalid>
   
   <!-- Pawn naming -->
-  <PawnGainsName>Der Kolonist hört jetzt auf den Spitznamen {0}.</PawnGainsName>
+  <PawnGainsName>Deze kolonist luistert nu naar de naam {0}.</PawnGainsName>
   
   <!-- Save game incompatible warning -->
-    <SaveGameIncompatibleWarningText>Falsche Version: Die Karte wurde mit der RimWorld Version {0} gespeichert, du spielst aber gerade mit der Version {1}.\n\n Das Laden dieses Spielstandes wird sehr wahrscheinlich Fehler verursachen oder das Spiel sogar abstürzen lassen.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Der Spielstand ist Inkompatibel</SaveGameIncompatibleWarningTitle>
+    <SaveGameIncompatibleWarningText>Verkeerde versie: de kaart is met versie {0} opgeslagen, maar je speelt op versie {1}.\n\n Het laden van dit spel zal er waarschijnlijk voor zorgen dat het kapot gaat.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Het spelbestand is incompitabel</SaveGameIncompatibleWarningTitle>
   
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>Du hast die Auflösung geändert. Ist sie in Ordnung?\n\nAutomatisches Zurücksetzen in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Behalten</ResolutionKeep>
-  <ResolutionRevert>Zurücksetzen</ResolutionRevert>
+  <ConfirmResolutionChange>Je hebt de resolutie verandert. Is dat de bedoeling??\n\nHet scherm wordt automatisch teruggezet in {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Behouden</ResolutionKeep>
+  <ResolutionRevert>Terugzetten</ResolutionRevert>
   
   <!-- Overview -->
-  <OverviewOf>Übersicht von {0}</OverviewOf>
+  <OverviewOf>Overzicht van {0}</OverviewOf>
   
   <!-- Research -->
-  <Research>Forschung</Research>
-  <Researched>Erforscht</Researched>
-  <Unresearched>Unerforscht</Unresearched>
-  <Finished>Abgeschlossen</Finished>
-  <InProgress>Wird erforscht</InProgress>
-   <ResearchMenuWithoutBench>Solange du keinen LABORTISCH gebaut hast, werden deine Kolonisten nicht in der Lage sein etwas zu erforschen.\n\nTrotzdem kannst du dir die Möglichkeiten ansehen und schon einmal ein Projekt auswählen.</ResearchMenuWithoutBench>
+  <Research>Onderzoek</Research>
+  <Researched>Onderzocht</Researched>
+  <Unresearched>Niet onderzocht</Unresearched>
+  <Finished>Afgemaakt</Finished>
+  <InProgress>Wordt onderzocht</InProgress>
+   <ResearchMenuWithoutBench>Zolang je geen onderzoekstafel hebt, zijn je kolonisten niet in staat iets te onderzoeken.\n\nMisschien kun je de mogenlijkheid bekijken ze een project te geven?.</ResearchMenuWithoutBench>
 
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>WARNUNG: Die Leistung kann auf größeren Karten schlechter werden, wenn der Rechner die Leistung nicht aufbringen kann.\n\nWenn du einen schwachen Rechner hast, wähle Klein.\n\nKartengröße Riesig ist ungetestet, aber wird sich mit hoher Wahrscheinlichkeit nicht gut spielen lassen.</MapSizePerformanceWarning>
-  <MapSize>Kartengröße</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} Felder)</MapSizeDesc>
+  <MapSizePerformanceWarning>WAARSCHUWING: de prestaties van het spel kunnen verslechteren bij zo'n grote kaart, als je computer het niet aankan. \n\nAls je een zwakke computer hebt, is het beter een kleine kaart te gebruiken.\n\nDe Ludeonicrous kaartgrootte is niet getest, en geven waarschijnlijk slechte prestaties.</MapSizePerformanceWarning>
+  <MapSize>Kaartgrootte</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} tegels)</MapSizeDesc>
   <MapSizeSmall>Klein</MapSizeSmall>
-  <MapSizeMedium>Mittel</MapSizeMedium>
-  <MapSizeLarge>Groß</MapSizeLarge>
-  <MapSizeExtreme>Riesig</MapSizeExtreme>
+  <MapSizeMedium>Middel</MapSizeMedium>
+  <MapSizeLarge>Groot</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
 
   
   <!-- Bill config -->
-  <Suspended>Ausgesetzt</Suspended>
-  <NotSuspended>Nicht ausgesetzt</NotSuspended>
-  <SuspendedAllCaps>AUSGESETZT</SuspendedAllCaps>
-  <RepeatCount>Wiederholen: {0}</RepeatCount>
-  <Forever>Für immer</Forever>
-  <IngredientSearchRadius>Zutaten-Such-Radius</IngredientSearchRadius>
-  <TargetCount>Produziere, bis du {0} hast</TargetCount>
-  <Infinite>Unendlich</Infinite>
-  <RecipeCannotHaveTargetCount>(Das Rezept kann keine maximale Anzahl haben, da es mehrere oder unvorhersehbare Produkte enthält)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Erlaubte Zutaten</PermittedIngredients>
-  <MinimumSkills>Minimale Fähigkeiten:</MinimumSkills>
-  <BillRequires>Benötigt {0} {1}</BillRequires>
-  <UsableIngredients>brauchbare Zutaten</UsableIngredients>
-  <DoXTimes>Mache X Mal</DoXTimes>
-  <DoUntilYouHaveX>Mache bis du X hast</DoUntilYouHaveX>
-  <DoForever>Mache für immer</DoForever>
-  <BillRepeatTargetCountShort>Bis {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Auf den Boden legen</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Zum besten Lager tragen</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Zum nächsten Lager tragen</BillStoreMode_NearestStockpileAnyPriority>
+  <Suspended>opgeschort</Suspended>
+  <NotSuspended>Niet opgeschort</NotSuspended>
+  <SuspendedAllCaps>OPGESCHORT</SuspendedAllCaps>
+  <RepeatCount>Herhalen: {0}</RepeatCount>
+  <Forever>voor altijd</Forever>
+  <IngredientSearchRadius>Materialen-zoek-radius</IngredientSearchRadius>
+  <TargetCount>Produceer, tot je er {0} hebt</TargetCount>
+  <Infinite>oneindig</Infinite>
+  <RecipeCannotHaveTargetCount>(Het recept kan geen maximaal aantal hebben, als het meerdere onvoorspelbare ingredienten bevat)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Toegestane ingredienten:</PermittedIngredients>
+  <MinimumSkills>Minimale vaardigheid:</MinimumSkills>
+  <BillRequires>Benodigd {0} {1}</BillRequires>
+  <UsableIngredients>Bruikbare ingredienten</UsableIngredients>
+  <DoXTimes>maak X keer</DoXTimes>
+  <DoUntilYouHaveX>Maak todat je er X hebt</DoUntilYouHaveX>
+  <DoForever>Voor altijd doen</DoForever>
+  <BillRepeatTargetCountShort>Tot {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Laten vallen</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Naar beste opslagplaats brengen</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Naar dichtstbijzijnde opslagplaats brengen</BillStoreMode_NearestStockpileAnyPriority>
   
     <!-- Def Card -->
-  <Type>Typ</Type>
-  <GunType>Waffe</GunType>
-  <PlantType>Pflanze</PlantType>
-  <FoodType>Essen</FoodType>
-  <HumanType>Mensch</HumanType>
-  <AnimalType>Tier</AnimalType>
-  <MechanoidType>Mechanoid</MechanoidType>
-  <Damage>Schaden</Damage>
-  <Accuracy>Genauigkeit</Accuracy>
-  <BurstShotCount>Schüsse pro Salve</BurstShotCount>
-  <WarmupTime>Aufwärmzeit</WarmupTime>
-  <CooldownTime>Abkühlzeit</CooldownTime>
-  <BurstShotFireRate>Schussfrequenz</BurstShotFireRate>
-  <Range>Reichweite</Range>
-  <GrowsWild>Wächst in Wildnis</GrowsWild>
-  <Harvestable>Erntbar</Harvestable>
-  <LimitedLifespan>Begrenzte Lebensdauer</LimitedLifespan>
-  <GrowingTime>Wachstumsdauer</GrowingTime>
-  <Days>Tage</Days>
-  <FertilityRequirement>Benötigte Fruchtbarkeit</FertilityRequirement>
-  <LightRequirement>Benötigte Helligkeit</LightRequirement>
-  <Attributes>Attribute</Attributes>
-  <LifeSpan>Lebensdauer</LifeSpan>
-  <Nutrition>Nährstoffe</Nutrition>
-  <FoodQuality>Essensqualität</FoodQuality>
-  <WalkSpeedProperty>Laufgeschwindigkeit</WalkSpeedProperty>
-  <MeleeDamage>Nahkampfschaden</MeleeDamage>
-  <MeatAmount>Fleischmenge</MeatAmount>
-  <MinFoodQuality>Min. Essensqualität</MinFoodQuality>
-  <Diet>Nahrung</Diet>
-  <RecruitDifficulty>Anwerbschwierigkeit</RecruitDifficulty>
-  <baseMarketValue>Grundpreis</baseMarketValue>
-  <Covers>Verdeckt</Covers>
-  <NaturalArmorCovers>Natürliche Rüstung bedeckt</NaturalArmorCovers>
-  <BodyPartEfficiency>Effektivität des Körperteils</BodyPartEfficiency>
+  <Type>type</Type>
+  <GunType>wapen</GunType>
+  <PlantType>plant</PlantType>
+  <FoodType>eten</FoodType>
+  <HumanType>mens</HumanType>
+  <AnimalType>dier</AnimalType>
+  <MechanoidType>mechanoide</MechanoidType>
+  <Damage>schade</Damage>
+  <Accuracy>accuratie</Accuracy>
+  <BurstShotCount>schoten per salvo</BurstShotCount>
+  <WarmupTime>opwarmtijd</WarmupTime>
+  <CooldownTime>afkoeltijd</CooldownTime>
+  <BurstShotFireRate>shietfrequentie</BurstShotFireRate>
+  <Range>reikwijdte</Range>
+  <GrowsWild>groeit in de wildernis</GrowsWild>
+  <Harvestable>oogstbaar</Harvestable>
+  <LimitedLifespan>begrensde levensduur</LimitedLifespan>
+  <GrowingTime>groeitijd</GrowingTime>
+  <Days>dagen</Days>
+  <FertilityRequirement>benodigde vruchtbaarheid</FertilityRequirement>
+  <LightRequirement>benodigt licht</LightRequirement>
+  <Attributes>attribuut</Attributes>
+  <LifeSpan>levensduur</LifeSpan>
+  <Nutrition>voedingsstof</Nutrition>
+  <FoodQuality>etenskwaliteit</FoodQuality>
+  <WalkSpeedProperty>loopsnelheid</WalkSpeedProperty>
+  <MeleeDamage>vuistgevechtsschade</MeleeDamage>
+  <MeatAmount>vleeshoeveelheid</MeatAmount>
+  <MinFoodQuality>minimale eetkwaliteit</MinFoodQuality>
+  <Diet>voedsel</Diet>
+  <RecruitDifficulty>Recruteringsmoeilijkheid</RecruitDifficulty>
+  <baseMarketValue>grondprijs</baseMarketValue>
+  <Covers>bedekt</Covers>
+  <NaturalArmorCovers>natuurlijke beschreming bedekt</NaturalArmorCovers>
+  <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>
   
   <!-- Trade -->
-  <DragToTrade>Zum handeln ziehen</DragToTrade>
-  <BuyPriceDesc>Zu diesem Preis kannst du das kaufen.</BuyPriceDesc>
-  <SellPriceDesc>Zu diesen Preis kannst du das verkaufen.</SellPriceDesc>
-  <PriceTypeDesc>Der Preis dieses Gegenstandes ist {0}.</PriceTypeDesc>
-  <ColonyCount>Anzahl dieser Gegenstände, die die Kolonie zum Handeln hat.\n\nDu kannst Gegenstände nur mit orbitalen Händlern handeln, wenn sie draußen und in der Nähe eines Orbitalen Funkfeuers gelagert werden.</ColonyCount>
-  <TraderCount>Anzahl dieser Gegenstände, die der Händler zum Handeln hat.</TraderCount>
-  <AcceptButton>Annehmen</AcceptButton>
+  <DragToTrade>Sleep om te handelen</DragToTrade>
+  <BuyPriceDesc>Voor deze prijs kun je het kopen.</BuyPriceDesc>
+  <SellPriceDesc>Voor deze prijs kun je het verkopen.</SellPriceDesc>
+  <PriceTypeDesc>De prijs van dit product is {0}.</PriceTypeDesc>
+  <ColonyCount>Aantal van dit product te verhandelen door de kolonie.\n\nJe kunt producten alleen verhandelen, als ze buiten liggen, binnen het bereik van een orbitaal handelsbaken.</ColonyCount>
+  <TraderCount>Aantal van dit product dat de handelaar heeft.</TraderCount>
+  <AcceptButton>Accepteren</AcceptButton>
   <ResetButton>Reset</ResetButton>
-  <CancelButton>Abbruch</CancelButton>
-  <YourTradeableSilver>Dein handelbares Silber: {0}</YourTradeableSilver>
-  <YourTradeableSilverTip>Du kannst nur mit Silber handeln, dass im Freien und in Reichweite des Orbitalen Funkfeuers ist.</YourTradeableSilverTip>
-  <TraderHasNoMore>Händler hat nichts mehr.</TraderHasNoMore>
-  <ColonyHasNoMore>Nichts mehr zum Verkaufen.</ColonyHasNoMore>
-  <TraderWillNotTrade>Der Händler ist nicht bereit hiermit zu handeln.</TraderWillNotTrade>
+  <CancelButton>Annuleren</CancelButton>
+  <YourTradeableSilver>Jouw verhandelbare zilver: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Je kunt alleen met zilver handelen, dat buiten ligt, binnen het bereik van een orbitaal handelsbaken liggen.</YourTradeableSilverTip>
+  <TraderHasNoMore>Handelaar heeft niet meer.</TraderHasNoMore>
+  <ColonyHasNoMore>Niet meer om te verkopen.</ColonyHasNoMore>
+  <TraderWillNotTrade>De handelaar is niet bereidt daarin te handelen.</TraderWillNotTrade>
  
   <!-- Comms -->
-  <SocialSkillIs>Soziale Fähigkeit: {0}</SocialSkillIs>
+  <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
   
   <!-- Stats report -->
-  <StatsReport_BaseValue>Grundwert</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevante Merkmale</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevante Ausrüstung</StatsReport_RelevantGear>
-  <StatsReport_Material>Material</StatsReport_Material>
-  <StatsReport_CharacterQuality>Charakter Qualität</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Geschicklichkeitsfaktoren</StatsReport_Skills>
-  <StatsReport_OtherStats>Faktoren anderer Werte</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Gesundheitsfaktoren</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>{0} Wichtigkeit</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Nachbearbeitete Kurve</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Endergebnis</StatsReport_FinalValue>
+  <StatsReport_BaseValue>Grondwaarde</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevante eigenschappen</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevante uitrusting</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiaal</StatsReport_Material>
+  <StatsReport_CharacterQuality>Karakterkwaliteit</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Vaardigheden</StatsReport_Skills>
+  <StatsReport_OtherStats>Andere statistieken</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Gezondheidsfactoren</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} weging</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-verwerkte curve</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Eindprijs</StatsReport_FinalValue>
   
   <!--Other-->
-  <ResearchFinished>Forschung abgeschlossen: {0}</ResearchFinished>
-  <ResearchScreen>Forschungsmenü</ResearchScreen>
+  <ResearchFinished>Onderzoek afgerond: {0}</ResearchFinished>
+  <ResearchScreen>Onderzoeksmenu</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Möchtest Du die Informationen deines Spielverlaufs auf den RimWorld-Server hochladen, damit die Entwickler das Spiel verbessern können? Wenn Du dem zustimmst, werden die Daten Deines Spiels alle {0} Tage (bzw. zu seltenen Ereignissen, wie z.B. dem Ende des Spiels) hochgeladen. Die Einstellungen können in den Optionen noch geändert werden.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Die Spieldaten werden anonym versendet, aber Du kannst auch Deinen Namen hinzufügen.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Die Spieldaten immer hochladen</HistoryUploadYes>
-  <HistoryUploadNo>Die Spieldaten nie hochladen</HistoryUploadNo>
-  <HistoryUploadYesOnce>Nur diesmal hochladen</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Dieses mal nicht, aber frag mich später.</HistoryUploadNoOnce>
+  <HistoryUploadMessage>Wil je de voortgang van jouw spel uploaden naar de rimworldserver? Daarmee kun je de ontwikkeling van het spel steunen. Als je dit toestaat, worden de gegevens van jouw spel iedere {0} dagen (en in sommige speciale gevallen, zoals het einde van het spel) geupload. De instellingen kunnen verandert worden in het opties menu.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>De spelgegevens worden anoniem verzonden, maar je kunt wel je naam toevoegen.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>De spelgegevens uploaden</HistoryUploadYes>
+  <HistoryUploadNo>De spelgegevens nooit uploaden</HistoryUploadNo>
+  <HistoryUploadYesOnce>Alleen nu uploaden</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Nu niet, vraag het me later.</HistoryUploadNoOnce>
   
 </LanguageData>

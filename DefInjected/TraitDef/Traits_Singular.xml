@@ -25,16 +25,16 @@
   </rep>
   <rep>
     <path>Psychopath.degreeDatas[0].description</path>
-    <trans>NAME heeft geen empathisch vermogen. HECAP stoort zich ook niet aan het lijden van anderen. het maakt HECAP ook niets uit of een mens geslacht wordt, verkocht wordt als slaaf of als er iemand dood op de grond licht - Maar HE wordt beinvloed. HECAP krijgt ook bijna geen stemmingsboost van gesprekken met anderen.</trans>
+    <trans>NAME heeft geen empathisch vermogen. HECAP stoort zich ook niet aan het lijden van anderen. het maakt HIM ook niets uit of een mens geslacht wordt, verkocht wordt als slaaf of als er iemand dood op de grond licht - Maar HE wordt beinvloed. HECAP krijgt ook bijna geen stemmingsboost van gesprekken met anderen.</trans>
   </rep>
 	
   <rep>
     <path>Cannibal.degreeDatas[0].label</path>
-    <trans>Kanibale</trans>
+    <trans>Kannibaal</trans>
   </rep>
   <rep>
     <path>Cannibal.degreeDatas[0].description</path>
-    <trans>NAME wurde beigebracht, dass das essen von Menschenfleisch falsch und schrecklich ist. Trotzdem hat HE es einmal versucht... und es hat HIM geschmeckt.</trans>
+    <trans>NAME is bijgebracht dat het eten van mensenvlees verschrikkelijk is. Maar lang geleden heeft HE het geprobeerd... en HE vond het heerlijk.</trans>
   </rep>
 	
   <rep>
@@ -75,11 +75,11 @@
 	
   <rep>
     <path>Brawler.degreeDatas[0].label</path>
-    <trans>Kampfkünstler</trans>
+    <trans>Vechtkunstenaar</trans>
   </rep>
   <rep>
     <path>Brawler.degreeDatas[0].description</path>
-    <trans>NAME ist ein passionierter Kampfkünstler. HISCAPe Genauigkeit im Nahkampf ist unvergleichlich, aber HE wird sehr unglücklich, wenn HE eine Feuerwaffe tragen soll.</trans>
+    <trans>NAME is een gepassioneerde vechtkunstenaar. HISCAP prestaties tijdens het vechten zijn onvergelijkbaar, maar HE wordt erg ongelukkig, als HE een vuurwapen moet dragen.</trans>
   </rep>
 	
   <rep>
@@ -88,44 +88,44 @@
   </rep>
   <rep>
     <path>Masochist.degreeDatas[0].description</path>
-    <trans>Für NAME ist Schmerz empfinden etwas verbotenes und gleichzeitig erregendes. HECAP weiß nicht warum, aber HE ist halt einfach anders verdrahtet.</trans>
+    <trans>Voor NAME is pijn hebben verboden, en tegelijkertijd spannend. HECAP weet niet waarom, maar HE zit gewoon anders in elkaar.</trans>
   </rep>
 	
   <rep>
     <path>Prosthophile.degreeDatas[0].label</path>
-    <trans>Prothesenbegeistert</trans>
+    <trans>Prothesofiel</trans>
   </rep>
   <rep>
     <path>Prosthophile.degreeDatas[0].description</path>
-    <trans>NAME fühlt sich begrenzt in HISem zerbrechlichen menschlichen Körper. HECAP träumt oft davon HISe Natürlichen gegen bionische Körperteile auszutauschen.</trans>
+    <trans>NAME voelt zich begrendsd in HIS menselijke lichaam. HECAP droomt ervan HIS natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</trans>
   </rep>
 	
   <rep>
     <path>Prosthophobe.degreeDatas[0].label</path>
-    <trans>Prothesenphobie</trans>
+    <trans>Prothesofoob</trans>
   </rep>
   <rep>
     <path>Prosthophobe.degreeDatas[0].description</path>
-    <trans>NAME ist der Meinung, dass der menschlichen Körper aus gutem Grund limitiert ist. HECAP findet bionische Körperteile unethisch.</trans>
+    <trans>NAME is van mening dat het menselijk lichaam met een goede reden begrensd is. HECAP vindt bionische lichaamsdelen onethisch.</trans>
   </rep>
 	
   <rep>
     <path>GreenThumb.degreeDatas[0].label</path>
-    <trans>Grüner Daumen</trans>
+    <trans>Groene vingers</trans>
   </rep>
   <rep>
     <path>GreenThumb.degreeDatas[0].description</path>
-    <trans>NAME ist ein passionierter Pflanzenliebhaber. HECAP bekommt bessere Laune bei jeder Pflanze die HE anpflanzt.</trans>
+    <trans>NAME is een gepassioneerde plantenliefhebber. HECAP krijgt een betere stemming bij iedere plant die HE plant.</trans>
   </rep>
 	
   <!--
   <rep>
     <path>AbsentMinded.degreeDatas[0].label</path>
-    <trans>Geistesabwesend</trans>
+    <trans>Afwezig</trans>
   </rep>
   <rep>
     <path>AbsentMinded.degreeDatas[0].description</path>
-    <trans>NAME hat Probleme damit sich auf eine Sache zu konzentrieren. Wann immer HE eine Aufgabe erledigt hat, besteht die kleine Möglichkeit, dass HE vergisst, was HE als nächstes tun wollte und stattdessen gedankenverloren herumläuft.</trans>
+    <trans>NAME heeft problemen met zich op een zaak te concentrernt. Wanneer HE iets moet doen, bestaat de kleine mogenlijkheid dat HE vergeet wat he daarna zal gaan doen en nutteloos gaat rondlopen.</trans>
   </rep>
   -->
 	

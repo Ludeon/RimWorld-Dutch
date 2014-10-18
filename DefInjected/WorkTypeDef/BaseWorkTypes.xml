@@ -26,10 +26,10 @@
 	<Crafting.verb>maakt</Crafting.verb>
 	<Crafting.tooltipDesc>Handwerkers maken dingen van materialen.</Crafting.tooltipDesc>
 	
-	<PlantCutting.pawnLabel>Pflanzenschneider</PlantCutting.pawnLabel>
-	<PlantCutting.gerundLabel>Pfl. schneiden</PlantCutting.gerundLabel>
-	<PlantCutting.verb>Schneidet Pflanzen</PlantCutting.verb>
-	<PlantCutting.tooltipDesc>Pflanzenschneider schneiden und ernten die markierten Pflanzen und Bäume.</PlantCutting.tooltipDesc>
+	<PlantCutting.pawnLabel>plantensneider</PlantCutting.pawnLabel>
+	<PlantCutting.gerundLabel>plant snijden</PlantCutting.gerundLabel>
+	<PlantCutting.verb>snijdt planten</PlantCutting.verb>
+	<PlantCutting.tooltipDesc>Plantensnijders snijden planten en hakken bomen om (en ja, die EI in de naam is een referentie naar onze geliefde voetballer).</PlantCutting.tooltipDesc>
 	
 	<Growing.pawnLabel>Landwirt</Growing.pawnLabel>
 	<Growing.gerundLabel>Anbauen</Growing.gerundLabel>

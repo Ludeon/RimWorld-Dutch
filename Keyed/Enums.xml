@@ -2,49 +2,49 @@
 <LanguageData>
 
   <!-- glow -->
-  <Dark>Dunkel</Dark>
-  <Lit>Hell</Lit>
-  <LitBrightly>Sehr hell</LitBrightly>
+  <Dark>donker</Dark>
+  <Lit>verlicht</Lit>
+  <LitBrightly>sterk verlicht</LitBrightly>
   
   <!-- food quality -->
-  <NoneQuality>Keine</NoneQuality>
-  <PlantQuality>Pflanzlich</PlantQuality>
-  <RawQuality>Roh</RawQuality>
-  <MealAwfulQuality>Wiederlich</MealAwfulQuality>
-  <MealSimpleQuality>Einfach</MealSimpleQuality>
-  <MealFineQuality>Lecker</MealFineQuality>
-  <MealLavishLavish>Reichlich</MealLavishLavish>
+  <NoneQuality>Geen</NoneQuality>
+  <PlantQuality>Plantaardig</PlantQuality>
+  <RawQuality>Rauw</RawQuality>
+  <MealAwfulQuality>Vies</MealAwfulQuality>
+  <MealSimpleQuality>Eenvoudig</MealSimpleQuality>
+  <MealFineQuality>Lekker</MealFineQuality>
+  <MealLavishLavish>Luxe</MealLavishLavish>
   
   <!-- diet type -->
-  <NeverEats>Isst nicht</NeverEats>
-  <Omnivorous>Allesfresser</Omnivorous>
-  <Herbivorous>Pflanzenfresser</Herbivorous>
-  <Carnivorous>Fleischfresser</Carnivorous>
+  <NeverEats>Eet nooit</NeverEats>
+  <Omnivorous>Alleseter</Omnivorous>
+  <Herbivorous>Planteneter</Herbivorous>
+  <Carnivorous>Vleeseter</Carnivorous>
   
   <!-- history upload pref -->
-  <Unspecified>Unentschlossen</Unspecified>
-  <Always>Erlauben</Always>
-  <Never>Nicht erlauben</Never>
+  <Unspecified>ongespecifeerd</Unspecified>
+  <Always>Altijd</Always>
+  <Never>Nooit</Never>
   
   <!-- Price types -->
-  <PriceTypeVeryCheap>sehr billig</PriceTypeVeryCheap>
-  <PriceTypeCheap>billig</PriceTypeCheap>
-  <PriceTypeNormal>normal</PriceTypeNormal>
-  <PriceTypeExpensive>teuer</PriceTypeExpensive>
-  <PriceTypeExorbitant>überteuert</PriceTypeExorbitant>
+  <PriceTypeVeryCheap>zeer goedkoop</PriceTypeVeryCheap>
+  <PriceTypeCheap>goedkoop</PriceTypeCheap>
+  <PriceTypeNormal>normaal</PriceTypeNormal>
+  <PriceTypeExpensive>duur</PriceTypeExpensive>
+  <PriceTypeExorbitant>te duur</PriceTypeExorbitant>
 
   <!-- stat category -->
-  <StatCategory_General>Allgemein</StatCategory_General>
-  <StatCategory_GeneralNonPawn>Allgemein</StatCategory_GeneralNonPawn>
-  <StatCategory_Armor>Rüstung</StatCategory_Armor>
-  <StatCategory_PawnPrimary>Primär</StatCategory_PawnPrimary>
-  <StatCategory_PawnWork>Arbeit</StatCategory_PawnWork>
-  <StatCategory_PawnCombat>Kampf</StatCategory_PawnCombat>
-  <StatCategory_PawnSocial>Sozial</StatCategory_PawnSocial>
+  <StatCategory_General>algemeen</StatCategory_General>
+  <StatCategory_GeneralNonPawn>algemeen</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Uitrusting</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Primair</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Werk</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Strijd</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Sociaal</StatCategory_PawnSocial>
   <StatCategory_PawnMisc>Versch.</StatCategory_PawnMisc>
-  <StatCategory_Building>Gebäude</StatCategory_Building>
+  <StatCategory_Building>Gebouwen</StatCategory_Building>
   
-  <EquippedStatOffsets>Anpassung wenn ausgerüstet</EquippedStatOffsets>
-  <StuffOfEquipmentStatModifiers>Modifizierer wenn Ausrüstung hieraus gemacht ist</StuffOfEquipmentStatModifiers>
+  <EquippedStatOffsets>Aanpassing als aangetrokken</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Pas aan wanneer een kledingsstuk hiervan gemaakt is</StuffOfEquipmentStatModifiers>
   
 </LanguageData>

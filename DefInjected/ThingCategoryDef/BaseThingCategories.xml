@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
@@ -17,7 +16,7 @@
 	<Apparel.label>Kleding</Apparel.label>
 	<Weapons.label>Wapens</Weapons.label>
 	<BodyParts.label>Lichaamsdelen</BodyParts.label>
-	<Debris.label>Puin</Debris.label>
+	<Chunks.label>Puin</Chunks.label>
 	
 	<Corpses.label>Lijken</Corpses.label>
 	<CorpsesHumanoid.label>Mensenlijken</CorpsesHumanoid.label>

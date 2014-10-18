@@ -18,7 +18,7 @@
 	<TableSawmillElectric.description>Een electrische zaag, waarmee planken kunnen worden gemaakt.</TableSawmillElectric.description>
 	-->
 	
-<TableButcher.label>Slagertafel</TableButcher.label>
+  <TableButcher.label>Slagertafel</TableButcher.label>
 	<TableButcher.description>Een tafel waar slagers aan kunnen werken om vlees te verkrijgen uit dode dieren, of mensen als je daar trek in hebt.</TableButcher.description>
 	
 	<CookStove.label>Fornuis</CookStove.label>
@@ -27,8 +27,8 @@
 	<TableStonecutter.label>Steenhouwerstafel</TableStonecutter.label>
 	<TableStonecutter.description>Een tafel waar steenhouwers stenen blokken kunnen maken van puin.</TableStonecutter.description>
 	
-	<SlagRefinery.label>Sintelsmelter</SlagRefinery.label>
-	<SlagRefinery.description>Haalt bruikbaar metaal uit sintel. Verbruikt veel stroom.</SlagRefinery.description>
+	<ElectricSmelter.label>Sintelsmelter</ElectricSmelter.label>
+	<ElectricSmelter.description>Haalt bruikbaar metaal uit sintel. Verbruikt veel stroom.</ElectricSmelter.description>
 	
 	<Crematorium.label>Crematorium</Crematorium.label>
 	<Crematorium.description>Verbrandt lijken.</Crematorium.description>

@@ -1,21 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 	<!-- ========================== Melee Weapons ============================== -->
   
-	<MeleeWeapon_ShortSword.label>Kurzschwert</MeleeWeapon_ShortSword.label>
-	<MeleeWeapon_ShortSword.description>Verlässlich und tötlich im Nahkampf.</MeleeWeapon_ShortSword.description>
+	<MeleeWeapon_ShortSword.label>Kortzwaard</MeleeWeapon_ShortSword.label>
+	<MeleeWeapon_ShortSword.description>Betrouwbaar en dodelijk in vuistgevechten.</MeleeWeapon_ShortSword.description>
   
-	<MeleeWeapon_Knife.label>Messer</MeleeWeapon_Knife.label>
-	<MeleeWeapon_Knife.description>Ein einfaches Messer.</MeleeWeapon_Knife.description>
-  
-	<MeleeWeapon_Shiv.label>Klinge</MeleeWeapon_Shiv.label>
-	<MeleeWeapon_Shiv.description>Eine improvisierte messerähnliche Klinge.</MeleeWeapon_Shiv.description>
+	<MeleeWeapon_Knife.label>Mes.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.description>Een eenvoudig mes.</MeleeWeapon_Knife.description>   
+	<MeleeWeapon_Shiv.label>Mes</MeleeWeapon_Shiv.label>
+	<MeleeWeapon_Shiv.description>Een geïmproviseerd mes.</MeleeWeapon_Shiv.description>
   
 	<MeleeWeapon_Spear.label>Speer</MeleeWeapon_Spear.label>
-	<MeleeWeapon_Spear.description>Eine Stange mit einer Eisenspitze um Gegner im Nahkampf zu durchbohren.</MeleeWeapon_Spear.description>
+	<MeleeWeapon_Spear.description>Een stang met een scherpe punt om de tegenstander mee te doorboren.</MeleeWeapon_Spear.description>
   
-	<MeleeWeapon_Club.label>Knüppel</MeleeWeapon_Club.label>
-	<MeleeWeapon_Club.description>Die älteste Waffe der Menschheit - Ein schlichtes geformtes Holzstück, mit dem man Gegner erschlagen kann. Einfach, aber wirkungsvoll.</MeleeWeapon_Club.description>
+	<MeleeWeapon_Club.label>Knuppel</MeleeWeapon_Club.label>
+	<MeleeWeapon_Club.description>Het oudste wapen van de mensheid - En stuk hout waarmee je vijanden kunt slaan. Eenvoudig, maar nuttig.</MeleeWeapon_Club.description>
 	
 </LanguageData>

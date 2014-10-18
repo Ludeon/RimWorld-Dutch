@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<!-- ============================ Humanoid ========================== -->
 
-	<Human.label>Mensch</Human.label>
-	<Human.description>Ein durchschnittlicher Mensch, nahezu unverändert durch genetische Anpassungen und evolutionäre Prozesse auf Nicht-Erde-Planeten.</Human.description>
-	<Human_Leather.label>Menschenhaut</Human_Leather.label>
-	<Human_Meat.label>Menschenfleisch</Human_Meat.label>
+	<Human.label>Mens</Human.label>
+	<Human.description>Een doorsnee mens, niet aangepast door genetische modificatie of door evolutie op andere planeten.</Human.description>
+	<Human_Leather.label>Mensenhuid</Human_Leather.label>
+	<Human_Meat.label>Mensenvlees</Human_Meat.label>
   
 	
 

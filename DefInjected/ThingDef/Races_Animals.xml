@@ -20,48 +20,48 @@
 	<Squirrel_Meat.label>Eekhoornvlees</Squirrel_Meat.label>
 	
 	<WildBoar.label>Wild zwijn</WildBoar.label>
-	<WildBoar.description>Auch wenn einige Kulturen es als unrein ansehen, ist dieser verwilderte Nachfahre des Hausschweins bekannt für den speziellen Geschmack des Fleisches.</WildBoar.description>
-	<WildBoar_Leather.label>Wildschweinleder</WildBoar_Leather.label>
-	<WildBoar_Meat.label>Wildschweinfleisch</WildBoar_Meat.label>
+	<WildBoar.description>Ook al wordt hij door sommigen gezien als onrein, staat deze verwilderde nakomeling van het huiszwijn bekend om zijn lekkere vlees.</WildBoar.description>
+	<WildBoar_Leather.label>Zwijnleder</WildBoar_Leather.label>
+	<WildBoar_Meat.label>Zwijnvlees</WildBoar_Meat.label>
 	
-	<Rhinoceros.label>Nashorn</Rhinoceros.label>
-	<Rhinoceros.description>Dieses große Landsäugetier ist normalerweise friedlich. Allerdings scheut es sich auch nicht, Eindringlinge mit seinem Horn anzugreifen.</Rhinoceros.description>
-	<Rhinoceros_Leather.label>Nashornleder</Rhinoceros_Leather.label>
-	<Rhinoceros_Meat.label>Nashornfleisch</Rhinoceros_Meat.label>
+	<Rhinoceros.label>Neushoorn</Rhinoceros.label>
+	<Rhinoceros.description>Dit grote landdier is noormaal gesproken niet-vijanelijk, maar hij aarzelt niet om indringers te verdrijven met zijn hoorn.</Rhinoceros.description>
+	<Rhinoceros_Leather.label>Neushoornleder</Rhinoceros_Leather.label>
+	<Rhinoceros_Meat.label>Neushoornvlees</Rhinoceros_Meat.label>
 	
-	<Dromedary.label>Dromedar</Dromedary.label>
-	<Dromedary.description>Angepasst an die trockenen Bedingungen der Savannen kann dieser entfernte Verwandte des Pferdes bis zu eine Woche ohne Wasser auskommen.</Dromedary.description>
-	<Dromedary_Leather.label>Dromedarleder</Dromedary_Leather.label>
-	<Dromedary_Meat.label>Dromedarfleisch</Dromedary_Meat.label>
+	<Dromedary.label>Dromedaris</Dromedary.label>
+	<Dromedary.description>Aangepast aan de droogte van de savanne kan deze verre verwant van het paard wel een week zonder water overleven.</Dromedary.description>
+	<Dromedary_Leather.label>Dromedarisleder</Dromedary_Leather.label>
+	<Dromedary_Meat.label>Dromedarisvlees</Dromedary_Meat.label>
 	
-	<Boomrat.label>Boomratte</Boomrat.label>
-	<Boomrat.description>Entweder als Waffenexperiment gezüchtet, oder von Natur aus mit der außergewöhnlichen Fähigkeit ausgestattet, beim Tod in einem Feuerball zu explodieren.</Boomrat.description>
-	<Boomrat_Leather.label>Boomrattenfell</Boomrat_Leather.label>
-	<Boomrat_Meat.label>Boomrattenfleisch</Boomrat_Meat.label>
+	<Boomrat.label>Boemrat</Boomrat.label>
+	<Boomrat.description>Is ooit als wapenexperiment gebruikt, maar heeft zich nu aangepast aan de natuur. Explodeert als hij sterft.</Boomrat.description>
+	<Boomrat_Leather.label>Boemratleer</Boomrat_Leather.label>
+	<Boomrat_Meat.label>Boemratvlees</Boomrat_Meat.label>
 	
-	<Iguana.label>Leguan</Iguana.label>
-	<Iguana.description>Diese großen Echsen ernähren sich normalerweise von Pflanzen. Wenn man sie verärgert, werden sie durch ihre zähe Haut und scharfen Krallen ziemlich gefährlich.</Iguana.description>
-	<Iguana_Leather.label>Leguanhaut</Iguana_Leather.label>
-	<Iguana_Meat.label>Leguanfleisch</Iguana_Meat.label>
+	<Iguana.label>Leguaan</Iguana.label>
+	<Iguana.description>Dit grote dier voed zich normalerwijs met planten, maar als je hem ergert, zal hij er ook niet voor terugdeinzen jou aan te vallen.</Iguana.description>
+	<Iguana_Leather.label>Leguaanhuid</Iguana_Leather.label>
+	<Iguana_Meat.label>Leguaanvlees</Iguana_Meat.label>
 	
-	<Megascarab.label>Riesen Skarabäus</Megascarab.label>
-	<Megascarab.description>Ein großer, genetisch veränderter Käfer. Ursprünglich waren sie die Arbeiterklasse eines künstlichen Ökosystems von Insektoiden, das zum Kampf gegen die Mechanoiden Invasion entwickelt wurde. Heute findet man sie normalerweise ohne ihre tötlicheren Insektoiden Cousins. Trotzdem sind sie durch ihre Größe, wie auch ihre harte Chitinpanzerung, noch gefährlich genug.</Megascarab.description>
-	<!--<Megascarab_Leather.label>Skarabäenpanzer</Megascarab_Leather.label>-->
-	<Megascarab_Meat.label>Skarabäenfleisch</Megascarab_Meat.label>
+	<Megascarab.label>Reuzenkever</Megascarab.label>
+	<Megascarab.description>Een grote, genetisch gemodificeerde kever. UOoit behoorde hij tot de arbeidsklasse van een ecosysteem, maar hij is nu veranderd, om te strijden. Tegenwoordig vind je ze zonder hun vriendelijke neefjes. Bovendien zijn ze, niet alleen door hun enorme panser, al gevaarlijk genoeg.</Megascarab.description>
+	<!--<Megascarab_Leather.label>Reuzenkeverschild</Megascarab_Leather.label>-->
+	<Megascarab_Meat.label>Kevervlees</Megascarab_Meat.label>
 	
-	<Tortoise.label>Landschildkröte</Tortoise.label>
-	<Tortoise.description>Dieses stark gepanzerte, an Land lebende Reptil ist bekannt für seine langsame Gangart und seinen überraschend heftigen Biß.</Tortoise.description>
-	<Tortoise_Leather.label>Schildkrötenleder</Tortoise_Leather.label>
-	<Tortoise_Meat.label>Schildkrötenfleisch</Tortoise_Meat.label>
+	<Tortoise.label>Schildpad</Tortoise.label>
+	<Tortoise.description>Dit zwaar gepantserde, op het land levende reptiel staat bekend om zijn sloomheid en zijn verrasend sterke beet.</Tortoise.description>
+	<Tortoise_Leather.label>Schildpadleder</Tortoise_Leather.label>
+	<Tortoise_Meat.label>Schildpaddenvlees</Tortoise_Meat.label>
 	
 	<Cobra.label>Cobra</Cobra.label>
-	<Cobra.description>Eine große Schlange. Cobras sind höchst aggressiv, wenn man sie provoziert - Es ist besser man bleibt so weit wie möglich entfernt von ihr.</Cobra.description>
-	<Cobra_Leather.label>Schlangenleder</Cobra_Leather.label>
-	<Cobra_Meat.label>Schlangenfleisch</Cobra_Meat.label>
+	<Cobra.description>Een grote slang. Cobras zijn er aggresiev als je ze provoceert - het is beter als je zo ver van ze weg blijft als je kutns.</Cobra.description>
+	<Cobra_Leather.label>Slangenleer</Cobra_Leather.label>
+	<Cobra_Meat.label>Slangenvlees</Cobra_Meat.label>
 	
-	<Monkey.label>Affe</Monkey.label>
-	<Monkey.description>Dieser Affe kann seinen Schwanz nutzen, um sich von Ast zu Ast zu schwingen. Hierbei bleiben seine Hände für andere Dinge frei.</Monkey.description>
-	<Monkey_Leather.label>Affenfell</Monkey_Leather.label>
-	<Monkey_Meat.label>Affenfleisch</Monkey_Meat.label>
+	<Monkey.label>Aap</Monkey.label>
+	<Monkey.description>Deze aap kan zijn staart gebruiken om zich van boom naar boom te slingeren. Hierbij blijven zijn handen vrij voor andere dingen.</Monkey.description>
+	<Monkey_Leather.label>Apenvel</Monkey_Leather.label>
+	<Monkey_Meat.label>Apenvlees.</Monkey_Meat.label>
 	
 </LanguageData>

@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Imprisoned.label>In Gefangenschaft</Imprisoned.label>
-    <Imprisoned.description>Ich hasse es eingesperrt zu sein.</Imprisoned.description>
+	<Imprisoned.label>In gevangenschap</Imprisoned.label>
+    <Imprisoned.description>Ik haat het opgesloten te zitten.</Imprisoned.description>
 	
-	<SharedBedroom.label>Geteiltes Schlafzimmer</SharedBedroom.label>
-    <SharedBedroom.description>Mit anderen ein Schlafzimmer zu teilen ist nervend. Ich brauche etwas Privatsphäre. </SharedBedroom.description>
+	<SharedBedroom.label>Gedeelde slaapkamer</SharedBedroom.label>
+    <SharedBedroom.description>Het werkt me op mijn zenuwen met anderen een kamer te moeten delen. Ik wil een beetje privacy. </SharedBedroom.description>
 	
-	<ColonistLeftUnburied.label>Kolonist nicht begraben</ColonistLeftUnburied.label>
-    <ColonistLeftUnburied.description>Einer von uns ist gestorben und wir lassen ihn einfach liegen. Niemand sollte einfach so in der Gegend liegen gelassen werden. Menschen verdienen eine anständige Beerdigung.</ColonistLeftUnburied.description>
+	<ColonistLeftUnburied.label>Kolonist onbegraven</ColonistLeftUnburied.label>
+    <ColonistLeftUnburied.description>Iemand van ons is gestorven, maar wordt niet begraven. Niemand zou gewoon zo op de grond moeten worden achtergelaten. Mensen verdienen een fatsoenlijke begrafenis.</ColonistLeftUnburied.description>
 
-	<HappyNude.label>Nakt und glücklich</HappyNude.label>
-	<HappyNude.description>Ich bin nakt und liebe es! Ich fühle mich so frei, uneingeschränkt und eins mit meiner Umgebung!</HappyNude.description>
+	<HappyNude.label>Naakt en gelukkig</HappyNude.label>
+	<HappyNude.description>Ik ben naakt en vind het geweldig! Ik voel me zo vrij, onbegrendsd en een met de natuur!</HappyNude.description>
 	
-	<Naked.label>Nackt</Naked.label>
-    <Naked.description>Ich bin Nackt. Das ist so demütigend.</Naked.description>
+	<Naked.label>Naakt</Naked.label>
+    <Naked.description>Ik ben naakt. Dat is zo ontmoedigend.</Naked.description>
 	
-	<MasochistLittlePain.label>Hat leichte Schmerzen</MasochistLittlePain.label>
-    <MasochistLittlePain.description>Aua... He he he... Ich könnte mich daran gewöhnen!</MasochistLittlePain.description>
+	<MasochistLittlePain.label>Heeft een beetje pijn</MasochistLittlePain.label>
+    <MasochistLittlePain.description>Au! He! Dat doet pijn!</MasochistLittlePain.description>
 	
-	<MasochistMediumPain.label>Hat stärkere Schmerzen</MasochistMediumPain.label>
-    <MasochistMediumPain.description>Ughhh... Das schmerzt, aber ich liebe es! Mehr, gebt mir mehr!</MasochistMediumPain.description>
+	<MasochistMediumPain.label>Heeft pijn</MasochistMediumPain.label>
+    <MasochistMediumPain.description>Ughhh... Dat doet pijn, maar ik vind het heerlijk! Meer, geef me meer!</MasochistMediumPain.description>
 	
-	<MasochistSeverePain.label>Empfindet starke Schmerzen</MasochistSeverePain.label>
-    <MasochistSeverePain.description>Autsch... Ich denke da ist etwas gebrochen... Aber was für ein wunderbares Gefühl!</MasochistSeverePain.description>
+	<MasochistSeverePain.label>Heeft veel pijn</MasochistSeverePain.label>
+    <MasochistSeverePain.description>Autsj... Ik denk dat ik iets heb gebroken... Maar wat een heerlijk gevoel!</MasochistSeverePain.description>
 	
-	<MasochistInShock.label>Ohnmächtig durch Schmerz</MasochistInShock.label>
-    <MasochistInShock.description>Aaaaaaaah... Bin ich im Himmel?</MasochistInShock.description>
+	<MasochistInShock.label>Krachtloos door pijn</MasochistInShock.label>
+    <MasochistInShock.description>Aaaaaaaah... Ben ik in de hemel?</MasochistInShock.description>
 	
-	<ProsthophileHappy.label>Hat bionisches Körperteil</ProsthophileHappy.label>
-    <ProsthophileHappy.description>Ich bin ein Produkt moderner Technologie! Ich kann jetzt alles besser!</ProsthophileHappy.description>
+	<ProsthophileHappy.label>Heeft een bionisch lichaamsdeel</ProsthophileHappy.label>
+    <ProsthophileHappy.description>Ik ben een product van de moderne technologie! Ik kan nu alles beter!</ProsthophileHappy.description>
 	
-	<ProsthophobeUnhappy.label>Hat bionisches Körperteil</ProsthophobeUnhappy.label>
-    <ProsthophobeUnhappy.description>Schau mich an, sie haben mich in ein technologisches Monster verwandelt! Wenn sie mir doch nur eine Wahl gelassen hätten...</ProsthophobeUnhappy.description>
+	<ProsthophobeUnhappy.label>Heeft een bionisch lichaamsdeel</ProsthophobeUnhappy.label>
+    <ProsthophobeUnhappy.description>Zie mijn nou, ze hebben me in een mechanisch monster verandert! Hadden ze me maar nu gewoon een keuze gegeven...</ProsthophobeUnhappy.description>
 	
-	<MartialArtistUnhappy.label>Trägt Waffe</MartialArtistUnhappy.label>
-    <MartialArtistUnhappy.description>Argh.. Ich hasse Waffen! Muss ich wirklich dieses DING benutzen?</MartialArtistUnhappy.description>
+  <BrawlerUnhappy.label>Vechtjas heeft een wapen</BrawlerUnhappy.label>
+  <BrawlerUnhappy.description>Gah, ik haat wapens. Ik wil gewoon naar ze toegaan en ze in het gezicht slaan!</BrawlerUnhappy.description>
 
 	
 </LanguageData>

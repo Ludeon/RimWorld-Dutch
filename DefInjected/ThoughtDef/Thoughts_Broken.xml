@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CurrentlyBrokenPsychotic.label>Muss töten!</CurrentlyBrokenPsychotic.label>
-	<CurrentlyBrokenPsychotic.description>Muss töten! ... Muss töten! ... Muss töten!</CurrentlyBrokenPsychotic.description>
+	<CurrentlyBrokenPsychotic.label>Moet doden!</CurrentlyBrokenPsychotic.label>
+	<CurrentlyBrokenPsychotic.description>Moet doden! ... Moet doden! ... Moet doden!</CurrentlyBrokenPsychotic.description>
 
-	<CurrentlyBrokenSad.label>Zusammenbruch</CurrentlyBrokenSad.label>
-	<CurrentlyBrokenSad.description>Das ist einfach alles zu viel für mich.</CurrentlyBrokenSad.description>
+	<CurrentlyBrokenSad.label>Ineengestort</CurrentlyBrokenSad.label>
+	<CurrentlyBrokenSad.description>Het is me allemaal te veel :'(.</CurrentlyBrokenSad.description>
 
-	<CurrentlyBrokenPanicFlee.label>Panik</CurrentlyBrokenPanicFlee.label>
-	<CurrentlyBrokenPanicFlee.description>Ich muss hier raus!</CurrentlyBrokenPanicFlee.description>
+	<CurrentlyBrokenPanicFlee.label>Paniek</CurrentlyBrokenPanicFlee.label>
+	<CurrentlyBrokenPanicFlee.description>Ik moet hier weg!</CurrentlyBrokenPanicFlee.description>
 
 </LanguageData>

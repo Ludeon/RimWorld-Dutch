@@ -1,67 +1,67 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Hungry.label>Hungrig</Hungry.label>
-    <Hungry.description>Ich hab seit einiger Zeit nichts gegessen.</Hungry.description>
+	<Hungry.label>Hongerig</Hungry.label>
+    <Hungry.description>Ik heb al een tijdje niets gegeten.</Hungry.description>
 	
-	<UrgentlyHungry.label>Sehr Hungrig</UrgentlyHungry.label>
-    <UrgentlyHungry.description>Die Heißhungerattacken quälen meinen Körper. Ich brauche dringend etwas zu Essen oder ich verhungere.</UrgentlyHungry.description>
+	<UrgentlyHungry.label>Zeer hongerig</UrgentlyHungry.label>
+    <UrgentlyHungry.description>Hongeraanvallen teisteren mijn licaahm. Ik moet snel wat eten, anders verhonger ik!.</UrgentlyHungry.description>
 	
-	<Starving.label>Verhungere</Starving.label>
-    <Starving.description>Ich will einfach nur irgendetwas zu essen - egal was. Ich fühle schon wie meinen Körper stirbt. Es tut so weh...</Starving.description>
-	
-	
-	<Tired.label>Müde</Tired.label>
-    <Tired.description>Ich habe seit einiger Zeit nicht geschlafen.</Tired.description>
-	
-	<VeryTired.label>Sehr Müde</VeryTired.label>
-    <VeryTired.description>Ich bin so müde. Ich will mich nur noch hinlegen und für ein paar Minuten Pause machen...</VeryTired.description>
-	
-	<Exhausted.label>Erschöpft</Exhausted.label>
-    <Exhausted.description>Ich bin so erschöpft, ich kann kaum stehen. Meine Augen sind schwer wie Blei. Bitte, lass mich schlafen...</Exhausted.description>
+	<Starving.label>Verhongerend</Starving.label>
+    <Starving.description>Ik wil nu wat eten, het maakt me niet uit wat. Ik voel gewoon hoe mijn lichaam strijdt. Het doet zo'n pijn...</Starving.description>
 	
 	
-	<EnvironmentUgly.label>Hässliche Umgebung</EnvironmentUgly.label>
-    <EnvironmentUgly.description>Es ist unangenehm an diesem Ort zu sein.</EnvironmentUgly.description>
+	<Tired.label>Moe</Tired.label>
+    <Tired.description>Ik heb al een tijdje niet geslapen.</Tired.description>
 	
-	<EnvironmentVeryUgly.label>Sehr hässliche Umgebung</EnvironmentVeryUgly.label>
-    <EnvironmentVeryUgly.description>Dieser Ort ist sehr unangenehm. Ich will nicht hier sein.</EnvironmentVeryUgly.description>
+	<VeryTired.label>Zeer moe</VeryTired.label>
+    <VeryTired.description>Ik ben zo moe. Ik wil gaan liggen, en gewoon een paar minuutjes pauze houden...</VeryTired.description>
 	
-	<EnvironmentHideous.label>Abscheuliche Umgebung</EnvironmentHideous.label>
-    <EnvironmentHideous.description>Dieser Ort ist unerträglich. Ich will hier raus...</EnvironmentHideous.description>
-	
-	
-	<EnvironmentPretty.label>Angenehme Umgebung</EnvironmentPretty.label>
-    <EnvironmentPretty.description>Dieser Ort ist schön.</EnvironmentPretty.description>
-	
-	<EnvironmentVeryPretty.label>Sehr angenehme Umgebung</EnvironmentVeryPretty.label>
-    <EnvironmentVeryPretty.description>Ich mag diesen Ort sehr. Hier ist es sehr schön.</EnvironmentVeryPretty.description>
-	
-	<EnvironmentBeautiful.label>Hübsche Umgebung</EnvironmentBeautiful.label>
-    <EnvironmentBeautiful.description>Hier ist es wirklich sehr hübsch. An diesem Ort fühle ich mich richtig lebendig.</EnvironmentBeautiful.description>
+	<Exhausted.label>Uitgeput</Exhausted.label>
+    <Exhausted.description>Ik ben zo uitgeput, ik kan het nauwelijks verdragen. Mijn ogen zijn zo zwaar als lood. Alsjeblieft, laat me slapen...</Exhausted.description>
 	
 	
-	<EnvironmentCramped.label>Beengte Umgebung</EnvironmentCramped.label>
-    <EnvironmentCramped.description>Dieser Ort ist wirklich eng. Ich fühle mich, als ob ich keine Luft mehr bekomme.</EnvironmentCramped.description>
+	<EnvironmentUgly.label>Lelijke omgeving</EnvironmentUgly.label>
+    <EnvironmentUgly.description>Het is niet fijn om hier te zijn.</EnvironmentUgly.description>
 	
-	<EnvironmentVeryCramped.label>Sehr beengte Umgebung</EnvironmentVeryCramped.label>
-    <EnvironmentVeryCramped.description>Hier bekommt man klaustrophobische Zustände. Ich kann mich nicht bewegen und fühle mich wie eine Ratte im Käfig.</EnvironmentVeryCramped.description>
+	<EnvironmentVeryUgly.label>Zeer lelijke omgeving</EnvironmentVeryUgly.label>
+    <EnvironmentVeryUgly.description>Deze plaats is echt lelijk. Ik wil hier niet zijn.</EnvironmentVeryUgly.description>
 	
-	<EnvironmentSpaciousInterior.label>Geräumiges Interieur</EnvironmentSpaciousInterior.label>
-    <EnvironmentSpaciousInterior.description>Dieser Ort ist schön groß und bietet viel Platz.</EnvironmentSpaciousInterior.description>
+	<EnvironmentHideous.label>Afzichtelijke omgeving</EnvironmentHideous.label>
+    <EnvironmentHideous.description>Deze plaats is verschrikkelijk. Ik wil hier weg...</EnvironmentHideous.description>
 	
 	
-	<EnvironmentDark.label>In Dunkelheit</EnvironmentDark.label>
-    <EnvironmentDark.description>Ich war jetzt schon seit einiger Zeit im Dunkeln. Das mag ich nicht.</EnvironmentDark.description>
+	<EnvironmentPretty.label>Aangename omgeving</EnvironmentPretty.label>
+    <EnvironmentPretty.description>Hier is het mooi.</EnvironmentPretty.description>
 	
-	<CabinFeverMild.label>Lagerkoller (leicht)</CabinFeverMild.label>
-    <CabinFeverMild.description>Ich war jetzt schon seit Tagen nicht mehr draußen. Langsam muss ich mal wieder an die frische Luft.</CabinFeverMild.description>
+	<EnvironmentVeryPretty.label>Zeer aangename omgeving</EnvironmentVeryPretty.label>
+    <EnvironmentVeryPretty.description>Ik vind het hier erg.</EnvironmentVeryPretty.description>
 	
-	<CabinFeverSerious.label>Lagerkoller (schwer)</CabinFeverSerious.label>
-    <CabinFeverSerious.description>Ich bin hier wie eine Ratte eingesperrt. Ich muss unbedingt raus und an die frische Luft, oder ich drehe noch durch!</CabinFeverSerious.description>
+	<EnvironmentBeautiful.label>Prachtige omgeving</EnvironmentBeautiful.label>
+    <EnvironmentBeautiful.description>Hier is het werkelijk prachtig! Hier voel ik echt dat ik leef.</EnvironmentBeautiful.description>
 	
-	<Sick.label>Krank</Sick.label>
-    <Sick.description>Ich fühle mich nicht gut, ich bin krank..</Sick.description>
+	
+	<EnvironmentCramped.label>Benauwde omgeving</EnvironmentCramped.label>
+    <EnvironmentCramped.description>Hier is het eng. Het lijkt wel alsof ik geen lucht binnen kan krijgen.</EnvironmentCramped.description>
+	
+	<EnvironmentVeryCramped.label>Zeer benauwde omgeving</EnvironmentVeryCramped.label>
+    <EnvironmentVeryCramped.description>Hier krijg ik haast claustrofobie van. Ik kan me niet bewegen, en voel me net een rat in een kooi.</EnvironmentVeryCramped.description>
+	
+	<EnvironmentSpaciousInterior.label>Ruim interieur</EnvironmentSpaciousInterior.label>
+    <EnvironmentSpaciousInterior.description>Dit interieur is mooi en bied veel plaats.</EnvironmentSpaciousInterior.description>
+	
+	
+	<EnvironmentDark.label>In het donker</EnvironmentDark.label>
+    <EnvironmentDark.description>Ik ben nu al wel een tijdje in het donker. Daar houd ik niet van.</EnvironmentDark.description>
+	
+	<CabinFeverMild.label>Claustrofobie (licht)</CabinFeverMild.label>
+    <CabinFeverMild.description>Ik ben nu al een paar dagen niet meer buiten geweest. Langzaamaan wil ik toch weer wat frisse lucht.</CabinFeverMild.description>
+	
+	<CabinFeverSerious.label>Claustrofobie (zwaar)</CabinFeverSerious.label>
+    <CabinFeverSerious.description>Ik ben hier als een rat opgesloten. Ik wil er zonder meer uit voor frisse lucht, anders zeur ik nog gewoon door!</CabinFeverSerious.description>
+	
+	<Sick.label>Ziek</Sick.label>
+    <Sick.description>Ik voel me niet goed, ik ben ziek.</Sick.description>
 	
 
 	

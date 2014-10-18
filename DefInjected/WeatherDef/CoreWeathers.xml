@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Clear.label>Klar</Clear.label>
-	<Clear.description>Ein klarer Tag, keine Strafen oder Modifikatoren.</Clear.description>
+	<Clear.label>Helder</Clear.label>
+	<Clear.description>Een helder weer, geen wolken of regen.</Clear.description>
 	
-	<Fog.label>Nebel</Fog.label>
-	<Fog.description>Nebel reduziert die Treffsicherheit von Waffen.</Fog.description>
+	<Fog.label>Mist</Fog.label>
+	<Fog.description>Mist reduceert de trefzekerheid van wapens.</Fog.description>
 	
 	<Rain.label>Regen</Rain.label>
-	<Rain.description>Regen reduziert die Treffsicherheit von Waffen, löscht Feuer und reduziert die Laufgeschwindigkeit.</Rain.description>
+	<Rain.description>Regen reduziert die trefzekerheid van wapens, stopt vuur en vertraagt je kolonisten.</Rain.description>
 	
-	<DryThunderstorm.label>Trockenes Gewitter</DryThunderstorm.label>
-	<DryThunderstorm.description>Trockene Gewitter sind gefährlich, weil die Blitze Feuer entfachen können, es aber keinen Regen gibt, der sie auch wieder löscht.</DryThunderstorm.description>
+	<DryThunderstorm.label>Droog onweer</DryThunderstorm.label>
+	<DryThunderstorm.description>Droog onweer is gevaarlijk, omdat de bliksem vuur kan aansteken, dat zich kan verspreiden omdat het niet wordt geblust door regen.</DryThunderstorm.description>
 	
-	<RainyThunderstorm.label>Regnerisches Gewitter</RainyThunderstorm.label>
-	<RainyThunderstorm.description>Die Blitze entfachen Feuer, aber der Regen löscht sie auch wieder. Außerdem reduziert der Regen die Laufgeschwindigkeit und Treffsicherheit.</RainyThunderstorm.description>
+	<RainyThunderstorm.label>Regenachtig onweer</RainyThunderstorm.label>
+	<RainyThunderstorm.description>De bliksem maakt vuur, maar de regen blust het weer. Ook reduceert de regen de loopsnelheid en de trefzekerheid van wapens.</RainyThunderstorm.description>
 	
-	<FoggyRain.label>Nebliger Regen</FoggyRain.label>
-	<FoggyRain.description>Reduziert Treffsicherheit und Laufgeschwindigkeit.</FoggyRain.description>
+	<FoggyRain.label>Mistige regen</FoggyRain.label>
+	<FoggyRain.description>Reduceert de loopsnelheid en trefzekerheid.</FoggyRain.description>
 
-	<SnowHard.label>Starker Schneefall</SnowHard.label>
-	<SnowHard.description>Schnee reduziert die Genauigkeit von Fernwaffen, löscht Feuer und verlangsamt Leute.</SnowHard.description>
+	<SnowHard.label>Sterke sneeuwval</SnowHard.label>
+	<SnowHard.description>De sneeuw reduceert nauwkeurigheid van wapens, blust vuur en vertraagt mensen.</SnowHard.description>
 	
-	<SnowGentle.label>Leichter Schneefall</SnowGentle.label>
-	<SnowGentle.description>Schnee reduziert die Genauigkeit von Fernwaffen, löscht Feuer und verlangsamt Leute.</SnowGentle.description>
+	<SnowGentle.label>Lichte sneeuwval</SnowGentle.label>
+	<SnowGentle.description>De sneeuw reduceert nauwkeurigheid van wapens, blust vuur en vertraagt mensen.</SnowGentle.description>
 	
 </LanguageData>

@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
   <!-- Psychic drone -->
-	<PsychicDroneLow.label>Psychiches Brummen (leicht)</PsychicDroneLow.label>
-    <PsychicDroneLow.description>Es ist wie ein leichtes Flüstern. Eine Stimme, die mir etwas zuflüstert. Ich kann nur ein paar Worte verstehen, aber sie gefallen mir nicht.</PsychicDroneLow.description>
+	<PsychicDroneLow.label>Psychisch gedreun (licht)</PsychicDroneLow.label>
+    <PsychicDroneLow.description>Het is als een licht gezoem. Een stem, die me wat influistert. Ik kan maar een paar woorden verstaan, maar het bevalt me niet.</PsychicDroneLow.description>
 
-	<PsychicDroneMedium.label>Psychiches Brummen (mittel)</PsychicDroneMedium.label>
-    <PsychicDroneMedium.description>Ich fühle mich, als ob da jemand ist. Gerade so außer Sichtweite. Die Stimme ändert sich, aber nicht, was sie sagt. Ich soll den anderen Schmerzen zufügen. Mach, dass es aufhört!</PsychicDroneMedium.description>
+	<PsychicDroneMedium.label>Psychisch gedreun (middel)</PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Het voelt, alsof er iemand is. Gewoon, maar dan uit het zicht. De stem verandert, maar niet wat hij zegt. Ik zal pijn krijgen. Zorg dat het stopt!</PsychicDroneMedium.description>
 	
-	<PsychicDroneHigh.label>Psychiches Brummen (stark)</PsychicDroneHigh.label>
-    <PsychicDroneHigh.description>Die Stimme ist unerträglich laut. Es ist so hart sich zu konzentrieren. Ich merke, wie ich antworte, ihr zuschreie sie soll aufhören. Sie reagiert nicht und schreit einfach weiter auf mich ein.</PsychicDroneHigh.description>
+	<PsychicDroneHigh.label>Psychisch gedreun (sterk)</PsychicDroneHigh.label>
+    <PsychicDroneHigh.description>De stem is ondraaglijk luid. Het is zo moeilijk je te concentreren. Ik merk, dat als ik antwoord, dat de stem even stopt. Hij reageert even niet, maar schreeuwt daarna eenvoudig verder.</PsychicDroneHigh.description>
 	
-	<PsychicDroneExtreme.label>Psychiches Brummen (extrem)</PsychicDroneExtreme.label>
-    <PsychicDroneExtreme.description>Mein Herz klopft und ich schwitze. Ich kann nur noch an all den Schmerz, das Leid und all die Feinde um mich herum denken. Sie sind mein Alptraum, mein Alptraum, mein Alptraum,...</PsychicDroneExtreme.description>
+	<PsychicDroneExtreme.label>Psychisch gedreun (extreem)</PsychicDroneExtreme.label>
+    <PsychicDroneExtreme.description>Mijn hoofd klopt en ik zwicht. Ik kan me nu alleen nog alle pijn, alle leed en vijandschap herrineren. Dit is een nachtmerrie, dit is een nachtmerrie, dit is een nachtmerrie,...</PsychicDroneExtreme.description>
 	
 	
 	

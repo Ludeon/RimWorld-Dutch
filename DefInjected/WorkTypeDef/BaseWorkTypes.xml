@@ -1,30 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Research.pawnLabel>Forscher</Research.pawnLabel>
-	<Research.gerundLabel>Forschen</Research.gerundLabel>
-	<Research.verb>Forscht bei</Research.verb>
-	<Research.tooltipDesc>Forscher erforschen Dinge.</Research.tooltipDesc>
+	<Research.pawnLabel>onderzoeken</Research.pawnLabel>
+	<Research.gerundLabel>onderzoeker</Research.gerundLabel>
+	<Research.verb>onderzoek naar</Research.verb>
+	<Research.tooltipDesc>onderzoekers onderzoeken dingen.</Research.tooltipDesc>
 	
-	<Cleaning.pawnLabel>Reiniger</Cleaning.pawnLabel>
-	<Cleaning.gerundLabel>Reinigen</Cleaning.gerundLabel>
-	<Cleaning.verb>Reinigt</Cleaning.verb>
-	<Cleaning.tooltipDesc>Reiniger entfernen Müll, putzen den Boden und machen das Leben in der Kolonie lebenswerter.</Cleaning.tooltipDesc>
+	<Cleaning.pawnLabel>Schoonmaker</Cleaning.pawnLabel>
+	<Cleaning.gerundLabel>Schoonmaken</Cleaning.gerundLabel>
+	<Cleaning.verb>Maakt schoon</Cleaning.verb>
+	<Cleaning.tooltipDesc>Schoonmakers maken vuil schoon, en verhogen hiermee de levensstandaard van de kolonisten.</Cleaning.tooltipDesc>
 	
-	<Hauling.pawnLabel>Träger</Hauling.pawnLabel>
-	<Hauling.gerundLabel>Tragen</Hauling.gerundLabel>
-	<Hauling.verb>Trägt</Hauling.verb>
-	<Hauling.tooltipDesc>Träger tragen Dinge dorthin, wo sie hingehören.</Hauling.tooltipDesc>
+	<Hauling.pawnLabel>drager</Hauling.pawnLabel>
+	<Hauling.gerundLabel>dragen</Hauling.gerundLabel>
+	<Hauling.verb>draagt</Hauling.verb>
+	<Hauling.tooltipDesc>dragers dragen dingen naar waar ze horen.</Hauling.tooltipDesc>
 	
-    <Art.pawnLabel>Künstler</Art.pawnLabel>
-    <Art.gerundLabel>Kreativ sein</Art.gerundLabel>
-    <Art.verb>Ist kreativ</Art.verb>
-    <Art.tooltipDesc>Künstler erzeugen wunderbare Kunstgegenstände.</Art.tooltipDesc>
+    <Art.pawnLabel>kunstenaar</Art.pawnLabel>
+    <Art.gerundLabel>creatief zijn</Art.gerundLabel>
+    <Art.verb>is creatief</Art.verb>
+    <Art.tooltipDesc>Kunstenaars maken wonderbaarlijke kunstwerken.</Art.tooltipDesc>
 	
 	<Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
-	<Crafting.gerundLabel>Fertigen</Crafting.gerundLabel>
-	<Crafting.verb>Fertigt</Crafting.verb>
-	<Crafting.tooltipDesc>Handwerker stellen Dinge aus rohen Materialien her.</Crafting.tooltipDesc>
+	<Crafting.gerundLabel>maken</Crafting.gerundLabel>
+	<Crafting.verb>maakt</Crafting.verb>
+	<Crafting.tooltipDesc>Handwerkers maken dingen van materialen.</Crafting.tooltipDesc>
 	
 	<PlantCutting.pawnLabel>Pflanzenschneider</PlantCutting.pawnLabel>
 	<PlantCutting.gerundLabel>Pfl. schneiden</PlantCutting.gerundLabel>

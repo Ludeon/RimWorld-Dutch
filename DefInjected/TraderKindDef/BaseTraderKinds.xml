@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-	<FarmingVessel.label>Nahrungsmittelhändler</FarmingVessel.label>
-	<IndustrialTrader.label>Industriewarenhändler</IndustrialTrader.label>
-	<CombatSupplier.label>Waffenhändler</CombatSupplier.label>
-	<SlaveTrader.label>Sklavenhändler</SlaveTrader.label>
-	<ExoticTrader.label>Händler exotischer Güter</ExoticTrader.label>
+	<FarmingVessel.label>Voedingsmiddelhandelaar</FarmingVessel.label>
+	<IndustrialTrader.label>Industriële handelaar</IndustrialTrader.label>
+	<CombatSupplier.label>Wapenhandelaar</CombatSupplier.label>
+	<SlaveTrader.label>Slavenhandelaar</SlaveTrader.label>
+	<ExoticTrader.label>Exotische waren handelaar</ExoticTrader.label>
   
 </LanguageData>

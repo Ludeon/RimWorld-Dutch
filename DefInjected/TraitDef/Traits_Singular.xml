@@ -7,25 +7,25 @@
   </rep>
   <rep>
     <path>Nudist.degreeDatas[0].description</path>
-    <trans>NAME genießt das Gefühl der Freiheit, das er hat, wenn er unbekleidet ist. HECAP kann Kleidung tragen, aber ohne ist HE glücklicher.</trans>
+    <trans>NAME houdt van het gevoel van vrijheid, dat HE heeft als HE naakt is. HECAP kan kleding dragen, maar zal zonder gelukkiger zijn.</trans>
   </rep>
   
   <rep>
     <path>Bloodlust.degreeDatas[0].label</path>
-    <trans>Blutrünstig</trans>
+    <trans>Bloedlustig</trans>
   </rep>
   <rep>
     <path>Bloodlust.degreeDatas[0].description</path>
-    <trans>NAME bekommt einen Kick, wenn HE jemanden verletzt. Außerdem stört HE sich nicht am Anblick von Blut und Tot.</trans>
+    <trans>NAME krijgt een kick, als HE iemand verwondt. Bovendien stoort HE zich niet aan de aanblik van bloed en dood.</trans>
   </rep>
   
   <rep>
     <path>Psychopath.degreeDatas[0].label</path>
-    <trans>Psychopath</trans>
+    <trans>Psychopaat</trans>
   </rep>
   <rep>
     <path>Psychopath.degreeDatas[0].description</path>
-    <trans>NAME kann nichts für andere Empfinden. HECAP stört sich nicht im geringsten am Leiden anderer. HECAP findet auch nichts dabei, wenn andere geschlachtet werden, unbegraben in der Gegend herum liegen, gefangen sind oder in die Sklaverei verkauft werden - Außer HE ist betroffen. HECAP erhält auch keinerlei Stimmungsboost von Gesprächen mit anderen.</trans>
+    <trans>NAME heeft geen empathisch vermogen. HECAP stoort zich ook niet aan het lijden van anderen. het maakt HECAP ook niets uit of een mens geslacht wordt, verkocht wordt als slaaf of als er iemand dood op de grond licht - Maar HE wordt beinvloed. HECAP krijgt ook bijna geen stemmingsboost van gesprekken met anderen.</trans>
   </rep>
 	
   <rep>
@@ -43,34 +43,34 @@
   </rep>
   <rep>
     <path>Abrasive.degreeDatas[0].description</path>
-    <trans>NAME sagt immer genau das, was HE denkt, besonders dann, wenn HE selbst davon betroffen ist. HISCAPe Art tendiert allerdings dazu die Leute ständig zu verärgern.</trans>
+    <trans>NAME zegt altijd wat HE denkt, vooral wanneer HE het vervelend vindt. Dat ergert anderen meestal.</trans>
   </rep>
 	
   <rep>
     <path>TriggerHappy.degreeDatas[0].label</path>
-    <trans>Schiesswütig</trans>
+    <trans>Schietgraag</trans>
   </rep>
   <rep>
     <path>TriggerHappy.degreeDatas[0].description</path>
-    <trans>Peng! Peng! Peng! NAME ist ein entsetzlicher Schütze, aber das fällt HIM nicht auf, weil.. Waffen sind einfach fantastisch!</trans>
+    <trans>Bam! Bam! Bam! NAME is een makkelijke schieter, maar dat valt HIM wel mee, omdat.. wapens fantastisch zijn!</trans>
   </rep>
 	
   <rep>
     <path>CarefulShooter.degreeDatas[0].label</path>
-    <trans>Sorgfältiger Schütze</trans>
+    <trans>Voorzichtige schieter</trans>
   </rep>
   <rep>
     <path>CarefulShooter.degreeDatas[0].description</path>
-    <trans>NAME ist ein recht guter Schütze, aber HE braucht länger um HIS Ziel anzuvisieren.</trans>
+    <trans>NAME is een goede schutter, maar HE doet er iets langer over om te richten.</trans>
   </rep>
 	
   <rep>
     <path>TooSmart.degreeDatas[0].label</path>
-    <trans>Zu Klug</trans>
+    <trans>Te slim</trans>
   </rep>
   <rep>
     <path>TooSmart.degreeDatas[0].description</path>
-    <trans>NAME ist zu intelligent für andere. HECAP lernt wesentlich schneller als andere, kann aber auch ziemlich egozentrisch sein.</trans>
+    <trans>NAME is te slim voor anderen. HECAP lernt wesentlich schneller als andere, kann aber auch ziemlich egozentrisch sein.</trans>
   </rep>
 	
   <rep>

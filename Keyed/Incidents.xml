@@ -1,72 +1,72 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <AnimalInsanitySingle>Ein/e {0} ist verrückt geworden. Es wird jeden angreifen, den es sieht.</AnimalInsanitySingle>
-  <AnimalInsanityMultiple>Eine Art psychischer Welle rauscht über die Landschaft. Die Kolonisten sind okay, aber...\n\nEs scheint so, als ob ein paar {0}s durchdrehen.</AnimalInsanityMultiple>
+  <AnimalInsanitySingle>Een {0} is gek geworden. Het valt iedereen aan, die hij ziet.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Een psychische golf rolt over het landschap. De kolonisten mankeert niets, maar....\n\nHet schijnt, dat een paar {0}s door zijn gedraaid.</AnimalInsanityMultiple>
 
-  <CropBlight>Eine mysteriöse Fäule hat deine Pflanzen zerstört.</CropBlight>
+  <CropBlight>Een misterieuze plaag heeft je gewassen vernietigd.</CropBlight>
 
-  <EclipseIncident>Einer der Monde des Planeten verdeckt die Sonne. Eine Sonnenfinsternis hat begonnen.</EclipseIncident>
+  <EclipseIncident>Een van de manen van de planeet schuift voor de zon. Een zonsverduistering is begonnen.</EclipseIncident>
 
-  <MiracleHeal>{0} wurde auf wundersame Weise geheilt!</MiracleHeal>
+  <MiracleHeal>{0} is op wonderbaarlijke wijze hersteld!</MiracleHeal>
 
   
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Eine Gruppe {0} der {1} sind in der Nähe.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Eine Gruppe {0} der {1} sind aus dem Orbit gelandet.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Eine Gruppe {0} der {1} sind aus dem Orbit direkt in deiner Kolonie gelandet!.</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>Sie werden sich vor dem Angriff noch vorbereiten.\n\nBereite die Verteidigung vor oder attackiere sie mit einem Präventivschlag.</EnemyRaidStageThenAttack>
-  <EnemyRaidImmediateAttack>Sie greifen direkt an.</EnemyRaidImmediateAttack>
-  <EnemyRaidBesiege>Es sieht so aus, als ob sie die Kolonie belagern wollen.</EnemyRaidBesiege>
+  <EnemyRaidWalkIn>Een groep {0} van {1} zijn in de buurt.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Een groep {0} van {1} zijn vanuit hun orbitale baan geland.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Een groep {0} van {1} zijn vanuit hun orbitale baan direct op de kolonie geland!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>Zij zullen zich voor hun aanval voorbereiden.\n\nBereidt de verdediging voor, of val ze zelf aan.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Ze vallen direct aan.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Het ziet er naar uit dat ze de kolonie willen belegeren.</EnemyRaidBesiege>
 
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Eine Gruppe freundlicher {0} der {1} sind in der Nähe.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Eine Gruppe freundlicher {0} der {1} sind aus dem Orbit gelandet.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Eine Gruppe freundlicher {0} der {1} sind aus dem Orbit direkt in deiner Kolonie gelandet!</FriendlyRaidCenterDrop>
-  <FriendlyRaidStageThenAttack>Sie müssen sich eine Weile vorbereiten, bevor sie dir helfen können.</FriendlyRaidStageThenAttack>
-  <FriendlyRaidImmediateAttack>Sie eilen sofort zu deiner Hilfe.</FriendlyRaidImmediateAttack>
-  <FriendlyRaidBesiege>Es sieht so aus, als ob sie dir mit Belagerungstaktiken helfen wollen.</FriendlyRaidBesiege>
+  <FriendlyRaidWalkIn>Een groep vriendelijke {0} van {1} zijn in de buurt.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Een groep vriendelijke {0} van {1} zijn vanuit hun orbitale baan geland.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Een groep vriendelijke {0} van {1} zijn vanuit hun orbitale baan direct op de kolonie geland!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>Ze moeten zich even voorbereiden, voordat ze je kunnen helpen.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>Ze kunnen je direct helpen.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Het ziet er naar uit, dat ze met belegeringsvoorwerpen willen helpen.</FriendlyRaidBesiege>
 
- <RefugeePodCrash>Du hast den Absturz einer Rettungskapsel registriert.\n\nWenn jemand den Aufschlag überlebt hat, ist er vermutlich schwer verletzt.</RefugeePodCrash>
+ <RefugeePodCrash>Je hebt een neerstortende noodcapsule gehoord.\n\nAls iemand de inslag heeft overleeft, zal hij/zij zwaar gewond zijn.</RefugeePodCrash>
 
-  <CargoPodCrash>Du hast den Absturz einer Vorratskapsel registriert.\n\nVielleicht findest du etwas brauchbares im Wrack.</CargoPodCrash>
+  <CargoPodCrash>Je hebt een neerstortende vooraadcapsule gehoord.\n\nMisschien vind je wat nuttigs in het wrak.</CargoPodCrash>
 
-  <AnElectricalConduit>einer elektrischen Leitung</AnElectricalConduit>
-  <AWallsPowerConduit>einer Wandleitung</AWallsPowerConduit>
-  <ShortCircuit>Ein Fehler in {0} hat zu einem Kurzschluss geführt.\n\n{1} Wd Energie in angeschlossenen Batterien wurde in einer Explosion entladen.</ShortCircuit>
-  <ShortCircuitWasLarge>Diese große Energiemenge hat eine entsprechend große Explosion verursacht.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge>Die Explosion war wirklich riesig. Wow.</ShortCircuitWasHuge>
+  <AnElectricalConduit>een stroomdraad</AnElectricalConduit>
+  <AWallsPowerConduit>een wandstroomdraad</AWallsPowerConduit>
+  <ShortCircuit>Een fout in {0} heeft kortsluiting veroorzaakt.\n\nDe {1} watt aan energie opgeslagen in de verbonden batterijen is verloren gegaan.</ShortCircuit>
+  <ShortCircuitWasLarge>Deze kortsluiting heeft een grote explosie veroorzaakt.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>De explosie van deze kortsluiting was enorm. Wow.</ShortCircuitWasHuge>
 
-   <LetterSolarFlare>Eine Sonneneruption hat begonnen.\n\nDie starke Strahlung macht alle elektrischen Geräte unbrauchbar.\n\nEs sollte in etwa einem Tag wieder vorbei sein.</LetterSolarFlare>
+   <LetterSolarFlare>Een zonnestorm is begonnen.\n\nDDe sterke straling maakt alle electrische apparaten onbruikbaar.\n\nHet zal over een paar dagen over zijn.</LetterSolarFlare>
 
-  <TraderArrival>Ein Handelsschiff befindet sich in der Nähe.\n\nEs heißt {0} und ist {1}.</TraderArrival>
+  <TraderArrival>Een handelsschip is in de buurt.\n\nHet heet {0} en is {1}.</TraderArrival>
 
-   <SingleTravelerPassing>Ein {0} der {1} befindet sich auf der Durchreise. HECAP heißt {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>Eine Gruppe Reisender der {0} befindet sich auf der Durchreise.</GroupTravelersPassing>
+   <SingleTravelerPassing>Een {0} van {1} is op doorreis. HECAP heet {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Een groep van {0} is op doorreis.</GroupTravelersPassing>
 
-  <SingleVisitorArrives>Ein {0} der {1} besucht die Kolonie.\n\nHECAP heißt {2}.</SingleVisitorArrives>
-  <GroupVisitorsArrive>Eine Gruppe der {0} besucht die Kolonie.</GroupVisitorsArrive>
-  <VisitorsLeaving>Die Besucher der {0} verlassen die Kolonie.</VisitorsLeaving>
+  <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\nHECAP heet {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>>Een groep van {0} bezoekt de kolonie.</GroupVisitorsArrive>
+  <VisitorsLeaving>De bezoekers van {0} verlaten de kolonie.</VisitorsLeaving>
 
-  <WandererJoin>Ein {0} namens NAME ist angekommen und tritt der Kolonie bei. HECAP ist ein {1}.</WandererJoin>
+  <WandererJoin>Een {0} die NAME heet is aangekomen en treedt bij de kolonie. HECAP is een {1}.</WandererJoin>
   
     <!-- Crashed ship part-->
-  <SpaceshipPartCrash>Ein großes Stück eines uralten Raumschiffes ist in der Nähe eingeschlagen.\n\nDeine Kolonisten spüren instinktiv, wie es Unausprechliches mit ihnen anstellt. An Bord muss sich eine aktive KI mit psychisch projizierenden Fähigkeiten befinden. Und diese KI ist dir nicht freundlich gesinnt.\n\nZerstöre sie so bald wie möglich.</SpaceshipPartCrash>
-  <MessageAnimalInsanityPulse>Die antike Struktur hat einen psychischen Impuls ausgesendet, der Tiere in der Nähe verrückt werden ließ.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Das abgestürzte Schiffsteil hat einen gebündelten psychischen Impuls ausgesendet, der den Kolonisten {0} durchdrehen ließ.</LetterShipPartDroveColonistInsane>
-  <AwokeDaysAgo>Erwachte vor {0} Tagen</AwokeDaysAgo>
-  <PsychicDroneLevel>Level des psychischen Brummens: {0}</PsychicDroneLevel>
-  <PsychicDroneLevelLow>Niedrig</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Mittel</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>Hoch</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Extrem</PsychicDroneLevelExtreme>
-  <LetterPsychicDroneLevelIncreased>Das abgestürzte Schiffsteil hat das psychische Signal verstärkt. Jedes menschliche Wesen in der Gegend fühlt sich noch stärker beeinflusst, verängstigt und paranoid.</LetterPsychicDroneLevelIncreased>
+  <SpaceshipPartCrash>Een groot stuk van een ruimteschip is in de buurt ingeslagen.\n\nJe kolonisten voelen instinctief dat er iets slechts aan de hand is. Aan boord moet zich een AI bevinden met psychische krachten. En deze AI is hen niet vriendelijk gezind.\n\nVerzet je zo goed mogenlijk.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>De antieke structuur heeft een psychische impuls uitgezonden, die de dieren in de omgeving gek heeft gemaakt.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Het neergestorte schipsdeel heeft een psychische impuls uitgezonden, die de kolonisten {0} gek heeft gemaakt.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Wakker sinds {0} dagen</AwokeDaysAgo>
+  <PsychicDroneLevel>Niveau van het psychische brommen: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>een beetje</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>gemiddeld</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>hoog</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>extreem</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Het neergestorte schipsdeel heeft zijn psychische signaal versterkt. Ieder menselijk wezen in de omgeving voelt zich nog sterker beïnvloed, angstig en paranoïde.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
-  <LetterAgentRevealed>{0} wurde als Agent deines Gegners {1} entlarft.\n\nEr versucht zu entkommen..</LetterAgentRevealed>
+  <LetterAgentRevealed>{0} is als een agent van je tegenstander {1} ontmaskerd.\n\nHij probeert te ontkomen..</LetterAgentRevealed>
   
   <!-- Distant psychic drone -->
-  <LetterIncidentPsychicDrone>Ein starker Schmerz hämmert im Kopf deiner {0}en Kolonisten!\n\nEine weit entfernte Maschine des Hasses rührt sich und sendet ein starkes psychisches Brummen über die gesamte Region, auf einer Frequenz die scheinbar nur das {0}e Geschlecht erfasst. Die Stimmung einiger Kolonisten wird sich über die nächsten Tage ziemlich verschlechtern.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Een sterke psychische dreun hamert op de hoofden van {0} kolonisten!\n\nEen zeer geavanceerde machine ontwaakt en zend een golf uit, op een frequentie die blijkbaar alleen {0} als slecht ervaart. De stemming van je kolonisten zal de komende dagen flink wat slechter zijn.</LetterIncidentPsychicDrone>
   
 </LanguageData>

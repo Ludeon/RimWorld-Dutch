@@ -1,86 +1,86 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <CommandForbiddenDesc>Verboten - Kolonisten werden hiermit nicht interagieren.</CommandForbiddenDesc>
-  <CommandNotForbiddenDesc>Nicht Verboten - Kolonisten werden vielleicht hiermit interagieren.</CommandNotForbiddenDesc>
+  <CommandForbiddenDesc>Verboden - kolonisten zullen niet met dit object interacteren.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Niet verboden - kolonisten zullen met dit object interacteren.</CommandNotForbiddenDesc>
 	
-  <CommandTogglePowerLabel>Ein/Aus</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Ein-/Ausschalten.</CommandTogglePowerDesc>
-  <CommandTryReconnectLabel>Neu verbinden</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Versuche auf ein anderes Stromnetz innerhalb meiner Reichweite zu wechseln. Das ist nützlich, wenn ich an einem stromlosen Netz bin, aber ein stromführendes in der Nähe ist.</CommandTryReconnectDesc>
+  <CommandTogglePowerLabel>Aan/uit</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Aan-/uitzetten.</CommandTogglePowerDesc>
+  <CommandTryReconnectLabel>Opnieuw verbinden</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Laat mij proberen een aansluiting naar het stroomnet te vinden. Dat is handig als ik op een stroomloos netwerk ben aangesloten, maar er eentje met stroom in de buurt is.</CommandTryReconnectDesc>
 
 
-  <CommandGatherSpotToggleLabel>Sammelpunkt</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Aktiv - Kolonisten werden sich bei diesem Objekt versammeln.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inaktiv - Kolonisten werden sich nicht bei diesem Objekt versammeln.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleLabel>Verzamelpunt</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Actief - kolonisten zullen zich bij dit object verzamelen.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inactief - kolonisten zullen zich niet bij dit object verzamelen.</CommandGatherSpotToggleDescInactive>
   
-  <CommandDraftLabel>Waffe ziehen</CommandDraftLabel>
-  <CommandUndraftLabel>Waffe wegstecken</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Schalte Militärdienst ein/aus.\n\nLeute mit gezogener Waffen können schießen. Sie werden jedoch nicht arbeiten, essen oder Pause machen.</CommandToggleDraftDesc>
-  <IsIncapped>{0} ist arbeitsunfähig.</IsIncapped>
+  <CommandDraftLabel>Wapen trekken</CommandDraftLabel>
+  <CommandUndraftLabel>Wapen wegdoen</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Schakel millitaire dients in/uit.\n\nMensen met getrokken wapens kunnen schieten. Ze kunenn niet eten, werken of een pauze hebben.</CommandToggleDraftDesc>
+  <IsIncapped>{0} is arbeidsongeschikt.</IsIncapped>
 
-  <CommandCancelConstructionLabel>Abbrechen</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Konstruktion abbrechen.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionLabel>Annuleren</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Constructie annuleren.</CommandCancelConstructionDesc>
 
 
-  <CommandGetOutOfBedLabel>Steh auf</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Steh auf und verlasse das aktuelle Bett.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Sa op</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Sta op en verlaat je bed.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Wähle Besitzer</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Gebe dieses Bett einem Kolonisten deiner Wahl.</CommandBedSetOwnerDesc>
-  <BedAssign>Zuweisen</BedAssign>
-  <CommandBedSetForPrisonersLabel>Gefangene</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Markiere alle Betten in dem Raum als Gefängnisbetten.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Betten im Freien können nicht als Gefängnisbetten deklariert werden.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetOwnerLabel>Wijs eigenaar aan</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Geef het bezit van dit bed aan een van je kolonisten.</CommandBedSetOwnerDesc>
+  <BedAssign>Toewijzen</BedAssign>
+  <CommandBedSetForPrisonersLabel>Gevangene</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Markeer alle bedden in deze ruimte als gevangenisbedden.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Bedden in de openlucht kunnen niet als gevangenisbedden worden gedesigneerd.</CommandBedSetForPrisonersFailOutdoors>
   <CommandBedSetForColonistsLabel>Kolonisten</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Markiere alle Betten in dem Raum als Kolonistenbetten.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsMedicalLabel>Krankenbett</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc> Deklariere dieses Bett für den medizinischen Gebrauch.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>Kein Krankenbett</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Gibt dieses Bett für den nicht-medizinischen Gebrauch frei.</CommandBedSetAsNonMedicalDesc>
-  <TurningOnPrisonerBedWarning>Das Einschalten des Gefängnis-Modus betrifft den kompletten Raum. (Kolonisten und Gefangene können nicht im selben Raum schlafen.)\n\nDiese Leute verlieren ihre Betten:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Das Ausschalten des Gefängnis-Modus betrifft den kompletten Raum. (Kolonisten und Gefangene können nicht im selben Raum schlafen.)\n\nDiese Leute verlieren ihre Betten:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Bist du sicher, dass du das machen willst?</AreYouSure>
+  <CommandBedSetForColonistsDesc>Markeer alle bedden in deze ruimte als kolonistenbedden.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Ziekenbed</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Laat dit bed gebruiken voor dokterspraktijken.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Geen ziekenbed</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Geef het bed voor niet-dokterspraktijken vrij.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Het inschakelen van de gevangenen-modus beinvloedt de hele kamer. (Kolonisten en gevangenen kunnen niet in een kamer slapen.)\n\nDeze mensen zullen hun bed verliezen:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Het uitschakelen van de gevangenen-modus beinvloedt de hele kamer. (Kolonisten en gevangenen kunnen niet in een kamer slapen.)\n\nDeze mensen zullen hun bed verliezen:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Weet je zeker dat je dit wil doen?</AreYouSure>
 
   
   
-  <CommandDetonateDesc>Starte Countdown zur Detonation.</CommandDetonateDesc>
-  <CommandDetonateLabel>Detonation</CommandDetonateLabel>
+  <CommandDetonateDesc>Start het aftellen voor ontsteking.</CommandDetonateDesc>
+  <CommandDetonateLabel>Ontsteking</CommandDetonateLabel>
 
-  <CommandRenameZoneDesc>Zone umbenennen.</CommandRenameZoneDesc>
-  <CommandRenameZoneLabel>Umbenennen</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Zone hernoemen.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>hernoemen</CommandRenameZoneLabel>
 
-  <CommandHideZoneDesc>Zone ein/ausblenden</CommandHideZoneDesc>
-  <CommandHideZoneLabel>Ausblenden</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Einblenden</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Zone verbergen/niet verbergen</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Verbergen</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Niet verbergen</CommandUnhideZoneLabel>
 
-  <CommandDeleteZoneDesc>Zone löschen.</CommandDeleteZoneDesc>
-  <CommandDeleteZoneLabel>Löschen</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Zone verwijderen.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Verwijderen</CommandDeleteZoneLabel>
 
   
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Erzwinge Angriff</CommandSetForceAttackTarget>
-  <CommandSetForceAttackTargetDesc>Markiere ein Ziel, das dieses Geschütz solange wie möglich angreifen soll.</CommandSetForceAttackTargetDesc>
-  <CommandStopForceAttack>Beende erzw. Angriff</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Beendet den erzwungenen Angriff und erlaubt dem Geschütz Ziele nach eigenem Ermessen anzugreifen.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Aktuell kein erzwungener Angriff aktiv.</CommandStopAttackFailNotForceAttacking>
-  <MessageTargetBeyondMaximumRange>Ziel ist außerhalb der maximalen Reichweite.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Ziel ist näher als die minimale Reichweite.</MessageTargetBelowMinimumRange>
+  <CommandSetForceAttackTarget>Gedwongen aanvallen</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Markeer een doel, dat dit geschut zo lang mogenlijk zal beschieten.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Beeindig gedwongen aanval</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Beeindig de gedwongen aanval en laat het doel vrij.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Geen gedwongen aanval aan het uitvoeren.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Doel is buiten de reikwijdte.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Doel is binnen de minimale reikwijdte.</MessageTargetBelowMinimumRange>
   
     <!-- Ship computer core -->
-  <CommandShipLaunch>Schiff starten</CommandShipLaunch>
-  <CommandShipLaunchDesc>Beginne die Startsequenz des Raumschiffes mit der aktuellen Konfiguration.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Zeige Statusbericht</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Zeige den Statusbericht des Schiffes.</CommandShipLaunchReportDesc>
+  <CommandShipLaunch>Schip starten</CommandShipLaunch>
+  <CommandShipLaunchDesc>Begin de startsequentie van het ruimteschip in actuele staat.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Opstijgnotificatie</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Notificeer bij het opstijgen van het schip.</CommandShipLaunchReportDesc>
 
   <!-- Pod -->
-  <CommandPodEject>Schläfer auswerfen</CommandPodEject>
-  <CommandPodEjectDesc>Wecke die Kryoschläfer und wirf sie aus der Kapsel aus.</CommandPodEjectDesc>
-  <CommandPodEjectFailEmpty>Enthält niemanden.</CommandPodEjectFailEmpty>
+  <CommandPodEject>Slapende uitwerpen</CommandPodEject>
+  <CommandPodEjectDesc>Wek de cryoslaper uit zijn slaap.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Bevat niemand.</CommandPodEjectFailEmpty>
   
   <!-- Door -->
-  <CommandToggleDoorLock>Wechsle Status</CommandToggleDoorLock>
-  <CommandToggleDoorLockDesc>Verschliesse oder öffne eine Tür. Verschlossene Türen öffnen sich für niemanden.</CommandToggleDoorLockDesc>
+  <CommandToggleDoorLock>Sluit/open</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Sluit of open deze deur. Indien gesloten laat hij niemand door.</CommandToggleDoorLockDesc>
 
   
 </LanguageData>

@@ -1,37 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <ProgressToNextLevel>Fortschritt zum nächsten Level</ProgressToNextLevel>
-  <Passion>Ehrgeiz</Passion>
-  <PassionNone>Kein Interesse (lernt {0}x schneller)</PassionNone>
-  <PassionMinor>Interessiert (lernt {0}x schneller)</PassionMinor>
-  <PassionMajor>Sehr Interessiert (lernt {0}x schneller)</PassionMajor>
-  <EffectsAtLevel>Effektiv ab Level {0}</EffectsAtLevel>
+  <Level>level</Level>
+  <ProgressToNextLevel>Voortgang tot volgende level</ProgressToNextLevel>
+  <Passion>Passie</Passion>
+  <PassionNone>Geen intresse (leert {0}x sneller)</PassionNone>
+  <PassionMinor>Geintresseerd (leert {0}x sneller)</PassionMinor>
+  <PassionMajor>Zeer geintresseerd (leert {0}x sneller)</PassionMajor>
+  <EffectsAtLevel>Effectief vanaf level {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
   
 
-  <Skill0>Unfähig</Skill0>
-  <Skill1>Unbrauchbar</Skill1>
-  <Skill2>Grundlegendes Wissen</Skill2>
-  <Skill3>Grundkenntnisse</Skill3>
+  <Skill0>Onbekwaam</Skill0>
+  <Skill1>Onbruikbaar</Skill1>
+  <Skill2>Basis bekend</Skill2>
+  <Skill3>Basiskennis</Skill3>
   <Skill4>Amateur</Skill4>
-  <Skill5>Erfahrener Amateur</Skill5>
-  <Skill6>Praktiker</Skill6>
-  <Skill7>Erfahrener Praktiker</Skill7>
-  <Skill8>Profi</Skill8>
-  <Skill9>Erfahrener Profi</Skill9>
-  <Skill10>Experte</Skill10>
-  <Skill11>Guter Experte</Skill11>
-  <Skill12>Sehr guter Experte</Skill12>
-  <Skill13>Meister</Skill13>
-  <Skill14>Großmeister</Skill14>
-  <Skill15>Großmeister (Planet)</Skill15>
-  <Skill16>Großmeister (System)</Skill16>
-  <Skill17>Verehrter Großmeister</Skill17>
-  <Skill18>Visionär</Skill18>
-  <Skill19>Legende</Skill19>
-  <Skill20>Gottgleich</Skill20>
+  <Skill5>Ervaren amateur</Skill5>
+  <Skill6>Beoefenaar</Skill6>
+  <Skill7>Ervaren beoefenaar</Skill7>
+  <Skill8>proffesionalist</Skill8>
+  <Skill9>Ervaren proffesionalist</Skill9>
+  <Skill10>Expert</Skill10>
+  <Skill11>Goede expert</Skill11>
+  <Skill12>Zeer goede expert</Skill12>
+  <Skill13>Meester</Skill13>
+  <Skill14>Grootmeester</Skill14>
+  <Skill15>Grootmeester (planeet)</Skill15>
+  <Skill16>Grootmeester (systeem)</Skill16>
+  <Skill17>Vereerde grootmeester</Skill17>
+  <Skill18>Visionair</Skill18>
+  <Skill19>Legened</Skill19>
+  <Skill20>Godlike</Skill20>
 
 
   

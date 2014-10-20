@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <JumpToLocation>Zum Ort springen</JumpToLocation>
+  <JumpToLocation>Naar plaats springen</JumpToLocation>
 
-  <RelationsBrokenDown>Die Beziehungen zu {0} haben sich verschlechtert. Sie sind dir jetzt feindlich gesinnt.</RelationsBrokenDown>
-  <RelationsWarmed>Die Beziehungen zu {0} haben sich verbessert. Sie sind dir nicht länger feindlich gesinnt.</RelationsWarmed>
+  <RelationsBrokenDown>De relaties met {0} zijn verslechterd. Ze zijn je nu vijandig gezind.</RelationsBrokenDown>
+  <RelationsWarmed>De relaties met {0} zijn verbeterd. Ze zijn je niet langer vijandig gezind.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Weil du {0} gefangen hast, ist dir {1} jetzt feindlich gesinnt.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Omdat je {0} gevangen hebt genomen, is {1} je nu vijandig gezind.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Ruf der Kolonie</ColonyGoodwill>
-  <Neutral>Neutral</Neutral>
+  <ColonyGoodwill>Welwillendheid van de kolonie</ColonyGoodwill>
+  <Neutral>neutraal</Neutral>
 
-  <ShortCircuitRain>{0} hatte durch den Regen einen Kurzschluss und fing Feuer.</ShortCircuitRain>
-  <AreaRevealed>Ein neues Gebiet wurde entdeckt.</AreaRevealed>
+  <ShortCircuitRain>{0} is door de regen kortgesloten en heeft vlam gevat.</ShortCircuitRain>
+  <AreaRevealed>Een nieuw gebied is ontdekt.</AreaRevealed>
 
-  <RoofCollapsed>Ein Dach ist eingestürzt, da jede mögliche Stütze zu weit entfernt war.</RoofCollapsed>
-  <TheseThingsCrushed>Folgendes wurden zerquetscht:</TheseThingsCrushed>
-  <NothingCrushed>Nichts wurde zerquetscht.</NothingCrushed>
+  <RoofCollapsed>Een dak is ingestort, omdat er niets meer was om het te ondersteunen.</RoofCollapsed>
+  <TheseThingsCrushed>Deze dingen zijn verpletterd:</TheseThingsCrushed>
+  <NothingCrushed>Er is niets verpletterd.</NothingCrushed>
   
-  <MentalBreakRampage>{0} hat einen Nervenzusammenbruch und startet einen Amoklauf.</MentalBreakRampage>
-  <MentalBreakDaze>{0} hat aufgegeben und läuft verwirrt herum.</MentalBreakDaze>
-  <MentalBreakLeave>{0} hat aufgegeben und verlässt die Kolonie.</MentalBreakLeave>
+  <MentalBreakRampage>{0} heeft een zenuwinzinking gekregen en is losgeslagen.</MentalBreakRampage>
+  <MentalBreakDaze>{0} heeft het opgegeven en loopt verward rond.</MentalBreakDaze>
+  <MentalBreakLeave>{0} heet het opgegeven en verlaat de kolonie.</MentalBreakLeave>
 
-  <RecruitSuccess>{0} hat erfolgreich {1} rekrutiert ({2} Chance).</RecruitSuccess>
-  <RecruitFail>{0} konnte {1} nicht rekrutieren ({2} Chance).</RecruitFail>
+  <RecruitSuccess>{0} heeft succesvol {1} gerecruteerd ({2} kans).</RecruitSuccess>
+  <RecruitFail>{0} heeft {1} niet kunnen recruteren ({2} kans).</RecruitFail>
   
-  <Birthday>Heute ist {0}'s Geburtstag! {1} wurde {2}.</Birthday>
-  <BirthdayWithInjuries>Heute ist {0}'s Geburtstag! {1} wurde {2}.\n\nAltersbedingt wurden bei {0} die folgenden Krankheiten diagnostiziert:\n{3}</BirthdayWithInjuries>
+  <Birthday>Het is vandaag {0}'s verjaardag! {1} is {2} geworden.</Birthday>
+  <BirthdayWithInjuries>Het is vandaag {0}'s verjaardag! {1} is {2} geworden.\n\nHelaas zijn bij {0} de volgende verwondingen geconstateert:\n{3}</BirthdayWithInjuries>
   
-  <NewDisease>{0} ist krank geworden ({1}). Stelle sicher, dass {0} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, damit HE sich schnell erholen kann.</NewDisease>
-  <NewPartDisease>{0} ist mit {1} infiziert. Stelle sicher, dass {0} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, damit HE sich schnell erholen kann.</NewPartDisease>
+  <NewDisease>{0} is ziek geworden({1}). Maak zeker, dat {0} een goede behandeling krijg en zo lang mogenlijk in bed blijft, zodat HE snel kan herstellen.</NewDisease>
+  <NewPartDisease>{0} is met {1} geinfecteerd. Maak zeker, dat {0} een goede behandeling krijg en zo lang mogenlijk in bed blijft, zodat HE snel kan herstellen.</NewPartDisease>
   
 </LanguageData>

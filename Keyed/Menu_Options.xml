@@ -1,43 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audio/Grafik</Audiovisuals>
-  <GameVolume>Spiellautstärke</GameVolume>
-  <MusicVolume>Musiklautstärke</MusicVolume>
-  <GraphicsQuality>Grafikqualität</GraphicsQuality>
-  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-  <GraphicsQualityGreat>Gut</GraphicsQualityGreat>
+  <Audiovisuals>Audio/graphics</Audiovisuals>
+  <GameVolume>spelvolume</GameVolume>
+  <MusicVolume>muziekvolume</MusicVolume>
+  <GraphicsQuality>graphicskwaliteit</GraphicsQuality>
+  <GraphicsQualityNormal>normaal</GraphicsQualityNormal>
+  <GraphicsQualityGreat>goed</GraphicsQualityGreat>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Maus-Scroll am Bildschirmrand</EdgeScreenScroll>
-  <CustomCursor>Individueller Mauszeiger</CustomCursor>
-  <ChooseLanguage>Sprache wählen</ChooseLanguage>
-  <AdaptiveTutor>Adaptives Tutorial</AdaptiveTutor>
-  <ResetAdaptiveTutor>Adapt. Tutorial zurücksetzen</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Das adaptive Tutorial wurde zurückgesetzt. Es wird dir nun alles von Anfang an neu erklären.</AdaptiveTutorIsReset>
-  <RunInBackground>Im Hintergrund aktiv</RunInBackground>
-  <DevelopmentMode>Entwicklungsmodus</DevelopmentMode>
-  <LogDeepProfileData>Tiefenprofiler aktivieren</LogDeepProfileData>
-  <OpenSaveGameDataFolder>Spielstandsverzeichnis</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Nachnamen von Charakteren des 'Name in game' bzw. 'Backstory in game' Tiers, die du gerne sehen möchtest:</NamesYouWantToSee>
-  <ChangeStoryteller>Ändere Erzähler-KI</ChangeStoryteller>
+  <EdgeScreenScroll>muis-scroll bij beeldschermrand</EdgeScreenScroll>
+  <CustomCursor>Aangepaste muiscursor</CustomCursor>
+  <ChooseLanguage>Taal kiezen</ChooseLanguage>
+  <AdaptiveTutor>Adaptieve leraar</AdaptiveTutor>
+  <ResetAdaptiveTutor>Adapt. leraar resetten</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>De adaptieve leraar is gereset, alles zal weer vanaf het being worden uitgelegd.</AdaptiveTutorIsReset>
+  <RunInBackground>Op de achtergrond actief</RunInBackground>
+  <DevelopmentMode>Ontwikkelingsmodus</DevelopmentMode>
+  <LogDeepProfileData>Diep-profile activeren</LogDeepProfileData>
+  <OpenSaveGameDataFolder>Speldata-map openen</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Namen van karakters in het spel die je graag wilt zien:</NamesYouWantToSee>
+  <ChangeStoryteller>Verander verhaalverteller</ChangeStoryteller>
   
   <!-- Resolution -->
-  <Resolution>Auflösung</Resolution>
-  <Fullscreen>Vollbild</Fullscreen>
-  <CurrentRes>Aktuell: {0}</CurrentRes>
-  <ChooseResolution>Wähle Auflösung</ChooseResolution>
+  <Resolution>resolutie</Resolution>
+  <Fullscreen>volledig scherm</Fullscreen>
+  <CurrentRes>Acutele resolutie: {0}</CurrentRes>
+  <ChooseResolution>Kies resolutie</ChooseResolution>
   
-  <Privacy>Privatsphäre</Privacy>
+  <Privacy>privacy</Privacy>
   
-  <UserName>Benutzer</UserName>
+  <UserName>gebruikersnaam</UserName>
   
-  <ChooseHistoryUploadPref>Wähle Upload-Einstellungen</ChooseHistoryUploadPref>
+  <ChooseHistoryUploadPref>Geschiedenis upload preferenties</ChooseHistoryUploadPref>
   
-  <CurrentHistoryUploadPref>Aktuell: {0}</CurrentHistoryUploadPref>
+  <CurrentHistoryUploadPref>Actueel: {0}</CurrentHistoryUploadPref>
   
-    <AboutHistoryUpload>Die Spielverlaufsdaten der Spieler helfen dem Entwicklern das Spiel zu verbessern.\nWenn Du zustimmst, werden Deine Informationen alle {0} RimWorld-Tage (und bei einigen anderen seltenen Ereignissen, wie z.B. dem Spielende) auf den RimWorld-Server hochgeladen und dort analysiert.\nDie hochgeladenen Spieldaten enthalten nur Statistiken und historische Ereignisse, die mit dem Spiel zu tun haben. Es werden keine persönlichen Informationen, mit Ausnahme des eingetragenen Benutzernamens, gesendet.\nDas bedeutet, dass die Informationen komplett Anonym sind.</AboutHistoryUpload>
+    <AboutHistoryUpload>Spelgegevens helpen om het spel te ontwikkelen.\nAls je toestemt, zal deze informatie iedere {0} Rimworld-dagen (en bij sommige andere speciale gebeurtenissen) naar de rimworld-server worden geupload en ganalyseerd.\nDe geuploaded data zal slechts info over het verloop van het spel bevatten. Er wordt geen persoonlijke informatie, met uitzondering van de gebruikersnaam van de speler, verzonden.\nDat betekend, dat alle info anoniem is.</AboutHistoryUpload>
   
   
 </LanguageData>

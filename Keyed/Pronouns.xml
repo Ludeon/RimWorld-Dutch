@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Prohis>sein</Prohis>
-  <Proher>ihr</Proher>
-  <ProhisCap>Sein</ProhisCap>
-  <ProherCap>Ihr</ProherCap>
+  <Prohis>zijn</Prohis>
+  <Proher>haar</Proher>
+  <ProhisCap>Zijn</ProhisCap>
+  <ProherCap>Haar</ProherCap>
 
-  <ProhimObj>ihm</ProhimObj>
-  <ProherObj>ihr</ProherObj>
-  <ProhimObjCap>Ihm</ProhimObjCap>
-  <ProherObjCap>Ihr</ProherObjCap>
+  <ProhimObj>hem</ProhimObj>
+  <ProherObj>haar</ProherObj>
+  <ProhimObjCap>Hem</ProhimObjCap>
+  <ProherObjCap>Haar</ProherObjCap>
 
-  <Prohe>er</Prohe>
-  <Proshe>sie</Proshe>
-  <ProheCap>Er</ProheCap>
+  <Prohe>hij</Prohe>
+  <Proshe>zij</Proshe>
+  <ProheCap>Hij</ProheCap>
   <ProsheCap>Sie</ProsheCap>
   
 

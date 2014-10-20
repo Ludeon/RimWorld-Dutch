@@ -79,7 +79,7 @@
   <NoTradingCapacity>Geen handelcapaciteit</NoTradingCapacity>
   <NoTradingCapacityDesc>Je kunt geen handel drijven.\n\nBouw een communicatieconsole.</NoTradingCapacityDesc>
 
-  <NeedResearchProject>Geen onderzoeksproject</NeedResearchProject>
+  <NeedResearchProject>Geen onderzoeks-\n\nproject</NeedResearchProject>
   <NeedResearchProjectDesc>Je hebt de benodigdheden om te onderzoeken, maar geen onderzoeksproject.\n\nOpen het onderzoeksproject en wijs er een aan.</NeedResearchProjectDesc>
 
   <NeedDump>Geen afvalzone</NeedDump>

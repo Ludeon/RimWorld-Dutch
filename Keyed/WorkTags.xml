@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WorkTagNone>Nichts</WorkTagNone>
-  <WorkTagIntellectual>Geistige Arbeit</WorkTagIntellectual>
-  <WorkTagManualDumb>Einfache Arbeit</WorkTagManualDumb>
-  <WorkTagManualSkilled>Geschickte Arbeit</WorkTagManualSkilled>
-  <WorkTagViolent>Gewalt</WorkTagViolent>
-  <WorkTagCaring>Fürsorge</WorkTagCaring>
-  <WorkTagSocial>Sozial</WorkTagSocial>
-  <WorkTagScary>Furchterregend</WorkTagScary>
-  <WorkTagArtistic>Künstlerisch</WorkTagArtistic>
+  <WorkTagNone>Niets</WorkTagNone>
+  <WorkTagIntellectual>Intelectuele arbeid</WorkTagIntellectual>
+  <WorkTagManualDumb>Makkelijke arbeid</WorkTagManualDumb>
+  <WorkTagManualSkilled>Geschikte arbeid</WorkTagManualSkilled>
+  <WorkTagViolent>Geweldadig</WorkTagViolent>
+  <WorkTagCaring>Verzorgend</WorkTagCaring>
+  <WorkTagSocial>Sociaal</WorkTagSocial>
+  <WorkTagScary>Angstaanjagend</WorkTagScary>
+  <WorkTagArtistic>Kunstig</WorkTagArtistic>
   <WorkTagCrafting>Handwerk</WorkTagCrafting>
-  <WorkTagCooking>Kochen</WorkTagCooking>
-  <WorkTagFirefighting>Löschen</WorkTagFirefighting>
-  <WorkTagCleaning>Reinigen</WorkTagCleaning>
-  <WorkTagHauling>Tragen</WorkTagHauling>
-  <WorkTagPlantWork>Landwirtschaft</WorkTagPlantWork>
-  <WorkTagMining>Abbauen</WorkTagMining>
+  <WorkTagCooking>Koken</WorkTagCooking>
+  <WorkTagFirefighting>Brand blussen</WorkTagFirefighting>
+  <WorkTagCleaning>Opruimen</WorkTagCleaning>
+  <WorkTagHauling>Dragen</WorkTagHauling>
+  <WorkTagPlantWork>Plantwerk</WorkTagPlantWork>
+  <WorkTagMining>Delven</WorkTagMining>
 
 </LanguageData>

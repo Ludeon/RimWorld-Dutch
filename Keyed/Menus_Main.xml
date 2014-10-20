@@ -1,125 +1,125 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <CreateWorld>Erstelle Planet</CreateWorld>
-  <NewColony>Neue Kolonie</NewColony>
-  <BackToGame>Zurück zum Spiel</BackToGame>
-  <Save>Speichern</Save>
-  <Load>Lade Kolonie</Load>
-  <Options>Optionen</Options>
+  <CreateWorld>Creeër planeet</CreateWorld>
+  <NewColony>Nieuwe kolonie</NewColony>
+  <BackToGame>Terug naar spel</BackToGame>
+  <Save>Opslaan</Save>
+  <Load>Laad kolonie</Load>
+  <Options>Opties</Options>
   <Mods>Mods</Mods>
   <Credits>Credits</Credits>
-  <QuitToMainMenu>Zum Hauptmenü</QuitToMainMenu>
-  <QuitToOS>Zum Desktop</QuitToOS>
+  <QuitToMainMenu>Naar hoofdmenu</QuitToMainMenu>
+  <QuitToOS>Naar desktop</QuitToOS>
   <FictionPrimer>Fiction Primer</FictionPrimer>
   <LudeonBlog>Ludeon Blog</LudeonBlog>
   <Forums>Forum</Forums>
-  <OfficialWiki>Offizielles Wiki</OfficialWiki>
+  <OfficialWiki>Officiële Wiki</OfficialWiki>
   <TynansTwitter>Tynan's Twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's Designbuch</TynansDesignBook>
-  <HelpTranslate>Hilf beim Übersetzen von RimWorld mit</HelpTranslate>
+  <TynansDesignBook>Tynan's ontwerpboek</TynansDesignBook>
+  <HelpTranslate>Help bij het vertalen van rimworld</HelpTranslate>
   
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Weltkarte</ReviewWorld>
-  <WorldGenerate>Generieren</WorldGenerate>
-  <WorldSaveAndFinish>Speichern u. beenden</WorldSaveAndFinish>
-  <Reset>Zurücksetzen</Reset>
-  <WorldSize>Größe</WorldSize>
+  <ReviewWorld>Wereldkaart</ReviewWorld>
+  <WorldGenerate>Genereren</WorldGenerate>
+  <WorldSaveAndFinish>Opslaan en beëindigen</WorldSaveAndFinish>
+  <Reset>Resetten</Reset>
+  <WorldSize>grootte</WorldSize>
   <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Zufälliger Seed</RandomizeSeed>
+  <RandomizeSeed>Random seed</RandomizeSeed>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Wähle Planeten</SelectWorld>
-  <WorldChooseButton>Auswahl</WorldChooseButton>
-  <NoWorldsFilesFound>Keine Planetendaten gefunden. Erzeuge zuerst einen neuen Planeten.</NoWorldsFilesFound>
+  <SelectWorld>Selecteer planeet</SelectWorld>
+  <WorldChooseButton>kies</WorldChooseButton>
+  <NoWorldsFilesFound>Geen planeetdata gevonden. Maak eerst een paar planeten.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} ist verfügbar. Auf Ludeon.com findest Du weitere Informationen.</BuildNowAvailable>
-  <BuildUpToDate>Version ist aktuell.</BuildUpToDate>
-  <ErrorGettingVersionInfo>Beim Versuch die Version zu überprüfen ist ein Fehler aufgetreten: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Lade Versions-Info...</LoadingVersionInfo>
+  <BuildNowAvailable>Versie {0} is beschikbaar. Op ludeon.com zul je verdere info vinden.</BuildNowAvailable>
+  <BuildUpToDate>Uw versie is up-to-date.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Bij het opzoeken van de versie is de volgende fout opgetreden: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Versie info laden...</LoadingVersionInfo>
   
   <!--=========== World generator =========-->
-  <GenerateWorld>Generiere Welt</GenerateWorld>
+  <GenerateWorld>Wereld genereren</GenerateWorld>
   
   <!--=========== Mods screen ==========-->
-  <GetMods>Modifikationen</GetMods>
-  <OpenModsDataFolder>Öffne das Mod-Verzeichnis</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Bist du sicher, dass du den Kern (Core) deaktivieren willst? Das Spiel wird nicht funktionieren, außer du hast eine Modifikation, die alle Kernfunktionen ersetzt.\n\nHinweis: Andere Mods können die Kern-Defs überschreiben, wenn sie den gleichem Def-Namen benutzen.</ConfirmDisableCoreMod>
-  <Author>Autor</Author>
+  <GetMods>Mods</GetMods>
+  <OpenModsDataFolder>Open de mods-map</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Weet je zeker dat je de kern (core) wil deactiveren? Het spel zal niet functioneren zonder deze mod, die alle kernfuncties bevat.\n\nTip: andere mods kunnen kernwaarden overschrijven, door dezelfde Def naam te gebruiken.</ConfirmDisableCoreMod>
+  <Author>Auteur</Author>
 
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Wähle die Erzähler-KI</ChooseAIStoryteller>
-  <HowStorytellersWork>Die Erzähler-KI generiert Ereignisse, wie z.B. Piratenüberfälle, Rohstoff-Abwürfe oder Tier Angriffe. Ihre Entscheidungen werden die Geschichte der Kolonie beeinflussen.</HowStorytellersWork>
-  <MustChooseChallengeScale>Wähle die Art der Herausforderung.</MustChooseChallengeScale>
-  <ChallengeScale>Aktive Herausforderung</ChallengeScale>
-  <ChallengeScaleTip>Wenn du Bedrohungen vom Erzähler bekommst, werden diese {0} so schwer sein, wie die im Modus Herausfordernd.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Basis-Bau Modus</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Gelegenheitsspieler</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Rauhes Spiel</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Herausfordernd</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Starke Herausforderung</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Extreme Herausforderung</ChallengeScale_ExtremeChallenge>
+  <ChooseAIStoryteller>Kies verteller-AI</ChooseAIStoryteller>
+  <HowStorytellersWork>De verteller-AI laat dingen gebeuren, zoals een piratenaanval of dierengekte. Zijn beslissingen zullen de kolonie beïnvloeden.</HowStorytellersWork>
+  <MustChooseChallengeScale>Kies de lastigheidsgraad.</MustChooseChallengeScale>
+  <ChallengeScale>Actieve lastigheidsgraad</ChallengeScale>
+  <ChallengeScaleTip>Als de verteller je een bedreiging stuurt, zal die {0} zo groot zijn als in de uitdagende modus.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Basisbouw modus</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Casual speler</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Lastig spel</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>uitdagend</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Zwaar uitdagend</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Enorm uitdagend</ChallengeScale_ExtremeChallenge>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Wähle Region</SelectLandingSite>
-  <SelectSite>Wähle Landeplatz</SelectSite>
-  <MustSelectLandingSite>Wähle deinen Landeplatz.</MustSelectLandingSite>
-  <CannotLandBiome>Du kannst in dieser Biosphäre nicht landen: {0}</CannotLandBiome>
+  <SelectLandingSite>Kies landingsplaats</SelectLandingSite>
+  <SelectSite>Wähle plaats</SelectSite>
+  <MustSelectLandingSite>Je moet een landingsplaats kiezen.</MustSelectLandingSite>
+  <CannotLandBiome>Je kunt niet in deze biosfeer landen: {0}</CannotLandBiome>
   <WorldRenderMode>Modus</WorldRenderMode>
   <WorldRenderModeFull>Alles</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperatur</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Höhen</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fruchtbarkeit</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Niederschlag</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biosphären</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biosphäre nicht verfügbar</BiomeNotImplemented>
-  <BaseAlreadyThere>{0} haben hier bereits eine Basis.</BaseAlreadyThere>
-  <Biome>Biosphäre</Biome>
-  <Terrain>Landschaft</Terrain>
-  <Elevation>Höhe</Elevation>
-  <Fertility>Fruchtbarkeit</Fertility>
-  <AvgTemp>Temperatur</AvgTemp>
-  <Rainfall>Niederschlag</Rainfall>
-  <HasCoast0>Nördliche Küste</HasCoast0>
-  <HasCoast1>Östliche Küste</HasCoast1>
-  <HasCoast2>Südliche Küste</HasCoast2>
-  <HasCoast3>Westliche Küste</HasCoast3>
-  <FactionBase>Basis einer Fraktion</FactionBase>
+  <WorldRenderModeTemperature>Temperatuur</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Hoogte</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Vruchtbaarheid</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Neerslag</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biosfeer</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Biosfeer niet geimplementeerd</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} heeft hier al een basis.</BaseAlreadyThere>
+  <Biome>Biosfeer</Biome>
+  <Terrain>Landschap</Terrain>
+  <Elevation>Hoogte</Elevation>
+  <Fertility>Vruchtbaarheid</Fertility>
+  <AvgTemp>Temperatuur</AvgTemp>
+  <Rainfall>Neerslag</Rainfall>
+  <HasCoast0>Noordelijke kust</HasCoast0>
+  <HasCoast1>Oosterlijke kust</HasCoast1>
+  <HasCoast2>Zuidelijke kust</HasCoast2>
+  <HasCoast3>Westelijke kust</HasCoast3>
+  <FactionBase>Basis van een factie</FactionBase>
   
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Charakter erstellen</CreateCharacters>
-   <FirstNameDesc>Der Vorname des Charakters.\n\nDieser Name wird nur in einigen Menüs angezeigt.</FirstNameDesc>
-  <ShortIdentifierDesc>Der Spitzname des Charakters.\n\nDieser Name wird immer angezeigt. Es kann der Vor- oder Nachname, aber auch ein ganz anderer Spitzname sein.</ShortIdentifierDesc>
-  <LastNameDesc>Der Nachname des Charakters.\n\nDieser Name wird nur in einigen Menüs angezeigt.</LastNameDesc>
-  <Randomize>Zufällig</Randomize>
-  <AgeIndicator>Alter {0}</AgeIndicator>
-  <Backstory>Hintergrund</Backstory>
-  <IncapableOf>Verweigert</IncapableOf>
-  <Traits>Eigenschaften</Traits>
-  <TraitsDoNothing>Die meisten Eigenschaften haben derzeit keine Funktion. Dies wird sich zukünftig noch ändern.</TraitsDoNothing>
-  <PermanentMoodEffect>Permanenter Einfluss auf die Stimmung</PermanentMoodEffect>
-  <Skills>Fähigkeiten</Skills>
-  <NoneLower>Nichts</NoneLower>
-  <Adulthood>Erwachsener</Adulthood>
-  <Childhood>Kindheit</Childhood>
-  <Male>Männlich</Male>
-  <Female>Weiblich</Female>
-  <Pain>Schmerz</Pain>
+  <CreateCharacters>Karakter maken</CreateCharacters>
+   <FirstNameDesc>De voornaam van het karakter.\n\nDeze naam wordt in een paar menus gebruikt.</FirstNameDesc>
+  <ShortIdentifierDesc>De roepnaam van het karakter.\n\nDDeze wordt altijd gebruikt. Het kan de voor- of achternaam zijn, maar ook iets totaal anders.</ShortIdentifierDesc>
+  <LastNameDesc>De achternaam van het karakter.\n\nDeze naam wordt in een paar menus gebruikt.</LastNameDesc>
+  <Randomize>Randomiseer</Randomize>
+  <AgeIndicator>Leeftijd: {0}</AgeIndicator>
+  <Backstory>Achtergroend</Backstory>
+  <IncapableOf>Kan niet</IncapableOf>
+  <Traits>Eigenschappen</Traits>
+  <TraitsDoNothing>De meeste eigenschappen hebben nu nog geen functie. Die zullen in de toekomst verandert worden.</TraitsDoNothing>
+  <PermanentMoodEffect>Permanente invloed op de stemming.</PermanentMoodEffect>
+  <Skills>Skills</Skills>
+  <NoneLower>niets</NoneLower>
+  <Adulthood>volwassenheid</Adulthood>
+  <Childhood>kinderlijk</Childhood>
+  <Male>Mannelijk</Male>
+  <Female>Vrouwelijk</Female>
+  <Pain>Pijn</Pain>
 
   <!--=========== Misc ==========-->
   <Start>Start</Start>
-  <Advanced>Erweitert</Advanced>
-  <Next>Weiter</Next>
-  <Back>Zurück</Back>
+  <Advanced>Geavanceerd</Advanced>
+  <Next>Volgende</Next>
+  <Back>Terug</Back>
   
   <Gameplay>Gameplay</Gameplay>
 
-  <ConfirmQuit>Bist du sicher, dass du aufhören willst? Nicht gespeicherter Fortschritt geht verloren.</ConfirmQuit>
-  <EveryoneNeedsValidName>Jede Person braucht einen gültigen Namen.</EveryoneNeedsValidName>
+  <ConfirmQuit>Weet je zeker dat je wilt stoppen? Niet opgeslagen voortgang zal verlorgen gaan.</ConfirmQuit>
+  <EveryoneNeedsValidName>Ieder persoon heeft een goede naam nodig.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generiere Welt...</GeneratingWorld>
-  <GeneratingMap>Generiere Karte...</GeneratingMap>
+  <GeneratingWorld>Wereld genereren...</GeneratingWorld>
+  <GeneratingMap>Kaart genereren...</GeneratingMap>
 
 </LanguageData>

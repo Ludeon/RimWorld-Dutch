@@ -55,8 +55,8 @@
   <Wear>Doe {0} aan</Wear>
   <CannotWear>Kan {0} niet aandoen.</CannotWear>
   
-  <Strip>Doe {0} uit</Strip>
-  <CannotStrip>Kan {0} niet aandoen.</CannotStrip>
+  <Strip>Kleedt {0} uit</Strip>
+  <CannotStrip>Kan {0} niet uitkleden.</CannotStrip>
 
   <Deposit>Leg {0} in {1}</Deposit>
   <CannotDeposit>Kan {0} niet in {1} leggen.</CannotDeposit>

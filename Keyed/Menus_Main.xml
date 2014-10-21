@@ -64,7 +64,7 @@
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Kies landingsplaats</SelectLandingSite>
-  <SelectSite>Wähle plaats</SelectSite>
+  <SelectSite>Kies plaats</SelectSite>
   <MustSelectLandingSite>Je moet een landingsplaats kiezen.</MustSelectLandingSite>
   <CannotLandBiome>Je kunt niet in deze biosfeer landen: {0}</CannotLandBiome>
   <WorldRenderMode>Modus</WorldRenderMode>

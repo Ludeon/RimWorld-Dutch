@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Autosaving>Speichere..</Autosaving>
+	<Autosaving>Opslaan..</Autosaving>
 
-	<GameStartDialog>Ihr drei wacht in euren Kryoschlafkapseln zum Geräusch von Sirenen und berstendem Metall auf. Trotz Explosionen und entweichender Atemluft schafft ihr es gerade noch, die rettenden Fluchtkapseln zu erreichen. Als ihr euch ins All katapultiert, zerbricht hinter euch das Raumschiff in tausend Teile.\n\nEinige Zeit später landet ihr auf dieser unbekannten Rimworld.\n\nUm euch herum schlagen noch die letzten Trümmer des zerstörten Raumschiffes ein, als ihr beginnt, Pläne für euer Überleben zu schmieden..</GameStartDialog>
+	<GameStartDialog>Er wachten cryptoslaapcapsules op jullie tussen verwrongen metaal. Tussen de explosies en al het geweld weten jullie nog net de capsules te bereiken. Als jullie in het heelal worden gekatapulteert, breekt achter jullie het ruimteschip in duizend stukken.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nOm jullie heen slaan nog de laatste delen van het ruimteschip in, wanneer jullie beginnen met het smeden van plannen ter overleving.</GameStartDialog>
 	
 	<Colony>Kolonie</Colony>
 	
-	<ChangeLanguageFromMainMenu>Die Sprache kannst du nur im Hauptmenü ändern.</ChangeLanguageFromMainMenu>
+	<ChangeLanguageFromMainMenu>De taal kun je alleen in het hoofdmenu veranderen.</ChangeLanguageFromMainMenu>
 
-	<AndLower>und</AndLower>
-	<DisabledLower>deaktiviert</DisabledLower>
+	<AndLower>en</AndLower>
+	<DisabledLower>gedeactiveerd</DisabledLower>
   
-    <CloseButton>Schließen</CloseButton>
+    <CloseButton>Sluiten</CloseButton>
 
 
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>Entwicklungsversion</DevelopmentBuildLower>
-  <CompiledOn>Erstellt am {0}</CompiledOn>
+  <VersionIndicator>Versie {0}</VersionIndicator>
+  <DevelopmentBuildLower>ontwikkelaarsversie</DevelopmentBuildLower>
+  <CompiledOn>Gecompileerd op {0}</CompiledOn>
 
-  <MeatLabel>{0} Fleisch</MeatLabel>
-   <MeatDesc>Rohes Fleisch von {0}.</MeatDesc>
+  <MeatLabel>{0} vlees</MeatLabel>
+   <MeatDesc>Vlees van {0}.</MeatDesc>
    
-  <LeatherLabel>{0} Leder</LeatherLabel>
-  <LeatherDesc>Leder aus der Haut von {0}.</LeatherDesc>
+  <LeatherLabel>{0} leer</LeatherLabel>
+  <LeatherDesc>Leer van de huid van {0}.</LeatherDesc>
    
-	<CorpseLabel>{0} (Leiche)</CorpseLabel>
-	<CorpseDesc>Toter Körper von {0}.</CorpseDesc>
-  <DeadLabel>{0} (tot)</DeadLabel>
+	<CorpseLabel>{0} (lichaam)</CorpseLabel>
+	<CorpseDesc>Dood lichaam van {0}.</CorpseDesc>
+  <DeadLabel>{0} (dood)</DeadLabel>
 
 
-	<BlueprintLabelExtra> (geplant)</BlueprintLabelExtra>
-  <FrameLabelExtra> (wird gebaut)</FrameLabelExtra>
+	<BlueprintLabelExtra>(gepland)</BlueprintLabelExtra>
+  <FrameLabelExtra> (wordt gebouwd)</FrameLabelExtra>
   
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <VariousLabel>(verschiedenes)</VariousLabel>
+  <VariousLabel>(verscheidenen)</VariousLabel>
 	
 	
   <!-- History events -->
-  <ColonistDied>Kolonist gestorben</ColonistDied>
+  <ColonistDied>Kolonist gestorven</ColonistDied>
 	
 </LanguageData>

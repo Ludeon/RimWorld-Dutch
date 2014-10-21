@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <MessageSiegersAssaulting>Belagerer {0} der {1} greifen die Kolonie an.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Belegeraars {0} van {1} vallen de kolonie aan.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} der {1} starten ihren Angriff.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} der {1} haben dich gesehen und greifen an.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} der {1} haben sich entschlossen wen sie erwischen können zu entführen und dann zu verschwinden.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} van {1} starten hun aanval.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} van {1} hebben je gezien en beginnen hun aanval nu al.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} van {1} hebben besloten te ontvoeren wie ze kunnen en weg te gaan.</MessageRaidersKidnapping>
   
-  <MessageRaidersLeaving>{0} der {1} verlassen das Gebiet.</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
   <MessageRaidersGivenUpLeaving>{0} der {1} haben aufgegeben und verlassen das Gebiet.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{0} der {1} sind zufrieden mit dem Schaden, den sie angerichtet haben und ziehen ab.</MessageRaidersSatisfiedLeaving>
 
@@ -15,40 +15,40 @@
 
   <MessageFriendlyFightersLeaving>Freundliche {0} der {1} verlassen das Gebiet.</MessageFriendlyFightersLeaving>
 	
-  <MessageShipHasLeftCommsRange>{0} ist jetzt außer Reichweite.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} is buiten de reikwijdte.</MessageShipHasLeftCommsRange>
 	
-  <MessageNeedBeaconToTradeWithShip>Du brauchst ein orbitales Funkfeuer um mit einem Raumschiff zu handeln.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Je hebt een orbitaal handelsbaken nodig om met dit ruimteschip te kunnen handelen.</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Aufgabe beendet: {0}.</MessageBillComplete>
+  <MessageBillComplete>Klus afgerond: {0}.</MessageBillComplete>
   
-  <MessageFullyHealed>{0} ist vollständig geheilt.</MessageFullyHealed>
+  <MessageFullyHealed>{0} is volledig hersteld.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Gefangener {0} bricht aus.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Gevangene {0} breekt uit.</MessagePrisonerIsEscaping>
 
-  <MessageRecruitSuccess>{0} hat erfolgreich {1} angeworben ({2} Chance).</MessageRecruitSuccess>
-  <MessageRecruitFail>{0} konnte {1} nicht anwerben ({2} Chance).</MessageRecruitFail>
-  	<MessageRecruitFailBecauseLoyalty>{0} konnte {1} nicht anwerben (Loyalität des Gefangenen ist zu niedrig).</MessageRecruitFailBecauseLoyalty>
+  <MessageRecruitSuccess>{0} heeft succesvol {1} gerecruteerd ({2} kans).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} heeft {1} niet kunnen recruteren ({2} kans) ({2} Chance).</MessageRecruitFail>
+  	<MessageRecruitFailBecauseLoyalty>{0} heeft {1} niet kunnen recruteren (Loyalität des Gefangenen ist zu niedrig).</MessageRecruitFailBecauseLoyalty>
 
-  <MessagePoorlyTreated>{1} hat {0} behandelt (Schlechte Qualität, {2} Wahrscheinlichkeit für gute Qualität)</MessagePoorlyTreated>
-  <MessageWellTreated>{1} hat {0} behandelt (Gute Qualität, {2} Wahrscheinlichkeit für gute Qualität)</MessageWellTreated>
+  <MessagePoorlyTreated>{1} heeft {0} behandeld (Slechte kwaliteit, {2} kans op goede kwaliteit)</MessagePoorlyTreated>
+  <MessageWellTreated>{1} heeft {0} behandeld (Goede kwaliteit, {2} kans op goede kwaliteit)</MessageWellTreated>
 	
-  <MessageTraderCannotAfford>Der Händler kann sich das nicht leisten.</MessageTraderCannotAfford>
-  <MessageColonyCannotAfford>Die Kolonie kann sich das nicht leisten.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>Du hast nicht genug Silber bereit stehen.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Händler hat nicht genug Silber.</MessageTraderNotEnoughSilver>
+  <MessageTraderCannotAfford>De handelaar kan zich dit niet veroorloven.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>De kolonie kan zich dit niet veroorloven.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Je hebt niet genoeg zilver klaar staan.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Handelaar heeft niet genoeg zilver.</MessageTraderNotEnoughSilver>
 
-  <MessageCriticalAlert>Kritischer Alarm: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>Kritische waarschuwing: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestable>Muss erntbaren Pflanzen zugeordnet sein, die ausreichend gewachsen sind.</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>Muss holzspendenden Bäumen zugeordnet sein, die ausreichend gewachsen sind.</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Muss Pflanzen zugeordnet sein.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Muss tragbaren Gegenständen zugeordnet sein.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHarvestable>Er moeten oogstbare planten worden geselecteerd, die volgroeid zijn.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Er moeten hakbare bomen worden geselecteerd, die volgroeid zijn</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Er moeten planten worden geselecteerd.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Er moet een draagbaar voorwerp worden geselecteerd.</MessageMustDesignateHaulable>
   
-  <MessageNoMedicalBeds>Es sind keine medizinischen Betten verfügbar.</MessageNoMedicalBeds>
+  <MessageNoMedicalBeds>Er zijn geen medische bedden beschikbaar.</MessageNoMedicalBeds>
   
-  <PawnDiedBecauseOf>{0} ist an {1} gestorben.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{0} is aan {1} gestorven.</PawnDiedBecauseOf>
 
-  <MessageNoLongerDowned>{0} kann wieder laufen.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{0} kan weer lopen.</MessageNoLongerDowned>
   
   
 </LanguageData>

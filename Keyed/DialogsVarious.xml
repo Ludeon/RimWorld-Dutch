@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>Bestätigen</Confirm>
-  <GoBack>Zurück</GoBack>
+  <Confirm>Bevestigen</Confirm>
+  <GoBack>Terug</GoBack>
   <OK>OK</OK>
 
   <!-- Save/load -->

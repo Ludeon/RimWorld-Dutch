@@ -31,54 +31,54 @@
 	<PlantCutting.verb>snijdt planten</PlantCutting.verb>
 	<PlantCutting.tooltipDesc>Plantensnijders snijden planten en hakken bomen om (en ja, die EI in de naam is een referentie naar onze geliefde voetballer).</PlantCutting.tooltipDesc>
 	
-	<Growing.pawnLabel>Landwirt</Growing.pawnLabel>
-	<Growing.gerundLabel>Anbauen</Growing.gerundLabel>
-	<Growing.verb>Baut an</Growing.verb>
-	<Growing.tooltipDesc>Ein Landwirt pflanzt Samen an und erntet die ausgewachsenen Feldfrüchte.</Growing.tooltipDesc>
+	<Growing.pawnLabel>Verbouwer</Growing.pawnLabel>
+	<Growing.gerundLabel>Verbouwen</Growing.gerundLabel>
+	<Growing.verb>Verbouwt</Growing.verb>
+	<Growing.tooltipDesc>Een verbouwer verzorgt planten en gewassen.</Growing.tooltipDesc>
 	
-	<Mining.pawnLabel>Bergarbeiter</Mining.pawnLabel>
-	<Mining.gerundLabel>Abbauen</Mining.gerundLabel>
-	<Mining.verb>Baut ab</Mining.verb>
-	<Mining.tooltipDesc>Ein Bergarbeiter baut die markierten Quadrate ab. Wenn es sich um Mineralienquadrate handelt, bekommt man brauchbare Mineralien.</Mining.tooltipDesc>
+	<Mining.pawnLabel>Delver</Mining.pawnLabel>
+	<Mining.gerundLabel>Delven</Mining.gerundLabel>
+	<Mining.verb>Delft</Mining.verb>
+	<Mining.tooltipDesc>Een delver delft gemarkeerde stenen. Als hij mineralen delft, zullen die mineralen ook vrij komen.</Mining.tooltipDesc>
 	
-	<Repair.pawnLabel>Mechaniker</Repair.pawnLabel>
-	<Repair.gerundLabel>Reparieren</Repair.gerundLabel>
-	<Repair.verb>Repariert</Repair.verb>
-	<Repair.tooltipDesc>Mechaniker reparieren beschädigte Gebäude und Ausrüstung.</Repair.tooltipDesc>
+	<Repair.pawnLabel>Reparateur</Repair.pawnLabel>
+	<Repair.gerundLabel>Repareren</Repair.gerundLabel>
+	<Repair.verb>Repareert</Repair.verb>
+	<Repair.tooltipDesc>Reparateurs repareren gebouwen.</Repair.tooltipDesc>
 	
-	<Construction.pawnLabel>Bauarbeiter</Construction.pawnLabel>
-	<Construction.gerundLabel>Bauen</Construction.gerundLabel>
-	<Construction.verb>Baut</Construction.verb>
-	<Construction.tooltipDesc>Bauarbeiter errichten die Dinge, die vorgegeben wurden.</Construction.tooltipDesc>
+	<Construction.pawnLabel>Bouwer</Construction.pawnLabel>
+	<Construction.gerundLabel>Bouwen</Construction.gerundLabel>
+	<Construction.verb>Bouwt</Construction.verb>
+	<Construction.tooltipDesc>Bouwers bouwen geplande constructies.</Construction.tooltipDesc>
 	
-	<Hunting.pawnLabel>Jäger</Hunting.pawnLabel>
+	<Hunting.pawnLabel>Jager</Hunting.pawnLabel>
 	<Hunting.gerundLabel>Jagen</Hunting.gerundLabel>
-	<Hunting.verb>Jagt</Hunting.verb>
-	<Hunting.tooltipDesc>Jäger töten Tiere, die zum Abschuss markiert wurden.</Hunting.tooltipDesc>
+	<Hunting.verb>Jaagt</Hunting.verb>
+	<Hunting.tooltipDesc>Jagers doden dieren, om ze vervolgens te kunnen slachten.</Hunting.tooltipDesc>
 	
-	<Cooking.pawnLabel>Koch</Cooking.pawnLabel>
-	<Cooking.gerundLabel>Kochen</Cooking.gerundLabel>
-	<Cooking.verb>Kocht</Cooking.verb>
-	<Cooking.tooltipDesc>Der Koch füllt Nährstoffpastenspender und bereitet Mahlzeiten zu.</Cooking.tooltipDesc>
+	<Cooking.pawnLabel>Kok</Cooking.pawnLabel>
+	<Cooking.gerundLabel>Koken</Cooking.gerundLabel>
+	<Cooking.verb>Kookt</Cooking.verb>
+	<Cooking.tooltipDesc>De kok vult de voedingsstoffenpasta-automaat en kookt maaltijden.</Cooking.tooltipDesc>
 	
-	<Warden.pawnLabel>Aufseher</Warden.pawnLabel>
-	<Warden.gerundLabel>Aufsehen</Warden.gerundLabel>
-	<Warden.verb>Überwacht</Warden.verb>
-	<Warden.tooltipDesc>Aufseher besuchen die Gefangenen, haben ein nettes Gespräch, verprügeln sie oder exekutieren sie - Was immer du entscheidest. Weiterhin bringen Aufseher den Gefangenen ihr Essen.</Warden.tooltipDesc>
+	<Warden.pawnLabel>Bewaker</Warden.pawnLabel>
+	<Warden.gerundLabel>Bewaken</Warden.gerundLabel>
+	<Warden.verb>Bewaakt</Warden.verb>
+	<Warden.tooltipDesc>Bewakers bezoeken de gevangenen, hebben gesprekken met ze, slaan ze in elkaar of executeren ze - Wat jij maar kiest. Ook brengen bewakers gevangenen hun eten.</Warden.tooltipDesc>
 
 	<Patient.pawnLabel>Patient</Patient.pawnLabel>
 	<Patient.gerundLabel>Patient</Patient.gerundLabel>
 	<Patient.verb>Patient</Patient.verb>
-	<Patient.tooltipDesc>Patienten gehen in ein Krankenbett, wenn sie medizinische Behandlung benötigen.</Patient.tooltipDesc>
+	<Patient.tooltipDesc>Patienten liggen in een ziekenbed, als ze en medische behandeling nodig hebben.</Patient.tooltipDesc>
 
-	<Doctor.pawnLabel>Doktor</Doctor.pawnLabel>
-	<Doctor.gerundLabel>Verarzten</Doctor.gerundLabel>
-	<Doctor.verb>Verarztet</Doctor.verb>
-	<Doctor.tooltipDesc>Der Arzt bringt essen und behandelt diejenigen, die verletzt im Bett liegen. Er versorgt Kolonisten und Gefangene gleichermaßen.</Doctor.tooltipDesc>
+	<Doctor.pawnLabel>Dokter</Doctor.pawnLabel>
+	<Doctor.gerundLabel>Verzorgen</Doctor.gerundLabel>
+	<Doctor.verb>Verzorgt</Doctor.verb>
+	<Doctor.tooltipDesc>De arts brengt eten aan en verzorgt degenen die verwond in bed liggen. Hij verzorgd gevangenen en kolonisten.</Doctor.tooltipDesc>
 	
-	<Firefighter.pawnLabel>Feuerwehrmann</Firefighter.pawnLabel>
-	<Firefighter.gerundLabel>Löschen</Firefighter.gerundLabel>
-	<Firefighter.verb>Löscht</Firefighter.verb>
-	<Firefighter.tooltipDesc>Der Feuerwehrmann löscht Feuer in der Kolonie.</Firefighter.tooltipDesc>
+	<Firefighter.pawnLabel>Brandweerman</Firefighter.pawnLabel>
+	<Firefighter.gerundLabel>Blussen</Firefighter.gerundLabel>
+	<Firefighter.verb>Blust</Firefighter.verb>
+	<Firefighter.tooltipDesc>De brandweerman blust het vuur in de kolonie.</Firefighter.tooltipDesc>
 
 </LanguageData>

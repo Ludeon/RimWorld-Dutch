@@ -4,7 +4,8 @@
   <ClockTime>Tijd</ClockTime>
   <ClockDate>Datum</ClockDate>
   <ClockYear>Jaar</ClockYear>
-  <DateReadoutTip>Sinds je aankomst zijn er {0} dagen voorbijgegaan.\Iedere maand heeft {1} dagen.</DateReadoutTip>
+  <DateReadoutTip>Sinds je aankomst zijn er {0} dagen voorbijgegaan.\Iedere maand heeft {1} dagen\nDit is jaar {2}.</DateReadoutTip>
+  <DateReadoutTip>Seit deiner Ankunft sind {0} Tage vergangen.\nJeder Monat hat {1} Tage.\nAktuelle Jahreszeit: {2}</DateReadoutTip>
 
 
 

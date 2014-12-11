@@ -1,9 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
   <DesignatorCancel>Annuleren</DesignatorCancel>
   <DesignatorCancelDesc>Annuleert het bouwen van gebouwen, ophalen van spullen en andere orders.</DesignatorCancelDesc>
 
+  <DesignatorSmoothFloor>Vloer gladmaken</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Markeer ruwe stenen, die glad moeten worden gemaakt.</DesignatorSmoothFloorDesc> 
+  
+  <DesignatorRegionSnowClearAdd>'Sneewruimen' markeren</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Maak een zone, waarin jouw kolonisten alle sneeuw zullen weghalen.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>'Schnee räumen' entfernen</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Entfernt eine 'Schnee räumen' Zone. Kolonisten werden hier nicht mehr versuchen den Bereich Schneefrei zu halten.</DesignatorRegionSnowClearRemoveDesc>
+  
+  
   <DesignatorCutPlants>Planten wieden</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Markeert planten die gewied moeten worden. Hieronder vallen ook planten die geoogst kunnen worden</DesignatorCutPlantsDesc>
 

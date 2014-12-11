@@ -31,10 +31,7 @@
   <!-- ======== Landable biomes (not implemented) ==========-->
 	   
 	<Tundra.label>Tundra</Tundra.label>
-   <Tundra.description>In dit grotendeels bevroren landschap zul je weinig planten en bomen vinden. Hier zul je slechts een paar kleine dieren en wat grotere groepen plantenetenden dieren en hun vijanden aantreffen.</Tundra.description> 
-	<BorealForest.label>Naaldbos</BorealForest.label>
-	<BorealForest.description>Een noordelijk bos, bestaande uit naaldbomen. Ondanks de strenge winters wonen in de naaldbossen zowel kleine als grote dieren.</BorealForest.description>
-	
+  <Tundra.description>In dit grotendeels bevroren landschap zul je weinig planten en bomen vinden. Hier zul je slechts een paar kleine dieren en wat grotere groepen plantenetenden dieren en hun vijanden aantreffen.</Tundra.description> 
 	
 	
 </LanguageData>

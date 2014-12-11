@@ -33,18 +33,15 @@
   <PriceTypeExpensive>duur</PriceTypeExpensive>
   <PriceTypeExorbitant>te duur</PriceTypeExorbitant>
 
-  <!-- stat category -->
-  <StatCategory_General>algemeen</StatCategory_General>
-  <StatCategory_GeneralNonPawn>algemeen</StatCategory_GeneralNonPawn>
-  <StatCategory_Armor>Uitrusting</StatCategory_Armor>
-  <StatCategory_PawnPrimary>Primair</StatCategory_PawnPrimary>
-  <StatCategory_PawnWork>Werk</StatCategory_PawnWork>
-  <StatCategory_PawnCombat>Strijd</StatCategory_PawnCombat>
-  <StatCategory_PawnSocial>Sociaal</StatCategory_PawnSocial>
-  <StatCategory_PawnMisc>Versch.</StatCategory_PawnMisc>
-  <StatCategory_Building>Gebouwen</StatCategory_Building>
-  
-  <EquippedStatOffsets>Aanpassing als aangetrokken</EquippedStatOffsets>
-  <StuffOfEquipmentStatModifiers>Pas aan wanneer een kledingsstuk hiervan gemaakt is</StuffOfEquipmentStatModifiers>
+ <!-- Quality category -->
+  <QualityCategory_Awful>Verschrikkelijk</QualityCategory_Awful>
+  <QualityCategory_Shoddy>zeer slecht</QualityCategory_Shoddy>
+  <QualityCategory_Poor>slecht</QualityCategory_Poor>
+  <QualityCategory_Normal>normaal</QualityCategory_Normal>
+  <QualityCategory_Good>goed</QualityCategory_Good>
+  <QualityCategory_Superior>erg goed</QualityCategory_Superior>
+  <QualityCategory_Excellent>excelent</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>meesterlijk</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendarisch</QualityCategory_Legendary>
   
 </LanguageData>

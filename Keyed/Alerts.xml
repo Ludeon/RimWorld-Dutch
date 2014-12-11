@@ -8,9 +8,6 @@
 
   <AlertUnforbidStartingResources>Spullen toestaan</AlertUnforbidStartingResources>
   <AlertUnforbidStartingResourcesDesc>De beginspullen zijn Verboden.\n\nOm je kolonisten hier wat mee te kunnen laten doen, moet je ze toestaan, door ze aan te klikken en op "Toestaan" te klikken.</AlertUnforbidStartingResourcesDesc>
-
-  <AlertEquipStartingWeapons>Wapens uitrusten</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Samen met je kolonisten zijn enkele wapens geland. Rust je kolonisten met hen uit!\n\nWijs je kolonisten een wapen toe, door er met je rechtermuisknop op te klikken.</AlertEquipStartingWeaponsDesc>
   
   <NeedSawmill>Zaagmolen nodig</NeedSawmill>
   <NeedSawmillDesc>Je hebt een zaagmolen nodig, om planken te maken van hout.\n\nBouw een handzagerij of een electrische zagerij.</NeedSawmillDesc>
@@ -107,6 +104,8 @@
   <PawnsWithLifeThreateningDiseaseDesc>Deze kolonisten staan op het punt aan hun ziektes te overlijden:\n\n{0}\nZorg ervoor, dat zij zoveel mogenlijk behandeling krijgen.</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Deze kolonisten staan op het punt aan hun ziektes te overlijde:\n\n{0}\nProbeer, indien mogenlijk, de geinfecteerde lichaamsdelen te amputeren.</PawnsWithLifeThreateningDiseaseAmputationDesc>
   
+  <AlertHypothermia>Onderkoeling</AlertHypothermia>
+  <AlertHypothermiaDesc>Deze kolonisten zijn onderkoeld.\n\n{0}\nZorg dat zij gekleed zijn op de temperatuur van het jaargetijde.</AlertHypothermiaDesc>
   <!--<AlertAbsentMinded>{0} is zijn verstand verloren</AlertAbsentMinded>-->
   
 </LanguageData>

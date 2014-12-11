@@ -80,13 +80,6 @@
   <BillStoreMode_NearestStockpileAnyPriority>Naar dichtstbijzijnde opslagplaats brengen</BillStoreMode_NearestStockpileAnyPriority>
   
     <!-- Def Card -->
-  <Type>type</Type>
-  <GunType>wapen</GunType>
-  <PlantType>plant</PlantType>
-  <FoodType>eten</FoodType>
-  <HumanType>mens</HumanType>
-  <AnimalType>dier</AnimalType>
-  <MechanoidType>mechanoide</MechanoidType>
   <Damage>schade</Damage>
   <Accuracy>accuratie</Accuracy>
   <BurstShotCount>schoten per salvo</BurstShotCount>
@@ -111,7 +104,7 @@
   <MinFoodQuality>minimale eetkwaliteit</MinFoodQuality>
   <Diet>voedsel</Diet>
   <RecruitDifficulty>Recruteringsmoeilijkheid</RecruitDifficulty>
-  <baseMarketValue>grondprijs</baseMarketValue>
+  <MarketValue>grondprijs</MarketValue>
   <Covers>bedekt</Covers>
   <NaturalArmorCovers>natuurlijke beschreming bedekt</NaturalArmorCovers>
   <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>

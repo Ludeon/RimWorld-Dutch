@@ -10,6 +10,11 @@
 
   <FireAt>Schiet op {0}</FireAt>
 
+  <CarryToCryptosleepCasket>Draag {0} naar cryptoslaapkapsel</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kan niet naar cryptoslaapkapsel dragen</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Geen cryptosleepkapsel beschikbaar</NoCryptosleepCasket>
+
   <OutOfRange>Buiten reikwijdte</OutOfRange>
   <CannotHitTarget>Kan het doel niet raken</CannotHitTarget>
   <CannotFight>{0} kan niet vechten</CannotFight>
@@ -68,7 +73,10 @@
   <SomeoneElseSleeping>Bezet</SomeoneElseSleeping>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepPod>Ga ub crytoslaappod</EnterCryptosleepPod>
+  <EnterCryptosleepPod>Ga in crytoslaappod</EnterCryptosleepPod>
+ 
+  <EnterCryptosleepCasket>Ga in cryptoslaapkapsel</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Open cryptoslaapkapsel</OpenCryptosleepCasket>
   
   
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->

@@ -4,10 +4,10 @@
   <!-- ======== Unlandable biomes ==========-->
   
 	<Ocean.label>Oceaan</Ocean.label>
-	<Ocean.description>Een grote ocean, goed voor vissen, maar niet voor jou</Ocean.description>	
+	<Ocean.description>De open zee. Goed voor de vissen en andere waterbeesten, maar niet voor jou weggelegt.</Ocean.description>	
 	
 	<IceSheet.label>IJskap</IceSheet.label>
-	<IceSheet.description>Een dikke ijskap bedekt het landschap. Door het ijs kun je hier niet bij de bodem of gesteenten, daarom zijn hier ook geen planten. De enige dieren die je hier tegen zult komen zijn ook op doorreis naar andere plaatsen - of ze zijn hopenloos verdwaald.</IceSheet.description>	
+	<IceSheet.description>Een landschap wordt bedekt door een dik laag ijs. Je hebt hier geen toegang tot gesteente of zachte grond en er groeien zeer zeker geen planten. Dieren komen hier alleen tijdens hun migratie... of als ze hopeloos verdwaalt zijn.</IceSheet.description>	
 	
 
   <!-- ======== Buildable biomes ==========-->	
@@ -16,8 +16,8 @@
 	<AridShrubland.description>Een droog gebied, maar niet droog genoeg voor een woestijn. Open vlaktes met gras, en hier en daar een groepje bomen. Hier groeien planten, en hier en je zult zelfs dieren vinden.</AridShrubland.description>
 	
 	
-	<TemperateForest.label>Gematigd woud</TemperateForest.label>
-	<TemperateForest.description>Een vriendelijk landschap, waar je aardig wat bomen en veel open plekken zult vinden. Ook zijn er veel dieren te vinden tussen de bomen en op de open plekken.</TemperateForest.description>
+	<TemperateForest.label>Bezadigd Bos</TemperateForest.label>
+	<TemperateForest.description>Een zacht landschap met veel bomen, hier en daar onderbroken door een mooie open plek. Zowel dieren als eetbare planten zijn hier in overvloed.</TemperateForest.description>
 	
 	
 	<Desert.label>Woestijn</Desert.label>
@@ -25,7 +25,7 @@
 	
 	
 	<TropicalRainforest.label>Tropisch regenwoud</TropicalRainforest.label>
-	<TropicalRainforest.description>Een dikke, natte jungel. De dichte plantengroei en de aggressieve dieren hinderen het bouwen van je basis en het overleven op zich.</TropicalRainforest.description>
+	<TropicalRainforest.description>Een dik, nat regenwoud. De overmatige aanwezigheid van planten en aggressieve dieren hinderen het bouwen van je kolonie en het overleven op zich.</TropicalRainforest.description>
 	
   <BorealForest.label>Naaldbos</BorealForest.label>
 	<BorealForest.description>Een noordelijk bos, bestaande uit naaldbomen. Ondanks de strenge winters wonen in de naaldbossen zowel kleine als grote dieren.</BorealForest.description>

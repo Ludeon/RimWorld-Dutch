@@ -1,30 +1,54 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
-	<Torso.label>Torso</Torso.label>
-	<UpperHead.label>Voorhoofd</UpperHead.label>
-	<FullHead.label>Heel het hoofd</FullHead.label>
-	<Eyes.label>Ogen</Eyes.label>
-	<Arms.label>Armen</Arms.label>
-	<Hands.label>Handen</Hands.label>
-	<LeftFist.label>Linkervuist</LeftFist.label>
-	<RightFist.label>Rechtervuist</RightFist.label>
-	<Legs.label>Benen</Legs.label>
-	<Feet.label>Voeten</Feet.label>
-	<Teeth.label>Tanden</Teeth.label>
-	<FrontLeftPaw.label>Linker voorpoot</FrontLeftPaw.label>
-	<FrontRightPaw.label>Rechter voorpoot</FrontRightPaw.label>
-	<HeadAttackTool.label>Kop</HeadAttackTool.label>
-	<FrontLeftLeg.label>Linker voorbeen</FrontLeftLeg.label>
-	<FrontRightLeg.label>Rechter voorbeen</FrontRightLeg.label>
-	<FrontLeftClaws.label>Linker klauw (voor)</FrontLeftClaws.label>
-	<FrontRightClaws.label>Rechter klauw (voor</FrontRightClaws.label>
-	<Mouth.label>Mond</Mouth.label>
-	<LeftKnifeProtrusion.label>Linker mesuisteeksel</LeftKnifeProtrusion.label>
-	<RightKnifeProtrusion.label>Rechter mesuitsteeksel</RightKnifeProtrusion.label>
-	<CoveredByNaturalArmor.label>Bedekt met een natuurlijk pantser</CoveredByNaturalArmor.label>
-	<TuskAttackTool.label>Stoottand</TuskAttackTool.label>
-	<HornAttackTool.label>Hoorn</HornAttackTool.label>
-	<TurtleBeakAttackTool.label>Bek</TurtleBeakAttackTool.label>
-		
+    
+    <Torso.label>torso</Torso.label>
+    
+    <UpperHead.label>voorhoofd</UpperHead.label>
+    
+    <FullHead.label>volledig hoofd</FullHead.label>
+    
+    <Eyes.label>ogen</Eyes.label>
+    
+    <Arms.label>armen</Arms.label>
+    
+    <Hands.label>handen</Hands.label>
+    
+    <LeftFist.label>linker vuist</LeftFist.label>
+    
+    <RightFist.label>rechter vuist</RightFist.label>
+    
+    <Legs.label>benen</Legs.label>
+    
+    <Feet.label>voeten</Feet.label>
+    
+    <Teeth.label>tanden</Teeth.label>
+    
+    <FrontLeftPaw.label>linker voorpoot</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>rechter voorpoot</FrontRightPaw></FrontRightPaw.label>
+    
+    <HeadAttackTool.label>hoofd</HeadAttackTool.label>
+    
+    <FrontLeftLeg.label>linker voorbeen</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>rechter voorbeen</FrontRightLeg.label>
+    
+    <FrontLeftClaws.label>linker klauw (voorkant)</FrontLeftClaws.label>
+    
+    <FrontRightClaws.label>rechter klauw (voorkant)</FrontRightClaws.label>
+    
+    <Mouth.label>mond</Mouth.label>
+    
+    <LeftKnifeProtrusion.label>linker mesuisteeksel</LeftKnifeProtrusion.label>
+    
+    <RightKnifeProtrusion.label>rechter mesuisteeksel</RightKnifeProtrusion.label>
+    
+    <CoveredByNaturalArmor.label>bedekt door natuurlijke bepantsering</CoveredByNaturalArmor.label>
+    
+    <TuskAttackTool.label>slagtand</TuskAttackTool.label>
+    
+    <HornAttackTool.label>hoorn</HornAttackTool.label>
+    
+    <TurtleBeakAttackTool.label>bek</TurtleBeakAttackTool.label>
+    
 </LanguageData>

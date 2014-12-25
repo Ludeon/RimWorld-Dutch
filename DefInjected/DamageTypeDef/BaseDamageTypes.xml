@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Cut.label>Snee</Cut.label>
-	<Cut.deathMessage>{0} is gestorven aan sneden</Cut.deathMessage>
+	<Cut.label>Snijwond</Cut.label>
+	<Cut.deathMessage>{0} is gestorven aan snijwonden.</Cut.deathMessage>
 	
 	<Crush.label>Verplettering</Crush.label>
-	<Crush.deathMessage>{0} is geplet</Crush.deathMessage>
+	<Crush.deathMessage>{0} is verplettert.</Crush.deathMessage>
 	
 	<Blunt.label>Slag</Blunt.label>
 	<Blunt.deathMessage>{0} is doodgeslagen.</Blunt.deathMessage>
@@ -31,16 +31,16 @@
 	<Flame.label>Vuur</Flame.label>
 	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
 	
-	<SurgicalCut.label>medische ingreep</SurgicalCut.label>
-	<SurgicalCut.deathMessage>{0} is bij een medische ingreep omgekomen.</SurgicalCut.deathMessage>
+	<SurgicalCut.label>chirurgische ingreep</SurgicalCut.label>
+	<SurgicalCut.deathMessage>{0} is bij een chriurgische ingreep omgekomen.</SurgicalCut.deathMessage>
 	
-	<Stun.label>Verlamd</Stun.label>
-	<Stun.deathMessage>{0} werd verlamd en is er aan gestorven.</Stun.deathMessage>
+	<Stun.label>Verlamt</Stun.label>
+	<Stun.deathMessage>{0} werd verlamt en is er aan gestorven.</Stun.deathMessage>
 	
 	<EMP.label>EMP</EMP.label>
 	<EMP.deathMessage>{0} is door een EMP gedood.</EMP.deathMessage>
 	
-	<Bleeding.label>Bloeding</Bleeding.label>
+	<Bleeding.label>Bloedend</Bleeding.label>
 	<Bleeding.deathMessage>{0} is doodgebloed.</Bleeding.deathMessage>
 	
 	<Suffocation.label>Verstikking</Suffocation.label>
@@ -50,7 +50,7 @@
 	<Starvation.deathMessage>{0} is verhongerd.</Starvation.deathMessage>
 	
   <!-- Healing local injury -->
-	<HealLocalInjury.label>Locale wonden aan het verzorgen</HealLocalInjury.label>
+	<HealLocalInjury.label>Lokale wonden aan het verzorgen</HealLocalInjury.label>
 	
   <!-- Healing global injury -->
 	<HealGlobalInjury.label>Alle wonden aan het verzorgen</HealGlobalInjury.label>

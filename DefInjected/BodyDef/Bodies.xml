@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
-	<Human.label>Mens</Human.label>
-	<QuadrupedAnimalWithPaws.label>Viervoetig dier</QuadrupedAnimalWithPaws.label>
-	<QuadrupedAnimalWithPawsAndTail.label>Viervoetig dier</QuadrupedAnimalWithPawsAndTail.label>
-	<QuadrupedAnimalWithHooves.label>Viervoetig dier</QuadrupedAnimalWithHooves.label>
-	<QuadrupedAnimalWithHoovesAndHump.label>Viervoetig dier</QuadrupedAnimalWithHoovesAndHump.label>
-	<QuadrupedAnimalWithHoovesAndTusks.label>Viervoetig dier</QuadrupedAnimalWithHoovesAndTusks.label>
-	<QuadrupedAnimalWithHoovesAndHorn.label>Viervoetig dier</QuadrupedAnimalWithHoovesAndHorn.label>
-	<QuadrupedAnimalWithClawsTailAndJowl.label>Viervoetig dier</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+	<Human.label>mens</Human.label>
+
+	<QuadrupedAnimalWithPaws.label>viervoetig</QuadrupedAnimalWithPaws.label>
+
+	<QuadrupedAnimalWithPawsAndTail.label>viervoetig dier</QuadrupedAnimalWithPawsAndTail.label>
+
+	<QuadrupedAnimalWithHooves.label>viervoetig dier</QuadrupedAnimalWithHooves.label>
+
+	<QuadrupedAnimalWithHoovesAndHump.label>viervoetig dier</QuadrupedAnimalWithHoovesAndHump.label>
+
+	<QuadrupedAnimalWithHoovesAndTusks.label>viervoetig dier</QuadrupedAnimalWithHoovesAndTusks.label>
+
+	<QuadrupedAnimalWithHoovesAndHorn.label>viervoetig dier</QuadrupedAnimalWithHoovesAndHorn.label>
+
+	<QuadrupedAnimalWithClawsTailAndJowl.label>viervoetig dier</QuadrupedAnimalWithClawsTailAndJowl.label>
+
 	<BeetleLike.label>Keverachtige</BeetleLike.label>
-	<TurtleLike.label>Schildachtige</TurtleLike.label>
-	<MechanicalCentipede.label>Mechanische tienpoot</MechanicalCentipede.label>
-	<Mechanoid.label>Mechanoide</Mechanoid.label>
-	<Snake.label>Slang</Snake.label>
-	<Monkey.label>Aap</Monkey.label>
-	
+
+	<TurtleLike.label>Schildpadachtige</TurtleLike.label>
+
+	<MechanicalCentipede.label>mechanische duizendpoot</MechanicalCentipede.label>
+
+	<Mechanoid.label>mechanoide</Mechanoid.label>
+
+	<Snake.label>slang</Snake.label>
+
+	<Monkey.label>aap</Monkey.label>
+
 </LanguageData>

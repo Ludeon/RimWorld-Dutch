@@ -3,37 +3,30 @@
 	
   <!-- ======== Unlandable biomes ==========-->
   
-	<Ocean.label>Oceaan</Ocean.label>
-	<Ocean.description>De open zee. Goed voor de vissen en andere waterbeesten, maar niet voor jou weggelegt.</Ocean.description>	
+	<Ocean.label>oceaan</Ocean.label>
+	<Ocean.description>De open zee. Geweldig terrein vissen maar niet zozeer voor jou. - </Ocean.description>	
 	
-	<IceSheet.label>IJskap</IceSheet.label>
-	<IceSheet.description>Een landschap wordt bedekt door een dik laag ijs. Je hebt hier geen toegang tot gesteente of zachte grond en er groeien zeer zeker geen planten. Dieren komen hier alleen tijdens hun migratie... of als ze hopeloos verdwaalt zijn.</IceSheet.description>	
+	<IceSheet.label>ijskappen</IceSheet.label>
+	<IceSheet.description>Dit landschap wordt bedekt door een dik laag ijs. Je hebt hier geen toegang tot gesteente of zachte grond en er groeien zeer zeker geen planten. Dieren komen hier alleen tijdens hun migratie of als ze hopeloos verdwaalt zijn.</IceSheet.description>	
 	
-
   <!-- ======== Buildable biomes ==========-->	
 
-	<AridShrubland.label>Savanne</AridShrubland.label>
-	<AridShrubland.description>Een droog gebied, maar niet droog genoeg voor een woestijn. Open vlaktes met gras, en hier en daar een groepje bomen. Hier groeien planten, en hier en je zult zelfs dieren vinden.</AridShrubland.description>
+	<AridShrubland.label>savanne</AridShrubland.label>
+	<AridShrubland.description>Een warm, droog gebied, maar niet genoeg om tot een woestijn te worden benoemt. Grote open vlaktes bedekt met gras onderbroken door hier en daar een bosje. Alleen geharde planten overleven het hier en er zijn redelijk wat dieren in de omgeving.</AridShrubland.description>
 	
-	
-	<TemperateForest.label>Bezadigd Bos</TemperateForest.label>
+	<TemperateForest.label>bos</TemperateForest.label>
 	<TemperateForest.description>Een zacht landschap met veel bomen, hier en daar onderbroken door een mooie open plek. Zowel dieren als eetbare planten zijn hier in overvloed.</TemperateForest.description>
 	
-	
-	<Desert.label>Woestijn</Desert.label>
+	<Desert.label>woestijn</Desert.label>
 	<Desert.description>Een zeer droog en heet gebied, waar erg weinig dieren en planten zijn.</Desert.description>
 	
+	<TropicalRainforest.label>tropisch regenwoud</TropicalRainforest.label>
+	<TropicalRainforest.description>Een bedompt, nat regenwoud. De overmatige aanwezigheid van planten, bomen en aggressieve dieren maken het moeilijk om dingen te bouwen of alleen al te kunnen overleven.</TropicalRainforest.description>
 	
-	<TropicalRainforest.label>Tropisch regenwoud</TropicalRainforest.label>
-	<TropicalRainforest.description>Een dik, nat regenwoud. De overmatige aanwezigheid van planten en aggressieve dieren hinderen het bouwen van je kolonie en het overleven op zich.</TropicalRainforest.description>
+	<BorealForest.label>noorderbossen</BorealForest.label>
+	<BorealForest.description>Een noordelijk bos, bestaande uit naaldbomen. Ondanks de strenge winters wonen in de noorderbossen zowel kleine als grote dieren.</BorealForest.description>
 	
-  <BorealForest.label>Naaldbos</BorealForest.label>
-	<BorealForest.description>Een noordelijk bos, bestaande uit naaldbomen. Ondanks de strenge winters wonen in de naaldbossen zowel kleine als grote dieren.</BorealForest.description>
-	<Tundra.label>Tundra</Tundra.label>
-  <Tundra.description>In dit grotendeels bevroren landschap zul je weinig planten en bomen vinden. Hier zul je slechts een paar kleine dieren en wat grotere groepen plantenetenden dieren en hun vijanden aantreffen.</Tundra.description> 
+	<Tundra.label>toendra</Tundra.label>
+  	<Tundra.description>Dit grotendeels bevroren landschap bevat niet veel plantleven. Het beste wat je zult aantreffen zijn migrerende herbivoren en hun jagers.</Tundra.description> 
 
-  <!-- ======== Landable biomes (not implemented) ==========-->
-	   
-	
-	
 </LanguageData>

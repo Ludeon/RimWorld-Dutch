@@ -32,10 +32,10 @@
 	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
 	
 	<SurgicalCut.label>chirurgische ingreep</SurgicalCut.label>
-	<SurgicalCut.deathMessage>{0} is bij een chriurgische ingreep omgekomen.</SurgicalCut.deathMessage>
+	<SurgicalCut.deathMessage>{0} is bij een chrirurgische ingreep omgekomen.</SurgicalCut.deathMessage>
 	
 	<Stun.label>Verlamt</Stun.label>
-	<Stun.deathMessage>{0} werd verlamt en is er aan gestorven.</Stun.deathMessage>
+	<Stun.deathMessage>{0} raakte verlamt en is er aan gestorven.</Stun.deathMessage>
 	
 	<EMP.label>EMP</EMP.label>
 	<EMP.deathMessage>{0} is door een EMP gedood.</EMP.deathMessage>

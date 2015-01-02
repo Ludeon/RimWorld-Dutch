@@ -8,7 +8,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[0].description</path>
-    <trans>NAME  valt achter bij de groep, waar HE ook heen gaat.</trans>
+    <trans>NAME loopt vaak achteraan bij de groep, waar HE ook heen gaat.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[1].label</path>
@@ -16,11 +16,11 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[1].description</path>
-    <trans>NAME houdt er van door te zijn, waar HE heen gaat. HECAP is sneller dan de meeste mensen.</trans>
+    <trans>NAME houdt ervan ergens heen te gaan. HECAP is sneller dan de meeste mensen.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[2].label</path>
-    <trans>Jogger</trans>
+    <trans>Hardloper</trans>
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[2].description</path>
@@ -50,7 +50,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].description</path>
-    <trans>NAME is van nature pessimistisch. HECAP neight altijd de negatieve kant van het leven te zien.</trans>
+    <trans>NAME is van nature pessimistisch. HECAP neigt altijd de negatieve kant van het leven te zien.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].label</path>
@@ -84,7 +84,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].description</path>
-    <trans>NAME neigt ernaar, onder stress te bezwijken.</trans>
+    <trans>NAME neigt ernaar onder stress te bezwijken.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].label</path>
@@ -128,11 +128,11 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].description</path>
-    <trans>NAME is van nature een harde werker is sneller klaar met HIS klussen dan de meeste anderenS.</trans>
+    <trans>NAME is van nature een harde werker is sneller klaar met HIS klussen dan de meeste anderen.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].label</path>
-    <trans>traag</trans>
+    <trans>Traag</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].description</path>

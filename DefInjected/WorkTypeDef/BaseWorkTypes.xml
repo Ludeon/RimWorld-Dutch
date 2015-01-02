@@ -4,12 +4,12 @@
 	<Research.pawnLabel>onderzoeken</Research.pawnLabel>
 	<Research.gerundLabel>onderzoeker</Research.gerundLabel>
 	<Research.verb>onderzoek naar</Research.verb>
-	<Research.tooltipDesc>onderzoekers onderzoeken dingen.</Research.tooltipDesc>
+	<Research.tooltipDesc>onderzoekers onderzoeken technologiën.</Research.tooltipDesc>
 	
 	<Cleaning.pawnLabel>Schoonmaker</Cleaning.pawnLabel>
 	<Cleaning.gerundLabel>Schoonmaken</Cleaning.gerundLabel>
 	<Cleaning.verb>Maakt schoon</Cleaning.verb>
-	<Cleaning.tooltipDesc>Schoonmakers maken vuil schoon, en verhogen hiermee de levensstandaard van de kolonisten.</Cleaning.tooltipDesc>
+	<Cleaning.tooltipDesc>Schoonmakers halen vuil weg, en verhogen hiermee de levensstandaard van de kolonisten.</Cleaning.tooltipDesc>
 	
 	<Hauling.pawnLabel>drager</Hauling.pawnLabel>
 	<Hauling.gerundLabel>dragen</Hauling.gerundLabel>
@@ -29,7 +29,7 @@
 	<PlantCutting.pawnLabel>plantensneider</PlantCutting.pawnLabel>
 	<PlantCutting.gerundLabel>plant snijden</PlantCutting.gerundLabel>
 	<PlantCutting.verb>snijdt planten</PlantCutting.verb>
-	<PlantCutting.tooltipDesc>Plantensnijders snijden planten en hakken bomen om (en ja, die EI in de naam is een referentie naar onze geliefde voetballer).</PlantCutting.tooltipDesc>
+	<PlantCutting.tooltipDesc>Plantensnijders snijden planten en hakken bomen om.</PlantCutting.tooltipDesc>
 	
 	<Growing.pawnLabel>Verbouwer</Growing.pawnLabel>
 	<Growing.gerundLabel>Verbouwen</Growing.gerundLabel>
@@ -44,7 +44,7 @@
 	<Repair.pawnLabel>Reparateur</Repair.pawnLabel>
 	<Repair.gerundLabel>Repareren</Repair.gerundLabel>
 	<Repair.verb>Repareert</Repair.verb>
-	<Repair.tooltipDesc>Reparateurs repareren gebouwen.</Repair.tooltipDesc>
+	<Repair.tooltipDesc>Reparateurs repareren gebouwen en apparatuur.</Repair.tooltipDesc>
 	
 	<Construction.pawnLabel>Bouwer</Construction.pawnLabel>
 	<Construction.gerundLabel>Bouwen</Construction.gerundLabel>

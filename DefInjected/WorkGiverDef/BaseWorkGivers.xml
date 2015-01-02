@@ -68,13 +68,6 @@
 	<DoBillsButcherMechanoid.verb>afbreken</DoBillsButcherMechanoid.verb>
 	<DoBillsButcherMechanoid.gerund>breekt af</DoBillsButcherMechanoid.gerund>
 	
-	<!--
-	<DoBillsMakeWoodPlanks_Electric.verb>zersäge Stämme</DoBillsMakeWoodPlanks_Electric.verb>
-	<DoBillsMakeWoodPlanks_Electric.gerund>zersägt Stämme</DoBillsMakeWoodPlanks_Electric.gerund>
-	<DoBillsMakeWoodPlanks_Hand.verb>zersäge Stämme</DoBillsMakeWoodPlanks_Hand.verb>
-	<DoBillsMakeWoodPlanks_Hand.gerund>zersägt Stämme</DoBillsMakeWoodPlanks_Hand.gerund>
-	-->
-	
   <!-- ============= Medical operations ============= -->
 	
 	<TakeToBedToOperate.verb>naar een bed brengen voor operatie</TakeToBedToOperate.verb>
@@ -85,9 +78,5 @@
 	
 	<DoBillsMedicalMechanoidOperation.verb>modificeren</DoBillsMedicalMechanoidOperation.verb>
 	<DoBillsMedicalMechanoidOperation.gerund>modifeert</DoBillsMedicalMechanoidOperation.gerund>
-  
-  
-	
-	
-	
+
 </LanguageData>

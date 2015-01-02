@@ -12,6 +12,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 Official Translators:
 ---------------------
 - datdenkikniet
+- Geertje123
 - SaKenyi
 - Gangleider
 - Ser-Geeves (inactive)

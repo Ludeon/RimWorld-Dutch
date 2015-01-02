@@ -2,13 +2,13 @@
 <LanguageData>
 	
   <!-- Psychic drone -->
-	<PsychicDroneLow.label>Psychisch gedreun (licht)</PsychicDroneLow.label>
+	<PsychicDroneLow.label>Psychisch gedreun (laag)</PsychicDroneLow.label>
     <PsychicDroneLow.description>Het is als een licht gezoem. Een stem, die me wat influistert. Ik kan maar een paar woorden verstaan, maar het bevalt me niet.</PsychicDroneLow.description>
 
-	<PsychicDroneMedium.label>Psychisch gedreun (middel)</PsychicDroneMedium.label>
-    <PsychicDroneMedium.description>Het voelt, alsof er iemand is. Gewoon, maar dan uit het zicht. De stem verandert, maar niet wat hij zegt. Ik zal pijn krijgen. Zorg dat het stopt!</PsychicDroneMedium.description>
+	<PsychicDroneMedium.label>Psychisch gedreun (middelmatig)</PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Het voelt, alsof er iemand is... uit het zicht, maar tegen me praat. De stem verandert, maar niet wat hij zegt. Ik zal pijn krijgen. Zorg dat het stopt!</PsychicDroneMedium.description>
 	
-	<PsychicDroneHigh.label>Psychisch gedreun (sterk)</PsychicDroneHigh.label>
+	<PsychicDroneHigh.label>Psychisch gedreun (hoog)</PsychicDroneHigh.label>
     <PsychicDroneHigh.description>De stem is ondraaglijk luid. Het is zo moeilijk je te concentreren. Ik merk, dat als ik antwoord, dat de stem even stopt. Hij reageert even niet, maar schreeuwt daarna eenvoudig verder.</PsychicDroneHigh.description>
 	
 	<PsychicDroneExtreme.label>Psychisch gedreun (extreem)</PsychicDroneExtreme.label>

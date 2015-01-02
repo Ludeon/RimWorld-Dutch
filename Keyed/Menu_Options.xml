@@ -2,42 +2,40 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audio/graphics</Audiovisuals>
-  <GameVolume>spelvolume</GameVolume>
-  <MusicVolume>muziekvolume</MusicVolume>
-  <GraphicsQuality>graphicskwaliteit</GraphicsQuality>
-  <GraphicsQualityNormal>normaal</GraphicsQualityNormal>
-  <GraphicsQualityGreat>goed</GraphicsQualityGreat>
+  <Audiovisuals>Audio/video</Audiovisuals>
+  <GameVolume>Spelvolume</GameVolume>
+  <MusicVolume>Muziekvolume</MusicVolume>
+  <GraphicsQuality>Beeldkwaliteit</GraphicsQuality>
+  <GraphicsQualityNormal>Normaal</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Beste</GraphicsQualityGreat>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>muis-scroll bij beeldschermrand</EdgeScreenScroll>
+  <EdgeScreenScroll>Beeldschermrandscrolling</EdgeScreenScroll>
   <CustomCursor>Aangepaste muiscursor</CustomCursor>
-  <ChooseLanguage>Taal kiezen</ChooseLanguage>
-  <AdaptiveTutor>Adaptieve leraar</AdaptiveTutor>
-  <ResetAdaptiveTutor>Adapt. leraar resetten</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>De adaptieve leraar is gereset, alles zal weer vanaf het being worden uitgelegd.</AdaptiveTutorIsReset>
-  <RunInBackground>Op de achtergrond actief</RunInBackground>
-  <DevelopmentMode>Ontwikkelingsmodus</DevelopmentMode>
-  <LogDeepProfileData>Diep-profile activeren</LogDeepProfileData>
+  <KeyboardConfig>Toetsenbord</KeyboardConfig>
+  <ChooseLanguage>Taal</ChooseLanguage>
+  <AdaptiveTutor>Zelflerende begeleider</AdaptiveTutor>
+  <ResetAdaptiveTutor>Reset zelflerende begeleider</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>De zelflerende begeleider is gereset, alles zal weer vanaf het begin worden uitgelegd.</AdaptiveTutorIsReset>
+  <RunInBackground>Actief op achtergrond</RunInBackground>
+  <DevelopmentMode>Ontwikkelaarsmodus</DevelopmentMode>
+  <LogVerbose>Uitgebreide logging</LogVerbose>
   <OpenSaveGameDataFolder>Speldata-map openen</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Namen van karakters in het spel die je graag wilt zien:</NamesYouWantToSee>
-  <ChangeStoryteller>Verander verhaalverteller</ChangeStoryteller>
+  <NamesYouWantToSee>Achternamen van karakters die je graag terug wilt zien in het spel:</NamesYouWantToSee>
+  <ChangeStoryteller>Kies verteller</ChangeStoryteller>
   
   <!-- Resolution -->
-  <Resolution>resolutie</Resolution>
-  <Fullscreen>volledig scherm</Fullscreen>
-  <CurrentRes>Acutele resolutie: {0}</CurrentRes>
-  <ChooseResolution>Kies resolutie</ChooseResolution>
+  <Resolution>Resolutie</Resolution>
+  <Fullscreen>Volledig scherm</Fullscreen>
+  <CurrentRes>Huidige resolutie: {0}</CurrentRes>
+  <ChooseResolution>Verander resolutie</ChooseResolution>
   
-  <Privacy>privacy</Privacy>
-  
-  <UserName>gebruikersnaam</UserName>
-  
-  <ChooseHistoryUploadPref>Geschiedenis upload preferenties</ChooseHistoryUploadPref>
-  
-  <CurrentHistoryUploadPref>Actueel: {0}</CurrentHistoryUploadPref>
-  
-    <AboutHistoryUpload>Spelgegevens helpen om het spel te ontwikkelen.\nAls je toestemt, zal deze informatie iedere {0} Rimworld-dagen (en bij sommige andere speciale gebeurtenissen) naar de rimworld-server worden geupload en ganalyseerd.\nDe geuploaded data zal slechts info over het verloop van het spel bevatten. Er wordt geen persoonlijke informatie, met uitzondering van de gebruikersnaam van de speler, verzonden.\nDat betekend, dat alle info anoniem is.</AboutHistoryUpload>
+  <!-- Privacy-->
+  <Privacy>Privacy</Privacy>
+  <UserName>Gebruikersnaam</UserName>
+  <ChooseHistoryUploadPref>Spelgegevens uploaden</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Op dit moment: {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Spelgegevens helpen de ontwikkelaar het spel verder te ontwikkelen. Als je toestemming geeft, wordt je informatie elke {0} speldagen (en in sommige speciale gevallen, zoals het einde van het spel) naar de RimWorld server voor analyse. Geuploade speldata bevat alleen statistieken en historische data over het spel - geen persoonlijk informatie wordt verstuurd, behalve de gebruikersnaam. De speldata is dus volledig anoniem.</AboutHistoryUpload>
   
   
 </LanguageData>

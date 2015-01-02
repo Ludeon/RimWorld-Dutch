@@ -14,6 +14,7 @@ Official Translators:
 - datdenkikniet
 - Geertje123
 - SaKenyi
+- erenes
 - Gangleider
 - Ser-Geeves (inactive)
 - ConfusedWings (inactive)

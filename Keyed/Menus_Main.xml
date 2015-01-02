@@ -2,16 +2,16 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <CreateWorld>Creeër planeet</CreateWorld>
+  <CreateWorld>Maak planeet</CreateWorld>
   <NewColony>Nieuwe kolonie</NewColony>
   <BackToGame>Terug naar spel</BackToGame>
   <Save>Opslaan</Save>
-  <Load>Laad kolonie</Load>
-  <Options>Opties</Options>
+  <Load>Laad spel</Load>
+  <Options>Instellingen</Options>
   <Mods>Mods</Mods>
   <Credits>Credits</Credits>
   <QuitToMainMenu>Naar hoofdmenu</QuitToMainMenu>
-  <QuitToOS>Naar desktop</QuitToOS>
+  <QuitToOS>Afsluiten</QuitToOS>
   <FictionPrimer>Fiction Primer</FictionPrimer>
   <LudeonBlog>Ludeon Blog</LudeonBlog>
   <Forums>Forum</Forums>
@@ -24,10 +24,10 @@
   <ReviewWorld>Wereldkaart</ReviewWorld>
   <WorldGenerate>Genereren</WorldGenerate>
   <WorldSaveAndFinish>Opslaan en beëindigen</WorldSaveAndFinish>
-  <Reset>Resetten</Reset>
-  <WorldSize>grootte</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Random seed</RandomizeSeed>
+  <Reset>Herstel</Reset>
+  <WorldSize>Grootte</WorldSize>
+  <WorldSeed>Startwaarde</WorldSeed>
+  <RandomizeSeed>Willekeurige startwaarde</RandomizeSeed>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Selecteer planeet</SelectWorld>
@@ -50,22 +50,22 @@
   <Author>Auteur</Author>
 
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Kies verteller-AI</ChooseAIStoryteller>
-  <HowStorytellersWork>De verteller-AI laat dingen gebeuren, zoals een piratenaanval of dierengekte. Zijn beslissingen zullen de kolonie beïnvloeden.</HowStorytellersWork>
+  <ChooseAIStoryteller>Kies AI Verteller</ChooseAIStoryteller>
+  <HowStorytellersWork>De AI Verteller laat dingen gebeuren, zoals een piratenaanval of dierengekte. Zijn beslissingen zullen de kolonie beïnvloeden.</HowStorytellersWork>
   <MustChooseChallengeScale>Kies de lastigheidsgraad.</MustChooseChallengeScale>
   <ChallengeScale>Actieve lastigheidsgraad</ChallengeScale>
   <ChallengeScaleTip>Als de verteller je een bedreiging stuurt, zal die {0} zo groot zijn als in de uitdagende modus.</ChallengeScaleTip>
   <ChallengeScale_BuilderMode>Basisbouw modus</ChallengeScale_BuilderMode>
   <ChallengeScale_Casual>Casual speler</ChallengeScale_Casual>
   <ChallengeScale_Rough>Lastig spel</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>uitdagend</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Zwaar uitdagend</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_Challenge>Uitdagend</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Heel uitdagend</ChallengeScale_SeriousChallegne>
   <ChallengeScale_ExtremeChallenge>Enorm uitdagend</ChallengeScale_ExtremeChallenge>
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Kies landingsplaats</SelectLandingSite>
   <SelectSite>Kies plaats</SelectSite>
-  <MustSelectLandingSite>Je moet een landingsplaats kiezen.</MustSelectLandingSite>
+  <MustSelectLandingSite>Kies een landingsplaats.</MustSelectLandingSite>
   <CannotLandBiome>Je kunt niet in deze biosfeer landen: {0}</CannotLandBiome>
   <WorldRenderMode>Modus</WorldRenderMode>
   <WorldRenderModeFull>Alles</WorldRenderModeFull>
@@ -80,13 +80,16 @@
   <Terrain>Landschap</Terrain>
   <Elevation>Hoogte</Elevation>
   <Fertility>Vruchtbaarheid</Fertility>
-  <AvgTemp>Temperatuur</AvgTemp>
+  <AvgTemp>Gem Temp</AvgTemp>
+  <AvgJanTemp>Gem Temp (Jan): {0}</AvgJanTemp>
+  <AvgJulTemp>Gem Temp (Jul): {0}</AvgJulTemp>
   <Rainfall>Neerslag</Rainfall>
   <HasCoast0>Noordelijke kust</HasCoast0>
-  <HasCoast1>Oosterlijke kust</HasCoast1>
+  <HasCoast1>Oostelijke kust</HasCoast1>
   <HasCoast2>Zuidelijke kust</HasCoast2>
   <HasCoast3>Westelijke kust</HasCoast3>
-  <FactionBase>Basis van een factie</FactionBase>
+  <FactionBase>Factiebasis</FactionBase>
+  <StoneTypesHere>Types steen</StoneTypesHere>
   
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Karakter maken</CreateCharacters>
@@ -116,7 +119,7 @@
   
   <Gameplay>Gameplay</Gameplay>
 
-  <ConfirmQuit>Weet je zeker dat je wilt stoppen? Niet opgeslagen voortgang zal verlorgen gaan.</ConfirmQuit>
+  <ConfirmQuit>Weet je zeker dat je wilt stoppen? Niet opgeslagen voortgang zal verloren gaan.</ConfirmQuit>
   <EveryoneNeedsValidName>Ieder persoon heeft een goede naam nodig.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Wereld genereren...</GeneratingWorld>

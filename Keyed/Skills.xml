@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>level</Level>
-  <ProgressToNextLevel>Voortgang tot volgende level</ProgressToNextLevel>
+  <Level>Niveau</Level>
+  <ProgressToNextLevel>Voortgang naar volgende niveau</ProgressToNextLevel>
   <Passion>Passie</Passion>
-  <PassionNone>Geen intresse (leert {0}x sneller)</PassionNone>
-  <PassionMinor>Geintresseerd (leert {0}x sneller)</PassionMinor>
-  <PassionMajor>Zeer geintresseerd (leert {0}x sneller)</PassionMajor>
-  <EffectsAtLevel>Effectief vanaf level {0}</EffectsAtLevel>
+  <PassionNone>Geen interesse (leert {0}x sneller)</PassionNone>
+  <PassionMinor>Geïnteresseerd (leert {0}x sneller)</PassionMinor>
+  <PassionMajor>Zeer geïnteresseerd (leert {0}x sneller)</PassionMajor>
+  <EffectsAtLevel>Effectief vanaf niveau {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
   
 
   <Skill0>Onbekwaam</Skill0>
-  <Skill1>Onbruikbaar</Skill1>
-  <Skill2>Basis bekend</Skill2>
-  <Skill3>Basiskennis</Skill3>
-  <Skill4>Amateur</Skill4>
-  <Skill5>Ervaren amateur</Skill5>
-  <Skill6>Beoefenaar</Skill6>
-  <Skill7>Ervaren beoefenaar</Skill7>
-  <Skill8>proffesionalist</Skill8>
-  <Skill9>Ervaren proffesionalist</Skill9>
+  <Skill1>Incompetent</Skill1>
+  <Skill2>Prutser</Skill2>
+  <Skill3>Beunhaas</Skill3>
+  <Skill4>Basiskennis</Skill4>
+  <Skill5>Basiskunde</Skill5>
+  <Skill6>Amateur</Skill6>
+  <Skill7>Ervaren amateur</Skill7>
+  <Skill8>Professional</Skill8>
+  <Skill9>Ervaren professional</Skill9>
   <Skill10>Expert</Skill10>
   <Skill11>Goede expert</Skill11>
   <Skill12>Zeer goede expert</Skill12>
   <Skill13>Meester</Skill13>
   <Skill14>Grootmeester</Skill14>
-  <Skill15>Grootmeester (planeet)</Skill15>
-  <Skill16>Grootmeester (systeem)</Skill16>
+  <Skill15>Planetaire grootmeester</Skill15>
+  <Skill16>Interplanetaire grootmeester</Skill16>
   <Skill17>Vereerde grootmeester</Skill17>
   <Skill18>Visionair</Skill18>
-  <Skill19>Legened</Skill19>
-  <Skill20>Godlike</Skill20>
+  <Skill19>Legendarisch</Skill19>
+  <Skill20>Als een god</Skill20>
 
 
   

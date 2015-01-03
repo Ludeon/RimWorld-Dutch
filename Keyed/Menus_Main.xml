@@ -100,7 +100,7 @@
   <HasCoast1>Oostelijke kust</HasCoast1>
   <HasCoast2>Zuidelijke kust</HasCoast2>
   <HasCoast3>Westelijke kust</HasCoast3>
-  <FactionBase>Factiebasis</FactionBase>
+  <FactionBase>Basis</FactionBase>
   <StoneTypesHere>Types steen</StoneTypesHere>
   
   
@@ -112,16 +112,16 @@
   <Randomize>Willekeurig</Randomize>
   <AgeIndicator>Leeftijd: {0}</AgeIndicator>
   <Backstory>Achtergrond</Backstory>
-  <IncapableOf>Kan geen</IncapableOf>
+  <IncapableOf>Beperkingen</IncapableOf>
   <Traits>Eigenschappen</Traits>
-  <TraitsDoNothing>De meeste eigenschappen hebben nu nog geen functie. Die zullen in de toekomst veranderd worden.</TraitsDoNothing>
+  <TraitsDoNothing>De meeste eigenschappen hebben nu nog geen functie. Die zullen in de toekomst aangepast worden.</TraitsDoNothing>
   <PermanentMoodEffect>Permanente invloed op de stemming</PermanentMoodEffect>
   <Skills>Vaardigheden</Skills>
   <NoneLower>geen</NoneLower>
   <Adulthood>Volwassene</Adulthood>
   <Childhood>Kind</Childhood>
-  <Male>Mannelijke</Male>
-  <Female>Vrouwelijke</Female>
+  <Male>Mannelijk</Male>
+  <Female>Vrouwelijk</Female>
   <Pain>Pijn</Pain>
 
   
@@ -133,7 +133,7 @@
   
   <Gameplay>Gameplay</Gameplay>
 
-  <ConfirmQuit>Weet je zeker dat je wilt stoppen? Niet opgeslagen voortgang zal verloren gaan.</ConfirmQuit>
+  <ConfirmQuit>Weet je zeker dat je wilt afsluiten? Niet opgeslagen voortgang zal verloren gaan.</ConfirmQuit>
   <EveryoneNeedsValidName>Iedereen heeft een naam nodig.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Wereld genereren...</GeneratingWorld>

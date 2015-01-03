@@ -4,7 +4,7 @@
   
   <!-- Tab titles -->
   <WorkTab>Werk</WorkTab>
-  <FactionsTab>Groepen</FactionsTab>
+  <FactionsTab>Facties</FactionsTab>
   <StatisticsTab>Statistieken</StatisticsTab>
   <HistoryTab>Geschiedenis</HistoryTab>
   <WorldTab>Wereld</WorldTab>
@@ -33,7 +33,7 @@
   <NumThreatBigs>Grote bedreigingen</NumThreatBigs>
   <NumEnemyRaids>Vijandige aanvallen</NumEnemyRaids>
   <DamageTaken>Totaal opgelopen schade</DamageTaken>
-  <ColonistsKilled>Gedode kolonisten</ColonistsKilled>
+  <ColonistsKilled>Overleden kolonisten</ColonistsKilled>
   <ColonistsLaunched>Met ruimteschip vertrokken kolonisten</ColonistsLaunched>
 
   

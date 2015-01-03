@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WorkTagNone>Niets</WorkTagNone>
-  <WorkTagIntellectual>Intelectuele arbeid</WorkTagIntellectual>
-  <WorkTagManualDumb>Makkelijke arbeid</WorkTagManualDumb>
-  <WorkTagManualSkilled>Geschikte arbeid</WorkTagManualSkilled>
-  <WorkTagViolent>Geweldadig</WorkTagViolent>
+  <WorkTagNone>Geen</WorkTagNone>
+  <WorkTagIntellectual>Intellectueel</WorkTagIntellectual>
+  <WorkTagManualDumb>Dom werk</WorkTagManualDumb>
+  <WorkTagManualSkilled>Geschoold werk</WorkTagManualSkilled>
+  <WorkTagViolent>Gewelddadig</WorkTagViolent>
   <WorkTagCaring>Verzorgend</WorkTagCaring>
   <WorkTagSocial>Sociaal</WorkTagSocial>
   <WorkTagScary>Angstaanjagend</WorkTagScary>
-  <WorkTagArtistic>Kunstig</WorkTagArtistic>
+  <WorkTagArtistic>Kunst</WorkTagArtistic>
   <WorkTagCrafting>Handwerk</WorkTagCrafting>
   <WorkTagCooking>Koken</WorkTagCooking>
-  <WorkTagFirefighting>Brand blussen</WorkTagFirefighting>
-  <WorkTagCleaning>Opruimen</WorkTagCleaning>
-  <WorkTagHauling>Dragen</WorkTagHauling>
+  <WorkTagFirefighting>Brandblussen</WorkTagFirefighting>
+  <WorkTagCleaning>Schoonmaken</WorkTagCleaning>
+  <WorkTagHauling>Sleepwerk</WorkTagHauling>
   <WorkTagPlantWork>Plantwerk</WorkTagPlantWork>
-  <WorkTagMining>Delven</WorkTagMining>
+  <WorkTagMining>Mijnbouw</WorkTagMining>
 
 </LanguageData>

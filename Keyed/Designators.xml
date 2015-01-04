@@ -2,95 +2,95 @@
 <LanguageData>
   
   <DesignatorCancel>Annuleren</DesignatorCancel>
-  <DesignatorCancelDesc>Annuleert het bouwen van gebouwen, ophalen van spullen en andere orders.</DesignatorCancelDesc>
-
-  <DesignatorSmoothFloor>Vloer gladmaken</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Markeer ruwe stenen, die glad moeten worden gemaakt.</DesignatorSmoothFloorDesc> 
-  
-  <DesignatorRegionSnowClearAdd>'Sneewruimen' markeren</DesignatorRegionSnowClearAdd>
-  <DesignatorRegionSnowClearAddDesc>Maak een zone, waarin jouw kolonisten alle sneeuw zullen weghalen.</DesignatorRegionSnowClearAddDesc>
-
-  <DesignatorRegionSnowClearRemove>'Schnee räumen' entfernen</DesignatorRegionSnowClearRemove>
-  <DesignatorRegionSnowClearRemoveDesc>Entfernt eine 'Schnee räumen' Zone. Kolonisten werden hier nicht mehr versuchen den Bereich Schneefrei zu halten.</DesignatorRegionSnowClearRemoveDesc>
+  <DesignatorCancelDesc>Annuleert orders om te bouwen, graven, slepen, oogsten en andere orders.</DesignatorCancelDesc>
   
   
   <DesignatorCutPlants>Planten wieden</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Markeert planten die gewied moeten worden. Hieronder vallen ook planten die geoogst kunnen worden</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Markeert planten die gewied moeten worden. Planten worden volledig verwijderd, eventueel eten wordt geoogst.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Afbreken</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Breek gebouwen af. Je krijgt een deel van de gebruikte goederen terug.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Markeert gebouwen om af te breken. Je krijgt een deel van de gebruikte grondstoffen terug.</DesignatorDeconstructDesc>
 
   <DesignatorHarvest>Oogsten</DesignatorHarvest>
-  <DesignatorHarvestDesc>Markeer planten, die geoogst kunnen worden.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Markeert planten om geoogst te worden voor bijvoorbeeld voedsel.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Hout hakken</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Markeer bomen, die omgehakt kunnen worden.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Houthakken</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Markeert bomen om om te hakken, je krijgt hier hout voor terug.</DesignatorHarvestWoodDesc>
   
-  <DesignatorHaulThings>Dingen ophalen</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Markeer objecten, zoals stenen, puin, sintel of bessen om opgehaald te worden</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Niets om op te halen gevonden.</NothingToHaulHere>
-  <MustHaulHaulables>Je kunt alleen dingen markeren, die niet automatisch opgehaald worden.</MustHaulHaulables>
+  <DesignatorHaulThings>Objecten verslepen</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Markeert objecten zoals stenen om weggesleept te worden naar een opslagplaats. Niet nodig voor dingen als eten en lijken, die worden automatisch versleept.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Niets om op te verslepen gevonden.</NothingToHaulHere>
+  <MustHaulHaulables>Je kunt alleen dingen markeren, die niet automatisch versleept worden.</MustHaulHaulables>
 
   <DesignatorHunt>Jagen</DesignatorHunt>
-  <DesignatorHuntDesc>Markeer dieren waarop gejaagd moet worden.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Markeert dieren waarop gejaagd moet worden.</DesignatorHuntDesc>
 
-  <DesignatorMine>Delven</DesignatorMine>
-  <DesignatorMineDesc>Markeer gesteente dat gedolven moet worden.</DesignatorMineDesc>
+  <DesignatorMine>Mijnbouw</DesignatorMine>
+  <DesignatorMineDesc>Markeert gesteente dat gedolven moet worden.</DesignatorMineDesc>
 
+  <DesignatorSmoothFloor>Vloer polijsten</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Markeer ruwe stenen, die glad moeten worden gemaakt.</DesignatorSmoothFloorDesc> 
+  
   <DesignatorPlan>Plannen</DesignatorPlan>
-  <DesignatorPlanDesc>Plaatst planningsvakken. Hier gebeurt niets, maar het is handing om te zien wat je nu eigenlijk wil gaan doen.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Markeert vakken als gepland. Hiermee kun je je toekomstige uitbouw plannen, je kolonisten zullen deze markering negeren.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Plannen verwijderen</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Verwijder planningsvakken.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Verwijder plannen</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Haalt de 'gepland' markering weg van geplande vakken.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Thuiszone instellen</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Kolonisten eten voedsel en repareren gebouwen in deze zone.</DesignatorHomeRegionAddDesc>
+  <DesignatorHomeRegionAdd>Thuiszone toevoegen</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>In de thuiszone wordt door je kolonisten automatisch onderhoud gepleegd. Zoals reparaties, schoonmaaktaken en brandblussen.</DesignatorHomeRegionAddDesc>
 
   <DesignatorHomeRegionRemove>Thuiszone verwijderen</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Thuiszone verwijderen.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionRemoveDesc>Verwijdert een thuiszone. Kolonisten zullen dit gebied niet langer automatisch onderhouden.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>'geen dak' instellen</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Stel een zone in, waarin geen daken gebouwd mogen worden. Kolonisten zullen reeds bestaande daken in deze zone afbreken.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorRegionNoRoofAdd>Openluchtzone toevoegen</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Stelt een zone in, waarin geen daken gebouwd mogen worden. Kolonisten zullen bestaande daken in deze zone afbreken.</DesignatorRegionNoRoofAddDesc>
 
-  <DesignatorRegionNoRoofRemove>'geen dak' verwijderen</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Verwijder 'geen dak' zone. Daken zullen hierin weer hersteld worden</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorRegionNoRoofRemove>Openluchtzone toevoegen</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Verwijdert een openluchtzone. Daken zullen hierin weer hersteld worden en bestaande daken zullen niet worden afgebroken.</DesignatorRegionNoRoofRemoveDesc>
 
-  <DesignatorGrowingZoneDesc>Stel een zone in waarin kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
+    <DesignatorRegionSnowClearAdd>Sneeuwvrije zone toevoegen</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Markeert een zone die kolonisten sneeuwvrij zullen proberen te houden.</DesignatorRegionSnowClearAddDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Stelt een zone in waarin kolonisten goederen kunnen opslaan.\nHiermee kun je ook reeds bestaande opslagzones uitbreiden.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorRegionSnowClearRemove>Sneeuwvrije zone verwijderen</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Verwijdert een sneeuwvrije zone. Kolonisten proberen niet langer deze zone sneeuwvrij te houden.</DesignatorRegionSnowClearRemoveDesc>
+    
+  <DesignatorGrowingZoneDesc>Markeer een gebied waar kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Stelt een zone in waarin kolonisten afval kunnen opslaan.\nHiermee kun je ook reeds bestaande afvalzones uitbreiden.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Markeert een gebied waarin kolonisten goederen kunnen opslaan.\nHiermee kun je ook bestaande opslagplaatsen uitbreiden.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Stelt een zone in waarin kolonisten afval kunnen opslaan.\nHiermee kun je ook bestaande afvalzones uitbreiden.</DesignatorZoneCreateStorageDumpingDesc>
 
   <DesignatorZoneDelete>Zones verwijderen</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Verwijder zones, zoals opslag- en afvalzones.</DesignatorZoneDeleteDesc>
     
-  <DesignatorClaim>In bezit nemen</DesignatorClaim>
-  <DesignatorClaimDesc>Neem  neutrale gebouwen in bezit. Je kolonisten zullen deze ook repareren e.d.</DesignatorClaimDesc>
-  
+  <DesignatorClaim>Neem bezit</DesignatorClaim>
+  <DesignatorClaimDesc>Neem  neutrale gebouwen in bezit. Overgenomen gebouwen kunnen worden gerepareerd en onderhouden door je kolonisten.</DesignatorClaimDesc>
   
   <!-- placement of blueprints -->
   <UnchosenStuff>Ongekozen materiaal</UnchosenStuff>
   <TooCloseToMapEdge>Te dicht bij de rand van de kaart.</TooCloseToMapEdge>
   <OutOfBounds>Buiten de kaart.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Kan niet in onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interactiepunt geblokeert door {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Interactiepunt is buiten de kaart.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interactiepunt zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} zou {1}'s interactiepunt blokeren.</WouldBlockInteractionSpot>
+  <CannotPlaceInUndiscovered>Kan niet in een onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Bedieningsplaats geblokkeerd door {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Bedieningsplaats is buiten de kaart.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Bedieningsplaats zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} zou {1}'s bedieningsplaats blokeren.</WouldBlockInteractionSpot>
   <TerrainIsAlready>De grond is hier al {0}.</TerrainIsAlready>
-  <IdenticalThingExists>Hier bestaat exact hetzelfde ding al.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Hier is precies hetzelfde plan.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>De grond kan dit niet ondersteunen.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Deze plaats is al bezet.</SpaceAlreadyOccupied>
+  <IdenticalThingExists>Hier staat al eenzelfde ding.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Hetzelfde plan bestaat al.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>De grond hier kan dit niet dragen.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Deze plaats wordt al gebruikt.</SpaceAlreadyOccupied>
+  
 
   
   <!-- placement of zones -->
-  <ExpandOrCreateZone>Verwijder {0} oder\nStel {1} in</ExpandOrCreateZone>
-  <CreateNewZone>Stel {0} in</CreateNewZone>
+  <ExpandOrCreateZone>Breid {0} uit of\nMaak nieuwe {1}</ExpandOrCreateZone>
+  <CreateNewZone>Maak {0}</CreateNewZone>
   
   
   <!-- desc helpers -->
-  <TransmitsPower>Transporteert stroom</TransmitsPower>
+  <TransmitsPower>Geleidt stroom</TransmitsPower>
 
 
 </LanguageData>

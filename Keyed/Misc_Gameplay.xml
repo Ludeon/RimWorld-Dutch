@@ -2,54 +2,75 @@
 <LanguageData>
 
   <!-- Various -->
-  <WorkLeft>Overgebleven werk</WorkLeft>
-  <Contents>inhoud</Contents>
-  <ContainedResources>Bevattende materialen</ContainedResources>
+  <WorkLeft>Resterend werk</WorkLeft>
+  <Contents>Inhoud</Contents>
+  <ContainedResources>Materiaal aanwezig</ContainedResources>
   <ForPrisonerUse>Voor gevangenen</ForPrisonerUse>
   <ForColonistUse>Voor kolonisten</ForColonistUse>
   <MedicalBed>Ziekenbed</MedicalBed>
-  <Owner>eigenaar</Owner>
-  <Nobody>niemand</Nobody>
-  <Unowned>vrij</Unowned>
-  <DeadTime>al {0} dood</DeadTime>
+  <Owner>Eigenaar</Owner>
+  <Nobody>Geen</Nobody>
+  <Unowned>Beschikbaar</Unowned>
+  <DeadTime>Al {0} dood</DeadTime>
   <WalkSpeed>Loopsnelheid: {0}</WalkSpeed>
-  <DyingLower>sterft</DyingLower>
-  <FilthOnFeet>vuil aan voeten:</FilthOnFeet>
+  <DyingLower>stervende</DyingLower>
+  <FilthOnFeet>Vuil aan voeten:</FilthOnFeet>
   <NotEnoughStoredLower>te weinig opgeslagen</NotEnoughStoredLower>
   <NothingLower>niets</NothingLower>
-  <Adapted>aangepast</Adapted>
-  <Headshot>hoofdschot</Headshot>
-  <FreshMissingBodyPart>Missend lichaamsdeel (vers)</FreshMissingBodyPart>
-  <UntreatedLower>onbehandelt</UntreatedLower>
-  <DevelopedImmunityLower>wordt immuun</DevelopedImmunityLower>
+  <Adapted>Aangepast</Adapted>
+  <Headshot>Hoofdschot</Headshot>
+  <FreshMissingBodyPart>vers</FreshMissingBodyPart>
+  <UntreatedLower>onbehandeld</UntreatedLower>
+  <DevelopedImmunityLower>immuun</DevelopedImmunityLower>
   <InjuryRequiresTreatment>kan zonder behandeling niet herstellen</InjuryRequiresTreatment>
-  <NextTreatmentAfter>Volgende behandeling na {0} dagen</NextTreatmentAfter>
+  <NextTreatmentAfter>Volgende behandeling over {0} dagen</NextTreatmentAfter>
   <MissingMedicalBillIngredient>geen {0}</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>Voortgang van immuniteitsontwikkeling</ImmunityDevelopmentProgress>
+  <ImmunityDevelopmentProgress>voortgang immuniteit</ImmunityDevelopmentProgress>
+  <Race>Ras</Race>
+  <Description>Omschrijving</Description>
+  <Equipment>Uitrusting</Equipment>
+  <Apparel>Kleding</Apparel>
+  <Inventory>Inventaris</Inventory>
+  <ThingInfo>Informatie</ThingInfo>
+  <DropThing>Laat vallen</DropThing>
+  <RenameColonist>Hernoem kolonist</RenameColonist>
+  <UnknownLower>onbekend</UnknownLower>
+  
+  <!-- Snow -->
+  <SnowNone>Geen sneeuw</SnowNone>
+  <SnowDusting>Stuifsneeuw</SnowDusting>
+  <SnowThin>Weinig sneeuw</SnowThin>
+  <SnowMedium>Sneeuw</SnowMedium>
+  <SnowThick>Zware sneeuw</SnowThick>
+
   
     <!-- Turrets -->
-  <GunInstalled>geinstalleerd</GunInstalled>
-  <MinimumRange>minimale reikwijdte</MinimumRange>
-  <CanFireIn>kan schieten over</CanFireIn>
+  <GunInstalled>Geïnstalleerd</GunInstalled>
+  <MinimumRange>Minimale schootsafstand</MinimumRange>
+  <CanFireIn>Schietklaar over</CanFireIn>
+  
 
 	<!-- Job reports -->
-	<ReportHaulingTo>Draag {0} naar {1}.</ReportHaulingTo>
-	<ReportHauling>Draag {0}.</ReportHauling>
-    <ReportSleeping>Slapend.</ReportSleeping>
-    <ReportResting>Uitrustend.</ReportResting>
+	<ReportHaulingTo>Sleept {0} naar {1}.</ReportHaulingTo>
+	<ReportHauling>Sleept {0}.</ReportHauling>
+    <ReportSleeping>Slaapt.</ReportSleeping>
+    <ReportResting>Rust uit.</ReportResting>
 
 	<!-- Shooting report -->
-  <WeaponMissRadius>Wapen misradius</WeaponMissRadius>
-    <ShootReportShooterAbility>schutter</ShootReportShooterAbility>
-	<ShootReportWeapon>wapen</ShootReportWeapon>
-	<RangeSlashEquipment>reikwijdte/uitrusting</RangeSlashEquipment>
-	<Darkness>donkerte</Darkness>
+    <WeaponMissRadius>Wapen misradius</WeaponMissRadius>
+    <ShootReportShooterAbility>Schutter</ShootReportShooterAbility>
+	<ShootReportWeapon>Wapen</ShootReportWeapon>
+	<Darkness>Het donker</Darkness>
 	<TargetProne>Kwetsbaarheid doel</TargetProne>
 	<TargetSize>Grootte doel</TargetSize>
-	<Weather>weer</Weather>
-	<ShootingCover>dekking</ShootingCover>
+	<Weather>Weer</Weather>
+	<ShootingCover>Dekking</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stopt {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>geen dekking</NoCoverLower>
+
+  <!-- Generated recipes -->
+  <RecipeMake>Make {0}</RecipeMake>
+  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
 	
 	<!-- Status levels -->
     <Mood>stemming</Mood>
@@ -70,7 +91,7 @@
   <MentalBreakThreshold>Zenuwinzinkins-drempel</MentalBreakThreshold>
   
   <!-- Pawn info readout -->
-  <Health>Lichaam</Health>
+  <Health>Gezondheid</Health>
   <PawnMainDescWithFactionGendered>{0}, {1} van {2}</PawnMainDescWithFactionGendered>
   <PawnMainDescGendered>{0}, {1}</PawnMainDescGendered>
   <PawnMainDescWithFactionGenderless>{0} van {1}</PawnMainDescWithFactionGenderless>
@@ -86,89 +107,11 @@
   <SanityPanicFlee>Ineengestort: vlucht in paniek</SanityPanicFlee>
   <SanityPsychotic>Ineengestort: losgeslagen</SanityPsychotic>
   
-  <!-- Body and activities condition -->
-  <None>zonder</None>
-  <VeryPoor>zeer slecht</VeryPoor>
-  <Poor>slecht</Poor>
-  <Weakened>gereduceert</Weakened>
-  <GoodCondition>redelijk</GoodCondition>
-  <Enhanced>verbeterd</Enhanced>
-  <SeriouslyImpaired>Sterk verbeterd</SeriouslyImpaired>
-  <Impaired>Verwond</Impaired>
-  <SlightlyImpaired>Licht verwond</SlightlyImpaired>
-  <NoPain>geen</NoPain>
-  <LittlePain>een beetje</LittlePain>
-  <MediumPain>redelijk wat</MediumPain>
-  <SeverePain>veel</SeverePain>
-  <ExtremePain>extreem veel</ExtremePain>
   
   <!-- Inspector general stuff -->
-  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kan ook door langzaam nog een keer op hetzelfde veld te drukken.</SelectNextInSquareTip>
-  <DefInfoTip>Vertel wat over die object.</DefInfoTip>
-  
-    <!-- ITab titles -->
-  <TabBills>Klussen</TabBills>
-  <TabGrowing>Verbouwen</TabGrowing>
-  <TabCharacter>Karakter</TabCharacter>
-  <TabPrisoner>Gevangene</TabPrisoner>
-  <TabGear>Inventaris</TabGear>
-  <TabThoughts>Gedachten</TabThoughts>
-  <TabStorage>Opslage</TabStorage>
-  <TabHealth>Lichaam</TabHealth>
-  <TabRace>Race</TabRace>
-  <TabBasics>Basis</TabBasics>
-  <TabStats>Status</TabStats>
-  
-  	<!-- ITabs -->
-	<AddBill>Klussen toevoegen</AddBill>
-	<RecipeRequiresSkills>Het recept {0} vereist de vaardigheden die hierbeneden staan. Niemand heeft deze vaardigheden, dus de klus zal niet worden gedaan.</RecipeRequiresSkills>
-	<BillConfig>Veranderen</BillConfig>
-	<SuspendedCaps>Opgeschort</SuspendedCaps>
-	<PlantVerb>planten</PlantVerb>
-	<RecruitmentDifficulty>Recruteringsmoeilijkheid</RecruitmentDifficulty>
-	<PrisonerGetsFood>Krijgt eten</PrisonerGetsFood>
-	<DoctorsCare>Wordt behandelt door arts</DoctorsCare>
-	<PrisonerGetsMedicine>Krijgt medicijn</PrisonerGetsMedicine>
-	<ShouldTryToRecruit>Recruteren</ShouldTryToRecruit>
-	<PrisonerNoInteraction>Geen interactie</PrisonerNoInteraction>
-	<PrisonerFriendlyChat>Vriendelijke gesprekken</PrisonerFriendlyChat>
-	<PrisonerMildBeating>Slaag</PrisonerMildBeating>
-	<PrisonerViciousBeating>Hard slaag</PrisonerViciousBeating>
-	<PrisonerExecution>Executie</PrisonerExecution>
-	<Equipment>Uitrusting</Equipment>
-	<Apparel>Aussehen</Apparel>
-	<Inventory>Inventaris</Inventory>
-	<ThingInfo>Informatie</ThingInfo>
-	<DropThing>Laat vallen</DropThing>
-	<TotalModifiers>Totale modifiers</TotalModifiers>
-	<DamageAbsorption>Schadeabsorptie</DamageAbsorption>
-	<DamageDeflection>Schadeafwering</DamageDeflection>
-	<MoveSpeed>Loopsnelheid</MoveSpeed>
-	<Efficiency>Efficientie</Efficiency>
-	<MissingBodyPart>Verloren</MissingBodyPart>
-	<DestroyedBodyPart>Vernietigd</DestroyedBodyPart>
-	<ShatteredBodyPart>Gebroken</ShatteredBodyPart>
-    <RemovedBodyPart>Verwijderd</RemovedBodyPart>
-	<Healthy>Gezond</Healthy>
-	<InPain>Heeft pijn</InPain>
-	<PainLevel>Pijnen</PainLevel>
-	<Dead>Dood</Dead>
-	<Unconscious>Bewustenloos</Unconscious>
-	<PainShock>Schock</PainShock>
-	<Injured>Verwond</Injured>
-	<NoInjuries>(Geen verwondingen)</NoInjuries>
-	<WholeBody>Hele lichaam</WholeBody>
-	<RenameColonist>Kolonist andere naam geven</RenameColonist>
-	<DataProcessing>Dataverwerking</DataProcessing>
-	<Communication>Communicatie</Communication>
-	<AffectsLower>beinvloed</AffectsLower>
-	<BleedingRate>Bloedingssterkte</BleedingRate>
-	<HealthOverview>Overzicht</HealthOverview>
-	<MedicalOperationsShort>Operaties ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>Modificaties ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>Medische operaties</MedicalOperations>
-	<Amputate>Amputeer</Amputate>
-	<Harvest>Oogst</Harvest>
+  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde veld te klikken.</SelectNextInSquareTip>
+  <DefInfoTip>Vertel wat over dit object.</DefInfoTip>
+
   
   	<!-- like 'Blood of John' -->
 	<OfLower>van</OfLower>
@@ -179,7 +122,16 @@
   	<PowerNeeded>Stroom nodig</PowerNeeded>
   	<PowerOutput>Stroom output</PowerOutput>
   	<PowerBatteryStored>Opgeslagen</PowerBatteryStored>
-  	<PowerBatteryEfficiency>Efficientie</PowerBatteryEfficiency>
+  	<PowerBatteryEfficiency>Efficiëntie</PowerBatteryEfficiency>
+  <!-- Temperature control -->
+  <TargetTemperature>Doeltemperatuur</TargetTemperature>
+  <PowerConsumptionMode>Huidig stroomverbruik</PowerConsumptionMode>
+  <PowerConsumptionHigh>Hoog</PowerConsumptionHigh>
+  <PowerConsumptionLow>Laag</PowerConsumptionLow>
+  
+  <!-- Temperature readout -->
+  <Indoors>Binnen</Indoors>
+  <Outdoors>Buiten</Outdoors>
   
   	<!--Rotting-->
 	<RotStateFresh>Vers</RotStateFresh>
@@ -194,9 +146,16 @@
   <StoragePriorityUnstored>Niet opslaan</StoragePriorityUnstored>
   <StoragePriorityLow>Laag</StoragePriorityLow>
   <StoragePriorityNormal>Normaal</StoragePriorityNormal>
-  <StoragePriorityPreferred>geprefereerd</StoragePriorityPreferred>
-  <StoragePriorityImportant>Belangerijk</StoragePriorityImportant>
-  <StoragePriorityCritical>Kritisch</StoragePriorityCritical>
+  <StoragePriorityPreferred>Voorkeur</StoragePriorityPreferred>
+  <StoragePriorityImportant>Belangrijk</StoragePriorityImportant>
+  <StoragePriorityCritical>Essentieel</StoragePriorityCritical>
+
+
+  <!-- Rotting -->
+  <CurrentlyFrozen>Bevroren (zal niet vergaan)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Gekoeld (Vergaat over {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Niet gekoeld (Vergaat over {0})</NotRefrigerated>
+  <OverADecade>meer dan tien jaar</OverADecade>
 
   <!-- Meal -->
   <TimeToSpoil>Verdort over {0}</TimeToSpoil>
@@ -205,23 +164,26 @@
   <!-- Plants -->
   <PercentGrowth>{0}% volgroeid</PercentGrowth>
   <Growing>Groeit</Growing>
-  <NotGrowingNow>Groeit nicht. (Es muss {0} sein.)</NotGrowingNow>
-  <NotGrowingNowNight>Groeit niet. (Nacht).</NotGrowingNowNight>
-  <FullyGrownIn>Is over {0} volgroeid.</FullyGrownIn>
+  <NotGrowingNow>Groeit niet. (Het moet {0} zijn.)</NotGrowingNow>
+  <NotGrowingNowNight>Groeit niet op dit moment (rust).</NotGrowingNowNight>
+  <FullyGrownIn>Volgroeid over {0} van groei.</FullyGrownIn>
+  <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Klaar om geoogst te worden.</ReadyToHarvest>
   <Mature>Volgroeid.</Mature>
   <SeedLabel>{0} zaad</SeedLabel>
+  <OutdoorGrowingPeriod>Groeiseizoen: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Never</NoGrowingPeriod>
+  <GrowYearRound>Het hele jaar</GrowYearRound>
+  <CannotGrowTooCold>Kan niet groeien - te koud.</CannotGrowTooCold>
   
     <!-- Zones -->
   <Zone>Zone</Zone>
   <GrowingZone>Kweekzone</GrowingZone>
   <Stockpile>Opslagpzone</Stockpile>
   <DumpingStockpile>Afvalzone</DumpingStockpile>
-  <Priority>Prioriteit</Priority>
-  
-  <!-- General time stuff -->
-  <DaysLower>dagen</DaysLower>
-  <SecondsLower>seconden</SecondsLower>
+  <Priority>Prioriteit</Priority>  
+  <ClearAll>Clear all</ClearAll>
  
  <!-- Mouseover indicator -->
   <Undiscovered>Unentdeckt</Undiscovered>
@@ -248,9 +210,16 @@
   <MustPlaceHeadOnShipBeam>Moet met het hoofd op de strucutrele schipbalk bevestigd worden.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Moet naast iets gebouwd worden, dat een trechter nodig heeft.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Moet op een stoom-geiser geplaatst worden.</MustPlaceOnSteamGeyser>
-  
+  <MustPlaceCoolerWithFreeSpaces>Both the hot and cold sides of the cooler must be exposed.</MustPlaceCoolerWithFreeSpaces>
+    
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+
   <!-- Cryptosleep pod -->
   <PodContains>Bevat</PodContains>
+  <CasketUnknownContents>Onbekend</CasketUnknownContents>
+  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Kan niet starten.</ShipReportCannotLaunch>
@@ -261,6 +230,23 @@
   <!-- Neurotrainer -->
   <UseNeurotrainer>Gebruik de neurotrainer om {0} te leren</UseNeurotrainer>
   <NeurotrainerUsed>{0} heeft de {1} Neurotrainer om van level {2} naar {3} te stijgen.</NeurotrainerUsed>
+
+  <!-- Minification -->
+  <Installed>Installed</Installed>
+  <NotInstalled>Not installed</NotInstalled>
+
+  <!-- Art -->
+  <Title>Title</Title>
+  <Untitled>Untitled</Untitled>
+  
+  <!-- Unfinished thing -->
+  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>Quality</Quality>
+  <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
+  <QualityIs>Quality: {0}</QualityIs>
   
   <!-- Game over -->
   <GameOverEveryoneDead>Iedereen is dood of weg. Dit verhaal is ten einde.\n\nMisschien zal iemand anders een nut vinden voor de ruines die er nu staan.</GameOverEveryoneDead>

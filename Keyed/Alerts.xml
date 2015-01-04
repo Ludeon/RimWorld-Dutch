@@ -78,8 +78,8 @@
   <NoTradingCapacity>Geen handelsverkeer mogelijk</NoTradingCapacity>
   <NoTradingCapacityDesc>Je hebt geen manier om met passerende handelsschepen in contact te komen.\n\nBouw een communicatieconsole.</NoTradingCapacityDesc>
   
-    <BrawlerHasRangedWeapon>Ruziezoeker heeft een vuurwapen</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Een van je kolonisten met de persoonlijke eigenschap 'ruziezoeker' heeft een vuurwapen op zak. Hier worden ze erg ongelukkig van.</BrawlerHasRangedWeaponDesc>
+    <BrawlerHasRangedWeapon>Vechtkunstenaar heeft een vuurwapen</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Een van je kolonisten met de persoonlijke eigenschap 'vechtkunstenaar' heeft een vuurwapen op zak. Hier worden ze erg ongelukkig van.</BrawlerHasRangedWeaponDesc>
 
   <NeedResearchProject>Geen onderzoek</NeedResearchProject>
   <NeedResearchProjectDesc>Je hebt alle benodigdheden om te onderzoeken, maar geen project.\n\nOpen het onderzoeksmenu en begin een project.</NeedResearchProjectDesc>

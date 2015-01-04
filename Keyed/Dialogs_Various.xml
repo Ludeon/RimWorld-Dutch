@@ -128,19 +128,6 @@
   <!-- Comms -->
   <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
   
-  <!-- Stats report -->
-  <StatsReport_BaseValue>Grondwaarde</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevante eigenschappen</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevante uitrusting</StatsReport_RelevantGear>
-  <StatsReport_Material>Materiaal</StatsReport_Material>
-  <StatsReport_CharacterQuality>Karakterkwaliteit</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Vaardigheden</StatsReport_Skills>
-  <StatsReport_OtherStats>Andere statistieken</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Gezondheidsfactoren</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>{0} weging</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Post-verwerkte curve</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Eindprijs</StatsReport_FinalValue>
-  
   <!--Other-->
   <ResearchFinished>Onderzoek afgerond: {0}</ResearchFinished>
   <ResearchScreen>Onderzoeksmenu</ResearchScreen>

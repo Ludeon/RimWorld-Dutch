@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Opdracht</TabBills>
+  <TabGrowing>Landbouw</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabPrisoner>Gevangene</TabPrisoner>
+  <TabGear>Spullen</TabGear>
+  <TabThoughts>Gedachten</TabThoughts>
+  <TabStorage>Opslag</TabStorage>
+  <TabHealth>Lichaam</TabHealth>
+  <TabRace>Ras</TabRace>
+  <TabBasics>Basics</TabBasics>
+  <TabStats>Stats</TabStats>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Opdracht toev.</AddBill>
+  <RecipeRequiresSkills>Het recept {0} vereist de onderstaande vaardigheden. Geen van je kolonisten heeft deze vaardigheden, dus zal niemand deze opdracht uitvoeren.</RecipeRequiresSkills>
+  <BillConfig>Config</BillConfig>
+  <SuspendedCaps>OPGESCHORT</SuspendedCaps>
+  <PlantVerb>Plant</PlantVerb>
+
+
+  <!-- Prisoner tab -->
+  <RecruitmentDifficulty>Recruterings basisniveau</RecruitmentDifficulty>
+  <PrisonerGetsFood>Krijgt eten</PrisonerGetsFood>
+  <DoctorsCare>Wordt verzorgd</DoctorsCare>
+  <PrisonerGetsMedicine>Krijgt medicijnen</PrisonerGetsMedicine>
+  <ShouldTryToRecruit>Probeer te recruteren</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Geen interactie</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Vriendelijk praatje</PrisonerFriendlyChat>
+  <PrisonerRelease>Vrijlaten</PrisonerRelease>
+  <PrisonerExecution>Executeren</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Bewegingssnelheid</MoveSpeed>
+  <Efficiency>Efficiëntie</Efficiency>
+  <MissingBodyPart>Ontbreekt</MissingBodyPart>
+  <DestroyedBodyPart>Vernietigd</DestroyedBodyPart>
+  <ShatteredBodyPart>Versplinterd</ShatteredBodyPart>
+  <RemovedBodyPart>Verwijderd</RemovedBodyPart>
+  <Healthy>Gezond</Healthy>
+  <InPain>In Pijn</InPain>
+  <PainLevel>Pijn</PainLevel>
+  <Dead>Dood</Dead>
+  <Unconscious>Bewusteloos</Unconscious>
+  <PainShock>In shock</PainShock>
+  <Injured>Gewond</Injured>
+  <NoInjuries>(geen verwondingen)</NoInjuries>
+  <WholeBody>Hele lichaam</WholeBody>
+  <DataProcessing>Dataverwerking</DataProcessing>
+  <Communication>Communicatie</Communication>
+  <AffectsLower>beïnvloedt</AffectsLower>
+  <BleedingRate>Hoeveelheid bloed</BleedingRate>
+  <HealthOverview>Overzicht</HealthOverview>
+  <MedicalOperationsShort>Operaties ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Aanpassingen ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medische operaties</MedicalOperations>
+  <Amputate>Amputeer</Amputate>
+  <Harvest>Oogst</Harvest>
+  
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Geen</None>
+  <VeryPoor>Erg slecht</VeryPoor>
+  <Poor>Slecht</Poor>
+  <Weakened>Verzwakt</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Verbeterd</Enhanced>
+  <SeriouslyImpaired>Extreem hinderlijk</SeriouslyImpaired>
+  <Impaired>Hinderlijk</Impaired>
+  <SlightlyImpaired>Licht hinderlijk</SlightlyImpaired>
+  <NoPain>Geen</NoPain>
+  <LittlePain>Een beetje</LittlePain>
+  <MediumPain>Gemiddeld</MediumPain>
+  <SeverePain>Veel</SeverePain>
+  <ExtremePain>Extreem veel</ExtremePain>
+
+
+
+
+
+
+
+
+</LanguageData>

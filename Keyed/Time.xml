@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+<DaysLower>dagen</DaysLower>
+<SecondsLower>seconden</SecondsLower>
+
+<SeasonSpring>Lente</SeasonSpring>
+<SeasonSummer>Zomer</SeasonSummer>
+<SeasonFall>Herfst</SeasonFall>
+<SeasonWinter>Winter</SeasonWinter>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>Opslaan</SaveButton>
+  <!--<CancelButton>Annuleren</CancelButton>-->
+  <ClearBinding>Maak leeg</ClearBinding>
+  <ResetBinding>Herstel standaard</ResetBinding>
+  <BindingButtonToolTip>Klik links om deze toets aan te wijzen, of klik rechts voor opties</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Druk op een toets of druk Escape om te annuleren...</PressAnyKeyOrEsc>
+
+</LanguageData>

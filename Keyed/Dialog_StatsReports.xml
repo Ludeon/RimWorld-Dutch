@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  <StatsReport_BaseValue>Basiswaarde</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevante eigenschappen</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevante uitrusting</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiaal</StatsReport_Material>
+  <StatsReport_CharacterQuality>Karakter kwaliteit</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Vaardigheidsfactoren</StatsReport_Skills>
+  <StatsReport_OtherStats>Andere factoren</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Gezondheidsfactoren</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} impact</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Nabewerkte kromming</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Eindresultaat</StatsReport_FinalValue>
+  <StatsReport_QualityMultiplier>Kwaliteitsvermenigvuldiging</StatsReport_QualityMultiplier>
+  <StatsReport_MarketValueFromStuffsAndWork>Marktwaarde wordt berekend aan de hand van het materiaal en de hoeveelheid werk.</StatsReport_MarketValueFromStuffsAndWork>
+  
+</LanguageData>

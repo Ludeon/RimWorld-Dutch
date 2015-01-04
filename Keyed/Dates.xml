@@ -4,39 +4,38 @@
   <ClockTime>Tijd</ClockTime>
   <ClockDate>Datum</ClockDate>
   <ClockYear>Jaar</ClockYear>
-  <DateReadoutTip>Sinds je aankomst zijn er {0} dagen voorbijgegaan.\Iedere maand heeft {1} dagen\nDit is jaar {2}.</DateReadoutTip>
-  <DateReadoutTip>Seit deiner Ankunft sind {0} Tage vergangen.\nJeder Monat hat {1} Tage.\nAktuelle Jahreszeit: {2}</DateReadoutTip>
+  <DateReadoutTip>Sinds je aankomst zijn er {0} dagen verstreken.\Iedere maand heeft {1} dagen\nDit is jaar {2}.</DateReadoutTip>
 
 
 
   <FullDate>{0} {1}, jaar {2}</FullDate>
   <MonthFullDate>{0} {1}</MonthFullDate>
   
-  <MonthFullJanuary>Januari</MonthFullJanuary>
-  <MonthFullFebruary>Februari</MonthFullFebruary>
-  <MonthFullMarch>Maart</MonthFullMarch>
-  <MonthFullApril>April</MonthFullApril>
-  <MonthFullMay>Mei</MonthFullMay>
-  <MonthFullJune>Juni</MonthFullJune>
-  <MonthFullJuly>Juli</MonthFullJuly>
-  <MonthFullAugust>Augustus</MonthFullAugust>
-  <MonthFullSeptember>September</MonthFullSeptember>
-  <MonthFullOctober>Oktober</MonthFullOctober>
-  <MonthFullNovember>November</MonthFullNovember>
-  <MonthFullDecember>December</MonthFullDecember>
+  <MonthFullJanuary>januari</MonthFullJanuary>
+  <MonthFullFebruary>februari</MonthFullFebruary>
+  <MonthFullMarch>maart</MonthFullMarch>
+  <MonthFullApril>april</MonthFullApril>
+  <MonthFullMay>mei</MonthFullMay>
+  <MonthFullJune>juni</MonthFullJune>
+  <MonthFullJuly>juli</MonthFullJuly>
+  <MonthFullAugust>augustus</MonthFullAugust>
+  <MonthFullSeptember>september</MonthFullSeptember>
+  <MonthFullOctober>oktober</MonthFullOctober>
+  <MonthFullNovember>november</MonthFullNovember>
+  <MonthFullDecember>december</MonthFullDecember>
   
-  <MonthShortJanuary>Jan</MonthShortJanuary>
-  <MonthShortFebruary>Febr</MonthShortFebruary>
-  <MonthShortMarch>Mar</MonthShortMarch>
-  <MonthShortApril>Apr</MonthShortApril>
-  <MonthShortMay>Mei</MonthShortMay>
-  <MonthShortJune>Jun.</MonthShortJune>
-  <MonthShortJuly>Jul.</MonthShortJuly>
-  <MonthShortAugust>Aug</MonthShortAugust>
-  <MonthShortSeptember>Sept</MonthShortSeptember>
-  <MonthShortOctober>Okt</MonthShortOctober>
-  <MonthShortNovember>Nov</MonthShortNovember>
-  <MonthShortDecember>Dec</MonthShortDecember>
+  <MonthShortJanuary>jan</MonthShortJanuary>
+  <MonthShortFebruary>feb</MonthShortFebruary>
+  <MonthShortMarch>mrt</MonthShortMarch>
+  <MonthShortApril>apr</MonthShortApril>
+  <MonthShortMay>mei</MonthShortMay>
+  <MonthShortJune>jun</MonthShortJune>
+  <MonthShortJuly>jul</MonthShortJuly>
+  <MonthShortAugust>aug</MonthShortAugust>
+  <MonthShortSeptember>sept</MonthShortSeptember>
+  <MonthShortOctober>okt</MonthShortOctober>
+  <MonthShortNovember>nov</MonthShortNovember>
+  <MonthShortDecember>dec</MonthShortDecember>
     
     
 </LanguageData>

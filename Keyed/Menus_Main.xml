@@ -93,8 +93,8 @@
   <Elevation>Hoogte</Elevation>
   <Fertility>Vruchtbaarheid</Fertility>
   <AvgTemp>Gem Temp</AvgTemp>
-  <AvgJanTemp>Gem Temp (Jan): {0}</AvgJanTemp>
-  <AvgJulTemp>Gem Temp (Jul): {0}</AvgJulTemp>
+  <AvgJanTemp>Gem Temp (jan): {0}</AvgJanTemp>
+  <AvgJulTemp>Gem Temp (jul): {0}</AvgJulTemp>
   <Rainfall>Neerslag</Rainfall>
   <HasCoast0>Noordelijke kust</HasCoast0>
   <HasCoast1>Oostelijke kust</HasCoast1>

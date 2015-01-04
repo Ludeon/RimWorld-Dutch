@@ -4,17 +4,17 @@
     <!-- Names -->
   <Credit_Ludomancer>Ontwikkelaar</Credit_Ludomancer>
   <Credit_MusicAndSound>Muziek en geluid</Credit_MusicAndSound>
-  <Credit_AdditionalProgramming>toevoegende programmering</Credit_AdditionalProgramming>
+  <Credit_AdditionalProgramming>Extra programmeerwerk</Credit_AdditionalProgramming>
   <Credit_GameArt>Game graphics</Credit_GameArt>
   <Credit_MenuArt>Menu graphics</Credit_MenuArt>
 
-  <Credits_TitleTesting>Test Team</Credits_TitleTesting>
+  <Credits_TitleTesting>Testteam</Credits_TitleTesting>
   <Credit_Tester>Tester</Credit_Tester>
 
   <Credits_TitleLanguage>Taal: {0}</Credits_TitleLanguage>
   <Credit_Writer>Schrijver</Credit_Writer>
   <Credit_Translator>Vertaler</Credit_Translator>
-  <Credit_OpenSourceLibraries>Open-Source-Biblioteken</Credit_OpenSourceLibraries>
+  <Credit_OpenSourceLibraries>Open-Source biblioteken</Credit_OpenSourceLibraries>
   <Credit_NoiseGeneration>Geluidsgeneratie</Credit_NoiseGeneration>
   
 </LanguageData>

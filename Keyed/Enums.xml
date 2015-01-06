@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- glow -->
-  <Dark>donker</Dark>
-  <Lit>verlicht</Lit>
-  <LitBrightly>sterk verlicht</LitBrightly>
+  <Dark>Donker</Dark>
+  <Lit>Verlicht</Lit>
+  <LitBrightly>Helder verlicht</LitBrightly>
   
   <!-- food quality -->
   <NoneQuality>Geen</NoneQuality>
@@ -20,28 +20,29 @@
   <Omnivorous>Alleseter</Omnivorous>
   <Herbivorous>Planteneter</Herbivorous>
   <Carnivorous>Vleeseter</Carnivorous>
+  <Dendrovorous>Houteter</Dendrovorous>
   
   <!-- history upload pref -->
-  <Unspecified>ongespecifeerd</Unspecified>
+  <Unspecified>Ongespecifeerd</Unspecified>
   <Always>Altijd</Always>
   <Never>Nooit</Never>
   
   <!-- Price types -->
-  <PriceTypeVeryCheap>zeer goedkoop</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>spotgoedkoop</PriceTypeVeryCheap>
   <PriceTypeCheap>goedkoop</PriceTypeCheap>
   <PriceTypeNormal>normaal</PriceTypeNormal>
   <PriceTypeExpensive>duur</PriceTypeExpensive>
-  <PriceTypeExorbitant>te duur</PriceTypeExorbitant>
+  <PriceTypeExorbitant>heel duur</PriceTypeExorbitant>
 
  <!-- Quality category -->
-  <QualityCategory_Awful>Verschrikkelijk</QualityCategory_Awful>
-  <QualityCategory_Shoddy>zeer slecht</QualityCategory_Shoddy>
-  <QualityCategory_Poor>slecht</QualityCategory_Poor>
+  <QualityCategory_Awful>vreselijk</QualityCategory_Awful>
+  <QualityCategory_Shoddy>slecht</QualityCategory_Shoddy>
+  <QualityCategory_Poor>matig</QualityCategory_Poor>
   <QualityCategory_Normal>normaal</QualityCategory_Normal>
   <QualityCategory_Good>goed</QualityCategory_Good>
-  <QualityCategory_Superior>erg goed</QualityCategory_Superior>
-  <QualityCategory_Excellent>excelent</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>meesterlijk</QualityCategory_Masterwork>
+  <QualityCategory_Superior>uitstekend</QualityCategory_Superior>
+  <QualityCategory_Excellent>briljant</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>meesterwerk</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendarisch</QualityCategory_Legendary>
   
 </LanguageData>

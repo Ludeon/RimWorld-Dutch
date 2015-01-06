@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FactionGreetingHostile>De spreker van {0} schreeuwt een paar beledigingen, voor hij de verbinding verbreekt</FactionGreetingHostile>
-  <FactionGreetingWary>De spreker van {0} begroet {1} mistroostig en vraagt naar HIS bedoelingen.</FactionGreetingWary>
-  <FactionGreetingFriendly>De spreker van {0} begroet {1} hartelijk, en vraagt hoe het met de kolonie gaat.</FactionGreetingFriendly>
+  <FactionGreetingHostile>De vertegenwoordiger van {0} slingert een paar beledigingen door de console en verbreekt de verbinding</FactionGreetingHostile>
+  <FactionGreetingWary>De vertegenwoordiger van {0} begroet {1} mistroostig en vraagt wat hij van hen wil.</FactionGreetingWary>
+  <FactionGreetingWarm>De vertegenwoordiger van {0} begroet {1} hartelijk, en vraagt hoe het met de kolonie gaat.</FactionGreetingWarm>
 
   <Disconnect>Verbinding verbreken</Disconnect>
 
   <OfferGift>Geschenk aanbieden</OfferGift>
-  <NeedSilverLaunchable>{0} silver nodig (lanceerbaar)</NeedSilverLaunchable>
+  <NeedSilverLaunchable>{0} zilver nodig (verzendklaar)</NeedSilverLaunchable>
   <NotEnoughSilver>Niet genoeg zilver.</NotEnoughSilver>
-  <SilverForGoodwill>{0} zilver voor {1} welwillendheid</SilverForGoodwill>
-  <SilverGiftSent>De {0} spreker bedankt je.\n\n(Welwillendheid met {1} verbeterd).</SilverGiftSent>
+  <SilverForGoodwill>{0} zilver voor {1} relatiepunten</SilverForGoodwill>
+  <SilverGiftSent>De vertegenwoordiger van {0} bedankt je.\n\n(Relatie met {1} verbeterd).</SilverGiftSent>
 
 
-  <RequestMilitaryAid>Vraag om millitaire hulp ({0} welwillendheid)</RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy>{0} helpt je niet tegen facties die zijn eigen vijand niet zijn. Dat bevat dus ook degenen die je op het moment bedreigen, {1}. Wil je nog steeds om hulp vragen?</MilitaryAidConfirmMutualEnemy>
+  <RequestMilitaryAid>Vraag om militaire ondersteuning ({0} relatie)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} is geen vijand van {1] en zal je dus niet helpen om hen te verslaan. Wil je hen nog steeds om hulp vragen?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Ja, vraag het alsnog.</CallConfirm>
   <CallCancel>Nee, dan niet.</CallCancel>
-  <MilitaryAidSent>De spreker van {0} stemt toe en stuurt strijders, die je zullen helpen..</MilitaryAidSent>
+  <MilitaryAidSent>De vertegenwoordiger van {0} stemt toe en stuurt mensen om je te helpen.</MilitaryAidSent>
   
   
 </LanguageData>

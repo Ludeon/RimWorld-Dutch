@@ -3,32 +3,43 @@
 
 	<Autosaving>Opslaan..</Autosaving>
 
-	<GameStartDialog>Er wachten cryptoslaapcapsules op jullie tussen verwrongen metaal. Tussen de explosies en al het geweld weten jullie nog net de capsules te bereiken. Als jullie in het heelal worden gekatapulteert, breekt achter jullie het ruimteschip in duizend stukken.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nOm jullie heen slaan nog de laatste delen van het ruimteschip in, wanneer jullie beginnen met het smeden van plannen ter overleving.</GameStartDialog>
+	<GameStartDialog>Jullie worden wakker in jullie cryptoslaapcapsules van alarmgeschal en het geluid van scheurend metaal. Op het nippertje weten jullie de ontsnappingscapsules te bereiken, vlak voordat het schip in stukken scheurt.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nTerwijl de stukken van jullie ruimteschip om jullie heen neerstorten, beginnen jullie met het maken van plannen om te overleven.</GameStartDialog>
 	
 	<Colony>Kolonie</Colony>
 	
-	<ChangeLanguageFromMainMenu>De taal kun je alleen in het hoofdmenu veranderen.</ChangeLanguageFromMainMenu>
+	<ChangeLanguageFromMainMenu>Je kunt de taal alleen vanuit het hoofdmenu veranderen.</ChangeLanguageFromMainMenu>
 
 	<AndLower>en</AndLower>
 	<DisabledLower>gedeactiveerd</DisabledLower>
   
-    <CloseButton>Sluiten</CloseButton>
-
+    <CloseButton>Sluiten</CloseButton>  
 
   <VersionIndicator>Versie {0}</VersionIndicator>
   <DevelopmentBuildLower>ontwikkelaarsversie</DevelopmentBuildLower>
   <CompiledOn>Gecompileerd op {0}</CompiledOn>
 
+
+  
+  <!-- Content generation-->
+  
+  
   <MeatLabel>{0} vlees</MeatLabel>
-   <MeatDesc>Vlees van {0}.</MeatDesc>
+   <MeatDesc>Rauw vlees van een {0}.</MeatDesc>
    
   <LeatherLabel>{0} leer</LeatherLabel>
-  <LeatherDesc>Leer van de huid van {0}.</LeatherDesc>
+  <LeatherDesc>Leer gemaakt van de huid van een {0}.</LeatherDesc>
    
-	<CorpseLabel>{0} (lichaam)</CorpseLabel>
-	<CorpseDesc>Dood lichaam van {0}.</CorpseDesc>
+	<CorpseLabel>{0} (lijk)</CorpseLabel>
+	<CorpseDesc>Lijk van een {0}.</CorpseDesc>
   <DeadLabel>{0} (dood)</DeadLabel>
 
+    <RoughStoneTerrainLabel>ruwe {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Ruwe, natuurlijke {0} grond.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>Grof uitgehakte {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Grof uitgehakte natuurlijke {0} floor.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>gepolijste {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Gepolijste natuurlijke {0} floor.</SmoothStoneTerrainDesc>
+  
 
 	<BlueprintLabelExtra>(gepland)</BlueprintLabelExtra>
   <FrameLabelExtra> (wordt gebouwd)</FrameLabelExtra>
@@ -37,7 +48,7 @@
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <VariousLabel>(verscheidenen)</VariousLabel>
+  <VariousLabel>(verschillende objecten geselecteerd)</VariousLabel>
 	
 	
   <!-- History events -->

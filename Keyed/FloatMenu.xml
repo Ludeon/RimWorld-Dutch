@@ -1,97 +1,100 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Bel {0}</CallOnRadio>
-	<CannotUseSolarFlare>Kan niet gebruikt worden (zonnestorm)</CannotUseSolarFlare>
-	<CannotUseNoPower>Kan niet gebruikt worden (geen strrom)</CannotUseNoPower>
-	<CannotUseNoPath>Kan niet gebruikt worden (geen weg)</CannotUseNoPath>
-	<CannotUseReserved>Kan niet gebruikt worden (gereserveerd)</CannotUseReserved>
-	<CannotUseFull>Kan niet gebruikt worden (vol)</CannotUseFull>
+
+
+	<CallOnRadio>Roep {0} op</CallOnRadio>
+	<CannotUseSolarFlare>Kan niet worden gebruikt (zonnestorm)</CannotUseSolarFlare>
+	<CannotUseNoPower>Kan niet worden gebruikt (geen stroom)</CannotUseNoPower>
+	<CannotUseNoPath>Kan niet worden gebruikt (geen weg)</CannotUseNoPath>
+	<CannotUseReserved>Kan niet worden gebruikt (gereserveerd)</CannotUseReserved>
+	<CannotUseFull>Kan niet worden gebruikt (vol)</CannotUseFull>
 
   <FireAt>Schiet op {0}</FireAt>
 
-  <CarryToCryptosleepCasket>Draag {0} naar cryptoslaapkapsel</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Kan niet naar cryptoslaapkapsel dragen</CannotCarryToCryptosleepCasket>
-
-  <NoCryptosleepCasket>Geen cryptosleepkapsel beschikbaar</NoCryptosleepCasket>
-
-  <OutOfRange>Buiten reikwijdte</OutOfRange>
-  <CannotHitTarget>Kan het doel niet raken</CannotHitTarget>
+  <OutOfRange>buiten bereik</OutOfRange>
+  <CannotHitTarget>kan het doel niet raken</CannotHitTarget>
   <CannotFight>{0} kan niet vechten</CannotFight>
 
   <OrderManThing>Beman {0}</OrderManThing>
   
-  <MeleeAttack>Begin vuistgevecht met {0}</MeleeAttack>
-  <MeleeAttackToDeath>Begin vuistgevecht tot de dood met {0}</MeleeAttackToDeath>
-  <NoPath>Geen weg</NoPath>
+  <MeleeAttack>Ga op de vuist met {0}</MeleeAttack>
+  <MeleeAttackToDeath>Gevecht op leven en dood met {0}</MeleeAttackToDeath>
+  <NoPath>geen weg gevonden</NoPath>
   
- 	<ForbiddenLower>Verboden</ForbiddenLower>
-	<SociallyImproperLower>Sociaal ongepast</SociallyImproperLower>
-	<PrisonerRoomLower>Gevangenis</PrisonerRoomLower>
-	<BurningLower>Brand</BurningLower>
-	<NoEmptyPlaceLower>Geen lege opslaplaats beschikbaar</NoEmptyPlaceLower>
-	<AlreadyFilledLower>Al gevuld</AlreadyFilledLower>
-	<MissingMaterials>Mist bouwmaterialen</MissingMaterials>
+ 	<ForbiddenLower>verboden</ForbiddenLower>
+	<SociallyImproperLower>sociaal ongepast</SociallyImproperLower>
+	<PrisonerRoomLower>gevangenis</PrisonerRoomLower>
+	<BurningLower>brandt</BurningLower>
+	<NoEmptyPlaceLower>geen lege opslagplaats beschikbaar</NoEmptyPlaceLower>
+	<AlreadyFilledLower>al gevuld</AlreadyFilledLower>
+	<MissingMaterials>mist bouwmateriaal</MissingMaterials>	
 	
-
-  <CannotGoNoPath>Kan hier niet heen(geen weg)</CannotGoNoPath>
-  <GoHere>Ga hier heen</GoHere>
+	
+  <CannotGoNoPath>Kan hier niet naartoe gaan (geen weg)</CannotGoNoPath>
+  <GoHere>Ga hierheen</GoHere>
   
-  <Arrest>{0} arresteren</Arrest>
-  <CannotArrest>Arresteren niet mogenlijk.</CannotArrest>
+  <Arrest>Arresteer {0}</Arrest>
+  <CannotArrest>Arrestatie onmogelijk</CannotArrest>
 
-  <Capture>{0} vangen</Capture>
-  <CannotCapture>Vangen niet mogenlijk.</CannotCapture>
+  <Capture>Neem {0} gevangen</Capture>
+  <CannotCapture>Gevangennemen onmogelijk</CannotCapture>
 
-  <Rescue>{0} redden</Rescue>
-  <CannotRescue>Redding  niet mogenlijk.</CannotRescue>
+  <Rescue>Red {0}</Rescue>
+  <CannotRescue>Redding onmogelijk</CannotRescue>
+  
+  <CarryToCryptosleepCasket>Draag {0} naar cryptoslaapcapsule</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kan niet naar cryptoslaapcapsule dragen</CannotCarryToCryptosleepCasket>
 
-  <NoPrisonerBed>Geen bed in gevangenis-modus beschikbaar.</NoPrisonerBed>
-  <NoNonPrisonerBed>Geen bed voor kolonist beschikbaar</NoNonPrisonerBed>
+  <NoCryptosleepCasket>Geen cryptoslaapcapsule beschikbaar</NoCryptosleepCasket>
+  <NoPrisonerBed>Geen gevangenisbed beschikbaar.</NoPrisonerBed>
+  <NoNonPrisonerBed>Geen kolonistenbed beschikbaar</NoNonPrisonerBed>
   <Reserved>Wordt al door iemand anders gebruikt.</Reserved>
   <ReservedBy>Wordt al door {0} gebruikt.</ReservedBy>
   <IsReservedBy>{0} wordt al door {1} gebruikt.</IsReservedBy>
 
-  <NoManipulationSkill>Niet in staat.</NoManipulationSkill>
+  <NoManipulationSkill>ongeschikt</NoManipulationSkill>
 
   <Equip>{0} uitrusten</Equip>
-  <CannotEquip>Kan {0} niet uitrusten.</CannotEquip>
+  <CannotEquip>Kan {0} niet uitrusten</CannotEquip>
   
-  <Wear>Doe {0} aan</Wear>
-  <CannotWear>Kan {0} niet aandoen.</CannotWear>
+  <Wear>Trek {0} aan</Wear>
+  <CannotWear>Kan {0} niet aantrekken</CannotWear>
   
-  <Strip>Kleedt {0} uit</Strip>
-  <CannotStrip>Kan {0} niet uitkleden.</CannotStrip>
+  <Strip>Kleed {0} uit</Strip>
+  <CannotStrip>Kan {0} niet uitkleden</CannotStrip>
 
   <Deposit>Leg {0} in {1}</Deposit>
-  <CannotDeposit>Kan {0} niet in {1} leggen.</CannotDeposit>
+  <CannotDeposit>Kan {0} niet in {1} leggen</CannotDeposit>
 
+  <SelfDestructHere>Zelfvernietiging hier</SelfDestructHere>
+  
   <Drop>Laat {0} vallen</Drop>
   
-  <UseMedicalBed>Neem rust tot volledige herstelling</UseMedicalBed>
+  <UseMedicalBed>Rust tot volledig hersteld</UseMedicalBed>
   <NotInjured>Niet verwond</NotInjured>
   <SomeoneElseSleeping>Bezet</SomeoneElseSleeping>
 
-  <!-- Specific thing interactions -->
-  <EnterCryptosleepPod>Ga in crytoslaappod</EnterCryptosleepPod>
- 
-  <EnterCryptosleepCasket>Ga in cryptoslaapkapsel</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptoslaapkapsel</OpenCryptosleepCasket>
+  <!-- Specific thing interactions --> 
+  <EnterCryptosleepCasket>Stap in cryptoslaapcapsule</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Open cryptoslaapcapsule</OpenCryptosleepCasket>
   
   
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan {1} niet {0}.</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotGenericAlreadyAm>{1} wordt al ge{0}</CannotGenericAlreadyAm>
+  <CannotMissingHealthActivities>Kan geen prioriteit geven vanwege een gezondheidsprobleem: {0}</CannotMissingHealthActivities>
+  
+  <CannotGenericAlreadyAm>{1} al bezig met {0}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Kan niet geprioriseerd worden ({0} is geen {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeIsNotA>Kan hier geen prioriteit aan geven ({0} is geen {1})</CannotPrioritizeIsNotA>
 
-  <CannotPrioritizeResearch>Kan niet geprioriseerd worden (Onderzoek is een langdurige klus)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Kan hier geen prioriteit aan geven (onderzoek is een langdurige taak)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Kan niet geprioriseerd worden ({0} is verboden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Kan hier geen prioriteit aan geven ({0} is verboden)</CannotPrioritizeForbidden>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioriisser {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>Prioritiseer {1} {0}</PrioritizeGeneric>
   
 </LanguageData>

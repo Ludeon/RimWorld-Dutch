@@ -82,7 +82,7 @@
   <BrawlerHasRangedWeaponDesc>Een van je kolonisten met de persoonlijke eigenschap 'vechtkunstenaar' heeft een vuurwapen op zak. Hier worden ze erg ongelukkig van.</BrawlerHasRangedWeaponDesc>
 
   <NeedResearchProject>Geen onderzoek</NeedResearchProject>
-  <NeedResearchProjectDesc>Je hebt alle benodigdheden om te onderzoeken, maar geen project.\n\nOpen het onderzoeksmenu en begin een project.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>Je hebt alles wat je nodig hebt om een onderzoek te starten, maar je hebt nog geen project gekozen.\n\nOpen het onderzoeksmenu en kies een project.</NeedResearchProjectDesc>
 
   <NeedDump>Geen afvalzone</NeedDump>
   <NeedDumpDesc>Je hebt aangegeven dat {0} weggesleept moet worden, maar je kolonisten kunnen het nergens naartoe brengen.\n\nWijs een afvalzone aan om {0} te accepteren.</NeedDumpDesc>

@@ -3,32 +3,39 @@
 
   <JumpToLocation>Naar plaats springen</JumpToLocation>
 
+    <FirstSummerWarning>De zomer is begonnen! Maar de winter staat alweer voor de deur.\n\nJe gewassen zullen in de koude wintermaanden niet kunnen groeien. Zorg er dus voor dat je nu het nog kan genoeg voedsel produceert, zodat je genoeg voorraad hebt om de winter te overleven.\n\nJe kunt een inloop-vriezer maken om te voorkomen dat je voedsel zal verrotten.\n\nProbeer ook een paar parka's te kopen, stelen of maken zodat je niet doodvriest zodra je naar buiten gaat.</FirstSummerWarning>
+  
   <RelationsBrokenDown>De relaties met {0} zijn verslechterd. Ze zijn je nu vijandig gezind.</RelationsBrokenDown>
   <RelationsWarmed>De relaties met {0} zijn verbeterd. Ze zijn je niet langer vijandig gezind.</RelationsWarmed>
 
   <RelationsBrokenCapture>Omdat je {0} gevangen hebt genomen, is {1} je nu vijandig gezind.</RelationsBrokenCapture>
 
-  <ColonyGoodwill>Welwillendheid van de kolonie</ColonyGoodwill>
+  <ColonyGoodwill>Kolonierelaties</ColonyGoodwill>
   <Neutral>neutraal</Neutral>
 
   <ShortCircuitRain>{0} is door de regen kortgesloten en heeft vlam gevat.</ShortCircuitRain>
-  <AreaRevealed>Een nieuw gebied is ontdekt.</AreaRevealed>
+  <AreaRevealed>Er is een nieuw gebied ontdekt.</AreaRevealed>
 
-  <RoofCollapsed>Een dak is ingestort, omdat er niets meer was om het te ondersteunen.</RoofCollapsed>
+  <RoofCollapsed>Een dak is ingestort, omdat er geen muren waren om het te ondersteunen.</RoofCollapsed>
   <TheseThingsCrushed>Deze dingen zijn verpletterd:</TheseThingsCrushed>
   <NothingCrushed>Er is niets verpletterd.</NothingCrushed>
   
-  <MentalBreakRampage>{0} heeft een zenuwinzinking gekregen en is losgeslagen.</MentalBreakRampage>
+  <MentalBreakRampage>{0} heeft een zenuwinzinking gekregen en slaat erop los in razernij.</MentalBreakRampage>
   <MentalBreakDaze>{0} heeft het opgegeven en loopt verward rond.</MentalBreakDaze>
   <MentalBreakLeave>{0} heet het opgegeven en verlaat de kolonie.</MentalBreakLeave>
 
-  <RecruitSuccess>{0} heeft succesvol {1} gerecruteerd ({2} kans).</RecruitSuccess>
-  <RecruitFail>{0} heeft {1} niet kunnen recruteren ({2} kans).</RecruitFail>
+  <MentalBreakRecoveryRampage>{0}'s losgeslagen razernij is ten einde.</MentalBreakRecoveryRampage>
+  <MentalBreakRecoveryDaze>{0} is weer bij zinnen gekomen.</MentalBreakRecoveryDaze>
+  <MentalBreakRecoveryLeave>{0} heeft zich bedacht en komt terug naar de kolonie.</MentalBreakRecoveryLeave>
+
   
-  <Birthday>Het is vandaag {0}'s verjaardag! {1} is {2} geworden.</Birthday>
-  <BirthdayWithInjuries>Het is vandaag {0}'s verjaardag! {1} is {2} geworden.\n\nHelaas zijn bij {0} de volgende verwondingen geconstateert:\n{3}</BirthdayWithInjuries>
+  <RecruitSuccess>{0} heeft {1} gerecruteerd (kans: {2}).</RecruitSuccess>
+  <RecruitFail>{0} heeft {1} niet kunnen recruteren (kans: {2}).</RecruitFail>
   
-  <NewDisease>{0} is ziek geworden({1}). Maak zeker, dat {0} een goede behandeling krijg en zo lang mogenlijk in bed blijft, zodat HE snel kan herstellen.</NewDisease>
-  <NewPartDisease>{0} is met {1} geinfecteerd. Maak zeker, dat {0} een goede behandeling krijg en zo lang mogenlijk in bed blijft, zodat HE snel kan herstellen.</NewPartDisease>
+  <Birthday>{0} is jarig vandaag! {1} is {2} geworden.</Birthday>
+  <BirthdayWithInjuries>{0} is jarig vandaag! {1} is {2} geworden.\n\nHelaas heeft {0} vanwege zijn ouderdom de volgende kwalen opgelopen:\n{3}</BirthdayWithInjuries>
+  
+  <NewDisease>{0} is ziek geworden({1}). Zorg ervoor dat {0} een goed behandeld wordt en zo lang mogelijk in bed blijft, zodat HE snel kan herstellen.</NewDisease>
+  <NewPartDisease>{0} heeft een {1}-infectie opgelopen. Zorg ervoor dat je een ziekenbed en een dokter hebt. {0} moet goed behandeld worden en zo lang mogelijk in bed blijven, zodat HE snel kan herstellen.</NewPartDisease>
   
 </LanguageData>

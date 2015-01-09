@@ -3,48 +3,57 @@
   
   <MessageSiegersAssaulting>Belegeraars {0} van {1} vallen de kolonie aan.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} van {1} starten hun aanval.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} van {1} hebben je gezien en beginnen hun aanval nu al.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersBeginningAssault>{0} van {1} beginnen hun aanval.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} van {1} hebben je gezien en beginnen direct met hun aanval.</MessageRaidersDetectedEarlyAssault>
   <MessageRaidersKidnapping>{0} van {1} hebben besloten te ontvoeren wie ze kunnen en weg te gaan.</MessageRaidersKidnapping>
   
   <MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
-  <MessageRaidersGivenUpLeaving>{0} der {1} haben aufgegeben und verlassen das Gebiet.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} der {1} sind zufrieden mit dem Schaden, den sie angerichtet haben und ziehen ab.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersGivenUpLeaving>{0} van {1} hebben het opgegeven en verlaten het gebied.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} van {1} zijn tevreden met de door hen toegebrachte schade en verlaten het gebied.</MessageRaidersSatisfiedLeaving>
 
-  <MessageFightersFleeing>{0} der {1} fliehen.</MessageFightersFleeing>
+  <MessageFightersFleeing>{0} van {1} vluchten.</MessageFightersFleeing>
 
-  <MessageFriendlyFightersLeaving>Freundliche {0} der {1} verlassen das Gebiet.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Vriendelijke {0} van {1} verlaten het gebied.</MessageFriendlyFightersLeaving>
 	
-  <MessageShipHasLeftCommsRange>{0} is buiten de reikwijdte.</MessageShipHasLeftCommsRange>
+  <MessageSeasonBegun>De {0} is begonnen.</MessageSeasonBegun>
+
+  <MessageShipHasLeftCommsRange>{0} is nu buiten communicatiebereik.</MessageShipHasLeftCommsRange>
 	
-  <MessageNeedBeaconToTradeWithShip>Je hebt een orbitaal handelsbaken nodig om met dit ruimteschip te kunnen handelen.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Je hebt een orbitaal handelsbaken nodig om met ruimteschepen te kunnen handelen.</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Klus afgerond: {0}.</MessageBillComplete>
+  <MessageBillComplete>Opdracht afgerond: {0}.</MessageBillComplete>
   
   <MessageFullyHealed>{0} is volledig hersteld.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Gevangene {0} breekt uit.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Gevangene {0} probeert uit te breken.</MessagePrisonerIsEscaping>
 
-  <MessageRecruitSuccess>{0} heeft succesvol {1} gerecruteerd ({2} kans).</MessageRecruitSuccess>
-  <MessageRecruitFail>{0} heeft {1} niet kunnen recruteren ({2} kans) ({2} Chance).</MessageRecruitFail>
-  	<MessageRecruitFailBecauseLoyalty>{0} heeft {1} niet kunnen recruteren (Loyalität des Gefangenen ist zu niedrig).</MessageRecruitFailBecauseLoyalty>
+  <MessageRecruitSuccess>{0} heeft {1} gerecruteerd (kans: {2}).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} heeft {1} niet kunnen recruteren (kans: {2}).</MessageRecruitFail>
+  	<MessageRecruitFailBecauseLoyalty>{0} heeft {1} niet kunnen recruteren (gevangene is nog niet vriendelijk genoeg).</MessageRecruitFailBecauseLoyalty>
 
-  <MessagePoorlyTreated>{1} heeft {0} behandeld (Slechte kwaliteit, {2} kans op goede kwaliteit)</MessagePoorlyTreated>
-  <MessageWellTreated>{1} heeft {0} behandeld (Goede kwaliteit, {2} kans op goede kwaliteit)</MessageWellTreated>
+  <MessagePoorlyTreated>{1} heeft {0} behandeld (slechte kwaliteit, {2} kans op goede kwaliteit)</MessagePoorlyTreated>
+  <MessageWellTreated>{1} heeft {0} behandeld (goede kwaliteit, {2} kans op goede kwaliteit)</MessageWellTreated>
 	
-  <MessageTraderCannotAfford>De handelaar kan zich dit niet veroorloven.</MessageTraderCannotAfford>
-  <MessageColonyCannotAfford>De kolonie kan zich dit niet veroorloven.</MessageColonyCannotAfford>
+  <MessageTraderCannotAfford>De handelaar kan zich deze deal niet veroorloven.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>De kolonie kan zich deze deal niet veroorloven.</MessageColonyCannotAfford>
+  <!-- The next two strings seem to be unused, instead the previous two strings are used (CannotAfford) --> 
   <MessageColonyNotEnoughSilver>Je hebt niet genoeg zilver klaar staan.</MessageColonyNotEnoughSilver>
   <MessageTraderNotEnoughSilver>Handelaar heeft niet genoeg zilver.</MessageTraderNotEnoughSilver>
 
-  <MessageCriticalAlert>Kritische waarschuwing: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>Kritieke waarschuwing: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestable>Er moeten oogstbare planten worden geselecteerd, die volgroeid zijn.</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>Er moeten hakbare bomen worden geselecteerd, die volgroeid zijn</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Er moeten planten worden geselecteerd.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Er moet een draagbaar voorwerp worden geselecteerd.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHarvestable>Er moeten volgroeide, oogstbare planten worden gemarkeerd.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Er moeten volgroeide bomen worden gemarkeerd. </MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Er moeten planten worden gemarkeerd om te verwijderen.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Er moet een versleepbaar object worden gemarkeerd.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Er moeten delfbare rotsen worden gemarkeerd.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Er moeten wilde dieren worden gemarkeerd.</MessageMustDesignateHuntable>
+  <MessageMustDesignateClaimable>Er moet een verlaten, door mensen gebouwde constructie worden gemarkeerd.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Er moet een ruwe stenen vloer gemarkeerd worden om te polijsten.</MessageMustDesignateSmoothableFloor>
   
-  <MessageNoMedicalBeds>Er zijn geen medische bedden beschikbaar.</MessageNoMedicalBeds>
+  
+  
+  <MessageNoMedicalBeds>Er zijn geen ziekenbedden beschikbaar.</MessageNoMedicalBeds>
   
   <PawnDiedBecauseOf>{0} is aan {1} gestorven.</PawnDiedBecauseOf>
 

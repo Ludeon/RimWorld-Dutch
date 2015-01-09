@@ -28,7 +28,7 @@
   <MentalBreakRecoveryDaze>{0} is weer bij zinnen gekomen.</MentalBreakRecoveryDaze>
   <MentalBreakRecoveryLeave>{0} heeft zich bedacht en komt terug naar de kolonie.</MentalBreakRecoveryLeave>
 
-  
+  <!-- The next two strings seem to be unused, instead, using MessageRecruitSuccess and Fail? --> 
   <RecruitSuccess>{0} heeft {1} gerecruteerd (kans: {2}).</RecruitSuccess>
   <RecruitFail>{0} heeft {1} niet kunnen recruteren (kans: {2}).</RecruitFail>
   

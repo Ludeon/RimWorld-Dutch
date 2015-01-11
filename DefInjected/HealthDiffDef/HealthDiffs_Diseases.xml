@@ -6,7 +6,7 @@
 	
 	<ShutDown.label>Uitzetten</ShutDown.label>
 	
-	<WoundInfection.label>Geïnfecteerde wond</WoundInfection.label>
+	<WoundInfection.label>Infectie</WoundInfection.label>
 	<rep>
 		<path>WoundInfection.disease.severityStages[0].label</path>
 		<trans>gering</trans>

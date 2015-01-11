@@ -5,8 +5,8 @@
   <ProgressToNextLevel>Voortgang naar volgende niveau</ProgressToNextLevel>
   <Passion>Passie</Passion>
   <PassionNone>Geen interesse (leert {0}x sneller)</PassionNone>
-  <PassionMinor>Geïnteresseerd (leert {0}x sneller)</PassionMinor>
-  <PassionMajor>Zeer geïnteresseerd (leert {0}x sneller)</PassionMajor>
+  <PassionMinor>GeÃ¯nteresseerd (leert {0}x sneller)</PassionMinor>
+  <PassionMajor>Zeer geÃ¯nteresseerd (leert {0}x sneller)</PassionMajor>
   <EffectsAtLevel>Effectief vanaf niveau {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
   

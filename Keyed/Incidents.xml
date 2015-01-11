@@ -51,7 +51,7 @@
   <GroupTravelersPassing>Een groep van {0} is op doorreis.</GroupTravelersPassing>
 
   <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\nHECAP heet {2}.</SingleVisitorArrives>
-  <GroupVisitorsArrive>>Een groep van {0} bezoekt de kolonie.</GroupVisitorsArrive>
+  <GroupVisitorsArrive>Een groep van {0} bezoekt de kolonie.</GroupVisitorsArrive>
   <VisitorsLeaving>De bezoekers van {0} verlaten de kolonie.</VisitorsLeaving>
 
   <WandererJoin>Een {0} genaamd NAME is aangekomen en sluit zich bij de kolonie aan. HECAP is een {1}.</WandererJoin>

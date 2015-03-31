@@ -12,5 +12,21 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Geertje123</creditee>
     </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Sebasbongers</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>SaKenyi</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>erenes</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Gangleider</creditee>
+    </li>
   </credits>
 </LanguageInfo>

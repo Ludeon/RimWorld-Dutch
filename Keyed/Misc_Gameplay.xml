@@ -186,7 +186,7 @@
   <ClearAll>Clear all</ClearAll>
  
  <!-- Mouseover indicator -->
-  <Undiscovered>Unentdeckt</Undiscovered>
+  <Undiscovered>Onontdekt</Undiscovered>
   
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Verander de zichtbaarheid van zones.</ZoneVisibilityToggleButton>
@@ -210,7 +210,7 @@
   <MustPlaceHeadOnShipBeam>Moet met het hoofd op de strucutrele schipbalk bevestigd worden.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Moet naast iets gebouwd worden, dat een trechter nodig heeft.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Moet op een stoom-geiser geplaatst worden.</MustPlaceOnSteamGeyser>
-  <MustPlaceCoolerWithFreeSpaces>Both the hot and cold sides of the cooler must be exposed.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>Zowel de warme als de koele zijde van de koeler koeten worden blootgesteld.</MustPlaceCoolerWithFreeSpaces>
     
   <!-- Wind Turbine -->
   <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
@@ -232,8 +232,8 @@
   <NeurotrainerUsed>{0} heeft de {1} Neurotrainer om van level {2} naar {3} te stijgen.</NeurotrainerUsed>
 
   <!-- Minification -->
-  <Installed>Installed</Installed>
-  <NotInstalled>Not installed</NotInstalled>
+  <Installed>Geïnstalleerd </Installed>
+  <NotInstalled>Niet geïnstalleerd </NotInstalled>
 
   <!-- Art -->
   <Title>Title</Title>

@@ -173,7 +173,7 @@
   <Mature>Volgroeid.</Mature>
   <SeedLabel>{0} zaad</SeedLabel>
   <OutdoorGrowingPeriod>Groeiseizoen: {0}</OutdoorGrowingPeriod>
-  <NoGrowingPeriod>Never</NoGrowingPeriod>
+  <NoGrowingPeriod>Nooit</NoGrowingPeriod>
   <GrowYearRound>Het hele jaar</GrowYearRound>
   <CannotGrowTooCold>Kan niet groeien - te koud.</CannotGrowTooCold>
   
@@ -186,7 +186,7 @@
   <ClearAll>Clear all</ClearAll>
  
  <!-- Mouseover indicator -->
-  <Undiscovered>Onontdekt</Undiscovered>
+  <Undiscovered>Nog niet ontdekt</Undiscovered>
   
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Verander de zichtbaarheid van zones.</ZoneVisibilityToggleButton>

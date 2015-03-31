@@ -207,19 +207,19 @@
 
     <!-- Building placement restricters -->
   <MustPlaceUnroofed>Kan niet onder een dak geplaatst worden.</MustPlaceUnroofed>
-  <MustPlaceHeadOnShipBeam>Moet met het hoofd op de strucutrele schipbalk bevestigd worden.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>Moet met het hoofd op de structurele schipbalk bevestigd worden.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Moet naast iets gebouwd worden, dat een trechter nodig heeft.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Moet op een stoom-geiser geplaatst worden.</MustPlaceOnSteamGeyser>
   <MustPlaceCoolerWithFreeSpaces>Zowel de warme als de koele zijde van de koeler koeten worden blootgesteld.</MustPlaceCoolerWithFreeSpaces>
     
   <!-- Wind Turbine -->
-  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
-  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedBy>Geblokkeerd door</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Geblokkeerd door een dak</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Cryptosleep pod -->
   <PodContains>Bevat</PodContains>
   <CasketUnknownContents>Onbekend</CasketUnknownContents>
-  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+  <CasketWarning>Pas op!\n\nNAME is je laatste nog in leven verkerende kolonist! Als je HIM in de capsule laat stappen, kan je mischien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Kan niet starten.</ShipReportCannotLaunch>
@@ -236,17 +236,17 @@
   <NotInstalled>Niet geïnstalleerd </NotInstalled>
 
   <!-- Art -->
-  <Title>Title</Title>
-  <Untitled>Untitled</Untitled>
+  <Title>Titel</Title>
+  <Untitled>Ongetiteld</Untitled>
   
   <!-- Unfinished thing -->
-  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
-  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItem>Onvoltooid {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Onvoltooid {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
-  <Quality>Quality</Quality>
-  <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
-  <QualityIs>Quality: {0}</QualityIs>
+  <Quality>Kwaliteit</Quality>
+  <QualityDescription>De kwaliteit van een item geeft aan hoe goed het is gemaakt.</QualityDescription>
+  <QualityIs>Kwaliteit: {0}</QualityIs>
   
   <!-- Game over -->
   <GameOverEveryoneDead>Iedereen is dood of weg. Dit verhaal is ten einde.\n\nMisschien zal iemand anders een nut vinden voor de ruines die er nu staan.</GameOverEveryoneDead>

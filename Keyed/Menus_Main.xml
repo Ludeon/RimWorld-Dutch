@@ -22,7 +22,7 @@
   
   <!--=========== Create/review world ================-->
   <ReviewWorld>Wereldkaart</ReviewWorld>
-  <WorldGenerate>Genereren</WorldGenerate>
+  <WorldGenerate>Genereer</WorldGenerate>
   <WorldSaveAndFinish>Opslaan en beëindigen</WorldSaveAndFinish>
   <Reset>Herstel</Reset>
   <WorldSize>Grootte</WorldSize>
@@ -39,7 +39,7 @@
   <BuildNowAvailable>Versie {0} is beschikbaar. Kijk op ludeon.com voor meer informatie.</BuildNowAvailable>
   <BuildUpToDate>Versie is up-to-date.</BuildUpToDate>
   <ErrorGettingVersionInfo>Fout bij het ophalen van versie-informatie: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Ophalen versie-informatie...</LoadingVersionInfo>
+  <LoadingVersionInfo>Ophalen van versie-informatie...</LoadingVersionInfo>
   
   <!--=========== World generator =========-->
   <GenerateWorld>Wereld genereren</GenerateWorld>

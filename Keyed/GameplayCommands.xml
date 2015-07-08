@@ -49,17 +49,17 @@
   
   <!-- Probably obsolete since C4 has been removed? --> 
   <CommandDetonateDesc>Start het aftellen voor ontsteking.</CommandDetonateDesc>
-  <CommandDetonateLabel>Ontsteking</CommandDetonateLabel>
+  <CommandDetonateLabel>Ontsteek.</CommandDetonateLabel>
   
   <CommandRenameZoneDesc>Zone hernoemen.</CommandRenameZoneDesc>
-  <CommandRenameZoneLabel>hernoemen</CommandRenameZoneLabel>
+  <CommandRenameZoneLabel>Hernoem</CommandRenameZoneLabel>
 
   <CommandHideZoneDesc>Zone verbergen/zichtbaar maken</CommandHideZoneDesc>
-  <CommandHideZoneLabel>Verbergen</CommandHideZoneLabel>
+  <CommandHideZoneLabel>Verberg</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Zichtbaar maken</CommandUnhideZoneLabel>
 
   <CommandDeleteZoneDesc>Zone verwijderen.</CommandDeleteZoneDesc>
-  <CommandDeleteZoneLabel>Verwijderen</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>Verwijder</CommandDeleteZoneLabel>
 
   
   <!-- Artillery -->
@@ -94,6 +94,6 @@
 
   <!-- Art -->
   <CommandInstall>Plaatsen</CommandInstall>
-  <CommandInstallDesc>Op dit moment is dit kunstwerk verpakt voor opslag en transport. Gebruik dit commando om het kunstwerk te plaatsen op een definitieve locatie, zodat het kan worden bekeken of gebruikt.</CommandInstallDesc>
+  <CommandInstallDesc>Op dit moment is dit kunstwerk verpakt voor opslag en transport. Gebruik dit bevel om het kunstwerk te plaatsen op een definitieve locatie, zodat het kan worden bekeken of gebruikt.</CommandInstallDesc>
   
 </LanguageData>

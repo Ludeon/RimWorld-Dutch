@@ -8,7 +8,7 @@
   <!-- Save/load -->
   <SaveGameButton>Opslaan</SaveGameButton>
   <OverwriteButton>Overschrijven</OverwriteButton>
-  <LoadGameButton>Laden</LoadGameButton>
+  <LoadGameButton>Laad</LoadGameButton>
   <ConfirmDelete>Weet je zeker dat je {0} wil verwijderen??</ConfirmDelete>
   <DeleteThisSavegame>Verwijder dit spelbestand.</DeleteThisSavegame>
   <SavedAs>Spel als {0} opgeslagen.</SavedAs>

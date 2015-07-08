@@ -72,7 +72,7 @@
   <Drop>Laat {0} vallen</Drop>
   
   <UseMedicalBed>Rust tot volledig hersteld</UseMedicalBed>
-  <NotInjured>Niet verwond</NotInjured>
+  <NotInjured>Niet gewond</NotInjured>
   <SomeoneElseSleeping>Bezet</SomeoneElseSleeping>
 
   <!-- Specific thing interactions --> 

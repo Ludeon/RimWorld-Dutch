@@ -25,7 +25,7 @@
   
   <MessageFullyHealed>{0} is volledig hersteld.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Gevangene {0} probeert uit te breken.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Gevangene {0} probeert te ontsnappen.</MessagePrisonerIsEscaping>
 
   <MessageRecruitSuccess>{0} heeft {1} gerecruteerd (kans: {2}).</MessageRecruitSuccess>
   <MessageRecruitFail>{0} heeft {1} niet kunnen recruteren (kans: {2}).</MessageRecruitFail>

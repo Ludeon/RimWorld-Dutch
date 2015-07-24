@@ -40,8 +40,8 @@
   <NeedMiner>Mijnwerker nodig</NeedMiner>
   <NeedMinerDesc>Je hebt aangegeven dat er rotsen moeten worden uitgegraven, maar geen enkele kolonist is Mijnwerker.\n\nWijs een kolonist aan als mijnwerker.</NeedMinerDesc>
 
-  <NeedWarden>Bewaker nodig</NeedWarden>
-  <NeedWardenDesc>Je hebt gevangenen, maar geen bewaker.\n\nWijs een kolonist aan als bewaker.</NeedWardenDesc>
+  <NeedWarden>Opzichter nodig</NeedWarden>
+  <NeedWardenDesc>Je hebt gevangenen, maar geen opzichter.\n\nWijs een kolonist aan als opzichter.</NeedWardenDesc>
 
   <LowFood>Weinig voedsel</LowFood>
   <LowFoodDesc>Je hebt nog maar {0} aan voedsel beschikbaar. Dit is gevaarlijk weinig.\n\nVerbouw, koop of jaag om meer voedsel te krijgen.</LowFoodDesc>
@@ -78,8 +78,8 @@
   <NoTradingCapacity>Geen handelsverkeer mogelijk</NoTradingCapacity>
   <NoTradingCapacityDesc>Je hebt geen manier om met passerende handelsschepen in contact te komen.\n\nBouw een communicatieconsole.</NoTradingCapacityDesc>
   
-    <BrawlerHasRangedWeapon>Vechtkunstenaar heeft een vuurwapen</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Een van je kolonisten met de persoonlijke eigenschap 'vechtkunstenaar' heeft een vuurwapen op zak. Hier worden ze erg ongelukkig van.</BrawlerHasRangedWeaponDesc>
+    <BrawlerHasRangedWeapon>Vechter heeft een vuurwapen</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Een van je kolonisten met de persoonlijke eigenschap 'Vechter' heeft een vuurwapen op zak. Hier worden ze erg ongelukkig van.</BrawlerHasRangedWeaponDesc>
 
   <NeedResearchProject>Geen onderzoek</NeedResearchProject>
   <NeedResearchProjectDesc>Je hebt alles wat je nodig hebt om een onderzoek te starten, maar je hebt nog geen project gekozen.\n\nOpen het onderzoeksmenu en kies een project.</NeedResearchProjectDesc>
@@ -100,7 +100,7 @@
   <TableNeedsChairsDesc>Je hebt een tafel zonder stoelen. Tafels zijn nutteloos zonder stoelen, omdat je er niet aan kunt zitten.</TableNeedsChairsDesc>
   
     <ColonistNeedsTreatment>Behandeling nodig</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>De volgende kolonisten hebben behandeling nodig. Zonder die behandeling kunnen ze aan hun verwondingen overlijden.\n\n{0}\nBehandel hen, door ze in een ziekenbed te plaatsen.\n\n(Stel eerst een ziekenbed in, en wijs daarna een andere kolonist aan om de gewonde te behandelen)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>De volgende kolonisten hebben behandeling nodig. Zonder behandeling kunnen ze aan hun verwondingen overlijden.\n\n{0}\nBehandel hen, door ze in een ziekenbed te plaatsen.\n\n(Stel eerst een ziekenbed in, en wijs daarna een andere kolonist aan om de gewonde te behandelen)</ColonistNeedsTreatmentDesc>
 
     <AlertHypothermia>Onderkoeling</AlertHypothermia>
   <AlertHypothermiaDesc>De volgende kolonisten zijn onderkoeld:\n\n{0}\nZorg dat zij gekleed zijn op de temperatuur van het seizoen en dat binnenruimtes goed worden verwarmd.</AlertHypothermiaDesc>

@@ -4,10 +4,10 @@
 	<Head.label>Hoofd</Head.label>
 	<Skull.label>Schedel</Skull.label>
 	<Brain.label>Hersenen</Brain.label>
-	<LeftEye.label>Linker oog</LeftEye.label>
-	<RightEye.label>Rechter oog</RightEye.label>
-	<LeftEar.label>Linker oor</LeftEar.label>
-	<RightEar.label>Rechter oor</RightEar.label>
+	<LeftEye.label>Linkeroog</LeftEye.label>
+	<RightEye.label>Rechteroog</RightEye.label>
+	<LeftEar.label>Linkeroor</LeftEar.label>
+	<RightEar.label>Rechteroor</RightEar.label>
 	<Nose.label>Neus</Nose.label>
 	<Jaw.label>Kaak</Jaw.label>
 	<Neck.label>Nek</Neck.label>
@@ -20,7 +20,7 @@
 	<RightHumerus.label>Rechter opperarmbeen</RightHumerus.label>
 	<LeftRadius.label>Linker spaakbeen</LeftRadius.label>
 	<RightRadius.label>Rechter spaakbeen</RightRadius.label>
-	<Pelvis.label>bekken</Pelvis.label>
+	<Pelvis.label>Bekken</Pelvis.label>
 	<LeftFemur.label>Linker dijbeen</LeftFemur.label>
 	<RightFemur.label>Rechter dijbeen</RightFemur.label>
 	<LeftTibia.label>Linkerscheen</LeftTibia.label>
@@ -33,32 +33,32 @@
 	<Liver.label>Lever</Liver.label>
 	<Stomach.label>Maag</Stomach.label>
 	<Spine.label>Ruggengraat</Spine.label>
-	<LeftShoulder.label>Linker schouder</LeftShoulder.label>
+	<LeftShoulder.label>Linkerschouder</LeftShoulder.label>
 	<LeftArm.label>Linkerarm</LeftArm.label>
 	<LeftHand.label>Linkerhand</LeftHand.label>
-	<LeftHandPinky.label>pink (links) </LeftHandPinky.label>
-	<LeftHandRingFinger.label>ringvinger (links) </LeftHandRingFinger.label>
-	<LeftHandMiddleFinger.label>middelvinger (links) </LeftHandMiddleFinger.label>
-	<LeftHandIndexFinger.label>wijsvinger (links) </LeftHandIndexFinger.label>
-	<LeftHandThumb.label>duim (links) </LeftHandThumb.label>
+	<LeftHandPinky.label>Pink (links) </LeftHandPinky.label>
+	<LeftHandRingFinger.label>Ringvinger (links) </LeftHandRingFinger.label>
+	<LeftHandMiddleFinger.label>Middelvinger (links) </LeftHandMiddleFinger.label>
+	<LeftHandIndexFinger.label>Wijsvinger (links) </LeftHandIndexFinger.label>
+	<LeftHandThumb.label>Duim (links) </LeftHandThumb.label>
 	<RightShoulder.label>Rechterschouder</RightShoulder.label>
 	<RightArm.label>Rechterarm</RightArm.label>
-	<RightHand.label>Rechter hand</RightHand.label>
-	<RightHandPinky.label>pink (rechts)</RightHandPinky.label>
-	<RightHandRingFinger.label>ringvinger (rechts)</RightHandRingFinger.label>
-	<RightHandMiddleFinger.label>middelvinger (rechts)</RightHandMiddleFinger.label>
-	<RightHandIndexFinger.label>wijsvinger (rechts)</RightHandIndexFinger.label>
-	<RightHandThumb.label>duim (rechts)</RightHandThumb.label>
+	<RightHand.label>Rechterhand</RightHand.label>
+	<RightHandPinky.label>Pink (rechts)</RightHandPinky.label>
+	<RightHandRingFinger.label>Ringvinger (rechts)</RightHandRingFinger.label>
+	<RightHandMiddleFinger.label>Middelvinger (rechts)</RightHandMiddleFinger.label>
+	<RightHandIndexFinger.label>Wijsvinger (rechts)</RightHandIndexFinger.label>
+	<RightHandThumb.label>Duim (rechts)</RightHandThumb.label>
 	<LeftLeg.label>Linkerbeen</LeftLeg.label>
-	<LeftFoot.label>Linker voet</LeftFoot.label>
-	<LeftFootLittleToe.label>kleine teen (links)</LeftFootLittleToe.label>
-	<LeftFootFourthToe.label>vierde teen (links)</LeftFootFourthToe.label>
-	<LeftFootMiddleToe.label>middelste teen (links)</LeftFootMiddleToe.label>
-	<LeftFootSecondToe.label>tweede teen (links)</LeftFootSecondToe.label>
-	<LeftFootBigToe.label>grote teen (links)</LeftFootBigToe.label>
+	<LeftFoot.label>Linkervoet</LeftFoot.label>
+	<LeftFootLittleToe.label>Kleine teen (links)</LeftFootLittleToe.label>
+	<LeftFootFourthToe.label>Vierde teen (links)</LeftFootFourthToe.label>
+	<LeftFootMiddleToe.label>Middelste teen (links)</LeftFootMiddleToe.label>
+	<LeftFootSecondToe.label>Tweede teen (links)</LeftFootSecondToe.label>
+	<LeftFootBigToe.label>Grote teen (links)</LeftFootBigToe.label>
 	<RightLeg.label>Rechterbeen</RightLeg.label>
-	<RightFoot.label>Rechter voet</RightFoot.label>
-	<RightFootLittleToe.label>kleine teen (Rechts) </RightFootLittleToe.label>
+	<RightFoot.label>Rechtervoet</RightFoot.label>
+	<RightFootLittleToe.label>Kleine teen (rechts) </RightFootLittleToe.label>
 	<RightFootFourthToe.label>Vierde teen (rechts)</RightFootFourthToe.label>
 	<RightFootMiddleToe.label>Middelste teen (rechts)</RightFootMiddleToe.label>
 	<RightFootSecondToe.label>Tweede teen (rechts)</RightFootSecondToe.label>
@@ -85,7 +85,7 @@
 	<LeftTusk.label>Linker slagtand</LeftTusk.label>
 	<RightTusk.label>Rechter slagtand</RightTusk.label>
 	<Horn.label>Hoorn</Horn.label>
-	<Hump.label>bult</Hump.label>
+	<Hump.label>Bult</Hump.label>
 	<TurtleShell.label>Schild</TurtleShell.label>
 	<Plastron.label>Buikpantser</Plastron.label>
 	<TurtleBeak.label>Bek</TurtleBeak.label>
@@ -134,14 +134,14 @@
 	<RearRightLegFirstClaw.label>Rechter achterbeen, eerste klauw</RearRightLegFirstClaw.label>
 	<RearRightLegSecondClaw.label>Rechter achterbeen, tweede klauw</RearRightLegSecondClaw.label>
 	<RearRightLegThirdClaw.label>Rechter achterbeen, derde klauw</RearRightLegThirdClaw.label>
-	<RearRightLegFourthClaw.label>Rechter achterbeen, vieder klauw</RearRightLegFourthClaw.label>
+	<RearRightLegFourthClaw.label>Rechter achterbeen, vierde klauw</RearRightLegFourthClaw.label>
 	<RearRightLegFifthClaw.label>Rechter achterbeen, vijfde klauw</RearRightLegFifthClaw.label>
   
   <!-- mechanical -->
 	
 	<MechanicalThorax.label>Borstkas</MechanicalThorax.label>
-	<LeftKnifeProtrusion.label>Linker mesuisteeksel</LeftKnifeProtrusion.label>
-	<RightKnifeProtrusion.label>Rechter mesuitseeksel</RightKnifeProtrusion.label>
+	<LeftKnifeProtrusion.label>Linker mesuitsteeksel</LeftKnifeProtrusion.label>
+	<RightKnifeProtrusion.label>Rechter mesuitsteeksel</RightKnifeProtrusion.label>
 	<MechanicalNeck.label>Nek</MechanicalNeck.label>
 	<MechanicalHead.label>Kop</MechanicalHead.label>
 	<LeftSightSensor.label>Linker zichtssensor</LeftSightSensor.label>
@@ -149,37 +149,37 @@
 	<LeftHearingSensor.label>Linker geluidssensor</LeftHearingSensor.label>
 	<RightHearingSensor.label>Rechter geluidssensor</RightHearingSensor.label>
 	<SmellSensor.label>Geursensor</SmellSensor.label>
-	<LeftMechanicalShoulder.label>Linker schouder</LeftMechanicalShoulder.label>
-	<LeftMechanicalArm.label>Linker arm</LeftMechanicalArm.label>
-	<LeftMechanicalHand.label>Linker hand</LeftMechanicalHand.label>
-	<LeftHandMechanicalPinky.label>Pink (links)</LeftHandMechanicalPinky.label>
-	<LeftHandMechanicalRingFinger.label>Ringvinger (links)</LeftHandMechanicalRingFinger.label>
-	<LeftHandMechanicalMiddleFinger.label>Middelvinger (links)</LeftHandMechanicalMiddleFinger.label>
-	<LeftHandMechanicalIndexFinger.label>Wijsvinger (links)</LeftHandMechanicalIndexFinger.label>
-	<LeftHandMechanicalThumb.label>Duim (links)</LeftHandMechanicalThumb.label>
-	<RightMechanicalShoulder.label>Rechterschouder</RightMechanicalShoulder.label>
-	<RightMechanicalArm.label>Rechter arm</RightMechanicalArm.label>
-	<RightMechanicalHand.label>Rechterhand</RightMechanicalHand.label>
-	<RightHandMechanicalPinky.label>Pink (rechts)</RightHandMechanicalPinky.label>
-	<RightHandMechanicalRingFinger.label>Ringvinger (rechts)</RightHandMechanicalRingFinger.label>
-	<RightHandMechanicalMiddleFinger.label>Middelvinger (rechts)</RightHandMechanicalMiddleFinger.label>
-	<RightHandMechanicalIndexFinger.label>Wijsvinger (rechts)</RightHandMechanicalIndexFinger.label>
-	<RightHandMechanicalThumb.label>Duim (rechts)</RightHandMechanicalThumb.label>
+	<LeftMechanicalShoulder.label>Mechanische linkerschouder</LeftMechanicalShoulder.label>
+	<LeftMechanicalArm.label>Mechansiche linkerarm</LeftMechanicalArm.label>
+	<LeftMechanicalHand.label>Mechanische linkerhand</LeftMechanicalHand.label>
+	<LeftHandMechanicalPinky.label>Mechanische pink (links)</LeftHandMechanicalPinky.label>
+	<LeftHandMechanicalRingFinger.label>Mechanische ringvinger (links)</LeftHandMechanicalRingFinger.label>
+	<LeftHandMechanicalMiddleFinger.label>Mechanische middelvinger (links)</LeftHandMechanicalMiddleFinger.label>
+	<LeftHandMechanicalIndexFinger.label>Mechanische wijsvinger (links)</LeftHandMechanicalIndexFinger.label>
+	<LeftHandMechanicalThumb.label>Mechanische duim (links)</LeftHandMechanicalThumb.label>
+	<RightMechanicalShoulder.label>Mechanische rechterschouder</RightMechanicalShoulder.label>
+	<RightMechanicalArm.label>Mechanische rechterarm</RightMechanicalArm.label>
+	<RightMechanicalHand.label>Mechanische rechterhand</RightMechanicalHand.label>
+	<RightHandMechanicalPinky.label>Mechanische pink (rechts)</RightHandMechanicalPinky.label>
+	<RightHandMechanicalRingFinger.label>Mechanische ringvinger (rechts)</RightHandMechanicalRingFinger.label>
+	<RightHandMechanicalMiddleFinger.label>Mechanische middelvinger (rechts)</RightHandMechanicalMiddleFinger.label>
+	<RightHandMechanicalIndexFinger.label>Mechanische wijsvinger (rechts)</RightHandMechanicalIndexFinger.label>
+	<RightHandMechanicalThumb.label>Mechanische duim (rechts)</RightHandMechanicalThumb.label>
 	
-	<LeftMechanicalLeg.label>Linkerbeen</LeftMechanicalLeg.label>
-	<LeftMechanicalFoot.label>Linkervoet</LeftMechanicalFoot.label>
-	<LeftFootMechanicalLittleToe.label>Kleine teen (links)</LeftFootMechanicalLittleToe.label>
-	<LeftFootMechanicalFourthToe.label>Vierde teen (links)</LeftFootMechanicalFourthToe.label>
-	<LeftFootMechanicalMiddleToe.label>Middelste teen (links)</LeftFootMechanicalMiddleToe.label>
-	<LeftFootMechanicalSecondToe.label>Tweede teen (links)</LeftFootMechanicalSecondToe.label>
-	<LeftFootMechanicalBigToe.label>Grote teen(links)</LeftFootMechanicalBigToe.label>
-	<RightMechanicalLeg.label>Rechterbeen</RightMechanicalLeg.label>
-	<RightMechanicalFoot.label>Rechtervoet</RightMechanicalFoot.label>
-	<RightFootMechanicalLittleToe.label>Kleine teen (rechts)</RightFootMechanicalLittleToe.label>
-	<RightFootMechanicalFourthToe.label>Vierde teen (rechts)</RightFootMechanicalFourthToe.label>
-	<RightFootMechanicalMiddleToe.label>Middelste teen (rechts)</RightFootMechanicalMiddleToe.label>
-	<RightFootMechanicalSecondToe.label>Tweede teen (rechts)</RightFootMechanicalSecondToe.label>
-	<RightFootMechanicalBigToe.label>Grote teen (rechts)</RightFootMechanicalBigToe.label>
+	<LeftMechanicalLeg.label>Mechanisch linkerbeen</LeftMechanicalLeg.label>
+	<LeftMechanicalFoot.label>Mechanische linkervoet</LeftMechanicalFoot.label>
+	<LeftFootMechanicalLittleToe.label>Mechanische kleine teen (links)</LeftFootMechanicalLittleToe.label>
+	<LeftFootMechanicalFourthToe.label>Mechanische vierde teen (links)</LeftFootMechanicalFourthToe.label>
+	<LeftFootMechanicalMiddleToe.label>Mechanische middelste teen (links)</LeftFootMechanicalMiddleToe.label>
+	<LeftFootMechanicalSecondToe.label>Mechanische tweede teen (links)</LeftFootMechanicalSecondToe.label>
+	<LeftFootMechanicalBigToe.label>Mechanische grote teen(links)</LeftFootMechanicalBigToe.label>
+	<RightMechanicalLeg.label>Mechanisch rechterbeen</RightMechanicalLeg.label>
+	<RightMechanicalFoot.label>Mechanische rechtervoet</RightMechanicalFoot.label>
+	<RightFootMechanicalLittleToe.label>Mechanische kleine teen (rechts)</RightFootMechanicalLittleToe.label>
+	<RightFootMechanicalFourthToe.label>Mechanische vierde teen (rechts)</RightFootMechanicalFourthToe.label>
+	<RightFootMechanicalMiddleToe.label>Mechanische middelste teen (rechts)</RightFootMechanicalMiddleToe.label>
+	<RightFootMechanicalSecondToe.label>Mechanische tweede teen (rechts)</RightFootMechanicalSecondToe.label>
+	<RightFootMechanicalBigToe.label>Mechanische grote teen (rechts)</RightFootMechanicalBigToe.label>
 	
 	<MechanicalCentipedeBodyFirstRing.label>Eerste segment</MechanicalCentipedeBodyFirstRing.label>
 	<MechanicalCentipedeBodySecondRing.label>Tweede segment</MechanicalCentipedeBodySecondRing.label>

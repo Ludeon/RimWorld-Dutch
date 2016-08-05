@@ -4,10 +4,10 @@
 	<ShipBasics.label>Schipbouwkunst</ShipBasics.label>
 	<ShipBasics.description>Hiermee kun je het begin van je ruimteschip bouwen.</ShipBasics.description>
 
-	<ShipCryptosleep.label>Cryptosleeppod</ShipCryptosleep.label>
-	<ShipCryptosleep.description>Hiermee kun je Crypotsleeppods bouwen, waarin je kolonisten de lange reis zullen overleven.</ShipCryptosleep.description>
+	<ShipCryptosleep.label>Cryptoslaapcapsule</ShipCryptosleep.label>
+	<ShipCryptosleep.description>Hiermee kun je Crypotslaapcapsules bouwen, waarin je kolonisten de lange reis zullen overleven.</ShipCryptosleep.description>
 	
-	<ShipReactor.label>Antimateriereactor</ShipReactor.label>
+	<ShipReactor.label>Antimaterie-reactor</ShipReactor.label>
 	<ShipReactor.description>Hiermee kun je je antimaterie-motoren aandrijven.</ShipReactor.description>
 	
 	<ShipEngine.label>Antimaterie-motoren</ShipEngine.label>

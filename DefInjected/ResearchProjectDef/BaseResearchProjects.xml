@@ -5,7 +5,7 @@
 	<Hydroponics.description>Ontgrendel de hydrocultuurtafels. Hiermee kun je binnen planten verbouwen.</Hydroponics.description>
 
 	<PneumaticPicks.label>Pneumatische houwelen</PneumaticPicks.label>
-	<PneumaticPicks.description>Houwelen zijn 20% efficienter.</PneumaticPicks.description>
+	<PneumaticPicks.description>Houwelen zijn 20% efficiënter.</PneumaticPicks.description>
 	
 	<Stonecutting.label>Steenhouwtafel</Stonecutting.label>
     	<Stonecutting.description>Hiermee kun je een steenhouwtafel bouwen. Daarmee kun je nuteloos puin omzetten in blokken steen, waarmee je gebouwen kunt maken.</Stonecutting.description>
@@ -14,7 +14,7 @@
     	<ElectricSmelting.description>Hiermee kun je een smeltoven bouwen. Die gebruikt warmte en sterke electrische magneten om metaal uit sintel te onttrekken.</ElectricSmelting.description>
 	
 	<Machining.label>Machinetafel</Machining.label>
-    	<Machining.description>Hiermee kun je een machinetafel bouwen, waarmee je mechanoiden kunt omzetten in bruikbaar metaal.</Machining.description>	
+    	<Machining.description>Hiermee kun je een machinetafel bouwen, waarmee je mechanoïden kunt omzetten in bruikbaar metaal.</Machining.description>	
 	
 	<NutrientResynthesis.label>Voedingsstof resynthese</NutrientResynthesis.label>
 	<NutrientResynthesis.description>De voedingsstoffen-pasta automaat zal 10% minder voedsel gebruiken.</NutrientResynthesis.description>

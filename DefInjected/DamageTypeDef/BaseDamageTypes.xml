@@ -5,7 +5,7 @@
 	<Cut.deathMessage>{0} is gestorven aan snijwonden.</Cut.deathMessage>
 	
 	<Crush.label>Verplettering</Crush.label>
-	<Crush.deathMessage>{0} is verplettert.</Crush.deathMessage>
+	<Crush.deathMessage>{0} is verpletterd.</Crush.deathMessage>
 	
 	<Blunt.label>Slag</Blunt.label>
 	<Blunt.deathMessage>{0} is doodgeslagen.</Blunt.deathMessage>
@@ -19,8 +19,8 @@
 	<Arrow.label>Pijl</Arrow.label>
 	<Arrow.deathMessage>{0} is doodgeschoten.</Arrow.deathMessage>
 	
-	<Scratch.label>Krab</Scratch.label>
-	<Scratch.deathMessage>{0} is doodgekrabt.</Scratch.deathMessage>
+	<Scratch.label>Schram</Scratch.label>
+	<Scratch.deathMessage>{0} is doodgekrabd.</Scratch.deathMessage>
 	
 	<Bite.label>Beet</Bite.label>
 	<Bite.deathMessage>{0} is doodgebeten.</Bite.deathMessage>
@@ -32,10 +32,10 @@
 	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
 	
 	<SurgicalCut.label>chirurgische ingreep</SurgicalCut.label>
-	<SurgicalCut.deathMessage>{0} is bij een chrirurgische ingreep omgekomen.</SurgicalCut.deathMessage>
+	<SurgicalCut.deathMessage>{0} is bij een chirurgische ingreep omgekomen.</SurgicalCut.deathMessage>
 	
-	<Stun.label>Verlamt</Stun.label>
-	<Stun.deathMessage>{0} raakte verlamt en is er aan gestorven.</Stun.deathMessage>
+	<Stun.label>Verlamd</Stun.label>
+	<Stun.deathMessage>{0} raakte verlamd en is er aan gestorven.</Stun.deathMessage>
 	
 	<EMP.label>EMP</EMP.label>
 	<EMP.deathMessage>{0} is door een EMP gedood.</EMP.deathMessage>

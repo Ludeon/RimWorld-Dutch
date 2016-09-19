@@ -5,9 +5,52 @@
   <GoBack>Terug</GoBack>
   <OK>OK</OK>
 
+  <!-- Game updated to new version -->
+  
+  <GameUpdatedToNewVersionInitial>Rimworld is van versie {0} naar Versie {1} geupdate. \n\nHierdoor kan het zijn dat mods en scores niet meer functioneren</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionNonSteam>Aangezien dit de DRM-vrije versie is, kun je het spel in 2 verschillende mappen installeren en dus de oude en de nieuwe versie spelen</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Als u wilt doorgaan met het spelen op de oude versie , dan kunt u dit op te doen met de ' Beta ' kenmerk van Steam niet . \n\n 1. In uw Steam bibliotheek , klikt u op de rechter muisknop op ' RimWorld '. \n 2. Klik op ... eigenschappen \n 3. Klik op het tabblad ' bèta ' \n 4. Kies de versie die u wilt \n\nOude versies worden uiteindelijk geschrapt - We willen toestaan ​​dat een lopende game klaar is met afspelen \ n \ nAls mod auteurs hun mods te werken naar de nieuwe versie, dan functioneert de mod waarschijnlijk niet meer in een oude versie. Als je wilt spelen met een mod, moet je automatisch updaten uitzetten.</GameUpdatedToNewVersionSteam>
+  <!-- Recovered from errors caused by mods -->
+  
+  <RecoveredFromErrorsDialogTitle>Game hersteld als gevolg van fouten van incompatibele of corrupte mods</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Het lijkt erop dat een aantal actieve mods tot fouten lijd.\n\nZe zijn gemaakt voor een andere versie van Rimworld, of beschadigd. Alle mods zijn uitgeschakelt, maar je kan in het dialoogvenster Mod de mods weer inschakelen.</RecoveredFromErrorsText>
+
+  <!-- Errors during loading -->
+  
+  <ErrorWhileLoadingAssetsTitle>Fout bij het laden component</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Bij laden van spel componenten zijn fouten opgetreden. Zie het logbestand voor aanvullende informatie </ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Het spel is momenteel actief met modificaties - Zij kunnen de oorzaak van het probleem zijn.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Fout bij het maken kaart</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Bij het genereren van een nieuwe kaart was een fout. Zie het logbestand voor aanvullende informatie te krijgen .</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Mislukt om de kaart te laden</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Bij het laden van de kaart is een fout opgetreden. Zie het logbestand voor aanvullende informatie</ErrorWhileLoadingMap>
+
+  
+   <!-- Unloaded mod with an assembly -->
+   
+  <ModWithAssemblyWasUnloaded>Het spel kan niet volledig de code van de modificatie ontladen. Het kan dus nog zijn dat de mod nog steeds actief is.\n\n Het wordt aangeraden om het spel opnieuw op te starten, zodat de mods schoon geladen zijn</ModWithAssemblyWasUnloaded>
+  
+  <!-- Missing Steam -->
+  
+  <SteamClientMissing>Kann die Steam API nicht initialisieren. Mögliche Ursachen:\n\n-Steam läuft nicht.\n-Wurde außerhalb von Stema gestartet, ohne dass eine steam_appid.txt vorhanden ist.\n-Wurden mit unterschiedlichen Berechtigungen zum Steam-Client gestartet (z.B. "als Administrator").\n\nIn den meissten Fällen hilft es, den Computer neu zu starten um dieses Problem zu beheben.\n\nDiese Steam Version des Spieles benötigt Steam und wird jetzt beendet.</SteamClientMissing>
+  
+  <!-- Long events -->
+
+  <InitializingInterface>initialiseren oppervlak</InitializingInterface>
+  <UnloadingUnusedAssets>Verwijderen ongebruikte componenten</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Alle actieve mods laden</LoadingAllActiveMods>
+  <LoadingDefs>Laden defs</LoadingDefs>
+  <LoadingAssets>Laden Componenten</LoadingAssets>
+  <Initializing>initialiseren</Initializing>
+  <LoadingWorld>Laden wereld</LoadingWorld>
+  <LoadingMap>Laden kaart</LoadingMap>
+  <InitializingMap>Initialiseren map</InitializingMap>
+  <SpawningAllThings>Maken voorwerpen</SpawningAllThings>
+
   <!-- Save/load -->
   <SaveGameButton>Opslaan</SaveGameButton>
   <OverwriteButton>Overschrijven</OverwriteButton>
+  <LoadGameButton>Laad</LoadGameButton>
   <LoadGameButton>Laad</LoadGameButton>
   <ConfirmDelete>Weet je zeker dat je {0} wil verwijderen??</ConfirmDelete>
   <DeleteThisSavegame>Verwijder dit spelbestand.</DeleteThisSavegame>
@@ -45,7 +88,7 @@
   <Unresearched>Niet onderzocht</Unresearched>
   <Finished>Afgemaakt</Finished>
   <InProgress>Wordt onderzocht</InProgress>
-   <ResearchMenuWithoutBench>Zolang je geen onderzoekstafel hebt, zijn je kolonisten niet in staat iets te onderzoeken.\n\nMisschien kun je de mogenlijkheid bekijken ze een project te geven?.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>Zolang je geen onderzoekstafel hebt, zijn je kolonisten niet in staat iets te onderzoeken.\n\nMisschien kun je de mogenlijkheid bekijken ze een project te geven?.</ResearchMenuWithoutBench>
 
   <!-- Advanced game start options -->
   <MapSizePerformanceWarning>WAARSCHUWING: de prestaties van het spel kunnen verslechteren bij zo'n grote kaart, als je computer het niet aankan. \n\nAls je een zwakke computer hebt, is het beter een kleine kaart te gebruiken.\n\nDe Ludeonicrous kaartgrootte is niet getest, en geven waarschijnlijk slechte prestaties.</MapSizePerformanceWarning>

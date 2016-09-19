@@ -2,11 +2,12 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
+  <LearnToPlay>Tutorial</LearnToPlay>
   <CreateWorld>Maak planeet</CreateWorld>
   <NewColony>Nieuwe kolonie</NewColony>
   <BackToGame>Terug naar spel</BackToGame>
   <Save>Opslaan</Save>
-  <Load>Laad spel</Load>
+  <LoadGame>Laad spel</LoadGame>
   <Options>Instellingen</Options>
   <Mods>Mods</Mods>
   <Credits>Credits</Credits>

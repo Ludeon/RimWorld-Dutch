@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- NOT COMPLETE NEEDS THE ENTIRE DRUNK STAGES AND ALCOHOL ADDICTION STILL ADDED -->
+	<Beer.label>Bier</Beer.label>	
+	<Beer.description>Het eerste drinken na water ooit gedronken door de mensheid. Bier smaakt goed, maar maakt vooral erg dronken. Overmatige consumptie kan leiden tot alcohol verslaving.</Beer.description>
+
+	<Wort.label>Wort</Wort.label>
+	<Wort.description>Ongefermeteerd bier. Dit spul moet nog gefermenteerd worden in een fermenteervat voordat het drinkbaar bier wordt.</Wort.description>
+</LanguageData>

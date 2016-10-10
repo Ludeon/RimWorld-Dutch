@@ -56,16 +56,6 @@
 
 	<AlpacaWool.label>Alpacawol</AlpacaWool.label>
 	<AlpacaWool.description>Een erg warme en zachte wol.</AlpacaWool.description>	
-	<!--=============== Raw foods ====================-->
-	
-	<RawPotatoes.label>Aardappel</RawPotatoes.label>
-	<RawPotatoes.description>Rauwe aardappelen.</RawPotatoes.description>
-	
-	<RawBerries.label>Bessen</RawBerries.label>
-	<RawBerries.description>Verschillende bessen. Zijn rauw ook lekker.</RawBerries.description>
-	
-	<RawAgave.label>Agave</RawAgave.label>	
-	<RawAgave.description>Rauwe vruchten van de agaveplant.</RawAgave.description>
 	
 	
     <!--=============== Manufactured ====================-->
@@ -87,10 +77,20 @@
 	<Neutroamine.label>Neutroamine</Neutroamine.label>
 	<.description>Nutteloos bij zichzelf, maar veel medicijnen en drugs gebruiken neutroamine als ingrediënt</.description>
 
-	<!--
-	<Missiles.label>Raketten</Missiles.label>
-    <Missiles.description>Worden door raketwerpers afgevuurd.</Missiles.description>
-	-->
-
+	<!--=============== Raw foods ====================-->
 	
+	<RawPotatoes.label>Aardappel</RawPotatoes.label>
+	<RawPotatoes.description>Rauwe aardappelen.</RawPotatoes.description>
+
+	<RawRice.label>Rijst</RawRice.label>
+	<RawRice.description>Rauwe rijst.</RawRice.description>
+
+	<RawAgave.label>Agave</RawAgave.label>	
+	<RawAgave.description>Rauwe vruchten van de agaveplant.</RawAgave.description>
+
+	<RawCorn.label>Mais</RawCorn.label>
+	<Rawcorn.description>Rauwe Mais.</RawCorn.description>
+	
+	<RawBerries.label>Bessen</RawBerries.label>
+	<RawBerries.description>Verschillende bessen. Zijn rauw ook lekker.</RawBerries.description>
 </LanguageData>

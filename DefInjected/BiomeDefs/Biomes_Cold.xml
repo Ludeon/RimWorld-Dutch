@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<BorealForest.label>Taiga</BorealForest.label>
+	<BorealForest.description>Een taiga, bestaande uit naaldbomen. Ondanks de strenge winters wonen in de taiga zowel kleine als grote dieren.</BorealForest.description>
+	
+	<Tundra.label>Toendra</Tundra.label>
+  	<Tundra.description>Dit grotendeels bevroren landschap bevat niet veel plantleven. Het beste wat je zult aantreffen zijn migrerende herbivoren en hun jagers.</Tundra.description> 
+
+	<IceSheet.label>IJsvlakte</IceSheet.label>
+	<IceSheet.description>Dit landschap wordt bedekt door een dikke laag ijs. Je hebt hier geen toegang tot gesteente of zachte grond en er groeien zeer zeker geen planten. Dieren komen hier alleen tijdens hun migratie of als ze hopeloos verdwaald zijn.</IceSheet.description>	
+</LanguageData>

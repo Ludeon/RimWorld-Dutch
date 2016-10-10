@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+  <!-- ======== Unlandable biomes ==========-->
+  
+	<Ocean.label>Oceaan</Ocean.label>
+	<Ocean.description>De open zee. Geweldig terrein voor vissen, maar niet zozeer voor jou. - </Ocean.description>	
+      
+	<!-- ======== Buildable biomes ==========-->	
+
+	<TemperateForest.description>Een zacht landschap met veel bomen, hier en daar onderbroken door een mooie open plek. Zowel dieren als eetbare planten zijn hier in overvloed.</TemperateForest.description>
+	
+	<TropicalRainforest.label>Tropisch regenwoud</TropicalRainforest.label>
+	<TropicalRainforest.description>Een bedompt, nat regenwoud. De overmatige aanwezigheid van planten, bomen en aggressieve dieren maken het moeilijk om dingen te bouwen of alleen al te kunnen overleven.</TropicalRainforest.description>
+</LanguageData>

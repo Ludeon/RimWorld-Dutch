@@ -93,4 +93,19 @@
 	
 	<RawBerries.label>Bessen</RawBerries.label>
 	<RawBerries.description>Verschillende bessen. Zijn rauw ook lekker.</RawBerries.description>
+
+	
+	<!--=============== Plant matter, Inedible by people ====================-->
+
+	<Hay.label>Hooi</Hay.label>
+	<Hay.description>Voedingstof rijke grassen. Hooi is goed diervoer, maar niet eetbaar voor mensen.</Hay.description>
+
+	<RawHops.label>Hop</RawHops.label>
+	<RawHops.description>Een grondstof dat nodig is voor het make van bier.</RawHops.description>
+
+	<PsychoidLeaves.label>Psychoide bladeren</PsychoidLeaves.label>
+	<PsychoidLeaves.description>Gesneden bladeren van een psychoide plant.</PsychoidLeaves.description>
+
+	<SmokeleafLeaves.label>Rookbladbladeren</SmokeleafLeaves.label>
+	<SmokeleafLeaves.description>Bladeren van de rookblad plan. Kan in een joint gerolt worden bij een handwerk plek.</SmokeleafLeaves.description>
 </LanguageData>

@@ -29,7 +29,7 @@
 	<Jade.label>Jade</Jade.label>
 	<Jade.description>Een harde groene steen. Vanwege zijn schoonheid en zeldzaamheid word Jade vaak gebruikt voor kunst. Jade zijn hardheid maakt het ook een goed materiaal voor stompe wapens</Jade.description>
 	
-	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+	<!--=============== Pure stuffs: Fabric ====================-->
 	
 	<Cloth.label>Stof</Cloth.label>
 	<Cloth.description>Stof van organische materialen geweven.</Cloth.description>
@@ -37,13 +37,25 @@
 	<Synthread.label>Syngaren</Synthread.label>
 	<Synthread.description>Stof uit de ruimtetechniek, die voor normale kleding ontwikkeld. Het is licht en isoleert goed.</Synthread.description>
 	
-	<DevilstrandCloth.label>Teufelsgarn</DevilstrandCloth.label>
-    <DevilstrandCloth.description>Sehr strapazierfähiger Stoff, der aus den seidenproduzierenden Teufelsgarnpilzen gewonnen wurde.</DevilstrandCloth.description>
+	<DevilstrandCloth.label>Duivelstof</DevilstrandCloth.label>
+	<DevilstrandCloth.description>Een stof gesponnen van de Duivelstof paddestoelen. Erg sterk, maar insuleert niet beter dan normale stof.</DevilstrandCloth.description>
 	
 	<Hyperweave.label>Hyperweave</Hyperweave.label>
 	<Hyperweave.description>High-Tech Nanobuisjes, die tot een stof zijn verworven. Het materiaal is wat zwaar, maar bied goede bescherming.</Hyperweave.description>
-	
-	
+
+	<!--=============== Pure stuffs: Wool ====================-->
+
+	<MegatheriumWool.label>Megatheriumwol</MegatheriumWool.label>
+	<MegatheriumWool.description>Ondanks de ruwheid is megatheriumwol erg sterk vanwege de lange vezels. Ook is het erg warm</MegatheriumWool.description>	
+
+	<MuffaloWool.label>Muffalowol</MuffaloWool.label>
+	<MuffaloWool.description>Zacht, licht en insuleert erg goed.</MuffaloWool.description>	
+
+	<Camelhair.label>Kameelhaar</Camelhair.label>
+	<Camelhair.description>Kameelhaar kleding word voornamelijk gedragen door woestijn reizigers om ze te beschermen tegen de hitte.</Camelhair.description>	
+
+	<AlpacaWool.label>Alpacawol</AlpacaWool.label>
+	<AlpacaWool.description>Een erg warme en zachte wol.</AlpacaWool.description>	
 	<!--=============== Raw foods ====================-->
 	
 	<RawPotatoes.label>Aardappel</RawPotatoes.label>

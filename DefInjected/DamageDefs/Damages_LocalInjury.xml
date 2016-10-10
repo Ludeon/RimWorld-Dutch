@@ -30,39 +30,16 @@
 	
 	<Flame.label>Vuur</Flame.label>
 	<Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
-	
+
+	<Burn.label>Verbrand</Burn.label>
+
+	<Frostbite.label>Kou</Frostbite.label>
+	<Frostbite.deathMessage>{0} is omgekomen door de kou.</Frostbite.deathMessage>
+
 	<SurgicalCut.label>chirurgische ingreep</SurgicalCut.label>
 	<SurgicalCut.deathMessage>{0} is bij een chirurgische ingreep omgekomen.</SurgicalCut.deathMessage>
-	
-	<Stun.label>Verlamd</Stun.label>
-	<Stun.deathMessage>{0} raakte verlamd en is er aan gestorven.</Stun.deathMessage>
-	
-	<EMP.label>EMP</EMP.label>
-	<EMP.deathMessage>{0} is door een EMP gedood.</EMP.deathMessage>
-	
-	<Bleeding.label>Bloedend</Bleeding.label>
-	<Bleeding.deathMessage>{0} is doodgebloed.</Bleeding.deathMessage>
-	
-	<Suffocation.label>Verstikking</Suffocation.label>
-	<Suffocation.deathMessage>{0} is gestikt.</Suffocation.deathMessage>
-	
-	<Starvation.label>Honger</Starvation.label>
-	<Starvation.deathMessage>{0} is verhongerd.</Starvation.deathMessage>
-	
-  <!-- Healing local injury -->
-	<HealLocalInjury.label>Lokale wonden aan het verzorgen</HealLocalInjury.label>
-	
-  <!-- Healing global injury -->
-	<HealGlobalInjury.label>Alle wonden aan het verzorgen</HealGlobalInjury.label>
-	
-  <!-- Restoring body part -->
-	<RestoringBodyPart.label>Lichaamsdeel herstellen</RestoringBodyPart.label>
-	
-  <!-- misc -->
-	<Breakdown.label>Zenuwinzinking</Breakdown.label>
-	<Mining.label>Delven</Mining.label>
-	<Rotting.label>Verrotten</Rotting.label>
-	<Extinguish.label>Blussen</Extinguish.label>
-	
-	
+
+	<ExecutionCut.label>Executie</ExecutionCut.label>
+	<ExecutionCut.deathMessage>{0} is geëxecuteerd</ExecutionCut.deathMessage>
+
 </LanguageData>

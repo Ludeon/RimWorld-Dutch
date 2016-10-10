@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Repairing  injury -->
+  	<Repair.label>Repareren</Repair.label>
+
+  <!-- Healing local injury -->
+	<HealInjury.label>Lokale wonden aan het verzorgen</HealInjury.label>
+	
+  <!-- Healing global injury -->
+	<HealGlobal.label>Alle wonden aan het verzorgen</HealGlobal.label>
+	
+  <!-- Restoring body part -->
+	<RestoreBodyPart.label>Lichaamsdeel herstellen</RestoreBodyPart.label>
+	
+</LanguageData>

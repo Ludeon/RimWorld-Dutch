@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<PsychicInsanityLance.label>Psychische waanzin speer</PsychicInsanityLance.label>
+	<PsychicInsanityLance.description>Een speer die eenmalig kan worden gebruikt om op afstand iemand tot waanzin te drijven.</PsychicInsanityLance.description>
+
+	<PsychicShockLance.label>Psychische schok speer</PsychicShockLance.label>
+	<PsychicShockLance.description>Een speer die eenmalig kan worden gebruikt om op afstand iemand in psychische schok te brengen. Heeft een grote kans op breinschade.</PsychicShockLance.description>
+
+	<PsychicAnimalPulser.label>Psychische dieren pulsar</PsychicAnimalPulser.label>
+	<PsychicAnimalPulser.description>Een eenmalige artefact dat kan worden gebruikt om alle dieren in het gebied tot waanzin te drijven.</PsychicAnimalPulser.description>
+
+	<PsychicSoothePulser.label>Psychisch kalmeer pulsar</PsychicSoothePulser.label>
+	<PsychicSoothePulser.description>Een eenmalig artefact dat iedereen op de map een tijdelijke humeur bonus geeft.</PsychicSoothePulser.description>
+</LanguageData>

@@ -16,39 +16,10 @@
 	<MealLavish.label>Luxe maaltijd</MealLavish.label>
 	<MealLavish.description>Een culinair meesterstuk. Deze maaltijd voedt het lichaam, de geest en de ziel.</MealLavish.description>
 	
+	<Kibble.label>Brokken</Kibble.label>
+	<Kibble.description>Dierenvoer brokken gemaakt van gemixte vlees- en plantendelen</Kibble.description>
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
+	<Pemmican.label>Pemmican</Pemmican.label>
+	<Pemmican.description>Een mix van vet, vlees en plantendelen. Smaakt flauw, maar niet slecht. BLijft erg lang goed in de hitte.</Pemmican.description>
 </LanguageData>

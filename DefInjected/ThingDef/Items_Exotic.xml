@@ -7,6 +7,12 @@
 	
   <!--=============== Neurotrainer ====================-->
 	<Neurotrainer.label>Neurotrainer</Neurotrainer.label>
-	<Neurotrainer.description>Een nanotechnologisch, eenmaal te gebruiken stukje techniek. De neurotrainer implanteert een nanomachientje in je hersenen, waardoor je een bepaald ding een stuk beter zult kunnen.</Neurotrainer.description>
+	<Neurotrainer.description>Een nanotechnologisch, eenmaal te gebruiken stukje techniek. De neurotrainer implanteert een nanomachientje in je hersenen, waardoor je veel leert in een vaardigheid.</Neurotrainer.description>
+
+  <!--=============== Horns ==================-->
+	<Thrumbohorn.label>Thrumbohoorn</Thrumbohorn.label>
+	<Thrumbohorn.description>De hoorn van een thrumbo. Deze hoorn is vlijmscherp, erg hard en onbetaalbaar in de meeste markten. Een echte trofee.</Thrumbohorn.description>
 	
+	<ElephantTusk.label>Olifanthoorn</ElephantTusk.label>
+	<ElephantTusk.description>De hoorn van een olifant. Erg sterk en duur. Dodelijk, maar wel onhandig als wapen.</ElephantTusk.description>
 </LanguageData>

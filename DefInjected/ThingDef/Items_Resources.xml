@@ -59,13 +59,24 @@
 	
 	
     <!--=============== Manufactured ====================-->
-	
-	<Medicine.label>Medicijn</Medicine.label>
-    <Medicine.description>Artsen gebruiken medicijnen om gewonden te verzorgen.</Medicine.description>
-	
+    	<HerbalMedicine.Label>Natuurlijk Medicijn</HerbalMedicine.Label>
+	<HerbalMedicine.description>Een pakket van kruidige dranken en stoffen gemaakt van de Geneeswortel plant. Minder potent dan industriële medicijnen. maar een stuk beter dan niks.</HerbalMedicine.description>
+    
+    	<Medicine.label>Medicijn</Medicine.label>
+	<Medicine.description>Artsen gebruiken medicijnen om gewonden te verzorgen.</Medicine.description>
+
+	<GlitterworldMedicine.label>Glitterwereld Medicijn</GlitterworldMedcine.label>
+	<GlitterworldMedicine.description>Geadvanceerde medicijnen van een high-tech glitterwereld.</GlitterworldMedicine.description>
+		
 	<Shells.label>Patronen</Shells.label>
-    <Shells.description>Worden door kanonnen geschoten.</Shells.description>
+	<Shells.description>Worden door kanonnen geschoten.</Shells.description>
+
+	<Component.label>Component</Component.label>
+	<Component.description>Verschillende tandwielen, computerchips, tubes, wielen, sensoren en andere electronische en industriële onderdelen. Deze zijn nodig voor het bouwen van complexe machines of elektronica.</Component.Description>
 	
+	<Neutroamine.label>Neutroamine</Neutroamine.label>
+	<.description>Nutteloos bij zichzelf, maar veel medicijnen en drugs gebruiken neutroamine als ingrediënt</.description>
+
 	<!--
 	<Missiles.label>Raketten</Missiles.label>
     <Missiles.description>Worden door raketwerpers afgevuurd.</Missiles.description>

@@ -19,7 +19,9 @@
 	
 	<Desert.label>Woestijn</Desert.label>
 	<Desert.description>Een zeer droog en heet gebied, waar erg weinig dieren en planten zijn.</Desert.description>
-	
+	<ExtremeDesert.label>Extreme woestijn</ExtremeDesert.label>
+	<ExtremeDesert.description>Een extreem droog en heet gebier, waar nauwelijks dieren zijn. De immense hitte en gelimiteerde planten maken het erg moeilijk om hier te overleven, zelfs voor goed aangepaste dieren.</ExtremeDesert.description>
+
 	<TropicalRainforest.label>Tropisch regenwoud</TropicalRainforest.label>
 	<TropicalRainforest.description>Een bedompt, nat regenwoud. De overmatige aanwezigheid van planten, bomen en aggressieve dieren maken het moeilijk om dingen te bouwen of alleen al te kunnen overleven.</TropicalRainforest.description>
 	

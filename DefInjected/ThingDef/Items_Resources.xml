@@ -9,27 +9,25 @@
 	<Gold.label>Goud</Gold.label>
 	<Gold.description>Het edelste metaal van allen. Miljoenen zijn er in de eindeloze lust naar goud gestorven. Het gewilde metaal heeft geen nut, behalve dat het er mooi uitziet.</Gold.description>
 	
-  <Metal.label>Metaal</Metal.label>
-	<Metal.description>Nodig voor het maken van gebouwen.</Metal.description>
+  <Steel.label>Staal</Steel.label>
+	<Steel.description>Nodig voor het maken van gebouwen.</Steel.description>
 	
 	
-	<Plasteel.label>Plastahl</Plasteel.label>
-	<Plasteel.description>Fortschritliches Material aus der Raumfahrttechnologie. Plastahl ist aufgrund der einzigartigen molekularen Struktur extrem stark und doch leicht.</Plasteel.description>
+	<Plasteel.label>Plastaal</Plasteel.label>
+	<Plasteel.description>Geadvanceerd ruimtevaart materiaal. Plastaal is extreem sterk door zijn unieke moleculaire structuur.</Plasteel.description>
 	
 	<StoneBlocks.label>Steenblokken</StoneBlocks.label>
 	<StoneBlocks.description>Nodig voor het maken van gebouwen.</StoneBlocks.description>
   <StoneBlocks.stuffProps.nameAsStuff>Steen</StoneBlocks.stuffProps.nameAsStuff>
 	
-	<WoodLog.label>Hout</WoodLog.label>                                                                              
+	<WoodLog.label>Hout</WoodLog.label>
 	<WoodLog.description>Hout van bomen en andere houthartige planten. Te gebruiken voor wapens, gebouwen of primitieve protheses. In geval van nood kun je het ook als wapen gebruiken.</WoodLog.description>
 	
 	<Uranium.label>Uranium</Uranium.label>
-	<Uranium.description>Reactormateriaal.</Uranium.description>
+	<Uranium.description>Een extreem dicht en hard materiaal. Ondanks dat het voornamelijk bekend staat for het gebruik in nucleaire reactoren kan het ook erg goed gebruikt worden voor gereedschappen, wapens of pantser.</Uranium.description>
 	
-	<!--
-	<WoodPlank.label>Houten plank</WoodPlank.label>
-	<WoodPlank.description>ZVoor het bouwen van gebouwen.</WoodPlank.description>
-	-->
+	<Jade.label>Jade</Jade.label>
+	<Jade.description>Een harde groene steen. Vanwege zijn schoonheid en zeldzaamheid word Jade vaak gebruikt voor kunst. Jade zijn hardheid maakt het ook een goed materiaal voor stompe wapens</Jade.description>
 	
 	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
 	

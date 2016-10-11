@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ImmediateAttack.letterLabelEnemy>Bestorming</ImmediateAttack.letterLabelEnemy>
+	<ImmediateAttack.arrivalTextEnemy>Ze vallen gelijk aan.</ImmediateAttack.arrivalTextEnemy>
+	<ImmediateAttack.letterLabelFriendly>Hulp</ImmediateAttack.letterLabelFriendly>
+	<ImmediateAttack.arrivalTextFriendly>Ze komen je gelijk helpen.</ImmediateAttack.arrivalTextFriendly>
+
+	<ImmediateAttackSmart.letterLabelEnemy>Bestorming</ImmediateAttackSmart.letterLabelEnemy>
+	<ImmediateAttackSmart.arrivalTextEnemy>Ze vallen gelijk aan.\n\nKijk uit! Het lijkt erop dat ze ongebruikelijk slimme tactieken gebruiken.</ImmediateAttackSmart.arrivalTextEnemy>
+	<ImmediateAttackSmart.letterLabelFriendly>Hulp</ImmediateAttackSmart.letterLabelFriendly>
+	<ImmediateAttackSmart.arrivalTextFriendly>Ze komen je gelijk helpen.</ImmediateAttackSmart.arrivalTextFriendly>
+
+	<StageThenAttack.letterLabelEnemy>Bestorming</StageThenAttack.letterLabelEnemy>
+	<StageThenAttack.arrivalTextEnemy>Ze zullen eerst voorbereiden en daarna aanvallen.\n\n Bereid een verdediging voor of val hun aan voordat zei jou aanvallen.</StageThenAttack.arrivalTextEnemy>
+	<StageThenAttack.letterLabelFriendly>Hulp</StageThenAttack.letterLabelFriendly>
+	<StageThenAttack.arrivalTextFriendly>Ze zullen zich eerst voorbereiden en je daarna komen helpen.</StageThenAttack.arrivalTextFriendly>
+
+	<ImmediateAttackSappers.letterLabelEnemy>Bestorming</ImmediateAttackSappers.letterLabelEnemy>
+	<ImmediateAttackSappers.arrivalTextEnemy>Het lijkt erop dat ze tunnels gaan graven om langs je verdediging te komen.</ImmediateAttackSappers.arrivalTextEnemy>
+
+	<Siege.letterLabelEnemy>Belegering</Siege.letterLabelEnemy>
+	<Siege.arrivalTextEnemy>Het lijkt erop dat ze je kolonie willen belegeren vanaf een afstand met artilerie.</Siege.arrivalTextEnemy>
+	<Siege.letterLabelFriendly>Hulp</Siege.letterLabelFriendly>
+	<Siege.arrivalTextFriendly>Het lijkt erop dat ze je willen helpen vanaf een afstand met artilerie.</Siege.arrivalTextFriendly>
+
+</LanguageData>

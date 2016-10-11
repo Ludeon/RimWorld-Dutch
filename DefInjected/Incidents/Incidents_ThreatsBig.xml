@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<RainEnemy.label>Vijandelijke bestorming</RaidEnemy.label>
+
+	<Infestation.label>insecten plaag</Infestation.label>
+	<Infestation.letterLabel>Insecten plaag</Infestation.letterLabel>
+	<Infestation.letterText>Een insecten kolonie is ontdekt! \n\nDe kolonie zal nieuwe insecten en meer kolonies kweken. Als je niet wilt dat deze insecten plaag over het hele gebied verspreid zal je alle kolonies moeten vernietigen, maar kijk uit, de insecten zullen hun kolonie verdedigen!
+
+	<ManhunterPack.label>Mensenetende troep</ManhunterPack.label>
+
+	<PsychicEmanatorShipPartCrash.label>Neergestort schipdeel (psychisch)</PsychicEmanatorShipPartCrash.label>
+	<PsychicEmanatorShipPartCrash.letterLabel>Psychisch schip</PsychicEmanatorShipPartCrash.letterLabel>
+	<PsychicEmanatorShipPartCrash.letterText>Een groot stuk schip is dichtbij neergestort.\n\n\ Je kolonisten horen stemmen in hun hoofd pratende over verschrikkelijke deden. Het schip heeft een AI aan boord met psychische projectie capaciteiten. En deze AI is niet vriendelijk. \n\n\Vernietig het zo snel mogelijk.</PsychicEmanatorShipPartCrash.letterText>
+
+	<PoisonShipPartCrash.label>Neergestort schipdeel (gif)</PoisonShipPartCrash.label>
+	<PoisonShipPartCrash.letterLabel>Giftig schip</PoisonShipPartCrash.letterLabel>
+	<PoisonShipPartCrash.letterText>Een grot stuk schip is dichtbij neergestort. \n\n Het is gif aan het lekken waardoor de omlichende planted doodgaan. \n\n Vernietig het zo snel mogelijk.</PoisonShipPartCrash.letterText>
+
+	<AnimalInsanityMass.label>Masale dierengekte</AnimalInsanityMass.label>
+</LanguageData>

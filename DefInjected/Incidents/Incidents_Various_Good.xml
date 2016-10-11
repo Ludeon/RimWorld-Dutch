@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ShipChunckDrop.label>neergestort schipstuk</ShipChunckDrop.label> 
+	
+	<OrbitalTraderArrival.label>ruimtehandelaar aankomst</OrbitalTraderArrival.label> 
+	
+	<TraderCaravanArrival.label>handelaarsgroep aankomst</.label> 
+	
+	<Visitorgroup.label>bezoekersgroep</Visitorgroup.label> 
+	
+	<TravelerGroup.label>Reizigersgroep</TravelersGroup.label> 
+	
+	<ResourcePodCrash.label>grondstofcapsule crash</ResourcePodCrash.label> 
+	
+	<RaidFriendly.label>vriendelijke bestorming</RaidFriendly.label> 
+	
+	<WanderJoin.label>reiziger trekt in</WandererJoin.label> 
+
+	<RefugeePodCrash.label>vluchtelingcapsule crash</RefugeePodCrash.label> 
+
+	<PsychicSoothe.label>psychische kalmeringsgolf</PsychicSoothe.label> 
+
+	<SelfTame.label>tam geworden</SelfTame.label>
+
+	<FarmAnimalsWanderIn.label>kudde boerderijdieren is tam geworden</FarmAnimalsWanderIn.label>	
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- ======= Mechanoids ====== -->
+
+	<MechanoidFullyFormed.label>volledig gevormd</MechanoidFullyFormed.label>
+
+
+	<!-- ======= Humans ====== -->
+
+	<HumanlikeBaby.label>baby</HumanlikeBaby.label>
+	
+	<HumanlikeToddler.label>peuter</HumanlikeToddler.label>
+
+	<HumanlikeChild.label>kind</HumanlikeChild.label>
+
+	<HumanlikeTeenager>tiener</HumanlikeTeenager>
+
+	<HumanlikeAdult>volwassen<HumanlikeAdult>
+
+			
+	<!-- ====== Insects ====== -->
+
+	<EusocialInsectLarva.label>larve</EusocialInsectLarva.label>
+
+	<EusocialInsectJuvenile.label>onvolwassen</EusocialInsectJuvenile.label>
+
+	<EusocialInsectAdult.label>volwassen</EusocialInsectAdult.label>
+
+
+	<!-- ====== Animals ====== -->
+
+	<Animalbaby.label>baby</Animalbaby.label>
+
+	<AnimalJuvenile.label>onvolwassen</AnimalJuvenile.label>
+
+	<AnimalAdult>volwassen</AnimalAdult.label>
+
+
+</LanguageData>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--========= General ============-->
+	
+	<Goto.reportString>aan het bewegen.</Goto.reportString>
+
+	<GotoSafeTemperature.reportString>een veilige temperatuur aan het opzoeken.</GotoSafeTemperature.reportString>
+	
+	<GotoWander.reportString>aan het wandelen.</GotoWander.reportString>
+	
+	<Wait.reportString>aan het staan.</Wait.reportString>
+
+	<WaitDowned.reportString>neergehaald.</WaitDowned.reportString>
+
+	<WaitSafeTemperature.reportString>in een veilige temperatuur aan het staan.</WaitSafeTemperature.reportString>
+
+	<WaitWander.reportString>aan het wandelen.</WaitWander.reportString>
+
+	<WaitCombat.reportString>op de uitkijk aan het staan.<WaitCombat.reportString>
+	
+	<AttackStatic.reportString>TargetA aan het aanvallen.</AttackStatic.reportString>
+	
+	<AttackMelee.reportString>TargetA met de hand aan het aanvallen.</AttackMelee.reportString>
+
+	<SocialFight.reportString>met TargetA aan het vechten.</SocialFight.reportString>
+	
+	<Equip.reportString>zich met TargetA aan het uitrusten.</Equip.reportString>
+
+	<TakeInventory.reportString>TargetA aan het pakken.</TakeInventory.reportString>
+
+	<Wear.reportString>Trekt TargetA aan.</Wear.reportString>
+
+	<RemoveApparel.reportString>TargetA aan het uittrekken.</RemoveApparel.reportString>
+
+	<Strip.reportString>Trekt TargetA uit.</Strip.reportString>
+
+	<Open.reportString>TargetA aan het openen.</Open.reportString>
+
+	<RearmTrap.reportString>TargetA op scherp aan het zetten.</RearmTrap.reportString>
+
+	<Refuel.reportString>TargetA aan het bijvullen.</Refuel.reportString>
+
+	<FillFermentingBarrel.reportString>TargetA aan het vullen.</FillFermentingBarrel.reportString>
+
+	<TakeBeerOutOffFermentingBarrel.reportString>bier uit TargetA aan het halen.</TakeBeerOutOffFermentingBarrel.reportString>
+
+	<ManTurret.reportString>een geschuttoren aan het bedienen.</ManTurret.reportString>
+	
+	<EnterCryptosleepPod.reportString>cryptoslaapcapsule in aan het gaan.</EnterCryptosleepPod.reportString>
+	
+	<UseNeurotrainer.reportString>neurotrainer aan het gebruiken.</UseNeurotrainer.reportString>
+
+	<UseArtifact.reportString>artefact aan het activeren.</UseArtifact.reportString>
+
+	<TriggerFirefoamPopper.reportString>een vuurfoampopper aan het activeren.</TriggerFirefoamPopper.reportString>
+
+	<ClearSnow.reportString>sneeuw aan het opruimen.</ClearSnow.reportString>
+
+	<Vomit.reportString>aan het overgeven.</Vomit.reportString>
+
+	<Flick.reportString>een schakelaar aan het omzetten.</Flick.reportString>
+
+	<TradeWithPawn.reportString>met TargetA aan het onderhandelen.</TradeWithPawn.reportString>
+
+	<FleeAndCower.reportString>aan het vluchten.</FleeAndCower.reportString>
+	
+ 	<!--============ Fire ============-->
+  
+	<Ignite.reportString>TargetA aan het aansteken.</Ignite.reportString>
+	
+	<BeatFire.reportString>vuur aan het uitslaan.</BeatFire.reportString>
+	
+	<ExtinguishSelf.reportString>zichzelf aan het blussen.</ExtinguishSelf.reportString>
+	
+  	<!--============ Need satisfaction ============-->
+  
+	<EatFood.reportString>TargetA aan het eten.</EatFood.reportString>
+	
+	<LayDown.reportString>aan het liggen.</LayDown.reportString>
+
+	<!--============ Love ============-->
+
+	<Lovin.reportString>de liefde aan het bedrijven.</Lovin.reportString>
+		
+</LanguageData>

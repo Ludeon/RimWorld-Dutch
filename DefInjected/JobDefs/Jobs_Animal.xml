@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Nuzzle.reportString>TargetA aan het knuffelen.</Nuzzle.reportString>
+
+	<Mate.reportString>aan het paren met TargetA.</Mate.reportString>
+
+	<LayEgg.reportString>een ei aan het leggen.</LayEgg.reportString>
+
+	<Maintain.reportString>TargetA aan het onderhouden.</Maintain.reportString>	
+</LanguageData>

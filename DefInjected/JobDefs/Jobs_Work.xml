@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!--============= Item hauling ===============-->
+	
+	<HaulToCell.reportString>TargetA naar een opslagplaats aan het tillen.</HaulToCell.reportString>
+	
+	<HaulToContainer.reportString>TargetA aan het dragen.</HaulToContainer.reportString>	
+
+	<!--============= Special hauling ===============-->
+
+	<Steal.reportString>TargetA aan het stelen.</Steal.reportString>
+
+	<Kidnap.reportString>TargetA aan het gijzelen.</Kidnap.reportString>
+
+	 <!--============= Pawn hauling ===============-->
+	
+	<Rescue.reportString>TargetA aan het redden.</Rescue.reportString>
+
+	<CarryToCryptosleepCasket.reportString>TargetA naar een Cryptoslaapbed aan het tillen.</CarryToCryptosleepCasket.reportString>
+	
+	<Capture.reportString>TargetA aan het pakken.</Capture.reportString>
+	
+	<Arrest.reportString>TargetA gevangen aan het nemen.</Arrest.reportString>
+
+	<ReleasePrisoner.reportString>TargetA aan het vrijlaten.</ReleasePrisoner.reportString>
+	
+	<EscortPrisonerToBed.reportString>TargetA aan het escorteren naar bed.</EscortPrisonerToBed.reportString>
+	
+	<TakeWoundedPrisonerToBed.reportString>TargetA naar bed aan het brengen.</TakeWoundedPrisonerToBed.reportString>
+	
+	<TakeToBedToOperate.reportString>TargetA naar bed aan het brengen.</TakeToBedToOperate.reportString>
+	
+	<!--============= Animal handling ===============-->
+
+	<Slaughter.reportString>TargetA aan het slachten.</Slaughter.reportString>
+
+	<Milk.reportString>TargetA aan het melken.</Milk.reportString>
+
+	<Shear.reportString>TargetA aan het scheren.</Shear.reportString>
+
+	<Tame.reportString>TargetA aan het temmen.</Tame.reportString>
+
+	<Train.reportString>TargetA aan het trainen</Train.reportString>
+
+	<!--============= Construction and repair ===============-->
+
+	<PlaceNoCostFrame.reportString>TargetA aan het opbouwen.</PlaceNoCostFrame.reportString>
+
+	<FinishFrame.reportString>TargetA aan het bouwen.</FinishFrame.reportString>
+
+	<Deconstruct.reportString>TargetA aan het afbreken.</Deconstruct.reportString>
+
+	<Uninstall.reportString>TargetA aan het deinstaleren.</Uninstall.reportString>
+
+	<Repair.reportString>TargetA aan het repareren.</Repair.reportString>
+
+	<FixBrokenDownBuilding.reportString>een kapotte component in TargetA aan het vervangen.</FixBrokenDownBuilding.reportString>
+	
+	<BuildRoof.reportString>een dak aan het bouwen.</BuildRoof.reportString>
+
+	<RemoveRoof.reportString>een dak aan het afbreken.</RemoveRoof.reportString>
+
+	<!--============= Medical ===============-->
+
+	<FeedPatient.reportString>TargetB aan het voeren met TargetA.</FeedPatient.reportString>
+
+	<TendPatient.reportString>TargetA aan het verzorgen.</TendPatient.ReportString>
+
+	<!--============= Misc ===============-->
+
+	<DeliverFood.reportString>TargetB naar TargetA aan het brengen.</DeliverFood.reportString>
+
+	<DoBill.reportString>opdrachten bij TargetA aan het doen.</DoBill.reportString>
+
+	<OperateDeepDrill.reportString>aan het graven bij TargetA.</OperateDeepDrill.reportString>
+
+	<Clean.reportString>TargetA aan het schoonmaken.</Clean.reportString>
+
+	<Research.reportString>onderzoek aan het doen.</Research.reportString>
+
+	<Hunt.reportString>op TargetA aan het jagen.</Hunt.reportString>
+
+	<UseCommsConsole.reportString>communicatie console aan het gebruiken.</UseCommsConsole.reportString>
+
+	<Mine.reportString>TargetA aan het delfen.</Mine.reportString>
+
+	<SmoothFloor.reportString>de vloer glad aan het maken.</SmoothFloor.reportString>
+
+	<RemoveFloor.reportString>de vloer aan het afbrekene.</RemoveFloor.reportString>
+
+	<Sow.reportString>TargetA aan het zaaien.</Sow.reportString>
+
+	<Harvest.reportString>TargetA aan het oogsten.</Harvest.reportString>
+
+	<CutPlant.reportString>TargetA aan het weghalen.</CutPlant.reportString>
+
+	<PrisonerFriendlyChat.reportString>aan het praten met TargetA.</PrisonerFriendlyChat.reportString>
+
+	<PrisonerAttemptRecruit.reportString>aan het proberen TargetA te recruteren.</PrisonerAttemptRecruit.reportString>
+
+	<PrisonerExecution.reportstring>TargetA aan het executeren.</PrisonerExecution.reportString>
+
+	<BuryCorpse.reportString>is TargetA aan het begraven.</BuryCorpse.reportString>
+</LanguageData>

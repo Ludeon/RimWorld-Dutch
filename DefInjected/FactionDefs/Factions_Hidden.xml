@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Spacer.label>Ruimtereiziger</Spacer.label>
+	<Spacer.description>Reizigers uit de verste hoeken van de ruimte.</Spacer.description>	
+	<Spacer.pawnsPlural>Ruimtereizigers</Spacer.pawnsPlural>
+	<Spacer.fixedName>Ruimtereiziger</Spacer.fixedName>
+
+	<SpacerHostile.label>Ruimtereiziger</SpacerHostile.label>
+	<SpacerHostile.description>Reizigers uit de verste hoeken van de ruimte.</SpacerHostile.description>
+	<SpacerHostile.pawnsPlural>Ruimtereizigers</SpacerHostile.pawnsPlural>
+	<SpacerHostile.fixedName>Ruimtereiziger</SpacerHostile.fixedName>
+
+	<Mechanoid.label>Mechanoide</Mechanoid.label>
+	<Mechanoid.description>Een collectief van oude zelf-reproducerende machines.</Mechanoid.description>
+	<Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
+	<Mechanoid.fixedName>Een zwerm mechanoiden</Mechanoid.fixedName>
+
+	<Insect.label>Insecten</Insect.label>
+	<Insect.description>Agressieve en indringende insecten.</Insect.description>
+	<Insect.pawnsPlural>Insecten</Insect.pawnsPlural>
+	<Insect.fixedName>Insecten</Insect.fixedName>	
+</LanguageData>

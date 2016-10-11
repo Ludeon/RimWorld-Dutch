@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlayerColony.label>Kolonie</PlayerColony.label>
+	<PlayerColony.description>Jouw eigen kolonie.</PlayerColony.description>
+	<PlayerColony.basicMemberKind>Kolonist</PlayerColony.basicMemberKind>
+	<PlayerColony.pawnsPlural>kolonisten</PlayerColony.pawnsPlural>
+
+	<PlayerTribe.label>Stam</PlayerTribe.label>
+	<PlayerTribe.description>Jouw eigen stam.</PlayerTribe.description>
+	<PlayerTribe.pawnsPlural>stamleden</PlayerTribe.pawnsPlural>
+	<PlayerTribe.basicMemberKind>Stamlid</PlayerTribe.basicMemberKind>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Inspect.label>inspecteer</Inspect.label>
+
+	<Architect.label>Architect</Architect.label>
+	<Architect.description>Bepaal waar en wat kolonisten moeten bouwen, verbouwen, opbergen etc.<Architect.description>
+
+	<Work.label>Werk</Work.label>
+	<Work.description>Bepaal welke kolonisten wat doen en in welke prioriteits volgorde.<Work.description>
+
+	<Restrict.label>Begrens</Restrict.label>
+	<Restrict.description>Bepaal volgens wat voor schema de kolonisten activiteiten moeten uitvoeren en waar ze mogen komen.<Restrict.description>
+
+	<Assign.label>Toewijzen</Assign.label>
+	<Assign.description>Bepaal wat kolonisten moeten dragen en hoe ze reageren op vijanden die dichtbij zijn.<Assign.description>
+
+	<Animals.label>Dieren</Animals.label>
+	<Animals.description>Bepaal hoe de kolonies dieren behandelt moeten worden.<Animals.description>
+
+	<Research.label>Onderzoek</Research.label>
+	<Research.description>Bekijk en bepaal wat er onderzocht moet worden.<Research.description>
+
+	<Factions.label>Facties</Factions.label>
+	<Factions.description>Bekijk de facties die bekend zijn bij de kolonie en de relatie met die facties.<Factions.description>
+
+	<World.label>Wereld</World.label>
+	<World.description>Bekijk de wereld map.<World.description>
+
+	<History.label>Geschiedenis</History.label>
+	<History.description>Bekijk de geschiedenis van de kolonie.<History.description>
+
+	<Menu.label>Menu</Menu.label>
+	<Menu.description>Verander opties, opslaan, laden, of verlaat het spel.<Menu.description>
+
+</LanguageData>

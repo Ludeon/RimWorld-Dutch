@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Consciousness.label>bewustzijn</Consciousness.label>
+	<Sight.label>zicht</Sight.label>
+	<Hearing.label>horen</Hearing.label>
+	<Moving.label>bewegen</Moving.label>
+	<Manipulation.label>manipulatie</Manipulation.label>
+	<Talking.label>praten</Talking.label>
+	<Eating.label>eten</Eating.label>
+	<Breathing.label>ademen</Breathing.label>
+	<BloodFiltration.label>bloed filtratie</BloodFiltration.label>
+	<BloodPumping.label>bloed circulatie</BloodPumping.label>
+	<Metabolism.label>metabolisme</Metabolism.label>
+</LanguageData>

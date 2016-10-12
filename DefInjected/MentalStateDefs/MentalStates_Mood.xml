@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Mental breaks: extreme -->
+
+	<Berserk.label>razernij</Berserk.label>
+	<Berserk.recoveryThought>Katharsis</Berserk.recoveryThought>
+	<Berserk.beginLetterLabel>razernij</Berserk.beginLetterLabel>
+	<Berserk.beginLetter>{0} is razend geworden.</Berserk.beginLetter>
+	<Berserk.recoveryMessage>{0}s razernij is afgelopen.</Berserk.recoveryMessage>
+	<Berserk.baseInspectLine>Mentale staat: razend</Berserk.baseInspectLine>
+
+	<FireStartingSpree.label>pyromanische bui</FireStartingSpree.label>
+	<FireStartingSpree.recoveryThought>Katharsis</FireStartingSpree.recoveryThought>
+	<FireStartingSpree.beginLetterLabel>pyrmonanische bui</FireStartingSpree.beginLetterLabel>
+	<FireStartingSpree.beginLetter>{0} is in een pyromanische bui.</FireStartingSpree.beginLetter>
+	<FireStartingSpree.recoveryMessage>{0} is niet meer pyromanisch.</FireStartingSpree.recoveryMessage>
+	<FireStartingSpree.baseInspectLine>Mentale staat: pyromanisch</FireStartingSpree.baseInspectLine>
+
+	<GiveUpExit.label>geeft op en vertrekt</GiveUpExit.label>
+	<GiveUpExit.recoveryThought>Katharsis</GiveUpExit.recoveryThought>
+	<GiveUpExit.beginLetterLabel>opgegeven</GiveUpExit.beginLetterLabel>
+	<GiveUpExit.beginLetter>{0} heeft opgegeven en verlaat de kolonie.</GiveUpExit.beginLetter>
+	<GiveUpExit.recoveryMessage>{0} heeft zijn gedachten veranderd en komt weer terug.</GiveUpExit.recoveryMessage>
+	<GiveUpExit.baseInspectLine>Mentale staat: heeft opgegeven en vertrekt</GaveUpExit.baseInspectLine>
+
+	<BingingDrugExtreme.label>overdosis drugs aan het nemen</BingingDrugExtreme.label>
+	<BingingDrugExtreme.recoveryThought>Katharsis</BingingDrugExtreme.recoveryThought>
+	<BingingDrugExtreme.baseInspectLine>Mentale staat: overdosis aan het nemen.</BingingDrugExtreme.baseInspectLine>
+
+	<!-- Mental breaks: major -->
+
+	<WanderPsychotic.label>verwarde wandeling</WanderPsychotic.label>
+	<WanderPsychotic.recoveryThought>Katharsis</WanderPsychotic.recoveryThought>
+	<WanderPsychotic.beginLetterLabel>verward</WanderPsychotic.beginLetterLabel>
+	<WanderPsychotic.beginLetter>{0} is verward aan het rondlopen.</WanderPsychotic.beginLetter>
+	<WanderPsychotic.recoveryMessage>{0} is niet meer verward aan het rondlopen.</WanderPsychotic.recoveryMessage>
+	<WanderPsychotic.baseInspectLine>Mentale staat: verward aan het wandelen.</Wanderpsychotic.baseInspectLine>
+
+
+	<!-- Mental breaks: minor -->
+
+	<BingingFood.label>voedsel schrokken</BingingFood.label>
+	<BingingFood.recoveryThought>Katharsis</BingingFood.recoveryThought>
+	<BingingFood.beginLetterLabel>schrokpartij</BingingFood.beginLetterLabel>
+	<BingingFood.beginLetter>{0} is voedsel aan het schrokken.</BingingFood.beginLetter>
+	<BingingFood.recoveryMessage>{0} is niet meer voedsel aan het schrokken.</BingingFood.recoveryMessage>
+	<BingingFood.baseInspectLine>Mentale staat: voedsel schrokken</BingingFood.baseInspectLine>
+
+	<WanderSad.label>treurig wandelen</WanderSad.label>
+	<WanderSad.recoveryThought>Katharsis</WanderSad.recoveryThought>
+	<WanderSad.beginLetterLabel>treurige wandeling</WanderSad.beginLetterLabel>
+	<WanderSad.beginLetter>{0} is diep treurig aan het wandelen.</WanderSad.beginLetter>
+	<WanderSad.recoveryMessage>{0} is niet meer diep treurig aan het wandelen.</WanderSad.recoveryMessage>
+	<WanderSad.baseInspectLine>Mentale staat: treurig</WanderSad.baseInspectLine>
+
+	<WanderOwnRoom.label>alleen aan het zitten</WanderOwnRoom.label>
+	<WanderOwnRoom.recoveryThought>Katharsis</WanderOwnRoom.recoveryThought>
+	<WanderOwnRoom.beginLetterLabel>Verstopppen in kamer</WanderOwnRoom.beginLetterLabel>
+	<WanderOwnRoom.beginLetter>{0} is zich aan het verstoppen in HIS kamer.</WanderOwnRoom.beginLetter>
+	<WanderOwnRoom.recoveryMessage>{0} is zich niet meer aan het verstoppen in HIS kamer.</WanderOwnRoom.recoveryMessage>
+	<WanderOwnRoom.baseInspectLine>Mentale staat: verstopen in kamer.</WanderOwnRoom.baseInspectLine>
+
+
+</LanguageData>

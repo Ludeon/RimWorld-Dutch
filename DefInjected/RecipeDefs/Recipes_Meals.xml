@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
 	<CookMealSimple.label>Eenvoudige maaltijd koken</CookMealSimple.label>
-	<CookMealSimple.description>Kook een eenvoudige maaltijd met Ã©Ã©n simpel ingrediÃ«nt.</CookMealSimple.description>
+	<CookMealSimple.description>Kook een eenvoudige maaltijd met maar één simpel ingrediënt.</CookMealSimple.description>
 	<CookMealSimple.jobString>Eenvoudige maaltijd koken.</CookMealSimple.jobString>
 	
 	<CookMealFine.label>Kook een lekkere maaltijd</CookMealFine.label>
-	<CookMealFine.description>Kook een lekker maaltijd met twee ingrediÃ«nten.</CookMealFine.description>
+	<CookMealFine.description>Kook een lekker maaltijd met twee ingrediënten.</CookMealFine.description>
 	<CookMealFine.jobString>Lekkere maaltijd koken.</CookMealFine.jobString>
 	
 	<CookMealLavish.label>Kook een luxe maaltijd</CookMealLavish.label>
-	<CookMealLavish.description>Kook een luxe maaltijd met drie ingrediÃ«nten.</CookMealLavish.description>
-	<CookMealLavish.jobString>Luxe maaltijd koken.</CookMealLavish.jobString>
-	
-	
-	
+	<CookMealLavish.description>Kook een luxe maaltijd met drie ingrediënten.</CookMealLavish.description>
+	<CookMealLavish.jobString>Luxe maaltijd koken.</CookMealLavish.jobString>	
 </LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MakeKibble.label>maak brokken</MakeKibble.label>
+	<MakeKibble.description>Make dieren brokken van rauw vlees en plantdelen</MakeKibble.description>
+	<MakeKibble.jobString>Brokken maken.</MakeKibble.jobstring>
+
+	<MakePemmican.label>maak pemmican</MakePemmican.label>
+	<MakePemmican.description>Pemmican is een combinatie van vlees en plantdelen. Het smaakt niet geweldig maar blijft erg lang goed in de hitte.</MakePemmican.description>
+	<MakePemmican.jobString>Pemmican maken.</MakePemmican.jobstring>
+</LanguageData>

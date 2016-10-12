@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MakeWort.label>maak wort</MakeWort.label>
+	<MakeWort.description>Wort maken van hoppen.</MakeWort.description>
+	<MakeWort.jobString>Wort maken.</MakeWort.jobString>
+
+	<BurnDrugs.label>verbrand drugs</BurnDrugs.label>
+	<BurnDrugs.description>Drugs verbranden, om er volledig van af te zijn.</BurnDrugs.description>
+	<BurnDrugs.jobString>Drugs verbranden.</BurnDrugs.jobString>
+</LanguageData>

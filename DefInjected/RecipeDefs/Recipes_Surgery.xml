@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- removing body parts -->
+	
+	<RemoveBodyPart.label>lichaamsdeel verwijderen.</RemoveBodyPart.label>
+	<RemoveBodyPart.description>Verwijder een lichaamsdeel.</RemoveBodyPart.description>
+	<RemoveBodyPart.jobString>Lichaamsdeel verwijderen.</RemoveBodyPart.jobString>
+	
+	<RemoveMechanoidBodyPart.label>onderdeel verwijderen.</RemoveMechanoidBodyPart.label>
+	<RemoveMechanoidBodyPart.description>Verwijder een onderdeel van een mechanoide.</RemoveMechanoidBodyPart.description>
+	<RemoveMechanoidBodyPart.jobString>Onderdeel verwijderen.</RemoveMechanoidBodyPart.jobString>
+	
+	
+	<!-- Euthanasia -->
+	
+	<Euthanize.label>inslapen</Euthanize.label>
+	<Euthanize.description>Laten inslapen.</Euthanize.description>
+	<Euthanize.jobString>In laten slapen.</Euthanize.jobString>
+	
+	<ShutDownMechanoid.label>Afsluiten</ShutDownMechanoid.label>
+	<ShutDownMechanoid.description>Afsluiten.</ShutDownMechanoid.description>
+	<ShutDownMechanoid.jobString>Afsluiten.</ShutDownMechanoid.jobString>
+	
+	<!-- removing hediffs (e.g. diseases) -->
+	<ExciseCarcinoma.label>tumor uitsnijden</ExciseCarcinoma.label>
+	<ExciseCarcinoma.description>Uitnsijden van een tumor.</ExciseCarcinoma.description>
+	<ExciseCarcinoma.jobString>Tumor uitsnijden.</ExciseCarcinoma.jobString>
+	<ExciseCarcinoma.successfullyRemovedHediffMessage>{0} heeft succesvol {1}'s tumor weggesneden.</ExciseCarcinoma.succesfullyRemovedHediffMessage>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Villager.label>dorpsbewoner</Villager.label>
+	<TownCouncilman.label>dorpsraadslid</TownCouncilman.label>
+	<TownTrader.label>dorpshandelsman</TownTrader.label>
+	<TownGuard.label>dorpswacht</TownGuard.label>
+</LanguageData>

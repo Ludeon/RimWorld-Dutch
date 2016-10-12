@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Spouse / lover -->
+
+	<Spouse.label>man</Spouse.label>
+	<Spouse.labelFemale>vrouw</Spouse.labelFemale>
+
+	<Fiance.label>verloofde</Fiance.label>
+	<Fiance.labelFemale>verloofde</Fiance.labelFemale>
+
+	<Lover.label>minnaar</Lover.label>
+	<Lover.labelFemale>minaar</Lover.labelFemale>
+
+	 
+	<!-- step family -->
+
+	<Stepparent.label>stiefvader</Stepparent.label>
+	<Stepparent.labelFemale>stiefmoeder</Stepparent.labelFemale>
+
+	<Stepchild.label>stiefzoon</Stepchild.label>
+	<Stepchild.labelFemale>stiefdochter</Stepchild.labelFemale>
+
+
+	<!-- in-law -->
+
+	<ParenInLaw.label>schoonvader</ParenInLaw.label>
+	<ParenInLaw.labelFemale>schoonmoeder</ParenInLaw.labelFemale>
+
+	<ChildInLaw.label>schoonzoon</ChildInLaw.label>
+	<ChildInLaw.labelFemale>schoondochter</ChildInLaw.labelFemale>
+
+
+	<!-- ex-lover / ex-spouse -->
+
+	<ExSpouse.label>ex-man</ExSpouse.label>
+	<ExSpouse.labelFemale>ex-vrouw</ExSpouse.labelFemale>
+
+	<ExLover.label>ex-minnaar</ExLover.label>
+	<ExLover.labelFemale>ex-minnaar</ExLover.labelFemale>
+
+</LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- close family -->
+	<Parent.label>vader</Parent.label>
+	<Parent.labelFemale>moeder</Parent.labelFemale>
+
+	<Child.label>zoon</Child.label>
+	<Child.labelFemale>dochter</Child.labelFemale>
+
+	<Sibling.label>broer</Sibling.label>
+	<Sibling.labelFemale>zus</Sibling.labelFemale>
+
+	<HalfSibling.label>broer</HalfSibling.label>
+	<HalfSibling.labelFemale>zus</HalfSibling.labelFemale>
+
+	<Grandparent.label>opa</Grandparent.label>
+	<Grandparent.labelFemale>oma</Grandparent.labelFemale>
+
+	<Grandchildren.label>kleinzoon</Grandchildren.label>
+	<Grandchildren.labelFemale>kleindochter</Grandchildren.labelFemale>
+
+	<NephewOrNiece.label>neef</NephewOrNiece.label>
+	<NephewOrNiece.labelFemale>nicht</NephewOrNiece.labelFemale>
+
+	<UncleOrAunt.label>oom</UncleOrAunt.label>
+	<UncleOrAunt.labelFemale>tante</UncleOrAunt.labelFemale>
+
+	<Cousin.label>neef of nicht</Cousin.label>
+
+ 
+	<!-- distant family -->
+
+	<GreatGrandparent.label>overgrootvader</GreatGrandparent.label>
+	<GreatGrandparent.labelFemale>overgrootmoeder</GreatGrandparent.labelFemale>
+
+	<GreatGrandChild.label>achterkleinzoon</GreatGrandChild.label>
+	<GreatGrandChild.labelFemale>achterkleindochter</GreatGrandChild.labelFemale>
+
+	<GranduncleOrGrandaunt.label>grootoom</GranduncleOrGrandaunt.label>
+	<GranduncleOrGrandaunt.labelFemale>groottante</GranduncleOrGrandaunt.labelFemale>
+
+	<GrandnephewOrGrandniece.label>achterkleinneef</GrandnephewOrGrandniece.label>
+	<GrandnephewOrGrandniece.labelFemale>achterkleinnicht</GrandnephewOrGrandniece.labelFemale>
+
+	<CousinOnceRemoved.label>klein- neef of nicht</CousinOnceRemoved.label>
+
+	<SecondCousin.label>achterklein- neef of nicht</SecondCousin.label>
+
+
+	<!-- Kin -->
+
+	<Kin.label>familie</Kin.label>
+</LanguageData>

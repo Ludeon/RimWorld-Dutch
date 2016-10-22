@@ -17,6 +17,7 @@ Official Translators:
 - erenes
 - Gangleider
 - Sebasbongers
+- FabianReinshagen
 - Ser-Geeves (inactive)
 - ConfusedWings (inactive)
 

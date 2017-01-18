@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<defName>GoJuice</defName>
+	<label>go-juice</label>
+	<description>Een synthethische militaire drug ontwikkeld voor ruimtesoldaten tijdens de eerste stadia van interplanetaire oorlogsvoering. Go-juice blokkeert pijnprikkels en verhoogt de gevechtscapaciteiten van de gebruiker. Het verhoogt ook bewegingssnelheid.\n\nMilitaire chemisten slaagden er niet in de verslavende componenten te verwijderen. Sommigen zagen dit als een minpunt; anderen als een voordeel.</description>
+	
+	<defName>GoJuiceHigh</defName>
+	<label>high door go-juice</label>
+	
+	<defName>GoJuiceHigh</defName>
+	<label>high door go-juice</label>
+	<description>Ik voel me alsof ik alles aan kan maar tegelijk ben ik ook kalm. Ik ben de scherpschutterskogel in volle vlucht, klaar om door jou te snijden.</description>
+	
+<!-- Go-juice addiction -->
+
+	<defName>GoJuice</defName>
+	<label>go-juice</label>
+	<description>Omwille van een go-juice verslaving, moet deze persoon regelmatig de drug innemen om ontwenningsverschijnselen te vermijden.</description>
+	
+	<defName>GoJuiceTolerantie</defName>
+	<label>go-juice tolerantie</label>
+	
+	<defName>GoJuiceverslaving</defName>
+	<label>go-juice verslaving</label>
+	<label>ontwenning</label>
+	
+	<defName>GoJuiceOntwenning</defName>
+	<label>go-juice ontwenning</label>
+	<description>Ik voel me wazig en kan moeilijk nadenken. Mijn ledematen voelen zwaar aan, ik ben moe en heb honger, alles doet pijn. En waarom kan ik mijn ogen niet scherp stellen?</description>
+	
+</LanguageData>

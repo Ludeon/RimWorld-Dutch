@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<!-- NOT COMPLETE NEEDS THE ENTIRE DRUNK STAGES AND ALCOHOL ADDICTION STILL ADDED -->
-	<Beer.label>Bier</Beer.label>	
-	<Beer.description>Het eerste drinken na water ooit gedronken door de mensheid. Bier smaakt goed, maar maakt vooral erg dronken. Overmatige consumptie kan leiden tot alcohol verslaving.</Beer.description>
+	<defName>Bier</defName>
+	<label>bier</label>
+	<description>Het eerste brouwsel na water dat ooit geconsumeerd werd door de mensheid. Bier kan lekker zijn, maar zorgt ervoor dat je dronken wordt. Overconsumptie kan leiden tot alcoholverslaving.</description>
+	
+	<defName>Wort</defName>
+	<label>wort</label>
+	<description>Ongefermeteerd bier. Dit spul moet nog gefermenteerd worden in een fermenteervat voordat het drinkbaar bier wordt.</description>
+	
+	<defName>AlcoholDronken</defName>
+	<label>Alcohol</label>
+	<label>buzzed-hidden</label>
+	<label>Aangeschoten</label>
+	<label>Dronken</label>
+	<label>Strontzat</label>
+	<label>Ver heen</label>
+	
+	<defName>Kater</defName>
+	<label>mild</label>
+	<label>zwaar</label>
+	<label>Bedlegerig</label>
+	
+	<defName>Beschonken</defName>
+	<label>buzzed-hidden</label>
+	<description>Should not appear.</description>
+	
+	<label>Beschonken (warm)</label>
+	<description>Ik voel me meer ontspannen na die pint. Dat is fijn.</description>
+	
+	<label>Beschonken (aangeschoten)</label>
+	<description>Alles beweegt! En ik hou er van.</description>
+	
+	<label>Beschonken (dronken)</label>
+	<description>Ik voel me zo onbevangen en onbevreesd! Ik amuseer me rot!</description>
+	
+	<label>Inebriated (strontzat)</label>
+	<description>Wooo! Wat gebeurt er?</description>
+	
+	<defName>Kater</defName>
+	<label>Kater (mild)</label>
+	<description>De hoofdpijn is bijna weg.</description>
+	
+	<label>Kater(zwaar)</label>
+	<description>Mijn hoofd doet pijn van de drank.</description>
+	
+	<label>Kater(bedlegerig)</label>
+	<description>Het voelt alsof de plaatstelijke fanfare repeteert binnenin mijn schedel.</description>
+	
+<!-- Alcoholverslaving -->
 
-	<Wort.label>Wort</Wort.label>
-	<Wort.description>Ongefermeteerd bier. Dit spul moet nog gefermenteerd worden in een fermenteervat voordat het drinkbaar bier wordt.</Wort.description>
-</LanguageData>
+	<defName>Alcohol</defName>
+	<label>alcohol</label>
+	<description> Omwille van een alcoholverslaving dient deze persoon regelmatig te drinken om ontwenningsverschijnselen te vermijden.</description>
+	
+	<defName>Alcoholtolerantie</defName>
+	<label>alcoholtolerantie</label>
+	
+	<defName>Alcoholverslaving</defName>
+	<label>alcoholverslaving</label>
+	<label>ontwenning</label>
+	
+	<defName>Alcoholontwenning</defName>
+	<label>alcoholontwenning</label>
+	<description>Mijn handen beven. Alles en iedereen maken me razend. Ik wil alleen maar drinken.</description>
+	
+	

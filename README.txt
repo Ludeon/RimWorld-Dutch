@@ -18,6 +18,7 @@ Official Translators:
 - Gangleider
 - Sebasbongers
 - FabianReinshagen
+- ILxCAPO
 - Ser-Geeves (inactive)
 - ConfusedWings (inactive)
 

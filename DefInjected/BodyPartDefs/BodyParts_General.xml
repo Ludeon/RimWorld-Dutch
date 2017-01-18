@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Head.label>Hoofd</Head.label>
+    
+    <Skull.label>Schedel</Skull.label>
+    
+    <Brain.label>Hersenen</Brain.label>
+    
+    <LeftEye.label>Linkeroog</LeftEye.label>
+    
+    <RightEye.label>Rechteroog</RightEye.label>
+    
+    <LeftEar.label>Linkeroor</LeftEar.label>
+    
+    <RightEar.label>Rechteroor</RightEar.label>
+    
+    <Nose.label>Neus</Nose.label>
+    
+    <Jaw.label>Kaak</Jaw.label>
+    
+    <Neck.label>Nek</Neck.label>
+    
+    <Rib.label>Rib</Rib.label>
+    
+    <Spine.label>Ruggengraat</Spine.label>
+    
+    <LeftLeg.label>Linkerbeen</LeftLeg.label>
+    
+    <LeftFoot.label>Linkervoet</LeftFoot.label>
+    
+    <RightLeg.label>Rechterbeen</RightLeg.label>
+    
+    <RightFoot.label>Rechtervoet</RightFoot.label>
+    
+</LanguageData>

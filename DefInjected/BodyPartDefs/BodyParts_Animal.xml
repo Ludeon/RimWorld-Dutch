@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Body.label>Lichaam</Body.label>
+    
+    <Beak.label>Snavel</Beak.label>
+    
+    <InsectHead.label>Hoofd Insect</InsectHead.label>
+    
+    <SnakeBody.label>Lichaam Slang</SnakeBody.label>
+    
+    <SnakeHead.label>Kop Slang</SnakeHead.label>
+    
+    <SnakeMouth.label>Mond Slang</SnakeMouth.label>
+    
+    <InsectHeart.label>Hart Insect</InsectHeart.label>
+    
+    <InsectNostril.label>Neusgat Insect</InsectNostril.label>
+    
+    <InsectMouth.label>Insect Mond</InsectMouth.label>
+    
+    <Jowl.label>Kaak</Jowl.label>
+    
+    <Tail.label>Staart</Tail.label>
+    
+    <LeftAntenna.label>Linkerantenne</LeftAntenna.label>
+    
+    <RightAntenna.label>Rechterantenne</RightAntenna.label>
+    
+    <Pronotum.label>Rugshild</Pronotum.label>
+    
+    <Shell.label>Exoskelet</Shell.label>
+    
+    <LeftElytra.label>Linker Dekschild</LeftElytra.label>
+    
+    <RightElytra.label>Rechter Dekschild</RightElytra.label>
+    
+    <LeftTusk.label>Linker Slagtand</LeftTusk.label>
+    
+    <RightTusk.label>Rechter Slagtand</RightTusk.label>
+    
+    <Trunk.label>Slurf</Trunk.label>
+    
+    <Horn.label>Hoorn</Horn.label>
+    
+    <HeadClaw.label>Craniale Klauw</HeadClaw.label>
+    
+    <Hump.label>Bult</Hump.label>
+    
+    <TurtleShell.label>Schildpadschild</TurtleShell.label>
+    
+    <Plastron.label>Buikschild</Plastron.label>
+    
+    <TurtleBeak.label>Bek Schildpad</TurtleBeak.label>
+    
+    <FrontLeftLeg.label>Linker voorpoot</FrontLeftLeg.label>
+	
+	<FrontRightLeg.label>Rechter voorpoot</FrontRightLeg.label>
+	
+	<MiddleLeftLeg.label>Linker middelste poot</MiddleLeftLeg.label>
+	
+	<MiddleRightLeg.label>Rechter middelste poot</MiddleRightLeg.label>
+	
+	<RearLeftLeg.label>Linker achterpoot</RearLeftLeg.label>
+	
+	<RearRightLeg.label>Rechter achterpoot</RearRightLeg.label>
+	
+    <FrontLeftInsectLeg.label>Linker voorpoot</FrontLeftInsectLeg.label>
+	
+	<FrontRightInsectLeg.label>Rechter voorpoot</FrontRightInsectLeg.label>
+	
+	<MiddleLeftInsectLeg.label>Linker middelste poot</MiddleLeftInsectLeg.label>
+	
+	<MiddleRightInsectLeg.label>Rechter middelste poot</MiddleRightInsectLeg.label>
+	
+	<RearLeftInsectLeg.label>Linker achterpoot</RearLeftInsectLeg.label>
+	
+	<RearRightInsectLeg.label>Rechter achterpoot</RearRightInsectLeg.label>
+    
+    <FrontLeftPaw.label>Linker voorpoot</FrontLeftPaw.label>
+	
+	<FrontRightPaw.label>Rechter voorpoot</FrontRightPaw.label>
+	
+	<RearLeftPaw.label>Linker achterpoot</RearLeftPaw.label>
+	
+	<RearRightPaw.label>Rechter achterpoot</RearRightPaw.label>
+	
+	<FrontLeftHoof.label>Linker voorhoef</FrontLeftHoof.label>
+	
+	<FrontRightHoof.label>Rechter voorhoef</FrontRightHoof.label>
+	
+	<RearLeftHoof.label>Linker achterhoef</RearLeftHoof.label>
+	
+	<RearRightHoof.label>Rehcter achterhoef</RearRightHoof.label>
+    
+    <FrontLeftLegFirstClaw.label>Linker voorbeen, eerste klauw</FrontLeftLegFirstClaw.label>
+	
+	<FrontLeftLegSecondClaw.label>Linker voorbeen, tweede klauw</FrontLeftLegSecondClaw.label>
+	
+	<FrontLeftLegThirdClaw.label>Linker voorbeen, derde klauw</FrontLeftLegThirdClaw.label>
+	
+	<FrontLeftLegFourthClaw.label>Linker voorbeen, vierde klauw</FrontLeftLegFourthClaw.label>
+	
+	<FrontLeftLegFifthClaw.label>Linker voorbeen, vijfde klauw</FrontLeftLegFifthClaw.label>
+	
+	<FrontRightLegFirstClaw.label>Rechter voorbeen, eerste klauw</FrontRightLegFirstClaw.label>
+	
+	<FrontRightLegSecondClaw.label>Rechter voorbeen, tweede klauw</FrontRightLegSecondClaw.label>
+	
+	<FrontRightLegThirdClaw.label>Rechter voorbeen, derde klauw</FrontRightLegThirdClaw.label>
+	
+	<FrontRightLegFourthClaw.label>Rechter voorbeen, vierde klauw</FrontRightLegFourthClaw.label>
+	
+	<FrontRightLegFifthClaw.label>Rechter voorbeen, vijfde klauw</FrontRightLegFifthClaw.label>
+    
+    <RearLeftLegFirstClaw.label>Linker achterbeen, eerste klauw</RearLeftLegFirstClaw.label>
+	
+	<RearLeftLegSecondClaw.label>Linker achterbeen, tweede klauw</RearLeftLegSecondClaw.label>
+	
+	<RearLeftLegThirdClaw.label>Linker achterbeen, derde klauw</RearLeftLegThirdClaw.label>
+	
+	<RearLeftLegFourthClaw.label>Linker achterbeen, vierde klauw</RearLeftLegFourthClaw.label>
+	
+	<RearLeftLegFifthClaw.label>Linker achterbeen, vijfde klauw</RearLeftLegFifthClaw.label>
+	
+	<RearRightLegFirstClaw.label>Rechter achterbeen, eerste klauw</RearRightLegFirstClaw.label>
+	
+	<RearRightLegSecondClaw.label>Rechter achterbeen, tweede klauw</RearRightLegSecondClaw.label>
+	
+	<RearRightLegThirdClaw.label>Rechter achterbeen, derde klauw</RearRightLegThirdClaw.label>
+	
+	<RearRightLegFourthClaw.label>Rechter achterbeen, vierde klauw</RearRightLegFourthClaw.label>
+	
+	<RearRightLegFifthClaw.label>Rechter achterbeen, vijfde klauw</RearRightLegFifthClaw.label>
+    
+</LanguageData>

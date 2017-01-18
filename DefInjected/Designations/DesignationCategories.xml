@@ -22,8 +22,8 @@
 	<Security.label>Beveiliging</Security.label>
    	<Security.description>Beveiligings- en gevechtsgerichte gebouwen.</Security.description>
 	
-	<Misc.label>Verscheidenen</Misc.label>
-  	<Misc.description>Verscheidene gebouwen.</Misc.description>
+	<Misc.label>Diversen</Misc.label>
+  	<Misc.description>Diverse gebouwen.</Misc.description>
 	
 	<Floors.label>Vloeren</Floors.label>
 	<Floors.description>Verschillende vloeren.</Floors.description>

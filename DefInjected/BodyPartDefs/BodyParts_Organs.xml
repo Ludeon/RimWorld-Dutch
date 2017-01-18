@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Heart.label>Hart</Heart.label>
+    
+    <LeftLung.label>Linkerlong</LeftLung.label> 
+	
+    <RightLung.label>Rechterlong</RightLung.label>
+    
+    <LeftKidney.label>Linkernier</LeftKidney.label> 
+	
+    <RightKidney.label>Rechternier</RightKidney.label> 
+	
+    <Liver.label>Lever</Liver.label> 
+	
+    <Stomach.label>Maag</Stomach.label>   
+    
+</LanguageData>

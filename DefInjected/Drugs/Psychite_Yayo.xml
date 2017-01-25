@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<defName>Yayo</defName>
+<label>yayo</label>
+<description>Een fijn wit poeder gesnoven om een euforische high te bekomen. Yayo vermindert de nood om te slapen en onderdukt pijnprikkels. Het is dan ook verslavend.</description>
+
+<!-- Psychite addiction -->
+
+<defName>Psychiet</defName>
+<label>psychiet</label>
+<description>Door een psychietische verslaving, dient deze persoon regelmatig de drug te gebruiken om ontwenningsverschijnselen te vermijden.</description>
+
+<defName>PsychietOntwenning</defName>
+<label>psychiet ontwenning</label>
+<description>Verdomme ik ben moe. Niets voelt nog goed</description>
+
+</LanguageData>

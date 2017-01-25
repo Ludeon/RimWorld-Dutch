@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<defName>SmokeleafJoint</defName>
+<label>smokeleaf joint</label>
+<description>De bladeren van Smokeleaf opgerold om te roken. De drug bevordert de stemming, maar zorgt ook voor extra eetlust, vermindert concentratie en vertraagt bewegingen. Gebruik van Smokeleaf kan voor afhankelijkheid zorgen. Kan gemaakt worden zonder productiemiddelen op een ambachtelijke werkplek.</description>
+
+<defName>SmokeleafHigh</defName>
+<label>high door smokeleaf</label>
+<description>Ik ben, echt, stoned, gast.</description>
+
+<!-- Smokeleaf addiction -->
+
+<defName>Smokeleaf</defName>
+<label>Smokeleaf</label>
+<description>Omwille van een ontwikkelde Smokeleafafhankelijkheid, dient deze persoon regelmatig de drug te gebruiken om ontwenningsverschijnselen te vermijden.</description>
+
+<defName>SmokeleafOntwenning</defName>
+<label>Smokeleaf ontwenning</label>
+<description>Ik wou dat ik kon blowen</description>
+
+</LanguageData>

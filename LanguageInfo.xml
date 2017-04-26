@@ -35,5 +35,6 @@
 	<li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>ILxCAPO</creditee>
+	  </li>
   </credits>
 </LanguageInfo>

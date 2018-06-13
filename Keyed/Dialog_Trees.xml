@@ -2,7 +2,7 @@
 <LanguageData>
 
   <FactionGreetingHostile>De vertegenwoordiger van {0} slingert een paar beledigingen door de console en verbreekt de verbinding</FactionGreetingHostile>
-  <FactionGreetingWary>De vertegenwoordiger van {0} begroet {1} mistroostig en vraagt wat HE van hen wil.</FactionGreetingWary>
+  <FactionGreetingWary>De vertegenwoordiger van {0} begroet {1} mistroostig en vraagt wat [PAWN_pronoun] van hen wil.</FactionGreetingWary>
   <FactionGreetingWarm>De vertegenwoordiger van {0} begroet {1} hartelijk, en vraagt hoe het met de kolonie gaat.</FactionGreetingWarm>
 
   <Disconnect>Verbinding verbreken</Disconnect>

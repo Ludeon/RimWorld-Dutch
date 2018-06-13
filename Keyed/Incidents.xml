@@ -47,14 +47,14 @@
    
   <TraderArrival>Een handelsschip is in de buurt.\n\n{0} is een {1}.</TraderArrival>
 
-  <SingleTravelerPassing>Een {0} van {1} is op doorreis. HECAP heet {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>Een {0} van {1} is op doorreis. [PAWN_pronoun] heet {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Een groep van {0} is op doorreis.</GroupTravelersPassing>
 
-  <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\nHECAP heet {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\n[PAWN_pronoun] heet {2}.</SingleVisitorArrives>
   <GroupVisitorsArrive>Een groep van {0} bezoekt de kolonie.</GroupVisitorsArrive>
   <VisitorsLeaving>De bezoekers van {0} verlaten de kolonie.</VisitorsLeaving>
 
-  <WandererJoin>Een {0} genaamd NAME is aangekomen en sluit zich bij de kolonie aan. HECAP is een {1}.</WandererJoin>
+  <WandererJoin>Een {0} genaamd [PAWN_nameDef] is aangekomen en sluit zich bij de kolonie aan. [PAWN_pronoun] is een {1}.</WandererJoin>
   
     <!-- Crashed ship part-->
   <SpaceshipPartCrash>Een groot stuk van een antiek ruimteschip is in de buurt neergestort.\n\nJe kolonisten voelen instictief dat er iets slechts aan de hand is. Aan boord moet zich een AI bevinden met psychische krachten. Eén ding is zeker, deze AI is niet in vrede gekomen.\n\nVernietig het zo snel mogelijk.</SpaceshipPartCrash>

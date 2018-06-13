@@ -57,8 +57,8 @@
 	<WanderOwnRoom.label>alleen aan het zitten</WanderOwnRoom.label>
 	<WanderOwnRoom.recoveryThought>Katharsis</WanderOwnRoom.recoveryThought>
 	<WanderOwnRoom.beginLetterLabel>Verstopppen in kamer</WanderOwnRoom.beginLetterLabel>
-	<WanderOwnRoom.beginLetter>{0} is zich aan het verstoppen in HIS kamer.</WanderOwnRoom.beginLetter>
-	<WanderOwnRoom.recoveryMessage>{0} is zich niet meer aan het verstoppen in HIS kamer.</WanderOwnRoom.recoveryMessage>
+	<WanderOwnRoom.beginLetter>{0} is zich aan het verstoppen in [PAWN_possessive] kamer.</WanderOwnRoom.beginLetter>
+	<WanderOwnRoom.recoveryMessage>{0} is zich niet meer aan het verstoppen in [PAWN_possessive] kamer.</WanderOwnRoom.recoveryMessage>
 	<WanderOwnRoom.baseInspectLine>Mentale staat: verstopen in kamer.</WanderOwnRoom.baseInspectLine>
 
 

@@ -7,7 +7,7 @@
   </rep>
   <rep>
     <path>Nudist.degreeDatas[0].description</path>
-    <trans>NAME houdt van het gevoel van vrijheid, dat HE heeft als HE naakt is. HECAP kan kleding dragen, maar zal zonder gelukkiger zijn.</trans>
+    <trans>[PAWN_nameDef] houdt van het gevoel van vrijheid, dat [PAWN_pronoun] heeft als [PAWN_pronoun] naakt is. [PAWN_pronoun] kan kleding dragen, maar zal zonder gelukkiger zijn.</trans>
   </rep>
   
   <rep>
@@ -16,7 +16,7 @@
   </rep>
   <rep>
     <path>Bloodlust.degreeDatas[0].description</path>
-    <trans>NAME krijgt een kick als HE iemand verwondt, en stoort zich niet aan de aanblik van bloed en dood.</trans>
+    <trans>[PAWN_nameDef] krijgt een kick als [PAWN_pronoun] iemand verwondt, en stoort zich niet aan de aanblik van bloed en dood.</trans>
   </rep>
   
   <rep>
@@ -25,7 +25,7 @@
   </rep>
   <rep>
     <path>Psychopath.degreeDatas[0].description</path>
-    <trans>NAME heeft geen empathisch vermogen. HECAP stoort zich ook niet aan het lijden van anderen. het maakt HIM ook niets uit of een mens geslacht wordt, verkocht wordt als slaaf of als er iemand dood op de grond ligt - tenzij HE wordt beïnvloed. HECAP krijgt ook bijna geen stemmingsboost van gesprekken met anderen.</trans>
+    <trans>[PAWN_nameDef] heeft geen empathisch vermogen. [PAWN_pronoun] stoort zich ook niet aan het lijden van anderen. het maakt [PAWN_objective] ook niets uit of een mens geslacht wordt, verkocht wordt als slaaf of als er iemand dood op de grond ligt - tenzij [PAWN_pronoun] wordt beïnvloed. [PAWN_pronoun] krijgt ook bijna geen stemmingsboost van gesprekken met anderen.</trans>
   </rep>
 	
   <rep>
@@ -34,7 +34,7 @@
   </rep>
   <rep>
     <path>Cannibal.degreeDatas[0].description</path>
-    <trans>NAME is bijgebracht dat het eten van mensenvlees verschrikkelijk is. Maar lang geleden heeft HE het geprobeerd... en HE vond het heerlijk.</trans>
+    <trans>[PAWN_nameDef] is bijgebracht dat het eten van mensenvlees verschrikkelijk is. Maar lang geleden heeft [PAWN_pronoun] het geprobeerd... en [PAWN_pronoun] vond het heerlijk.</trans>
   </rep>
 	
   <rep>
@@ -43,7 +43,7 @@
   </rep>
   <rep>
     <path>Abrasive.degreeDatas[0].description</path>
-    <trans>NAME zegt altijd wat HE denkt, vooral wanneer HE iets vervelend vindt. Dat ergert anderen meestal.</trans>
+    <trans>[PAWN_nameDef] zegt altijd wat [PAWN_pronoun] denkt, vooral wanneer [PAWN_pronoun] iets vervelend vindt. Dat ergert anderen meestal.</trans>
   </rep>
 	
   <rep>
@@ -52,7 +52,7 @@
   </rep>
   <rep>
     <path>TriggerHappy.degreeDatas[0].description</path>
-    <trans>Bam! Bam! Bam! NAME is een verschrikkelijke schieter, maar dat maakt HIM niet uit, want wapens zijn fantastisch!</trans>
+    <trans>Bam! Bam! Bam! [PAWN_nameDef] is een verschrikkelijke schieter, maar dat maakt [PAWN_objective] niet uit, want wapens zijn fantastisch!</trans>
   </rep>
 	
   <rep>
@@ -61,7 +61,7 @@
   </rep>
   <rep>
     <path>CarefulShooter.degreeDatas[0].description</path>
-    <trans>NAME is een goede schutter, maar HE doet er iets langer over om te richten.</trans>
+    <trans>[PAWN_nameDef] is een goede schutter, maar [PAWN_pronoun] doet er iets langer over om te richten.</trans>
   </rep>
 	
   <rep>
@@ -70,7 +70,7 @@
   </rep>
   <rep>
     <path>TooSmart.degreeDatas[0].description</path>
-    <trans>NAME is te slim voor zijn eigen bestwil. HECAP leert alles veel sneller dan anderen, maar kan behoorlijk egocentrisch zijn.</trans>
+    <trans>[PAWN_nameDef] is te slim voor zijn eigen bestwil. [PAWN_pronoun] leert alles veel sneller dan anderen, maar kan behoorlijk egocentrisch zijn.</trans>
   </rep>
 	
   <rep>
@@ -79,7 +79,7 @@
   </rep>
   <rep>
     <path>Brawler.degreeDatas[0].description</path>
-    <trans>NAME is een gepassioneerde vechtkunstenaar. HISCAP prestaties tijdens het vechten zijn onvergelijkbaar, maar HE wordt erg ongelukkig als HE een vuurwapen moet dragen.</trans>
+    <trans>[PAWN_nameDef] is een gepassioneerde vechtkunstenaar. [PAWN_possessive] prestaties tijdens het vechten zijn onvergelijkbaar, maar [PAWN_pronoun] wordt erg ongelukkig als [PAWN_pronoun] een vuurwapen moet dragen.</trans>
   </rep>
 	
   <rep>
@@ -88,7 +88,7 @@
   </rep>
   <rep>
     <path>Masochist.degreeDatas[0].description</path>
-    <trans>Voor NAME is pijn hebben verboden, en tegelijkertijd spannend. HECAP weet niet waarom, maar HE zit gewoon anders in elkaar.</trans>
+    <trans>Voor [PAWN_nameDef] is pijn hebben verboden, en tegelijkertijd spannend. [PAWN_pronoun] weet niet waarom, maar [PAWN_pronoun] zit gewoon anders in elkaar.</trans>
   </rep>
 	
   <rep>
@@ -97,7 +97,7 @@
   </rep>
   <rep>
     <path>Prosthophile.degreeDatas[0].description</path>
-    <trans>NAME voelt zich begrensd in HIS menselijke lichaam. HECAP droomt ervan HIS natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</trans>
+    <trans>[PAWN_nameDef] voelt zich begrensd in [PAWN_possessive] menselijke lichaam. [PAWN_pronoun] droomt ervan [PAWN_possessive] natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</trans>
   </rep>
 	
   <rep>
@@ -106,7 +106,7 @@
   </rep>
   <rep>
     <path>Prosthophobe.degreeDatas[0].description</path>
-    <trans>NAME is van mening dat het menselijk lichaam met een goede reden begrensd is. HECAP vindt bionische lichaamsdelen onethisch.</trans>
+    <trans>[PAWN_nameDef] is van mening dat het menselijk lichaam met een goede reden begrensd is. [PAWN_pronoun] vindt bionische lichaamsdelen onethisch.</trans>
   </rep>
 	
   <rep>
@@ -115,7 +115,7 @@
   </rep>
   <rep>
     <path>GreenThumb.degreeDatas[0].description</path>
-    <trans>NAME is een gepassioneerde plantenliefhebber. HECAP krijgt een betere stemming bij iedere plant die HE plant.</trans>
+    <trans>[PAWN_nameDef] is een gepassioneerde plantenliefhebber. [PAWN_pronoun] krijgt een betere stemming bij iedere plant die [PAWN_pronoun] plant.</trans>
   </rep>
 	
   <!--
@@ -125,7 +125,7 @@
   </rep>
   <rep>
     <path>AbsentMinded.degreeDatas[0].description</path>
-    <trans>NAME heeft problemen met zich op een zaak te concentrernt. Wanneer HE iets moet doen, bestaat de kleine mogenlijkheid dat HE vergeet wat he daarna zal gaan doen en nutteloos gaat rondlopen.</trans>
+    <trans>[PAWN_nameDef] heeft problemen met zich op een zaak te concentrernt. Wanneer [PAWN_pronoun] iets moet doen, bestaat de kleine mogenlijkheid dat [PAWN_pronoun] vergeet wat he daarna zal gaan doen en nutteloos gaat rondlopen.</trans>
   </rep>
   -->
 	

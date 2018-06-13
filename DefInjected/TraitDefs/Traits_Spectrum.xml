@@ -8,7 +8,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[0].description</path>
-    <trans>NAME loopt vaak achteraan bij de groep, waar HE ook heen gaat.</trans>
+    <trans>[PAWN_nameDef] loopt vaak achteraan bij de groep, waar [PAWN_pronoun] ook heen gaat.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[1].label</path>
@@ -16,7 +16,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[1].description</path>
-    <trans>NAME houdt ervan ergens heen te gaan. HECAP is sneller dan de meeste mensen.</trans>
+    <trans>[PAWN_nameDef] houdt ervan ergens heen te gaan. [PAWN_pronoun] is sneller dan de meeste mensen.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[2].label</path>
@@ -24,7 +24,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[2].description</path>
-    <trans>NAME beweegt altijd met een bepaalde urgentie. Anderen kunnen HIM vaak niet bijhouden.</trans>
+    <trans>[PAWN_nameDef] beweegt altijd met een bepaalde urgentie. Anderen kunnen [PAWN_objective] vaak niet bijhouden.</trans>
   </rep>
   
 
@@ -34,7 +34,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[0].description</path>
-    <trans>NAME is van nature vrolijker. Altijd, wat er ook gebeurt.</trans>
+    <trans>[PAWN_nameDef] is van nature vrolijker. Altijd, wat er ook gebeurt.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[1].label</path>
@@ -42,7 +42,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[1].description</path>
-    <trans>NAME van nature optimistisch. Het is moeilijk HIS stemming te krenken.</trans>
+    <trans>[PAWN_nameDef] van nature optimistisch. Het is moeilijk [PAWN_possessive] stemming te krenken.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].label</path>
@@ -50,7 +50,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].description</path>
-    <trans>NAME is van nature pessimistisch. HECAP neigt altijd de negatieve kant van het leven te zien.</trans>
+    <trans>[PAWN_nameDef] is van nature pessimistisch. [PAWN_pronoun] neigt altijd de negatieve kant van het leven te zien.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].label</path>
@@ -58,7 +58,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].description</path>
-    <trans>NAME is altijd bedroefd. HECAP heeft problemen met vrolijk blijven, zelfs als alles goed loopt.</trans>
+    <trans>[PAWN_nameDef] is altijd bedroefd. [PAWN_pronoun] heeft problemen met vrolijk blijven, zelfs als alles goed loopt.</trans>
   </rep>
 	
 	
@@ -68,7 +68,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[0].description</path>
-    <trans>NAME's wil is een ijzeren schild. HECAP gaat door, ook als anderen al lang hebben opgegeven.</trans>
+    <trans>[PAWN_nameDef]'s wil is een ijzeren schild. [PAWN_pronoun] gaat door, ook als anderen al lang hebben opgegeven.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[1].label</path>
@@ -76,7 +76,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[1].description</path>
-    <trans>NAME is mentaal zeer sterk en kan tegen stress, waar de meeste andere mensen onder bezwijken.</trans>
+    <trans>[PAWN_nameDef] is mentaal zeer sterk en kan tegen stress, waar de meeste andere mensen onder bezwijken.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].label</path>
@@ -84,7 +84,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].description</path>
-    <trans>NAME neigt ernaar onder stress te bezwijken.</trans>
+    <trans>[PAWN_nameDef] neigt ernaar onder stress te bezwijken.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].label</path>
@@ -92,7 +92,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].description</path>
-    <trans>NAME is altijd nerveus. HECAP kan onder de geringste stress bezwijken.</trans>
+    <trans>[PAWN_nameDef] is altijd nerveus. [PAWN_pronoun] kan onder de geringste stress bezwijken.</trans>
   </rep>
   
   
@@ -102,7 +102,7 @@
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[0].description</path>
-    <trans>NAME vindt het leuk als alles gedaan is. HECAP zal harder werken dan anderen om HIS status te behouden. HIS zenuwen kunnen het betere van HIM maken.</trans>
+    <trans>[PAWN_nameDef] vindt het leuk als alles gedaan is. [PAWN_pronoun] zal harder werken dan anderen om [PAWN_possessive] status te behouden. [PAWN_possessive] zenuwen kunnen het betere van [PAWN_objective] maken.</trans>
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[1].label</path>
@@ -110,7 +110,7 @@
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[1].description</path>
-    <trans>NAME is altijd nerveus als er dingen niet gedaan zijn. HECAP werkt veel harder dan anderen om dingen af te krijgen, maar HE is daardoor ook snel op zijn tenen getrapt.</trans>
+    <trans>[PAWN_nameDef] is altijd nerveus als er dingen niet gedaan zijn. [PAWN_pronoun] werkt veel harder dan anderen om dingen af te krijgen, maar [PAWN_pronoun] is daardoor ook snel op zijn tenen getrapt.</trans>
   </rep>
   
   
@@ -120,7 +120,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[0].description</path>
-    <trans>NAME laat zich niet afleiden is daardoor veel sneller klaar met HIS klussen.</trans>
+    <trans>[PAWN_nameDef] laat zich niet afleiden is daardoor veel sneller klaar met [PAWN_possessive] klussen.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].label</path>
@@ -128,7 +128,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].description</path>
-    <trans>NAME is van nature een harde werker is sneller klaar met HIS klussen dan de meeste anderen.</trans>
+    <trans>[PAWN_nameDef] is van nature een harde werker is sneller klaar met [PAWN_possessive] klussen dan de meeste anderen.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].label</path>
@@ -136,7 +136,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].description</path>
-    <trans>NAME is een beetje traag.</trans>
+    <trans>[PAWN_nameDef] is een beetje traag.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[3].label</path>
@@ -144,7 +144,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[3].description</path>
-    <trans>NAME houdt ervan om lui rond te hangen en is niet zo productief. HECAP beweegt zich langzaam en laat zich makkelijk afleiden.</trans>
+    <trans>[PAWN_nameDef] houdt ervan om lui rond te hangen en is niet zo productief. [PAWN_pronoun] beweegt zich langzaam en laat zich makkelijk afleiden.</trans>
   </rep>
   
   
@@ -154,7 +154,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[0].description</path>
-    <trans>NAME's hersenen zijn als een hooggevoelige emotionele antenne. HECAP is zeer gevoelig voor psychische fenomenen.</trans>
+    <trans>[PAWN_nameDef]'s hersenen zijn als een hooggevoelige emotionele antenne. [PAWN_pronoun] is zeer gevoelig voor psychische fenomenen.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[1].label</path>
@@ -162,7 +162,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[1].description</path>
-    <trans>NAME is buitengewoon gevoelig voor psychische fenomenen.</trans>
+    <trans>[PAWN_nameDef] is buitengewoon gevoelig voor psychische fenomenen.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[2].label</path>
@@ -170,7 +170,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[2].description</path>
-    <trans>NAME is psychisch afgestompt in vergelijking met anderen. HECAP is niet bijzonder gevoelig voor psychische fenomenen.</trans>
+    <trans>[PAWN_nameDef] is psychisch afgestompt in vergelijking met anderen. [PAWN_pronoun] is niet bijzonder gevoelig voor psychische fenomenen.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[3].label</path>
@@ -178,7 +178,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[3].description</path>
-    <trans>NAME's hersenen werken op een andere frequentie dan anderen. HECAP wordt niet beinvloed door psychische fenomenen.</trans>
+    <trans>[PAWN_nameDef]'s hersenen werken op een andere frequentie dan anderen. [PAWN_pronoun] wordt niet beinvloed door psychische fenomenen.</trans>
   </rep>
 	
 </LanguageData>

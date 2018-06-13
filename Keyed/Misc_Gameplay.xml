@@ -219,7 +219,7 @@
   <!-- Cryptosleep pod -->
   <PodContains>Bevat</PodContains>
   <CasketUnknownContents>Onbekend</CasketUnknownContents>
-  <CasketWarning>Pas op!\n\nNAME is je laatste nog in leven verkerende kolonist! Als je HIM in de capsule laat stappen, kan je mischien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
+  <CasketWarning>Pas op!\n\n[PAWN_nameDef] is je laatste nog in leven verkerende kolonist! Als je [PAWN_objective] in de capsule laat stappen, kan je mischien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Kan niet starten.</ShipReportCannotLaunch>

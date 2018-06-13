@@ -35,7 +35,7 @@
   <Birthday>{0} is jarig vandaag! {1} is {2} geworden.</Birthday>
   <BirthdayWithInjuries>{0} is jarig vandaag! {1} is {2} geworden.\n\nHelaas heeft {0} vanwege zijn ouderdom de volgende kwalen opgelopen:\n{3}</BirthdayWithInjuries>
   
-  <NewDisease>{0} is ziek geworden({1}). Zorg ervoor dat {0} een goed behandeld wordt en zo lang mogelijk in bed blijft, zodat HE snel kan herstellen.</NewDisease>
-  <NewPartDisease>{0} heeft een {1}-infectie opgelopen. Zorg ervoor dat je een ziekenbed en een dokter hebt. {0} moet goed behandeld worden en zo lang mogelijk in bed blijven, zodat HE snel kan herstellen.</NewPartDisease>
+  <NewDisease>{0} is ziek geworden({1}). Zorg ervoor dat {0} een goed behandeld wordt en zo lang mogelijk in bed blijft, zodat [PAWN_pronoun] snel kan herstellen.</NewDisease>
+  <NewPartDisease>{0} heeft een {1}-infectie opgelopen. Zorg ervoor dat je een ziekenbed en een dokter hebt. {0} moet goed behandeld worden en zo lang mogelijk in bed blijven, zodat [PAWN_pronoun] snel kan herstellen.</NewPartDisease>
   
 </LanguageData>

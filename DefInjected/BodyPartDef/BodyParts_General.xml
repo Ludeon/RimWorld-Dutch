@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>Hersenen</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>TODO</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>TODO</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>TODO</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>Hoofd</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>Kaak</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>TODO</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>Nek</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>Neus</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>TODO</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>Schedel</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>Ruggengraat</Spine.label>
+  
+</LanguageData>

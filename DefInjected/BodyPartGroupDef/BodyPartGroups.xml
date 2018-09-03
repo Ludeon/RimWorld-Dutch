@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arms -->
+  <Arms.label>Armen</Arms.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>TODO</Beak.label>
+  
+  <!-- UNUSED -->
+  <CoveredByNaturalArmor.label>Bedekt met natuurlijke bepantsering</CoveredByNaturalArmor.label>
+  
+  <!-- EN: eyes -->
+  <Eyes.label>Ogen</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>Voeten</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>Linker klauw (voorkant)</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>Linker voorbeen</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>Linker voorpoot</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>Rechter klauw (voorkant)</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>Rechter voorbeen</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>Rechter voorpoot</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>Volledig hoofd</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>Handen</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>Hoofd</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>TODO</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>Hoorn</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>TODO</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  
+  <!-- UNUSED -->
+  <LeftFist.label>Linker vuist</LeftFist.label>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>TODO</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  
+  <!-- UNUSED -->
+  <LeftKnifeProtrusion.label>Linker mesuitsteeksel</LeftKnifeProtrusion.label>
+  
+  <!-- EN: legs -->
+  <Legs.label>Benen</Legs.label>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>Mond</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>TODO</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>TODO</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  
+  <!-- UNUSED -->
+  <RightFist.label>Rechter vuist</RightFist.label>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>TODO</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>TODO</RightHand.labelShort>
+  
+  <!-- UNUSED -->
+  <RightKnifeProtrusion.label>Rechter mesuitsteeksel</RightKnifeProtrusion.label>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>TODO</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>Tanden</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>Torso</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>Bek</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>Slagtand</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>Voorhoofd</UpperHead.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>TODO</Waist.label>
+  
+</LanguageData>

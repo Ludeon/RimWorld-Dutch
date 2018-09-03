@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>Richttijd</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>Hoelang het richten duurt, voordat er geschoten wordt.</AimingDelayFactor.description>
+  
+  <!-- UNUSED -->
+  <HitChanceFactor.label>Trefwaarschijnlijkheidsfactor in vuurgevecht</HitChanceFactor.label>
+  <HitChanceFactor.description>Negatieve waarden reduceren accuratie, positieve waarden reduceren miskans.</HitChanceFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>TODO</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>TODO</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
+  <MeleeDPS.label>TODO</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description>TODO</MeleeDPS.description>
+  
+  <!-- EN: melee hit chance -->
+  <MeleeHitChance.label>Trefwaarschijnlijkheid in een vuistgevecht</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>De basiswaarschijnlijkheid iets te raken in een vuistgevecht.</MeleeHitChance.description>
+  
+  <!-- UNUSED -->
+  <MeleeHitChanceFactor.label>Raakfactor in vuistgevecht</MeleeHitChanceFactor.label>
+  <MeleeHitChanceFactor.description>Negatieve waarden reduceren de accuratie, positieve waarden reduceren de miskans</MeleeHitChanceFactor.description>
+  
+  <!-- UNUSED -->
+  <ShootingAccuracy.label>Trefwaarschijnlijkheid vuurgevecht</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Basiskans niet te missen per vierkant van de geschoten afstand.</ShootingAccuracy.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
+  
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>TODO</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>TODO</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>TODO</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>TODO</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>TODO</Proits>
+  <!-- EN: his -->
+  <Prohis>zijn</Prohis>
+  <!-- EN: her -->
+  <Proher>haar</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>TODO</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>Zijn</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>Haar</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>TODO</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>hem</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>haar</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>TODO</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>Hem</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Haar</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>hij</Prohe>
+  <!-- EN: she -->
+  <Proshe>zij</Proshe>
+  <!-- EN: it -->
+  <Proit>TODO</Proit>
+  <!-- EN: He -->
+  <ProheCap>Hij</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Zij</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>TODO</ProitCap>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <MakeCowboyHat.label>Maak een cowboyhoed</MakeCowboyHat.label>
+  <MakeCowboyHat.description>Maak een cowboyhoed.</MakeCowboyHat.description>
+  <MakeCowboyHat.jobString>Cowboyhoed maken.</MakeCowboyHat.jobString>
+  
+  <!-- UNUSED -->
+  <MakePants.label>Maak broek</MakePants.label>
+  <MakePants.description>Maak een broek.</MakePants.description>
+  <MakePants.jobString>Broek maken.</MakePants.jobString>
+  
+  <!-- UNUSED -->
+  <MakeShirt.label>Maak t-shirt</MakeShirt.label>
+  <MakeShirt.description>Maak een t-shirt.</MakeShirt.description>
+  <MakeShirt.jobString>T-shirt maken.</MakeShirt.jobString>
+  
+</LanguageData>

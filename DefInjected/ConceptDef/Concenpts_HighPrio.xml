@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Capturing.helpTexts.1>Om iemand gevangen te nemen kies je een kolonist uit en klik je met je rechtermuisknop op de vijand en kies je "gevangen nemen".\n\nJe hebt een bed in gevangenismodus nodig.</Capturing.helpTexts.1>
+  
+  <!-- UNUSED -->
+  <Drafting.helpTexts.1>Kolonisten mit gezogener Waffe machen nur das, was du ihnen sagst und k�nnen nur k�mpfen. Kolonisten mit Waffen benutzen diese auch.\n\nLasse Kolonisten nicht f�r immer mit gezogener Waffe herumlaufen - Sie werden ungl�cklich und verhungern.</Drafting.helpTexts.1>
+  
+  <!-- UNUSED -->
+  <ReadingAlerts.helpText>Wenn du nicht wei�t, was du tun sollst, schau auf die ALARME am rechten Bildschirmrand.</ReadingAlerts.helpText>
+  
+  <!-- UNUSED -->
+  <StorageTabCategories.helpText>Im Reiter 'Lager' kannst du die Kategorien erweitern und bestimmte Gegenst�nde erlauben oder verbieten. Klicke auf die Dreiecke links neben den Kategorienamen.</StorageTabCategories.helpText>
+  
+  <!-- UNUSED -->
+  <WorkOverview.helpText>Du kannst in der �BERSICHT rechts unten einstellen, als was die Kolonisten arbeiten sollen.\n\nSie machen immer die Aufgabe mit der h�chsten Priorit�t die sie finden k�nnen.</WorkOverview.helpText>
+  <WorkOverview.helpTexts.1>Kolonisten machen nur die Arbeit, die ihnen zugewiesen ist.\n\nWenn einem bestimmten Arbeitstyp niemand zugewiesen ist, wird dabei nie etwas fertig!</WorkOverview.helpTexts.1>
+  
+</LanguageData>

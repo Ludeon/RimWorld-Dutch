@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blue carpet -->
+  <CarpetBlue.label>Blauw tapijt</CarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description>Hoogpolig tapijt in een koele blauwe kleur.</CarpetBlue.description>
+  
+  <!-- EN: cream carpet -->
+  <CarpetCream.label>TODO</CarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <CarpetCream.description>TODO</CarpetCream.description>
+  
+  <!-- EN: dark carpet -->
+  <CarpetDark.label>TODO</CarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <CarpetDark.description>TODO</CarpetDark.description>
+  
+  <!-- EN: green carpet -->
+  <CarpetGreen.label>Groen tapijt</CarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Een natuurlijk groen tapijt.</CarpetGreen.description>
+  
+  <!-- EN: red carpet -->
+  <CarpetRed.label>Rood tapijt</CarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Hoogpolig tapijt in een mooie rozen rode tint.</CarpetRed.description>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>Beton</Concrete.label>
+  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>Snel gestort beton. Snel om op te lopen, maar heel lelijk. Je moet in staat zijn om te graven in de grond om deze te kunnen gieten.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>TODO</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>TODO</GoldTile.description>
+  
+  <!-- EN: metal tile -->
+  <MetalTile.label>Metalen tegel</MetalTile.label>
+  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Metalen tegels, voor dat ruimteschip look.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>Beton platen</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Utilitair betontegels. Snel om op te bewegen, maar niet erg mooi.</PavedTile.description>
+  
+  <!-- UNUSED -->
+  <RoughHewnRock.label>Ruw gehakte steen</RoughHewnRock.label>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>TODO</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>TODO</SilverTile.description>
+  
+  <!-- UNUSED -->
+  <SmoothStone.label>Gladde steen</SmoothStone.label>
+  <SmoothStone.description>Gladgestreken natuursteen. Snel om op te lopen en mooi om naar te kijken.</SmoothStone.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>TODO</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>TODO</SterileTile.description>
+  
+  <!-- UNUSED -->
+  <StoneTile.label>Stenen tegel</StoneTile.label>
+  <StoneTile.description>Massieve stenen tegels voor een kasteel gevoel.</StoneTile.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>Houten vloer</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Houten plankenvloeren. Maak een gezellige en huiselijke ruimte.</WoodPlankFloor.description>
+  
+</LanguageData>

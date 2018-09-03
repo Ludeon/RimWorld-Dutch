@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>Steppe</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Een warm, droog gebied, maar niet genoeg om tot een woestijn te worden benoemd. Grote open vlaktes bedekt met gras, onderbroken door hier en daar een bosje. Alleen geharde planten overleven het hier en er zijn redelijk wat dieren in de omgeving.</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>Woestijn</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Een zeer droog en heet gebied, waar erg weinig dieren en planten zijn.</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>Extreme woestijn</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Een extreem droog en heet gebied, waar nauwelijks dieren zijn. De immense hitte en zeldzame planten maken het erg moeilijk om hier te overleven, zelfs voor goed aangepaste dieren.</ExtremeDesert.description>
+  
+</LanguageData>

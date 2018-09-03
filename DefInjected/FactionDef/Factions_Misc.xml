@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>Vreemdeling dorp</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>Een kleine gemeenschap van overlevers.\n\nDeze mensen hebben hier enkele tientallen jaren geleefd. Ze hebben bijna alle technologieën die hen hier hebben gebracht verloren en werken meestal met simpele mechanischegereedschappen en gebouwen. Ze verdedigen zich met geavanceerde wapens uit het buskruit-tijdperk.\n\nVan nature zijn ze niet aggresief of zwak, maar voornamelijk geintereseerd in handel, vertrouwen en overleven.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>TODO</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>TODO</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>Vreemdelingen</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>TODO</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>TODO</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>TODO</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>TODO</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>TODO</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate band -->
+  <Pirate.label>Piraten groep</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Een groep bandieten.\n\nBandieten verbouwen geen voedsel, bouwen niet en handelen bijna nooit. Ze verrijken zich voornamelijk door het beroven van de productievere dorpen in de omgeving.\n\nHet niveau van hun technologie hangt af van wie ze recentelijk hebben bestolen. Hun wapens zijn voornamelijk uit het buskruit-tijdperk, hoewel sommige liever met messen spelen en anderen het geluk hebben om geavanceerde wapens te bezitten.</Pirate.description>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>TODO</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>Piraten</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>Volksstam</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>Deze volksstammen zijn hier al heel lang. Misschien dat hun voorouders hier, duizende jaren geleden, geland zijn. Misschien dat ze een natuurramp hebben overleefd die een andere volksstam, die wel over technologische kennis beschikte, heeft uitgeroeid. Hoe dan ook, deze volksstammen zijn voornamelijk nomadische, en ze leven van het land en gebruiken primitieve gereedschappen en wapens.\n\nSommige stammen zijn aggresiever dan anderen, maar de meeste staan open voor handel en allianties, zelfs met vreemdelingen zoals jij. Nauwe samenwerking en werving wordt wel bemoeilijkt vanwege de technologische kennis en taal-verschillen tussen  de stammen en je eigen kolonisten.\n\nOndankts hun zichtbare technologische zwakte zijn de stammen gevaarlijke vijanden of waardevolle vrienden vanwege hun vaardigheid in simpele oorlogvoering, hun nummers, en hun gehardheid.</TribeCivil.description>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>TODO</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>Stamleden</TribeCivil.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeRough.label>TODO</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>TODO</TribeRough.description>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>TODO</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>TODO</TribeRough.pawnsPlural>
+  
+</LanguageData>

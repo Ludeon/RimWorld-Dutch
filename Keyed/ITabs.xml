@@ -1,90 +1,302 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
+  <!-- EN: Bills -->
   <TabBills>Opdracht</TabBills>
+  <!-- EN: Growing -->
   <TabGrowing>Landbouw</TabGrowing>
+  <!-- EN: Bio -->
   <TabCharacter>Karakter</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>TODO</TabTraining>
+  <!-- EN: Prisoner -->
   <TabPrisoner>Gevangene</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>TODO</TabGuest>
+  <!-- EN: Gear -->
   <TabGear>Spullen</TabGear>
-  <TabThoughts>Gedachten</TabThoughts>
+  <!-- EN: Needs -->
+  <TabNeeds>TODO</TabNeeds>
+  <!-- EN: Storage -->
   <TabStorage>Opslag</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>TODO</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Lichaam</TabHealth>
+  <!-- EN: Race -->
   <TabRace>Ras</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Basics</TabBasics>
+  <!-- EN: Stats -->
   <TabStats>Stats</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>TODO</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>TODO</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>TODO</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>TODO</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>TODO</TabTransporterContents>
 
-  
   <!-- Bills tab  -->
+  <!-- EN: Add bill -->
   <AddBill>Opdracht toev.</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Het recept {0} vereist de onderstaande vaardigheden. Geen van je kolonisten heeft deze vaardigheden, dus zal niemand deze opdracht uitvoeren.</RecipeRequiresSkills>
-  <BillConfig>Config</BillConfig>
+  <!-- EN: Min skill -->
+  <MinimumSkill>TODO</MinimumSkill>
+  <!-- EN: SUSPENDED -->
   <SuspendedCaps>OPGESCHORT</SuspendedCaps>
+  <!-- EN: Worker: {0} -->
+  <BoundWorkerIs>TODO</BoundWorkerIs>
+  <!-- EN: Plant -->
   <PlantVerb>Plant</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>TODO</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>TODO</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>TODO</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>TODO</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
 
-
-  <!-- Prisoner tab -->
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Recruterings basisniveau</RecruitmentDifficulty>
-  <PrisonerGetsFood>Krijgt eten</PrisonerGetsFood>
+  <!-- EN: Gets food -->
+  <GetsFood>TODO</GetsFood>
+  <!-- EN: Doctors care -->
   <DoctorsCare>Wordt verzorgd</DoctorsCare>
-  <PrisonerGetsMedicine>Krijgt medicijnen</PrisonerGetsMedicine>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>TODO</GetsMedicine>
+  <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Probeer te recruteren</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>TODO</ConsideredGuilty>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Bewegingssnelheid</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Efficiëntie</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>TODO</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Ontbreekt</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Vernietigd</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Versplinterd</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Verwijderd</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Gezond</Healthy>
+  <!-- EN: In pain -->
+  <InPain>In Pijn</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Pijn</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Gewond</Injured>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>TODO</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Hele lichaam</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Dataverwerking</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Communicatie</Communication>
+  <!-- EN: Affects -->
+  <Affects>TODO</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Hoeveelheid bloed</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>TODO</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>TODO</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Overzicht</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operaties ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Aanpassingen ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Medische operaties</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>Amputeer</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>TODO</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>TODO</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>TODO</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>TODO</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>TODO</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>TODO</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>TODO</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>TODO</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>TODO</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>TODO</SelfTendTip>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>Geen</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Erg slecht</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Slecht</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Verzwakt</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>OK</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Verbeterd</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Extreem hinderlijk</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Hinderlijk</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Licht hinderlijk</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Geen</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Een beetje</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Gemiddeld</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Veel</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Extreem veel</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>TODO</Trainability>
+  <!-- EN: Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough>TODO</CannotTrainNotSmartEnough>
+  <!-- EN: {0} is too small to train this. -->
+  <CannotTrainTooSmall>TODO</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>TODO</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>TODO</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>TODO</Kidnapped>
+  <!-- EN: Missing -->
+  <Missing>TODO</Missing>
+  <!-- EN: Slave -->
+  <Slave>TODO</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>TODO</FactionLeader>
+  <!-- EN: Opinion of {0} -->
+  <OpinionOf>TODO</OpinionOf>
+  <!-- EN: {0}'s opinion of me -->
+  <SomeonesOpinionOfMe>TODO</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>TODO</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>TODO</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>TODO</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>TODO</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>TODO</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>TODO</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>TODO</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>TODO</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>TODO</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>TODO</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>TODO</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>TODO</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>TODO</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>TODO</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>TODO</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>TODO</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>TODO</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>TODO</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+
+  <!-- UNUSED -->
+  <TabThoughts>Gedachten</TabThoughts>
+  <BillConfig>Config</BillConfig>
+  <PrisonerGetsFood>Krijgt eten</PrisonerGetsFood>
+  <PrisonerGetsMedicine>Krijgt medicijnen</PrisonerGetsMedicine>
   <PrisonerNoInteraction>Geen interactie</PrisonerNoInteraction>
   <PrisonerFriendlyChat>Vriendelijk praatje</PrisonerFriendlyChat>
   <PrisonerRelease>Vrijlaten</PrisonerRelease>
   <PrisonerExecution>Executeren</PrisonerExecution>
-
-
-  <!-- Medical - general -->
-  <MoveSpeed>Bewegingssnelheid</MoveSpeed>
-  <Efficiency>Efficiëntie</Efficiency>
-  <MissingBodyPart>Ontbreekt</MissingBodyPart>
-  <DestroyedBodyPart>Vernietigd</DestroyedBodyPart>
-  <ShatteredBodyPart>Versplinterd</ShatteredBodyPart>
-  <RemovedBodyPart>Verwijderd</RemovedBodyPart>
-  <Healthy>Gezond</Healthy>
-  <InPain>In Pijn</InPain>
-  <PainLevel>Pijn</PainLevel>
-  <Dead>Dood</Dead>
-  <Unconscious>Bewusteloos</Unconscious>
-  <PainShock>In shock</PainShock>
-  <Injured>Gewond</Injured>
   <NoInjuries>(geen verwondingen)</NoInjuries>
-  <WholeBody>Hele lichaam</WholeBody>
-  <DataProcessing>Dataverwerking</DataProcessing>
-  <Communication>Communicatie</Communication>
   <AffectsLower>beïnvloedt</AffectsLower>
-  <BleedingRate>Hoeveelheid bloed</BleedingRate>
-  <HealthOverview>Overzicht</HealthOverview>
-  <MedicalOperationsShort>Operaties ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Aanpassingen ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Medische operaties</MedicalOperations>
-  <Amputate>Amputeer</Amputate>
   <Harvest>Oogst</Harvest>
-  
-  
-
-  <!-- Medical - Body and activities condition -->
-  <None>Geen</None>
-  <VeryPoor>Erg slecht</VeryPoor>
-  <Poor>Slecht</Poor>
-  <Weakened>Verzwakt</Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>Verbeterd</Enhanced>
-  <SeriouslyImpaired>Extreem hinderlijk</SeriouslyImpaired>
-  <Impaired>Hinderlijk</Impaired>
-  <SlightlyImpaired>Licht hinderlijk</SlightlyImpaired>
-  <NoPain>Geen</NoPain>
-  <LittlePain>Een beetje</LittlePain>
-  <MediumPain>Gemiddeld</MediumPain>
-  <SeverePain>Veel</SeverePain>
-  <ExtremePain>Extreem veel</ExtremePain>
-
-
-
-
-
-
-
 
 </LanguageData>

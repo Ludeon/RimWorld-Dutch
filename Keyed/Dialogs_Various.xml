@@ -1,186 +1,850 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Confirm -->
   <Confirm>Bevestigen</Confirm>
+  <!-- EN: Go back -->
   <GoBack>Terug</GoBack>
+  <!-- EN: OK -->
   <OK>OK</OK>
-
+  <!-- EN: Close -->
+  <Close>TODO</Close>
+  
   <!-- Game updated to new version -->
-  
+  <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>Rimworld is van versie {0} naar Versie {1} geupdate. \n\nHierdoor kan het zijn dat mods en scores niet meer functioneren</GameUpdatedToNewVersionInitial>
+  <!-- EN: This may cause saved games and mods from the old version to stop working. -->
+  <GameUpdatedToNewVersionSavesIncompatible>TODO</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
+  <GameUpdatedToNewVersionSavesCompatible>TODO</GameUpdatedToNewVersionSavesCompatible>
+  <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Aangezien dit de DRM-vrije versie is, kun je het spel in 2 verschillende mappen installeren en dus de oude en de nieuwe versie spelen</GameUpdatedToNewVersionNonSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
   <GameUpdatedToNewVersionSteam>Als u wilt doorgaan met het spelen op de oude versie , dan kunt u dit op te doen met de ' Beta ' kenmerk van Steam niet . \n\n 1. In uw Steam bibliotheek , klikt u op de rechter muisknop op ' RimWorld '. \n 2. Klik op ... eigenschappen \n 3. Klik op het tabblad ' bèta ' \n 4. Kies de versie die u wilt \n\nOude versies worden uiteindelijk geschrapt - We willen toestaan ​​dat een lopende game klaar is met afspelen \ n \ nAls mod auteurs hun mods te werken naar de nieuwe versie, dan functioneert de mod waarschijnlijk niet meer in een oude versie. Als je wilt spelen met een mod, moet je automatisch updaten uitzetten.</GameUpdatedToNewVersionSteam>
+  
   <!-- Recovered from errors caused by mods -->
-  
+  <!-- EN: Recovered from incompatible or corrupted mods errors -->
   <RecoveredFromErrorsDialogTitle>Game hersteld als gevolg van fouten van incompatibele of corrupte mods</RecoveredFromErrorsDialogTitle>
+  <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
   <RecoveredFromErrorsText>Het lijkt erop dat een aantal actieve mods tot fouten lijd.\n\nZe zijn gemaakt voor een andere versie van Rimworld, of beschadigd. Alle mods zijn uitgeschakelt, maar je kan in het dialoogvenster Mod de mods weer inschakelen.</RecoveredFromErrorsText>
-
+  
   <!-- Errors during loading -->
-  
+  <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>Fout bij het laden component</ErrorWhileLoadingAssetsTitle>
+  <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>Bij laden van spel componenten zijn fouten opgetreden. Zie het logbestand voor aanvullende informatie </ErrorWhileLoadingAssets>
+  <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
   <ErrorWhileLoadingAssets_ModsInfo>Het spel is momenteel actief met modificaties - Zij kunnen de oorzaak van het probleem zijn.</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>Fout bij het maken kaart</ErrorWhileGeneratingMapTitle>
+  <!-- EN: An error occurred while generating a new map. See error log for more information. -->
   <ErrorWhileGeneratingMap>Bij het genereren van een nieuwe kaart was een fout. Zie het logbestand voor aanvullende informatie te krijgen .</ErrorWhileGeneratingMap>
+  <!-- EN: Error while loading a map -->
   <ErrorWhileLoadingMapTitle>Mislukt om de kaart te laden</ErrorWhileLoadingMapTitle>
+  <!-- EN: An error occurred while loading a map. See error log for more information. -->
   <ErrorWhileLoadingMap>Bij het laden van de kaart is een fout opgetreden. Zie het logbestand voor aanvullende informatie</ErrorWhileLoadingMap>
-
   
-   <!-- Unloaded mod with an assembly -->
-   
-  <ModWithAssemblyWasUnloaded>Het spel kan niet volledig de code van de modificatie ontladen. Het kan dus nog zijn dat de mod nog steeds actief is.\n\n Het wordt aangeraden om het spel opnieuw op te starten, zodat de mods schoon geladen zijn</ModWithAssemblyWasUnloaded>
+  <!-- Unloaded mod with an assembly -->
+  <!-- EN: The mod list has changed. The game will now restart automatically. -->
+  <ModsChanged>TODO</ModsChanged>
+  <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
+  <FailedToRestart>TODO</FailedToRestart>
+  <!-- EN: Restarting -->
+  <Restarting>TODO</Restarting>
   
   <!-- Missing Steam -->
-  
+  <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
   <SteamClientMissing>Kann die Steam API nicht initialisieren. Mögliche Ursachen:\n\n-Steam läuft nicht.\n-Wurde außerhalb von Stema gestartet, ohne dass eine steam_appid.txt vorhanden ist.\n-Wurden mit unterschiedlichen Berechtigungen zum Steam-Client gestartet (z.B. "als Administrator").\n\nIn den meissten Fällen hilft es, den Computer neu zu starten um dieses Problem zu beheben.\n\nDiese Steam Version des Spieles benötigt Steam und wird jetzt beendet.</SteamClientMissing>
   
   <!-- Long events -->
-
+  <!-- EN: Initializing interface -->
   <InitializingInterface>initialiseren oppervlak</InitializingInterface>
+  <!-- EN: Unloading unused assets -->
   <UnloadingUnusedAssets>Verwijderen ongebruikte componenten</UnloadingUnusedAssets>
+  <!-- EN: Loading all active mods -->
   <LoadingAllActiveMods>Alle actieve mods laden</LoadingAllActiveMods>
+  <!-- EN: Loading defs -->
   <LoadingDefs>Laden defs</LoadingDefs>
+  <!-- EN: Loading assets -->
   <LoadingAssets>Laden Componenten</LoadingAssets>
+  <!-- EN: Initializing -->
   <Initializing>initialiseren</Initializing>
+  <!-- EN: Loading world -->
   <LoadingWorld>Laden wereld</LoadingWorld>
+  <!-- EN: Loading map -->
   <LoadingMap>Laden kaart</LoadingMap>
-  <InitializingMap>Initialiseren map</InitializingMap>
+  <!-- EN: Initializing game -->
+  <InitializingGame>TODO</InitializingGame>
+  <!-- EN: Spawning things -->
   <SpawningAllThings>Maken voorwerpen</SpawningAllThings>
-
+  <!-- EN: Spawning colonists -->
+  <SpawningColonists>TODO</SpawningColonists>
+  
   <!-- Save/load -->
+  <!-- EN: Save -->
   <SaveGameButton>Opslaan</SaveGameButton>
+  <!-- EN: Load -->
+  <LoadGameButton>Laad</LoadGameButton>
+  <!-- EN: Overwrite -->
   <OverwriteButton>Overschrijven</OverwriteButton>
-  <LoadGameButton>Laad</LoadGameButton>
-  <LoadGameButton>Laad</LoadGameButton>
+  <!-- EN: Really delete {0}? -->
   <ConfirmDelete>Weet je zeker dat je {0} wil verwijderen??</ConfirmDelete>
+  <!-- EN: Delete this savegame. -->
   <DeleteThisSavegame>Verwijder dit spelbestand.</DeleteThisSavegame>
+  <!-- EN: Saved as {0}. -->
   <SavedAs>Spel als {0} opgeslagen.</SavedAs>
+  <!-- EN: Please enter a name. -->
   <NeedAName>Geef alsjeblieft een naam op.</NeedAName>
+  <!-- EN: Loading -->
   <LoadingLongEvent>Laden...</LoadingLongEvent>
+  <!-- EN: Saving -->
+  <SavingLongEvent>TODO</SavingLongEvent>
+  <!-- EN: (Permadeath) -->
+  <PermadeathModeSaveSuffix>TODO</PermadeathModeSaveSuffix>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
+  <SaveIsFromDifferentGameVersion>TODO</SaveIsFromDifferentGameVersion>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
+  <SaveIsFromDifferentGameBuild>TODO</SaveIsFromDifferentGameBuild>
+  <!-- EN: Save data was saved with our game version and should work without issue. -->
+  <SaveIsFromThisGameBuild>TODO</SaveIsFromThisGameBuild>
+  <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
+  <SaveIsUnknownFormat>TODO</SaveIsUnknownFormat>
+  <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
+  <ProblemSavingFile>TODO</ProblemSavingFile>
+  <!-- EN: Load anyway -->
+  <LoadAnyway>TODO</LoadAnyway>
+  <!-- EN: Load mod list from save -->
+  <ChangeLoadedMods>TODO</ChangeLoadedMods>
+  <!-- EN: Some mods are unavailable, and need to be installed -->
+  <MissingMods>TODO</MissingMods>
+  
+  <!-- Player faction naming -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage>TODO</NamePlayerFactionMessage>
+  <!-- EN: Your faction is now known as {0}. -->
+  <PlayerFactionGainsName>TODO</PlayerFactionGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionNameIsInvalid>TODO</PlayerFactionNameIsInvalid>
 
-  <!-- Colony naming-->
-  <NameColonyMessage>Iedereen weet dat jullie hier niet lang willen blijven. Maar {0} vindt, dat de kolonie alsnog een naam moet krijgen.\n\nHoe moet hij heten?</NameColonyMessage>
-  <ColonyGainsName>De kolonie staat nu bekend als {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Deze naam is ongeldig.</ColonyNameIsInvalid>
-
-  <!-- Zone naming -->
+  <!-- Player faction base naming -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
+  <NamePlayerFactionBaseMessage>TODO</NamePlayerFactionBaseMessage>
+  <!-- EN: This community is now known as {0}. -->
+  <PlayerFactionBaseGainsName>TODO</PlayerFactionBaseGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid>TODO</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>TODO</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
+  <PlayerFactionAndBaseGainsName>TODO</PlayerFactionAndBaseGainsName>
+  
+  <!-- Renaming -->
+  <!-- EN: Please enter a valid name. -->
+  <NameIsInvalid>TODO</NameIsInvalid>
+  <!-- EN: Name is already in use. -->
+  <NameIsInUse>TODO</NameIsInUse>
+  <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>De zone heet nu {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Deze naam is ongeldig.\n\nGeef alsjeblieft een goede naam op.</ZoneNameIsInvalid>
   
   <!-- Pawn naming -->
+  <!-- EN: This person's nickname is now {0}. [PAWN_possessive] title is {1}. -->
   <PawnGainsName>Deze kolonist luistert nu naar de naam {0}.</PawnGainsName>
-  
+  <!-- EN: The animal's name is now {0}. -->
+  <AnimalGainsName>TODO</AnimalGainsName>
+
   <!-- Save game incompatible warning -->
-    <SaveGameIncompatibleWarningText>Verkeerde versie: de kaart is met versie {0} opgeslagen, maar je speelt op versie {1}.\n\n Het laden van dit spel zal er waarschijnlijk voor zorgen dat het kapot gaat.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Het spelbestand is incompitabel</SaveGameIncompatibleWarningTitle>
-  
+  <!-- EN: Version mismatch -->
+  <VersionMismatch>TODO</VersionMismatch>
+  <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
+  <SaveGameIncompatibleWarningText>Verkeerde versie: de kaart is met versie {0} opgeslagen, maar je speelt op versie {1}.\n\n Het laden van dit spel zal er waarschijnlijk voor zorgen dat het kapot gaat.</SaveGameIncompatibleWarningText>
+  <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
+  <WorldFileVersionMismatch>TODO</WorldFileVersionMismatch>
+  <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
+  <FileIncompatibleWarning>TODO</FileIncompatibleWarning>
+  <!-- EN: Mods mismatch -->
+  <ModsMismatchWarningTitle>TODO</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <ModsMismatchWarningText>TODO</ModsMismatchWarningText>
+
   <!-- Resolution change dialog -->
+  <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
   <ConfirmResolutionChange>Je hebt de resolutie verandert. Is dat de bedoeling??\n\nHet scherm wordt automatisch teruggezet in {0}...</ConfirmResolutionChange>
+  <!-- EN: Keep -->
   <ResolutionKeep>Behouden</ResolutionKeep>
+  <!-- EN: Revert -->
   <ResolutionRevert>Terugzetten</ResolutionRevert>
-  
-  <!-- Overview -->
-  <OverviewOf>Overzicht van {0}</OverviewOf>
-  
+
+  <!-- Confirm permanently disable dev mode -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
+  <ConfirmPermanentlyDisableDevMode>TODO</ConfirmPermanentlyDisableDevMode>
+
   <!-- Research -->
+  <!-- EN: Research -->
   <Research>Onderzoek</Research>
+  <!-- EN: Researched -->
   <Researched>Onderzocht</Researched>
+  <!-- EN: Unresearched -->
   <Unresearched>Niet onderzocht</Unresearched>
+  <!-- EN: Finished -->
   <Finished>Afgemaakt</Finished>
+  <!-- EN: In Progress -->
   <InProgress>Wordt onderzocht</InProgress>
+  <!-- EN: Locked -->
+  <Locked>TODO</Locked>
+  <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
   <ResearchMenuWithoutBench>Zolang je geen onderzoekstafel hebt, zijn je kolonisten niet in staat iets te onderzoeken.\n\nMisschien kun je de mogenlijkheid bekijken ze een project te geven?.</ResearchMenuWithoutBench>
-
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>TODO</ResearchPrerequisites>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>TODO</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>TODO</RequiredResearchBenchFacilities>
+  
   <!-- Advanced game start options -->
+  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
+  <MapTemperatureDangerWarning>TODO</MapTemperatureDangerWarning>
+  <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>WAARSCHUWING: de prestaties van het spel kunnen verslechteren bij zo'n grote kaart, als je computer het niet aankan. \n\nAls je een zwakke computer hebt, is het beter een kleine kaart te gebruiken.\n\nDe Ludeonicrous kaartgrootte is niet getest, en geven waarschijnlijk slechte prestaties.</MapSizePerformanceWarning>
+  <!-- EN: Map size -->
   <MapSize>Kaartgrootte</MapSize>
+  <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} tegels)</MapSizeDesc>
+  <!-- EN: Small -->
   <MapSizeSmall>Klein</MapSizeSmall>
+  <!-- EN: Medium -->
   <MapSizeMedium>Middel</MapSizeMedium>
+  <!-- EN: Large -->
   <MapSizeLarge>Groot</MapSizeLarge>
+  <!-- EN: Extreme (test) -->
   <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <!-- EN: Starting season -->
+  <MapStartSeason>TODO</MapStartSeason>
+  <!-- EN: Auto -->
+  <MapStartSeasonDefault>TODO</MapStartSeasonDefault>
+  <!-- EN: Notice -->
+  <Notice>TODO</Notice>
 
-  
   <!-- Bill config -->
+  <!-- EN: Suspended -->
   <Suspended>opgeschort</Suspended>
+  <!-- EN: Not suspended -->
   <NotSuspended>Niet opgeschort</NotSuspended>
+  <!-- EN: SUSPENDED -->
   <SuspendedAllCaps>OPGESCHORT</SuspendedAllCaps>
+  <!-- EN: Repeat: -->
   <RepeatCount>Herhalen: {0}</RepeatCount>
+  <!-- EN: Forever -->
   <Forever>voor altijd</Forever>
+  <!-- EN: Details -->
+  <Details>TODO</Details>
+  <!-- EN: Ingredient radius -->
   <IngredientSearchRadius>Materialen-zoek-radius</IngredientSearchRadius>
-  <TargetCount>Produceer, tot je er {0} hebt</TargetCount>
+  <!-- EN: Currently have -->
+  <CurrentlyHave>TODO</CurrentlyHave>
+  <!-- EN: Counting -->
+  <CountingProducts>TODO</CountingProducts>
+  <!-- EN: Infinite -->
   <Infinite>oneindig</Infinite>
+  <!-- EN: Allowed {0} skill: -->
+  <AllowedSkillRange>TODO</AllowedSkillRange>
+  <!-- EN: incompatible -->
+  <IncompatibleLower>TODO</IncompatibleLower>
+  <!-- EN: Any worker -->
+  <AnyWorker>TODO</AnyWorker>
+  <!-- EN: Unlimited -->
+  <Unlimited>TODO</Unlimited>
+  
+  <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(Het recept kan geen maximaal aantal hebben, als het meerdere onvoorspelbare ingredienten bevat)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Toegestane ingredienten:</PermittedIngredients>
+  <!-- EN: Work amount -->
+  <WorkAmount>TODO</WorkAmount>
+  <!-- EN: Minimum skills: -->
   <MinimumSkills>Minimale vaardigheid:</MinimumSkills>
+  <!-- EN: Requires {0} {1} -->
   <BillRequires>Benodigd {0} {1}</BillRequires>
+  <!-- EN: Requires {0} nutrition -->
+  <BillRequiresNutrition>TODO</BillRequiresNutrition>
+  <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
+  <BillRequiresMayVary>TODO</BillRequiresMayVary>
+  <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
+  <ThisIsSmallVolume>TODO</ThisIsSmallVolume>
+  <!-- EN: ingredients -->
   <UsableIngredients>Bruikbare ingredienten</UsableIngredients>
-  <DoXTimes>maak X keer</DoXTimes>
-  <DoUntilYouHaveX>Maak todat je er X hebt</DoUntilYouHaveX>
-  <DoForever>Voor altijd doen</DoForever>
+  <!-- EN: To {0} -->
   <BillRepeatTargetCountShort>Tot {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Laten vallen</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Naar beste opslagplaats brengen</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Naar dichtstbijzijnde opslagplaats brengen</BillStoreMode_NearestStockpileAnyPriority>
+
+  <!-- EN: Pause when satisfied -->
+  <PauseWhenSatisfied>TODO</PauseWhenSatisfied>
+  <!-- EN: Unpause at -->
+  <UnpauseWhenYouHave>TODO</UnpauseWhenYouHave>
+  <!-- EN: Paused -->
+  <Paused>TODO</Paused>
+  <!-- EN: Unpause -->
+  <Unpause>TODO</Unpause>
+
+  <!-- EN: Count equipped -->
+  <IncludeEquipped>TODO</IncludeEquipped>
+  <!-- EN: Count tainted -->
+  <IncludeTainted>TODO</IncludeTainted>
+  <!-- EN: Only allowed ingredients -->
+  <LimitToAllowedStuff>TODO</LimitToAllowedStuff>
+  <!-- EN: Look everywhere -->
+  <IncludeFromAll>TODO</IncludeFromAll>
+  <!-- EN: Look in {0} -->
+  <IncludeSpecific>TODO</IncludeSpecific>
   
-    <!-- Def Card -->
+  <!-- Info card -->
+  <!-- EN: Damage -->
   <Damage>schade</Damage>
+  <!-- EN: Armor penetration -->
+  <ArmorPenetration>TODO</ArmorPenetration>
+  <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>TODO</ArmorPenetrationExplanation>
+  <!-- EN: Accuracy -->
   <Accuracy>accuratie</Accuracy>
+  <!-- EN: Burst shot count -->
   <BurstShotCount>schoten per salvo</BurstShotCount>
+  <!-- EN: Warmup -->
   <WarmupTime>opwarmtijd</WarmupTime>
+  <!-- EN: Melee warmup -->
+  <MeleeWarmupTime>TODO</MeleeWarmupTime>
+  <!-- EN: Cooldown -->
   <CooldownTime>afkoeltijd</CooldownTime>
+  <!-- EN: Fire rate -->
   <BurstShotFireRate>shietfrequentie</BurstShotFireRate>
+  <!-- EN: Range -->
   <Range>reikwijdte</Range>
+  <!-- EN: Stopping power -->
+  <StoppingPower>TODO</StoppingPower>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>TODO</StoppingPowerExplanation>
+  <!-- EN: Direct hit chance -->
+  <DirectHitChance>TODO</DirectHitChance>
+  <!-- EN: Miss radius -->
+  <MissRadius>TODO</MissRadius>
+  <!-- EN: Grows wild -->
   <GrowsWild>groeit in de wildernis</GrowsWild>
+  <!-- EN: Harvestable -->
   <Harvestable>oogstbaar</Harvestable>
+  <!-- EN: Limited lifespan -->
   <LimitedLifespan>begrensde levensduur</LimitedLifespan>
+  <!-- EN: Growing time -->
   <GrowingTime>groeitijd</GrowingTime>
+  <!-- EN: Harvest yield -->
+  <HarvestYield>TODO</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>TODO</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
+  <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
+  <GrowingTimeDesc>TODO</GrowingTimeDesc>
+  <!-- EN: days -->
   <Days>dagen</Days>
+  <!-- EN: Minimum growing skill to sow -->
+  <MinGrowingSkillToSow>TODO</MinGrowingSkillToSow>
+  <!-- EN: Fertility requirement -->
   <FertilityRequirement>benodigde vruchtbaarheid</FertilityRequirement>
+  <!-- EN: Fertility sensitivity -->
+  <FertilitySensitivity>TODO</FertilitySensitivity>
+  <!-- EN: Light requirement -->
   <LightRequirement>benodigt licht</LightRequirement>
+  <!-- EN: Attributes -->
   <Attributes>attribuut</Attributes>
+  <!-- EN: Lifespan -->
   <LifeSpan>levensduur</LifeSpan>
+  <!-- EN: Nutrition -->
   <Nutrition>voedingsstof</Nutrition>
+  <!-- EN: Recreation -->
+  <Joy>TODO</Joy>
+  <!-- EN: Food quality -->
   <FoodQuality>etenskwaliteit</FoodQuality>
+  <!-- EN: Walk speed -->
   <WalkSpeedProperty>loopsnelheid</WalkSpeedProperty>
-  <MeleeDamage>vuistgevechtsschade</MeleeDamage>
-  <MeatAmount>vleeshoeveelheid</MeatAmount>
+  <!-- EN: Min. food quality -->
   <MinFoodQuality>minimale eetkwaliteit</MinFoodQuality>
+  <!-- EN: Diet -->
   <Diet>voedsel</Diet>
+  <!-- EN: Leather type -->
+  <LeatherType>TODO</LeatherType>
+  <!-- EN: Body size -->
+  <BodySize>TODO</BodySize>
+  <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Recruteringsmoeilijkheid</RecruitDifficulty>
+  <!-- EN: Base price -->
   <MarketValue>grondprijs</MarketValue>
+  <!-- EN: Covers -->
   <Covers>bedekt</Covers>
-  <NaturalArmorCovers>natuurlijke beschreming bedekt</NaturalArmorCovers>
-  <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>
-  
+  <!-- EN: Layer -->
+  <Layer>TODO</Layer>
+  <!-- EN: Cover effectiveness -->
+  <CoverEffectiveness>TODO</CoverEffectiveness>
+  <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <CoverEffectivenessExplanation>TODO</CoverEffectivenessExplanation>
+  <!-- EN: Experience gain factor -->
+  <MedicineXpGainFactor>TODO</MedicineXpGainFactor>
+  <!-- EN: Mood change -->
+  <MoodChange>TODO</MoodChange>
+  <!-- EN: Wildness -->
+  <Wildness>TODO</Wildness>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <WildnessExplanation>TODO</WildnessExplanation>
+  <!-- EN: Training decay interval -->
+  <TrainingDecayInterval>TODO</TrainingDecayInterval>
+  <!-- EN: Tameness will never decay. -->
+  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <!-- EN: Animal filth rate -->
+  <AnimalFilthRate>TODO</AnimalFilthRate>
+  <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <AnimalFilthRateExplanation>TODO</AnimalFilthRateExplanation>
+  <!-- EN: Time -->
+  <TimeRecordsCategory>TODO</TimeRecordsCategory>
+  <!-- EN: Misc -->
+  <MiscRecordsCategory>TODO</MiscRecordsCategory>
+  <!-- EN: Addictiveness -->
+  <Addictiveness>TODO</Addictiveness>
+  <!-- EN: Pack animal -->
+  <PackAnimal>TODO</PackAnimal>
+  <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+  <PackAnimalExplanation>TODO</PackAnimalExplanation>
+  <!-- EN: Skill -->
+  <Skill>TODO</Skill>
+  <!-- EN: Success rate multiplier -->
+  <SurgerySuccessChanceFactor>TODO</SurgerySuccessChanceFactor>
+  <!-- EN: Work speed governed by -->
+  <WorkSpeedStat>TODO</WorkSpeedStat>
+  <!-- EN: Output quantity governed by -->
+  <EfficiencyStat>TODO</EfficiencyStat>
+  <!-- EN: Construction skill required -->
+  <ConstructionSkillRequired>TODO</ConstructionSkillRequired>
+  <!-- EN: Requires this level of Construction in order to build. -->
+  <ConstructionSkillRequiredExplanation>TODO</ConstructionSkillRequiredExplanation>
+  <!-- EN: Nuzzle interval -->
+  <NuzzleInterval>TODO</NuzzleInterval>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
+  <!-- EN: Revenge chance on harm -->
+  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
+  <!-- EN: Revenge chance on tame fail -->
+  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
+  <!-- EN: Terrain requirement -->
+  <TerrainRequirement>TODO</TerrainRequirement>
+  <!-- EN: Supports -->
+  <Supports>TODO</Supports>
+
   <!-- Trade -->
-  <DragToTrade>Sleep om te handelen</DragToTrade>
+  <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
+  <PositiveBuysNegativeSells>TODO</PositiveBuysNegativeSells>
+  <!-- EN: Price you pay to buy this. -->
   <BuyPriceDesc>Voor deze prijs kun je het kopen.</BuyPriceDesc>
+  <!-- EN: Price you receive for selling this. -->
   <SellPriceDesc>Voor deze prijs kun je het verkopen.</SellPriceDesc>
+  <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>De prijs van dit product is {0}.</PriceTypeDesc>
+  <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
   <ColonyCount>Aantal van dit product te verhandelen door de kolonie.\n\nJe kunt producten alleen verhandelen, als ze buiten liggen, binnen het bereik van een orbitaal handelsbaken.</ColonyCount>
+  <!-- EN: How many of this item the trader has to trade. -->
   <TraderCount>Aantal van dit product dat de handelaar heeft.</TraderCount>
+  <!-- EN: Accept -->
   <AcceptButton>Accepteren</AcceptButton>
+  <!-- EN: Reset -->
   <ResetButton>Reset</ResetButton>
+  <!-- EN: Cancel -->
   <CancelButton>Annuleren</CancelButton>
+  <!-- EN: Close -->
+  <CloseButton>Sluiten</CloseButton>
+  <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>Jouw verhandelbare zilver: {0}</YourTradeableSilver>
+  <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
   <YourTradeableSilverTip>Je kunt alleen met zilver handelen, dat buiten ligt, binnen het bereik van een orbitaal handelsbaken liggen.</YourTradeableSilverTip>
+  <!-- EN: Trader has no more. -->
   <TraderHasNoMore>Handelaar heeft niet meer.</TraderHasNoMore>
+  <!-- EN: No more to sell. -->
   <ColonyHasNoMore>Niet meer om te verkopen.</ColonyHasNoMore>
+  <!-- EN: Trader is not willing to buy this. -->
   <TraderWillNotTrade>De handelaar is niet bereidt daarin te handelen.</TraderWillNotTrade>
- 
+  <!-- EN: Negotiator -->
+  <Negotiator>TODO</Negotiator>
+  <!-- EN: Your negotiator {0} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired>TODO</NegotiatorTalkingImpaired>
+  <!-- EN: Your negotiator {0} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired>TODO</NegotiatorHearingImpaired>
+  <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
+  <NegotiatorCapacityImpaired>TODO</NegotiatorCapacityImpaired>
+  <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
+  <ConfirmTraderShortFunds>TODO</ConfirmTraderShortFunds>
+  <!-- EN: Sort by -->
+  <SortBy>TODO</SortBy>
+  <!-- EN: trader type -->
+  <TraderTypePrice>TODO</TraderTypePrice>
+  <!-- EN: selling -->
+  <Selling>TODO</Selling>
+  <!-- EN: buying -->
+  <Buying>TODO</Buying>
+  <!-- EN: item sell price multiplier -->
+  <ItemSellPriceFactor>TODO</ItemSellPriceFactor>
+  <!-- EN: difficulty level -->
+  <DifficultyLevel>TODO</DifficultyLevel>
+  <!-- EN: global post-process curve -->
+  <PostCurve>TODO</PostCurve>
+  <!-- EN: Your negotiator bonus -->
+  <YourNegotiatorBonus>TODO</YourNegotiatorBonus>
+  <!-- EN: Trading with faction base bonus -->
+  <TradeWithFactionBaseBonus>TODO</TradeWithFactionBaseBonus>
+  <!-- EN: minimum -->
+  <minimum>TODO</minimum>
+  <!-- EN: Final price -->
+  <FinalPrice>TODO</FinalPrice>
+  <!-- EN: Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>TODO</GiftModeTip>
+  <!-- EN: Return to trade mode. -->
+  <TradeModeTip>TODO</TradeModeTip>
+
+  <!-- Sellable items -->
+  <!-- EN: Things this trader will buy -->
+  <SellableItemsTitle>TODO</SellableItemsTitle>
+  <!-- EN: Creatures -->
+  <PawnsTabShort>TODO</PawnsTabShort>
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
+  <FormCaravan>TODO</FormCaravan>
+  <!-- EN: Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip>TODO</FormCaravanColonyThingCountTip>
+  <!-- EN: People and animals -->
+  <PawnsTab>TODO</PawnsTab>
+  <!-- EN: Items -->
+  <ItemsTab>TODO</ItemsTab>
+  <!-- EN: You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist>TODO</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: The chosen exit location ({0}) is inaccessible. -->
+  <CaravanCouldNotFindExitSpot>TODO</CaravanCouldNotFindExitSpot>
+  <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
+  <CaravanCouldNotFindPackingSpot>TODO</CaravanCouldNotFindPackingSpot>
+  <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot>TODO</CaravanCouldNotFindReachableExitSpot>
+  <!-- EN: {0} is unreachable by any of the assigned colonists. -->
+  <CaravanPawnIsUnreachable>TODO</CaravanPawnIsUnreachable>
+  <!-- EN: None of the assigned colonists are able to reach the {0}. -->
+  <CaravanItemIsUnreachableSingle>TODO</CaravanItemIsUnreachableSingle>
+  <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
+  <CaravanItemIsUnreachableMulti>TODO</CaravanItemIsUnreachableMulti>
+  <!-- EN: The caravan can't carry that much. -->
+  <TooBigCaravanMassUsage>TODO</TooBigCaravanMassUsage>
+  <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip>TODO</CaravanMassUsageTooltip>
+  <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
+  <!-- EN: Days of food -->
+  <DaysWorthOfFood>TODO</DaysWorthOfFood>
+  <!-- EN: rot in {0} -->
+  <DaysWorthOfFoodInfoRot>TODO</DaysWorthOfFoodInfoRot>
+  <!-- EN: Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>TODO</InfiniteDaysWorthOfFoodInfo>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>TODO</DaysWorthOfFoodTooltip>
+  <!-- EN: \n(only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog>TODO</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood>TODO</DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
+  <!-- EN: Forage per day -->
+  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
+  <!-- EN: A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>TODO</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial>TODO</CaravanIncapableOfSocial>
+  <!-- EN: Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>TODO</CaravanAreYouSure>
+  <!-- EN: You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
+  <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
+  <!-- EN: Weight of this item. -->
+  <ItemWeightTip>TODO</ItemWeightTip>
+  <!-- EN: Market value -->
+  <MarketValueTip>TODO</MarketValueTip>
+  <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip>TODO</DaysUntilRotTip>
+  <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>TODO</ItemNutritionTip>
+  <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>TODO</AnimalCanGrazeTip>
+  <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>TODO</NutritionForagedPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <NutritionEatenPerDayTip>TODO</NutritionEatenPerDayTip>
+  <!-- EN: Mass carried -->
+  <MassCarriedSimple>TODO</MassCarriedSimple>
+  <!-- EN: Mass capacity -->
+  <MassCapacity>TODO</MassCapacity>
+  <!-- EN: Mass -->
+  <Mass>TODO</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>TODO</CaravanMass>
+  <!-- EN: Equipment and apparel mass -->
+  <EquipmentAndApparelMass>TODO</EquipmentAndApparelMass>
+  <!-- EN: Inventory mass -->
+  <InventoryMass>TODO</InventoryMass>
+  <!-- EN: Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>TODO</CaravanFormationProcessStarted>
+  <!-- EN: Reform caravan -->
+  <ReformCaravan>TODO</ReformCaravan>
+  <!-- EN: Colonists -->
+  <ColonistsSection>TODO</ColonistsSection>
+  <!-- EN: Prisoners -->
+  <PrisonersSection>TODO</PrisonersSection>
+  <!-- EN: Capture -->
+  <CaptureSection>TODO</CaptureSection>
+  <!-- EN: Animals -->
+  <AnimalsSection>TODO</AnimalsSection>
+  <!-- EN: Choose route -->
+  <ChooseRouteButton>TODO</ChooseRouteButton>
+  <!-- EN: Abandon -->
+  <AbandonButton>TODO</AbandonButton>
+  <!-- EN: Movement speed -->
+  <CaravanMovementSpeed>TODO</CaravanMovementSpeed>
+  <!-- EN: tiles/day -->
+  <TilesPerDay>TODO</TilesPerDay>
+  <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>TODO</CaravanMovementSpeedTip>
+  <!-- EN: Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
+  <!-- EN: Animals can graze -->
+  <AnimalsCanGraze>TODO</AnimalsCanGraze>
+  <!-- EN: (for {0} more days) -->
+  <PossibleToGrazeFor>TODO</PossibleToGrazeFor>
+  <!-- EN: (forever) -->
+  <PossibleToGrazeForever>TODO</PossibleToGrazeForever>
+  <!-- EN: ({0}) -->
+  <CantGrazeBecauseOfBiome>TODO</CantGrazeBecauseOfBiome>
+  <!-- EN: (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>TODO</CantGrazeBecauseOfTemp>
+  <!-- EN: Total nutrition -->
+  <TotalNutrition>TODO</TotalNutrition>
+  <!-- EN: Not moving -->
+  <CaravanNotMoving>TODO</CaravanNotMoving>
+  <!-- EN: Foraged nutrition per day -->
+  <ForagedNutritionPerDay>TODO</ForagedNutritionPerDay>
+  <!-- EN: Faction type -->
+  <FactionType>TODO</FactionType>
+  <!-- EN: Total body size -->
+  <TotalBodySize>TODO</TotalBodySize>
+
+  <!-- Split caravan -->
+  <!-- EN: Split caravan -->
+  <SplitCaravan>TODO</SplitCaravan>
+  <!-- EN: You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>TODO</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip>TODO</SplitCaravanThingCountTip>
+  
+  <!-- Load transporters -->
+  <!-- EN: Load {0} -->
+  <LoadTransporters>TODO</LoadTransporters>
+  <!-- EN: The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage>TODO</TooBigTransportersMassUsage>
+  <!-- EN: You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods>TODO</CantSendEmptyTransportPods>
+  <!-- EN: {0} can't reach the transport pods. -->
+  <PawnCantReachTransporters>TODO</PawnCantReachTransporters>
+  <!-- EN: There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle>TODO</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti>TODO</TransporterItemIsUnreachableMulti>
+  
   <!-- Comms -->
+  <!-- EN: Social skill: {0} -->
   <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
   
-  <!--Other-->
+  <!--Research-->
+  <!-- EN: Research finished: {0} -->
   <ResearchFinished>Onderzoek afgerond: {0}</ResearchFinished>
+  <!-- EN: Research Screen -->
   <ResearchScreen>Onderzoeksmenu</ResearchScreen>
   
   <!--HistoryUpload-->
+  <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
   <HistoryUploadMessage>Wil je de voortgang van jouw spel uploaden naar de rimworldserver? Daarmee kun je de ontwikkeling van het spel steunen. Als je dit toestaat, worden de gegevens van jouw spel iedere {0} dagen (en in sommige speciale gevallen, zoals het einde van het spel) geupload. De instellingen kunnen verandert worden in het opties menu.</HistoryUploadMessage>
+  <!-- EN: Even though history is sent anonymously, you can attach your name. -->
   <HistoryUploadMessagePlayerName>De spelgegevens worden anoniem verzonden, maar je kunt wel je naam toevoegen.</HistoryUploadMessagePlayerName>
+  <!-- EN: Allow uploading gameplay data -->
   <HistoryUploadYes>De spelgegevens uploaden</HistoryUploadYes>
+  <!-- EN: Do not allow uploading gameplay data -->
   <HistoryUploadNo>De spelgegevens nooit uploaden</HistoryUploadNo>
+  <!-- EN: Upload only this time -->
   <HistoryUploadYesOnce>Alleen nu uploaden</HistoryUploadYesOnce>
+  <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Nu niet, vraag het me later.</HistoryUploadNoOnce>
   
+  <!-- Outfit management -->
+  <!-- EN: Outfit -->
+  <Outfit>TODO</Outfit>
+  <!-- EN: Select outfit... -->
+  <SelectOutfit>TODO</SelectOutfit>
+  <!-- EN: New outfit -->
+  <NewOutfit>TODO</NewOutfit>
+  <!-- EN: Delete outfit... -->
+  <DeleteOutfit>TODO</DeleteOutfit>
+  <!-- EN: Outfit is in use by {0}. -->
+  <OutfitInUse>TODO</OutfitInUse>
+  <!-- EN: No outfit selected -->
+  <NoOutfitSelected>TODO</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <!-- EN: Drug policy -->
+  <DrugPolicy>TODO</DrugPolicy>
+  <!-- EN: Select policy... -->
+  <SelectDrugPolicy>TODO</SelectDrugPolicy>
+  <!-- EN: New policy -->
+  <NewDrugPolicy>TODO</NewDrugPolicy>
+  <!-- EN: Delete policy... -->
+  <DeleteDrugPolicy>TODO</DeleteDrugPolicy>
+  <!-- EN: Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse>TODO</DrugPolicyInUse>
+  <!-- EN: Social drugs -->
+  <SocialDrugs>TODO</SocialDrugs>
+  <!-- EN: No drugs -->
+  <NoDrugs>TODO</NoDrugs>
+  <!-- EN: One drink per day -->
+  <OneDrinkPerDay>TODO</OneDrinkPerDay>
+  <!-- EN: Unrestricted -->
+  <Unrestricted>TODO</Unrestricted>
+  <!-- EN: No drug policy selected -->
+  <NoDrugPolicySelected>TODO</NoDrugPolicySelected>
+  <!-- EN: Add drug... -->
+  <AddDrug>TODO</AddDrug>
+  <!-- EN: Drug -->
+  <DrugColumnLabel>TODO</DrugColumnLabel>
+  <!-- EN: Usage -->
+  <DrugUsageColumnLabel>TODO</DrugUsageColumnLabel>
+  <!-- EN: Frequency -->
+  <FrequencyColumnLabel>TODO</FrequencyColumnLabel>
+  <!-- EN: Only if mood below -->
+  <MoodThresholdColumnLabel>TODO</MoodThresholdColumnLabel>
+  <!-- EN: Only if recreation below -->
+  <JoyThresholdColumnLabel>TODO</JoyThresholdColumnLabel>
+  <!-- EN: Take to inventory -->
+  <TakeToInventoryColumnLabel>TODO</TakeToInventoryColumnLabel>
+  <!-- EN: (no drugs) -->
+  <NoDrugsBrackets>TODO</NoDrugsBrackets>
+  <!-- EN: Every day -->
+  <EveryDay>TODO</EveryDay>
+  <!-- EN: {0} times per day -->
+  <TimesPerDay>TODO</TimesPerDay>
+  <!-- EN: Every {0} days -->
+  <EveryDays>TODO</EveryDays>
+  <!-- EN: Any -->
+  <NoDrugUseRequirement>TODO</NoDrugUseRequirement>
+  <!-- EN: Delete this drug. -->
+  <DeleteDrugTooltip>TODO</DeleteDrugTooltip>
+  <!-- EN: The name of a drug. -->
+  <DrugNameColumnDesc>TODO</DrugNameColumnDesc>
+  <!-- EN: How the drug is allowed to be used. -->
+  <DrugUsageColumnDesc>TODO</DrugUsageColumnDesc>
+  <!-- EN: How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc>TODO</FrequencyColumnDesc>
+  <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc>TODO</MoodThresholdColumnDesc>
+  <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc>TODO</JoyThresholdColumnDesc>
+  <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc>TODO</TakeToInventoryColumnDesc>
+  <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForAddiction>TODO</DrugUsageTipForAddiction>
+  <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForJoy>TODO</DrugUsageTipForJoy>
+  <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled>TODO</DrugUsageTipScheduled>
+
+  <!-- Medical settings -->
+  <!-- EN: Defaults -->
+  <MedGroupDefaults>TODO</MedGroupDefaults>
+  <!-- EN: Colonist -->
+  <MedGroupColonist>TODO</MedGroupColonist>
+  <!-- EN: Imprisoned colonist -->
+  <MedGroupImprisonedColonist>TODO</MedGroupImprisonedColonist>
+  <!-- EN: Colony animal -->
+  <MedGroupColonyAnimal>TODO</MedGroupColonyAnimal>
+  <!-- EN: Neutral animal -->
+  <MedGroupNeutralAnimal>TODO</MedGroupNeutralAnimal>
+  <!-- EN: Neutral faction -->
+  <MedGroupNeutralFaction>TODO</MedGroupNeutralFaction>
+  <!-- EN: Hostile faction -->
+  <MedGroupHostileFaction>TODO</MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>TODO</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns>TODO</ConfirmAbandonHomeWithColonyPawns>
+  <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts>TODO</ConfirmAbandonHomeNegativeThoughts>
+  <!-- EN: Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>TODO</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- EN: Do you really want to banish {0}? -->
+  <ConfirmBanishPawnDialog>TODO</ConfirmBanishPawnDialog>
+  <!-- EN: {0} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>TODO</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {0} will take the following items with [PAWN_objective]: -->
+  <ConfirmBanishPawnDialog_Items>TODO</ConfirmBanishPawnDialog_Items>
+  <!-- EN: All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>TODO</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- EN: Banishing {0} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>TODO</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- EN: Pod group isn't completely loaded. {0} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>TODO</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <ConfirmSettleNearFactionBase>TODO</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
+  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
+  <!-- EN: Yes, I have a backup -->
+  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
+
+  <!-- UNUSED -->
+  <ModWithAssemblyWasUnloaded>Het spel kan niet volledig de code van de modificatie ontladen. Het kan dus nog zijn dat de mod nog steeds actief is.\n\n Het wordt aangeraden om het spel opnieuw op te starten, zodat de mods schoon geladen zijn</ModWithAssemblyWasUnloaded>
+  <InitializingMap>Initialiseren map</InitializingMap>
+  <NameColonyMessage>Iedereen weet dat jullie hier niet lang willen blijven. Maar {0} vindt, dat de kolonie alsnog een naam moet krijgen.\n\nHoe moet hij heten?</NameColonyMessage>
+  <ColonyGainsName>De kolonie staat nu bekend als {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Deze naam is ongeldig.</ColonyNameIsInvalid>
+  <ZoneNameIsInvalid>Deze naam is ongeldig.\n\nGeef alsjeblieft een goede naam op.</ZoneNameIsInvalid>
+  <SaveGameIncompatibleWarningTitle>Het spelbestand is incompitabel</SaveGameIncompatibleWarningTitle>
+  <OverviewOf>Overzicht van {0}</OverviewOf>
+  <TargetCount>Produceer, tot je er {0} hebt</TargetCount>
+  <PermittedIngredients>Toegestane ingredienten:</PermittedIngredients>
+  <DoXTimes>maak X keer</DoXTimes>
+  <DoUntilYouHaveX>Maak todat je er X hebt</DoUntilYouHaveX>
+  <DoForever>Voor altijd doen</DoForever>
+  <BillStoreMode_DropOnFloor>Laten vallen</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Naar beste opslagplaats brengen</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Naar dichtstbijzijnde opslagplaats brengen</BillStoreMode_NearestStockpileAnyPriority>
+  <MeleeDamage>vuistgevechtsschade</MeleeDamage>
+  <MeatAmount>vleeshoeveelheid</MeatAmount>
+  <NaturalArmorCovers>natuurlijke beschreming bedekt</NaturalArmorCovers>
+  <DragToTrade>Sleep om te handelen</DragToTrade>
+
 </LanguageData>

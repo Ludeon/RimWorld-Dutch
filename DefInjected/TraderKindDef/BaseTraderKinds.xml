@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <CombatSupplier.label>Wapenhandelaar</CombatSupplier.label>
+  
+  <!-- UNUSED -->
+  <ExoticTrader.label>Exotische waren handelaar</ExoticTrader.label>
+  
+  <!-- UNUSED -->
+  <FarmingVessel.label>Voedingsmiddelhandelaar</FarmingVessel.label>
+  
+  <!-- UNUSED -->
+  <IndustrialTrader.label>Industriële handelaar</IndustrialTrader.label>
+  
+  <!-- UNUSED -->
+  <SlaveTrader.label>Slavenhandelaar</SlaveTrader.label>
+  
+</LanguageData>

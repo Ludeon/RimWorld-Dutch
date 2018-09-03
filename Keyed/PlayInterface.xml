@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Wiki -->
+  <Wiki>Wiki</Wiki>
+  <!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
+  <WikiTip>Opent de RimWorld-wiki in je browser (Engels).</WikiTip>
+  <!-- EN: Menu -->
+  <Menu>Menu</Menu>
+
+  <!-- UNUSED -->
   <Overview>Overzicht</Overview>
   <OverviewTip>Hier kun je de prioriteiten van je kolonisten en statistieken over je kolonie bekijken.</OverviewTip>
   <ResearchTip>Voer een onderzoeksproject uit.</ResearchTip>
-  <Wiki>Wiki</Wiki>
-  <WikiTip>Opent de RimWorld-wiki in je browser (Engels).</WikiTip>
-  <Menu>Menu</Menu>
   <MenuTip>Spel laden, opslaan, afsluiten en andere instellingen.</MenuTip>
-
   <Architect>Architect</Architect>
-
 
 </LanguageData>

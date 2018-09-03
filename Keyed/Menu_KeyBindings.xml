@@ -1,11 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Save -->
   <SaveButton>Opslaan</SaveButton>
-  <!--<CancelButton>Annuleren</CancelButton>-->
+  <!-- EN: Clear -->
   <ClearBinding>Maak leeg</ClearBinding>
+  <!-- EN: Reset to default -->
   <ResetBinding>Herstel standaard</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Klik links om deze toets aan te wijzen, of klik rechts voor opties</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Druk op een toets of druk Escape om te annuleren...</PressAnyKeyOrEsc>
-
+  <!-- EN: Key binding overwritten: {0} -->
+  <KeyBindingOverwritten>TODO</KeyBindingOverwritten>
+  
 </LanguageData>

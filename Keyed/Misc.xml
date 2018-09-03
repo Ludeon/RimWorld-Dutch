@@ -1,57 +1,140 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<Autosaving>Opslaan..</Autosaving>
+  <!-- EN: Autosaving -->
+  <Autosaving>Opslaan..</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>Jullie worden wakker in jullie cryptoslaapcapsules van alarmgeschal en het geluid van scheurend metaal. Op het nippertje weten jullie de reddingscapsules te bereiken, vlak voordat het schip in stukken scheurt.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nTerwijl de stukken van jullie ruimteschip om jullie heen neerstorten, beginnen jullie met het maken van plannen om te overleven.</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>Kolonie</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>Je kunt de taal alleen vanuit het hoofdmenu veranderen.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>en</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>gedeactiveerd</DisabledLower>
 
-	<GameStartDialog>Jullie worden wakker in jullie cryptoslaapcapsules van alarmgeschal en het geluid van scheurend metaal. Op het nippertje weten jullie de reddingscapsules te bereiken, vlak voordat het schip in stukken scheurt.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nTerwijl de stukken van jullie ruimteschip om jullie heen neerstorten, beginnen jullie met het maken van plannen om te overleven.</GameStartDialog>
-	
-	<Colony>Kolonie</Colony>
-	
-	<ChangeLanguageFromMainMenu>Je kunt de taal alleen vanuit het hoofdmenu veranderen.</ChangeLanguageFromMainMenu>
-
-	<AndLower>en</AndLower>
-	<DisabledLower>gedeactiveerd</DisabledLower>
-  
-    <CloseButton>Sluiten</CloseButton>  
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>Versie {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>ontwikkelaarsversie</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>Gecompileerd op {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>TODO</LoggedIntoSteamAs>
 
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>TODO</Yes>
+  <!-- EN: No -->
+  <No>TODO</No>
+  <!-- EN: min -->
+  <min>TODO</min>
+  <!-- EN: max -->
+  <max>TODO</max>
+  <!-- EN: chance -->
+  <chance>TODO</chance>
+  <!-- EN: context -->
+  <context>TODO</context>
+  <!-- EN: multiplier -->
+  <multiplier>TODO</multiplier>
+  <!-- EN: damage -->
+  <damage>TODO</damage>
+  <!-- EN: radius -->
+  <radius>TODO</radius>
+  <!-- EN: duration (days) -->
+  <durationDays>TODO</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>TODO</intervalDays>
+  <!-- EN: repeat -->
+  <repeat>TODO</repeat>
+  <!-- EN: default -->
+  <default>TODO</default>
+  <!-- EN: distance -->
+  <distance>TODO</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TODO</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>TODO</NoUppercase>
+  <!-- EN: kg -->
+  <kg>TODO</kg>
+  <!-- EN: Day -->
+  <Day>Dag</Day>
+  <!-- EN: day -->
+  <day>TODO</day>
+  <!-- EN: Default -->
+  <Default>TODO</Default>
+  <!-- EN: Average -->
+  <Average>TODO</Average>
 
-  
   <!-- Content generation-->
   
-  
+  <!-- EN: {0} meat -->
   <MeatLabel>{0} vlees</MeatLabel>
-   <MeatDesc>Rauw vlees van een {0}.</MeatDesc>
-   
-  <LeatherLabel>{0} leer</LeatherLabel>
-  <LeatherDesc>Leer gemaakt van de huid van een {0}.</LeatherDesc>
-   
-	<CorpseLabel>{0} (lijk)</CorpseLabel>
-	<CorpseDesc>Lijk van een {0}.</CorpseDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>Rauw vlees van een {0}.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>TODO</MeatHumanDesc>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0} (lijk)</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>Lijk van een {0}.</CorpseDesc>
+  <!-- EN: {0} (dead) -->
   <DeadLabel>{0} (dood)</DeadLabel>
 
-    <RoughStoneTerrainLabel>ruwe {0}</RoughStoneTerrainLabel>
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>ruwe {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Ruwe, natuurlijke {0} grond.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>Grof uitgehakte {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Grof uitgehakte natuurlijke {0} floor.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>gepolijste {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Gepolijste natuurlijke {0} floor.</SmoothStoneTerrainDesc>
-  
 
-	<BlueprintLabelExtra>(gepland)</BlueprintLabelExtra>
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra>(gepland)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (wordt gebouwd)</FrameLabelExtra>
-  
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>TODO</FactionUnaffiliated>
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
-  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
+  <!-- EN: {0}'s {1} -->
+  <SomeonesRoom>TODO</SomeonesRoom>
+  <!-- EN: {0} and {1}'s {2} -->
+  <CouplesRoom>TODO</CouplesRoom>
+  
+  <!-- EN: (various) -->
   <VariousLabel>(verschillende objecten geselecteerd)</VariousLabel>
-	
-	
+
   <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>Kolonist gestorven</ColonistDied>
-	
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>TODO</North>
+  <!-- EN: South -->
+  <South>TODO</South>
+  <!-- EN: West -->
+  <West>TODO</West>
+  <!-- EN: East -->
+  <East>TODO</East>
+  
+  <!-- UNUSED -->
+  <LeatherLabel>{0} leer</LeatherLabel>
+  <LeatherDesc>Leer gemaakt van de huid van een {0}.</LeatherDesc>
+
 </LanguageData>

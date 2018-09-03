@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: none -->
   <WorkTagNone>Geen</WorkTagNone>
+  <!-- EN: intellectual -->
   <WorkTagIntellectual>Intellectueel</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
   <WorkTagManualDumb>Dom werk</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
   <WorkTagManualSkilled>Geschoold werk</WorkTagManualSkilled>
+  <!-- EN: violent -->
   <WorkTagViolent>Gewelddadig</WorkTagViolent>
+  <!-- EN: caring -->
   <WorkTagCaring>Verzorgend</WorkTagCaring>
+  <!-- EN: social -->
   <WorkTagSocial>Sociaal</WorkTagSocial>
-  <WorkTagScary>Angstaanjagend</WorkTagScary>
+  <!-- EN: animals -->
+  <WorkTagAnimals>TODO</WorkTagAnimals>
+  <!-- EN: artistic -->
   <WorkTagArtistic>Kunst</WorkTagArtistic>
+  <!-- EN: crafting -->
   <WorkTagCrafting>Handwerk</WorkTagCrafting>
+  <!-- EN: cooking -->
   <WorkTagCooking>Koken</WorkTagCooking>
+  <!-- EN: firefighting -->
   <WorkTagFirefighting>Brandblussen</WorkTagFirefighting>
+  <!-- EN: cleaning -->
   <WorkTagCleaning>Schoonmaken</WorkTagCleaning>
+  <!-- EN: hauling -->
   <WorkTagHauling>Sleepwerk</WorkTagHauling>
+  <!-- EN: plant work -->
   <WorkTagPlantWork>Plantwerk</WorkTagPlantWork>
+  <!-- EN: mining -->
   <WorkTagMining>Mijnbouw</WorkTagMining>
+
+  <!-- UNUSED -->
+  <WorkTagScary>Angstaanjagend</WorkTagScary>
 
 </LanguageData>

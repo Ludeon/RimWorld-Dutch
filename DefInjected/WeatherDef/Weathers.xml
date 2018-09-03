@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>Helder</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>Een helder weer, geen wolken of regen en geen negatieve effecten.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>Droog onweer</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>Droog onweer is gevaarlijk, omdat de bliksem vuur kan aansteken, dat zich kan verspreiden omdat het niet wordt geblust door regen.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>Mist</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Mist reduceert de trefzekerheid van vuurwapens.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>Mistige regen</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Reduceert de loopsnelheid en trefzekerheid van vuurwapens.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>Regen</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Regen reduceert die trefzekerheid van vuurwapens, dooft vuur en vertraagt je kolonisten.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>Regenachtig onweer</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>De bliksem maakt vuur, maar de regen blust het weer. Ook reduceert de regen de loopsnelheid en de trefzekerheid van vuurwapens.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>Lichte sneeuwval</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>De sneeuw reduceert nauwkeurigheid van vuurwapens, dooft vuur en vertraagt mensen.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>Sterke sneeuwval</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>De sneeuw reduceert nauwkeurigheid van vuurwapens, dooft vuur en vertraagt mensen.</SnowHard.description>
+  
+</LanguageData>

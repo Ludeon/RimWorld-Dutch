@@ -1,100 +1,387 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-
-
-	<CallOnRadio>Roep {0} op</CallOnRadio>
-	<CannotUseSolarFlare>Kan niet worden gebruikt (zonnestorm)</CannotUseSolarFlare>
-	<CannotUseNoPower>Kan niet worden gebruikt (geen stroom)</CannotUseNoPower>
-	<CannotUseNoPath>Kan niet worden gebruikt (geen weg)</CannotUseNoPath>
-	<CannotUseReserved>Kan niet worden gebruikt (gereserveerd)</CannotUseReserved>
-	<CannotUseFull>Kan niet worden gebruikt (vol)</CannotUseFull>
-
+  <!-- EN: Call {0} -->
+  <CallOnRadio>Roep {0} op</CallOnRadio>
+  <!-- EN: Cannot use ({0}) -->
+  <CannotUseReason>TODO</CannotUseReason>
+  <!-- EN: Cannot use (solar flare) -->
+  <CannotUseSolarFlare>Kan niet worden gebruikt (zonnestorm)</CannotUseSolarFlare>
+  <!-- EN: Cannot use (no power) -->
+  <CannotUseNoPower>Kan niet worden gebruikt (geen stroom)</CannotUseNoPower>
+  <!-- EN: Cannot use (no path) -->
+  <CannotUseNoPath>Kan niet worden gebruikt (geen weg)</CannotUseNoPath>
+  <!-- EN: Cannot use (reserved) -->
+  <CannotUseReserved>Kan niet worden gebruikt (gereserveerd)</CannotUseReserved>
+  <!-- EN: Cannot use (full) -->
+  <CannotUseFull>Kan niet worden gebruikt (vol)</CannotUseFull>
+  <!-- EN: leader {0} is unavailable -->
+  <LeaderUnavailable>TODO</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>TODO</LeaderUnavailableNoLeader>
+  
+  <!-- EN: Fire at {0} -->
   <FireAt>Schiet op {0}</FireAt>
 
+  <!-- EN: out of range -->
   <OutOfRange>buiten bereik</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>TODO</TooClose>
+  <!-- EN: cannot hit target -->
   <CannotHitTarget>kan het doel niet raken</CannotHitTarget>
-  <CannotFight>{0} kan niet vechten</CannotFight>
+  <!-- EN: {0} is incapable of violence -->
+  <IsIncapableOfViolenceLower>TODO</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>TODO</IncapableOfViolenceLower>
+  <!-- EN: {0} is not drafted -->
+  <IsNotDraftedLower>TODO</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>TODO</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>TODO</CannotAttackSelf>
 
+  <!-- EN: Man {0} -->
   <OrderManThing>Beman {0}</OrderManThing>
   
+  <!-- EN: Melee attack {0} -->
   <MeleeAttack>Ga op de vuist met {0}</MeleeAttack>
+  <!-- EN: Melee attack {0} to death -->
   <MeleeAttackToDeath>Gevecht op leven en dood met {0}</MeleeAttackToDeath>
+  <!-- EN: no path -->
   <NoPath>geen weg gevonden</NoPath>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>verboden</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>TODO</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>TODO</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>brandt</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>geen lege opslagplaats beschikbaar</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>TODO</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>al gevuld</AlreadyFilledLower>
+  <!-- EN: need material -->
+  <MissingMaterials>mist bouwmateriaal</MissingMaterials>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>TODO</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>TODO</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>TODO</AboveAllowedSkill>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>TODO</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>TODO</AnimalInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>TODO</NoUsableFood>
+  <!-- EN: no food -->
+  <NoFood>TODO</NoFood>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>TODO</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>TODO</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>TODO</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>TODO</CantInteractAnimalBusy>
+  <!-- EN: construction skill too low -->
+  <ConstructionSkillTooLow>TODO</ConstructionSkillTooLow>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>TODO</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>TODO</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>TODO</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>TODO</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>TODO</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>TODO</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>TODO</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>TODO</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>TODO</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>TODO</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>TODO</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>TODO</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>TODO</IncapableOfMining>
+  <!-- EN: angers faction -->
+  <AngersFaction>TODO</AngersFaction>
   
- 	<ForbiddenLower>verboden</ForbiddenLower>
-	<SociallyImproperLower>sociaal ongepast</SociallyImproperLower>
-	<PrisonerRoomLower>gevangenis</PrisonerRoomLower>
-	<BurningLower>brandt</BurningLower>
-	<NoEmptyPlaceLower>geen lege opslagplaats beschikbaar</NoEmptyPlaceLower>
-	<AlreadyFilledLower>al gevuld</AlreadyFilledLower>
-	<MissingMaterials>mist bouwmateriaal</MissingMaterials>	
-	
-	
+  <!-- EN: Consume {0} -->
+  <ConsumeThing>TODO</ConsumeThing>
+  
+  <!-- EN: Cannot go here (no path) -->
   <CannotGoNoPath>Kan hier niet naartoe gaan (geen weg)</CannotGoNoPath>
+  <!-- EN: Go here -->
   <GoHere>Ga hierheen</GoHere>
   
+  <!-- EN: Arrest {0} -->
   <Arrest>Arresteer {0}</Arrest>
+  <!-- EN: Try to arrest {0} -->
+  <TryToArrest>TODO</TryToArrest>
+  <!-- EN: Cannot arrest -->
   <CannotArrest>Arrestatie onmogelijk</CannotArrest>
 
+  <!-- EN: Capture {0} -->
   <Capture>Neem {0} gevangen</Capture>
+  <!-- EN: Cannot capture -->
   <CannotCapture>Gevangennemen onmogelijk</CannotCapture>
 
+  <!-- EN: Rescue {0} -->
   <Rescue>Red {0}</Rescue>
+  <!-- EN: Cannot rescue -->
   <CannotRescue>Redding onmogelijk</CannotRescue>
-  
+
+  <!-- EN: Carry {0} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Draag {0} naar cryptoslaapcapsule</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Kan niet naar cryptoslaapcapsule dragen</CannotCarryToCryptosleepCasket>
 
+  <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Geen cryptoslaapcapsule beschikbaar</NoCryptosleepCasket>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Geen gevangenisbed beschikbaar.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>Geen kolonistenbed beschikbaar</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>TODO</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
   <Reserved>Wordt al door iemand anders gebruikt.</Reserved>
+  <!-- EN: Reserved by {0} -->
   <ReservedBy>Wordt al door {0} gebruikt.</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{0} wordt al door {1} gebruikt.</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>TODO</TooHeavy>
 
-  <NoManipulationSkill>ongeschikt</NoManipulationSkill>
+  <!-- EN: incapable -->
+  <Incapable>TODO</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>TODO</IncapableOfCapacity>
 
+  <!-- EN: min skill -->
+  <MinSkill>TODO</MinSkill>
+  
+  <!-- EN: Equip {0} -->
   <Equip>{0} uitrusten</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>TODO</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
   <CannotEquip>Kan {0} niet uitrusten</CannotEquip>
+  <!-- EN: Cannot man {0} -->
+  <CannotManThing>TODO</CannotManThing>
   
-  <Wear>Trek {0} aan</Wear>
+  <!-- EN: Force wear {0} -->
+  <ForceWear>TODO</ForceWear>
+  <!-- EN: Cannot wear {0} -->
   <CannotWear>Kan {0} niet aantrekken</CannotWear>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>TODO</CannotWearBecauseOfMissingBodyParts>
   
+  <!-- EN: Cannot pick up {0} -->
+  <CannotPickUp>TODO</CannotPickUp>
+  <!-- EN: Cannot pick up {0} (all) -->
+  <CannotPickUpAll>TODO</CannotPickUpAll>
+  <!-- EN: Pick up {0} -->
+  <PickUp>TODO</PickUp>
+  <!-- EN: Pick up {0} (all) -->
+  <PickUpAll>TODO</PickUpAll>
+  <!-- EN: Pick up {0}... -->
+  <PickUpSome>TODO</PickUpSome>
+  <!-- EN: Pick up {0} x{{0}} -->
+  <PickUpCount>TODO</PickUpCount>
+  
+  <!-- EN: Cannot give {0} to pack animal -->
+  <CannotGiveToPackAnimal>TODO</CannotGiveToPackAnimal>
+  <!-- EN: Cannot give {0} (all) to pack animal -->
+  <CannotGiveToPackAnimalAll>TODO</CannotGiveToPackAnimalAll>
+  <!-- EN: Give {0} to pack animal -->
+  <GiveToPackAnimal>TODO</GiveToPackAnimal>
+  <!-- EN: Give {0} (all) to pack animal -->
+  <GiveToPackAnimalAll>TODO</GiveToPackAnimalAll>
+  <!-- EN: Give {0} to pack animal... -->
+  <GiveToPackAnimalSome>TODO</GiveToPackAnimalSome>
+  <!-- EN: Take {0} x{{0}} -->
+  <GiveToPackAnimalCount>TODO</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {0} into caravan -->
+  <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {0} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>TODO</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {0} into caravan -->
+  <LoadIntoCaravan>TODO</LoadIntoCaravan>
+  <!-- EN: Load {0} (all) into caravan -->
+  <LoadIntoCaravanAll>TODO</LoadIntoCaravanAll>
+  <!-- EN: Load {0} into caravan... -->
+  <LoadIntoCaravanSome>TODO</LoadIntoCaravanSome>
+  <!-- EN: Load {0} x{{0}} -->
+  <LoadIntoCaravanCount>TODO</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>TODO</OverweightLower>
+
+  <!-- EN: Cannot carry {0} and leave the area -->
+  <CannotCarryToExit>TODO</CannotCarryToExit>
+  <!-- EN: Carry {0} and leave the area -->
+  <CarryToExit>TODO</CarryToExit>
+  <!-- EN: Capture {0} and leave the area -->
+  <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {0} -->
   <Strip>Kleed {0} uit</Strip>
+  <!-- EN: Cannot strip {0} -->
   <CannotStrip>Kan {0} niet uitkleden</CannotStrip>
 
-  <Deposit>Leg {0} in {1}</Deposit>
-  <CannotDeposit>Kan {0} niet in {1} leggen</CannotDeposit>
-
+  <!-- EN: Self-destruct here -->
   <SelfDestructHere>Zelfvernietiging hier</SelfDestructHere>
   
+  <!-- EN: Drop {0} -->
   <Drop>Laat {0} vallen</Drop>
-  
+
+  <!-- EN: Rest until healed -->
   <UseMedicalBed>Rust tot volledig hersteld</UseMedicalBed>
+  <!-- EN: not injured -->
   <NotInjured>Niet gewond</NotInjured>
+  <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>Bezet</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>TODO</TradeWith>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>TODO</CannotTrade>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>TODO</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>TODO</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>TODO</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>TODO</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>TODO</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>TODO</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>TODO</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>TODO</OfferGifts>
 
-  <!-- Specific thing interactions --> 
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
   <EnterCryptosleepCasket>Stap in cryptoslaapcapsule</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Open cryptoslaapcapsule</OpenCryptosleepCasket>
-  
-  
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Kan {1} niet {0}.</CannotGenericWork>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Kan {1} niet {0}.</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
+
+  <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>Kan geen prioriteit geven vanwege een gezondheidsprobleem: {0}</CannotMissingHealthActivities>
-  
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {1} -->
   <CannotGenericAlreadyAm>{1} al bezig met {0}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Kan hier geen prioriteit aan geven ({0} is geen {1})</CannotPrioritizeIsNotA>
+  <!-- EN: Cannot prioritize (will never do {0}) -->
+  <CannotPrioritizeWorkTypeDisabled>TODO</CannotPrioritizeWorkTypeDisabled>
 
+  <!-- EN: Cannot prioritize (will never {0}) -->
+  <CannotPrioritizeWorkGiverDisabled>TODO</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>TODO</WillNever>
+
+  <!-- EN: Cannot prioritize (not assigned to {0}) -->
+  <CannotPrioritizeNotAssignedToWorkType>TODO</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>TODO</NotAssigned>
+
+  <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Kan hier geen prioriteit aan geven (onderzoek is een langdurige taak)</CannotPrioritizeResearch>
 
+  <!-- EN: Cannot prioritize ({0} is forbidden) -->
   <CannotPrioritizeForbidden>Kan hier geen prioriteit aan geven ({0} is verboden)</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize (forbidden) -->
+  <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>TODO</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>Prioritiseer {1} {0}</PrioritizeGeneric>
   
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>TODO</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>TODO</DropInCenter>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>TODO</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>TODO</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>TODO</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>TODO</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>TODO</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>TODO</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>TODO</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>TODO</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>TODO</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>TODO</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>TODO</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>TODO</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>TODO</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>TODO</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>TODO</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>TODO</GiveGiftViaTransportPods>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>TODO</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>TODO</OfferHelp>
+  
+  <!-- UNUSED -->
+  <CannotFight>{0} kan niet vechten</CannotFight>
+  <SociallyImproperLower>sociaal ongepast</SociallyImproperLower>
+  <PrisonerRoomLower>gevangenis</PrisonerRoomLower>
+  <NoManipulationSkill>ongeschikt</NoManipulationSkill>
+  <Wear>Trek {0} aan</Wear>
+  <Deposit>Leg {0} in {1}</Deposit>
+  <CannotDeposit>Kan {0} niet in {1} leggen</CannotDeposit>
+  <CannotPrioritizeIsNotA>Kan hier geen prioriteit aan geven ({0} is geen {1})</CannotPrioritizeIsNotA>
+
 </LanguageData>

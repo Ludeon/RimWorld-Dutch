@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>Grind</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>TODO</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>TODO</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>Moerassige grond</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>TODO</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>TODO</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>TODO</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>TODO</Mud.tools.mud.label>
+  
+  <!-- UNUSED -->
+  <RoughStone.label>Ruwe steen</RoughStone.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>Zand</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>TODO</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>TODO</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>TODO</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>Aarde</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>TODO</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>Vruchtbare aarde</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>TODO</SoilRich.tools.dirt.label>
+  
+</LanguageData>

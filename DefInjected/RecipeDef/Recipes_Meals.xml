@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>Kook een lekkere maaltijd</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>Kook een lekker maaltijd met twee ingredi�nten.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>Lekkere maaltijd koken.</CookMealFine.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>Kook een luxe maaltijd</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <CookMealLavish.description>Kook een luxe maaltijd met drie ingredi�nten.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>Luxe maaltijd koken.</CookMealLavish.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>Eenvoudige maaltijd koken</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>Kook een eenvoudige maaltijd met maar ��n simpel ingredi�nt.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>Eenvoudige maaltijd koken.</CookMealSimple.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>TODO</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
+  
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Cremation.label>Crematorium</Cremation.label>
+  <Cremation.description>Bouw een crematorium, waarmee je van ongewenste lichamen af kunt komen.</Cremation.description>
+  
+  <!-- UNUSED -->
+  <ElectricSmelting.label>Smeltoven</ElectricSmelting.label>
+  <ElectricSmelting.description>Hiermee kun je een smeltoven bouwen. Die gebruikt warmte en sterke electrische magneten om metaal uit sintel te onttrekken.</ElectricSmelting.description>
+  
+  <!-- UNUSED -->
+  <GunTurretCooling.label>Betere geweerkoeling</GunTurretCooling.label>
+  <GunTurretCooling.description>Automatische kannonen zullen nu 4 in plaats van 3 kogels per salvo afvuren.</GunTurretCooling.description>
+  
+  <!-- UNUSED -->
+  <NutrientResynthesis.label>Voedingsstof resynthese</NutrientResynthesis.label>
+  <NutrientResynthesis.description>De voedingsstoffen-pasta automaat zal 10% minder voedsel gebruiken.</NutrientResynthesis.description>
+  
+  <!-- UNUSED -->
+  <PneumaticPicks.label>Pneumatische houwelen</PneumaticPicks.label>
+  <PneumaticPicks.description>Houwelen zijn 20% efficiënter.</PneumaticPicks.description>
+  
+  <!-- UNUSED -->
+  <Tailoring.label>Kledingtafel</Tailoring.label>
+  <Tailoring.description>Hiermee kun je je kolonisten kleding laten maken</Tailoring.description>
+  
+</LanguageData>

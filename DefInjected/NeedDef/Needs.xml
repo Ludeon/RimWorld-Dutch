@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>schoonheid</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Schoonheid reflecteert hoe visueel aantrekkelijk de directe omgeving van een persoon is.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>comfort</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>Comfort is verkregen door het zitten of slapen op comfortabele meubels.</Comfort.description>
+  
+  <!-- EN: food -->
+  <Food.label>voedsel</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>voedsel is de hoeveelheid voeding wat een organisme recentelijk heeft gegeten. Als voedsel nul word krijgt het organisme ondervoedingschade over tijd.</Food.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>plezier</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Plezier representeert hoeveelheid plezier een organisme recentlijk heeft gehad. Hou in gedachten dat een bepaald acticiteit veel herhalen het tijdelijk minder efficient maakt in plezier krijgen.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>stemming</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
+  <Mood.description>Stemming representeert hoe blij of gestrest iemand is. Als iemands stemming te laag is kan deze persoon mentaal instorten.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>TODO</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>TODO</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>rust</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Rust staat voor hoeveel slaap een organimse recentlijk heeft gehad.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>TODO</RoomSize.label>
+  
+</LanguageData>

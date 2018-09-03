@@ -1,16 +1,26 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Time -->
   <ClockTime>Tijd</ClockTime>
+  <!-- EN: Date -->
   <ClockDate>Datum</ClockDate>
+  <!-- EN: Year -->
   <ClockYear>Jaar</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
   <DateReadoutTip>Sinds je aankomst zijn er {0} dagen verstreken.\Iedere maand heeft {1} dagen\nDit is jaar {2}.</DateReadoutTip>
 
-
-
+  <!-- EN: {0} of {1}, {2} -->
   <FullDate>{0} {1}, jaar {2}</FullDate>
-  <MonthFullDate>{0} {1}</MonthFullDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>TODO</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>TODO</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>TODO</WholeYear>
   
+  <!-- UNUSED -->
+  <MonthFullDate>{0} {1}</MonthFullDate>
   <MonthFullJanuary>januari</MonthFullJanuary>
   <MonthFullFebruary>februari</MonthFullFebruary>
   <MonthFullMarch>maart</MonthFullMarch>
@@ -23,7 +33,6 @@
   <MonthFullOctober>oktober</MonthFullOctober>
   <MonthFullNovember>november</MonthFullNovember>
   <MonthFullDecember>december</MonthFullDecember>
-  
   <MonthShortJanuary>jan</MonthShortJanuary>
   <MonthShortFebruary>feb</MonthShortFebruary>
   <MonthShortMarch>mrt</MonthShortMarch>
@@ -36,6 +45,5 @@
   <MonthShortOctober>okt</MonthShortOctober>
   <MonthShortNovember>nov</MonthShortNovember>
   <MonthShortDecember>dec</MonthShortDecember>
-    
-    
+
 </LanguageData>

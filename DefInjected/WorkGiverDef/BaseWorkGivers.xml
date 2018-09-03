@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <BecomePatient.verb>behandeling ontvangen in</BecomePatient.verb>
+  <BecomePatient.gerund>ontvant behandeling in</BecomePatient.gerund>
+  
+  <!-- UNUSED -->
+  <DoBillsButcherMechanoid.verb>afbreken</DoBillsButcherMechanoid.verb>
+  <DoBillsButcherMechanoid.gerund>afbreken</DoBillsButcherMechanoid.gerund>
+  
+  <!-- UNUSED -->
+  <DoBillsMakeClothes.verb>kleding maken</DoBillsMakeClothes.verb>
+  <DoBillsMakeClothes.gerund>kleding maken</DoBillsMakeClothes.gerund>
+  
+  <!-- UNUSED -->
+  <DoBillsMedicalMechanoidOperation.verb>modificeren</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>modificeren</DoBillsMedicalMechanoidOperation.gerund>
+  
+  <!-- UNUSED -->
+  <DoBillsSlagRefining.verb>veredelen</DoBillsSlagRefining.verb>
+  <DoBillsSlagRefining.gerund>veredelen</DoBillsSlagRefining.gerund>
+  
+  <!-- UNUSED -->
+  <DoctorEmergencyHeal.verb>behandelen</DoctorEmergencyHeal.verb>
+  <DoctorEmergencyHeal.gerund>behandelen</DoctorEmergencyHeal.gerund>
+  
+  <!-- UNUSED -->
+  <DoctorFeed.verb>voeden</DoctorFeed.verb>
+  <DoctorFeed.gerund>voeden</DoctorFeed.gerund>
+  
+  <!-- UNUSED -->
+  <DoctorHeal.verb>behandelen</DoctorHeal.verb>
+  <DoctorHeal.gerund>behandelen</DoctorHeal.gerund>
+  
+  <!-- UNUSED -->
+  <Warden.verb>begeleiden</Warden.verb>
+  <Warden.gerund>begeleiden</Warden.gerund>
+  
+</LanguageData>

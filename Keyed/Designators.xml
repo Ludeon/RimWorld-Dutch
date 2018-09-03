@@ -1,96 +1,243 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Cancel -->
   <DesignatorCancel>Annuleren</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>Annuleert orders om te bouwen, graven, slepen, oogsten en andere orders.</DesignatorCancelDesc>
-  
-  
+
+  <!-- EN: Cut plants -->
   <DesignatorCutPlants>Planten wieden</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
   <DesignatorCutPlantsDesc>Markeert planten die gewied moeten worden. Planten worden volledig verwijderd, eventueel eten wordt geoogst.</DesignatorCutPlantsDesc>
 
+  <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Afbreken</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Markeert gebouwen om af te breken. Je krijgt een deel van de gebruikte grondstoffen terug.</DesignatorDeconstructDesc>
 
+  <!-- EN: Uninstall -->
+  <DesignatorUninstall>TODO</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
+  <DesignatorUninstallDesc>TODO</DesignatorUninstallDesc>
+
+  <!-- EN: Harvest -->
   <DesignatorHarvest>Oogsten</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
   <DesignatorHarvestDesc>Markeert planten om geoogst te worden voor bijvoorbeeld voedsel.</DesignatorHarvestDesc>
 
+  <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Houthakken</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
   <DesignatorHarvestWoodDesc>Markeert bomen om om te hakken, je krijgt hier hout voor terug.</DesignatorHarvestWoodDesc>
-  
+
+  <!-- EN: Haul things -->
   <DesignatorHaulThings>Objecten verslepen</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>Markeert objecten zoals stenen om weggesleept te worden naar een opslagplaats. Niet nodig voor dingen als eten en lijken, die worden automatisch versleept.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Niets om op te verslepen gevonden.</NothingToHaulHere>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
   <MustHaulHaulables>Je kunt alleen dingen markeren, die niet automatisch versleept worden.</MustHaulHaulables>
 
+  <!-- EN: Hunt -->
   <DesignatorHunt>Jagen</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters. -->
   <DesignatorHuntDesc>Markeert dieren waarop gejaagd moet worden.</DesignatorHuntDesc>
 
+  <!-- EN: Mine -->
   <DesignatorMine>Mijnbouw</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Markeert gesteente dat gedolven moet worden.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Vloer polijsten</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Markeer ruwe stenen, die glad moeten worden gemaakt.</DesignatorSmoothFloorDesc> 
-  
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
+
+  <!-- EN: Plan -->
   <DesignatorPlan>Plannen</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
   <DesignatorPlanDesc>Markeert vakken als gepland. Hiermee kun je je toekomstige uitbouw plannen, je kolonisten zullen deze markering negeren.</DesignatorPlanDesc>
 
+  <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Verwijder plannen</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
   <DesignatorPlanRemoveDesc>Haalt de 'gepland' markering weg van geplande vakken.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Thuiszone toevoegen</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>In de thuiszone wordt door je kolonisten automatisch onderhoud gepleegd. Zoals reparaties, schoonmaaktaken en brandblussen.</DesignatorHomeRegionAddDesc>
+  <!-- EN: Forbid -->
+  <DesignatorForbid>TODO</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
 
-  <DesignatorHomeRegionRemove>Thuiszone verwijderen</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Verwijdert een thuiszone. Kolonisten zullen dit gebied niet langer automatisch onderhouden.</DesignatorHomeRegionRemoveDesc>
+  <!-- EN: Unforbid -->
+  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
 
-  <DesignatorRegionNoRoofAdd>Openluchtzone toevoegen</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Stelt een zone in, waarin geen daken gebouwd mogen worden. Kolonisten zullen bestaande daken in deze zone afbreken.</DesignatorRegionNoRoofAddDesc>
+  <!-- EN: Expand home area -->
+  <DesignatorAreaHomeExpand>TODO</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
+  <DesignatorAreaHomeExpandDesc>TODO</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
+  <DesignatorAreaHomeClear>TODO</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
+  <DesignatorAreaHomeClearDesc>TODO</DesignatorAreaHomeClearDesc>
 
-  <DesignatorRegionNoRoofRemove>Openluchtzone toevoegen</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Verwijdert een openluchtzone. Daken zullen hierin weer hersteld worden en bestaande daken zullen niet worden afgebroken.</DesignatorRegionNoRoofRemoveDesc>
+  <!-- EN: Build roof area -->
+  <DesignatorAreaBuildRoofExpand>TODO</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
+  <DesignatorAreaBuildRoofExpandDesc>TODO</DesignatorAreaBuildRoofExpandDesc>
 
-    <DesignatorRegionSnowClearAdd>Sneeuwvrije zone toevoegen</DesignatorRegionSnowClearAdd>
-  <DesignatorRegionSnowClearAddDesc>Markeert een zone die kolonisten sneeuwvrij zullen proberen te houden.</DesignatorRegionSnowClearAddDesc>
+  <!-- EN: Remove roof area -->
+  <DesignatorAreaNoRoofExpand>TODO</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc>TODO</DesignatorAreaNoRoofExpandDesc>
 
-  <DesignatorRegionSnowClearRemove>Sneeuwvrije zone verwijderen</DesignatorRegionSnowClearRemove>
-  <DesignatorRegionSnowClearRemoveDesc>Verwijdert een sneeuwvrije zone. Kolonisten proberen niet langer deze zone sneeuwvrij te houden.</DesignatorRegionSnowClearRemoveDesc>
-    
+  <!-- EN: Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- EN: Expand snow clear area -->
+  <DesignatorAreaSnowClearExpand>TODO</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc>TODO</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow clear Area -->
+  <DesignatorAreaSnowClearClear>TODO</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc>TODO</DesignatorAreaSnowClearClearDesc>
+
+  <!-- EN: Expand allowed area -->
+  <DesignatorExpandAreaAllowed>TODO</DesignatorExpandAreaAllowed>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc>TODO</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
+  <DesignatorClearAreaAllowed>TODO</DesignatorClearAreaAllowed>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc>TODO</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
+  <ManageAreas>TODO</ManageAreas>
+
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Markeer een gebied waar kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
 
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageResourcesDesc>Markeert een gebied waarin kolonisten goederen kunnen opslaan.\nHiermee kun je ook bestaande opslagplaatsen uitbreiden.</DesignatorZoneCreateStorageResourcesDesc>
 
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageDumpingDesc>Stelt een zone in waarin kolonisten afval kunnen opslaan.\nHiermee kun je ook bestaande afvalzones uitbreiden.</DesignatorZoneCreateStorageDumpingDesc>
 
+  <!-- EN: Shrink zones -->
   <DesignatorZoneDelete>Zones verwijderen</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
   <DesignatorZoneDeleteDesc>Verwijder zones, zoals opslag- en afvalzones.</DesignatorZoneDeleteDesc>
-    
-  <DesignatorClaim>Neem bezit</DesignatorClaim>
-  <DesignatorClaimDesc>Neem  neutrale gebouwen in bezit. Overgenomen gebouwen kunnen worden gerepareerd en onderhouden door je kolonisten.</DesignatorClaimDesc>
-  
-  <!-- placement of blueprints -->
-  <UnchosenStuff>Ongekozen materiaal</UnchosenStuff>
-  <TooCloseToMapEdge>Te dicht bij de rand van de kaart.</TooCloseToMapEdge>
-  <OutOfBounds>Buiten de kaart.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Kan niet in een onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Bedieningsplaats geblokkeerd door {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Bedieningsplaats is buiten de kaart.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Bedieningsplaats zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} zou {1}'s bedieningsplaats blokeren.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>De grond is hier al {0}.</TerrainIsAlready>
-  <IdenticalThingExists>Hier staat al eenzelfde ding.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Hetzelfde plan bestaat al.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>De grond hier kan dit niet dragen.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Deze plaats wordt al gebruikt.</SpaceAlreadyOccupied>
-  
 
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
   
-  <!-- placement of zones -->
+  <!-- EN: Claim -->
+  <DesignatorClaim>Neem bezit</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
+  <DesignatorClaimDesc>Neem  neutrale gebouwen in bezit. Overgenomen gebouwen kunnen worden gerepareerd en onderhouden door je kolonisten.</DesignatorClaimDesc>
+
+  <!-- EN: Remove floor -->
+  <DesignatorRemoveFloor>TODO</DesignatorRemoveFloor>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc>TODO</DesignatorRemoveFloorDesc>
+
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <!-- EN: Remove bridges to reveal the terrain underneath. -->
+  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
+  <DesignatorStrip>TODO</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
+  <DesignatorStripDesc>TODO</DesignatorStripDesc>
+
+  <!-- EN: Open -->
+  <DesignatorOpen>TODO</DesignatorOpen>
+  <!-- EN: Open containers. -->
+  <DesignatorOpenDesc>TODO</DesignatorOpenDesc>
+  
+  <!-- EN: Slaughter -->
+  <DesignatorSlaughter>TODO</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
+  <DesignatorSlaughterDesc>TODO</DesignatorSlaughterDesc>
+
+  <!-- EN: Tame -->
+  <DesignatorTame>TODO</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
+  <DesignatorTameDesc>TODO</DesignatorTameDesc>
+
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
+  <UnchosenStuff>Ongekozen materiaal</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
+  <TooCloseToMapEdge>Te dicht bij de rand van de kaart.</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
+  <OutOfBounds>Buiten de kaart.</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
+  <CannotPlaceInUndiscovered>Kan niet in een onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
+  <!-- EN: Interaction spot is blocked by {0}. -->
+  <InteractionSpotBlocked>Bedieningsplaats geblokkeerd door {0}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
+  <InteractionSpotOutOfBounds>Bedieningsplaats is buiten de kaart.</InteractionSpotOutOfBounds>
+  <!-- EN: Interaction spot will be blocked by {0}. -->
+  <InteractionSpotWillBeBlocked>Bedieningsplaats zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
+  <WouldBlockInteractionSpot>{0} zou {1}'s bedieningsplaats blokeren.</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
+  <TerrainIsAlready>De grond is hier al {0}.</TerrainIsAlready>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>TODO</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
+  <IdenticalThingExists>Hier staat al eenzelfde ding.</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
+  <IdenticalBlueprintExists>Hetzelfde plan bestaat al.</IdenticalBlueprintExists>
+  <!-- EN: The terrain here cannot support this. -->
+  <TerrainCannotSupport>De grond hier kan dit niet dragen.</TerrainCannotSupport>
+  <!-- EN: Space already occupied. -->
+  <SpaceAlreadyOccupied>Deze plaats wordt al gebruikt.</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
+  <SpaceBeingSmoothed>TODO</SpaceBeingSmoothed>
+  <!-- EN: Must target a removable floor. -->
+  <TerrainMustBeRemovable>TODO</TerrainMustBeRemovable>
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
+  
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Breid {0} uit of\nMaak nieuwe {1}</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
   <CreateNewZone>Maak {0}</CreateNewZone>
   
-  
-  <!-- desc helpers -->
+  <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
   <TransmitsPower>Geleidt stroom</TransmitsPower>
+  <!-- EN: Construction needed -->
+  <ConstructionNeeded>TODO</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithConstructionSkillTip>TODO</NoColonistWithConstructionSkillTip>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
+  <!-- UNUSED -->
+  <NothingToHaulHere>Niets om op te verslepen gevonden.</NothingToHaulHere>
+  <DesignatorSmoothFloor>Vloer polijsten</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Markeer ruwe stenen, die glad moeten worden gemaakt.</DesignatorSmoothFloorDesc>
+  <DesignatorHomeRegionAdd>Thuiszone toevoegen</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>In de thuiszone wordt door je kolonisten automatisch onderhoud gepleegd. Zoals reparaties, schoonmaaktaken en brandblussen.</DesignatorHomeRegionAddDesc>
+  <DesignatorHomeRegionRemove>Thuiszone verwijderen</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Verwijdert een thuiszone. Kolonisten zullen dit gebied niet langer automatisch onderhouden.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorRegionNoRoofAdd>Openluchtzone toevoegen</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Stelt een zone in, waarin geen daken gebouwd mogen worden. Kolonisten zullen bestaande daken in deze zone afbreken.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorRegionNoRoofRemove>Openluchtzone toevoegen</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Verwijdert een openluchtzone. Daken zullen hierin weer hersteld worden en bestaande daken zullen niet worden afgebroken.</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorRegionSnowClearAdd>Sneeuwvrije zone toevoegen</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Markeert een zone die kolonisten sneeuwvrij zullen proberen te houden.</DesignatorRegionSnowClearAddDesc>
+  <DesignatorRegionSnowClearRemove>Sneeuwvrije zone verwijderen</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Verwijdert een sneeuwvrije zone. Kolonisten proberen niet langer deze zone sneeuwvrij te houden.</DesignatorRegionSnowClearRemoveDesc>
 
 </LanguageData>

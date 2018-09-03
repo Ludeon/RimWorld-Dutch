@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>Gebouwd dak</RoofConstructed.label>
+  
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>Bergdak</RoofRockThick.label>
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>Dun stenen dak</RoofRockThin.label>
+  
+</LanguageData>

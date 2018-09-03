@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancients -->
+  <Ancients.label>Ruimtereiziger</Ancients.label>
+  <Ancients.description>Reizigers uit de verste hoeken van de ruimte.</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Ruimtereiziger</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>Ruimtereizigers</Ancients.pawnsPlural>
+  
+  <!-- EN: ancients -->
+  <AncientsHostile.label>Ruimtereiziger</AncientsHostile.label>
+  <AncientsHostile.description>Reizigers uit de verste hoeken van de ruimte.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Ruimtereiziger</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>Ruimtereizigers</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>Insecten</Insect.label>
+  <Insect.description>Agressieve en indringende insecten.</Insect.description>
+  <!-- EN: insects -->
+  <Insect.fixedName>Insecten</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>Insecten</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>Mechanoide</Mechanoid.label>
+  <Mechanoid.description>Een collectief van oude zelf-reproducerende machines.</Mechanoid.description>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>Een zwerm mechanoiden</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
+  
+</LanguageData>

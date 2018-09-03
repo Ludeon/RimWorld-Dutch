@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: marrying TargetA. -->
+  <MarryAdjacentPawn.reportString>TODO</MarryAdjacentPawn.reportString>
+  
+  <!-- UNUSED -->
+  <MarryAdjecentPawn.reportString>aan het trouwen met TargetA.</MarryAdjecentPawn.reportString>
+  
+  <!-- EN: spectating. -->
+  <SpectateCeremony.reportString>aan het toekijken.</SpectateCeremony.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <StandAndBeSociallyActive.reportString>sociaal aan het ontspannen.</StandAndBeSociallyActive.reportString>
+  
+</LanguageData>

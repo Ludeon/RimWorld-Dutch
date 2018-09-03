@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Art.tooltipDesc>Kunstenaars maken wonderbaarlijke kunstwerken.</Art.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Cleaning.tooltipDesc>Schoonmakers halen vuil weg, en verhogen hiermee de levensstandaard van de kolonisten.</Cleaning.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Construction.tooltipDesc>Bouwers bouwen geplande constructies.</Construction.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Cooking.tooltipDesc>De kok vult de voedingsstoffenpasta-automaat en kookt maaltijden.</Cooking.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Crafting.tooltipDesc>Handwerkers maken dingen van materialen.</Crafting.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Doctor.tooltipDesc>De arts brengt eten aan en verzorgt degenen die verwond in bed liggen. Hij verzorgd gevangenen en kolonisten.</Doctor.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Firefighter.tooltipDesc>De brandweerman blust het vuur in de kolonie.</Firefighter.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Growing.tooltipDesc>Een verbouwer verzorgt planten en gewassen.</Growing.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Hauling.tooltipDesc>dragers dragen dingen naar waar ze horen.</Hauling.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Hunting.tooltipDesc>Jagers doden dieren, om ze vervolgens te kunnen slachten.</Hunting.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Mining.tooltipDesc>Een delver delft gemarkeerde stenen. Als hij mineralen delft, zullen die mineralen ook vrij komen.</Mining.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Patient.tooltipDesc>Patienten liggen in een ziekenbed, als ze en medische behandeling nodig hebben.</Patient.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <PlantCutting.tooltipDesc>Plantensnijders snijden planten en hakken bomen om.</PlantCutting.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Repair.pawnLabel>Reparateur</Repair.pawnLabel>
+  <Repair.gerundLabel>Repareren</Repair.gerundLabel>
+  <Repair.verb>Repareert</Repair.verb>
+  <Repair.tooltipDesc>Reparateurs repareren gebouwen en apparatuur.</Repair.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Research.tooltipDesc>onderzoekers onderzoeken technologiën.</Research.tooltipDesc>
+  
+  <!-- UNUSED -->
+  <Warden.tooltipDesc>Bewakers bezoeken de gevangenen, hebben gesprekken met ze, slaan ze in elkaar of executeren ze - Wat jij maar kiest. Ook brengen bewakers gevangenen hun eten.</Warden.tooltipDesc>
+  
+</LanguageData>

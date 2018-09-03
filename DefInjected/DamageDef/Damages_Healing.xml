@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <HealGlobal.label>Alle wonden aan het verzorgen</HealGlobal.label>
+  
+  <!-- UNUSED -->
+  <HealInjury.label>Lokale wonden aan het verzorgen</HealInjury.label>
+  
+  <!-- UNUSED -->
+  <Repair.label>Repareren</Repair.label>
+  
+  <!-- UNUSED -->
+  <RestoreBodyPart.label>Lichaamsdeel herstellen</RestoreBodyPart.label>
+  
+</LanguageData>

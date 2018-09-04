@@ -46,26 +46,15 @@
   <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
   <PavedTile.description>Utilitair betontegels. Snel om op te bewegen, maar niet erg mooi.</PavedTile.description>
   
-  <!-- UNUSED -->
-  <RoughHewnRock.label>Ruw gehakte steen</RoughHewnRock.label>
-  
   <!-- EN: silver tile -->
   <SilverTile.label>TODO</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
   <SilverTile.description>TODO</SilverTile.description>
   
-  <!-- UNUSED -->
-  <SmoothStone.label>Gladde steen</SmoothStone.label>
-  <SmoothStone.description>Gladgestreken natuursteen. Snel om op te lopen en mooi om naar te kijken.</SmoothStone.description>
-  
   <!-- EN: sterile tile -->
   <SterileTile.label>TODO</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
   <SterileTile.description>TODO</SterileTile.description>
-  
-  <!-- UNUSED -->
-  <StoneTile.label>Stenen tegel</StoneTile.label>
-  <StoneTile.description>Massieve stenen tegels voor een kasteel gevoel.</StoneTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>Houten vloer</WoodPlankFloor.label>

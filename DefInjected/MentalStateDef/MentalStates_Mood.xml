@@ -20,16 +20,10 @@
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <Berserk.recoveryMessage>{0}s razernij is afgelopen.</Berserk.recoveryMessage>
   
-  <!-- UNUSED -->
-  <Berserk.recoveryThought>Katharsis</Berserk.recoveryThought>
-  
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>overdosis drugs aan het nemen</Binging_DrugExtreme.label>
   <!-- EN: Mental state: Binging on {0} -->
   <Binging_DrugExtreme.baseInspectLine>Mentale staat: overdosis aan het nemen.</Binging_DrugExtreme.baseInspectLine>
-  
-  <!-- UNUSED -->
-  <Binging_DrugExtreme.recoveryThought>Katharsis</Binging_DrugExtreme.recoveryThought>
   
   <!-- EN: binging on drug -->
   <Binging_DrugMajor.label>TODO</Binging_DrugMajor.label>
@@ -46,9 +40,6 @@
   <Binging_Food.beginLetterLabel>schrokpartij</Binging_Food.beginLetterLabel>
   <!-- EN: {0} is no longer pigging out on food. -->
   <Binging_Food.recoveryMessage>{0} is niet meer voedsel aan het schrokken.</Binging_Food.recoveryMessage>
-  
-  <!-- UNUSED -->
-  <Binging_Food.recoveryThought>Katharsis</Binging_Food.recoveryThought>
   
   <!-- EN: corpse obsession -->
   <CorpseObsession.label>TODO</CorpseObsession.label>
@@ -69,9 +60,6 @@
   <!-- EN: {0} is no longer on a fire starting spree. -->
   <FireStartingSpree.recoveryMessage>{0} is niet meer pyromanisch.</FireStartingSpree.recoveryMessage>
   
-  <!-- UNUSED -->
-  <FireStartingSpree.recoveryThought>Katharsis</FireStartingSpree.recoveryThought>
-  
   <!-- EN: giving up and leaving -->
   <GiveUpExit.label>geeft op en vertrekt</GiveUpExit.label>
   <!-- EN: Mental state: Given up and leaving -->
@@ -82,9 +70,6 @@
   <GiveUpExit.beginLetterLabel>opgegeven</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
   <GiveUpExit.recoveryMessage>{0} heeft zijn gedachten veranderd en komt weer terug.</GiveUpExit.recoveryMessage>
-  
-  <!-- UNUSED -->
-  <GiveUpExit.recoveryThought>Katharsis</GiveUpExit.recoveryThought>
   
   <!-- EN: insulting spree -->
   <InsultingSpree.label>TODO</InsultingSpree.label>
@@ -169,9 +154,6 @@
   <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
   <Wander_OwnRoom.recoveryMessage>{0} is zich niet meer aan het verstoppen in [PAWN_possessive] kamer.</Wander_OwnRoom.recoveryMessage>
   
-  <!-- UNUSED -->
-  <Wander_OwnRoom.recoveryThought>Katharsis</Wander_OwnRoom.recoveryThought>
-  
   <!-- EN: wandering in psychosis -->
   <Wander_Psychotic.label>verwarde wandeling</Wander_Psychotic.label>
   <!-- EN: Mental state: Psychotic wandering -->
@@ -183,9 +165,6 @@
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
   <Wander_Psychotic.recoveryMessage>{0} is niet meer verward aan het rondlopen.</Wander_Psychotic.recoveryMessage>
   
-  <!-- UNUSED -->
-  <Wander_Psychotic.recoveryThought>Katharsis</Wander_Psychotic.recoveryThought>
-  
   <!-- EN: sad wandering -->
   <Wander_Sad.label>treurig wandelen</Wander_Sad.label>
   <!-- EN: Mental state: Sad wandering -->
@@ -196,8 +175,5 @@
   <Wander_Sad.beginLetterLabel>treurige wandeling</Wander_Sad.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in sadness. -->
   <Wander_Sad.recoveryMessage>{0} is niet meer diep treurig aan het wandelen.</Wander_Sad.recoveryMessage>
-  
-  <!-- UNUSED -->
-  <Wander_Sad.recoveryThought>Katharsis</Wander_Sad.recoveryThought>
   
 </LanguageData>

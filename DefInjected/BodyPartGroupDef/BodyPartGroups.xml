@@ -7,9 +7,6 @@
   <!-- EN: beak -->
   <Beak.label>TODO</Beak.label>
   
-  <!-- UNUSED -->
-  <CoveredByNaturalArmor.label>Bedekt met natuurlijke bepantsering</CoveredByNaturalArmor.label>
-  
   <!-- EN: eyes -->
   <Eyes.label>Ogen</Eyes.label>
   
@@ -66,16 +63,10 @@
   <!-- EN: blade -->
   <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
   
-  <!-- UNUSED -->
-  <LeftFist.label>Linker vuist</LeftFist.label>
-  
   <!-- EN: left fist -->
   <LeftHand.label>TODO</LeftHand.label>
   <!-- EN: fist -->
   <LeftHand.labelShort>TODO</LeftHand.labelShort>
-  
-  <!-- UNUSED -->
-  <LeftKnifeProtrusion.label>Linker mesuitsteeksel</LeftKnifeProtrusion.label>
   
   <!-- EN: legs -->
   <Legs.label>Benen</Legs.label>
@@ -91,16 +82,10 @@
   <!-- EN: blade -->
   <RightBlade.labelShort>TODO</RightBlade.labelShort>
   
-  <!-- UNUSED -->
-  <RightFist.label>Rechter vuist</RightFist.label>
-  
   <!-- EN: right fist -->
   <RightHand.label>TODO</RightHand.label>
   <!-- EN: fist -->
   <RightHand.labelShort>TODO</RightHand.labelShort>
-  
-  <!-- UNUSED -->
-  <RightKnifeProtrusion.label>Rechter mesuitsteeksel</RightKnifeProtrusion.label>
   
   <!-- EN: shoulders -->
   <Shoulders.label>TODO</Shoulders.label>

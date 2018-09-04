@@ -31,12 +31,4 @@
   <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
   <Rough.description>TODO</Rough.description>
   
-  <!-- UNUSED -->
-  <VeryEasy.label>Basis bouwer</VeryEasy.label>
-  <VeryEasy.description>Voor de mensen die willen genieten en een kolonie bouwen in een erg milde omgeving. Gevaren zijn er wel, maar erg zwak. Sommige van de meer gevaarlijke gebeurtenissen zijn uitgeschakeld.</VeryEasy.description>
-  
-  <!-- UNUSED -->
-  <VeryHard.label>Extreem</VeryHard.label>
-  <VeryHard.description>Extreem moeilijk. Vijanden zijn sterk, verkoopprijzen zijn slecht, eten is schaars, en kolonisten zijn chagarijnig. Voor de mensen die houden van digitale marteling.</VeryHard.description>
-  
 </LanguageData>

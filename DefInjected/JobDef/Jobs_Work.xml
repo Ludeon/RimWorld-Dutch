@@ -7,9 +7,6 @@
   <!-- EN: building roof. -->
   <BuildRoof.reportString>een dak aan het bouwen.</BuildRoof.reportString>
   
-  <!-- UNUSED -->
-  <BuryCorpse.reportString>is TargetA aan het begraven.</BuryCorpse.reportString>
-  
   <!-- EN: capturing TargetA. -->
   <Capture.reportString>TargetA aan het pakken.</Capture.reportString>
   
@@ -87,9 +84,6 @@
   
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>TargetA aan het executeren.</PrisonerExecution.reportString>
-  
-  <!-- UNUSED -->
-  <PrisonerFriendlyChat.reportString>aan het praten met TargetA.</PrisonerFriendlyChat.reportString>
   
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>TargetA aan het vrijlaten.</ReleasePrisoner.reportString>

@@ -6,23 +6,17 @@
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Jouw eigen kolonie.</PlayerColony.description>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>TODO</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>Kolonist</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>kolonisten</PlayerColony.pawnsPlural>
-  
-  <!-- UNUSED -->
-  <PlayerColony.basicMemberKind>Kolonist</PlayerColony.basicMemberKind>
   
   <!-- EN: New Tribe -->
   <PlayerTribe.label>Stam</PlayerTribe.label>
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Jouw eigen stam.</PlayerTribe.description>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>Stamlid</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>stamleden</PlayerTribe.pawnsPlural>
-  
-  <!-- UNUSED -->
-  <PlayerTribe.basicMemberKind>Stamlid</PlayerTribe.basicMemberKind>
   
 </LanguageData>

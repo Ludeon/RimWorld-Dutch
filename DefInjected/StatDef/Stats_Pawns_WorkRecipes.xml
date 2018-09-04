@@ -46,10 +46,6 @@
   <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
   <SculptingSpeed.description>TODO</SculptingSpeed.description>
   
-  <!-- UNUSED -->
-  <SmeltingEfficiency.label>Smelteffectiviteit</SmeltingEfficiency.label>
-  <SmeltingEfficiency.description>Een verveelvoudiger van de hoeveelheid metaal die een persoon kan smelten uit een stuk sintel.</SmeltingEfficiency.description>
-  
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>Smeltsnelheid</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
@@ -59,14 +55,6 @@
   <SmithingSpeed.label>TODO</SmithingSpeed.label>
   <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
   <SmithingSpeed.description>TODO</SmithingSpeed.description>
-  
-  <!-- UNUSED -->
-  <StonecuttingEfficiency.label>Steenhouw-effectiviteit</StonecuttingEfficiency.label>
-  <StonecuttingEfficiency.description>Een verveelvouderig van de hoeveelheid blokken steen een persoon uit een stuk pijn.</StonecuttingEfficiency.description>
-  
-  <!-- UNUSED -->
-  <StonecuttingSpeed.label>Steenhouw-snelheid</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>De snelheid waarmee een persoon een stuk steen kan verwerken.</StonecuttingSpeed.description>
   
   <!-- EN: tailoring speed -->
   <TailoringSpeed.label>Kleermaaksnelheid</TailoringSpeed.label>

@@ -57,21 +57,11 @@
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksAny.jobString>TODO</Make_StoneBlocksAny.jobString>
   
-  <!-- UNUSED -->
-  <MakeArtilleryShell.label>make artillerie kogels</MakeArtilleryShell.label>
-  <MakeArtilleryShell.description>Maak een artillerie kogel.</MakeArtilleryShell.description>
-  <MakeArtilleryShell.jobString>Artillerie kogels aan het maken.</MakeArtilleryShell.jobString>
-  
-  <!-- UNUSED -->
-  <MakeStoneBlocks.label>maak stenen blokken</MakeStoneBlocks.label>
-  <MakeStoneBlocks.description>Maak bruikbare blokken steen van puin.</MakeStoneBlocks.description>
-  <MakeStoneBlocks.jobString>Stenen blokken maken.</MakeStoneBlocks.jobString>
-  
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>smelt metaal van wapen</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
   <SmeltWeapon.description>Gebruik hitte en sterke electromagneten om nuttig metaal uit wapens te halen.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString />
+  <SmeltWeapon.jobString>TODO</SmeltWeapon.jobString>
   
 </LanguageData>

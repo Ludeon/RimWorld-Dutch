@@ -16,14 +16,8 @@
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TODO</DropEquipment.reportString>
   
-  <!-- UNUSED -->
-  <EatFood.reportString>TargetA aan het eten.</EatFood.reportString>
-  
   <!-- EN: entering cryptosleep casket. -->
-  <EnterCryptosleepCasket.reportString>TODO</EnterCryptosleepCasket.reportString>
-  
-  <!-- UNUSED -->
-  <EnterCryptosleepPod.reportString>cryptoslaapcapsule in aan het gaan.</EnterCryptosleepPod.reportString>
+  <EnterCryptosleepCasket.reportString>cryptoslaapcapsule in aan het gaan.</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
   <EnterTransporter.reportString>TODO</EnterTransporter.reportString>
@@ -94,14 +88,11 @@
   <!-- EN: opening TargetA. -->
   <Open.reportString>TargetA aan het openen.</Open.reportString>
   
-  <!-- UNUSED -->
-  <RearmTrap.reportString>TargetA op scherp aan het zetten.</RearmTrap.reportString>
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>TargetA op scherp aan het zetten.</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>TODO</RearmTurret.reportString>
-  
-  <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>TargetA op scherp aan het zetten.</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
   <Refuel.reportString>TargetA aan het bijvullen.</Refuel.reportString>
@@ -123,9 +114,6 @@
   
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>TODO</TakeBeerOutOfFermentingBarrel.reportString>
-  
-  <!-- UNUSED -->
-  <TakeBeerOutOffFermentingBarrel.reportString>bier uit TargetA aan het halen.</TakeBeerOutOffFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA. -->
   <TakeInventory.reportString>TargetA aan het pakken.</TakeInventory.reportString>

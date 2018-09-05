@@ -24,14 +24,10 @@
   <Lover.label>minnaar</Lover.label>
   <Lover.labelFemale>minaar</Lover.labelFemale>
   
-  <!-- UNUSED -->
-  <ParenInLaw.label>schoonvader</ParenInLaw.label>
-  <ParenInLaw.labelFemale>schoonmoeder</ParenInLaw.labelFemale>
-  
   <!-- EN: father-in-law -->
-  <ParentInLaw.label>TODO</ParentInLaw.label>
+  <ParentInLaw.label>schoonvader</ParentInLaw.label>
   <!-- EN: mother-in-law -->
-  <ParentInLaw.labelFemale>TODO</ParentInLaw.labelFemale>
+  <ParentInLaw.labelFemale>schoonmoeder</ParentInLaw.labelFemale>
   
   <!-- EN: husband -->
   <Spouse.label>man</Spouse.label>

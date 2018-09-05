@@ -6,10 +6,6 @@
   <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
   <NegotiationAbility.description>De impact die het geven van een kado door een persoon heeft op de ontvangende.</NegotiationAbility.description>
   
-  <!-- UNUSED -->
-  <RecruitPrisonerChance.label>Recruteringskans</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>De kans waarmee een persoon gerectruteerd wordt.</RecruitPrisonerChance.description>
-  
   <!-- EN: social impact -->
   <SocialImpact.label>Sociale impact</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->

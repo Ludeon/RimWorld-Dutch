@@ -36,10 +36,6 @@
   <!-- EN: [PAWN_nameDef] was taught that eating human meat is wrong and horrible. But one time, long ago, [PAWN_pronoun] tried it... and [PAWN_pronoun] liked it. -->
   <Cannibal.degreeDatas.cannibal.description>[PAWN_nameDef] is bijgebracht dat het eten van mensenvlees verschrikkelijk is. Maar lang geleden heeft [PAWN_pronoun] het geprobeerd... en [PAWN_pronoun] vond het heerlijk.</Cannibal.degreeDatas.cannibal.description>
   
-  <!-- UNUSED -->
-  <CarefulShooter.degreeDatas.0.label>Voorzichtige schieter</CarefulShooter.degreeDatas.0.label>
-  <CarefulShooter.degreeDatas.0.description>[PAWN_nameDef] is een goede schutter, maar [PAWN_pronoun] doet er iets langer over om te richten.</CarefulShooter.degreeDatas.0.description>
-  
   <!-- EN: creepy breathing -->
   <CreepyBreathing.degreeDatas.creepy_breathing.label>TODO</CreepyBreathing.degreeDatas.creepy_breathing.label>
   <!-- EN: [PAWN_nameDef] breathes heavily all the time, and sweats constantly. People find it creepy. -->
@@ -79,10 +75,6 @@
   <Greedy.degreeDatas.greedy.label>TODO</Greedy.degreeDatas.greedy.label>
   <!-- EN: [PAWN_nameDef] needs a really impressive bedroom. [PAWN_pronoun] gets a mood loss if [PAWN_pronoun] doesn't get what [PAWN_pronoun] wants. -->
   <Greedy.degreeDatas.greedy.description>TODO</Greedy.degreeDatas.greedy.description>
-  
-  <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>Groene vingers</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] is een gepassioneerde plantenliefhebber. [PAWN_pronoun] krijgt een betere stemming bij iedere plant die [PAWN_pronoun] plant.</GreenThumb.degreeDatas.0.description>
   
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>TODO</Jealous.degreeDatas.jealous.label>
@@ -143,10 +135,6 @@
   <Transhumanist.degreeDatas.transhumanist.label>Prothesofiel</Transhumanist.degreeDatas.transhumanist.label>
   <!-- EN: [PAWN_nameDef] feels limited in [PAWN_possessive] feeble human body. [PAWN_pronoun] often dreams of being enhanced by artificial body parts. -->
   <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] voelt zich begrensd in [PAWN_possessive] menselijke lichaam. [PAWN_pronoun] droomt ervan [PAWN_possessive] natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</Transhumanist.degreeDatas.transhumanist.description>
-  
-  <!-- UNUSED -->
-  <TriggerHappy.degreeDatas.0.label>Schietgraag</TriggerHappy.degreeDatas.0.label>
-  <TriggerHappy.degreeDatas.0.description>Bam! Bam! Bam! [PAWN_nameDef] is een verschrikkelijke schieter, maar dat maakt [PAWN_objective] niet uit, want wapens zijn fantastisch!</TriggerHappy.degreeDatas.0.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>TODO</Undergrounder.degreeDatas.undergrounder.label>

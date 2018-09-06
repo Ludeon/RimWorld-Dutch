@@ -8,42 +8,15 @@
   <!-- EN: Year -->
   <ClockYear>Jaar</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>Sinds je aankomst zijn er {0} dagen verstreken.\Iedere maand heeft {1} dagen\nDit is jaar {2}.</DateReadoutTip>
+  <DateReadoutTip>Verstreken dagen sinds je aankomst: {0}\nHuidige quadrum: {4}\nLokaal seizoen: {2}\n\nHet jaar is verdeeld in 4 quadrums van elk {3} dagen. Quadrums zijn overal hetzelfde, terwijl de seizoenen op verschillende plaatsen verschillend zijn.\n\nLokale seizoenen voor elk quadrum: {5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{0} {1}, jaar {2}</FullDate>
+  <FullDate>{0} {1} {2}</FullDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>TODO</DateReadout>
+  <DateReadout>{0} {1} {2}</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>TODO</SeasonFullDate>
+  <SeasonFullDate>{0} {1}</SeasonFullDate>
   <!-- EN: Whole year -->
-  <WholeYear>TODO</WholeYear>
+  <WholeYear>Heel jaar</WholeYear>
   
-  <!-- UNUSED -->
-  <MonthFullDate>{0} {1}</MonthFullDate>
-  <MonthFullJanuary>januari</MonthFullJanuary>
-  <MonthFullFebruary>februari</MonthFullFebruary>
-  <MonthFullMarch>maart</MonthFullMarch>
-  <MonthFullApril>april</MonthFullApril>
-  <MonthFullMay>mei</MonthFullMay>
-  <MonthFullJune>juni</MonthFullJune>
-  <MonthFullJuly>juli</MonthFullJuly>
-  <MonthFullAugust>augustus</MonthFullAugust>
-  <MonthFullSeptember>september</MonthFullSeptember>
-  <MonthFullOctober>oktober</MonthFullOctober>
-  <MonthFullNovember>november</MonthFullNovember>
-  <MonthFullDecember>december</MonthFullDecember>
-  <MonthShortJanuary>jan</MonthShortJanuary>
-  <MonthShortFebruary>feb</MonthShortFebruary>
-  <MonthShortMarch>mrt</MonthShortMarch>
-  <MonthShortApril>apr</MonthShortApril>
-  <MonthShortMay>mei</MonthShortMay>
-  <MonthShortJune>jun</MonthShortJune>
-  <MonthShortJuly>jul</MonthShortJuly>
-  <MonthShortAugust>aug</MonthShortAugust>
-  <MonthShortSeptember>sept</MonthShortSeptember>
-  <MonthShortOctober>okt</MonthShortOctober>
-  <MonthShortNovember>nov</MonthShortNovember>
-  <MonthShortDecember>dec</MonthShortDecember>
-
 </LanguageData>

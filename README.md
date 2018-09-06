@@ -5,14 +5,15 @@ This is the dutch translation data for RimWorld.
 See this page for license info:
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 04-09-2018**
+**Status 05-09-2018**
+
 After update to beta 19 the dutch translation needs a lot of work.
 For now broken XML is fixed and the translation clean-up tool has been run.
 A summary from the translation report tool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (1826)
+- Missing keyed translations (1786)
 - Def-injected translations missing (8549)
 - Backstory translations missing (2019)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
@@ -33,14 +34,15 @@ Dit is de data voor nederlandse vertaling voor Rimworld.
 Zie deze pagina voor licentie-informatie::
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 04-09-2018**
+**Status 05-09-2018**
+
 Na de update naar Beta 19 heeft de nederlandse vertaling veel werk nodig.
 Op dit moment is kapotte xml data opgeschoont en in de vertalings schoonmaak tool gedraait.
 Een samenvatting van de vertaling reportagetool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (1826)
+- Missing keyed translations (1786)
 - Def-injected translations missing (8549)
 - Backstory translations missing (2019)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)

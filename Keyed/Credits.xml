@@ -2,41 +2,41 @@
 <LanguageData>
 
   <!-- EN: A story generator by Tynan Sylvester -->
-  <MainPageCredit>Een kolonie-simulatie van Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>Een verhalengenerator van Tynan Sylvester</MainPageCredit>
 
   <!-- EN: Developers -->
-  <Credits_Developers>TODO</Credits_Developers>
+  <Credits_Developers>Ontwikkelaars</Credits_Developers>
   <!-- EN: Direction, design, code, art -->
-  <Credit_DirectionVarious>TODO</Credit_DirectionVarious>
+  <Credit_DirectionVarious>Regie, ontwerp, code, grafisch</Credit_DirectionVarious>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Muziek en geluid</Credit_MusicAndSound>
   <!-- EN: Code -->
-  <Credit_Code>TODO</Credit_Code>
+  <Credit_Code>Code</Credit_Code>
   <!-- EN: Art -->
-  <Credit_GameArt>Game graphics</Credit_GameArt>
+  <Credit_GameArt>Grafisch</Credit_GameArt>
   <!-- EN: Menu art -->
-  <Credit_MenuArt>Menu graphics</Credit_MenuArt>
+  <Credit_MenuArt>Menu illustraties</Credit_MenuArt>
   <!-- EN: Additional code -->
-  <Credit_AdditionalCode>TODO</Credit_AdditionalCode>
+  <Credit_AdditionalCode>Aanvullende code</Credit_AdditionalCode>
   
   <!-- EN: Additional development -->
-  <Credits_AdditionalDevelopment>TODO</Credits_AdditionalDevelopment>
+  <Credits_AdditionalDevelopment>Aanvullende ontwikkeling</Credits_AdditionalDevelopment>
 
   <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>TODO</Credit_SpecialThanks>
+  <Credit_SpecialThanks>Speciale dank</Credit_SpecialThanks>
 
   <!-- EN: Community volunteers -->
-  <Credits_TitleCommunity>TODO</Credits_TitleCommunity>
+  <Credits_TitleCommunity>Vrijwilligers uit de community</Credits_TitleCommunity>
   <!-- EN: Tester -->
   <Credit_Tester>Tester</Credit_Tester>
   <!-- EN: Mod donor -->
-  <Credit_ModDonation>TODO</Credit_ModDonation>
+  <Credit_ModDonation>Mod donor</Credit_ModDonation>
   <!-- EN: Writing donor -->
-  <Credit_WritingDonation>TODO</Credit_WritingDonation>
+  <Credit_WritingDonation>Schrijvende donor</Credit_WritingDonation>
   <!-- EN: Moderator -->
-  <Credit_Moderator>TODO</Credit_Moderator>
+  <Credit_Moderator>Moderator</Credit_Moderator>
   <!-- EN: Wiki master -->
-  <Credit_WikiMaster>TODO</Credit_WikiMaster>
+  <Credit_WikiMaster>Wiki koning</Credit_WikiMaster>
 
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>Taal: {0}</Credits_TitleLanguage>
@@ -50,11 +50,6 @@
   <Credit_NoiseGeneration>Geluidsgeneratie</Credit_NoiseGeneration>
 
   <!-- EN: Thanks for playing! -->
-  <ThanksForPlaying>TODO</ThanksForPlaying>
-
-  <!-- UNUSED -->
-  <Credit_Ludomancer>Ontwikkelaar</Credit_Ludomancer>
-  <Credit_AdditionalProgramming>Extra programmeerwerk</Credit_AdditionalProgramming>
-  <Credits_TitleTesting>Testteam</Credits_TitleTesting>
+  <ThanksForPlaying>Bedankt voor het spelen!</ThanksForPlaying>
 
 </LanguageData>

@@ -52,7 +52,7 @@
   <MinimumSkill>TODO</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>OPGESCHORT</SuspendedCaps>
-  <!-- EN: Worker: {0} -->
+  <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>TODO</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Plant</PlantVerb>
@@ -196,7 +196,7 @@
   <Trainability>TODO</Trainability>
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>TODO</CannotTrainNotSmartEnough>
-  <!-- EN: {0} is too small to train this. -->
+  <!-- EN: {1_labelShort} is too small to train this. -->
   <CannotTrainTooSmall>TODO</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
@@ -213,9 +213,9 @@
   <Slave>TODO</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>TODO</FactionLeader>
-  <!-- EN: Opinion of {0} -->
+  <!-- EN: Opinion of {1_labelShort} -->
   <OpinionOf>TODO</OpinionOf>
-  <!-- EN: {0}'s opinion of me -->
+  <!-- EN: {1_labelShort}'s opinion of me -->
   <SomeonesOpinionOfMe>TODO</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>TODO</IAmDead>

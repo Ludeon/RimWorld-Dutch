@@ -3,11 +3,11 @@
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
   <FactionGreetingHostile>De vertegenwoordiger van {0} slingert een paar beledigingen door de console en verbreekt de verbinding</FactionGreetingHostile>
-  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of [PAWN_possessive] settlements or releasing [PAWN_possessive] faction's prisoners unharmed. Until then, [PAWN_pronoun] is unwilling to talk.\n\nMuttering an insult, [PAWN_pronoun] disconnects. -->
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
   <FactionGreetingHostileAppreciative>TODO</FactionGreetingHostileAppreciative>
-  <!-- EN: {0} greets {1} warily and asks what business you want to handle. -->
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warily and asks what business you want to handle. -->
   <FactionGreetingWary>De vertegenwoordiger van {0} begroet {1} mistroostig en vraagt wat [PAWN_pronoun] van hen wil.</FactionGreetingWary>
-  <!-- EN: {0} greets {1} warmly and asks what [PAWN_pronoun] can do to help you. -->
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
   <FactionGreetingWarm>De vertegenwoordiger van {0} begroet {1} hartelijk, en vraagt hoe het met de kolonie gaat.</FactionGreetingWarm>
 
   <!-- EN: Disconnect -->

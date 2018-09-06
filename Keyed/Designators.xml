@@ -180,11 +180,11 @@
   <OutOfBounds>Buiten de kaart.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Kan niet in een onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
-  <!-- EN: Interaction spot is blocked by {0}. -->
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
   <InteractionSpotBlocked>Bedieningsplaats geblokkeerd door {0}.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>Bedieningsplaats is buiten de kaart.</InteractionSpotOutOfBounds>
-  <!-- EN: Interaction spot will be blocked by {0}. -->
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
   <InteractionSpotWillBeBlocked>Bedieningsplaats zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} zou {1}'s bedieningsplaats blokeren.</WouldBlockInteractionSpot>

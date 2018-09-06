@@ -82,7 +82,7 @@
   <CorpseLabel>{0} (lijk)</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Lijk van een {0}.</CorpseDesc>
-  <!-- EN: {0} (dead) -->
+  <!-- EN: {1_label} (dead) -->
   <DeadLabel>{0} (dood)</DeadLabel>
 
   <!-- EN: rough {0} -->
@@ -111,9 +111,9 @@
   <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <!-- EN: {0}'s {1} -->
+  <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>TODO</SomeonesRoom>
-  <!-- EN: {0} and {1}'s {2} -->
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>TODO</CouplesRoom>
   
   <!-- EN: (various) -->

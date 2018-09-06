@@ -39,7 +39,7 @@
   <CommandUndraftLabel>Wapen laten zakken</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Schakel millitaire dienst in/uit.\n\nMensen met getrokken wapens accepteren orders en zullen vechten. Ze zullen niet eten, werken of rusten.</CommandToggleDraftDesc>
-  <!-- EN: {0} cannot walk. -->
+  <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{0} is arbeidsongeschikt.</IsIncapped>
 
   <!-- EN: Fire at will -->

@@ -18,9 +18,9 @@
   <TabCaravanItems>TODO</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {0} -->
+  <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
   <AbandonSliderText>TODO</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>TODO</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>TODO</AbandonTip>
@@ -32,7 +32,7 @@
   <AbandonAllTip>TODO</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>TODO</AbandonItemTipExtraText>
-  <!-- EN: {0} will most likely die. -->
+  <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>TODO</BanishTipWillDie>
   
   <!-- Caravan inspect -->

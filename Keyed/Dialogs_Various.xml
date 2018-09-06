@@ -149,7 +149,7 @@
   <ZoneGainsName>De zone heet nu {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <!-- EN: This person's nickname is now {0}. [PAWN_possessive] title is {1}. -->
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>Deze kolonist luistert nu naar de naam {0}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>TODO</AnimalGainsName>
@@ -468,9 +468,9 @@
   <TraderWillNotTrade>De handelaar is niet bereidt daarin te handelen.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>TODO</Negotiator>
-  <!-- EN: Your negotiator {0} cannot talk properly because of poor health. -->
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>TODO</NegotiatorTalkingImpaired>
-  <!-- EN: Your negotiator {0} cannot hear properly because of poor health. -->
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
   <NegotiatorHearingImpaired>TODO</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>TODO</NegotiatorCapacityImpaired>
@@ -526,7 +526,7 @@
   <CaravanCouldNotFindPackingSpot>TODO</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>TODO</CaravanCouldNotFindReachableExitSpot>
-  <!-- EN: {0} is unreachable by any of the assigned colonists. -->
+  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
   <CaravanPawnIsUnreachable>TODO</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>TODO</CaravanItemIsUnreachableSingle>
@@ -652,7 +652,7 @@
   <TooBigTransportersMassUsage>TODO</TooBigTransportersMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>TODO</CantSendEmptyTransportPods>
-  <!-- EN: {0} can't reach the transport pods. -->
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>TODO</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>TODO</TransporterItemIsUnreachableSingle>
@@ -796,19 +796,19 @@
   <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
-  <!-- EN: Do you really want to banish {0}? -->
+  <!-- EN: Do you really want to banish {1_label}? -->
   <ConfirmBanishPawnDialog>TODO</ConfirmBanishPawnDialog>
-  <!-- EN: {0} will most likely die. -->
+  <!-- EN: {1_labelShort} will most likely die. -->
   <ConfirmBanishPawnDialog_LeftToDie>TODO</ConfirmBanishPawnDialog_LeftToDie>
-  <!-- EN: {0} will take the following items with [PAWN_objective]: -->
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
   <ConfirmBanishPawnDialog_Items>TODO</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>TODO</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <!-- EN: Banishing {0} will cause the following people to get the following thoughts: -->
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
   <ConfirmBanishPawnDialog_IndividualThoughts>TODO</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
-  <!-- EN: Pod group isn't completely loaded. {0} is missing. Launch anyway? -->
+  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
   <ConfirmSendNotCompletelyLoadedPods>TODO</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->

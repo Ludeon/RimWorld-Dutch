@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>TODO</Tool>
+  <Tool>Werktuig</Tool>
   <!-- EN: damage -->
-  <DamageLower>TODO</DamageLower>
+  <DamageLower>Schade</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
+  <SecondsPerAttackLower>Seconden per aanval</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
   <StatsReport_BaseValue>Basiswaarde</StatsReport_BaseValue>
@@ -15,105 +15,102 @@
   <!-- EN: Relevant gear -->
   <StatsReport_RelevantGear>Relevante uitrusting</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
-  <StatsReport_RelevantHediffs>TODO</StatsReport_RelevantHediffs>
+  <StatsReport_RelevantHediffs>Relevante gezondheidstoestand</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
-  <StatsReport_LifeStage>TODO</StatsReport_LifeStage>
+  <StatsReport_LifeStage>Levensfase</StatsReport_LifeStage>
   <!-- EN: Material -->
   <StatsReport_Material>Materiaal</StatsReport_Material>
   <!-- EN: Character quality -->
   <StatsReport_CharacterQuality>Karakter kwaliteit</StatsReport_CharacterQuality>
   <!-- EN: Skills -->
-  <StatsReport_Skills>Vaardigheidsfactoren</StatsReport_Skills>
+  <StatsReport_Skills>Vaardigheden</StatsReport_Skills>
   <!-- EN: Other stats -->
-  <StatsReport_OtherStats>Andere factoren</StatsReport_OtherStats>
+  <StatsReport_OtherStats>Andere statistieken</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>TODO</StatsReport_Health>
+  <StatsReport_Health>Gezondheid</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>{0} impact</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>{0} betekenis</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>TODO</HealthOffsetScale>
+  <HealthOffsetScale>{0} impact</HealthOffsetScale>
   <!-- EN: {0} max -->
-  <HealthFactorMaxImpact>TODO</HealthFactorMaxImpact>
+  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>TODO</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>indien lager dan {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Nabewerkte kromming</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Aangepaste curve</StatsReport_PostProcessed>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>Eindresultaat</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>Marktwaarde wordt berekend aan de hand van het materiaal en de hoeveelheid werk.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>Materiaal- en arbeidskosten</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Kwaliteitsvermenigvuldiging</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Max verhoging</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
-  <StatsReport_AgeMultiplier>TODO</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>Vermenigvuldigingsfactor voor leeftijd {0}</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>TODO</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>Vermenigvuldigingsfactor voor gezondheid {0}</StatsReport_HealthMultiplier>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>TODO</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>Vermenigvuldigingsfactor voor gemoedstoestand {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>TODO</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>Vermenigvuldigingsfactor voor licht {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>TODO</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>Vermenigvuldigingsfactor voor moeilijkheidsgraad {0}</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
-  <StatsReport_InBed>TODO</StatsReport_InBed>
+  <StatsReport_InBed>In bed</StatsReport_InBed>
   <!-- EN: Facilities -->
-  <StatsReport_Facilities>TODO</StatsReport_Facilities>
+  <StatsReport_Facilities>Faciliteiten</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>TODO</StatsReport_BodySize>
+  <StatsReport_BodySize>Vermenigvuldigingsfactor voor lichaamsgrootte {0}</StatsReport_BodySize>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>TODO</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Schade door aanval van dichtbij * Raak kans / afkoeling in seconden</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
-  <StatsReport_MeleeDamage>TODO</StatsReport_MeleeDamage>
+  <StatsReport_MeleeDamage>Schade door aanval van dichtbij</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
-  <StatsReport_Cooldown>TODO</StatsReport_Cooldown>
+  <StatsReport_Cooldown>Afkoeling</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>TODO</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>Kans op raken door aanval van dichtbij</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
-  <StatsReport_CooldownFormat>TODO</StatsReport_CooldownFormat>
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <!-- EN: Life expectancy -->
-  <StatsReport_LifeExpectancy>TODO</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>Levensverwachting</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>TODO</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>Vermenigvuldigingsfactor voor ontbrekende lichaamsdelen</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
-  <StatsReport_GearAndInventoryMass>TODO</StatsReport_GearAndInventoryMass>
+  <StatsReport_GearAndInventoryMass>Uitrusting en inventaris</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>TODO</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>Vermenigvuldigingsfactor voor gedragen door lijk</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
-  <AverageOfAllAttacks>TODO</AverageOfAllAttacks>
+  <AverageOfAllAttacks>Gemiddelde van alle aanvallen</AverageOfAllAttacks>
   <!-- EN: Scenario -->
-  <StatsReport_ScenarioFactor>TODO</StatsReport_ScenarioFactor>
+  <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
-  <StatsReport_IngredientsMass>TODO</StatsReport_IngredientsMass>
+  <StatsReport_IngredientsMass>Ingrediënten</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
-  <StatsReport_PermanentlyDisabled>TODO</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>Blijvend gehandicapt.</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
-  <StatsReport_Inspiration>TODO</StatsReport_Inspiration>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
-  <StatsReport_AddedBodyPartsMass>TODO</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>Lichaamsdelen toegevoegd</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>Vermenigvuldigingsfactor materieel effect</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>TODO</StatsReport_Resting>
+  <StatsReport_Resting>Rusten</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
+  <StatsReport_JoyKind>recreatievorm</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>werken om te deïnstalleren</StatsReport_WorkToUninstall>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>Vermenigvuldigingsfactor voor groei {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>geschaald omdat wild </StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>Geen vlees</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
+  <StatsReport_NotFresh>Geen vlees</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>TODO</StatsReport_WildMan>
+  <StatsReport_WildMan>Wilde man</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
-
-  <!-- UNUSED -->
-  <StatsReport_HealthFactors>Gezondheidsfactoren</StatsReport_HealthFactors>
+  <StatsReport_NonToolAttack>Aanval</StatsReport_NonToolAttack>
 
 </LanguageData>

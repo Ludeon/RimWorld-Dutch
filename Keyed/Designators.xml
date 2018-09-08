@@ -14,7 +14,7 @@
   <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Afbreken</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>Bfeek dit af. Je krijgt een deel van de gebruikte grondstoffen terug.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Breek dit af. Je krijgt een deel van de gebruikte grondstoffen terug.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Deïnstalleren</DesignatorUninstall>
@@ -219,8 +219,8 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Gebouw nodig</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>Geen van je {0} bezitten deze competentie.</NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>Geen van je {0} bezitten deze vaardigheid.</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alle van je {0} die deze competentie bezitten zijn toegewezen aan {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alle van je {0} die deze vaardigheid bezitten zijn toegewezen aan {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

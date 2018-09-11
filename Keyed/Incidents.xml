@@ -69,17 +69,17 @@
   <LetterLabelSingleVisitorArrives>TODO</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
   <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\n[PAWN_pronoun] heet {2}.</SingleVisitorArrives>
-  <!-- EN: \n\n{PAWN_pronoun} seems to have a few items to trade. -->
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>TODO</SingleVisitorArrivesTraderInfo>
-  <!-- EN: \n\n{PAWN_pronoun} is the leader of the faction. -->
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
   <SingleVisitorArrivesLeaderInfo>TODO</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>TODO</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
   <GroupVisitorsArrive>Een groep van {0} bezoekt de kolonie.</GroupVisitorsArrive>
-  <!-- EN: \n\nThey seem to have a few items to trade. -->
+  <!-- EN: They seem to have a few items to trade. -->
   <GroupVisitorsArriveTraderInfo>TODO</GroupVisitorsArriveTraderInfo>
-  <!-- EN: \n\nOne of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
   <GroupVisitorsArriveLeaderInfo>TODO</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
   <VisitorsLeaving>De bezoekers van {0} verlaten de kolonie.</VisitorsLeaving>

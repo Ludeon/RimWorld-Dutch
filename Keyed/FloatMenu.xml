@@ -323,8 +323,8 @@
   <CannotPrioritizeForbiddenOutsideAllowedArea>Buiten toegestaan gebied</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
-  <!-- EN: Prioritize {0} {2_label} -->
-  <PrioritizeGeneric>Prioritiseer {2_label} {0}</PrioritizeGeneric>
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>Prioritiseer {1} {0}</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>Laat vallen aan de rand</DropAtEdge>
@@ -373,5 +373,5 @@
   <FreePrisoner>Bevrijd gevangene</FreePrisoner>
   <!-- EN: Offer help -->
   <OfferHelp>Bied hulp aan</OfferHelp>
-
+  
 </LanguageData>

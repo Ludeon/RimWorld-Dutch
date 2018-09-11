@@ -546,8 +546,8 @@
   <InfiniteDaysWorthOfFoodInfo>Oneindig</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>Het geschatte aantal dagen voordat ten minste één persoon of dier geen voedsel meer heeft. Verschillende levensvormen hebben verschillende diëten, de een kan dus eerder dan de ander zonder voedsel komen te zitten. Deze waarde wordt nauwkeuriger berekend nadat de route is gekozen.\n\nBeïnvloed door:\n  -  Type en hoeveelheid voer\n  - Karavaanleden en hun dieet\n  - Voedingssnelheid\n  - Of de dieren kunnen grazen\n  - Tijd tot het voedsel gaat rotten\n  - Warm weer zorgt voor sneller rottend voedsel</DaysWorthOfFoodTooltip>
-  <!-- EN: \n(only the first waypoint is taken into account) -->
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>/n(alleen het eerste routepunt wordt in de berekening meegenomen)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: (only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(alleen het eerste routepunt wordt in de berekening meegenomen)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Je karavaan heeft slechts {0} dagen aan eten en zal snel honger lijden. </DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->

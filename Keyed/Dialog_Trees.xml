@@ -6,9 +6,9 @@
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
   <FactionGreetingHostileAppreciative>{0} eist dat u een gebaar van goede wil maakt, zoals het brengen van geschenken naar een van de nederzettingen van {0_possessive} of het ongedeerd vrijlaten van de gevangenen van de {0_possessive} factie. Tot dan is {0_pronoun} niet bereid om te praten\n\nEen belediging mompelend, verbreekt {0_pronoun} de verbinding.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warily and asks what business you want to handle. -->
-  <FactionGreetingWary>{0} begroet {NEGOTIATIATOR_labelShort} behoedzaam en vraagt welke zaken u wilt afhandelen.</FactionGreetingWary>
+  <FactionGreetingWary>{0} begroet {NEGOTIATOR_labelShort} behoedzaam en vraagt welke zaken u wilt afhandelen.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0} begroet {NEGOTIATIATOR_labelShort} hartelijk en vraagt wat {LEADER_pronoun} kan doen om u te helpen.</FactionGreetingWarm>
+  <FactionGreetingWarm>{0} begroet {NEGOTIATOR_labelShort} hartelijk en vraagt wat {LEADER_pronoun} kan doen om u te helpen.</FactionGreetingWarm>
 
   <!-- EN: Disconnect -->
   <Disconnect>Verbinding verbreken</Disconnect>

@@ -108,9 +108,9 @@
   <!-- EN: Save data was saved with our game version and should work without issue. -->
   <SaveIsFromThisGameBuild>Opslaan van gegevens werd opgeslagen met onze spelversie en zou zonder problemen moeten werken.</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>TODO</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>pgeslagen gegevens zijn in een onbekend formaat en zullen vrijwel zeker niet goed worden geladen.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>Opgeslagen gegevens zijn in een onbekend formaat en zullen vrijwel zeker niet goed worden geladen.</ProblemSavingFile>
+  <ProblemSavingFile>Er was een probleem met het opslaan van het bestand {0}:\n\n{1}\n\nZie foutenlogboek voor meer informatie.</ProblemSavingFile>
   <!-- EN: Load anyway -->
   <LoadAnyway>Toch laden</LoadAnyway>
   <!-- EN: Load mod list from save -->
@@ -238,7 +238,7 @@
   <!-- EN: Forever -->
   <Forever>Voor altijd</Forever>
   <!-- EN: Details -->
-  <Details>TODO</Details>
+  <Details>Details</Details>
   <!-- EN: Ingredient radius -->
   <IngredientSearchRadius>Ingrediëntradius</IngredientSearchRadius>
   <!-- EN: Currently have -->
@@ -525,9 +525,9 @@
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
   <CaravanCouldNotFindPackingSpot>Kon geen geldige inpakplek vinden. Zorg ervoor dat de gekozen uitgang ({0}) toegankelijk is.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>TODO</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Sommige van de toegewezen kolonisten zijn niet in staat om de locatie van de uitgang te bereiken ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>Sommige van de toegewezen kolonisten zijn niet in staat om de locatie van de uitgang te bereiken ({0}).</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort} is onbereikbaar voor alle toegewezen kolonisten.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Geen van de toegewezen kolonisten is in staat om de {0} te bereiken.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -615,9 +615,9 @@
   <!-- EN: Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>Bewegingssnelheid is afhankelijk van de gemiddelde snelheid van alle mensen en dieren, het gedragen gewicht en de moeilijkheidsgraad van het terrein.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
-  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
+  <AnimalsWillBeAbleToGraze>Dieren zullen kunnen grazen</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
-  <AnimalsCanGraze>Dieren zullen kunnen grazen</AnimalsCanGraze>
+  <AnimalsCanGraze>Dieren kunnen grazen</AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
   <PossibleToGrazeFor>(voor nog {0} dagen)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
@@ -649,15 +649,15 @@
   <!-- EN: Load {0} -->
   <LoadTransporters>Laad {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>De toegewezen mensen en voorwerpen zijn te zwaar voor de transportpods.</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>De toegewezen mensen en voorwerpen zijn te zwaar voor de transportcapsules.</TooBigTransportersMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>U kunt geen lege transportpods versturen.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>U kunt geen lege transportcapsules versturen.</CantSendEmptyTransportPods>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort} kan de transportpods niet bereiken.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} kan de transportcapsules niet bereiken.</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>Er is geen pad tussen de transportpods en de {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>Er is geen pad tussen de transportcapsules en de {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>Er is geen pad tussen de transportpods en {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>Er is geen pad tussen de transportcapsules en {0}x {1}.</TransporterItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -809,7 +809,7 @@
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Podgroep is niet volledig geladen. {1_labelShort} ontbreekt. Hoe dan ook lanceren? </ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Capsulegroep is niet volledig geladen. {1_labelShort} ontbreekt. Hoe dan ook lanceren? </ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
@@ -823,6 +823,6 @@
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>De karavaan zal stilstaan als je de pods naar een lege tegel stuurt. Toch doorgaan?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>De karavaan zal stilstaan als je de caupsules naar een lege tegel stuurt. Toch doorgaan?</TransportersCaravanWillBeImmobile>
 
 </LanguageData>

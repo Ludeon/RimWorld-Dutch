@@ -59,7 +59,7 @@
   <!-- EN: {0} agrees to send fighters to help you. -->
   <MilitaryAidSent>{0} gaat ermee akkoord om vechters te sturen om u te helpen.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0} verontschuldigt zich en zegt dat ze niet op tijd kunnen komen./n/n(Het technologisch niveau van deze factie is te laag voor vervoerspods)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0} verontschuldigt zich en zegt dat ze niet op tijd kunnen komen./n/n(Het technologisch niveau van deze factie is te laag voor vervoerscapsules)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
   <HostileVisitorsPresent>vijandige bezoekers aanwezig</HostileVisitorsPresent>
 

@@ -11,11 +11,11 @@
   
   <!-- History upload pref -->
   <!-- EN: Undecided -->
-  <Unspecified>Ongespecifeerd</Unspecified>
+  <Unspecified>Nog niet besloten</Unspecified>
   <!-- EN: Allow -->
-  <Always>Altijd</Always>
+  <Always>Toestaan</Always>
   <!-- EN: Do not allow -->
-  <Never>Nooit</Never>
+  <Never>Niet toestaan</Never>
   
   <!-- Price types -->
   <!-- EN: very cheap -->
@@ -27,7 +27,7 @@
   <!-- EN: expensive -->
   <PriceTypeExpensive>duur</PriceTypeExpensive>
   <!-- EN: exorbitant -->
-  <PriceTypeExorbitant>heel duur</PriceTypeExorbitant>
+  <PriceTypeExorbitant>exorbitant</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
@@ -45,27 +45,27 @@
 
   <!-- Food type flags -->
   <!-- EN: vegetables -->
-  <FoodTypeFlags_VegetableOrFruit>TODO</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_VegetableOrFruit>groente</FoodTypeFlags_VegetableOrFruit>
   <!-- EN: raw meat -->
-  <FoodTypeFlags_Meat>TODO</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Meat>rauw vlees</FoodTypeFlags_Meat>
   <!-- EN: corpses -->
-  <FoodTypeFlags_Corpse>TODO</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Corpse>kadavers</FoodTypeFlags_Corpse>
   <!-- EN: seeds -->
-  <FoodTypeFlags_Seed>TODO</FoodTypeFlags_Seed>
+  <FoodTypeFlags_Seed>zaden</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
-  <FoodTypeFlags_AnimalProduct>TODO</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_AnimalProduct>dierlijke producten</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>TODO</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>levende platen</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>TODO</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>levende bomen</FoodTypeFlags_Tree>
   <!-- EN: meals -->
-  <FoodTypeFlags_Meal>TODO</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Meal>maaltijden</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
-  <FoodTypeFlags_Processed>TODO</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>bewerkte levensmiddelen</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>TODO</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>sterke drank</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>TODO</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>brokken</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
@@ -77,238 +77,222 @@
   <!-- EN: good -->
   <QualityCategory_Good>goed</QualityCategory_Good>
   <!-- EN: excellent -->
-  <QualityCategory_Excellent>briljant</QualityCategory_Excellent>
+  <QualityCategory_Excellent>voortreffelijk</QualityCategory_Excellent>
   <!-- EN: masterwork -->
   <QualityCategory_Masterwork>meesterwerk</QualityCategory_Masterwork>
   <!-- EN: legendary -->
   <QualityCategory_Legendary>legendarisch</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>TODO</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>vres</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>TODO</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>mat</QualityCategoryShort_Poor>
   <!-- EN: norm -->
-  <QualityCategoryShort_Normal>TODO</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <!-- EN: good -->
-  <QualityCategoryShort_Good>TODO</QualityCategoryShort_Good>
+  <QualityCategoryShort_Good>goed</QualityCategoryShort_Good>
   <!-- EN: exc -->
-  <QualityCategoryShort_Excellent>TODO</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Excellent>vrt</QualityCategoryShort_Excellent>
   <!-- EN: mast -->
-  <QualityCategoryShort_Masterwork>TODO</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
-  <QualityCategoryShort_Legendary>TODO</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <!-- EN: Starving -->
-  <HungerLevel_Starving>TODO</HungerLevel_Starving>
+  <HungerLevel_Starving>Verhongeren</HungerLevel_Starving>
   <!-- EN: Urgently hungry -->
-  <HungerLevel_UrgentlyHungry>TODO</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>Urgente honger </HungerLevel_UrgentlyHungry>
   <!-- EN: Hungry -->
-  <HungerLevel_Hungry>TODO</HungerLevel_Hungry>
+  <HungerLevel_Hungry>Hongerig</HungerLevel_Hungry>
   <!-- EN: Fed -->
-  <HungerLevel_Fed>TODO</HungerLevel_Fed>
+  <HungerLevel_Fed>Gevoed</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
-  <HungerLevel_Exhausted>TODO</HungerLevel_Exhausted>
+  <HungerLevel_Exhausted>Uitgeput</HungerLevel_Exhausted>
   <!-- EN: Very tired -->
-  <HungerLevel_VeryTired>TODO</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>Zeer moe</HungerLevel_VeryTired>
   <!-- EN: Tired -->
-  <HungerLevel_Tired>TODO</HungerLevel_Tired>
+  <HungerLevel_Tired>Moe</HungerLevel_Tired>
   <!-- EN: Rested -->
-  <HungerLevel_Rested>TODO</HungerLevel_Rested>
+  <HungerLevel_Rested>Uitgerust</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>TODO</Hilliness_Flat>
+  <Hilliness_Flat>vlak</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>TODO</Hilliness_SmallHills>
+  <Hilliness_SmallHills>kleine heuvels</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>TODO</Hilliness_LargeHills>
+  <Hilliness_LargeHills>grote heuvels</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>TODO</Hilliness_Mountainous>
+  <Hilliness_Mountainous>bergachtig</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>TODO</Hilliness_Impassable>
+  <Hilliness_Impassable>onbegaanbaar</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
-  <WorkshopInteractStage_CreatingItem>TODO</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_CreatingItem>Aanmaken</WorkshopInteractStage_CreatingItem>
   <!-- EN: Submitting -->
-  <WorkshopInteractStage_SubmittingItem>TODO</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_SubmittingItem>Inzenden</WorkshopInteractStage_SubmittingItem>
   <!-- EN: Invalid -->
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>TODO</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ongeldig</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <!-- EN: Preparing config data -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>TODO</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Configuratiegegevens voorbereiden</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>TODO</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Inhoudsbestanden voorbereiden</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>TODO</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Inhoud uploaden</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>TODO</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Voorbeeldbestand uploaden</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>TODO</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Vastleggen van wijzigingen</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: local folder -->
-  <ContentSource_LocalFolder>TODO</ContentSource_LocalFolder>
+  <ContentSource_LocalFolder>lokale map</ContentSource_LocalFolder>
   <!-- EN: Steam Workshop -->
-  <ContentSource_SteamWorkshop>TODO</ContentSource_SteamWorkshop>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>TODO</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>Geen medische zorg</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>TODO</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>Doktersverzorging, maar geen medicijnen</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>TODO</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>Kruidengeneesmiddelen of slechter</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>TODO</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Industrieel-technologische medicijnen of slechter</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>TODO</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>Beste kwaliteit medicijnen </MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>TODO</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>Negeren</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>TODO</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>Aanvallen</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
-  <HostilityResponseMode_Flee>TODO</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Flee>Vluchten</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>TODO</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>groeiend</HediffGrowthMode_Growing>
   <!-- EN: stable -->
-  <HediffGrowthMode_Stable>TODO</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Stable>stabiel</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>TODO</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>remissie</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>TODO</TechLevel_Animal>
+  <TechLevel_Animal>dier</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>TODO</TechLevel_Neolithic>
+  <TechLevel_Neolithic>neolithisch</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>TODO</TechLevel_Medieval>
+  <TechLevel_Medieval>middeleeuws</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>TODO</TechLevel_Industrial>
+  <TechLevel_Industrial>industrieel</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>TODO</TechLevel_Spacer>
+  <TechLevel_Spacer>ruimtevaarder</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>TODO</TechLevel_Ultra>
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>TODO</TechLevel_Archotech>
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>TODO</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>Staand</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>TODO</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Noodcapsules</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
-  <PawnGenerationContext_All>TODO</PawnGenerationContext_All>
+  <PawnGenerationContext_All>alle personages</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>TODO</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>speler startpersonages</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>TODO</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>niet-speler personages</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
-  <ShowAnimalNames>TODO</ShowAnimalNames>
+  <ShowAnimalNames>Toon dierennamen</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>TODO</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>Tem (alleen met naam)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>TODO</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>Tem (alle)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <!-- EN: Celsius -->
-  <Celsius>TODO</Celsius>
+  <Celsius>Celsius</Celsius>
   <!-- EN: Fahrenheit -->
-  <Fahrenheit>TODO</Fahrenheit>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
   <!-- EN: Kelvin -->
-  <Kelvin>TODO</Kelvin>
+  <Kelvin>Kelvin</Kelvin>
   
   <!-- Direction8Way -->
   <!-- EN: N -->
-  <Direction8Way_North_Short>TODO</Direction8Way_North_Short>
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <!-- EN: NE -->
-  <Direction8Way_NorthEast_Short>TODO</Direction8Way_NorthEast_Short>
+  <Direction8Way_NorthEast_Short>NO</Direction8Way_NorthEast_Short>
   <!-- EN: E -->
-  <Direction8Way_East_Short>TODO</Direction8Way_East_Short>
+  <Direction8Way_East_Short>O</Direction8Way_East_Short>
   <!-- EN: SE -->
-  <Direction8Way_SouthEast_Short>TODO</Direction8Way_SouthEast_Short>
+  <Direction8Way_SouthEast_Short>ZO</Direction8Way_SouthEast_Short>
   <!-- EN: S -->
-  <Direction8Way_South_Short>TODO</Direction8Way_South_Short>
+  <Direction8Way_South_Short>Z</Direction8Way_South_Short>
   <!-- EN: SW -->
-  <Direction8Way_SouthWest_Short>TODO</Direction8Way_SouthWest_Short>
+  <Direction8Way_SouthWest_Short>ZW</Direction8Way_SouthWest_Short>
   <!-- EN: W -->
-  <Direction8Way_West_Short>TODO</Direction8Way_West_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
   <!-- EN: NW -->
-  <Direction8Way_NorthWest_Short>TODO</Direction8Way_NorthWest_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
   
   <!-- Diet category -->
   <!-- EN: Never eats -->
-  <DietCategory_NeverEats>TODO</DietCategory_NeverEats>
+  <DietCategory_NeverEats>Eet nooit</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>TODO</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>Planteneter</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>TODO</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>Houteter</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>TODO</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>Eiereter</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
-  <DietCategory_Omnivorous>TODO</DietCategory_Omnivorous>
+  <DietCategory_Omnivorous>Alleseter</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
-  <DietCategory_Carnivorous>TODO</DietCategory_Carnivorous>
+  <DietCategory_Carnivorous>Vleeseter</DietCategory_Carnivorous>
   <!-- EN: - -->
-  <DietCategory_NeverEats_Short>TODO</DietCategory_NeverEats_Short>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <!-- EN: H -->
-  <DietCategory_Herbivorous_Short>TODO</DietCategory_Herbivorous_Short>
+  <DietCategory_Herbivorous_Short>P</DietCategory_Herbivorous_Short>
   <!-- EN: D -->
-  <DietCategory_Dendrovorous_Short>TODO</DietCategory_Dendrovorous_Short>
+  <DietCategory_Dendrovorous_Short>H</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>TODO</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>E</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
-  <DietCategory_Omnivorous_Short>TODO</DietCategory_Omnivorous_Short>
+  <DietCategory_Omnivorous_Short>A</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
-  <DietCategory_Carnivorous_Short>TODO</DietCategory_Carnivorous_Short>
+  <DietCategory_Carnivorous_Short>V</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>TODO</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>onbekwame kok</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>TODO</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>vieze kookzone</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>TODO</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>rot voedsel</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>TODO</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>gevaarlijk voedingstype</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->
-  <PsychicDroneLevel_None>TODO</PsychicDroneLevel_None>
+  <PsychicDroneLevel_None>geen</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>TODO</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>gemiddeld</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>TODO</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>laag</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>TODO</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>gemiddeld</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>hoog</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
-
-  <!-- UNUSED -->
-  <NoneQuality>Geen</NoneQuality>
-  <PlantQuality>Plantaardig</PlantQuality>
-  <RawQuality>Rauw</RawQuality>
-  <MealAwfulQuality>Vies</MealAwfulQuality>
-  <MealSimpleQuality>Eenvoudig</MealSimpleQuality>
-  <MealFineQuality>Lekker</MealFineQuality>
-  <MealLavishLavish>Luxe</MealLavishLavish>
-  <NeverEats>Eet nooit</NeverEats>
-  <Omnivorous>Alleseter</Omnivorous>
-  <Herbivorous>Planteneter</Herbivorous>
-  <Carnivorous>Vleeseter</Carnivorous>
-  <Dendrovorous>Houteter</Dendrovorous>
-  <QualityCategory_Shoddy>slecht</QualityCategory_Shoddy>
-  <QualityCategory_Superior>uitstekend</QualityCategory_Superior>
+  <PsychicDroneLevel_BadExtreme>extreem</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

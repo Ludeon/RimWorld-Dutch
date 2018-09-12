@@ -2,35 +2,35 @@
 <LanguageData>
 
   <!-- EN: a -->
-  <IndefiniteArticle>TODO</IndefiniteArticle>
+  <IndefiniteArticle>een</IndefiniteArticle>
   <!-- EN: the -->
-  <DefiniteArticle>TODO</DefiniteArticle>
+  <DefiniteArticle>de</DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm>TODO</IndefiniteForm>
+  <IndefiniteForm>een {0}</IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm>TODO</DefiniteForm>
+  <DefiniteForm>de {0}</DefiniteForm>
 
   <!-- EN: its -->
-  <Proits>TODO</Proits>
+  <Proits>zijn</Proits>
   <!-- EN: his -->
   <Prohis>zijn</Prohis>
   <!-- EN: her -->
   <Proher>haar</Proher>
   <!-- EN: Its -->
-  <ProitsCap>TODO</ProitsCap>
+  <ProitsCap>Zijn</ProitsCap>
   <!-- EN: His -->
   <ProhisCap>Zijn</ProhisCap>
   <!-- EN: Her -->
   <ProherCap>Haar</ProherCap>
 
   <!-- EN: it -->
-  <ProitObj>TODO</ProitObj>
+  <ProitObj>het</ProitObj>
   <!-- EN: him -->
   <ProhimObj>hem</ProhimObj>
   <!-- EN: her -->
   <ProherObj>haar</ProherObj>
   <!-- EN: It -->
-  <ProitObjCap>TODO</ProitObjCap>
+  <ProitObjCap>Het</ProitObjCap>
   <!-- EN: Him -->
   <ProhimObjCap>Hem</ProhimObjCap>
   <!-- EN: Her -->
@@ -41,12 +41,12 @@
   <!-- EN: she -->
   <Proshe>zij</Proshe>
   <!-- EN: it -->
-  <Proit>TODO</Proit>
+  <Proit>het</Proit>
   <!-- EN: He -->
   <ProheCap>Hij</ProheCap>
   <!-- EN: She -->
   <ProsheCap>Zij</ProsheCap>
   <!-- EN: It -->
-  <ProitCap>TODO</ProitCap>
+  <ProitCap>Het</ProitCap>
 
 </LanguageData>

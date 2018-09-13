@@ -2,262 +2,234 @@
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>TODO</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Doorgedraaide {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>Een {0} is gek geworden. Het valt iedereen aan, die het ziet.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>Een plaatselijke {ANIMAL_label} is krankzinnig geworden. Het zal iedereen die het ziet aanvallen.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>TODO</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>Doorgedraaide {0}</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>Een psychische schokgolf rolt over het landschap. Je kolonisten mankeert niets, maar....\n\nHet lijkt erop dat een {0}groep gek is geworden.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Een soort van psychische golf rolt over het landschap. Je kolonisten mankeert niets, maar....\n\nHet lijkt erop dat veel van de {0} in het gebied krankzinnig zijn gedreven.</AnimalInsanityMultiple>
 
   <!-- EN: Blight -->
-  <LetterLabelCropBlight>TODO</LetterLabelCropBlight>
+  <LetterLabelCropBlight>Meeldauw</LetterLabelCropBlight>
   <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
-  <LetterCropBlight>TODO</LetterCropBlight>
+  <LetterCropBlight>Een kolonist heeft meeldauw op je gewassen opgemerkt! Je moet de planten met meeldauw afsnijden of verbranden voordat de plaag zich verspreidt.</LetterCropBlight>
 
   <!-- EN: Miracle -->
-  <LetterLabelMiracleHeal>TODO</LetterLabelMiracleHeal>
+  <LetterLabelMiracleHeal>Wonder</LetterLabelMiracleHeal>
   <!-- EN: {0} has experienced a miraculous recovery! -->
   <MiracleHeal>{0} is op wonderlijke wijze genezen!</MiracleHeal>
 
   <!-- Enemy raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>TODO</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>Een van de {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is de leider van de factie.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>TODO</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>Een van de {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is de leider van de factie.</FriendlyRaidLeaderPresent>
 
   <!-- EN: Transport pod crash -->
-  <LetterLabelRefugeePodCrash>TODO</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Transportcapsule ongeval</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>Je hebt een neerstortende reddingscapsule gehoord.\n\nAls iemand deze klap heeft overleefd, zal hij/zij zwaar gewond zijn.</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} met de naam {PAWN_nameDef} is in een transportcapsule in de buurt gecrasht. Als {PAWN_pronoun} de impact overleeft, zal {PAWN_pronoun} ernstig gewond raken.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>TODO</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} is niet gelieerd aan enige factie. U kunt {PAWN_objectief} redden en hopen dat {PAWN_pronoun} vrijelijk toetreedt, of je kunt {PAWN_objectief} vangen voor wervings- of slavernijdoeleinden.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Hostile>TODO</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} is van uw vijand {PAWN_factionName}. U kunt {PAWN_objectief} vangen voor rekrutering of slavernijdoeleinden.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>TODO</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} is van {PAWN_factionName}. Als u {PAWN_objectief} redt, mag {PAWN_pronoun} vrij toetreden. Anders keert {PAWN_pronoun} terug naar huis en verspreidt hij goodwill tussen jullie facties.\n\nU kunt {PAWN_objectief} ook vangen voor wervings- of slavernijdoeleinden, maar dit zal {PAWN_possessive} factie boos maken.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
-  <LetterLabelCargoPodCrash>TODO</LetterLabelCargoPodCrash>
+  <LetterLabelCargoPodCrash>Vrachtcapsules</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>Je hebt een neerstortende voorraadcapsule gehoord.\n\nMisschien vind je wat nuttigs tussen de brokstukken.</CargoPodCrash>
+  <CargoPodCrash>Je hebt een cluster van vrachtcapsules gedetecteerd die in de buurt is neergestort. \n\nMisschien vind je wat nuttigs tussen de brokstukken.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
-  <AnElectricalConduit>een stroomkabel</AnElectricalConduit>
+  <AnElectricalConduit>een elektriciteitskabel</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
-  <ShortCircuit>Een fout in {0} heeft kortsluiting veroorzaakt.\n\nDe {1} Watt aan energie opgeslagen in de verbonden batterijen is verloren gegaan.</ShortCircuit>
+  <ShortCircuit>Een fout in {0} heeft kortsluiting veroorzaakt.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
-  <ShortCircuitStartedFire>TODO</ShortCircuitStartedFire>
+  <ShortCircuitStartedFire>Een fout in {0} heeft een kortsluiting veroorzaakt die een brand heeft veroorzaakt.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
-  <ShortCircuitDischargedEnergy>TODO</ShortCircuitDischargedEnergy>
+  <ShortCircuitDischargedEnergy>Alle {0} Wd energie in de aangesloten accu's is ontladen in een elektrische explosie.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>Omdat er zo veel stroom was opgeslagen in de batterijen was de explosie best groot.</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>Deze grote hoeveelheid vermogen heeft geleid tot een explosie van aanzienlijke omvang.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
-  <ShortCircuitWasHuge>Het was echt een enorme explosie... Wow.</ShortCircuitWasHuge>
+  <ShortCircuitWasHuge>Dat is echt een enorme explosie. Wow.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
-  <TraderArrival>Een handelsschip is in de buurt.\n\n{0} is een {1}.</TraderArrival>
+  <TraderArrival>Een handelsschip is in de buurt.\n\nZe staan bekend als {0}. Ze zijn een {1}.</TraderArrival>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>Een {0} van {1} is op doorreis. [PAWN_pronoun] heet {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>A {PAWN_titel} van {1} komt voorbij. {PAWN_pronoun} heet {PAWN_nameFull}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
-  <GroupTravelersPassing>Een groep van {0} is op doorreis.</GroupTravelersPassing>
+  <GroupTravelersPassing>Een groep reizigers van {0} is op doorreis.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
-  <LetterLabelSingleVisitorArrives>TODO</LetterLabelSingleVisitorArrives>
+  <LetterLabelSingleVisitorArrives>Bezoeker</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>Een {0} van {1} bezoekt de kolonie.\n\n[PAWN_pronoun] heet {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>{PAWN_titleIndef} uit {1} bezoekt de kolonie.\n\n{PAWN_pronoun} heet {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>TODO</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} lijkt een paar items te hebben om te verhandelen.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>TODO</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} is de leider van de factie.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
-  <LetterLabelGroupVisitorsArrive>TODO</LetterLabelGroupVisitorsArrive>
+  <LetterLabelGroupVisitorsArrive>Bezoekers</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>Een groep van {0} bezoekt de kolonie.</GroupVisitorsArrive>
+  <GroupVisitorsArrive>Een groep uit {0} bezoekt de kolonie.{1}{2}</GroupVisitorsArrive>
   <!-- EN: They seem to have a few items to trade. -->
-  <GroupVisitorsArriveTraderInfo>TODO</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveTraderInfo>Ze lijken een paar artikelen te kunnen verhandelen.</GroupVisitorsArriveTraderInfo>
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>TODO</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>Een van de bezoekers - {1_labelShort}, is de leider van de factie. </GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
   <VisitorsLeaving>De bezoekers van {0} verlaten de kolonie.</VisitorsLeaving>
 
   <!-- EN: Manhunter pack -->
-  <LetterLabelManhunterPackArrived>TODO</LetterLabelManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>Mensenjagende groep</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>TODO</ManhunterPackArrived>
+  <ManhunterPackArrived>Een groep {0} die op mensen jaagt zijn het gebied binnengegaan. Ze zullen door het gebied zwerven, op jacht naar menselijk vlees.\n\nZe zullen geen deuren aanvallen tenzij ze iemand door de deur zien gaan. Verberg je binnen en je zult veilig zijn. Ze zullen ook geen schutterskoepels aanvallen die uitgeschakeld zijn, dus zet je schutterskoepels uit om ze te beschermen.\n\nDe {0} verlaat het gebied binnen een of twee dagen. Je kunt verstoppen en wachten, of ze bestrijden.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>Het antieke stuk ruimteschip heeft een psychische schokgolf uitgezonden, die de dieren in de omgeving gek heeft gemaakt.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>Het oude bouwwerk heeft een psychische puls uitgezonden, die de dieren in de omgeving gek heeft gemaakt.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>Het neergestorte stuk ruimteschip heeft een gerichte psychische puls uitgezonden, die de kolonist {0} tot waanzin heeft gedreven.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Het neergestorte stuk ruimteschip heeft een gerichte psychische puls uitgezonden, die kolonist {0} tot waanzin heeft gedreven.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>{0} dagen wakker</AwokeDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
-  <PsychicDroneLevel>Psychische signaalsterkte: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>Psychische bromtoon-niveau: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>TODO</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Bromtoon versterkt</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Het neergestorte stuk ruimteschip heeft zijn psychische signaal opgevoerd. Ieder menselijk wezen in de omgeving voelt zich nog ongemakkelijker, bang en paranoïde.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Het gecrashte stuk schip straalt nu een krachtiger soort psychische bromtoon uit. Ieder mens in het gebied voelt zich nu meer verontrust, bang en paranoïde.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
-  <LetterLabelAgentRevealed>TODO</LetterLabelAgentRevealed>
+  <LetterLabelAgentRevealed>Spion</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>{0} is als een spion van je vijand {1} ontmaskerd.\n\nHij probeert te vluchten.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0} is als een spion van je vijand {1} ontmaskerd.\n\nHij/zij probeert nu te ontsnappen.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
   <!-- EN: Psychic drone -->
-  <LetterLabelPsychicDrone>TODO</LetterLabelPsychicDrone>
+  <LetterLabelPsychicDrone>Psychische bromtoon</LetterLabelPsychicDrone>
   <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>Alle {0}e kolonisten vertrekken van de pijn!\n\nIn de verte roert zich een organisme vol haat. Het zendt een psychisch signaal uit over de hele regio, over een frequentie die alleen het {0} geslacht lijkt te kunnen voelen. De komende paar dagen zal de stemming bij sommige kolonisten veel slechter zijn.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Alle {0}e kolonisten vertrekken van de pijn!\n\nIn de verte roert zich een organisme vol haat. Het projecteert een krachtige psychische bromtoon over deze hele regio, op een frequentie die alleen het {0} geslacht lijkt te beïnvloeden. Voor een paar dagen, zal de stemming van sommige mensen een behoorlijk stuk slechter zijn.\n\nHet bromtoon-niveau is {1}.</LetterIncidentPsychicDrone>
 
   <!-- EN: Psychic soothe -->
-  <LetterLabelPsychicSoothe>TODO</LetterLabelPsychicSoothe>
+  <LetterLabelPsychicSoothe>Psychische verlichting </LetterLabelPsychicSoothe>
   <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>TODO</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Elke kolonist van het {0}e geslacht lacht tevreden!\n\nIn de verte roert zich een organisme vol blijdschap.  Het projecteert een krachtige psychische bromtoon over deze hele regio, op een frequentie die alleen het {0} geslacht lijkt te beïnvloeden. Een paar dagen lang zal de stemming van sommige mensen een stuk beter zijn.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
-  <LetterLabelBeaversArrived>TODO</LetterLabelBeaversArrived>
+  <LetterLabelBeaversArrived>Bevers!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>Een groep hongerige alfabevers zijn zojuist gesignaleerd.\n\nProbeer ze tegen te houden voordat ze alle bomen in de regio omknagen.</BeaversArrived>
   
   <!-- Refugee chased -->
   <!-- EN: Refugee chased at {0} -->
-  <RefugeeChasedTitle>TODO</RefugeeChasedTitle>
+  <RefugeeChasedTitle>Vluchteling achtervolgd bij {0}</RefugeeChasedTitle>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-  <RefugeeChasedInitial>TODO</RefugeeChasedInitial>
+  <RefugeeChasedInitial>{PAWN_titleIndef} genaamd {PAWN_nameDef} roept u van dichtbij op. {PAWN_pronoun} wordt achtervolgd door {2} uit {3}!\n\n{PAWN_pronoun} vertelt u dat {PAWN_pronoun} {4} jaar oud is, maar er is geen tijd om meer informatie te verzamelen.\n\nWees gewaarschuwd - als u akkoord gaat, moet u de {2} op {PAWN_possessive} staart bestrijden. Hun groep bestaat uit:\n\n{5}</RefugeeChasedInitial>
   <!-- EN: Offer safety -->
-  <RefugeeChasedInitial_Accept>TODO</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Accept>Veiligheid bieden</RefugeeChasedInitial_Accept>
   <!-- EN: Ignore the message -->
-  <RefugeeChasedInitial_Reject>TODO</RefugeeChasedInitial_Reject>
+  <RefugeeChasedInitial_Reject>Negeer het bericht</RefugeeChasedInitial_Reject>
   <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
-  <RefugeeChasedRejected>TODO</RefugeeChasedRejected>
+  <RefugeeChasedRejected>{1_labelShort} schreeuwt in paniek door de kleine luidspreker voordat je de transmissie verbreekt.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
-  <LetterLabelAnimalSelfTame>TODO</LetterLabelAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>{1_kind} zelf getemd</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>TODO</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} is tam geworden.</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>TODO</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>{0} is tam geworden. Het heet nu {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>TODO</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>{0} is tam geworden. Kolonisten hebben besloten de naam {ANIMAL_nameFull} te geven.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
-  <LetterLabelFarmAnimalsWanderIn>TODO</LetterLabelFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0} treden toe</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>TODO</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Een groep van {0}, verlaten of verloren, zijn het gebied binnengelopen.\n\nZe lijken gewend aan menselijk contact en voegen zich bij de kolonie.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
-  <LetterLabelThrumboPasses>TODO</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Zeldzame thrumbos</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>TODO</LetterThrumboPasses>
+  <LetterThrumboPasses>Een kleine kudde thrumbos is het gebied binnengetrokken.\n\nHoewel ze van nature vreedzaam zijn, zijn deze zeldzame wezens uiterst gevaarlijk wanneer ze worden geconfronteerd. Sommige handelaren zijn bereid om veel geld te betalen voor hun kostbare leer en hoorn.\n\nDe Thrumbos zullen het gebied over een paar dagen verlaten.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>TODO</LetterLabelTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{1} van {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
-  <LetterTraderCaravanArrival>TODO</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Een karavaan uit {0} nadert. Het is een {1}.\n\nZe zullen een paar dagen rond de kolonie hangen voordat ze vertrekken. Je kunt ze aanvallen - maar dit zal hun factie boos maken!</LetterTraderCaravanArrival>
   
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
-  <RansomDemandTitle>TODO</RansomDemandTitle>
+  <RansomDemandTitle>Losgeld gevraagd bij {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>TODO</RansomDemand>
+  <RansomDemand>{1} neemt contact met je op via de radio. Zij houden de voormalige kolonist {PAWN_labelShort} vast voor losgeld.\n\nZe zijn bereid om {PAWN_objective} aan je terug te geven in ruil voor {2} zilver.</RansomDemand>
   <!-- EN: Accept -->
-  <RansomDemand_Accept>TODO</RansomDemand_Accept>
+  <RansomDemand_Accept>Accepteer</RansomDemand_Accept>
   <!-- EN: Reject -->
-  <RansomDemand_Reject>TODO</RansomDemand_Reject>
+  <RansomDemand_Reject>Afwijzen</RansomDemand_Reject>
   
   <!-- Journey-related -->
   <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
-  <JourneyOffer>TODO</JourneyOffer>
+  <JourneyOffer>Een vriendelijke kunstmatige intelligentie uit je verleden genaamd Charlon Whitestone heeft je een bericht gestuurd!\n\nHij onthult dat hij een ruimteschip heeft verborgen op deze planeet, en stuurt je zijn coördinaten.\n\nHet ruimteschip staat momenteel in diepe slaapstand. Je zult het moeten opstarten wanneer je aankomt en het dan verdedigen tegen rovers die het schip proberen te stelen totdat de opstartprocedure voltooid is.\n\nAls je het schip van de grond kunt krijgen, brengt Charlon je van deze randwereld naar de sterren.</JourneyOffer>
   <!-- EN: Ship found -->
-  <EscapeShipFoundLabel>TODO</EscapeShipFoundLabel>
+  <EscapeShipFoundLabel>schip gevonden</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>TODO</EscapeShipFound>
+  <EscapeShipFound>Je hebt de coördinaten van Charlon Whitestone bereikt en het verborgen ruimteschip ontdekt.\n\nDe scheepsreactor staat nog steeds in diepe slaapstand, dus het kan nog niet vliegen. Je kunt de reactor opstarten door interactie met de computerkern.\n\nCharlon Whitestone waarschuwt je dat het opstartproces ongeveer 15 dagen in beslag zal nemen en dat de energiesignatuur van veraf waarneembaar zal zijn. Dit soort energiesignatuur duidt op interstellaire vluchtmogelijkheden en zal bendes van wanhopige overvallers en zwermen dodelijke mechanoïden aantrekken.\n\nJe zal worden aangevallen met een intensiteit die je nog nooit hebt gezien. Zorg er eerst voor dat je verdediging is voorbereid..</EscapeShipFound>
   <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>TODO</EscapeShipLostLabel>
+  <EscapeShipLostLabel>Schip vernield</EscapeShipLostLabel>
   <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>TODO</EscapeShipLost>
+  <EscapeShipLost>Charlon Whitestone stuurt je een boodschap.\n\nHij ziet dat je de controle over het gelande schip bent kwijtgeraakt. Om te voorkomen dat het in de verkeerde handen valt, is hij gedwongen om het zelfvernietigingsmechanisme van het schip in werking te stellen. Het schip is nu een krater.\n\nJe zult een andere weg van deze planeet moeten vinden.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>TODO</CaravanMeetingTitle>
+  <CaravanMeetingTitle>Karavaanbijeenkomst door {0}</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>TODO</CaravanMeeting>
+  <CaravanMeeting>{0} heeft een vreedzame ontmoeting gehad met een karavaan uit {1}. De andere karavaan bestaat uit:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
-  <CaravanMeeting_Trade>TODO</CaravanMeeting_Trade>
+  <CaravanMeeting_Trade>Handel</CaravanMeeting_Trade>
   <!-- EN: Attack -->
-  <CaravanMeeting_Attack>TODO</CaravanMeeting_Attack>
+  <CaravanMeeting_Attack>Aanvallen</CaravanMeeting_Attack>
   <!-- EN: Move on -->
-  <CaravanMeeting_MoveOn>TODO</CaravanMeeting_MoveOn>
+  <CaravanMeeting_MoveOn>Ga verder</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>TODO</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>geen enkel lid van de karavaan is in staat om handel te drijven</CaravanMeeting_TradeIncapable>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
-  <LetterLabelCaravanRequest>TODO</LetterLabelCaravanRequest>
+  <LetterLabelCaravanRequest>Aanvraag voor karavaan</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>TODO</LetterCaravanRequest>
+  <LetterCaravanRequest>Een nabijgelegen nederzetting, {0}, neemt contact met u op met een speciaal handelsverzoek. Zij willen graag kopen:\n\n  {1} (ter waarde van {2}) \n\nIn ruil daarvoor bieden ze aan:\n\n  {3} (ter waarde van {4})\n\nDeze aanvraag vervalt na: {5}\n\nAls u de ruil wilt maken, stuur dan een karavaan met de gevraagde benodigdheden. De geschatte reistijd is {6}. U kunt deze aanbieding bekijken door {0} op de wereldkaart te selecteren.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
-  <CaravanRequestInfo>TODO</CaravanRequestInfo>
+  <CaravanRequestInfo>Aanvragen. {0} ({3}), Beloning: {1}: {0} ({3}), Beloning: {1} ({4}) ({2} over)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>TODO</NormalQualityOrBetter>
+  <NormalQualityOrBetter>normale kwaliteit of beter</NormalQualityOrBetter>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>TODO</CaravanDemandTitle>
+  <CaravanDemandTitle>Karavaan geëist dóór {0}</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>TODO</CaravanDemand>
+  <CaravanDemand>{0} is overvallen door een groep van {2} {4} van {1}. Ze zullen aanvallen tenzij je ze het volgende geeft:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
-  <CaravanDemand_Give>TODO</CaravanDemand_Give>
+  <CaravanDemand_Give>Geven en passeren</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
-  <CaravanDemand_Fight>TODO</CaravanDemand_Fight>
+  <CaravanDemand_Fight>Weigeren en vechten</CaravanDemand_Fight>
 
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>TODO</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostile>Quest niet meer beschikbaar</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>TODO</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Quests niet meer beschikbaar</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>TODO</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostile>Omdat u niet langer vijandig bent met {0}, is de {1} plaats niet langer beschikbaar.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
-
-  <!-- UNUSED -->
-  <CropBlight>Een mysterieuze plantenziekte heeft je gewassen vernietigd.</CropBlight>
-  <EclipseIncident>Een van de manen van de planeet schuift voor de zon. Een zonsverduistering is begonnen.</EclipseIncident>
-  <EnemyRaidWalkIn>Een groep {0} van {1} zijn in de buurt.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Een groep {0} van {1} zijn vanuit de ruimte in de buurt van je kolonie geland.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Een groep {0} van {1} zijn vanuit de ruimte in het midden van je kolonie geland!</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>Zij zullen hun aanval eerst voorbereiden.\n\nBereid je verdediging voor, of val ze aan voordat ze jou aanvallen.</EnemyRaidStageThenAttack>
-  <EnemyRaidImmediateAttack>Ze vallen direct aan.</EnemyRaidImmediateAttack>
-  <EnemyRaidBesiege>Het lijkt erop dat ze de kolonie willen belegeren.</EnemyRaidBesiege>
-  <FriendlyRaidWalkIn>Een groep vriendelijke {0} van {1} zijn in de buurt.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Een groep vriendelijke {0} van {1} zijn vanuit de ruimte  in de buurt van je kolonie geland.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Een groep vriendelijke {0} van {1} zijn vanuit de ruimte in het midden van je kolonie geland!</FriendlyRaidCenterDrop>
-  <FriendlyRaidStageThenAttack>Ze bereiden zich eerst voor, voordat ze je te hulp komen.</FriendlyRaidStageThenAttack>
-  <FriendlyRaidImmediateAttack>Ze komen je direct te hulp.</FriendlyRaidImmediateAttack>
-  <FriendlyRaidBesiege>Het lijkt erop dat ze je met belegeringstactieken willen helpen.</FriendlyRaidBesiege>
-  <AWallsPowerConduit>een stroomkabel in een muur</AWallsPowerConduit>
-  <LetterSolarFlare>Een zonnestorm is begonnen.\n\nDoor de sterke straling zijn alle electrische apparaten onbruikbaar.\n\nHet zal over een paar dagen voorbij zijn.</LetterSolarFlare>
-  <LetterHeatWave>Een ongebruikelijke hittegolf is begonnen, pas op voor een zonnesteek.</LetterHeatWave>
-  <HeatWaveOver>De hittegolf is voorbij.</HeatWaveOver>
-  <LetterColdSnap>Een ongebruikelijke koudegolf is begonnen. Let op je gewassen en zorg ervoor dat je niet bevriest.</LetterColdSnap>
-  <ColdSnapOver>De koudegolf is voorbij.</ColdSnapOver>
-  <WandererJoin>Een {0} genaamd [PAWN_nameDef] is aangekomen en sluit zich bij de kolonie aan. [PAWN_pronoun] is een {1}.</WandererJoin>
-  <SpaceshipPartCrash>Een groot stuk van een antiek ruimteschip is in de buurt neergestort.\n\nJe kolonisten voelen instictief dat er iets slechts aan de hand is. Aan boord moet zich een AI bevinden met psychische krachten. Eén ding is zeker, deze AI is niet in vrede gekomen.\n\nVernietig het zo snel mogelijk.</SpaceshipPartCrash>
-  <PsychicDroneLevelLow>zwak</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>normaal</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>sterk</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>extreem</PsychicDroneLevelExtreme>
+  <LetterSiteNoLongerHostileMulti>Omdat u niet langer vijandig bent met {0}, zijn de volgende locaties niet langer beschikbaar</LetterSiteNoLongerHostileMulti>
 
 </LanguageData>

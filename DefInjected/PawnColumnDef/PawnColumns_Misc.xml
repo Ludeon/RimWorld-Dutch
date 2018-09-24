@@ -10,6 +10,9 @@
   <!-- EN: drug policy -->
   <DrugPolicy.label>TODO</DrugPolicy.label>
   
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>TODO</FoodRestriction.label>
+  
   <!-- EN: Hostility response -->
   <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
   

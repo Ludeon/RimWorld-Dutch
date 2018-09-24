@@ -26,7 +26,7 @@
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>TODO</ManageOutfits>
-  <!-- EN: Clear forced -->
+  <!-- EN: Clr. forced -->
   <ClearForcedApparel>TODO</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>TODO</ApparelForcedLower>
@@ -36,6 +36,8 @@
   <AssignTabEdit>TODO</AssignTabEdit>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>TODO</ManageDrugPolicies>
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->

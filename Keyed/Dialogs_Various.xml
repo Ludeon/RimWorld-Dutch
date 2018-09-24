@@ -426,7 +426,7 @@
   <NuzzleIntervalExplanation>Hoe vaak zal een dier gemiddeld vriendelijke kolonisten besnuffelen.\n\nBesnuffelen is een gedrag dat door veel diersoorten wordt gedeeld, waarbij het dier zijn neus of snuit tegen een vriend drukt als teken van genegenheid. De meeste mensen vinden dit schattig en het zal hen in een goed humeur achterlaten voor een periode van tijd.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Wraakkans bij schade</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>De kans dat dit schepsel wraak neemt, wanneer letsel wordt toegedient door een aanvaller op geweerafstand.\n\nDeze kans neemt toe als de aanvaller dichterbij is. Als de aanvaller op zeer korte afstand wordt aanvalt, is de kans drie keer zo groot.\n\n. Deze kans wordt elke keer toegepast als er schade wordt aangericht, dus langzamer vuren van wapens met een hogere schade activeren dit minder snel.\n\nOm de kans te minimaliseren dat een schepsel wraak neemt, val je het aan vanaf schotsafstand met een langzaam vurend wapen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Wraakkans op mislukte tempoging</TameFailedRevengeChance>
@@ -708,6 +708,8 @@
   <DeleteDrugPolicy>Verwijder beleid...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Drugsbeleid is in gebruik door {0}.</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>Voedselrestrictie wordt gebruikt door {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Sociale drugs </SocialDrugs>
   <!-- EN: No drugs -->
@@ -762,6 +764,30 @@
   <DrugUsageTipForJoy>Voor recreatie\n\nGebruik deze drug voor recreatieve en sociale doeleinden.\n\nZelfs indien uitgeschakeld, kunnen sommige karakters met specifieke eigenschappen, of op mentale inzinkingen, de drug toch gebruiken.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Gepland\n\nGebruik deze drug volgens een bepaald schema, wanneer aan specifieke voorwaarden is voldaan.</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>Voedselrestrictie</FoodRestriction>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>Overvloedig</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>Goed</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>Simpel</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>Pasta</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>Rauw</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>Niets</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>Selecteer voedselrestrictie</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>Nieuwe voedselrestrictie</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>Voedingsrestrictie schrappen </DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>Geen voedselrestrictie geselecteerd </NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->

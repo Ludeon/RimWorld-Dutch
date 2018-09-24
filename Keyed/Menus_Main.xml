@@ -231,15 +231,15 @@
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
   <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
 
-  <!-- Landing site select -->
-  <!-- EN: Select landing site -->
-  <SelectLandingSite>Kies landingsplaats</SelectLandingSite>
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>TODO</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>TODO</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Kies plaats</SelectSite>
-  <!-- EN: Please select a landing site. -->
-  <MustSelectLandingSite>Kies een landingsplaats.</MustSelectLandingSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>TODO</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Je kunt niet in dit ecosysteem landen: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
@@ -386,6 +386,8 @@
   <GeneratingMapForNewEncounter>TODO</GeneratingMapForNewEncounter>
 
   <!-- UNUSED -->
+  <SelectLandingSite>Kies landingsplaats</SelectLandingSite>
+  <MustSelectLandingSite>Kies een landingsplaats.</MustSelectLandingSite>
   <WorldSize>Grootte</WorldSize>
   <GetMods>Mods</GetMods>
   <MustChooseChallengeScale>Kies de moeilijkheidsgraad.</MustChooseChallengeScale>

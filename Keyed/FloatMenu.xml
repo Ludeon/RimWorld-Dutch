@@ -202,8 +202,8 @@
   <PickUpAll>{1_label} oprapen (alle)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>{1_labelShort} oprapen</PickUpSome>
-  <!-- EN: Pick up {1_labelShort} x{{1_labelShort}} -->
-  <PickUpCount>{1_labelShort} x{{1_labelShort}} oprapen</PickUpCount>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>{1_labelShort} x{{0}} oprapen</PickUpCount>
   
   <!-- EN: Cannot give {1_label} to pack animal -->
   <CannotGiveToPackAnimal>Kan geen {1_label} geven om op dieren te laden</CannotGiveToPackAnimal>
@@ -215,8 +215,8 @@
   <GiveToPackAnimalAll>Geef {1_label} (alle) om op dieren te laden</GiveToPackAnimalAll>
   <!-- EN: Give {1_labelShort} to pack animal... -->
   <GiveToPackAnimalSome>Geef {1_labelShort} om op dieren te laden...</GiveToPackAnimalSome>
-  <!-- EN: Take {1_labelShort} x{{1_labelShort}} -->
-  <GiveToPackAnimalCount>Neem {1_labelShort} x{{1_labelShort}}}</GiveToPackAnimalCount>
+  <!-- EN: Take {1_labelShort} x{{0}} -->
+  <GiveToPackAnimalCount>Neem {1_labelShort} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Kan niet {1_label} in de karavaan laden</CannotLoadIntoCaravan>
@@ -228,8 +228,8 @@
   <LoadIntoCaravanAll>Laadt {1_label} (alle) in de karavaan</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>Laadt {1_labelShort} in de karavaan...</LoadIntoCaravanSome>
-  <!-- EN: Load {1_labelShort} x{{1_labelShort}} -->
-  <LoadIntoCaravanCount>Laad {1_labelShort} x{{1_labelShort}}}</LoadIntoCaravanCount>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>Laad {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>te zwaar</OverweightLower>
 

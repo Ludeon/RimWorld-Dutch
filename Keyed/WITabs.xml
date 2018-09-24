@@ -18,7 +18,7 @@
   <TabCaravanItems>TODO</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{1_labelShort}}x {1_labelShort} -->
+  <!-- EN: Abandon {{0}}x {1_labelShort} -->
   <AbandonSliderText>TODO</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>TODO</ConfirmAbandonItemDialog>

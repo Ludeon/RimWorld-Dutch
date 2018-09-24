@@ -5,25 +5,25 @@ This is the dutch translation data for RimWorld.
 See this page for license info:
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 13-09-2018**
+**Status 24-09-2018**
 
-Current build version 1.0.2022
+Current build version 1.0.2034
 
 After update to beta 19 the dutch translation needs a lot of work.
-For now broken XML is fixed and the translation clean-up tool has been run (version 1.0.2022).
+For now broken XML is fixed and the translation clean-up tool has been run (version 1.0.2034).
 
 A summary from the translation report tool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (1000)
-- Def-injected translations missing (8537)
+- Missing keyed translations (919)
+- Def-injected translations missing (8534)
 - Backstory translations missing (2019)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (18) 
-- Unnecessary keyed translations (will never be used) (102)
-- Keyed translations matching English (maybe ok) (56)
+- Unnecessary keyed translations (will never be used) (93)
+- Keyed translations matching English (maybe ok) (57)
 - Backstory translations matching English (maybe ok) (0)
 
 This is a long list (the report is over 11700 lines long). If you want to start helping you can do so, follow the steps in http://ludeon.com/forums/index.php?topic=2933.0
@@ -37,25 +37,25 @@ Dit is de data voor nederlandse vertaling voor Rimworld.
 Zie deze pagina voor licentie-informatie::
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 13-09-2018**
+**Status 24-09-2018**
 
-Huidige build versie 1.0.2022
+Huidige build versie 1.0.2034
 
 Na de update naar Beta 19 heeft de nederlandse vertaling veel werk nodig.
-Op dit moment is kapotte xml data opgeschoont en in de vertalings schoonmaak tool gedraait (versie 1.0.2022).
+Op dit moment is kapotte xml data opgeschoont en in de vertalings schoonmaak tool gedraait (versie 1.0.2034).
 
 Een samenvatting van de vertaling reportagetool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (1000)
-- Def-injected translations missing (8537)
+- Missing keyed translations (919)
+- Def-injected translations missing (8534)
 - Backstory translations missing (2019)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (18) 
-- Unnecessary keyed translations (will never be used) (102)
-- Keyed translations matching English (maybe ok) (56)
+- Unnecessary keyed translations (will never be used) (93)
+- Keyed translations matching English (maybe ok) (57)
 - Backstory translations matching English (maybe ok) (0)
 
 Dit is een lange lijst (het rapport is meer dan 11700 regels lang). Als je wilt helpen kan dat, volg de stappen op http://ludeon.com/forums/index.php?topic=2933.0

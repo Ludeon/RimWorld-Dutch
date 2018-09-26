@@ -9,71 +9,71 @@
   <!-- EN: Music volume -->
   <MusicVolume>Muziekvolume</MusicVolume>
   <!-- EN: Ambient volume -->
-  <AmbientVolume>TODO</AmbientVolume>
+  <AmbientVolume>Omgevingsvolume</AmbientVolume>
   <!-- EN: Anti-aliasing -->
-  <Antialiasing>TODO</Antialiasing>
+  <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Beeldschermrandscrolling</EdgeScreenScroll>
   <!-- EN: Pause on load -->
-  <PauseOnLoad>TODO</PauseOnLoad>
+  <PauseOnLoad>Pauzeer na laden</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
-  <PauseOnUrgentLetter>TODO</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Pauzeer bij dringende brief</PauseOnUrgentLetter>
   <!-- EN: Custom cursor -->
   <CustomCursor>Aangepaste muiscursor</CustomCursor>
   <!-- EN: Hats shown only on game map -->
-  <HatsShownOnlyOnMap>TODO</HatsShownOnlyOnMap>
+  <HatsShownOnlyOnMap>Hoeden alleen getoond op de kaart van het spel </HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
-  <UIScale>TODO</UIScale>
+  <UIScale>UI-schaal</UIScale>
   <!-- EN: Keyboard configuration -->
-  <KeyboardConfig>Toetsenbord</KeyboardConfig>
+  <KeyboardConfig>Toetsenbord configuratie</KeyboardConfig>
   <!-- EN: Choose language -->
-  <ChooseLanguage>Taal</ChooseLanguage>
+  <ChooseLanguage>Taal kiezen</ChooseLanguage>
   <!-- EN: Reset learning helper -->
-  <ResetAdaptiveTutor>Reset zelflerende begeleider</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>Reset leerhulp</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>De zelflerende begeleider is gereset, alles zal weer vanaf het begin worden uitgelegd.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>De leerhulp is gereset, alles zal weer vanaf het begin worden uitgelegd.</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
   <RunInBackground>Actief op achtergrond</RunInBackground>
   <!-- EN: Development mode -->
   <DevelopmentMode>Ontwikkelaarsmodus</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>TODO</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Auto-reset mods configuratie bij crash</ResetModsConfigOnCrash>
   <!-- EN: Verbose logging -->
   <LogVerbose>Uitgebreide logging</LogVerbose>
   <!-- EN: Open save data folder -->
-  <OpenSaveGameDataFolder>Speldata-map openen</OpenSaveGameDataFolder>
+  <OpenSaveGameDataFolder>Opslagmap openen</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
-  <ShowSaveGameDataLocation>TODO</ShowSaveGameDataLocation>
+  <ShowSaveGameDataLocation>Toon locatie van opgeslagen gegevens</ShowSaveGameDataLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>Achternamen van karakters die je graag terug wilt zien in het spel:</NamesYouWantToSee>
+  <NamesYouWantToSee>Voorkeurspersonages die door een speler zijn gemaakt. Deze karakters zullen eerder willekeurig verschijnen tijdens het spelen:</NamesYouWantToSee>
   <!-- EN: Add name -->
-  <AddName>TODO</AddName>
+  <AddName>Naam toevoegen</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
-  <TypeFirstNickOrLastName>TODO</TypeFirstNickOrLastName>
+  <TypeFirstNickOrLastName>Typ de voornaam, bijnaam of achternaam.</TypeFirstNickOrLastName>
   <!-- EN: This name is already on the preferred list. -->
-  <MessageAlreadyPreferredName>TODO</MessageAlreadyPreferredName>
+  <MessageAlreadyPreferredName>Deze naam staat al op de voorkeurslijst.</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
-  <ChangeStoryteller>Kies verteller</ChangeStoryteller>
+  <ChangeStoryteller>Verhalenverteller instellingen</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>TODO</AutosaveInterval>
+  <AutosaveInterval>Autosave interval</AutosaveInterval>
   <!-- EN: Temperature mode -->
-  <TemperatureMode>TODO</TemperatureMode>
+  <TemperatureMode>Temperatuurmodus </TemperatureMode>
   <!-- EN: Show realtime clock -->
-  <ShowRealtimeClock>TODO</ShowRealtimeClock>
+  <ShowRealtimeClock>Toon realtime klok</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
-  <MaxNumberOfPlayerSettlements>TODO</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>Maximaal aantal kolonies: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Plant wind sway -->
-  <PlantWindSway>TODO</PlantWindSway>
+  <PlantWindSway>Plantenbeweging (wind)</PlantWindSway>
   <!-- EN: Enable test map sizes -->
-  <EnableTestMapSizes>TODO</EnableTestMapSizes>
+  <EnableTestMapSizes>Testkaartformaten inschakelen</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>TODO</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Het maximale autosave-interval in de permadeath-modus is {0} dag(en).</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
-  <ModSettings>TODO</ModSettings>
+  <ModSettings>Mod instellingen</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>TODO</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>schakel de ontwikkelingsmodus permanent uit</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
@@ -83,27 +83,14 @@
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
-  <SelectMod>TODO</SelectMod>
+  <SelectMod>Selecteer mod...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>TODO</NoConfigurableMods>
+  <NoConfigurableMods>Geen configureerbare mods geladen.</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
-  <RestoreToDefaultSettings>TODO</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>Terugzetten naar de standaardinstellingen</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>TODO</ResetAndRestart>
+  <ResetAndRestart>Je opties zijn gereset. Het spel wordt nu automatisch opnieuw gestart.</ResetAndRestart>
   
-  <!-- UNUSED -->
-  <GraphicsQuality>Beeldkwaliteit</GraphicsQuality>
-  <GraphicsQualityNormal>Normaal</GraphicsQualityNormal>
-  <GraphicsQualityGreat>Beste</GraphicsQualityGreat>
-  <AdaptiveTutor>Zelflerende begeleider</AdaptiveTutor>
-  <CurrentRes>Huidige resolutie: {0}</CurrentRes>
-  <ChooseResolution>Verander resolutie</ChooseResolution>
-  <Privacy>Privacy</Privacy>
-  <UserName>Gebruikersnaam</UserName>
-  <ChooseHistoryUploadPref>Spelgegevens uploaden</ChooseHistoryUploadPref>
-  <CurrentHistoryUploadPref>Op dit moment: {0}</CurrentHistoryUploadPref>
-  <AboutHistoryUpload>Spelgegevens helpen de ontwikkelaar het spel verder te ontwikkelen. Als je toestemming geeft, wordt je informatie elke {0} speldagen (en in sommige speciale gevallen, zoals het einde van het spel) naar de RimWorld server voor analyse. Geuploade speldata bevat alleen statistieken en historische data over het spel - geen persoonlijk informatie wordt verstuurd, behalve de gebruikersnaam. De speldata is dus volledig anoniem.</AboutHistoryUpload>
-
 </LanguageData>

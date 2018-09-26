@@ -12,6 +12,6 @@
   <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Druk op een toets of druk Escape om te annuleren...</PressAnyKeyOrEsc>
   <!-- EN: Key binding overwritten: {0} -->
-  <KeyBindingOverwritten>TODO</KeyBindingOverwritten>
+  <KeyBindingOverwritten>Toetsbinding overschreven: {0}</KeyBindingOverwritten>
   
 </LanguageData>

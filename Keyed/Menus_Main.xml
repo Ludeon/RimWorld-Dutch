@@ -9,7 +9,7 @@
   <!-- EN: Back to game -->
   <BackToGame>Terug naar spel</BackToGame>
   <!-- EN: Review scenario -->
-  <ReviewScenario>TODO</ReviewScenario>
+  <ReviewScenario>Bekijk het scenario</ReviewScenario>
   <!-- EN: Save -->
   <Save>Opslaan</Save>
   <!-- EN: Load game -->
@@ -19,23 +19,23 @@
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>TODO</SaveTranslationReport>
+  <SaveTranslationReport>Vertaalrapport opslaan</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
+  <GeneratingTranslationReport>Vertaalverslag genereren</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <CleanupTranslationFiles>Vertaalbestanden opschonen</CleanupTranslationFiles>
   <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <CleaningTranslationFiles>Vertaalbestanden opschonen</CleaningTranslationFiles>
   <!-- EN: Credits -->
   <Credits>Credits</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>Naar hoofdmenu</QuitToMainMenu>
+  <QuitToMainMenu>Afsluiten naar het hoofdmenuu</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>TODO</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Opslaan en afsluiten naar het menu</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Afsluiten</QuitToOS>
+  <QuitToOS>Afsluiten naar OS </QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>TODO</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Opslaan en verlaten naar OS</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
   <FictionPrimer>Fiction Primer</FictionPrimer>
   <!-- EN: Ludeon blog -->
@@ -51,25 +51,25 @@
   <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Help bij het vertalen van RimWorld</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>TODO</BuySoundtrack>
+  <BuySoundtrack>Soundtrack kopen</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>Maak planeet</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>TODO</TranslationThanks>
+  <TranslationThanks>Alle vertalingen van RimWorld zijn gemaakt door fans. Deze vertaling is gemaakt door de volgende voortreffelijke vrijwilligers:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <TranslationHowToContribute>Jij kunt ook een bijdrage leveren. Klik hieronder voor meer informatie (opent webbrowser).</TranslationHowToContribute>
   <!-- EN: Learn more -->
-  <LearnMore>TODO</LearnMore>
+  <LearnMore>Meer informatie </LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>TODO</DevBuildWarning>
+  <DevBuildWarning>Waarschuwing: Dit is een onstabiele ontwikkelversie. Dit betekent dat we ontwerpexperimenten uitvoeren en technische ontwikkelingen doen.\n\nSommige dingen zullen opzettelijk tijdelijk uit balans raken. Dit is een klassieke ontwerpmethode waarbij we bewust te ver gaan met een evenwichtsverandering om de evenwichtsgrenzen beter te begrijpen. Die informatie kunnen we dan gebruiken om te beslissen over de uiteindelijke balanspunten.\n\nEr zullen ook bugs zijn, inclusief spel-brekende. Compatibiliteit voor opslaan kan op elk moment stuk gaan.\n\nAls je met dit alles akkoord gaat, bedankt voor het testen! Als u niet wilt worden onderworpen aan onze experimenten, speel dan de laatste stabiele versie.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
-  <ReviewWorld>Wereldkaart</ReviewWorld>
+  <ReviewWorld>Review world</ReviewWorld>
   <!-- EN: Generate -->
   <WorldGenerate>Genereer</WorldGenerate>
   <!-- EN: Save and finish -->
@@ -77,39 +77,39 @@
   <!-- EN: Reset -->
   <Reset>Herstel</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>TODO</PlanetCoverage>
+  <PlanetCoverage>Wereldbol bedekking</PlanetCoverage>
   <!-- EN: Overall rainfall -->
-  <PlanetRainfall>TODO</PlanetRainfall>
+  <PlanetRainfall>Regenval algemeen</PlanetRainfall>
   <!-- EN: Overall temperature -->
-  <PlanetTemperature>TODO</PlanetTemperature>
+  <PlanetTemperature>Temperatuur algemeen</PlanetTemperature>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>TODO</PlanetRainfall_Low>
+  <PlanetRainfall_Low>Weinig</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>TODO</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>Normaal</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>TODO</PlanetRainfall_High>
+  <PlanetRainfall_High>Veel</PlanetRainfall_High>
   <!-- EN: Low -->
-  <PlanetTemperature_Low>TODO</PlanetTemperature_Low>
+  <PlanetTemperature_Low>Laag</PlanetTemperature_Low>
   <!-- EN: Normal -->
-  <PlanetTemperature_Normal>TODO</PlanetTemperature_Normal>
+  <PlanetTemperature_Normal>Normaal</PlanetTemperature_Normal>
   <!-- EN: High -->
-  <PlanetTemperature_High>TODO</PlanetTemperature_High>
+  <PlanetTemperature_High>Hoog</PlanetTemperature_High>
   <!-- EN: Seed -->
-  <WorldSeed>Startwaarde</WorldSeed>
+  <WorldSeed>Uitgangspunt</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>Willekeurige startwaarde</RandomizeSeed>
+  <RandomizeSeed>Willekeurig uitgangspunt</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>TODO</PlanetCoverageTip>
+  <PlanetCoverageTip>De planeet heeft altijd dezelfde diameter, maar omdat hij veel groter is dan nodig is om te spelen, genereren we niet het hele oppervlak omdat het heel lang kan duren. Dit is het percentage van het oppervlak dat je wilt genereren.</PlanetCoverageTip>
   <!-- EN: Factions -->
-  <WorldFactionsTab>TODO</WorldFactionsTab>
+  <WorldFactionsTab>Facties</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>Kies planeet</SelectWorld>
+  <SelectWorld>Selecteer wereld</SelectWorld>
   <!-- EN: Select -->
-  <WorldChooseButton>Kies</WorldChooseButton>
+  <WorldChooseButton>Selecteer</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Geen planeten gevonden. Maak eerst een planeet.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Geen wereldbestanden gevonden. Creëer eerst een wereld</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
@@ -127,151 +127,151 @@
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>TODO</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>TODO</GetModsFromForum>
+  <GetModsFromForum>Verkrijg mods van het forum</GetModsFromForum>
   <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Open de mods-map</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <ShowModsDataLocation>Toon mods data locatie</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Weet je zeker dat je de kern (core) wil deactiveren? Het spel zal niet functioneren zonder deze mod, die alle kernfuncties bevat.\n\nTip: andere mods kunnen kernwaarden overschrijven, door dezelfde Def naam te gebruiken.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitschakelen? Het spel zal helemaal niet werken tenzij je een andere mod hebt die alle kernfunctionaliteit vervangt.\n\nOnthoud dat andere mods defs de core mod kunnen overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>TODO</ConfirmDeleteMod>
+  <ConfirmDeleteMod>Weet u zeker dat je alle inhoud voor {0} wilt verwijderen? </ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>TODO</Unsubscribe>
+  <Unsubscribe>Uitschrijven</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>TODO</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Weet u zeker dat u zich wilt uitschrijven voor {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>Auteur</Author>
   <!-- EN: Workshop page -->
-  <WorkshopPage>TODO</WorkshopPage>
+  <WorkshopPage>Workshop pagina</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>TODO</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Upload naar Steam Workshop</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>TODO</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Update op Steam Workshop</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>TODO</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Upload al in uitvoering</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>TODO</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Workshop inzending mislukt.\n\nReden: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>TODO</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>Succesvol geüpload {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>TODO</Downloading>
+  <Downloading>Downloading</Downloading>
   <!-- EN: Source -->
-  <Source>TODO</Source>
+  <Source>Bron</Source>
   <!-- EN: For version: {0} -->
-  <ModTargetVersion>TODO</ModTargetVersion>
+  <ModTargetVersion>Voor versie: {0}</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>TODO</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Deze mod is niet gemaakt voor deze versie van RimWorld, en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
-  <MessageModNeedsWellFormattedTargetVersion>TODO</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod heeft een goed geformatteerde doelversie nodig in About.xml. Zoals dit:{0}.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>TODO</DragToReorder>
+  <DragToReorder>Slepen om de volgorde te wijzigen</DragToReorder>
   
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
-  <ChooseScenario>TODO</ChooseScenario>
+  <ChooseScenario>Kies een scenario</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>TODO</ScenariosCustom>
+  <ScenariosCustom>Aangepast</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>TODO</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>Steam Workshop </ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>TODO</ScenarioEditor>
+  <ScenarioEditor>Scenario editor</ScenarioEditor>
   <!-- EN: Delete -->
-  <Delete>TODO</Delete>
+  <Delete>Verwijderen</Delete>
   
   <!-- Scenario editor -->
   <!-- EN: seed -->
-  <Seed>TODO</Seed>
+  <Seed>Uitgangspunt</Seed>
   <!-- EN: Load -->
-  <Load>TODO</Load>
+  <Load>Laad</Load>
   <!-- EN: edit mode -->
-  <EditMode>TODO</EditMode>
+  <EditMode>bewerkingsmodus</EditMode>
   <!-- EN: Summary -->
-  <Summary>TODO</Summary>
+  <Summary>Samenvatting</Summary>
   <!-- EN: Add part -->
-  <AddPart>TODO</AddPart>
+  <AddPart>Onderdeel toevoegen</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>TODO</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>Alle tekstvelden moeten worden ingevuld.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>TODO</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Weet u zeker dat u dit wilt uploaden naar de Steam Workshop?\n\nDan moet u akkoord gaan met de servicevoorwaarden van de Steam Workshop. De volledige voorwaarden vindt u hier:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>TODO</ConfirmContentAuthor>
+  <ConfirmContentAuthor>Uiteraard dient je alleen content te uploaden die je zelf hebt gemaakt.\n\nHeb je deze content zelf gemaakt?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
-  <Incompatible>TODO</Incompatible>
+  <Incompatible>Incompatibel</Incompatible>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>TODO</TooMany>
+  <TooMany>Te veel (max {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>TODO</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Kan worden bijgewerkt op Workshop, aangezien je de auteur bent.</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Kies AI Verteller</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>De AI Verteller laat dingen gebeuren, zoals een piratenaanval of dierengekte. Zijn beslissingen zullen de kolonie beïnvloeden.</HowStorytellersWork>
+  <HowStorytellersWork>De AI verhalenverteller creëert gebeurtenissen zoals piratenaanvallen, grondstof droppings, of aanvallen van dieren. Hun keuzes hebben invloed op het verhaal van je kolonie. Je kunt deze instellingen op elk moment wijzigen.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>TODO</MustChooseDifficulty>
+  <MustChooseDifficulty>Kies een moeilijkheidsgraad.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
-  <Difficulty>TODO</Difficulty>
+  <Difficulty>Moeilijkheidsgraad</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>TODO</CommitmentMode>
+  <CommitmentMode>Commitmentmodus</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <ReloadAnytimeMode>Onbeperkt opnieuw laden-modus</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <MustChoosePermadeath>Kies Commitmentmodus of Onbeperkt opnieuw laden-modus</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Je kunt het spel op elk moment opslaan en laden.\n\nDit is een goede keuze als je het spel nog steeds aan het leren bent, als het past bij je persoonlijke speelstijl, als je mods gebruikt die je spel kunnen breken, of als je van plan bent om de commitment mode zelf te forceren.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>TODO</PermadeathModeInfo>
+  <PermadeathModeInfo>Je kunt alleen maar besparen bij het stoppen met het spel.\n\nAangezien RimWorld een verhalengenerator is, is zelfs het verliezen van op één persoon na niet het einde van het spel - het is onderdeel van het verhaal. Het spel is ontworpen om herstel na verliezen mogelijk te maken.\n\nHet uitspelen van deze verschrikkelijke situaties maakt een verhaal met zowel tragedie en triomf. Het is de manier waarop RimWorld is ontworpen om gespeeld te worden.\n\nEr is een reden waarom Luke Skywalker niet ophield en opnieuw laadde toen zijn familie werd gedood - verlies en herstel is dramatisch.</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>De verhalenverteller en de moeilijkheidsgraad kunnen op elk moment worden gewijzigd.</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
-  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <UnlockExtremeDifficulty>Genadeloze modus</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>De genadeloze modus is een speciale spelmodus waarin elke uitdaging tot op het uiterste wordt opgevoerd.\n\Genadeloze modus ontgrendelt automatisch wanneer u specifieke mijlpalen te bereiken. Je kunt het echter al wel ontgrendelen.\n\Deze optie is alleen aan te raden als je een of twee moeilijke spellen hebt gespeeld en je ondanks je beste inspanningen een goede kans wilt hebben om te sterven.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>TODO</SelectStartingSite>
+  <SelectStartingSite>Selecteer startplaats</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>TODO</SelectRandomSite>
+  <SelectRandomSite>Selecteer een willekeurige plaats</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Kies plaats</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>TODO</MustSelectStartingSite>
+  <MustSelectStartingSite>Selecteer een plaats.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Je kunt niet in dit ecosysteem landen: {0}</CannotLandBiome>
+  <CannotLandBiome>Je kunt niet op dit bioom landen: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>Ecosysteem niet geïmplementeerd</BiomeNotImplemented>
+  <BiomeNotImplemented>Bioom niet geïmplementeerd</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>TODO</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Je kunt niet landen op onbegaanbare bergen.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>{0} hebben hier al een basis.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>TODO</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>Je hebt hier al een basis</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>TODO</TileOccupied>
+  <TileOccupied>Deze tegel is bezet.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>TODO</FactionBaseAdjacent>
+  <FactionBaseAdjacent>De nederzettingen kunnen niet direct naast elkaar liggen</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>Ecosysteem</Biome>
+  <Biome>Bioom</Biome>
   <!-- EN: Terrain -->
   <Terrain>Terrein</Terrain>
   <!-- EN: Road -->
-  <Road>TODO</Road>
+  <Road>Weg</Road>
   <!-- EN: River -->
-  <River>TODO</River>
+  <River>Rivier</River>
   <!-- EN: Elevation -->
   <Elevation>Hoogte</Elevation>
   <!-- EN: Fertility -->
   <Fertility>Vruchtbaarheid</Fertility>
   <!-- EN: Average temperature -->
-  <AvgTemp>Gem Temp</AvgTemp>
+  <AvgTemp>Gemiddelde temperatuur</AvgTemp>
   <!-- EN: Rainfall -->
   <Rainfall>Neerslag</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>TODO</SpecialFeatures>
+  <SpecialFeatures>Speciale kenmerken</SpecialFeatures>
   <!-- EN: northern coast -->
   <HasCoast0>Noordelijke kust</HasCoast0>
   <!-- EN: eastern coast -->
@@ -281,29 +281,29 @@
   <!-- EN: western coast -->
   <HasCoast3>Westelijke kust</HasCoast3>
   <!-- EN: caves -->
-  <HasCaves>TODO</HasCaves>
+  <HasCaves>grotten</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>Basis</FactionBase>
+  <FactionBase>Factiebasis</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Types steen</StoneTypesHere>
+  <StoneTypesHere>Steensoorten</StoneTypesHere>
   <!-- EN: Time zone -->
-  <TimeZone>TODO</TimeZone>
+  <TimeZone>Tijdzone</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>TODO</MovementDifficulty>
+  <MovementDifficulty>Bewegingsmoeilijkheden</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>TODO</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Dieren kunnen nu grazen</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>TODO</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>Gemiddelde ziektefrequentie</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>TODO</PerYear>
+  <PerYear>per jaar</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>TODO</Forageability>
+  <Forageability>Veevoederwinning </Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Geen van de geselecteerde mensen kan de volgende taken uitvoeren:\n\n{0}\n\nDit kan het spel moeilijker maken dan normaal. Weet u zeker dat u wilt doorgaan?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>Maak karakters</CreateCharacters>
+  <CreateCharacters>Maak personages</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>De voornaam van het karakter.\n\nDeze naam wordt slechts in enkele menus getoond.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
@@ -331,27 +331,27 @@
   <!-- EN: Childhood -->
   <Childhood>Kind</Childhood>
   <!-- EN: Current -->
-  <Current>TODO</Current>
+  <Current>Huidige</Current>
   <!-- EN: male -->
   <Male>Mannelijk</Male>
   <!-- EN: female -->
   <Female>Vrouwelijk</Female>
   <!-- EN: male -->
-  <MaleAnimal>TODO</MaleAnimal>
+  <MaleAnimal>Mannelijk</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>TODO</FemaleAnimal>
+  <FemaleAnimal>Vrouwelijk</FemaleAnimal>
   <!-- EN: Pain -->
   <Pain>Pijn</Pain>
   <!-- EN: Health -->
   <Health>Gezondheid</Health>
   <!-- EN: Relations -->
-  <Relations>TODO</Relations>
+  <Relations>Relaties</Relations>
   <!-- EN: Team skills -->
-  <TeamSkills>TODO</TeamSkills>
+  <TeamSkills>Team vaardigheden </TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>TODO</StartingPawnsSelected>
+  <StartingPawnsSelected>Geselecteerd</StartingPawnsSelected>
   <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>TODO</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>Achtergelaten</StartingPawnsLeftBehind>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -369,45 +369,20 @@
   <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>Iedereen heeft een naam nodig.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Geen van de geselecteerde personen kan de volgende taken uitvoeren</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
-  <Quit>TODO</Quit>
+  <Quit>Afsluiten</Quit>
   <!-- EN: Ignore -->
-  <Ignore>TODO</Ignore>
+  <Ignore>Negeren</Ignore>
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>Wereld genereren...</GeneratingWorld>
+  <GeneratingWorld>Wereld genereren</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>TODO</GeneratingPlanet>
+  <GeneratingPlanet>Planeet genereren</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>Kaart genereren...</GeneratingMap>
+  <GeneratingMap>Kaart genereren</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>TODO</GeneratingMapForNewEncounter>
-
-  <!-- UNUSED -->
-  <SelectLandingSite>Kies landingsplaats</SelectLandingSite>
-  <MustSelectLandingSite>Kies een landingsplaats.</MustSelectLandingSite>
-  <WorldSize>Grootte</WorldSize>
-  <GetMods>Mods</GetMods>
-  <MustChooseChallengeScale>Kies de moeilijkheidsgraad.</MustChooseChallengeScale>
-  <ChallengeScale>Actieve moeilijkheidsgraad</ChallengeScale>
-  <ChallengeScaleTip>Als de verteller je een bedreiging stuurt, zal die {0} zo groot zijn als in de uitdagende modus.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Basisbouw modus</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Casual</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Normaal</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Uitdagend</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Heel uitdagend</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Enorm uitdagend</ChallengeScale_ExtremeChallenge>
-  <WorldRenderMode>Modus</WorldRenderMode>
-  <WorldRenderModeFull>Alles</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperatuur</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Hoogte</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Vruchtbaarheid</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Neerslag</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Ecosysteem</WorldRenderModeBiomes>
-  <AvgJanTemp>Gem Temp (jan): {0}</AvgJanTemp>
-  <AvgJulTemp>Gem Temp (jul): {0}</AvgJulTemp>
-  <TraitsDoNothing>De meeste eigenschappen hebben nu nog geen functie. Die zullen in de toekomst aangepast worden.</TraitsDoNothing>
+  <GeneratingMapForNewEncounter>Genereren van kaart voor nieuwe ontmoeting</GeneratingMapForNewEncounter>
 
 </LanguageData>

@@ -3,7 +3,7 @@
 
   <!-- Work tab -->
   <!-- EN: Manual priorities -->
-  <ManualPriorities>Handmatig</ManualPriorities>
+  <ManualPriorities>Handmatig prioriteit</ManualPriorities>
   <!-- EN: higher priority -->
   <HigherPriority>Hogere prioriteit</HigherPriority>
   <!-- EN: lower priority -->
@@ -13,99 +13,99 @@
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klik om naar deze kolonist te gaan:</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
-  <CannotDoThisWork>{0} kan dit soort werk niet doen.</CannotDoThisWork>
+  <CannotDoThisWork>{1_labelShort} kan dit soort werk niet doen.</CannotDoThisWork>
   <!-- EN: (none) -->
   <NoneBrackets>(geen)</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
-  <IncapableOfWorkTypeBecauseOfCapacities>TODO</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>Deze kolonist is niet in staat om dit soort werk te doen vanwege zijn gezondheidstoestand.</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
-  <EmergencyWorkMarker>TODO</EmergencyWorkMarker>
+  <EmergencyWorkMarker>N</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
-  <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
+  <SelectedWorkTypeWithVeryBadSkill>Waarschuwing: Het gemiddelde van de relevante vaardigheden is zeer laag.</SelectedWorkTypeWithVeryBadSkill>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
-  <ManageOutfits>TODO</ManageOutfits>
+  <ManageOutfits>Beheer outfits</ManageOutfits>
   <!-- EN: Clr. forced -->
-  <ClearForcedApparel>TODO</ClearForcedApparel>
+  <ClearForcedApparel>Wis gedwongen</ClearForcedApparel>
   <!-- EN: forced -->
-  <ApparelForcedLower>TODO</ApparelForcedLower>
+  <ApparelForcedLower>gedwongen</ApparelForcedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>TODO</ForcedApparel>
+  <ForcedApparel>Gedwongen kledij</ForcedApparel>
   <!-- EN: Edit... -->
-  <AssignTabEdit>TODO</AssignTabEdit>
+  <AssignTabEdit>Aanpassen..</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>TODO</ManageDrugPolicies>
+  <ManageDrugPolicies>Beheer drugsbeleid</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
-  <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
+  <ManageFoodRestrictions>Beheer voedselrestricties</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
-  <Copy>TODO</Copy>
+  <Copy>Kopieer</Copy>
   <!-- EN: Paste -->
-  <Paste>TODO</Paste>
+  <Paste>Plak</Paste>
   <!-- EN: Allowed area -->
-  <AllowedArea>TODO</AllowedArea>
+  <AllowedArea>Toegestane zone</AllowedArea>
   
   <!-- Animals tab -->
   <!-- EN: Master -->
-  <Master>TODO</Master>
+  <Master>Baasje</Master>
   <!-- EN: Pregnant ({0} / {1}) -->
-  <PregnantIconDesc>TODO</PregnantIconDesc>
+  <PregnantIconDesc>Zwanger ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
-  <BondedTo>TODO</BondedTo>
+  <BondedTo>Gebonden aan </BondedTo>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>TODO</IsPredator>
+  <IsPredator>Dit wezen is een roofdier. Als hij honger heeft, jaagt hij op kleinere wezens - mogelijk ook op mensen.</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>Vijandig</Hostile>
   <!-- EN: Ally -->
-  <Ally>TODO</Ally>
+  <Ally>Bondgenoot</Ally>
   <!-- EN: defeated -->
-  <DefeatedLower>TODO</DefeatedLower>
+  <DefeatedLower>verslagen</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Vijand van {0}</HostileTo>
   <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <CurrentGoodwillTip>Huidige goedwilligheid en relaties met deze factie.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>Deze factie is permanent vijandig. Zij zullen uw nederzettingen en karavanen overvallen. De relaties met hen zullen nooit verbeteren, om welke reden dan ook.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Ally>Deze factie is geallieerd. Zij zullen strijders sturen om je te helpen wanneer ze dat kunnen. Als relaties onder {0} vallen, worden ze neutraal.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Deze factie is neutraal. Zij zullen vrij met u handelen en met u praten. Als relaties onder {0} vallen, worden ze vijandig. Als relaties boven {1} uitstijgen, worden ze bondgenoten en gaan ze actief aan de slag om je te helpen.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Deze factie is vijandig. Zij zullen uw nederzettingen en karavanen overvallen. Als relaties boven {0} uitstijgen, worden ze neutraal.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>Deze factie heeft een natuurlijke goedwilligheid die varieert van {0} tot {1}. Als de goedwilligheid hoger is dan {1}, daalt deze met {3} per dag. Indien de goedwilligheid onder {0} ligt, zal deze met {2} per dag stijgen.</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
-  <Friend>TODO</Friend>
+  <Friend>Vriend</Friend>
   <!-- EN: Rival -->
-  <Rival>TODO</Rival>
+  <Rival>Rivaal</Rival>
   <!-- EN: Acquaintance -->
-  <Acquaintance>TODO</Acquaintance>
+  <Acquaintance>KEnnis</Acquaintance>
   
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
-  <Graph>TODO</Graph>
+  <Graph>Grafiek</Graph>
   <!-- EN: Messages -->
-  <Messages>TODO</Messages>
+  <Messages>Berichten</Messages>
   <!-- EN: Statistics -->
-  <Statistics>TODO</Statistics>
+  <Statistics>Statistieken</Statistics>
   
   <!-- History tab - Graphs -->
   <!-- EN: Select graph -->
-  <SelectGraph>Grafiektype</SelectGraph>
+  <SelectGraph>Grafiek kiezen</SelectGraph>
   <!-- EN: Last 30 days -->
-  <Last30Days>30 dagen</Last30Days>
+  <Last30Days>laatste 30 dagen</Last30Days>
   <!-- EN: Last 100 days -->
-  <Last100Days>100 dagen</Last100Days>
+  <Last100Days>laatste 100 dagen</Last100Days>
   <!-- EN: Last 300 days -->
-  <Last300Days>300 dagen</Last300Days>
+  <Last300Days>laatste 300 dagen</Last300Days>
   <!-- EN: All -->
   <AllDays>Alles</AllDays>
   <!-- EN: Value -->
@@ -115,33 +115,33 @@
 
   <!-- History tab - Messages -->
   <!-- EN: Show letters -->
-  <ShowLetters>TODO</ShowLetters>
+  <ShowLetters>Toon brieven</ShowLetters>
   <!-- EN: Show messages -->
-  <ShowMessages>TODO</ShowMessages>
+  <ShowMessages>Toon berichten</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
-  <PinArchivableTip>TODO</PinArchivableTip>
+  <PinArchivableTip>Zet dit bericht vast of los. De oudste niet-vastgezette berichten worden automatisch uit de lijst verwijderd nadat de limiet van {0} berichten is bereikt.</PinArchivableTip>
   <!-- EN: no messages -->
-  <NoMessages>TODO</NoMessages>
+  <NoMessages>Geen berichten</NoMessages>
 
   <!-- History tab - Statistics -->
   <!-- EN: Play time -->
-  <Playtime>TODO</Playtime>
+  <Playtime>Speeltijd</Playtime>
   <!-- EN: Storyteller -->
   <Storyteller>Verteller</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>TODO</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>Kolonie rijkdom (deze kaart) </ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>TODO</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>Kolonie rijkdom (items) (deze kaart) </ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>TODO</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>Kolonie rijkdom (gebouwen) (deze kaart)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Kolonie rijkdom (mensen en dieren) (deze kaart)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>Grote bedreigingen</NumThreatBigs>
   <!-- EN: Enemy raids -->
   <NumEnemyRaids>Vijandige aanvallen</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>TODO</ThisMapDamageTaken>
+  <ThisMapDamageTaken>Schade (deze kaart)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
   <ColonistsKilled>Overleden kolonisten</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
@@ -149,12 +149,12 @@
 
   <!-- Research tab -->
   <!-- EN: project tech level -->
-  <ProjectTechLevel>TODO</ProjectTechLevel>
+  <ProjectTechLevel>project technisch niveau</ProjectTechLevel>
   <!-- EN: your tech level -->
-  <YourTechLevel>TODO</YourTechLevel>
+  <YourTechLevel>jouw technisch niveau</YourTechLevel>
   <!-- EN: cost multiplier -->
-  <ResearchCostMultiplier>TODO</ResearchCostMultiplier>
+  <ResearchCostMultiplier>kostenfactor</ResearchCostMultiplier>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>TODO</ResearchCostComparison>
+  <ResearchCostComparison>Projectbasiskosten {0} wordt {1} voor jou vanwege je technische niveau.</ResearchCostComparison>
   
 </LanguageData>

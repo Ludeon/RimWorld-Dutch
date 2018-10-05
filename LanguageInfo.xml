@@ -29,17 +29,21 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Gangleider</creditee>
     </li>
-	<li Class="CreditRecord_Role">
+	  <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>EwartBoonstra</creditee>
     </li>
-	<li Class="CreditRecord_Role">
+	  <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>ILxCAPO</creditee>
-	</li>
-	<li Class="CreditRecord_Role">
+	  </li>
+	  <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
       <creditee>Sjohn21</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Bas-Korver</creditee>
     </li>
   </credits>
 </LanguageInfo>

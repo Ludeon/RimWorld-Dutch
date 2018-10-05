@@ -67,6 +67,7 @@ Verder zijn de strings nog niet vertaald. De Engelse versies zijn gekopieerd, om
 **Active**
 - ILxCAPO
 - Sjohn21
+- Bas-Korver
 
 **Inactive (for more than a year)**
 - datdenkikniet

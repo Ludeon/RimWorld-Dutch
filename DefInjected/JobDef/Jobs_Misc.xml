@@ -85,6 +85,9 @@
   <!-- EN: operating turret. -->
   <ManTurret.reportString>een geschuttoren aan het bedienen.</ManTurret.reportString>
   
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>TODO</OfferHelp.reportString>
+  
   <!-- EN: opening TargetA. -->
   <Open.reportString>TargetA aan het openen.</Open.reportString>
   

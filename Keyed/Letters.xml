@@ -125,6 +125,14 @@
   
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>De laatste druppel was: {0}</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>TODO</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>TODO</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>TODO</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>TODO</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>De laatste gebeurtenis was</LastFactionRelationsEvent>
 
@@ -171,6 +179,8 @@
   <LetterAffair>{PAWN1_labelShort}, getrouwd met {SPOUSE_labelShort}, is een relatie aangegaan met {PAWN2_labelShort}.</LetterAffair>
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>Nieuwe geliefden </LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>TODO</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} en {PAWN2_labelShort} zijn niet langer in een relatie.</LetterNoLongerLovers>
   <!-- EN: Breakup -->
@@ -305,7 +315,7 @@
   <PeaceTalksSocialXPGain>{PAWN_labelShort}, uw onderhandelaar, heeft {1} sociale ervaring opgedaan.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
-  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame {0_objective} to get {0_objective} back. -->
+  <!-- EN: {0} is fed up with civilization.\n\n{0_pronoun} realized that wild creatures are always free. So, {0_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {0_objective} to get {0_objective} back. -->
   <LetterRunWildMentalBreak>{{0} is de beschaving zat.\n\n{0_pronoun} realiseerde zich dat wilde wezens altijd vrij zijn. Dus {0_pronoun} heeft besloten om je factie te verlaten en met de dieren te leven.\n\nJe kunt proberen {0_objective} te temmen om {0_objective} terug te krijgen</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->

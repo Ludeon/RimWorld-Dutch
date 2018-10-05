@@ -4,9 +4,11 @@
   <!-- Forbid -->
   <!-- EN: Forbid -->
   <CommandForbid>Verbieden</CommandForbid>
-  <!-- EN: Forbidden - colonists will not interact with this. -->
+  <!-- EN: Allow -->
+  <CommandAllow>TODO</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
   <CommandForbiddenDesc>Verboden -  kolonisten zullen hier geen interactie mee hebben.</CommandForbiddenDesc>
-  <!-- EN: Not forbidden - colonists may interact with this. -->
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
   <CommandNotForbiddenDesc>Niet verboden - kolonisten kunnen hiermee in interactie hebben.</CommandNotForbiddenDesc>
 
   <!-- Power -->

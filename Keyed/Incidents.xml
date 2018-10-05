@@ -211,6 +211,8 @@
   <CaravanRequestInfo>Aanvragen. {0} ({3}), Beloning: {1}: {0} ({3}), Beloning: {1} ({4}) ({2} over)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>normale kwaliteit of beter</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>TODO</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->

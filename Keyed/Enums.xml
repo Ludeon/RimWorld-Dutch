@@ -8,15 +8,7 @@
   <Lit>Verlicht</Lit>
   <!-- EN: Brightly lit -->
   <LitBrightly>Helder verlicht</LitBrightly>
-  
-  <!-- History upload pref -->
-  <!-- EN: Undecided -->
-  <Unspecified>Nog niet besloten</Unspecified>
-  <!-- EN: Allow -->
-  <Always>Toestaan</Always>
-  <!-- EN: Do not allow -->
-  <Never>Niet toestaan</Never>
-  
+
   <!-- Price types -->
   <!-- EN: very cheap -->
   <PriceTypeVeryCheap>spotgoedkoop</PriceTypeVeryCheap>
@@ -294,5 +286,10 @@
   <PsychicDroneLevel_BadHigh>hoog</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>extreem</PsychicDroneLevel_BadExtreme>
+
+  <!-- UNUSED -->
+  <Unspecified>Nog niet besloten</Unspecified>
+  <Always>Toestaan</Always>
+  <Never>Niet toestaan</Never>
 
 </LanguageData>

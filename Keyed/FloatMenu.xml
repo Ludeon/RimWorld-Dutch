@@ -262,6 +262,11 @@
   <TradeWith>Handel met {0}</TradeWith>
   <!-- EN: Cannot trade -->
   <CannotTrade>Kan niet handelen</CannotTrade>
+
+  <!-- EN: Open {0_label} -->
+  <Open>TODO</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>TODO</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>Treedt {0} binnen</EnterMap>

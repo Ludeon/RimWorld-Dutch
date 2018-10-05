@@ -68,9 +68,9 @@
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>Selecteer items als verboden. Kolonisten kunnen dan geen interacties aangaan met deze items.</DesignatorForbidDesc>
 
-  <!-- EN: Unforbid -->
+  <!-- EN: Allow -->
   <DesignatorUnforbid>Niet verboden</DesignatorUnforbid>
-  <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>Markeer items als niet verboden. Kolonisten kunnen dan interacties aangaan met deze items.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
@@ -198,6 +198,8 @@
   <IdenticalBlueprintExists>Hetzelfde plan bestaat hier al.</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>De grond hier kan dit niet dragen.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Deze plaats wordt al gebruikt.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->

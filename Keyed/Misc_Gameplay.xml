@@ -280,7 +280,7 @@
   <KnownSiteThreat>TODO</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
   <KnownSiteThreats>TODO</KnownSiteThreats>
-  <!-- EN: Known threats: None -->
+  <!-- EN: Threats: Unknown -->
   <KnownSiteThreatsNone>TODO</KnownSiteThreatsNone>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>TODO</SkillRequirements>
@@ -770,9 +770,7 @@
   <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
-  <!-- EN: Fire -->
-  <Fire>Vuur</Fire>
-  <!-- EN: Fire on {1_label} -->
+  <!-- EN: fire on {1_label} -->
   <FireOn>Vuur op {0}</FireOn>
   <!-- EN: Burning -->
   <Burning>Brandt</Burning>
@@ -1052,6 +1050,7 @@
   <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
 
   <!-- UNUSED -->
+  <Fire>Vuur</Fire>
   <UntreatedLower>onbehandeld</UntreatedLower>
   <InjuryRequiresTreatment>kan zonder behandeling niet herstellen</InjuryRequiresTreatment>
   <NextTreatmentAfter>Volgende behandeling over {0} dagen</NextTreatmentAfter>

@@ -364,9 +364,9 @@
   <!-- EN: Form caravan here -->
   <FormCaravanHere>Vorm hier een karavaan</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>Give to {0}</GiveToCaravan>
+  <GiveToCaravan>Geef aan {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>Give as a gift to {0} ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Geef als een geschenk aan {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->

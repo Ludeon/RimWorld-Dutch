@@ -371,7 +371,7 @@
   <!-- EN: Give to {0} -->
   <GiveToCaravan>Geef aan {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>Geef als een geschenk aan {0} ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Geef als geschenk aan {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->

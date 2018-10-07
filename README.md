@@ -22,7 +22,7 @@ A summary from the translation report tool:
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (14) 
-- Unnecessary keyed translations (will never be used) (51)
+- Unnecessary keyed translations (will never be used) (50)
 - Keyed translations matching English (maybe ok) (59)
 - Backstory translations matching English (maybe ok) (0)
 

@@ -3,19 +3,19 @@
 
   <!-- WITab titles -->
   <!-- EN: Terrain -->
-  <TabTerrain>TODO</TabTerrain>
+  <TabTerrain>Terrein</TabTerrain>
   <!-- EN: Planet -->
-  <TabPlanet>TODO</TabPlanet>
+  <TabPlanet>Planeet</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>TODO</TabCaravanSocial>
+  <TabCaravanSocial>Sociaal</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>TODO</TabCaravanHealth>
+  <TabCaravanHealth>Welzijn</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>TODO</TabCaravanNeeds>
+  <TabCaravanNeeds>Behoefte</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>TODO</TabCaravanGear>
+  <TabCaravanGear>Uitrusing</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>TODO</TabCaravanItems>
+  <TabCaravanItems>Voorwerpen</TabCaravanItems>
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {1_labelShort} -->

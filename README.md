@@ -16,14 +16,14 @@ A summary from the translation report tool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (636)
+- Missing keyed translations (628)
 - Def-injected translations missing (8551)
 - Backstory translations missing (2037)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (14) 
 - Unnecessary keyed translations (will never be used) (51)
-- Keyed translations matching English (maybe ok) (63)
+- Keyed translations matching English (maybe ok) (59)
 - Backstory translations matching English (maybe ok) (0)
 
 This is a long list (the report is over 11300 lines long). If you want to start helping you can do so, follow the steps in http://ludeon.com/forums/index.php?topic=2933.0

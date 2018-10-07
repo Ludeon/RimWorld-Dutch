@@ -19,7 +19,7 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {1_labelShort} -->
-  <AbandonSliderText>TODO</AbandonSliderText>
+  <AbandonSliderText>Laat {{0}}x {1_labelShort} achter</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>TODO</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->

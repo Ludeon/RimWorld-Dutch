@@ -16,7 +16,7 @@ A summary from the translation report tool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (608)
+- Missing keyed translations (60)
 - Def-injected translations missing (8551)
 - Backstory translations missing (2037)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)

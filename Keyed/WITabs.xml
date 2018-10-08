@@ -21,45 +21,45 @@
   <!-- EN: Abandon {{0}}x {1_labelShort} -->
   <AbandonSliderText>Laat {{0}}x {1_labelShort} achter</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>TODO</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>Wil je echt {1_labelShort} achterlaten?\n\n Achtergelaten voorwerpen verdwijnen en kunnen niet meer hersteld worden</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>TODO</AbandonTip>
+  <AbandonTip>Achterlaten</AbandonTip>
   <!-- EN: Banish -->
-  <BanishTip>TODO</BanishTip>
+  <BanishTip>Verbannen</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>TODO</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>Laat specifiek aantal achter</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>TODO</AbandonAllTip>
+  <AbandonAllTip>Laat (alle) achter</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>TODO</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>Achtergelaten voorwerpen verdwijnen en kunnen niet meer hersteld worden</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>TODO</BanishTipWillDie>
+  <BanishTipWillDie>{1_labelShort} gaat hoogstwaarschijnlijk dood</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>TODO</CaravanColonists>
+  <CaravanColonists>Kolonisten</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>TODO</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>Gevangenen en dieren</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>TODO</CaravanItems>
+  <CaravanItems>Inventaris</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>TODO</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>Click om een tab te openen met meer details</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>TODO</CaravanPrisoners>
+  <CaravanPrisoners>Gevangenen</CaravanPrisoners>
   <!-- EN: Inventory -->
-  <CaravanWeaponsAndApparel>TODO</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Inventaris</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>TODO</NoneCapable>
+  <NoneCapable>Geen in staat</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>TODO</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>Karavaan beweegt niet</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>TODO</DragToRearrange>
+  <DragToRearrange>Sleep om te reorganiseren</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>TODO</AssignDrugPolicies>
+  <AssignDrugPolicies>Wijs drugsbeleid toe</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
@@ -67,8 +67,8 @@
   
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>TODO</PlanetSeed>
+  <PlanetSeed>Seed</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>TODO</PlanetCoverageShort>
+  <PlanetCoverageShort>Dekking</PlanetCoverageShort>
 
 </LanguageData>

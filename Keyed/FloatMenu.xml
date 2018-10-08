@@ -264,9 +264,9 @@
   <CannotTrade>Kan niet handelen</CannotTrade>
 
   <!-- EN: Open {0_label} -->
-  <Open>TODO</Open>
+  <Open>Open {0_label}</Open>
   <!-- EN: Cannot open {0_label} -->
-  <CannotOpen>TODO</CannotOpen>
+  <CannotOpen>Kan {0_label} niet openen</CannotOpen>
   
   <!-- EN: Enter {0} -->
   <EnterMap>Treedt {0} binnen</EnterMap>

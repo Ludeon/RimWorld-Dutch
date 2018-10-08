@@ -199,7 +199,7 @@
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>De grond hier kan dit niet dragen.</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that can support: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} vereist terrein dat {1_label} kan ondersteunen.</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Deze plaats wordt al gebruikt.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->

@@ -48,14 +48,14 @@ Een samenvatting van de vertaling reportagetool:
 - General load errors (0)
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
-- Missing keyed translations (636)
+- Missing keyed translations (607)
 - Def-injected translations missing (8551)
 - Backstory translations missing (2037)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (14) 
-- Unnecessary keyed translations (will never be used) (51)
-- Keyed translations matching English (maybe ok) (63)
+- Unnecessary keyed translations (will never be used) (50)
+- Keyed translations matching English (maybe ok) (59)
 - Backstory translations matching English (maybe ok) (0)
 
 Dit is een lange lijst (het rapport is meer dan 11300 regels lang). Als je wilt helpen kan dat, volg de stappen op http://ludeon.com/forums/index.php?topic=2933.0

@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: d -->
-  <LetterDay>TODO</LetterDay>
+  <LetterDay>d</LetterDay>
   <!-- EN: h -->
-  <LetterHour>TODO</LetterHour>
+  <LetterHour>u</LetterHour>
   <!-- EN: m -->
-  <LetterMinute>TODO</LetterMinute>
+  <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
-  <LetterSecond>TODO</LetterSecond>
+  <LetterSecond>s</LetterSecond>
   
   <!-- EN: days -->
   <DaysLower>dagen</DaysLower>

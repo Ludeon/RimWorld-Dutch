@@ -11,14 +11,14 @@
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
   <MessageRaidersKidnapping>{0} van {1} hebben besloten te ontvoeren wie ze kunnen en weg te gaan.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>TODO</MessageRaidersStealing>
+  <MessageRaidersStealing>{0} van {1} hebben besloten om te stelen wat ze kunnen stelen en weg te gaan.</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>{0} van {1} hebben het opgegeven en verlaten het gebied.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} van {1} hebben opgegeven en vertrekken.</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>{0} van {1} zijn tevreden met de door hen toegebrachte schade en verlaten het gebied.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} van {1} zijn tevreden met de door hen toegebrachte schade en vertrekken.</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
   <MessageFightersFleeing>{0} van {1} vluchten.</MessageFightersFleeing>
@@ -26,14 +26,14 @@
   <MessageFriendlyFightersLeaving>Vriendelijke {0} van {1} verlaten het gebied.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>TODO</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{0} van {1} nemen een gewonde gast.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>TODO</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>{0} van {1} zijn ingesloten en graven uit om te ontsnappen.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>TODO</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{0} van {1} verlaten de kaart vanwege de gevaarlijke temperatuur.</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>TODO</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} gedragen door {1_nameFull} vergaan tot niets.</MessageWornApparelDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>De {0} is begonnen.</MessageSeasonBegun>
@@ -48,487 +48,478 @@
   <MessageBillComplete>Opdracht afgerond: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{0} is volledig hersteld.</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} is volledig hersteld.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>Gevangene {0} probeert te ontsnappen.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Gevangene {1_labelShort} probeert te ontsnappen.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>TODO</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} vond geen nabijgelegen niet-gereserveerde hulzen voor {GUN_label}.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>TODO</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>{ANIMAL_kindBasePlural} hebben een kans van {1} om aan te vallen wanneer ze verwondingen oplopen door een vuurwapen. De kans is groter als je dichterbij komt, kleiner als je een goede sluipende jager bent.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>TODO</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>{ANIMAL_kindBasePlural} kan aanvallen op mislukte pogingen tot temmen ({1} kans).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
-  <LetterLabelMessageRecruitSuccess>TODO</LetterLabelMessageRecruitSuccess>
+  <LetterLabelMessageRecruitSuccess>Nieuwe rekruut </LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{0} heeft {1} gerecruteerd (kans: {2}).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} heeft met succes {RECRUITEE_nameFull} gerekruteerd ({2} kans).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>TODO</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>TODO</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans) en {RECRUITEE_objective} {RECRUITEE_nameFull} genoemd.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>De kolonie kan zich deze deal niet veroorloven.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>Je hebt niet genoeg zilver klaar staan.</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>Je hebt niet genoeg zilver paraat om te handelen.</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
   <MessageCriticalAlert>Kritieke waarschuwing: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>Er moeten volgroeide, oogstbare planten worden gemarkeerd.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>Moet worden toegewezen aan oogstbare planten die voldoende gegroeid zijn.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>Er moeten volgroeide bomen worden gemarkeerd. </MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>Moet worden toegewezen aan houtachtige planten die voldoende gegroeid zijn.</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Er moeten planten worden gemarkeerd om te verwijderen.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>Er moet een versleepbaar object worden gemarkeerd.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>Moet transporteerbare artikelen aanduiden. Sommige items zijn altijd transporteerbaar en kunnen niet worden aangewezen.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
   <MessageMustDesignateMineable>Er moeten delfbare rotsen worden gemarkeerd.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>Er moeten wilde dieren worden gemarkeerd.</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>Moet worden toegewezen aan jaagbare dieren.</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>TODO</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>Moet worden toegewezen aan tembare dieren.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>Er moet een verlaten, door mensen gebouwde constructie worden gemarkeerd.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Moet worden toegewezen aan verlaten kunstmatige structuren.</MessageMustDesignateClaimable>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>TODO</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>Moet een ruw stenen oppervlak zijn.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>TODO</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>Grotplafonds kunnen niet worden verwijderd.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>TODO</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>Dit is al in opslag en zal indien nodig worden verplaatst naar een opslag met een hogere prioriteit.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>TODO</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>Kan alleen worden toegepast op lijken of onbewuste personages die over uittrekbare uitrusting beschikken.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>TODO</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>Kan alleen gebruikt worden op getemde dieren van de kolonie.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>TODO</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>Kan alleen worden gebruikt op volle containers of graven.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>TODO</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>Kan alleen worden toegepast op toegestane items.</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>TODO</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>Moet verboden voorwerpen aanduiden.</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>TODO</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} heeft geweigerd te worden gearresteerd!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Er zijn geen ziekenbedden beschikbaar.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
-  <MessageNoAnimalBeds>TODO</MessageNoAnimalBeds>
+  <MessageNoAnimalBeds>Er zijn geen dierenbedden beschikbaar.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>TODO</MessageTooLowMedCare>
+  <MessageTooLowMedCare>De operatie vereist {0} of beter, maar de onderhoudstaak van {PAWN_labelShort} is ingesteld op "{2}".</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{0} is aan {1} gestorven.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} is overleden. Oorzaak: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>TODO</PawnDied>
+  <PawnDied>{1_labelShort} is overleden.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{0} kan weer lopen.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} kan weer lopen.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>TODO</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} is ingestort door extreme uitputting.</MessageInvoluntarySleep>
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureMinor>TODO</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} heeft een kleine fout gemaakt tijdens de operatie op {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {patient.LabelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>TODO</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} faalde catastrofaal tijdens de operatie op {patient.LabelShort}.</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureRidiculous>TODO</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} faalde met de operatie op {PATIENT_labelShort} op een belachelijke manier.</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>TODO</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} maakte een fatale fout tijdens de operatie op {PATIENT_labelShort} als gevolg van speciale uitwerkingen: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>TODO</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Deze operatie zal boosheid opwekken bij {0}.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>TODO</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0} heeft een miskraam door verhongering.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>TODO</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>{0} heeft een miskraam door een slechte gezondheid.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>TODO</MessageGaveBirth>
+  <MessageGaveBirth>{0} is bevallen.</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>TODO</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} heeft {1} {NAMEE_nameFull} genoemd na te zijn besnuffeld.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>TODO</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Geen enkele verzorger kan {ANIMAL_kindBase} temmen (vereist niveau {1} van {2}, de beste verzorger {HANDLER_labelShort} heeft {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>TODO</MessageEatenByPredator>
+  <MessageEatenByPredator>{EATEN_labelShort} is opgegeten door {PREDATOR}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>TODO</MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} wordt aangevallen door {PREDATOR}! </MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
-  <MessageHiveReproduced>TODO</MessageHiveReproduced>
+  <MessageHiveReproduced>Een bijenkorf heeft zichzelf gereproduceerd.</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>TODO</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>De handelskaravaan van {0} vertrekt.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>TODO</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} is dood.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>TODO</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} is van de kaart.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>TODO</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} begon een sociale ruzie met {PAWN2_labelShort}.</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
-  <MessageNewMarriageCeremony>TODO</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>Kolonisten verzamelen zich om het huwelijk van {PAWN1_labelShort} en {PAWN2_labelShort} te vieren.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>TODO</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} en {PAWN2_labelShort} beginnen hun huwelijksceremonie!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>TODO</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>De huwelijksceremonie voor {PAWN1_labelShort} en {PAWN2_labelShort} is afgeblazen. </MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>TODO</MessageNewlyMarried>
+  <MessageNewlyMarried>{PAWN1_labelShort} en {PAWN2_labelShort} zijn getrouwd. Kolonisten vieren nu de gelegenheid.</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>TODO</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>De huwelijksceremonie voor {PAWN1_labelShort} en {PAWN2_labelShort} is afgelopen.</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>TODO</MessageNewBondRelation>
+  <MessageNewBondRelation>{HUMAN_labelShort} en {ANIMAL_labelShort} hebben een verbinding gevormd.</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>TODO</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} en {1} hebben een verbinding gevormd. {HUMAN_labelShort} heeft {ANIMAL_objective} {ANIMAL_nameFull} genoemd.</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>TODO</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} heeft een mentale inzinking vanwege de dood van {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>TODO</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} genaamd {ANIMAL_label} heeft een mentale inzinking vanwege de dood van {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>TODO</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} dieren hebben een mentale inzinking vanwege de dood van {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>TODO</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} heeft met succes {PATIENT_labelShort}'s {HEDIFF} verwijderd.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>TODO</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Stukken van een ruimteschip zijn in de buurt terechtgekomen. Je kunt ze demonteren om grondstoffen op te leveren.</MessageShipChunkDrop>
   
   <!-- EN: The party has been called off. -->
-  <MessagePartyCalledOff>TODO</MessagePartyCalledOff>
+  <MessagePartyCalledOff>Het feest is afgelast.</MessagePartyCalledOff>
   <!-- EN: The party has finished. -->
-  <MessagePartyFinished>TODO</MessagePartyFinished>
+  <MessagePartyFinished>Het feest is afgelopen.</MessagePartyFinished>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>TODO</MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Sommige items kunnen niet worden verhandeld vanwege: </MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>TODO</MessageConstructionFailed>
+  <MessageConstructionFailed>{WORKER_labelShort} faalde tijdens het construeren van {0}. Sommige grondstoffen zijn verspild.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
-  <MessageScreenshotSavedAs>TODO</MessageScreenshotSavedAs>
+  <MessageScreenshotSavedAs>Schermopname opgeslagen als: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>TODO</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} en {PAWN2_labelShort} zijn niet langer aan het ruziën.</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>TODO</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} kickt niet langer op {1}.</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>TODO</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} staat niet langer op een beledigende manier tegen {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>TODO</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>{1_label} is in opslag weggerot.</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>TODO</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} heeft voedselvergiftiging gekregen van: {FOOD_labelShort}. Oorzaak: {2}.</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>{0} is uit de karavaan verwijderd.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>TODO</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>De vorming van de karavaan is beëindigd.</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>TODO</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>Het proces van karavaanvorming gaat door als iedereen is hersteld van zijn of haar mentale inzinking.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>TODO</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>Je kolonisten zullen nu doorgaan met het vormen van een karavaan.</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has a mental break. -->
-  <MessageCaravanMemberHasExtremeMentalBreak>TODO</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessageCaravanMemberHasExtremeMentalBreak>Een van de leden van de karavaan heeft een mentale inzinking.</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>TODO</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>Waarschuwing: Het kan heel lang duren om een hele planeet te genereren.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>TODO</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>{0} is overleden door kou.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>TODO</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} is afgestorven aan rotting als gevolg van dat het niet geoogst is.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} is afgestorven door blootstelling aan licht. </MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>TODO</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0} is afgestorven door rotting.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>TODO</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} is afgestorven door gif.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>TODO</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} is afgestorven aan de gevolgen van meeldauw.</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>TODO</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>{1_labelShort} wordt verbrand door verhitte lucht!</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>TODO</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{INGESTER} heeft per ongeluk een overdosis ingenomen tijdens het nuttigen van {DRUG_labelShort}!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>TODO</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>{0} is op zijn bestemming aangekomen.</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>TODO</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} heeft het gebied verlaten en een karavaan gevormd.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>TODO</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Je dieren zijn in beweging om zich aan te sluiten.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
-  <MessageSettledInExistingMap>TODO</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>Je hebt je met succes gevestigd in een nieuw gebied.</MessageSettledInExistingMap>
   
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>TODO</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>{PAWN_labelShort}'s {2} is genezen. Oorzaak: {0}</MessagePermanentWoundHealed>
 
   <!-- EN: Since you rescued {!_objective}, {1_labelShort} has joined your group! -->
-  <MessageRescueeJoined>TODO</MessageRescueeJoined>
+  <MessageRescueeJoined>Omdat u {!_objective} hebt gered, is {1_labelShort} toegetreden tot je groep!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>TODO</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>Sommige transportcapsules zijn onbereikbaar.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>TODO</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>Alle capsulelanceerinrichtingen die zijn gekoppeld aan de geselecteerde transportcapsules moeten aangrenzend zijn.</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>TODO</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Het laadproces is geannuleerd omdat een van de transportcapsules is vernietigd.</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>TODO</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Het laadproces is geannuleerd omdat een van de capsulelanceerds is vernietigd.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>TODO</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>Je kolonisten laden nu de toegewezen items in de transportcapsules.</MessageTransportersLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>TODO</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>Je transportcapsules zijn gearriveerd.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>TODO</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>Je transportcapsules zijn gearriveerd, maar omdat er geen kolonisten aanwezig waren, is de inhoud verloren gegaan. </MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>TODO</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Je transportcapsules zijn aangekomen. De inhoud is toegevoegd aan {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Your colonists have finished loading the transport pods. -->
-  <MessageFinishedLoadingTransporters>TODO</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>Je kolonisten zijn klaar met het laden van de transportcapsules.</MessageFinishedLoadingTransporters>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>Je {1} kan het laden van de transportcapsules niet afmaken omdat sommige items of mensen niet meer beschikbaar waren ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
   
   <!-- EN: Selected destination is invalid. -->
-  <MessageTransportPodsDestinationIsInvalid>TODO</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsInvalid>De geselecteerde bestemming is ongeldig.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>TODO</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>Elke capsule lanceerder zou ten minste {0}x chemfuel nodig hebben om de transportcapsules zo ver te sturen.</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>TODO</MessageReformedCaravan>
+  <MessageReformedCaravan>De karavaan is hervormd</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
-  <MessageCantBanishLastColonist>TODO</MessageCantBanishLastColonist>
+  <MessageCantBanishLastColonist>Je kunt de laatste kolonist niet verbannen.</MessageCantBanishLastColonist>
   
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>TODO</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>Kan niet uitrusten: {1_labelShort} is niet in staat tot geweld</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: incapable. -->
-  <MessageCantEquipIncapableOfManipulation>TODO</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>Kan niet uitrusten: onbekwaam.</MessageCantEquipIncapableOfManipulation>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>TODO</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Omdat ze aan elkaar gehecht zijn, zal het slachten van {DESIGNATED_labelShort} {BONDED_labelShort} ongelukkig maken.</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
-  <MessageCaravanRanOutOfFood>TODO</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} heeft geen voedsel meer ({PAWN_label}).</MessageCaravanRanOutOfFood>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>TODO</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>Om een karavaan te vormen, selecteert je je eigen kolonie of een plaats waar je mensen hebt.</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
-  <MessageScreenResTooSmallForUIScale>TODO</MessageScreenResTooSmallForUIScale>
+  <MessageScreenResTooSmallForUIScale>Bij deze resolutie en UI-schaal past de spelinterface niet op het scherm. Verlaag de UI-schaal of verhoog de resolutie.</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>TODO</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>Je moet de karavaan nu hervormen. Iedereen die achterblijft zal in de steek gelaten worden.</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <MessageDefendersAttacking>TODO</MessageDefendersAttacking>
+  <MessageDefendersAttacking>{0} van {1} vallen je {2} aan. </MessageDefendersAttacking>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>TODO</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>Om zelfverzorging uit te voeren, moet {1_labelShort} ook worden toegewezen aan dokterswerk.</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>TODO</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>{1_labelShort} is niet in staat om dokterswerk te doen, en kan zich dus nooit zelf verzorgen.</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>TODO</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>Deze tegel is onbegaanbaar.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
-  <MessageCantAddWaypointBecauseUnreachable>TODO</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseUnreachable>Het is niet mogelijk om deze tegel te bereiken vanaf het laatste routepunt.</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>TODO</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>Je kunt niet meer dan {0} routepunten toevoegen. </MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
-  <MessageCantRemoveWaypointBecauseFirst>TODO</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantRemoveWaypointBecauseFirst>Je kunt dit routepunt niet verwijderen.</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>TODO</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Geen van je bewakers is in staat tot geweld. De executie wordt niet uitgevoerd. </MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>TODO</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoMoreEnemies>Je hebt alle vijanden verslagen. In {0} wordt de karavaan automatisch hervormd.</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>TODO</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0} wordt de karavaan automatisch hervormd. Je kunt de karavaan nu hervormen in het scherm Wereld.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>TODO</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Kan {1_labelShort} niet verbannen omdat {1_pronoun} niet kan lopen.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
-  <MessageSleepingPawnsWokenUp>TODO</MessageSleepingPawnsWokenUp>
+  <MessageSleepingPawnsWokenUp>{0} zijn wakker geworden.</MessageSleepingPawnsWokenUp>
 
   <!-- EN: Item produced: {0}. -->
-  <MessageCompSpawnerSpawnedItem>TODO</MessageCompSpawnerSpawnedItem>
+  <MessageCompSpawnerSpawnedItem>Item geproduceerd: {0}.</MessageCompSpawnerSpawnedItem>
 
   <!-- EN: Health condition healed: {0}. -->
-  <MessageHediffCuredByItem>TODO</MessageHediffCuredByItem>
+  <MessageHediffCuredByItem>Gezondheidstoestand genezen: {0}.</MessageHediffCuredByItem>
   <!-- EN: Body part restored: {0}. -->
-  <MessageBodyPartCuredByItem>TODO</MessageBodyPartCuredByItem>
+  <MessageBodyPartCuredByItem>Lichaamsdeel hersteld: {0}.</MessageBodyPartCuredByItem>
   <!-- EN: Technology given: {0}. -->
-  <MessageResearchProjectFinishedByItem>TODO</MessageResearchProjectFinishedByItem>
+  <MessageResearchProjectFinishedByItem>Technologie gegeven: {0}.</MessageResearchProjectFinishedByItem>
 
   <!-- EN: {0} has been brought back to life! -->
-  <MessagePawnResurrected>TODO</MessagePawnResurrected>
+  <MessagePawnResurrected>{0} is weer tot leven gewekt!</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>TODO</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>Je hebt {PAWN_labelShort} niet gered. Hierdoor wordt {RELATIVE_labelShort} verdrietig.</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>TODO</MessageRescuedRelative>
+  <MessageRescuedRelative>Je hebt {PAWN_labelShort} gered. Dit maakt {RELATIVE_labelShort} gelukkig.</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
-  <MessageTornadoLeftMap>TODO</MessageTornadoLeftMap>
+  <MessageTornadoLeftMap>De tornado heeft de kaart verlaten.</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
-  <MessageTornadoDissipated>TODO</MessageTornadoDissipated>
+  <MessageTornadoDissipated>De tornado is verdampt.</MessageTornadoDissipated>
 
   <!-- EN: No conscious, capable diplomat. -->
-  <MessagePeaceTalksNoDiplomat>TODO</MessagePeaceTalksNoDiplomat>
+  <MessagePeaceTalksNoDiplomat>Geen bij bewustzijn zijnde, bekwame diplomaat.</MessagePeaceTalksNoDiplomat>
 
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
-  <MessageWarningCavePlantsExposedToLight>TODO</MessageWarningCavePlantsExposedToLight>
+  <MessageWarningCavePlantsExposedToLight>{0} kan niet leven bij blootstelling aan licht.</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>TODO</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} kon {OLDTARGET_label} niet bereiken, dus besloot {PAWN_pronoun} om {PAWN_possessive} woede te richten op {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>TODO</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} kon {OLDTARGET_label} niet bereiken, dus besloot {PAWN_pronoun} om {PAWN_possessive} woede te richten op {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>TODO</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} heeft besloten {PAWN_possessive} boosheid te richten op {TARGET_label}.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
-  <MessagePlantIncompatibleWithRoof>TODO</MessagePlantIncompatibleWithRoof>
+  <MessagePlantIncompatibleWithRoof>{0} kan niet onder een dak groeien.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>TODO</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>Kan geen dak over {0} bouwen.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>TODO</MessageChoseRoute>
+  <MessageChoseRoute>Karavaan reist automatisch naar het eerste routepunt.</MessageChoseRoute>
 
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <MessageCraftedMasterwork>TODO</MessageCraftedMasterwork>
+  <MessageCraftedMasterwork>{WORKER_labelShort} heeft een {CRAFTED_labelShort} gemaakt.</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Om het gebied te verlaten, gebruikt je de 'karavaan hervormingsknop' in het wereld menu.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Je kunt de kaart nu niet verlaten.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
-  <MessageGoodwillChanged>TODO</MessageGoodwillChanged>
+  <MessageGoodwillChanged>De relaties met {0} zijn veranderd van {1} in {2}.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>TODO</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>De relaties met {0} zijn veranderd van {1} in {2} ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
-  <GoodwillChangedReason_AttackedPawn>TODO</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_AttackedPawn>{1_labelShort} aangevallen</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>TODO</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>gebruikte {ITEM_labelShort} op {TARGET_labelShort} </GoodwillChangedReason_UsedItem>
   <!-- EN: harvested {0} -->
-  <GoodwillChangedReason_RemovedBodyPart>TODO</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedBodyPart>{0} geoogst</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: needlessly installed {0} -->
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>TODO</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>onnodig {0} geïnstalleerd</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <!-- EN: captured {1_labelShort} -->
-  <GoodwillChangedReason_CapturedPawn>TODO</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_CapturedPawn>{1_labelShort} gevangen</GoodwillChangedReason_CapturedPawn>
   <!-- EN: {1_labelShort} crushed -->
-  <GoodwillChangedReason_PawnCrushed>TODO</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} verpletterd</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
-  <GoodwillChangedReason_PawnDied>TODO</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} is overleden</GoodwillChangedReason_PawnDied>
   <!-- EN: traded -->
-  <GoodwillChangedReason_Traded>TODO</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_Traded>verhandeld</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
-  <GoodwillChangedReason_AttackedCaravan>TODO</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_AttackedCaravan>een karavaan aangevallen</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>TODO</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_NaturallyOverTime>natuurlijke neiging om na verloop van tijd {0} te bereiken </GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>TODO</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} verliet de kaart gezond</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
-  <GoodwillChangedReason_Tended>TODO</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_Tended> {1_labelShort} verzorgd</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
-  <GoodwillChangedReason_ReceivedGift>TODO</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_ReceivedGift>een geschenk ontvangen</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
-  <GoodwillChangedReason_FulfilledTradeRequest>TODO</GoodwillChangedReason_FulfilledTradeRequest>
+  <GoodwillChangedReason_FulfilledTradeRequest>een handelsaanbod inwilligd</GoodwillChangedReason_FulfilledTradeRequest>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>TODO</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0} accepteert je cadeau, maar ze waarderen het niet.</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>TODO</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>De karavaan is al overbelast en kan niets anders dragen.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>TODO</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>De karavaan kan niet zo veel dragen. De cadeaus wegen {0} maar de karavaan kan alleen {1} meer dragen.</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>TODO</MessageFormedCaravan>
+  <MessageFormedCaravan>{0} is gevormd en staat nu op de wereldkaart.</MessageFormedCaravan>
   <!-- EN: Orders -->
-  <MessageFormedCaravan_Orders>TODO</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>Opdrachten</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
-  <MessageBillValidationStoreZoneDeleted>TODO</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneDeleted>{1}'s "{0}" kan niet langer leveren aan verwijderde opslag {2}.</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
-  <MessageBillValidationStoreZoneUnavailable>TODO</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>{1}'s "{0}" kan niet langer leveren aan onbeschikbare opslag {2}.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>TODO</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} kan niet meer werken aan " {1}" bij {2}. De beperking is verwijderd.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
-  <MessageBillValidationIncludeZoneDeleted>TODO</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneDeleted>{1}'s "{0}" kan niet langer items in verwijderde opslag {2} tellen.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>TODO</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>{1}'s "{0}" kan niet langer items in onbeschikbare opslag {2} tellen. </MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
-  <MessageBillValidationStoreZoneInsufficient>TODO</MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" kan niet langer alle producten leveren aan opslag {2}. </MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
-  <MessageAnimalReturnedWild>TODO</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>Door een gebrek aan temmen is {1_labelShort} weer in de vrije natuur teruggekeerd.</MessageAnimalReturnedWild>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>TODO</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>Door een gebrek aan onderhoudstraining heeft {ANIMAL_labelShort} een vaardigheid verloren: {1} </MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
-  <MessageTranslationReportSaved>TODO</MessageTranslationReportSaved>
+  <MessageTranslationReportSaved>Vertaalverslag geschreven naar {0} </MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>TODO</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>{0} kon zijn bestemming niet bereiken</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: You can't re-enter for another {0} days. -->
-  <MessageEnterCooldownBlocksEntering>TODO</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>Je kunt niet nogmaals binnenkomen voor {0} dagen. </MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <MessagePredatorHuntingPlayerAnimal>TODO</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} jaagt op {PREY_definite} voor voedsel!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
-  <MessagePrisonerResistanceBroken>TODO</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>De weerstand van de gevangene {PRISONER_labelShort} is gebroken door {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>TODO</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>De aanwervingspogingen zullen beginnen.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Disable all mods before using this tool. -->
-  <MessageDisableModsBeforeCleaningTranslationFiles>TODO</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageDisableModsBeforeCleaningTranslationFiles>Schakel alle mods uit voordat je deze tool gebruikt.</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folder: {0} -->
-  <MessageTranslationFilesCleanupDone>TODO</MessageTranslationFilesCleanupDone>
+  <MessageTranslationFilesCleanupDone>Klaar. Betreffende map: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>TODO</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Een van de vertaalbestanden ({0}) kon niet worden geladen. Alle XML parsingfouten moeten eerst worden opgelost.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>Waarschuwing: Het gevangennemen van {PAWN_nameDef} zal {PAWN_possessive} factie {PAWN_factionName} boos maken.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>TODO</MessageCantShootInMelee>
-
-  <!-- UNUSED -->
-  <MessageRecruitFail>{0} heeft {1} niet kunnen recruteren (kans: {2}).</MessageRecruitFail>
-  <MessageRecruitFailBecauseLoyalty>{0} heeft {1} niet kunnen recruteren (gevangene is nog niet vriendelijk genoeg).</MessageRecruitFailBecauseLoyalty>
-  <MessagePoorlyTreated>{1} heeft {0} behandeld (slechte kwaliteit, {2} kans op goede kwaliteit)</MessagePoorlyTreated>
-  <MessageWellTreated>{1} heeft {0} behandeld (goede kwaliteit, {2} kans op goede kwaliteit)</MessageWellTreated>
-  <MessageTraderCannotAfford>De handelaar kan zich deze deal niet veroorloven.</MessageTraderCannotAfford>
-  <MessageTraderNotEnoughSilver>Handelaar heeft niet genoeg zilver.</MessageTraderNotEnoughSilver>
-  <MessageMustDesignateSmoothableFloor>Er moet een ruwe stenen vloer gemarkeerd worden om te polijsten.</MessageMustDesignateSmoothableFloor>
+  <MessageCantShootInMelee>Kan niet schieten in vechtpartij.</MessageCantShootInMelee>
 
 </LanguageData>

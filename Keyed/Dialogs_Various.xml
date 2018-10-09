@@ -435,17 +435,17 @@
   <!-- EN: Supports -->
   <Supports>Ondersteunt</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>TODO</TrapArmorPenetration>
+  <TrapArmorPenetration>Valpantser penetratie</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>TODO</RearmCost>
+  <RearmCost>Kosten herbewapening</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <RearmCostExplanation>Middelen die nodig zijn om deze geschutskoepel te herbewapenen (beïnvloed door moeilijkheid).</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Schoten voor het opnieuw bewapenen</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Hoeveel schoten deze geschutskoepel kan afvuren voordat hij opnieuw bewapend moet worden.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>TODO</PowerConsumption>
+  <PowerConsumption>Stroomverbruik</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->

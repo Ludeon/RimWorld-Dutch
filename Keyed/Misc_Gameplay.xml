@@ -3,7 +3,7 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>TODO</HitPointsBasic>
+  <HitPointsBasic>hitpoints </HitPointsBasic>
   <!-- EN: Work left -->
   <WorkLeft>Resterend werk</WorkLeft>
   <!-- EN: Contents -->
@@ -11,31 +11,31 @@
   <!-- EN: Contained resources -->
   <ContainedResources>Materiaal aanwezig</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>Voor gevangenen</ForPrisonerUse>
+  <ForPrisonerUse>Voor gebruik door gedetineerden</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>TODO</InPrisonCell>
+  <InPrisonCell>In de gevangeniscel: Voor gebruik door gedetineerden </InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>Voor kolonisten</ForColonistUse>
+  <ForColonistUse>Voor kolonistengebruik </ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>Ziekenbed</MedicalBed>
   <!-- EN: Owner -->
   <Owner>Eigenaar</Owner>
   <!-- EN: Owners -->
-  <Owners>TODO</Owners>
+  <Owners>Eigenaars</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>TODO</AssignedColonist>
+  <AssignedColonist>Toegewezen kolonist</AssignedColonist>
   <!-- EN: Died on the {0} -->
-  <DiedOn>TODO</DiedOn>
+  <DiedOn>Gestorven op de {0}</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>Geen</Nobody>
+  <Nobody>Niemand</Nobody>
   <!-- EN: Unowned -->
   <Unowned>Beschikbaar</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Al {0} dood</DeadTime>
+  <DeadTime>Dood sinds {0}</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>Loopsnelheid: {0}</WalkSpeed>
+  <WalkSpeed>Loopsnelheid {0}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>TODO</FertShort>
+  <FertShort>Vruchtb.</FertShort>
   <!-- EN: dying -->
   <DyingLower>stervende</DyingLower>
   <!-- EN: Filth on feet: -->
@@ -49,21 +49,21 @@
   <!-- EN: fresh -->
   <FreshMissingBodyPart>vers</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>immuun</DevelopedImmunityLower>
+  <DevelopedImmunityLower>immuun geworden</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>TODO</NeedsTendingNow>
+  <NeedsTendingNow>Behandeling is nu noodzakelijk</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>TODO</CanTendNow>
+  <CanTendNow>Kan nu worden behandeld</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
+  <TreatmentExpiresIn>Behandeling vervalt in {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>TODO</NextTendIn>
+  <NextTendIn>Volgende behandeling in {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>TODO</TendQuality>
+  <TendQuality>Behandelkwaliteit</TendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>geen {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
-  <Immunity>TODO</Immunity>
+  <Immunity>Immuniteit</Immunity>
   <!-- EN: Race -->
   <Race>Ras</Race>
   <!-- EN: Description -->
@@ -79,361 +79,361 @@
   <!-- EN: Drop -->
   <DropThing>Laat vallen</DropThing>
   <!-- EN: Rename -->
-  <Rename>TODO</Rename>
+  <Rename>Hernoemen</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>TODO</RenameAnimal>
+  <RenameAnimal>Dier hernoemen</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>Hernoem kolonist</RenameColonist>
   <!-- EN: unknown -->
   <UnknownLower>onbekend</UnknownLower>
   <!-- EN: On -->
-  <On>TODO</On>
+  <On>Aan</On>
   <!-- EN: Off -->
-  <Off>TODO</Off>
+  <Off>Uit</Off>
   <!-- EN: Power -->
-  <PowerSwitch_Power>TODO</PowerSwitch_Power>
+  <PowerSwitch_Power>Stroom</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>TODO</JoyTolerances>
+  <JoyTolerances>Toleranties van recreatietype</JoyTolerances>
   <!-- EN: Milk fullness -->
-  <MilkFullness>TODO</MilkFullness>
+  <MilkFullness>melkvolheid</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>TODO</WoolGrowth>
+  <WoolGrowth>Wolgroei</WoolGrowth>
   <!-- EN: Egg progress -->
-  <EggProgress>TODO</EggProgress>
+  <EggProgress>Voortgang Ei</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>TODO</Fertilized>
+  <Fertilized>Bevrucht</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>TODO</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Vooruitgang gestopt, wachten op bevruchting</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>TODO</SkillTooLow>
+  <SkillTooLow>nodig {0} op niveau {2}, heeft {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>TODO</Freezing>
+  <Freezing>Bevriezen</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>TODO</Overheating>
+  <Overheating>Oververhitting</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>TODO</RuinedByTemperature>
+  <RuinedByTemperature>Verpest door temperatuur.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>TODO</CorpsePercentMissing>
+  <CorpsePercentMissing>Ontbrekende lichaamsdelen</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>TODO</HiveReproducesIn>
+  <HiveReproducesIn>Reproduceert in </HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Slapend: Niet aan het reproduceren.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Volgende {0} in</NextSpawnedItemIn>
   <!-- EN: Broken down -->
-  <BrokenDown>TODO</BrokenDown>
+  <BrokenDown>Kapot</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>TODO</BondBrackets>
+  <BondBrackets>(band)</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>TODO</Fuel>
+  <Fuel>Brandstof</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>TODO</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Brandstof</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>TODO</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Stel het doelbrandstofniveau in op {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>TODO</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Stel het doelbrandstofniveau in op {0}\nMaximale afstand: {1} tegels </SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>TODO</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Doelbrandstofniveau: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
-  <Enemies>TODO</Enemies>
+  <Enemies>vijanden</Enemies>
   <!-- EN: time passed -->
-  <TimePassed>TODO</TimePassed>
+  <TimePassed>verstreken tijd</TimePassed>
   <!-- EN: current radius -->
-  <CurrentRadius>TODO</CurrentRadius>
+  <CurrentRadius>huidige radius</CurrentRadius>
   <!-- EN: radius expands in -->
-  <RadiusExpandsIn>TODO</RadiusExpandsIn>
+  <RadiusExpandsIn>radius breidt zich uit in</RadiusExpandsIn>
   <!-- EN: permanent -->
-  <Permanent>TODO</Permanent>
+  <Permanent>permanent</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>TODO</CaravanResting>
+  <CaravanResting>Rusten</CaravanResting>
   <!-- EN: using 1 bedroll -->
-  <UsingBedroll>TODO</UsingBedroll>
+  <UsingBedroll>gebruikt 1 slaapzak</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>TODO</UsingBedrolls>
+  <UsingBedrolls>gebruikt {0} slaapzakken</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>TODO</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Geschatte tijd tot bestemming: {0} dagen</CaravanEstimatedTimeToDestination>
   <!-- EN: Estimated days to arrive: {0} -->
-  <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Geschatte dagen tot aankomst: {0} </CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>TODO</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Kan niet bewegen: Te veel gewicht.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>TODO</CaravanOutOfFood>
+  <CaravanOutOfFood>Geen voedsel.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>TODO</CaravanDaysOfFood>
+  <CaravanDaysOfFood>Voedselvoorraad: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>TODO</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>Voedselvoorraad: {0} (rot in {1} dagen)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>TODO</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Gestopt: Iedereen is bewusteloos.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone has a mental break. -->
-  <AllCaravanMembersMentalBreak>TODO</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Gestopt: Iedereen heeft een mentale inzinking.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
-  <CaravanColonistsCount>TODO</CaravanColonistsCount>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
-  <CaravanAnimal>TODO</CaravanAnimal>
+  <CaravanAnimal>1 dier</CaravanAnimal>
   <!-- EN: {0} animals -->
-  <CaravanAnimalsCount>TODO</CaravanAnimalsCount>
+  <CaravanAnimalsCount>{0} dieren</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>TODO</CaravanPrisoner>
+  <CaravanPrisoner>1 gevangene </CaravanPrisoner>
   <!-- EN: {0} prisoners -->
-  <CaravanPrisonersCount>TODO</CaravanPrisonersCount>
+  <CaravanPrisonersCount>{0} gevangenen</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>TODO</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} met zenuwinzinking</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>TODO</CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} bewusteloos</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>TODO</CaravanTraveling>
+  <CaravanTraveling>Reizend.</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>TODO</CaravanWaiting>
+  <CaravanWaiting>Wachtend.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>TODO</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>Wordt gedragen wegens ziekte</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>TODO</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>Gebruikt slaapzakken vanwege ziekte</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>TODO</CurrentTileMovementTime>
+  <CurrentTileMovementTime>Huidige tegelbewegingstijd</CurrentTileMovementTime>
   <!-- EN: Visibility -->
-  <Visibility>TODO</Visibility>
+  <Visibility>Zichtbaarheid</Visibility>
   <!-- EN: Temperature -->
-  <Temperature>TODO</Temperature>
+  <Temperature>Temperatuur</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>TODO</BadTemperature>
+  <BadTemperature>slechte temperatuur</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>TODO</IdealFermentingTemperature>
+  <IdealFermentingTemperature>Ideale gistingstemperatuur</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>TODO</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0} vermenigvuldigingsfactor: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>TODO</CaravanVisiting>
+  <CaravanVisiting>Bezoekt {0}</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>TODO</CaravanEntering>
+  <CaravanEntering>Treedt {0} binnen</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>TODO</CaravanAttacking>
+  <CaravanAttacking>Valt {0} aan </CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <CaravanOfferingGifts>Geschenken aanbieden aan {0}.</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>TODO</WasWornByCorpse>
+  <WasWornByCorpse>Beschadigd doordat het gedragen werd door een lijk. </WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>TODO</WornByCorpseChar>
+  <WornByCorpseChar>B</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
+  <DeterioratingUnroofed>Geen dank</DeterioratingUnroofed>
   <!-- EN: outdoors -->
-  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <DeterioratingOutdoors>buitenshuis</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
-  <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Verslechterend door</DeterioratingBecauseOf>
   <!-- EN: Map -->
-  <Map>TODO</Map>
+  <Map>Kaart</Map>
   <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>TODO</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdown>{0} tot vertrek</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>TODO</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Je kolonisten hervormen automatisch de karavaan en verlaten dit gebied in {0}.</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
-  <Room>TODO</Room>
+  <Room>Kamer</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>TODO</BeautyHere>
+  <BeautyHere>Schoonheid hier</BeautyHere>
   <!-- EN: No power -->
-  <NoPower>TODO</NoPower>
+  <NoPower>Geen stroom</NoPower>
   <!-- EN: Work speed penalty -->
-  <WorkSpeedPenalty>TODO</WorkSpeedPenalty>
+  <WorkSpeedPenalty>Verminderde werksnelheid</WorkSpeedPenalty>
   <!-- EN: DISABLED -->
-  <DisabledCommand>TODO</DisabledCommand>
+  <DisabledCommand>GEDEACTIVEERD</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>TODO</ReadyForLaunch>
+  <ReadyForLaunch>Klaar voor lancering.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>TODO</NotReadyForLaunch>
+  <NotReadyForLaunch>Niet klaar voor lancering</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>TODO</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>Geen brandstoftoevoer</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>TODO</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>geen brandstof</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>TODO</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodInGroupHasSomethingLeftToLoad>Laadproces aan de gang</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>TODO</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>Voorbij het maximale bereik</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>TODO</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>Niet genoeg brandstof</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>TODO</SettlementTrader>
+  <SettlementTrader>{0} van {1} </SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>TODO</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>Succeskansvermenigvuldigingsfactor voor chirurgie door kamer</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>TODO</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>Infectiekansvermenigvuldigingsfactor door kamer</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>TODO</VentClosed>
+  <VentClosed>Gesloten</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>TODO</WornBy>
+  <WornBy>gedragen door {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>TODO</EquippedBy>
+  <EquippedBy>uitgerust door {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} wil dat dit vernietigd wordt.\n    Beloning: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>TODO</WorldObjectTimeout>
+  <WorldObjectTimeout>Resterende tijd: {0}</WorldObjectTimeout>
   <!-- EN: Contents: {0} ({1}) -->
-  <ItemStashContents>TODO</ItemStashContents>
+  <ItemStashContents>Inhoud: {0} ({1}) </ItemStashContents>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>TODO</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>Klik om te sorteren op deze kolom</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>TODO</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>shift + klik: Verhoog de prioriteit\nShift + rechtermuisknop: Verlaag de prioriteit</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>TODO</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + klik: Activeer alle\nShift + rechtermuisknop: Alles uitschakelen</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>TODO</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>Shift + Klik: Stel alles in op thuis\nShift + rechtermuisknop: Zet alles op Onbeperkt</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>TODO</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>Shift + klik: Alles aanvinken\nShift + rechtermuisknop: Alles uitvinken</CheckboxShiftClickTip>
   <!-- EN: Known threat: {0} -->
-  <KnownSiteThreat>TODO</KnownSiteThreat>
+  <KnownSiteThreat>Bekende bedreiging: {0}</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
-  <KnownSiteThreats>TODO</KnownSiteThreats>
+  <KnownSiteThreats>Bekende bedreigingen: {0}</KnownSiteThreats>
   <!-- EN: Threats: Unknown -->
-  <KnownSiteThreatsNone>TODO</KnownSiteThreatsNone>
+  <KnownSiteThreatsNone>Bedreigingen: Onbekend</KnownSiteThreatsNone>
   <!-- EN: Skill Requirements -->
-  <SkillRequirements>TODO</SkillRequirements>
+  <SkillRequirements>Vereiste vaardigheden</SkillRequirements>
   <!-- EN: Products -->
-  <Products>TODO</Products>
+  <Products>Producten</Products>
   <!-- EN: {0} of {1} -->
-  <Relationship>TODO</Relationship>
+  <Relationship>{0} van {1}</Relationship>
   <!-- EN: Prisoner -->
-  <Prisoner>TODO</Prisoner>
+  <Prisoner>Gevangene</Prisoner>
   <!-- EN: Refugee -->
-  <Refugee>TODO</Refugee>
+  <Refugee>Vluchteling</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>TODO</TileMovementDifficulty>
+  <TileMovementDifficulty>Onbegaanbaarheid van het landschap</TileMovementDifficulty>
   <!-- EN: Impassable -->
-  <Impassable>TODO</Impassable>
+  <Impassable>Onbegaanbaar</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>Bewegingssnelheid van de karavaan</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>TODO</DownedLower>
+  <DownedLower>bewusteloos</DownedLower>
   <!-- EN: carried -->
-  <Carried>TODO</Carried>
+  <Carried>gedragen</Carried>
   <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
+  <AverageCaravanMemberMoveSpeed>Gemiddelde snelheid persoon</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>TODO</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>Vermenigvuldiger voor gedragen massa: {0}</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>TODO</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>Karavaan lidsnelheid</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
-  <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
+  <FinalCaravanMovementSpeed>Eindsnelheid</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
-  <Winter>TODO</Winter>
+  <Winter>Winter</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>{0} in de winter</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>TODO</RangeTo>
+  <RangeTo>tot</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Geen brief</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>TODO</ExpiresIn>
+  <ExpiresIn>Verloopt in</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>{1_labelShort}'s karavaan</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>TODO</Reason>
+  <Reason>Reden</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>TODO</RelationsWith>
+  <RelationsWith>Relaties met {0}</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>TODO</capturedBy>
+  <capturedBy>gevangen door {0}</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>TODO</yourCaravan>
+  <yourCaravan>je karavaan</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>TODO</CreatureWildness>
+  <CreatureWildness>{0} wildheid</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>TODO</CreatureTrainability>
+  <CreatureTrainability>{0} trainbaarheid</CreatureTrainability>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} met {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>TODO</EnterCooldown>
+  <EnterCooldown>Je kunt dit de komende {0} dagen niet opnieuw binnen gaan.</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>TODO</Caravan>
+  <Caravan>Karavaan </Caravan>
   <!-- EN: there may be danger there -->
-  <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>er kan daar gevaar zijn</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>TODO</PreciousLumpLabel>
+  <PreciousLumpLabel>brok van {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
-  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
+  <NoActiveResearchProjectToFinish>geen actief onderzoeksproject</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>TODO</Turret>
+  <Turret>geschutskoepel</Turret>
   <!-- EN: turrets -->
-  <Turrets>TODO</Turrets>
+  <Turrets>geschutskoepels</Turrets>
   <!-- EN: mortar -->
-  <Mortar>TODO</Mortar>
+  <Mortar>mortier</Mortar>
   <!-- EN: mortars -->
-  <Mortars>TODO</Mortars>
+  <Mortars>mortieren</Mortars>
   <!-- EN: enemy -->
-  <Enemy>TODO</Enemy>
+  <Enemy>vijand</Enemy>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
-  <ContainsWort>TODO</ContainsWort>
+  <ContainsWort>Bevat {0} / {1} wort.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
-  <ContainsBeer>TODO</ContainsBeer>
+  <ContainsBeer>Bevat {0} / {1} bier.</ContainsBeer>
   <!-- EN: Fermented -->
-  <Fermented>TODO</Fermented>
+  <Fermented>Gefermenteerd</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>TODO</FermentationProgress>
+  <FermentationProgress>Voortgang: {0} ({1} over)</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>TODO</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Niet-ideale temperatuur. Fermentatiesnelheid: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
   <Headshot>Hoofdschot</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>TODO</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>Succesvol behandeld\n{0} Kans</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>TODO</TextMote_TreatFailed>
+  <TextMote_TreatFailed>Behandeling mislukt\n{0} kans</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
-  <TextMote_HarvestFailed>TODO</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>Oogst\nmislukt</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
-  <TextMote_YieldWasted>TODO</TextMote_YieldWasted>
+  <TextMote_YieldWasted>Opbrengst\nverspild</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>TODO</TextMote_ProductWasted>
+  <TextMote_ProductWasted>Product\nverspild</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>TODO</TextMote_RecruitFail>
+  <TextMote_RecruitFail>Rekrutering mislukt!\n{0} kans</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>Weerstand\n{0} tot {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>TODO</TextMote_TameFail>
+  <TextMote_TameFail>Temmen is mislukt\n{0} kans</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>TODO</TextMote_TameSuccess>
+  <TextMote_TameSuccess>Getemd!\n{0} kans</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
-  <TextMote_TrainFail>TODO</TextMote_TrainFail>
+  <TextMote_TrainFail>Mislukte training: {0}\n{1} kans</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
-  <TextMote_TrainSuccess>TODO</TextMote_TrainSuccess>
+  <TextMote_TrainSuccess>Getraind: {0}\n{1} kans</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>TODO</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>Reparatie\nmislukt</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>TODO</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>Constructie\nmislukt</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>TODO</TextMote_Dodge>
+  <TextMote_Dodge>Ontwijken</TextMote_Dodge>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>TODO</TextMote_Tended>
+  <TextMote_Tended>{0} verzorgd</TextMote_Tended>
   <!-- EN: low mood -->
-  <lowMood>TODO</lowMood>
+  <lowMood>laag humeur</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>TODO</lowOpinion>
+  <lowOpinion>Mening te laag</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
-  <Home>TODO</Home>
+  <Home>Thuis</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>TODO</BuildRoof>
+  <BuildRoof>Dak bouwen</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>TODO</NoRoof>
+  <NoRoof>Geen dak</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>TODO</SnowClear>
+  <SnowClear>Sneeuwvrij</SnowClear>
   <!-- EN: Area {0} -->
-  <AreaDefaultLabel>TODO</AreaDefaultLabel>
+  <AreaDefaultLabel>Gebied {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
-  <NoAreaAllowed>TODO</NoAreaAllowed>
+  <NoAreaAllowed>Onbeperkt</NoAreaAllowed>
   <!-- EN: New area -->
-  <NewArea>TODO</NewArea>
+  <NewArea>Nieuw gebied</NewArea>
   <!-- EN: Invert -->
-  <InvertArea>TODO</InvertArea>
+  <InvertArea>Omkeren</InvertArea>
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>TODO</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Kan geen personages bevelen die je niet bestuurd.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>TODO</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} is niet in staat tot geweld.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>TODO</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>niet in staat tot geweld</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>TODO</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} staat niet in de aanvalsmodus.</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -441,9 +441,9 @@
   <!-- EN: Snow (dusting) -->
   <SnowDusting>Stuifsneeuw</SnowDusting>
   <!-- EN: Snow (thin) -->
-  <SnowThin>Weinig sneeuw</SnowThin>
+  <SnowThin>Dunne sneeuw</SnowThin>
   <!-- EN: Snow (medium) -->
-  <SnowMedium>Sneeuw</SnowMedium>
+  <SnowMedium>Sneeuw (gemiddeld)</SnowMedium>
   <!-- EN: Snow (thick) -->
   <SnowThick>Zware sneeuw</SnowThick>
 
@@ -455,59 +455,59 @@
   <!-- EN: Can fire in -->
   <CanFireIn>Schietklaar over</CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>TODO</CannotFire>
+  <CannotFire>Kan niet vuren</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>TODO</Roofed>
+  <Roofed>overdekt</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>TODO</ShellLoaded>
+  <ShellLoaded>Huls geladen: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
-  <ShellNotLoaded>TODO</ShellNotLoaded>
+  <ShellNotLoaded>Niet geladen</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>Sleept {0} naar {1}.</ReportHaulingTo>
+  <ReportHaulingTo>Transporteren van {THING_label} naar {DESTINATION}.</ReportHaulingTo>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>Sleept {0}.</ReportHauling>
+  <ReportHauling>Stransporteert {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
+  <ReportHaulingUnknown>transporteren.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
   <ReportSleeping>Slaapt.</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>Rust uit.</ReportResting>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>TODO</WatchingSunrise>
+  <WatchingSunrise>kijken naar de zonsopgang.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>TODO</CloudWatching>
+  <CloudWatching>kijken naar de wolken.</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>TODO</WatchingSunset>
+  <WatchingSunset>kijken naar de zonsondergang.</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>TODO</Stargazing>
+  <Stargazing>sterrenkijken.</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>TODO</WatchingEclipse>
+  <WatchingEclipse>kijken naar de verduistering.</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>TODO</WatchingAurora>
+  <WatchingAurora>kijken naar het poollicht.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>TODO</UsingVerb>
+  <UsingVerb>gebruikt {0} tot {1}.</UsingVerb>
   <!-- EN: area -->
-  <AreaLower>TODO</AreaLower>
+  <AreaLower>gebied</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>TODO</ReportCowering>
+  <ReportCowering>hurken.</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>TODO</ReportStanding>
+  <ReportStanding>staan.</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>TODO</ReportExtinguishingFire>
+  <ReportExtinguishingFire>brand blussen.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>TODO</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>blust brand van {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>lijk opgraven.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>TODO</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Bijwonen van de huwelijksceremonie </LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>TODO</LordReportAttendingParty>
+  <LordReportAttendingParty>Bijwonen feest</LordReportAttendingParty>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>TODO</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Karavaan vormen</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -527,47 +527,47 @@
   <!-- EN: Cover -->
   <ShootingCover>Dekking</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{0} stopt {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} stopt {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>geen dekking</NoCoverLower>
   <!-- EN: Execution -->
-  <Execution>TODO</Execution>
+  <Execution>Executie</Execution>
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>Make {0}</RecipeMake>
+  <RecipeMake>maak {0}</RecipeMake>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  <RecipeMakeJobString>Maken van {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>TODO</RecipeAdminister>
+  <RecipeAdminister>administreren van {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>TODO</RecipeAdministerJobString>
+  <RecipeAdministerJobString>{0} beheren.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>TODO</TeetotalerUnhappy>
+  <TeetotalerUnhappy>geheelonthouder zal ongelukkig zijn</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>TODO</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>lichaamspurist zal ongelukkig zijn</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Verloopt over: {0}</ThoughtExpiresIn>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Verloop begint over {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>Begint te verlopen in: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Verloop stopt over {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>Stopt te verlopen in: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>TODO</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>Drempel van extreme zenuwinzinking</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>TODO</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>Drempel van ernstige zenuwinzinking</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>TODO</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>Drempel van milde zenuwinzinking</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{0}, {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>TODO</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>TODO</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Factie</Faction>
   <!-- EN: Equipped -->
@@ -579,35 +579,35 @@
   <!-- EN: Unconscious -->
   <Unconscious>Bewusteloos</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>In shock</PainShock>
+  <PainShock>In shock door pijn</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>TODO</PainShockShort>
+  <PainShockShort>pijnschok</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>bewusteloos</Incapacitated>
+  <Incapacitated>Arbeidsongeschikt</Incapacitated>
   <!-- EN: In restraints (slowed) -->
   <InRestraints>Vastgebonden (langzamer)</InRestraints>
   <!-- EN: Carrying -->
-  <Carrying>Draagt iets</Carrying>
+  <Carrying>Dragend</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>TODO</AffectedBy>
+  <AffectedBy>Beïnvloed door:</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>TODO</Queued>
+  <Queued>In wachtrij</Queued>
   <!-- EN: State -->
-  <State>TODO</State>
+  <State>Staat</State>
   <!-- EN: stun -->
-  <StunLower>TODO</StunLower>
+  <StunLower>verdoofd</StunLower>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde veld te klikken.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde vierkant.</SelectNextInSquareTip>
   <!-- EN: View information about this object. -->
-  <DefInfoTip>Vertel wat over dit object.</DefInfoTip>
+  <DefInfoTip>Bekijk informatie over dit object.</DefInfoTip>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>TODO</HostilityReponseTip>
+  <HostilityReponseTip>Verander hoe deze persoon zal reageren op vijanden in de buurt wanneer deze niet militair is opgesteld.</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>TODO</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>Huidige modus </HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
@@ -627,7 +627,7 @@
   <!-- EN: Efficiency -->
   <PowerBatteryEfficiency>Efficiëntie</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>TODO</SelfDischarging>
+  <SelfDischarging>Zelfontlading</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
@@ -643,7 +643,7 @@
   <!-- EN: Indoors -->
   <Indoors>Binnen</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>TODO</IndoorsUnroofed>
+  <IndoorsUnroofed>Niet overdekt</IndoorsUnroofed>
   <!-- EN: Outdoors -->
   <Outdoors>Buiten</Outdoors>
 
@@ -651,9 +651,9 @@
   <!-- EN: Fresh -->
   <RotStateFresh>Vers</RotStateFresh>
   <!-- EN: Rotting -->
-  <RotStateRotting>Verrottend</RotStateRotting>
+  <RotStateRotting>Rottend</RotStateRotting>
   <!-- EN: Dessicated -->
-  <RotStateDessicated>Verdroogd</RotStateDessicated>
+  <RotStateDessicated>Geskeletteerd</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
   <CurrentlyFrozen>Bevroren (zal niet vergaan)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
@@ -663,15 +663,15 @@
   <!-- EN: over a decade -->
   <OverADecade>meer dan tien jaar</OverADecade>
   <!-- EN: less than a day -->
-  <LessThanADay>TODO</LessThanADay>
+  <LessThanADay>minder dan een dag</LessThanADay>
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Beschoten door {0}</ShotBy>
+  <ShotBy>Beschoten door {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Kan het doel niet raken.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>TODO</ManhunterPerHit>
+  <ManhunterPerHit>Mensenjagerkans per treffer</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
@@ -681,35 +681,35 @@
   <!-- EN: {0} grown -->
   <PercentGrowth>{0}% volgroeid</PercentGrowth>
   <!-- EN: Growth rate -->
-  <GrowthRate>TODO</GrowthRate>
+  <GrowthRate>Groeisnelheid</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>Volgroeid over {0} van groei.</FullyGrownIn>
   <!-- EN: Needs light level -->
-  <PlantNeedsLightLevel>TODO</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>Heeft lichtniveau nodig</PlantNeedsLightLevel>
   <!-- EN: Resting -->
-  <PlantResting>TODO</PlantResting>
+  <PlantResting>rustend</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>Niet-ideale temperatuur. Temperatuurgroei factor: {0}% </OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>Niet-ideale temperatuur. Niet groeiend</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Klaar om geoogst te worden.</ReadyToHarvest>
   <!-- EN: Mature. -->
   <Mature>Volgroeid.</Mature>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>Groeiseizoen: {0}</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>Groeiperiode</OutdoorGrowingPeriod>
   <!-- EN: Never -->
   <NoGrowingPeriod>Nooit</NoGrowingPeriod>
   <!-- EN: Year-round -->
   <GrowYearRound>Het hele jaar</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>TODO</GrowSeasonHereNow>
+  <GrowSeasonHereNow>Groeiseizoen nu hier.</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>TODO</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>Kan niet groeien (slechte seizoenstemperatuur).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>TODO</Blighted>
+  <Blighted>Vervloekt</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>TODO</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Sterven door blootstelling aan licht </DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -717,23 +717,23 @@
   <!-- EN: Growing zone -->
   <GrowingZone>Kweekzone</GrowingZone>
   <!-- EN: Stockpile zone -->
-  <Stockpile>Opslagpzone</Stockpile>
+  <Stockpile>Opslagzone</Stockpile>
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Afvalzone</DumpingStockpile>
   <!-- EN: Priority -->
   <Priority>Prioriteit</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>Clear all</ClearAll>
+  <ClearAll>Alles wissen</ClearAll>
   <!-- EN: Allow all -->
-  <AllowAll>TODO</AllowAll>
+  <AllowAll>Laat alles toe</AllowAll>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>TODO</HitPoints>
+  <HitPoints>{0} hitpoints</HitPoints>
   <!-- EN: any quality -->
-  <AnyQuality>TODO</AnyQuality>
+  <AnyQuality>elke kwaliteit</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>TODO</OnlyQuality>
+  <OnlyQuality>Alleen {0}</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
@@ -1048,40 +1048,5 @@
   <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
-
-  <!-- UNUSED -->
-  <Fire>Vuur</Fire>
-  <UntreatedLower>onbehandeld</UntreatedLower>
-  <InjuryRequiresTreatment>kan zonder behandeling niet herstellen</InjuryRequiresTreatment>
-  <NextTreatmentAfter>Volgende behandeling over {0} dagen</NextTreatmentAfter>
-  <ImmunityDevelopmentProgress>voortgang immuniteit</ImmunityDevelopmentProgress>
-  <Mood>stemming</Mood>
-  <MoodTip>De stemming wordt verbeterd, als de psychische en fysieke wensen vervuld worden.\n\nAls de stemming van een persoon te laag wordt, kan het tot een zenuwinzinking leiden.</MoodTip>
-  <Food>Voedsel</Food>
-  <FoodTip>Voedsel representateert hoe goed een dier is.\n\nAls "voedsel" de nul bereikt, zal het dier constant schade oplopen, omdat het verhongert.</FoodTip>
-  <Rest>Rust</Rest>
-  <RestTip>Rust geeft de kwaliteit en de duur van de slaap van het persoon aan.\n\nHij wordt het hoogst, als iemand in een bed slaapt. Uit een bed wordt het langzaam minder.</RestTip>
-  <Environment>Omgeving</Environment>
-  <EnvironmentTip>Omgeving reflecteert hoe prettig een persoon zijn omgeving vind.\n\nOmgeving is hoog, als het persoon in een ruime kamer met veel decoratie is. Het is lager, als de omgeving lelijk is.</EnvironmentTip>
-  <Openness>Openheid</Openness>
-  <MentalBreakThreshold>Zenuwinzinkins-drempel</MentalBreakThreshold>
-  <PawnMainDescWithFactionGendered>{0}, {1} van {2}</PawnMainDescWithFactionGendered>
-  <PawnMainDescWithFactionGenderless>{0} van {1}</PawnMainDescWithFactionGenderless>
-  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
-  <SanityDazedWander>Ineengestort: loopt verward rond</SanityDazedWander>
-  <SanityGiveUpExit>Ineengestort: geeft op en gaat weg</SanityGiveUpExit>
-  <SanityPanicFlee>Ineengestort: vlucht in paniek</SanityPanicFlee>
-  <SanityPsychotic>Ineengestort: losgeslagen</SanityPsychotic>
-  <TimeToSpoil>Verdort over {0}</TimeToSpoil>
-  <Growing>Groeit</Growing>
-  <NotGrowingNow>Groeit niet. (Het moet {0} zijn.)</NotGrowingNow>
-  <NotGrowingNowNight>Groeit niet op dit moment (rust).</NotGrowingNowNight>
-  <SeedLabel>{0} zaad</SeedLabel>
-  <CannotGrowTooCold>Kan niet groeien - te koud.</CannotGrowTooCold>
-  <AutoHomeRegionToggleButton>Zet de automatische plaatsing van thuiszones aan/uit.</AutoHomeRegionToggleButton>
-  <MapConditionsTip>Speciale omstandigheden beinvloeden de omgeving.</MapConditionsTip>
-  <PodContains>Bevat</PodContains>
-  <CasketUnknownContents>Onbekend</CasketUnknownContents>
-  <UseNeurotrainer>Gebruik de neurotrainer om {0} te leren</UseNeurotrainer>
 
 </LanguageData>

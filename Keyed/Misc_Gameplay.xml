@@ -741,37 +741,37 @@
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>TODO</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Schakel de zichtbaarheid van de leerhulp in/uit wanneer deze leeg is.\n\nDe leerhulp is altijd zichtbaar als er een concept geactiveerd is om te leren. Deze knop zorgt ervoor dat hij verdwijnt als er geen concept actief is.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
-  <ZoneVisibilityToggleButton>Verander de zichtbaarheid van zones.</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>Schakel de zichtbaarheid van zones in/uit.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>TODO</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Schoonheidsvisie in/uitschakelen.\n\nGeeft de schoonheid van de wereld weer zoals die wordt waargenomen door een personage dat staat waar de muis naar wijst.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>TODO</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Kamerstatistieken in/uitschakelen.\n\nGeeft de kamerstatistieken weer van de kamer waar de muis op is gericht.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>TODO</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Kolonistenbalk in/uitschakelen.\n\nToont pictogrammen en de basisstatus van alle kolonisten bovenin het scherm.\n\nJe kunt de kolonisten in de kolonistenbalk opnieuw ordenen door met de rechtermuisknop te klikken en ze te slepen.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>TODO</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Automatisch uitbreiden van het thuisgebied rond nieuwbouw in/uitschakelen.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>TODO</AutoRebuildButton>
+  <AutoRebuildButton>Automatische herstelling van verwoeste bouwwerken in het thuisgebied in/uitschakelen.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
   <CategorizedResourceReadoutToggleButton>Zet de categoriesering van materialen aan/uit.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>TODO</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Weergave van dierennamen voor tamme dieren in/uitschakelen.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>TODO</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>Zichtbaarheid van daken in/uitschakelen.</ShowRoofOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>TODO</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>Vergrendel de rotatie van de camera zodat de noordpool altijd naar boven is gericht.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting system. -->
-  <UsePlanetDayNightSystemToggleButton>TODO</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Dag/nachtverlichting in/uitschakelen.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>TODO</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>Schakelt over naar de weergave van uitgebreide symbolen in plaats van reguliere symbolen voor objecten op afstand.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>Zichtbaarheid van namen van landvormen in/uitschakelen.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>Vuur op {0}</FireOn>
+  <FireOn>Vuur op {1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>Brandt</Burning>
   <!-- EN: fire size {0} -->
@@ -779,19 +779,19 @@
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>TODO</GameConditionsTip>
+  <GameConditionsTip>Bijzondere omstandigheden die van invloed zijn op het gebied op dit moment.</GameConditionsTip>
   <!-- EN: time left -->
-  <TimeLeft>TODO</TimeLeft>
+  <TimeLeft>resterende tijd</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>TODO</ImpactDate>
+  <ImpactDate>impactdatum</ImpactDate>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>Geen materiaal om dat te bouwen.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>Je hebt geen bruikbare materialen om dit te bouwen.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>TODO</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>{0} kan alleen met verminderde snelheid werken</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Kan niet onder een dak geplaatst worden.</MustPlaceUnroofed>
   <!-- EN: Must place with head attached to ship structural beam. -->
@@ -801,17 +801,17 @@
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Moet op een stoom-geiser geplaatst worden.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>Zowel de warme als de koele zijde van de koeler moeten worden blootgesteld.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>Zowel de warme als de koude kant van de koeler moeten vrij zijn.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
-  <MustPlaceVentWithFreeSpaces>TODO</MustPlaceVentWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>Beide zijden moeten vrij zijn om lucht door te laten stromen.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
-  <MustPlaceAdjacentStandable>TODO</MustPlaceAdjacentStandable>
+  <MustPlaceAdjacentStandable>Tijdens de plaatsing mag geen enkele zijde worden geblokkeerd.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>TODO</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>Moet op de brandstofpoort van een lanceerplatform worden geplaatst.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>TODO</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>Moet op boorbare grondstoffen worden geplaatst.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>TODO</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>Kan niet naast vallen worden geplaatst. </CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -821,41 +821,41 @@
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
-  <Watermill_WaterUsedTwice>TODO</Watermill_WaterUsedTwice>
+  <Watermill_WaterUsedTwice>Verminderde doorstroming: Turbulentie van andere waterkrachtcentrale</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
-  <CasketContains>TODO</CasketContains>
+  <CasketContains>Bevat</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Pas op!\n\n[PAWN_nameDef] is je laatste nog in leven verkerende kolonist! Als je [PAWN_objective] in de capsule laat stappen, kan je mischien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
+  <CasketWarning>Waarschuwing! {PAWN_nameDef} is uw laatste vrije levende kolonist! Als je [PAWN_objective] in de capsule laat stappen, kan je mischien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>Kan niet starten.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>KKan niet lanceren.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>Kan starten.</ShipReportCanLaunch>
+  <ShipReportCanLaunch>Klaar voor lancering.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>Critische componenten missen.</ShipReportMissingPart>
+  <ShipReportMissingPart>Kritisch onderdeel ontbreekt</ShipReportMissingPart>
   <!-- EN: requires -->
-  <ShipReportMissingPartRequires>TODO</ShipReportMissingPartRequires>
+  <ShipReportMissingPartRequires>vereist</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
   <ShipReportNoFullPods>Geen cryptoslaapcapsules in gebruik.</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
-  <ShipReportHibernating>TODO</ShipReportHibernating>
+  <ShipReportHibernating>Onderdeel in slaapstand</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
-  <ShipReportNotReady>TODO</ShipReportNotReady>
+  <ShipReportNotReady>Component nog niet klaar</ShipReportNotReady>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>TODO</HibernateWarning>
+  <HibernateWarning>Charlon Whitestone is klaar om de activeringssequentie van de reactor te starten.\n\nHij waarschuwt je dat de opstartprocedure 15 dagen in beslag kan nemen en dat de energiesignatuur over lange afstanden meetbaar is.\n\nDit type energiesignatuur geeft de interstellaire ruimtevaartcapaciteit aan en zal hele groepen wanhopige rovers en mechanoïden aantrekken.\n\nJe zal worden aangevallen met een kracht die je nog niet eerder hebt gezien. Zorg ervoor dat je verdediging op zijn plaats is voordat je de systemen opstart.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
+  <HibernateWarningStandalone>De reactor is klaar om te worden opgestart.\n\nDe opstartprocedure kan 15 dagen in beslag nemen en de energiesignatuur zal over lange afstanden meetbaar zijn.  Dit type energiesignatuur geeft de interstellaire ruimtevaartcapaciteit aan en zal hele groepen wanhopige rovers en mechanoïden aantrekken.\n\nJe zal worden aangevallen met een kracht die je nog niet eerder hebt gezien. Zorg ervoor dat je verdediging op zijn plaats is voordat je de systemen opstart.</HibernateWarningStandalone>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
+  <HibernateWarningPacifist>Charlon Whitestone is klaar om de activeringssequentie van de reactor te starten. Hij waarschuwt je dat de opstartprocedure 15 dagen kan duren.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>De reactor is klaar om opgestart te worden. Het proces duurt ongeveer 15 dagen.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{0} heeft de {1} Neurotrainer om van level {2} naar {3} te stijgen.</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort} gebruikt {1} neurotrainer om van niveau {2} naar niveau {3} te gaan.</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -867,7 +867,7 @@
   <!-- EN: Title -->
   <Title>Titel</Title>
   <!-- EN: Untitled -->
-  <Untitled>Ongetiteld</Untitled>
+  <Untitled>Zonder titel</Untitled>
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
@@ -885,29 +885,29 @@
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>TODO</Mood_MentalState>
+  <Mood_MentalState>mentale toestand</Mood_MentalState>
   <!-- EN: about to break -->
-  <Mood_AboutToBreak>TODO</Mood_AboutToBreak>
+  <Mood_AboutToBreak>op het punt van inzinking</Mood_AboutToBreak>
   <!-- EN: on edge -->
-  <Mood_OnEdge>TODO</Mood_OnEdge>
+  <Mood_OnEdge>op het randje</Mood_OnEdge>
   <!-- EN: stressed -->
-  <Mood_Stressed>TODO</Mood_Stressed>
+  <Mood_Stressed>gestrest </Mood_Stressed>
   <!-- EN: neutral -->
-  <Mood_Neutral>TODO</Mood_Neutral>
+  <Mood_Neutral>neutraal</Mood_Neutral>
   <!-- EN: content -->
-  <Mood_Content>TODO</Mood_Content>
+  <Mood_Content>tevreden</Mood_Content>
   <!-- EN: happy -->
-  <Mood_Happy>TODO</Mood_Happy>
+  <Mood_Happy>blij</Mood_Happy>
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Iedereen is dood of weg. Dit verhaal is ten einde.\n\nMisschien zal iemand anders een nut vinden voor de ruines die er nu staan.</GameOverEveryoneDead>
   <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunched>Je ruimteschip is gestart en heeft de volgende kolonisten meegenomen:\n\n{0}\nDeze kolonisten zijn achtergelaten:\n\n{1}\nJe schip-AI zal proberen het schip naar een goed oord te sturen. Misschien vindt het een betere plaats hier in het systeem. Of ze onderneemt een honderden jaren lange reis naar een andere ster. Ze kan ook besluiten zich een paar duizend jaar onder het ijs van een asteroide te verbergen.\n\nJe zult het weten, als je weer wakker wordt..</GameOverShipLaunched>
+  <GameOverShipLaunched>Je ruimteschip is begonnen en heeft de volgende kolonisten meegenomen:\n\n{0}\nDe volgende kolonisten werden achtergelaten:\n\n{1}\nDe AI van je schip zal proberen het ruimteschip naar een veilige plek te brengen. Misschien vindt het hier in het stelsel een florerende planeet voor je of maakt het een eeuwenlange reis naar een andere ster. Het kan ook zijn dat het besluit om een paar duizend jaar onder het ijs op een asteroïde te wachten tot iemand hier een nieuwe glinsterende wereld bouwt.\n\nJe zult het weten wanneer je wakker wordt.</GameOverShipLaunched>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>TODO</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>Op bijna lichtsnelheid sloeg het planeetkillerwapen in de grond met de kracht van een triljoen waterstofbommen. Als een waterballon die met een geweer werd neergeschoten, werd deze wereld vloeibaar onder de inslag en besproeidde zijn gesmolten ingewanden over de kosmos.\n\nEen deel van {0} is nu een kleine asteroïdengordel. De rest is een gesmolten, hels radioactief landschap dat voortdurend wordt geschokt door enkele kilometers hoge aardbevingsgolven.\n\nJe hebt het niet overleefd.</GameOverPlanetkillerImpact>
   <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
-  <GameOverArrivedAtJourneyDestination>TODO</GameOverArrivedAtJourneyDestination>
+  <GameOverArrivedAtJourneyDestination>Wanneer je aan boord van het ruimteschip stapt, verwelkomt de bemanning je met open armen. Ze lijken blij te zijn dat ze minstens één persoon meer mee kunnen nemen.\n\nDe volgende kolonisten zijn ontsnapt:\n\n{0}\nDe volgende kolonisten zijn achtergelaten:\n\n{1}\nDe AI van je schip zal proberen het ruimteschip naar een veilige plek te brengen. Misschien vindt het hier in het stelsel een florerende planeet voor je of maakt het een eeuwenlange reis naar een andere ster. Het kan ook zijn dat het besluit om een paar duizend jaar onder het ijs op een asteroïde te wachten tot iemand hier een nieuwe glinsterende wereld bouwt.\n\nWanneer je in de cryptoslaapcapsule stapt, twijfel je even en voel je je een beetje onzeker of je deze mensen kunt vertrouwen of niet.\n\nJe zult het weten wanneer je wakker wordt.</GameOverArrivedAtJourneyDestination>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Doorspelen</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -915,138 +915,138 @@
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>TODO</LifespanExpiry>
+  <LifespanExpiry>Verloopt in:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
-  <InactiveFacility>TODO</InactiveFacility>
+  <InactiveFacility>inactief</InactiveFacility>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>TODO</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}'s {1} groeit nu.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>TODO</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}'s {1} is nu stabiel.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>TODO</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}'s {1} is nu in remissie.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>TODO</MarriageSpotUsable>
+  <MarriageSpotUsable>Nu bruikbaar.</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>TODO</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>Niet bruikbaar: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>TODO</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>versperd</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>TODO</MarriageSpotDangerous>
+  <MarriageSpotDangerous>te gevaarlijk voor {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>TODO</MarriageSpotForbidden>
+  <MarriageSpotForbidden>forbidden for {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>TODO</MarriageSpotReserved>
+  <MarriageSpotReserved>gereserveerd</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>TODO</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>onbereikbaar voor {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>TODO</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>in gevangeniscel</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
-  <NotEnjoyableOutsideTemperature>TODO</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>onaangename temperatuur</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <!-- EN: Medical rest -->
-  <ActivityIconMedicalRest>TODO</ActivityIconMedicalRest>
+  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
   <!-- EN: Sleeping -->
-  <ActivityIconSleeping>TODO</ActivityIconSleeping>
+  <ActivityIconSleeping>Slapen</ActivityIconSleeping>
   <!-- EN: Fleeing -->
-  <ActivityIconFleeing>TODO</ActivityIconFleeing>
+  <ActivityIconFleeing>Vluchten</ActivityIconFleeing>
   <!-- EN: Fighting -->
-  <ActivityIconAttacking>TODO</ActivityIconAttacking>
+  <ActivityIconAttacking>Vechten</ActivityIconAttacking>
   <!-- EN: Idle -->
-  <ActivityIconIdle>TODO</ActivityIconIdle>
+  <ActivityIconIdle>In rusttoestand</ActivityIconIdle>
   <!-- EN: Burning -->
-  <ActivityIconBurning>TODO</ActivityIconBurning>
+  <ActivityIconBurning>Branden</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>TODO</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>Een karavaan vormen </ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>TODO</DueForMaintenance>
+  <DueForMaintenance>Onderhoud nodig.</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>TODO</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Verslechterend door gebrek aan onderhoud.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>TODO</ProgressToNextLump>
+  <ProgressToNextLump>Voortgang naar volgende klomp</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>TODO</ResourceBelow>
+  <ResourceBelow>Grondstof hieronder</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>TODO</ProgressToNextPortion>
+  <ProgressToNextPortion>Voortgang naar volgend deel</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>TODO</DeepDrillNoResources>
+  <DeepDrillNoResources>Geen grondstoffen hieronder.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>TODO</DeepDrillExhausted>
+  <DeepDrillExhausted>De grondstoffen van de diepboren zijn uitgeput, het werk aan de boor is automatisch verboden. Sta weer toe om te beginnen met het ontginnen van {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>De grondstoffen door diepboren zijn uitgeput.</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>TODO</LearningHelper>
+  <LearningHelper>Leerhulp</LearningHelper>
   <!-- EN: Mark as learned -->
-  <MarkLearned>TODO</MarkLearned>
+  <MarkLearned>Markeer als geleerd</MarkLearned>
   <!-- EN: Already learned -->
-  <AlreadyLearned>TODO</AlreadyLearned>
+  <AlreadyLearned>Reeds geleerd</AlreadyLearned>
   <!-- EN: Filter -->
-  <Filter>TODO</Filter>
+  <Filter>Filter</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>TODO</CompassTip>
+  <CompassTip>Toont de noordelijke richting. Klik om de camera te draaien zodat de noordpool omhoog wijst.</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>TODO</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Klik om naar de planningsmodus te gaan waar je je reis kunt plannen en de afstand tussen routepunten kunt berekenen.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>TODO</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>Voeg twee of meer routepunten toe.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>TODO</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Voeg een of meer routepunten toe.</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>TODO</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>Totale route tijd: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>TODO</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>De planningsmodus gebruikt de standaard karavaansnelheid. Je snelheid kan variëren.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>TODO</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Berekening voor: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>TODO</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Rechtermuisknop: Routepunten toevoegen/verwijderen</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>TODO</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>ESC: Sluit de planningsmodus af.</RoutePlannerPressEscapeToExit>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Terug naar het dialoogvenster voor de vorming van de karavaan.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>Geschatte reistijd: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>TODO</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>Geschatte reistijd (vanaf vorig routepunt): {0} </EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>TODO</EstimatedTimeToTile>
+  <EstimatedTimeToTile>Geschatte reistijd: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>TODO</ForagedFoodAmount>
+  <ForagedFoodAmount>Hoeveelheid ingezameld voedsel</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>TODO</OutfitAnything>
+  <OutfitAnything>Om het even wat</OutfitAnything>
   <!-- EN: Worker -->
-  <OutfitWorker>TODO</OutfitWorker>
+  <OutfitWorker>Arbeider</OutfitWorker>
   <!-- EN: Soldier -->
-  <OutfitSoldier>TODO</OutfitSoldier>
+  <OutfitSoldier>Soldaat</OutfitSoldier>
   <!-- EN: Nudist -->
-  <OutfitNudist>TODO</OutfitNudist>
+  <OutfitNudist>Nudist</OutfitNudist>
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
-  <HibernatableHibernating>TODO</HibernatableHibernating>
+  <HibernatableHibernating>Slaapstand</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>TODO</HibernatableStartingUp>
+  <HibernatableStartingUp>Opstarten</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Zie beschikbare opdrachten...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>Zie beschikbare opdrachten...</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>

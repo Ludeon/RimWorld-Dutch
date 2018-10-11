@@ -24,54 +24,54 @@
   <!-- EN: winter -->
   <SeasonWinter>Winter</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <SeasonPermanentSummer>permanente zomer</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+  <SeasonPermanentWinter>permanente winter</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <QuadrumAprimay>Aprimei</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>TODO</QuadrumJugust>
+  <QuadrumJugust>Jugustus</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>TODO</QuadrumDecembary>
+  <QuadrumDecembary>Decembruarie</QuadrumDecembary>
   
   <!-- EN: Born: {0} -->
-  <Born>TODO</Born>
+  <Born>Geboren: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>TODO</AgeChronological>
+  <AgeChronological>Chronologische leeftijd: {0} jaar, {1} quadrums, {2} dagen</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>TODO</AgeBiological>
+  <AgeBiological>Biologische leeftijd: {0} jaar, {1} quadrums, {2} dagen </AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
-  <Period1Year>TODO</Period1Year>
+  <Period1Year>1 jaar </Period1Year>
   <!-- EN: {0} years -->
-  <PeriodYears>TODO</PeriodYears>
+  <PeriodYears>{0} jaar</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>TODO</Period1Quadrum>
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
   <!-- EN: 1 day -->
-  <Period1Day>TODO</Period1Day>
+  <Period1Day>1 dag</Period1Day>
   <!-- EN: {0} days -->
-  <PeriodDays>TODO</PeriodDays>
+  <PeriodDays>{0} dagen</PeriodDays>
   <!-- EN: 1 hour -->
-  <Period1Hour>TODO</Period1Hour>
+  <Period1Hour>1 uur</Period1Hour>
   <!-- EN: {0} hours -->
-  <PeriodHours>TODO</PeriodHours>
+  <PeriodHours>{0} uren</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>TODO</Period1Second>
+  <Period1Second>1 seconde</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>TODO</PeriodSeconds>
+  <PeriodSeconds>{0} seconden</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
-  <Started>TODO</Started>
+  <Started>Gestart</Started>
   <!-- EN: Lasted -->
-  <Lasted>TODO</Lasted>
+  <Lasted>Duurde</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>TODO</OccurredTimeAgo>
+  <OccurredTimeAgo>gebeurde {0} geleden</OccurredTimeAgo>
   
 </LanguageData>

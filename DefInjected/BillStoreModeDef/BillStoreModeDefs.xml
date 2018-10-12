@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: take to best stockpile -->
-  <BestStockpile.label>TODO</BestStockpile.label>
+  <BestStockpile.label>breng naar de beste opslagplaats</BestStockpile.label>
   
   <!-- EN: drop on floor -->
-  <DropOnFloor.label>TODO</DropOnFloor.label>
+  <DropOnFloor.label>laat op de grond vallen</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>TODO</SpecificStockpile.label>
+  <SpecificStockpile.label>breng naar {0}</SpecificStockpile.label>
   
 </LanguageData>

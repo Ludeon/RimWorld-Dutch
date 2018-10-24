@@ -17,7 +17,7 @@ A summary from the translation report tool:
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
 - Missing keyed translations (0)
-- Def-injected translations missing (8495)
+- Def-injected translations missing (8289)
 - Backstory translations missing (2037)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
@@ -26,7 +26,7 @@ A summary from the translation report tool:
 - Keyed translations matching English (maybe ok) (86)
 - Backstory translations matching English (maybe ok) (0)
 
-This is a long list (the report is over 10600 lines long). If you want to start helping you can do so, follow the steps in http://ludeon.com/forums/index.php?topic=2933.0
+This is a long list (the report is over 10400 lines long). If you want to start helping you can do so, follow the steps in http://ludeon.com/forums/index.php?topic=2933.0
 Run the report tool once and it will give you pointers where to start exactly.
 
 Furthermore the strings are not translated yet. The English versions are copied in as for most of the strings this would already work. Nevertheless, some of them should be translated.
@@ -49,7 +49,7 @@ Een samenvatting van de vertaling reportagetool:
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
 - Missing keyed translations (0)
-- Def-injected translations missing (4495)
+- Def-injected translations missing (8289)
 - Backstory translations missing (2037)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
@@ -58,7 +58,7 @@ Een samenvatting van de vertaling reportagetool:
 - Keyed translations matching English (maybe ok) (86)
 - Backstory translations matching English (maybe ok) (0)
 
-Dit is een lange lijst (het rapport is meer dan 10600 regels lang). Als je wilt helpen kan dat, volg de stappen op http://ludeon.com/forums/index.php?topic=2933.0
+Dit is een lange lijst (het rapport is meer dan 10400 regels lang). Als je wilt helpen kan dat, volg de stappen op http://ludeon.com/forums/index.php?topic=2933.0
 Draai de rapportage tool eenmalig en het geeft je aanknopingspunten om te beginnen.
 
 Verder zijn de strings nog niet vertaald. De Engelse versies zijn gekopieerd, omdat dit voor de meeste strings al klopt. Niettemin zullen sommige strings moeten worden vertaald.

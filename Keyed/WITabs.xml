@@ -18,10 +18,10 @@
   <TabCaravanItems>Voorwerpen</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {1_labelShort} -->
-  <AbandonSliderText>Laat {{0}}x {1_labelShort} achter</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Wil je echt {1_labelShort} achterlaten?\n\n Achtergelaten voorwerpen verdwijnen en kunnen niet meer hersteld worden</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>Laat {{0}}x {0} achter</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>Wil je echt {0} achterlaten?\n\n Achtergelaten voorwerpen verdwijnen en kunnen niet meer hersteld worden</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>Achterlaten</AbandonTip>
   <!-- EN: Banish -->

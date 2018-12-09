@@ -3385,6 +3385,15 @@
     <desc>TODO</desc>
   </MidworldGeek48>
   
+  <MidworldLoner80>
+    <!-- EN: Midworld loner -->
+    <title>TODO</title>
+    <!-- EN: Loner -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was born on a peaceful, unimportant midworld.\n\nWhile [PAWN_pronoun] had a few friends, [PAWN_pronoun] preferred to spend [PAWN_possessive] time in solitude, tinkering on [PAWN_possessive] autocycle while listening to netcasts, or plinking at plastic soldiers with a new rifle [PAWN_pronoun] had just put together. -->
+    <desc>TODO</desc>
+  </MidworldLoner80>
+  
   <MidworldSailor84>
     <!-- EN: midworld sailor -->
     <title>TODO</title>
@@ -3447,6 +3456,15 @@
     <!-- EN: [PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self. -->
     <desc>TODO</desc>
   </MilitaryEngineer45>
+  
+  <MilitaryGunsmith27>
+    <!-- EN: Military gunsmith -->
+    <title>TODO</title>
+    <!-- EN: Gunsmith -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: When [PAWN_possessive] world was thrown into conflict, [PAWN_nameDef] was conscripted along with many of [PAWN_possessive] peers into the war machine that tore across the planet.\n\nWith [PAWN_possessive] particular expertise, [PAWN_pronoun] was lucky enough to find a position serving as small arms mechanic rather than on the front line. -->
+    <desc>TODO</desc>
+  </MilitaryGunsmith27>
   
   <MilitaryInventor44>
     <!-- EN: military inventor -->

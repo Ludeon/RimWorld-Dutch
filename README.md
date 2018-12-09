@@ -5,12 +5,12 @@ This is the dutch translation data for RimWorld.
 See this page for license info:
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 24-10-2018**
+**Status 09-12-2018**
 
-Current build version 1.0.2059
+Current build version 1.0.2096
 
 After update to beta 19 the dutch translation needed a lot of work, now in version 1 of the game this is not all finished yet.
-For now broken XML is fixed and the translation clean-up tool has been run (version 1.0.2059).
+For now broken XML is fixed and the translation clean-up tool has been run (version 1.0.2096).
 
 A summary from the translation report tool:
 - General load errors (0)
@@ -18,7 +18,7 @@ A summary from the translation report tool:
 - Backstories load errors (0)
 - Missing keyed translations (0)
 - Def-injected translations missing (8289)
-- Backstory translations missing (2037)
+- Backstory translations missing (2049)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (0) 
@@ -37,12 +37,12 @@ Dit is de data voor nederlandse vertaling voor Rimworld.
 Zie deze pagina voor licentie-informatie::
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 24-10-2018**
+**Status 09-12-2018**
 
-Huidige build versie 1.0.2059
+Huidige build versie 1.0.2096
 
 Na de update naar Beta 19 ad de nederlandse vertaling veel werk nodig, nu in versie 1 is dit nog niet klaar.
-Op dit moment is kapotte xml data opgeschoont en in de vertalings schoonmaak tool gedraait (versie 1.0.2059).
+Op dit moment is kapotte xml data opgeschoont en in de vertalings schoonmaak tool gedraait (versie 1.0.2096).
 
 Een samenvatting van de vertaling reportagetool:
 - General load errors (0)
@@ -50,7 +50,7 @@ Een samenvatting van de vertaling reportagetool:
 - Backstories load errors (0)
 - Missing keyed translations (0)
 - Def-injected translations missing (8289)
-- Backstory translations missing (2037)
+- Backstory translations missing (2049)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (0) 

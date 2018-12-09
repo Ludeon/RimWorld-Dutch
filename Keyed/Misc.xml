@@ -66,6 +66,8 @@
   <Default>Standaard</Default>
   <!-- EN: Average -->
   <Average>Gemiddeld</Average>
+  <!-- EN: ${0} -->
+  <MoneyFormat>€{0}</MoneyFormat>
 
   <!-- Content generation-->
   

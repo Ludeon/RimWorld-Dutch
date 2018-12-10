@@ -2,112 +2,112 @@
 <LanguageData>
   
   <!-- EN: lancer -->
-  <Lancer.label>TODO</Lancer.label>
+  <Lancer.label>lancer</Lancer.label>
   <!-- EN: left sight sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker zichtsensor</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>rechter zichtsensor</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>linker hoorsensor</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>rechter hoorsensor </Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left shoulder -->
-  <Lancer.corePart.parts.left_shoulder.customLabel>TODO</Lancer.corePart.parts.left_shoulder.customLabel>
+  <Lancer.corePart.parts.left_shoulder.customLabel>linker schouder</Lancer.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>linker arm</Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left hand -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>linker hand</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>linker pink</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left middle finger -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>linker middelvinger</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>linker wijsvinger</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>linker duim</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right mechanical shoulder -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>rechter mechanische schouder</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>rechter arm</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
   <!-- EN: right hand -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>rechter hand</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>rechter pink</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>rechter middel vinger</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>rechter wijsvinger</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>rechter duim</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Lancer.corePart.parts.left_leg.customLabel>TODO</Lancer.corePart.parts.left_leg.customLabel>
+  <Lancer.corePart.parts.left_leg.customLabel>linker been</Lancer.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>linker voet</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Lancer.corePart.parts.right_leg.customLabel>TODO</Lancer.corePart.parts.right_leg.customLabel>
+  <Lancer.corePart.parts.right_leg.customLabel>rechter been</Lancer.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>rechter voet</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- EN: mechanical centipede -->
   <MechanicalCentipede.label>Mechanische duizendpoot</MechanicalCentipede.label>
   <!-- EN: left sight sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker zichtsensor</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>rechter zichtsensor</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>linker hoorsensor</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>rechter hoorsensor</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   
   <!-- EN: scyther -->
   <Scyther.label>Maaier</Scyther.label>
   <!-- EN: left sight sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker zichtsensor</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>rechter zichtsensor</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>linker hoorsensor</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>rechter hoorsensor</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left shoulder -->
-  <Scyther.corePart.parts.left_shoulder.customLabel>TODO</Scyther.corePart.parts.left_shoulder.customLabel>
+  <Scyther.corePart.parts.left_shoulder.customLabel>linker schouder</Scyther.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>linker arm</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left blade -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>linker mes</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
   <!-- EN: left hand -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>linker hand</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>linker pink</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left middle finger -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>linker middelvinger</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>linker wijsvinger</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>linker duim</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Scyther.corePart.parts.right_shoulder.customLabel>TODO</Scyther.corePart.parts.right_shoulder.customLabel>
+  <Scyther.corePart.parts.right_shoulder.customLabel>rechter schouder</Scyther.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>rechter arm</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right blade -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>rechter mes</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
   <!-- EN: right hand -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>rechter hand</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>rechter pink</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>rechter middelvinger</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>rechter wijsvinger</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>rechter duim</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Scyther.corePart.parts.left_leg.customLabel>TODO</Scyther.corePart.parts.left_leg.customLabel>
+  <Scyther.corePart.parts.left_leg.customLabel>linker been</Scyther.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>linker voet</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Scyther.corePart.parts.right_leg.customLabel>TODO</Scyther.corePart.parts.right_leg.customLabel>
+  <Scyther.corePart.parts.right_leg.customLabel>rechter been</Scyther.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>rechter voet</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
   
 </LanguageData>

@@ -2,94 +2,94 @@
 <LanguageData>
   
   <!-- EN: jaw -->
-  <AnimalJaw.label>TODO</AnimalJaw.label>
+  <AnimalJaw.label>kaak</AnimalJaw.label>
   
   <!-- EN: antenna -->
-  <Antenna.label>TODO</Antenna.label>
+  <Antenna.label>antenne</Antenna.label>
   
   <!-- EN: beak -->
-  <Beak.label>Snavel</Beak.label>
+  <Beak.label>snavel</Beak.label>
   
   <!-- EN: body -->
-  <Body.label>Lichaam</Body.label>
+  <Body.label>lichaam</Body.label>
   
   <!-- EN: elytra -->
-  <Elytra.label>TODO</Elytra.label>
+  <Elytra.label>Dekschild</Elytra.label>
   
   <!-- EN: front claw -->
-  <FrontClaw.label>TODO</FrontClaw.label>
+  <FrontClaw.label>voorklauw</FrontClaw.label>
   <!-- EN: claw -->
-  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  <FrontClaw.labelShort>klauw</FrontClaw.labelShort>
   
   <!-- EN: head claw -->
-  <HeadClaw.label>Craniale Klauw</HeadClaw.label>
+  <HeadClaw.label>hoofd Klauw</HeadClaw.label>
   
   <!-- EN: hoof -->
-  <Hoof.label>TODO</Hoof.label>
+  <Hoof.label>Hoef</Hoof.label>
   
   <!-- EN: horn -->
-  <Horn.label>Hoorn</Horn.label>
+  <Horn.label>hoorn</Horn.label>
   
   <!-- EN: hump -->
-  <Hump.label>Bult</Hump.label>
+  <Hump.label>bult</Hump.label>
   
   <!-- EN: head -->
-  <InsectHead.label>Kop</InsectHead.label>
+  <InsectHead.label>kop</InsectHead.label>
   
   <!-- EN: heart -->
-  <InsectHeart.label>Hart</InsectHeart.label>
+  <InsectHeart.label>hart</InsectHeart.label>
   
   <!-- EN: leg -->
-  <InsectLeg.label>TODO</InsectLeg.label>
+  <InsectLeg.label>been</InsectLeg.label>
   
   <!-- EN: mouth -->
-  <InsectMouth.label>Mond</InsectMouth.label>
+  <InsectMouth.label>mond</InsectMouth.label>
   
   <!-- EN: nostril -->
-  <InsectNostril.label>Neusgat</InsectNostril.label>
+  <InsectNostril.label>neusgat</InsectNostril.label>
   
   <!-- EN: jowl -->
-  <Jowl.label>Wang</Jowl.label>
+  <Jowl.label>wang</Jowl.label>
   
   <!-- EN: paw -->
-  <Paw.label>TODO</Paw.label>
+  <Paw.label>poot</Paw.label>
   
   <!-- EN: plastron -->
-  <Plastron.label>Buikpantser</Plastron.label>
+  <Plastron.label>buikpantser</Plastron.label>
   
   <!-- EN: pronotum -->
-  <Pronotum.label>Halsschild</Pronotum.label>
+  <Pronotum.label>halsschild</Pronotum.label>
   
   <!-- EN: rear claw -->
-  <RearClaw.label>TODO</RearClaw.label>
+  <RearClaw.label>achterklauw</RearClaw.label>
   <!-- EN: claw -->
-  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  <RearClaw.labelShort>klauw</RearClaw.labelShort>
   
   <!-- EN: shell -->
-  <Shell.label>Pantser</Shell.label>
+  <Shell.label>pantser</Shell.label>
   
   <!-- EN: body -->
-  <SnakeBody.label>Lichaam</SnakeBody.label>
+  <SnakeBody.label>lichaam</SnakeBody.label>
   
   <!-- EN: head -->
-  <SnakeHead.label>Kop</SnakeHead.label>
+  <SnakeHead.label>kop</SnakeHead.label>
   
   <!-- EN: mouth -->
-  <SnakeMouth.label>Mond</SnakeMouth.label>
+  <SnakeMouth.label>mond</SnakeMouth.label>
   
   <!-- EN: tail -->
-  <Tail.label>Staart</Tail.label>
+  <Tail.label>staart</Tail.label>
   
   <!-- EN: trunk -->
-  <Trunk.label>Slurf</Trunk.label>
+  <Trunk.label>slurf</Trunk.label>
   
   <!-- EN: beak -->
-  <TurtleBeak.label>Bek</TurtleBeak.label>
+  <TurtleBeak.label>bek</TurtleBeak.label>
   
   <!-- EN: shell -->
-  <TurtleShell.label>Schild</TurtleShell.label>
+  <TurtleShell.label>schild</TurtleShell.label>
   
   <!-- EN: tusk -->
-  <Tusk.label>TODO</Tusk.label>
+  <Tusk.label>slagtand</Tusk.label>
   
 </LanguageData>

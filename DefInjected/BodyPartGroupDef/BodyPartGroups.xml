@@ -2,110 +2,110 @@
 <LanguageData>
   
   <!-- EN: arms -->
-  <Arms.label>Armen</Arms.label>
+  <Arms.label>armen</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>TODO</Beak.label>
+  <Beak.label>snavel</Beak.label>
   
   <!-- EN: eyes -->
-  <Eyes.label>Ogen</Eyes.label>
+  <Eyes.label>ogen</Eyes.label>
   
   <!-- EN: feet -->
-  <Feet.label>Voeten</Feet.label>
+  <Feet.label>voeten</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>Linker klauw (voorkant)</FrontLeftClaws.label>
+  <FrontLeftClaws.label>linker voorklauwen</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>klauwn</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
-  <FrontLeftLeg.label>Linker voorbeen</FrontLeftLeg.label>
+  <FrontLeftLeg.label>linker voorbeen</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>been</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
-  <FrontLeftPaw.label>Linker voorpoot</FrontLeftPaw.label>
+  <FrontLeftPaw.label>linker voorpoot</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>poot</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>Rechter klauw (voorkant)</FrontRightClaws.label>
+  <FrontRightClaws.label>rechter voorklauwen</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>klauwen</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
-  <FrontRightLeg.label>Rechter voorbeen</FrontRightLeg.label>
+  <FrontRightLeg.label>rechter voorbeen</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>been</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
-  <FrontRightPaw.label>Rechter voorpoot</FrontRightPaw.label>
+  <FrontRightPaw.label>rechter voorpoot</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>poot</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
-  <FullHead.label>Volledig hoofd</FullHead.label>
+  <FullHead.label>volledig hoofd</FullHead.label>
   
   <!-- EN: hands -->
-  <Hands.label>Handen</Hands.label>
+  <Hands.label>handen</Hands.label>
   
   <!-- EN: head -->
-  <HeadAttackTool.label>Hoofd</HeadAttackTool.label>
+  <HeadAttackTool.label>hoofd</HeadAttackTool.label>
   
   <!-- EN: claw -->
-  <HeadClaw.label>TODO</HeadClaw.label>
+  <HeadClaw.label>klauw</HeadClaw.label>
   
   <!-- EN: horn -->
-  <HornAttackTool.label>Hoorn</HornAttackTool.label>
+  <HornAttackTool.label>hoorn</HornAttackTool.label>
   
   <!-- EN: left blade -->
-  <LeftBlade.label>TODO</LeftBlade.label>
+  <LeftBlade.label>linker mes</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  <LeftBlade.labelShort>mes</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
-  <LeftHand.label>TODO</LeftHand.label>
+  <LeftHand.label>linker vuist</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  <LeftHand.labelShort>vuist</LeftHand.labelShort>
   
   <!-- EN: legs -->
-  <Legs.label>Benen</Legs.label>
+  <Legs.label>benen</Legs.label>
   
   <!-- EN: mouth -->
-  <Mouth.label>Mond</Mouth.label>
+  <Mouth.label>mond</Mouth.label>
   
   <!-- EN: neck -->
-  <Neck.label>TODO</Neck.label>
+  <Neck.label>nek</Neck.label>
   
   <!-- EN: right blade -->
-  <RightBlade.label>TODO</RightBlade.label>
+  <RightBlade.label>rechter mes</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  <RightBlade.labelShort>mes</RightBlade.labelShort>
   
   <!-- EN: right fist -->
-  <RightHand.label>TODO</RightHand.label>
+  <RightHand.label>rechter vuist</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>TODO</RightHand.labelShort>
+  <RightHand.labelShort>vuist</RightHand.labelShort>
   
   <!-- EN: shoulders -->
-  <Shoulders.label>TODO</Shoulders.label>
+  <Shoulders.label>schouders</Shoulders.label>
   
   <!-- EN: teeth -->
-  <Teeth.label>Tanden</Teeth.label>
+  <Teeth.label>tanden</Teeth.label>
   
   <!-- EN: torso -->
-  <Torso.label>Torso</Torso.label>
+  <Torso.label>romp</Torso.label>
   
   <!-- EN: beak -->
-  <TurtleBeakAttackTool.label>Bek</TurtleBeakAttackTool.label>
+  <TurtleBeakAttackTool.label>bek</TurtleBeakAttackTool.label>
   
   <!-- EN: tusks -->
-  <TuskAttackTool.label>Slagtand</TuskAttackTool.label>
+  <TuskAttackTool.label>slagtanden</TuskAttackTool.label>
   
   <!-- EN: upper head -->
-  <UpperHead.label>Voorhoofd</UpperHead.label>
+  <UpperHead.label>voorhoofd</UpperHead.label>
   
   <!-- EN: waist -->
-  <Waist.label>TODO</Waist.label>
+  <Waist.label>heup</Waist.label>
   
 </LanguageData>

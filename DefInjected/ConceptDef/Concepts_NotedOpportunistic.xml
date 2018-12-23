@@ -2,93 +2,93 @@
 <LanguageData>
   
   <!-- EN: Animals don't attack doors -->
-  <AnimalsDontAttackDoors.label>TODO</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Dieren vallen deuren niet aan</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
-  <AnimalsDontAttackDoors.helpText>TODO</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Manhunting dieren zullen over het algemeen geen deuren of inactieve geschutskoepels aanvallen.\n\nJe kunt aan deze dieren ontsnappen door je naar binnen of achter een muur te verplaatsen. Maar ze zullen op je wachten.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
-  <BillsTab.label>TODO</BillsTab.label>
+  <BillsTab.label>Taken tabblad</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>Damit Kolonisten am Arbeitstisch arbeiten, w�hle den Tisch aus und �ffne den Aufgabenreiter. Hier kannst du ausw�hlen, welche Mahlzeiten gekocht, was erstellt oder welche Kreaturen geschlachtet werden sollen.</BillsTab.helpText>
+  <BillsTab.helpText>Om kolonisten aan een tafel te laten werken, selecteert u de tabel en opent u het taken tabblad. Hier kun je aangeven welke maaltijden er gekookt moeten worden, welke dingen er moeten worden gemaakt, welke wezens er moeten worden geslacht.</BillsTab.helpText>
   
   <!-- EN: Build orbital trade beacon -->
-  <BuildOrbitalTradeBeacon.label>TODO</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>Orbitaal handelsbaken bouwen</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>Tipp:\n\nDamit du Gegenst�nde oder Silber zu einem H�ndler schicken kannst, musst du ein ORBITALES FUNKFEUER im Freien platzieren und ein Lager mit Gegenst�nden zum Handeln in Reichweite platzieren.</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>Om items of zilver naar orbitale handelaren te sturen, moet je een ORBITAAL HANDELSBAKEN bouwen en een voorraad van items in de buurt plaatsen.</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>TODO</Capturing.label>
+  <Capturing.label>Gevangen nemen</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>Een vijand is bewusteloos! Je kunt hem vangen!</Capturing.helpText>
+  <Capturing.helpText>Vijanden die bewusteloos op de grond liggen, kunnen worden gevangen genomen.\n\nSelecteer een kolonist, klik met de rechtermuisknop op de onbewuste vijand en gebruik 'gevangen nemen'.\n\nJe hebt een extra bed nodig dat is gemarkeerd voor gebruik door gevangenen.</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>Deuropeningssnelheid</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>TODO</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>Deuren openen met verschillende snelheden, afhankelijk van waar ze van gemaakt zijn.\n\nWaarschuwing: Stenen deuren gaan heel langzaam open. Wie er doorheen gaat, wordt aanzienlijk vertraagd.</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
-  <Drafting.label>TODO</Drafting.label>
+  <Drafting.label>Gevechtsmodus activeren</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>Um einen Kolonisten f�r einen Kampf direkt zu steuern, lass ihn die Waffe ziehen, indem du ihn anklickst und den 'Waffe ziehen'-Schaltfl�che bet�tigst.</Drafting.helpText>
+  <Drafting.helpText>Kolonisten kunnen direct worden bestuurd voor een gevecht. Selecteer de kolonisten en klik op de 'Gevechtsmodus' knop.\n\nKolonisten in gevechtsmodus doen alleen wat je ze zegt te doen en ze kunnen alleen maar gevechtsacties doen. Degene met wapen zullen ze gebruiken wanneer mogelijk.\n\nVergeet niet om de gevechtsmodus na een gevecht te beëindigen, anders zullen ze verhongeren en ongelukkig worden.</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
-  <DrugAddiction.label>TODO</DrugAddiction.label>
+  <DrugAddiction.label>Drugs verslaving</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>TODO</DrugAddiction.helpText>
+  <DrugAddiction.helpText>Je kunt de wens van je kolonisten om een drug te nemen in hun behoeftentabblad bekijken.\n\nZolang hun behoefte op nul staat, verandert hun verslaving in een "afkick" staat die verschillende negatieve neveneffecten kan hebben.\n\nEchter, na lang genoeg afkicken, zal hun verslaving eindigen en zal de drugsbehoefte verdwijnen. </DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
-  <DrugBurning.label>TODO</DrugBurning.label>
+  <DrugBurning.label>Drugs verbranding</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>TODO</DrugBurning.helpText>
+  <DrugBurning.helpText>Drugs kunnen nuttig zijn, maar kunnen ook leiden tot schadelijke verslavingen.\n\nAls je drugs in je kolonie wilt vermijden, heb je de mogelijkheid om ze bij een kampvuur te verbranden. </DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
-  <DrugPolicies.label>TODO</DrugPolicies.label>
+  <DrugPolicies.label>Drugs-/geneesmiddelenbeleid</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>TODO</DrugPolicies.helpText>
+  <DrugPolicies.helpText>Je kunt kolonisten toewijzen om specifieke medicijnen op een specifiek schema in te nemen. Je kunt ze bijvoorbeeld regelmatig infectieblokkerende medicijnen laten nemen, of een biertje per dag laten drinken om gelukkig te blijven.\n\nOpen het tabblad TOEWIJZEN en druk op de knop 'Beheer drugs-/geneesmiddelenbeleid'. Creëer een nieuw beleid. Vervolgens kan je dit beleid toewijzen aan kolonisten.\n\nKolonisten kunnen nog steeds drugs gebruiken die niet in hun beleid zijn opgenomen. Je kunt ze vertellen wat ze moeten doen, maar ze volgen ook hun eigen wensen!</DrugPolicies.helpText>
   
   <!-- EN: Interacting with traders -->
-  <InteractingWithTraders.label>TODO</InteractingWithTraders.label>
+  <InteractingWithTraders.label>Interactie met handelaren</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
-  <InteractingWithTraders.helpText>TODO</InteractingWithTraders.helpText>
+  <InteractingWithTraders.helpText>Je kunt met mensen praten met ? boven hun hoofd.\n\nSelecteer een kolonist en klik met de rechtermuisknop op het personage met ? op zijn hoofd. </InteractingWithTraders.helpText>
   
   <!-- EN: Using the comms console -->
-  <OpeningComms.label>TODO</OpeningComms.label>
+  <OpeningComms.label>De communicatie console gebruiken</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>Um mit anderen zu kommunizieren, w�hle einen Kolonisten aus und mache einen Rechtsklick auf die Kommunikationskonsole.</OpeningComms.helpText>
+  <OpeningComms.helpText>Om te communiceren, selecteer een kolonist en klik met de rechtermuisknop op de communicatie console.</OpeningComms.helpText>
   
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>TODO</PrisonerTab.label>
+  <PrisonerTab.label>Gevangenen tabblad</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>�ffne den 'Gefangenen'-Reiter um zu sehen, wie sie behandelt werden.\n\nDu ben�tigst einen Aufseher, der sich um die Gefangenen k�mmert.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>Kijk in het Gevangenen tabblad van een gevangene om in te stellen hoe ze behandeld zullen worden.\n\nJe kunt instellen of ze gerekruteerd, genegeerd of geëxecuteerd worden, of ze eten en wat voor medische zorg ze krijgen.\n\nKolonisten met het werktype Bewaker zullen met de gevangene communiceren.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
-  <QueueOrders.label>TODO</QueueOrders.label>
+  <QueueOrders.label>Takenwachtrij</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>TODO</QueueOrders.helpText>
+  <QueueOrders.helpText>Bij het geven van commando's aan kolonisten kan je meerdere opdrachten in de rij zetten door "shift" ingedrukt te houden. Dit werkt ook bij het geven van opdrachten aan kolonisten die niet in geveschtmodus zijn.</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
-  <ReformCaravan.label>TODO</ReformCaravan.label>
+  <ReformCaravan.label>Karavaan hervorming</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>TODO</ReformCaravan.helpText>
+  <ReformCaravan.helpText>Na een gebeurtenis kunt u eenvoudig een karavaan opnieuw vormen met behulp van het 'Karavaan hervorming' commando in het wereldoverzicht.</ReformCaravan.helpText>
   
   <!-- EN: Rescuing -->
-  <Rescuing.label>TODO</Rescuing.label>
+  <Rescuing.label>Redden</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>Om een bewusteloze kolonist te redden moet je eerst een gezonde kolonist uitkiezen en daarna de bewusteloze d.m.v. een rechtermuisklik.</Rescuing.helpText>
+  <Rescuing.helpText>Om een verwond persoon te redden, selecteer je een gezonde kolonist en klik je met de rechtermuisknop op de gewonde.\n\nAls je een niet-kolonist redt, zullen ze zich niet noodzakelijkerwijs bij je kolonie voegen.  Ze kunnen gewoon weggaan na genezing. Als je wilt garanderen dat ze zich aansluiten, neem ze dan gevangen en rekruteer ze.</Rescuing.helpText>
   
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>TODO</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>Stel in welke plant moet worden gekweekt</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Du kannst festlegen, was die Kolonisten in einer Anbauzone anbauen. Du kannst dort sogar B�ume anpflanzen!\n\nW�hle einfach eine Anbauzone aus, �ffne den 'Anbauen'-Reiter und klicke auf die Schaltfl�che 'Kartoffeln'.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>Je kunt instellen wat er in een groeizone gekweekt moet worden. Je kunt zelfs bomen kweken!\n\nSelecteer de groeizone, open het tabblad Groeien en klik op de knop 'planten'.</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
-  <ShieldBelts.label>TODO</ShieldBelts.label>
+  <ShieldBelts.label>Schildriemen</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>TODO</ShieldBelts.helpText>
+  <ShieldBelts.helpText>Schildriemen voorkomen afstandsaanvallen van binnenkomende en uitgaande aanvallen. Ze hebben geen effect op aanvallen van dichtbij. In de strijd tegen schildriemen, concentreer je ofwel veel geschutsvuur op het doelwit, of vecht je van hand tot hand.O</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
-  <TVForSickPeople.label>TODO</TVForSickPeople.label>
+  <TVForSickPeople.label>TV voor zieke mensen</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>TODO</TVForSickPeople.helpText>
+  <TVForSickPeople.helpText>Zieke mensen kunnen tv kijken terwijl ze in bed liggen.</TVForSickPeople.helpText>
   
 </LanguageData>

@@ -2,173 +2,173 @@
 <LanguageData>
   
   <!-- EN: Alerts -->
-  <Alerts.label>TODO</Alerts.label>
+  <Alerts.label>Meldingen</Alerts.label>
   <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
-  <Alerts.helpText>TODO</Alerts.helpText>
+  <Alerts.helpText>De meldingen aan de rechterkant van het scherm vertellen u over zaken die uw aandacht nodig hebben.\n\nHoud de meldingen in de gaten.</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
-  <AllowedAreas.label>TODO</AllowedAreas.label>
+  <AllowedAreas.label>Toegestane zones</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>TODO</AllowedAreas.helpText>
+  <AllowedAreas.helpText> Kolonisten en koloniedieren kunnen worden toegewezen aan TOEGESTANE ZONES. Dit verbiedt hen om bestemmingen buiten hun toegestane zone te nemen.\n\nDit kan bijvoorbeeld gebruikt worden om kolonisten te verbieden naar buiten te gaan.\n\nJe kunt meerdere toegestane gebieden aanmaken en deze toewijzen aan verschillende kolonisten en dieren.\n\nMaak, verwijder en wijs toegestane gebieden toe in het tabblad BEPERKEN.\n\nSchilder toegestane gebieden op de kaart met behulp van de TOEGESTAAN GEBIED UITBREIDEN en VERWIJDER TOEGESTAAN GEBIED-aanduidingen in het tabblad bouw.</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
-  <AnimalTaming.label>TODO</AnimalTaming.label>
+  <AnimalTaming.label>Dieren temmen</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>TODO</AnimalTaming.helpText>
+  <AnimalTaming.helpText>Je kunt kolonisten toewijzen om een wild dier te temmen met de TEM-aanduiding.\n\nKolonisten bieden het dier voedsel aan en proberen het te temmen.\n\nPas op: Sommige dieren kunnen heftig reageren op mislukte pogingen tot temmen.</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
-  <AnimalTraining.label>TODO</AnimalTraining.label>
+  <AnimalTraining.label>Dierentraining</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
-  <AnimalTraining.helpText>TODO</AnimalTraining.helpText>
+  <AnimalTraining.helpText>Je kunt een tam dier toewijzen om getraind te worden in specifieke vaardigheden op het tabblad TRAINING.\n\nDieren kunnen niet continu getraind worden; ze hebben tijd nodig tussen de trainingen door.</AnimalTraining.helpText>
   
   <!-- EN: Camera dolly -->
-  <CameraDolly.label>TODO</CameraDolly.label>
+  <CameraDolly.label>Camera bewegen</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>Beweeg de camera door te slepen met de middelste muistoets of met de WASD-toetsen.</CameraDolly.helpText>
+  <CameraDolly.helpText>Beweeg de camera door te klikken en te slepen met de muisknop 3 (middelste knop) of met de {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} toetsen.</CameraDolly.helpText>
   
   <!-- EN: Camera zoom -->
-  <CameraZoom.label>TODO</CameraZoom.label>
+  <CameraZoom.label>Camera zoom</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
-  <CameraZoom.helpText>Zoome rein und raus mit dem MAUSRAD oder den Tasten T und G.</CameraZoom.helpText>
+  <CameraZoom.helpText>Zoom in en uit met het MUISWIEL of de {Key:MapZoom_In} en {Key:MapZoom_Out} toetsen .</CameraZoom.helpText>
   
   <!-- EN: Clicking messages -->
-  <ClickingMessages.label>TODO</ClickingMessages.label>
+  <ClickingMessages.label>Op berichten klikken</ClickingMessages.label>
   <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
-  <ClickingMessages.helpText>TODO</ClickingMessages.helpText>
+  <ClickingMessages.helpText>Je kunt op de meldingen in de linkerbovenhoek van het scherm klikken om de camera direct op het onderwerp te centreren.</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
-  <CoverAndShooting.label>TODO</CoverAndShooting.label>
+  <CoverAndShooting.label>Dekking en schieten</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>TODO</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>Het belangrijkste bij langeafstandsgevechten is de dekking.\n\nDekking werkt alleen als je kolonist het aanraakt, en het tussen je kolonist en de vijand staat.\n\nJe kunt ook kolonisten achter de hoeken van de muur plaatsen. Ze leunen uit om te schieten.\n\nDe meeste dingen kunnen als dekking worden gebruikt, maar sommige dingen zijn beter dan andere. Verstoppen achter een boom is beter dan niets, maar verstoppen achter zandzakken is beter dan een boom gebruiken.</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
-  <Deterioration.label>TODO</Deterioration.label>
+  <Deterioration.label>Item kwaliteitsverlies</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>TODO</Deterioration.helpText>
+  <Deterioration.helpText>Items die buiten worden achtergelaten, zullen langzaam achteruitgaan. Als je voorwerpen langdurig wilt bewaren, bewaar ze dan in een overdekte ruimte.</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
-  <EquippingWeapons.label>TODO</EquippingWeapons.label>
+  <EquippingWeapons.label>Uitrusting met wapens</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>Damit Kolonisten eine Waffe ausr�sten, w�hle den Kolonisten aus und rechtsklicke die Waffe.\n\nEs sind 3 Waffen an der Landungsstelle.</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>Je kolonisten kwamen met wat wapens aan. Rust ze uit!n\nSelecteer elke kolonist en klik met de rechtermuisknop op het wapen waarmee je ze wilt uitrusten.</EquippingWeapons.helpText>
   
   <!-- EN: Fire preparation -->
-  <FirePreparation.label>TODO</FirePreparation.label>
+  <FirePreparation.label>Voorbereiding op brand</FirePreparation.label>
   <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>TODO</FirePreparation.helpText>
+  <FirePreparation.helpText>Branden kunnen gemakkelijk een kolonie platbranden. Om deze te overwinnen, moet je je voorbereiden voordat zij zich voordoen.\n\nDe volgende stappen in het spel kunnen helpen om de schade door brand te verminderen:\n\n1. In plaats van het bouwen van één supergebouw, bouw je aparte gebouwen met ruimtes ertussenin.\n\n2. Gebruik minder brandbare materialen. Hout is goedkoop en snel - maar zeer brandbaar.\n\n3. Bouw brandonderbrekingen om te voorkomen dat bosbranden je basis naderen. Een strook betonvloer van 3 of 4 cellen breed zal over het algemeen een oprukkende brand stoppen.</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
-  <Forbidding.label>TODO</Forbidding.label>
+  <Forbidding.label>Verbieden en toestaan</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>Kolonisten werden nicht mit Gegenst�nden interagieren, die als VERBOTEN markiert sind.\n\nW�hle das Metall und die Nahrung an deiner Landungsstelle aus und dr�cke F um die Interaktion zu ERLAUBEN.</Forbidding.helpText>
+  <Forbidding.helpText>Kolonisten zullen niet interageren met objecten die VERBODEN zijn.\n\nVerboden items zijn gemarkeerd met een rode X. Selecteer een verboden item en gebruik de onderstaande opdrachtvelden om interactie TOE TE STAAN.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
-  <ForbiddingDoors.label>TODO</ForbiddingDoors.label>
+  <ForbiddingDoors.label>Deuren verbieden</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>TODO</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>Je kunt deuren VERBIEDEN zodat kolonisten en tamme dieren er niet doorheen gaan.\n\nMerk op dat dit geen deurslot is. Deuren zijn altijd op slot, zodat vijanden niet vrij kunnen passeren. Verbieden geeft je kolonisten de opdracht om de deur niet te gebruiken. Kolonisten die krankzinnig worden, zouden de deur misschien wel kunnen gebruiken.</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
-  <FormCaravan.label>TODO</FormCaravan.label>
+  <FormCaravan.label>Karavanen vormen</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>TODO</FormCaravan.helpText>
+  <FormCaravan.helpText>Je kunt een karavaan vormen om groepen mensen die over de planeet reizen te sturen.\n\nIn de WERELD tab, selecteer je thuisbasis en klik je op de "vorm karavaan" knop.</FormCaravan.helpText>
   
   <!-- EN: Friendly fire safety -->
-  <FriendlyFireSafety.label>TODO</FriendlyFireSafety.label>
+  <FriendlyFireSafety.label>Vriendschappelijk vuur</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>TODO</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Geallieerden die dicht bij elkaar staan, kunnen elkaar geen kwaad doen.\n\nZo kun je bijvoorbeeld een zwaardvechter direct voor een schutter plaatsen. De schutter schiet over de schouder van zijn vriend.\n\nOp deze manier kunt u vechters en schutters goed combineren.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
-  <GettingMoreTraders.label>TODO</GettingMoreTraders.label>
+  <GettingMoreTraders.label>Meer handelaren verkrijgen</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>TODO</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>Er komen meer koopvaardijkaravanen bij je langs als je met meer bondgenootschappen hebt.\n\nAls je geen bondgenoten hebt, komen er nooit karavanen op bezoek!\n\nJe kunt ook bondgenoten betalen voor het versturen van handelskaravanen door ze te bellen op de communicatieconsole.</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
-  <GrowingFood.label>TODO</GrowingFood.label>
+  <GrowingFood.label>Groeizones</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>Um Nahrung anzubauen, platziere eine ANBAUZONE aus dem ARCHITEKT-Men�.\n\nDie Zone kann nur auf fruchtbarem Boden platziert werden.</GrowingFood.helpText>
+  <GrowingFood.helpText>Om voedsel te verbouwen, plaatst je GROEIZONES via het bouwmenu.\n\nZe kunnen alleen op vruchtbare grond worden geplaatst.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
-  <HistoryTab.label>TODO</HistoryTab.label>
+  <HistoryTab.label>Tabblad Geschiedenis</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>TODO</HistoryTab.helpText>
+  <HistoryTab.helpText>Onderaan het scherm in het tabblad GESCHIEDENIS kan je een overzicht zien van het fortuin van je kolonie in de loop der tijd.</HistoryTab.helpText>
   
   <!-- EN: Home area -->
-  <HomeArea.label>TODO</HomeArea.label>
+  <HomeArea.label>Thuiszone</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>TODO</HomeArea.helpText>
+  <HomeArea.helpText>De THUISZONE vertelt uw kolonisten welk gebied ze moeten schoonmaken en waar ze branden moeten blussen.\n\nDefinieer de THUISZONE met de categorie Zones onder het bouwmenu.</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
-  <HostilityResponse.label>TODO</HostilityResponse.label>
+  <HostilityResponse.label>Vijandigheid responsmodi</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
-  <HostilityResponse.helpText>TODO</HostilityResponse.helpText>
+  <HostilityResponse.helpText>Je kunt instellen hoe kolonisten automatisch moeten reageren op bedreigingen zoals roofdieren.\n\nKies uit de modi VLUCHTEN, AANVALLEN en NEGEREN in het menu TOEWIJZEN.</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
-  <InfoCard.label>TODO</InfoCard.label>
+  <InfoCard.label>Infokaart</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>TODO</InfoCard.helpText>
+  <InfoCard.helpText>De infokaart toont je gedetailleerde statistieken over elk item, persoon of constructie.n\nSelecteer een persoon of item en open hun infokaart met de 'i' knop op het inspectiepaneel.</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
-  <InspectRoomStats.label>TODO</InspectRoomStats.label>
+  <InspectRoomStats.label>Kamer statistieken inspectie</InspectRoomStats.label>
   <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
-  <InspectRoomStats.helpText>TODO</InspectRoomStats.helpText>
+  <InspectRoomStats.helpText>Je kunt de indrukwekkendheid, rijkdom en schoonheid van individuele kamers bekijken met behulp van de KAMER INSPECTIE knop in de rechteronder hoek.</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
-  <ManualWorkPriorities.label>TODO</ManualWorkPriorities.label>
+  <ManualWorkPriorities.label>Handmatige werkprioriteiten</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
-  <ManualWorkPriorities.helpText>TODO</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.helpText>Een van de belangrijkste onderdelen van RimWorld is het kiezen van goede werkinstellingen voor je kolonisten.\n\nSlechte werkinstellingen kunnen het essentiële werk lange tijd onafgewerkt laten terwijl kolonisten tijd verspillen aan onbelangrijke taken.\n\nOm meer controle te geven over wat kolonisten doen, kunt je de modus Handmatige Prioriteiten gebruiken in het tabblad WERK.\n\nIn deze modus heeft elke kolonist een prioriteitsnummer voor elk type werk. Kolonisten doen prioriteit 1 werk van links naar rechts, vervolgens prioriteit 2 werk van links naar rechts, enzovoort.\n\nIntelligent gebruik van deze instellingen is essentieel voor een grote, goed geautomatiseerde kolonie.</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
-  <MedicalOperations.label>TODO</MedicalOperations.label>
+  <MedicalOperations.label>Medische operaties</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>TODO</MedicalOperations.helpText>
+  <MedicalOperations.helpText>Om een medische ingreep toe te wijzen, zoals het oogsten van organen of de installatie van protheses, opent je het tabblad GEZONDHEID van een kolonist en schakelt je dan over naar het sub-tabblad OPERATIES.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>Mijnbouw</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>Du kannst mit dem ARCHITEKT Men� befehlen, wo etwas abgebaut werden soll.\n\nWenn man MINERALIEN abbaut bekommt man METALL.\n\nWenn man GESTEIN abbaut bekommt man nichts.</Mining.helpText>
+  <Mining.helpText>Je kunt aangeven waar je de mijnbouw wilt uitvoeren door het BOUWmenu te openen en het tabblad OPDRACHTEN te selecteren.\n\nSommige winbare blokken leveren STAAL, GOUD, PLASTEEL en andere nuttige materialen.</Mining.helpText>
   
   <!-- EN: Outfits -->
-  <Outfits.label>TODO</Outfits.label>
+  <Outfits.label>Outfits</Outfits.label>
   <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
-  <Outfits.helpText>TODO</Outfits.helpText>
+  <Outfits.helpText>Kolonisten zullen automatisch proberen om de nieuwste kleding van de hoogste kwaliteit te dragen. Je hoeft niet elk kledingstuk handmatig toe te wijzen aan kolonisten (al kan dat wel, als je dat wilt).\n\nOm kolonisten beperkingen toe te wijzen voor het aankleden, opent je het tabblad TOEWIJZEN, gebruik je het dialoogvenster " Beheer outfits" om een nieuwe outfit te ontwerpen en wijs je de outfit toe aan kolonisten.</Outfits.helpText>
   
   <!-- EN: Pausing -->
-  <Pause.label>TODO</Pause.label>
+  <Pause.label>Pauzeren</Pause.label>
   <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
-  <Pause.helpText>TODO</Pause.helpText>
+  <Pause.helpText>Druk op {Key:TogglePause} om het spel te pauzeren of te hervatten.\n\nJe kunt opdrachten geven terwijl je pauzeert. Onthoud dit - als het hectisch wordt, druk dan gewoon op de {Key:TogglePause} toets!</Pause.helpText>
   
   <!-- EN: Shot accuracy tooltip -->
-  <ShotAccuracyTooltip.label>TODO</ShotAccuracyTooltip.label>
+  <ShotAccuracyTooltip.label>Schietnauwkeurigheid</ShotAccuracyTooltip.label>
   <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
-  <ShotAccuracyTooltip.helpText>TODO</ShotAccuracyTooltip.helpText>
+  <ShotAccuracyTooltip.helpText>Het is mogelijk om aan te geven hoe groot de kans op een schot is.\n\nSelecteer de schutter en beweeg de muisaanwijzer over het doel. De tooltip toont de kans op een hit en de factoren die deze beïnvloeden.</ShotAccuracyTooltip.helpText>
   
   <!-- EN: Spoilage and freezers -->
-  <SpoilageAndFreezers.label>TODO</SpoilageAndFreezers.label>
+  <SpoilageAndFreezers.label>Bederf en diepvriezers</SpoilageAndFreezers.label>
   <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
-  <SpoilageAndFreezers.helpText>TODO</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.helpText>De meeste levensmiddelen zullen na een relatief korte tijd bederven.\n\nOm dit te voorkomen kunt je een inloopvriezer bouwen.\n\nOm een vriezer te bouwen, bouw je een gesloten ruimte en plaats je één of twee koelers in de muur. Zet de koelers op een negatieve doeltemperatuur.\n\nBevroren voedsel zal nooit bederven.</SpoilageAndFreezers.helpText>
   
   <!-- EN: Stockpiles -->
-  <Stockpiles.label>TODO</Stockpiles.label>
+  <Stockpiles.label>Voorraden</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>TODO</Stockpiles.helpText>
+  <Stockpiles.helpText>Je kolonisten moeten de items ergens opslaan. Definieer een OPSLAGPLAATS waar je items kunt opslaan.\n\nOm dit te doen, opent je linksonder het BOUWmenu, klik je op 'Zone/gebied' en selecteer je de knop 'Opslagzone'.</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
-  <StorageTab.label>TODO</StorageTab.label>
+  <StorageTab.label>Tabblad Opslag</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>TODO</StorageTab.helpText>
+  <StorageTab.helpText>Je kunt voorraden en opslaggebouwen configureren door ze te selecteren en de OPSLAG TAB boven het inspectiepaneel linksonder te openen.\n\nIn het opslagtabblad van een opslagplaats kunt je categorieën uitbreiden om specifieke items toe te staan of te weigeren. Klik op de driehoeken links van de categorienamen.\n\nJe kunt de PRIORITEIT van de opslag wijzigen. Kolonisten vullen eerst de opslag met een hogere prioriteit en verplaatsen items van lagere naar hogere prioriteit.</StorageTab.helpText>
   
   <!-- EN: Time assignments -->
-  <TimeAssignments.label>TODO</TimeAssignments.label>
+  <TimeAssignments.label>Tijdtoewijzing</TimeAssignments.label>
   <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
-  <TimeAssignments.helpText>TODO</TimeAssignments.helpText>
+  <TimeAssignments.helpText>Je kunt aanpassen op welk tijdstip van de dag kolonisten verschillende activiteiten moeten doen met behulp van het tabblad BEPERKEN.</TimeAssignments.helpText>
   
   <!-- EN: Time controls -->
-  <TimeControls.label>TODO</TimeControls.label>
+  <TimeControls.label>Tijdsbesturing</TimeControls.label>
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.helpText>Du kannst die Zeit beschleunigen, verlangsamen oder pausieren. Das machst Du mit der Zeitsteuerung am rechten unteren Bildschirmrand.</TimeControls.helpText>
+  <TimeControls.helpText>Je kunt de tijd versnellen.\n\nProbeer de tijd te regelen met de toetsen {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} en {Key:TimeSpeed_Superfast}, of met de tijdregelaars rechtsonder.</TimeControls.helpText>
   
   <!-- EN: Work settings -->
-  <WorkTab.label>TODO</WorkTab.label>
+  <WorkTab.label>Werkinstellingen</WorkTab.label>
   <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
-  <WorkTab.helpText>TODO</WorkTab.helpText>
+  <WorkTab.helpText>YJe kunt de werkinstellingen van elke kolonist instellen in het tabblad WERK linksonder in het scherm.\n\nZij zullen altijd het werk met de hoogste prioriteit doen dat zij kunnen vinden.\n\nAls niemand een bepaald type werk heeft toegewezen, of als ze bezig zijn met taken met een hogere prioriteit, zal het nooit gedaan worden.</WorkTab.helpText>
   
 </LanguageData>

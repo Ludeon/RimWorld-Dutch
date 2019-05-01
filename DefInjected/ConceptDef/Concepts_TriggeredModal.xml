@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Arresting worsens faction relations -->
-  <ArrestingCreatesEnemies.label>TODO</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.label>Arresteren verergert factie relaties</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
-  <ArrestingCreatesEnemies.helpText>TODO</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>De persoon die je probeert te arresteren</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>TODO</MaxNumberOfPlayerSettlements.label>

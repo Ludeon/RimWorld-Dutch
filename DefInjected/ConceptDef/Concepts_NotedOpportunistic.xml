@@ -4,7 +4,7 @@
   <!-- EN: Animals don't attack doors -->
   <AnimalsDontAttackDoors.label>Dieren vallen deuren niet aan</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
-  <AnimalsDontAttackDoors.helpText>Manhunting dieren zullen over het algemeen geen deuren of inactieve geschutskoepels aanvallen.\n\nJe kunt aan deze dieren ontsnappen door je naar binnen of achter een muur te verplaatsen. Maar ze zullen op je wachten.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Mens-jagende dieren zullen over het algemeen geen deuren of inactieve geschutskoepels aanvallen.\n\nJe kunt aan deze dieren ontsnappen door naar binnen of achter een muur te verplaatsen. Maar ze zullen op je wachten.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Taken tabblad</BillsTab.label>

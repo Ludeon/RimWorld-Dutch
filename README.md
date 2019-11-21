@@ -68,6 +68,7 @@ Verder zijn de strings nog niet vertaald. De Engelse versies zijn gekopieerd, om
 - ILxCAPO
 - Sjohn21
 - Bas-Korver
+- Gleb-spa
 
 **Inactive (for more than a year)**
 - datdenkikniet

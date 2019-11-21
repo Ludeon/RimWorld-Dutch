@@ -25,7 +25,7 @@
     <!-- EN: orphan -->
     <titleShort>Wees</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>Achter gelaten bij de geboorte, starte de jonge [PAWN_nameDef] [PAWN_possessive] even in een weeshuis.\n\nAls ene echt boefje werd [PAWN_pronoun] een slimme onruststoker.</desc>
+    <desc>Achter gelaten bij de geboorte, starte de jonge [PAWN_nameDef] [PAWN_possessive] even in een weeshuis.\n\nAls een echt boefje werd [PAWN_pronoun] een slimme onruststoker.</desc>
   </AbandonedOrphan61>
   
   <Abductee43>
@@ -43,7 +43,7 @@
     <!-- EN: abductee -->
     <titleShort>Ontvoeringsslachtoffer</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand his genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for his captors and eventually escaped. -->
-    <desc>[PAWN_nameDef] werd ontvoerd door xenomensen toen [PAWN_pronoun] nog een baby was. Ze experimenteerden op [PAWN_objective] om zijn genetische structuur te begrijpen.\n\nToen [PAWN_pronoun] opgroeide, werd [PAWN_nameDef] iets te groot en te sterk voor zijn gijzelnemers en ontsnapte uiteindelijk.</desc>
+    <desc>[PAWN_nameDef] werd ontvoerd door xenomensen toen [PAWN_pronoun] nog een baby was. Ze experimenteerden op [PAWN_objective] om [PAWN_pronoun] genetische structuur te begrijpen.\n\nToen [PAWN_pronoun] opgroeide, werd [PAWN_nameDef] iets te groot en te sterk voor [PAWN_pronoun] gijzelnemers en ontsnapte uiteindelijk.</desc>
   </Abductee80>
   
   <AcademyStudent80>
@@ -111,119 +111,119 @@
   
   <AdventuringChild56>
     <!-- EN: adventuring child -->
-    <title>TODO</title>
+    <title>Avontuurlijk kind</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Avonturier</titleShort>
     <!-- EN: Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] werd opgevoed om een ingenieur te worden. Jarenlang was [PAWN_pronoun] van plan om zich te verstoppen op een vrachtschip en een nieuw leven vol avontuur te beginnen.\n\nOp een nacht, terwijl [PAWN_possessive] ouders sliepen wist [PAWN_pronoun] aan boord te sluipen van een vrachtschip net voor het de haven verliet. </desc>
   </AdventuringChild56>
   
   <AdventurousWeirdo83>
     <!-- EN: adventurous weirdo -->
-    <title>TODO</title>
+    <title>Zonderlinge avonturier</title>
     <!-- EN: weirdo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Zonderling</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated his life to his twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>TODO</desc>
+    <desc>Een creatief maar zonderling individueel, [PAWN_nameDef] wijdde [PAWN_possessive] leven toe aan [PAWN_possessive] twee passies: middeleeuwse wereldgeschiedenis en hoogwaardige technologie.\n\n[PAWN_pronoun] was gefascineerd door het idee om een 'hemelridder' te worden met glinsterend pantser en een gigantisch zwaard.</desc>
   </AdventurousWeirdo83>
   
   <AdventurousYouth79>
     <!-- EN: adventurous youth -->
-    <title>TODO</title>
+    <title>Avontuurlijke jeugd</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Avonturier</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring his teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] verkende het hele landgoed van zijn ouders. [PAWN_pronoun] ontdekte kleine wonders der natuur die waren verborgen in dichtbijzijnde catacomben, rivieren en grotten.\n\nGedurende [PAWN_pronoun] tienerjaren maakte [PAWN_nameDef] talrijke vijanden.</desc>
   </AdventurousYouth79>
   
   <AerospaceEngineer44>
     <!-- EN: aerospace engineer -->
-    <title>TODO</title>
+    <title>Lucht- en ruimtevaar ingenieur</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Ingenieur</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was een ingenieur verantwoordelijk voor de productie van vliegtuigen en ruimteschepen. [PAWN_pronoun] was gericht op het verbeteren van de productielijnen en stond bekend voor [PAWN_possessive] meesterschap over techniche en onderzoeks problemen.</desc>
   </AerospaceEngineer44>
   
   <AIProgrammer5>
     <!-- EN: aI programmer -->
-    <title>TODO</title>
+    <title>AI programmeur</title>
     <!-- EN: programmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Programmeur</titleShort>
     <!-- EN: Michael enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was aangeworven in de robotica divisie van het leger, [PAWN_pronoun] ontwikkelde slimmere gevechts AI.\n\nGedurende de hele periode dat [PAWN_pronoun] daar was sprak [PAWN_pronoun] nooit met andere mensen. [PAWN_pronoun] converseerde de hele tijd met de AI die [PAWN_pronoun] aan het ontwikkelen was.</desc>
   </AIProgrammer5>
   
   <AIResearcher30>
     <!-- EN: aI researcher -->
-    <title>TODO</title>
+    <title>AI onderzoeker</title>
     <!-- EN: researcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Onderzoeker</titleShort>
     <!-- EN: Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was een befaamde onderzoeker in kunstmatige intelligentie, robots en interactieve holografie. [PAWN_possessive] vriendschappen met de kunstmatige zielen die hij creëerde gaven [PAWN_objective] het vertrouwen om te communiceren met echte mensen. [PAWN_pronoun] blonk snel uit in persoonlijke communicatie.</desc>
   </AIResearcher30>
   
   <AlcoholicTrucker58>
     <!-- EN: alcoholic trucker -->
-    <title>TODO</title>
+    <title>Alcoholische vrachtwagenchauffeur</title>
     <!-- EN: alcoholic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Alcoholist</titleShort>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.\n\nHis body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was een ruimtevrachtwagenchauffeur in dienst van Arcknight Industries toen [PAWN_pronoun] [PAWN_possessive] vrouw en kinderen vermoordde in een ongeval.\n\n[PAWN_possessive] lichaam werd gerepareerd met een experimentele nano-genetica behandeling. Nu regenereren en verharden [PAWN_possessive] spieren voortdurend en elke beweging zorgt dat het weefsel opnieuw scheurt. [PAWN_pronoun] verduurd de pijn in stilte.</desc>
   </AlcoholicTrucker58>
   
   <AmateurAstronomer86>
     <!-- EN: amateur astronomer -->
-    <title>TODO</title>
+    <title>Astronomie liefhebber</title>
     <!-- EN: astronomer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Astronoom</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through his telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was gefascineerd door astronomy. [PAWN_pronoun] staarde uren naar planeten en nevels door [PAWN_possessive] telescoop.\n\nDe ontdekking van een kleine komeet die jaren later een nabijgelegen maan zou treffen en de mijnbouwactiviteiten daar zou verstoren is aan [PAWN_objective] toegeschreven.</desc>
   </AmateurAstronomer86>
   
   <AmateurBotanist14>
     <!-- EN: amateur botanist -->
-    <title>TODO</title>
+    <title>Amateur plantenkenner</title>
     <!-- EN: botanist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Plantenkenner</titleShort>
     <!-- EN: Spending many summers crawling through dirt, Christian found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] kroop vele zomers door de aarde en ontdekte dat [PAWN_pronoun] behoorlijk groene vingers had. In plaats van te leren het gekweekte eten te koken kweekte [PAWN_pronoun] steeds meer.</desc>
   </AmateurBotanist14>
   
   <AmateurEngineer34>
     <!-- EN: amateur engineer -->
-    <title>TODO</title>
+    <title>Amateur ingenieur</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Ingenieur</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but his father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead him to a life of galactic exploration. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] groeide op in een familie met een militaire en ingenieurs achtergrond. [PAWN_pronoun] wilde in het leger gaan maar [PAWN_possessive] vader vond dit een slecht idee, hierdoor richtte [PAWN_possessive] interesse zich op grote vliegende machines en ingenieurswerk. [PAWN_pronoun] hoopte stiekem dat dit [PAWN_objective] op een dag zou leiden naar het leven van een galactisch verkennner.</desc>
   </AmateurEngineer34>
   
   <AnarchistRebel83>
     <!-- EN: anarchist rebel -->
-    <title>TODO</title>
+    <title>Anarchistische rebel</title>
     <!-- EN: anarchist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Anarchist</titleShort>
     <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down core world governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
-    <desc>TODO</desc>
+    <desc>Nadat [PAWN_pronoun] was achtergelaten tijdens een speciale operatie zwoer [PAWN_nameDef] dat [PAWN_pronoun] wraak zou nemen op de staat. [PAWN_pronoun] vormde een anarchistische groepering toegewijd tot de ondergang van de overheden van de kernwerelden.\n\nNa te vaak op het nippertje te zijn ontsnapt and te weinig successen vluchtte [PAWN_nameDef] naar de buitenste rand.</desc>
   </AnarchistRebel83>
   
   <AngryStudent84>
     <!-- EN: angry student -->
-    <title>TODO</title>
+    <title>Verbolgen student</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Student</titleShort>
     <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for his hometown's local council.\n\nFor reasons he never quite understood, [PAWN_pronoun] was bullied relentlessly by his classmates. [PAWN_pronoun] chose to repress his rage. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] trainde voor [PAWN_possessive] droom om te werken voor de lokale raad van [PAWN_possessive] geboortestad.\n\nOm redenen die [PAWN_pronoun] niet volledig begreep werd [PAWN_pronoun] medogenloos gepest door [PAWN_possessive] klasgenoten</desc>
   </AngryStudent84>
   
   <AnimalCaretaker20>
     <!-- EN: animal caretaker -->
-    <title>TODO</title>
+    <title>Dierenverzorger</title>
     <!-- EN: caretaker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Verzorger</titleShort>
     <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
-    <desc>TODO</desc>
+    <desc>Geboren op een middeleeuwse boerderij, [PAWN_nameDef] was belast met de verzorging van de dieren. [PAWN_pronoun] is hun gaan houden.\n\nNa verloop van tijd leerde [PAWN_pronoun] wilde dieren temmen. [PAWN_pronoun] droomde ervan om op een dag een thrumbo te ontmoeten en te temmen.</desc>
   </AnimalCaretaker20>
   
   <AnimalLabTech39>

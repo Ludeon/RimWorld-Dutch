@@ -37,7 +37,7 @@ Dit is de data voor nederlandse vertaling voor Rimworld.
 Zie deze pagina voor licentie-informatie::
 http://ludeon.com/forums/index.php?topic=2933.0
 
-**Status 01-05-2019**
+**Status 21-11-2019**
 
 Huidige build versie 1.0.2231
 

@@ -12,13 +12,13 @@
   <Flame.deathMessage>{0} is verbrand.</Flame.deathMessage>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>Kou</Frostbite.label>
+  <Frostbite.label>Bevriezing</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0} is omgekomen door de kou.</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} is omgekomen door bevriezing.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>TODO</TornadoScratch.label>
+  <TornadoScratch.label>Schram</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} is omgekomen in een tornado.</TornadoScratch.deathMessage>
   
 </LanguageData>

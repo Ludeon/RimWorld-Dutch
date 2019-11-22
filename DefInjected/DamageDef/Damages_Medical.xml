@@ -4,7 +4,7 @@
   <!-- EN: execution cut -->
   <ExecutionCut.label>Executie</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>{0} is ge�xecuteerd</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} is geëxecuteerd</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>chirurgische ingreep</SurgicalCut.label>

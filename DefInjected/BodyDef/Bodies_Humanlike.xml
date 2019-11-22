@@ -82,7 +82,7 @@
   <!-- EN: left big toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>linker grote teen</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
-  <Human.corePart.parts.right_leg.customLabel>rechter arm</Human.corePart.parts.right_leg.customLabel>
+  <Human.corePart.parts.right_leg.customLabel>rechter been</Human.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
   <Human.corePart.parts.right_leg.parts.right_femur.customLabel>rechter dijbeen</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->

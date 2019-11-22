@@ -22,9 +22,9 @@
   <Cut.deathMessage>{0} is gestorven aan snijwonden.</Cut.deathMessage>
   
   <!-- EN: blunt -->
-  <Poke.label>TODO</Poke.label>
+  <Poke.label>Slag</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Poke.deathMessage>TODO</Poke.deathMessage>
+  <Poke.deathMessage>{0} is doodgeslagen</Poke.deathMessage>
   
   <!-- EN: scratch -->
   <Scratch.label>Schram</Scratch.label>
@@ -37,8 +37,8 @@
   <Stab.deathMessage>{0} is doodgestoken.</Stab.deathMessage>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>TODO</ToxicBite.label>
+  <ToxicBite.label>Giftige beet</ToxicBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <ToxicBite.deathMessage>TODO</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>{0} is overleden aan een giftige beet.</ToxicBite.deathMessage>
   
 </LanguageData>

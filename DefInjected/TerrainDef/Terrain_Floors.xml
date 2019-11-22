@@ -7,14 +7,14 @@
   <CarpetBlue.description>Hoogpolig tapijt in een koele blauwe kleur.</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
-  <CarpetCream.label>TODO</CarpetCream.label>
+  <CarpetCream.label>Crème tapijt</CarpetCream.label>
   <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>TODO</CarpetCream.description>
+  <CarpetCream.description>Tapijt in een uitnodigende crème kleur.</CarpetCream.description>
   
   <!-- EN: dark carpet -->
-  <CarpetDark.label>TODO</CarpetDark.label>
+  <CarpetDark.label>Donker tapijt</CarpetDark.label>
   <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>TODO</CarpetDark.description>
+  <CarpetDark.description>Professioneel ogend donkergrijs tapijt.</CarpetDark.description>
   
   <!-- EN: green carpet -->
   <CarpetGreen.label>Groen tapijt</CarpetGreen.label>
@@ -32,33 +32,33 @@
   <Concrete.description>Snel gestort beton. Snel om op te lopen, maar heel lelijk. Je moet in staat zijn om te graven in de grond om deze te kunnen gieten.</Concrete.description>
   
   <!-- EN: gold tile -->
-  <GoldTile.label>TODO</GoldTile.label>
+  <GoldTile.label>Gouden tegel</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>TODO</GoldTile.description>
+  <GoldTile.description>Voor overdreven buitensporigheid gaat er niets boven gouden tegels. Deze zijn uitzonderlijk duur en uitzonderlijk mooi en mensen zullen denken dat je uitzonderlijk snobistisch bent als je er echt op woont.</GoldTile.description>
   
   <!-- EN: metal tile -->
   <MetalTile.label>Metalen tegel</MetalTile.label>
   <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Metalen tegels, voor dat ruimteschip look.</MetalTile.description>
+  <MetalTile.description>Metalen tegels, net zoals in een ruimteschip. Deze gladde tegels zijn mooi en geven een bonus aan de properheid</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>Beton platen</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Utilitair betontegels. Snel om op te bewegen, maar niet erg mooi.</PavedTile.description>
+  <PavedTile.description>Utilitaire betontegels. Snel om op te bewegen, maar niet erg mooi.</PavedTile.description>
   
   <!-- EN: silver tile -->
-  <SilverTile.label>TODO</SilverTile.label>
+  <SilverTile.label>Zilveren tegel</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>TODO</SilverTile.description>
+  <SilverTile.description>Futuristisch en vorstelijk, zilveren tegels passen perfect in luxueuze kamers. Deze geven een bonus aan de properheid.</SilverTile.description>
   
   <!-- EN: sterile tile -->
-  <SterileTile.label>TODO</SterileTile.label>
+  <SterileTile.label>Steriele tegel</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>TODO</SterileTile.description>
+  <SterileTile.description>Steriele tegels met properheid bevorderende eigenschappen. Zeer propere kamers zorgen voor betere resultaten in ziekenhuizen en onderzoekslaboratoria. Deze tegel bouwen neemt veel tijd in beslag.</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>Houten vloer</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>Houten plankenvloeren. Maak een gezellige en huiselijke ruimte.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Houten plankenvloeren. Maak een gezellige en huiselijke ruimte. Snel aan te leggen maar zeer brandbaar.</WoodPlankFloor.description>
   
 </LanguageData>

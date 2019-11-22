@@ -2,54 +2,54 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>aurora</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>TODO</Aurora.description>
+  <Aurora.description>De hemel word verlicht door een aurora. Iedereen die buiten is ziet de aurora en zal in een verbeterde stemming zijn</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>TODO</Aurora.endMessage>
+  <Aurora.endMessage>De aurora is afgelopen</Aurora.endMessage>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>TODO</ClimateCycle.label>
+  <ClimateCycle.label>klimaatcyclus</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>TODO</ClimateCycle.description>
+  <ClimateCycle.description>Een klimaatcyclus over meerdere jaren door de elliptische baan van de planeet.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>TODO</ColdSnap.label>
+  <ColdSnap.label>koudegolf</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>TODO</ColdSnap.description>
+  <ColdSnap.description>Dit gebied is in de greep van een ongebruikelijke koudegolf.</ColdSnap.description>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>TODO</ColdSnap.endMessage>
+  <ColdSnap.endMessage>De koudegolf is afgelopen.</ColdSnap.endMessage>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>TODO</Eclipse.label>
+  <Eclipse.label>zonsverduistering</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>TODO</Eclipse.description>
+  <Eclipse.description>De oppervlakte van de planeet staat in het donker door een zonsverduistering. Zelfs overdag zal het donker zijn.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
-  <Eclipse.endMessage>TODO</Eclipse.endMessage>
+  <Eclipse.endMessage>De zonsverduistering is afgelopen.</Eclipse.endMessage>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>flitsstorm</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>TODO</Flashstorm.description>
+  <Flashstorm.description>Een vreemde storm treft een klein gebied herhaaldelijk met bliksem.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>TODO</Flashstorm.endMessage>
+  <Flashstorm.endMessage>De flitsstorm is afgelopen.</Flashstorm.endMessage>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>TODO</HeatWave.label>
+  <HeatWave.label>hittegolf</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>TODO</HeatWave.description>
+  <HeatWave.description>De regio wordt geteisterd door een extreme hittegolf.</HeatWave.description>
   <!-- EN: The heat wave is over. -->
-  <HeatWave.endMessage>TODO</HeatWave.endMessage>
+  <HeatWave.endMessage>De hittegolf is afgelopen.</HeatWave.endMessage>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>TODO</Planetkiller.label>
+  <Planetkiller.label>planeet verwoester</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>TODO</Planetkiller.description>
+  <Planetkiller.description>Een interstellair, planeetverwoestend wapen is onderweg naar deze planeet. Bij de inslag zal deze wereld aan stukken worden geslagen waarbij al het leven omkomt.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>TODO</PsychicDrone.label>
+  <PsychicDrone.label>psychisch gedreun</PsychicDrone.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
-  <PsychicDrone.description>TODO</PsychicDrone.description>
+  <PsychicDrone.description>Een krachtige AI stuurt vanop lange afstand een </PsychicDrone.description>
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>TODO</PsychicDrone.endMessage>
   

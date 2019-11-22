@@ -8,7 +8,7 @@
   <Clavicle.label>sleutelbeen</Clavicle.label>
   
   <!-- EN: femur -->
-  <Femur.label>fijbeen</Femur.label>
+  <Femur.label>dijbeen</Femur.label>
   
   <!-- EN: finger -->
   <Finger.label>vinger</Finger.label>
@@ -38,7 +38,7 @@
   <Toe.label>teen</Toe.label>
   
   <!-- EN: torso -->
-  <Torso.label>tomp</Torso.label>
+  <Torso.label>romp</Torso.label>
   
   <!-- EN: waist -->
   <Waist.label>heup</Waist.label>

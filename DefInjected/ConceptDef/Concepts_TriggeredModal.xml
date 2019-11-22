@@ -7,18 +7,18 @@
   <ArrestingCreatesEnemies.helpText>De persoon die je probeert te arresteren</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>TODO</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>Maximum aantal speler kolonies</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
-  <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>RimWorld is ontworpen om gespeeld te worden door één speler met één kolonie per keer. Hoewel het mogelijk is om met meerdere kolonies te spelen zal dit waarschijnlijk prestatie- en balansproblemen opleveren. Wij raden aan dat je op zen minst in het begin het spel met maximum één kolonie speelt.</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
-  <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.label>Omschakel toewijzing is slechts een toewijzing </SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>TODO</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>Dit geeft enkel aan dat een kolonist de schakelaar moet komen aan- of uitzetten.\n\nEr gebeurt niets tot een kolonist zelf de schakelaar komt omzetten.</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
-  <TradeGoodsMustBeNearBeacon.label>TODO</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.label>Handelsbakens en goederen verhandelen</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <TradeGoodsMustBeNearBeacon.helpText>TODO</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.helpText>Om goederen of zilver te sturen naar orbitale handelschepen moet je een ORBITAAL HANDELSBAKEN bouwen en er een opslagzone dichtbij zetten.</TradeGoodsMustBeNearBeacon.helpText>
   
 </LanguageData>

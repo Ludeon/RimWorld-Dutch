@@ -7,9 +7,9 @@
   <Arrow.deathMessage>{0} is doodgeschoten.</Arrow.deathMessage>
   
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>TODO</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>Pijl</ArrowHighVelocity.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <ArrowHighVelocity.deathMessage>TODO</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0} is doodgeschoten.</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
   <Bullet.label>Kogel</Bullet.label>
@@ -17,8 +17,8 @@
   <Bullet.deathMessage>{0} is doodgeschoten.</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>TODO</RangedStab.label>
+  <RangedStab.label>Steek</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>TODO</RangedStab.deathMessage>
+  <RangedStab.deathMessage>{0} is doodgestoken</RangedStab.deathMessage>
   
 </LanguageData>

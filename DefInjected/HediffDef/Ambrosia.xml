@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: ambrosia addiction -->
-  <AmbrosiaAddiction.label>TODO</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.label>ambrosia verslaving</AmbrosiaAddiction.label>
   <!-- EN: withdrawal -->
-  <AmbrosiaAddiction.stages.withdrawal.label>TODO</AmbrosiaAddiction.stages.withdrawal.label>
+  <AmbrosiaAddiction.stages.withdrawal.label>ontwenning</AmbrosiaAddiction.stages.withdrawal.label>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.label>TODO</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>ambrosia warmtegevoel</AmbrosiaHigh.label>
   
   <!-- EN: ambrosia tolerance -->
-  <AmbrosiaTolerance.label>TODO</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.label>ambrosia tolerantie</AmbrosiaTolerance.label>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small-0.label>TODO</AmbrosiaTolerance.stages.small-0.label>
+  <AmbrosiaTolerance.stages.small-0.label>kleinschalig</AmbrosiaTolerance.stages.small-0.label>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small-1.label>TODO</AmbrosiaTolerance.stages.small-1.label>
+  <AmbrosiaTolerance.stages.small-1.label>kleinschalig</AmbrosiaTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <AmbrosiaTolerance.stages.large.label>TODO</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.large.label>grootschalig</AmbrosiaTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AmbrosiaTolerance.stages.massive.label>TODO</AmbrosiaTolerance.stages.massive.label>
+  <AmbrosiaTolerance.stages.massive.label>gigantisch</AmbrosiaTolerance.stages.massive.label>
   
 </LanguageData>

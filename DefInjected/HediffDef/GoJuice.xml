@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: go-juice addiction -->
-  <GoJuiceAddiction.label>TODO</GoJuiceAddiction.label>
+  <GoJuiceAddiction.label>go-sap verslaving</GoJuiceAddiction.label>
   <!-- EN: withdrawal -->
-  <GoJuiceAddiction.stages.withdrawal.label>TODO</GoJuiceAddiction.stages.withdrawal.label>
+  <GoJuiceAddiction.stages.withdrawal.label>ontwenning</GoJuiceAddiction.stages.withdrawal.label>
   
   <!-- EN: high on go-juice -->
-  <GoJuiceHigh.label>TODO</GoJuiceHigh.label>
+  <GoJuiceHigh.label>high van go-sap</GoJuiceHigh.label>
   <!-- EN: a go-juice high -->
-  <GoJuiceHigh.labelNoun>TODO</GoJuiceHigh.labelNoun>
+  <GoJuiceHigh.labelNoun>een go-sap high</GoJuiceHigh.labelNoun>
   
   <!-- EN: go-juice tolerance -->
-  <GoJuiceTolerance.label>TODO</GoJuiceTolerance.label>
+  <GoJuiceTolerance.label>go-sap tolerantie</GoJuiceTolerance.label>
   <!-- EN: small -->
-  <GoJuiceTolerance.stages.small-0.label>TODO</GoJuiceTolerance.stages.small-0.label>
+  <GoJuiceTolerance.stages.small-0.label>kleinschalig</GoJuiceTolerance.stages.small-0.label>
   <!-- EN: small -->
-  <GoJuiceTolerance.stages.small-1.label>TODO</GoJuiceTolerance.stages.small-1.label>
+  <GoJuiceTolerance.stages.small-1.label>kleinschalig</GoJuiceTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <GoJuiceTolerance.stages.large.label>TODO</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.large.label>grootschalig</GoJuiceTolerance.stages.large.label>
   <!-- EN: massive -->
-  <GoJuiceTolerance.stages.massive.label>TODO</GoJuiceTolerance.stages.massive.label>
+  <GoJuiceTolerance.stages.massive.label>gigantisch</GoJuiceTolerance.stages.massive.label>
   
 </LanguageData>

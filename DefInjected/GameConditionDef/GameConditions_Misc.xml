@@ -49,36 +49,36 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>psychisch gedreun</PsychicDrone.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
-  <PsychicDrone.description>Een krachtige AI stuurt vanop lange afstand een </PsychicDrone.description>
+  <PsychicDrone.description>Krachtige psychische golven die mensen langzaam krankzinnig maken. Deze worden van op lange afstand uitgezonden door een AI.</PsychicDrone.description>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>TODO</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>Het psychisch gedreun is afgelopen.</PsychicDrone.endMessage>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>TODO</PsychicSoothe.label>
+  <PsychicSoothe.label>psychische kalmte</PsychicSoothe.label>
   <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>TODO</PsychicSoothe.description>
+  <PsychicSoothe.description>Krachtige psychische golven die mensen hun ziel sussen en hun humeur verbeteren. Deze worden van op lange afstand uitgezonden door een AI.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>TODO</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>De psychische kalmte is afgelopen.</PsychicSoothe.endMessage>
   
   <!-- EN: solar flare -->
-  <SolarFlare.label>TODO</SolarFlare.label>
+  <SolarFlare.label>zonnevlam</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
-  <SolarFlare.description>TODO</SolarFlare.description>
+  <SolarFlare.description>De planeet wordt getroffen door een zonnevlam. De sterke elektromagnetische storingen zorgen dat elektrische apparatuur niet meer werkt.</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
-  <SolarFlare.endMessage>TODO</SolarFlare.endMessage>
+  <SolarFlare.endMessage>De zonnevlam is afgelopen.</SolarFlare.endMessage>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>giftige neerslag</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>TODO</ToxicFallout.description>
+  <ToxicFallout.description>Wolken vol giftige stoffen verzamelen zich boven dit gebied. Iedereen die buiten is zal langzaam vergiftigd worden. Spullen die buiten liggen worden ook aangetast.</ToxicFallout.description>
   <!-- EN: The worst of the toxic fallout has settled. -->
-  <ToxicFallout.endMessage>TODO</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>De meeste giftige neerslag is gevallen.</ToxicFallout.endMessage>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>vulkanische winter</VolcanicWinter.label>
   <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>TODO</VolcanicWinter.description>
+  <VolcanicWinter.description>Een verafgelegen vulkaan heeft de atmosfeer vol vulkanische deeltjes en assen gespuwd. Er komt veel minder zonlicht tot aan de oppervlakte en het zal wat kouder zijn.</VolcanicWinter.description>
   <!-- EN: Most of the volcanic ash has settled. -->
-  <VolcanicWinter.endMessage>TODO</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>De vulkanische winter is afgelopen.</VolcanicWinter.endMessage>
   
 </LanguageData>

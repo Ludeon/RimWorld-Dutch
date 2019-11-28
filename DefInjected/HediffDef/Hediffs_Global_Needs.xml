@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: malnutrition -->
-  <Malnutrition.label>TODO</Malnutrition.label>
+  <Malnutrition.label>uithongering</Malnutrition.label>
   <!-- EN: trivial -->
-  <Malnutrition.stages.trivial.label>TODO</Malnutrition.stages.trivial.label>
+  <Malnutrition.stages.trivial.label>miniem</Malnutrition.stages.trivial.label>
   <!-- EN: minor -->
-  <Malnutrition.stages.minor.label>TODO</Malnutrition.stages.minor.label>
+  <Malnutrition.stages.minor.label>klein</Malnutrition.stages.minor.label>
   <!-- EN: moderate -->
-  <Malnutrition.stages.moderate.label>TODO</Malnutrition.stages.moderate.label>
+  <Malnutrition.stages.moderate.label>matig</Malnutrition.stages.moderate.label>
   <!-- EN: severe -->
-  <Malnutrition.stages.severe.label>TODO</Malnutrition.stages.severe.label>
+  <Malnutrition.stages.severe.label>ernstig</Malnutrition.stages.severe.label>
   <!-- EN: extreme -->
-  <Malnutrition.stages.extreme.label>TODO</Malnutrition.stages.extreme.label>
+  <Malnutrition.stages.extreme.label>extreem</Malnutrition.stages.extreme.label>
   
 </LanguageData>

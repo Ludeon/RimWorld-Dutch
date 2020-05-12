@@ -8,8 +8,8 @@
   
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Maximum aantal speler kolonies</MaxNumberOfPlayerSettlements.label>
-  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
-  <MaxNumberOfPlayerSettlements.helpText>RimWorld is ontworpen om gespeeld te worden door één speler met één kolonie per keer. Hoewel het mogelijk is om met meerdere kolonies te spelen zal dit waarschijnlijk prestatie- en balansproblemen opleveren. Wij raden aan dat je op zen minst in het begin het spel met maximum één kolonie speelt.</MaxNumberOfPlayerSettlements.helpText>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\n  Playing with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\n  We recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>Waarschuwing: RimWorld is ontworpen om gespeeld te worden door één speler met één kolonie per keer. Meerdere kolonies toestaan is een experimentele testfunctionaliteit.\n\nHet spelen met meerdere kolonies te zal je aandacht opslitsen en daarnaast waarschijnlijk prestatie- en balansproblemen veroorzaken.\n\nWij raden aan dat je in ieder geval als beginner het spel met maximum één kolonie speelt, zoals het is bedoeld.</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>Omschakel toewijzing is slechts een toewijzing </SwitchFlickingDesignation.label>
@@ -20,5 +20,10 @@
   <TradeGoodsMustBeNearBeacon.label>Handelsbakens en goederen verhandelen</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
   <TradeGoodsMustBeNearBeacon.helpText>Om goederen of zilver te sturen naar orbitale handelschepen moet je een ORBITAAL HANDELSBAKEN bouwen en er een opslagzone dichtbij zetten.</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>TODO</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>TODO</TradingRequiresPermit.helpText>
   
 </LanguageData>

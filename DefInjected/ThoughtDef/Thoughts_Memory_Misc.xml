@@ -43,10 +43,20 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
+  <!-- EN: defeated mech cluster -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <!-- EN: Blood beats metal, you damn machines! -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  <!-- EN: freed from slavery -->
+  <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
+  <!-- EN: I have been freed from slavery. I'm so thankful! -->
+  <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>TODO</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -75,10 +85,10 @@
   
   <KnowPrisonerSold.label>Een gevangene is verkocht</KnowPrisonerSold.label>
   <KnowPrisonerSold.description>Onze kolonie heeft een gevangene verkocht. Die gedachte is zorgwekkend.</KnowPrisonerSold.description>
-  <!-- EN: a prisoner was sold -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>TODO</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: prisoner sold -->
+  <KnowPrisonerSold.stages.prisoner_sold.label>Een gevangene is verkocht</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>TODO</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  <KnowPrisonerSold.stages.prisoner_sold.description>Deze kolonie heeft een gevangene als slaaf verkocht. Die gedachte is zorgwekkend.</KnowPrisonerSold.stages.prisoner_sold.description>
   
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>TODO</MyOrganHarvested.stages.my_organ_harvested.label>
@@ -88,40 +98,45 @@
   <NewColonyHope.label>Nieuwe-kolonie-hoop</NewColonyHope.label>
   <NewColonyHope.description>Ik wen langzaam aan onze situatie, maar het is nog steeds vreemd. Ik hoop dat het zal werken...</NewColonyHope.description>
   <!-- EN: initial hope -->
-  <NewColonyHope.stages.initial_hope.label>TODO</NewColonyHope.stages.initial_hope.label>
+  <NewColonyHope.stages.initial_hope.label>Nieuwe-kolonie-hoop</NewColonyHope.stages.initial_hope.label>
   <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
-  <NewColonyHope.stages.initial_hope.description>TODO</NewColonyHope.stages.initial_hope.description>
+  <NewColonyHope.stages.initial_hope.description>Ik wen langzaam aan onze situatie, maar het is nog steeds vreemd. Ik hoop dat het zal werken...</NewColonyHope.stages.initial_hope.description>
   
-  <NewColonyOptimism.label>Niuewe-kolonie-optimisme</NewColonyOptimism.label>
+  <NewColonyOptimism.label>Nieuwe-kolonie-optimisme</NewColonyOptimism.label>
   <NewColonyOptimism.description>We zijn hier nu geland. Het is een lastige situatie, maar ik ben blij dat we een nieuwe kolonie hebben kunnen stichten.</NewColonyOptimism.description>
   <!-- EN: initial optimism -->
-  <NewColonyOptimism.stages.initial_optimism.label>TODO</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.label>Nieuwe-kolonie-optimisme</NewColonyOptimism.stages.initial_optimism.label>
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
-  <NewColonyOptimism.stages.initial_optimism.description>TODO</NewColonyOptimism.stages.initial_optimism.description>
+  <NewColonyOptimism.stages.initial_optimism.description>We zijn hier nu geland. Het is een lastige situatie, maar ik ben blij dat we een nieuwe kolonie hebben kunnen stichten.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
   <Nuzzled.stages.nuzzled.label>TODO</Nuzzled.stages.nuzzled.label>
   <!-- EN: A cute animal nuzzled me. -->
   <Nuzzled.stages.nuzzled.description>TODO</Nuzzled.stages.nuzzled.description>
   
-  <ObservedLayingCorpse.label>Lichaam gezien</ObservedLayingCorpse.label>
-  <ObservedLayingCorpse.description>Ik heb een dood lichaam op de grond zien liggen.</ObservedLayingCorpse.description>
+  <ObservedLayingCorpse.label>Lijk gezien</ObservedLayingCorpse.label>
+  <ObservedLayingCorpse.description>Ik heb een lijk op de grond zien liggen.</ObservedLayingCorpse.description>
   <!-- EN: observed corpse -->
-  <ObservedLayingCorpse.stages.observed_corpse.label>TODO</ObservedLayingCorpse.stages.observed_corpse.label>
+  <ObservedLayingCorpse.stages.observed_corpse.label>Lijk gezien</ObservedLayingCorpse.stages.observed_corpse.label>
   <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
-  <ObservedLayingCorpse.stages.observed_corpse.description>TODO</ObservedLayingCorpse.stages.observed_corpse.description>
+  <ObservedLayingCorpse.stages.observed_corpse.description>Ik heb een lijk op de grond zien liggen. Het was verontrustend.</ObservedLayingCorpse.stages.observed_corpse.description>
   
-  <ObservedLayingRottingCorpse.label>Rottend lichaam gezien</ObservedLayingRottingCorpse.label>
-  <ObservedLayingRottingCorpse.description>Ik heb een verrot lichaam op de grond zien liggen. Het was akelig.</ObservedLayingRottingCorpse.description>
+  <ObservedLayingRottingCorpse.label>Rottend lijk gezien</ObservedLayingRottingCorpse.label>
+  <ObservedLayingRottingCorpse.description>Ik heb een rottend lijk op de grond zien liggen. Het was akelig.</ObservedLayingRottingCorpse.description>
   <!-- EN: observed rotting corpse -->
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>TODO</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>Rottend lijk gezien</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>TODO</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Ik heb een rottend lijk op de grond zien liggen. Het was akelig.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: prisoner released -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>TODO</ReleasedHealthyPrisoner.stages.prisoner_released.description>
   
   <!-- EN: rescued -->
   <Rescued.stages.rescued.label>TODO</Rescued.stages.rescued.label>
@@ -139,11 +154,11 @@
   <SleepDisturbed.stages.disturbed_sleep.description>TODO</SleepDisturbed.stages.disturbed_sleep.description>
   
   <SleptInCold.label>In de kou geslapen</SleptInCold.label>
-  <SleptInCold.description>Ik heb in de kou geslapen. We hebben echt een verwarming nodig</SleptInCold.description>
+  <SleptInCold.description>Ik heb in de kou geslapen. We hebben echt verwarming nodig</SleptInCold.description>
   <!-- EN: slept in the cold -->
-  <SleptInCold.stages.slept_in_the_cold.label>TODO</SleptInCold.stages.slept_in_the_cold.label>
+  <SleptInCold.stages.slept_in_the_cold.label>In de kou geslapen</SleptInCold.stages.slept_in_the_cold.label>
   <!-- EN: I had to sleep in the cold. We really need some heaters. -->
-  <SleptInCold.stages.slept_in_the_cold.description>TODO</SleptInCold.stages.slept_in_the_cold.description>
+  <SleptInCold.stages.slept_in_the_cold.description>Ik heb in de kou geslapen. We hebben echt verwarming nodig</SleptInCold.stages.slept_in_the_cold.description>
   
   <!-- EN: slept in the heat -->
   <SleptInHeat.stages.slept_in_the_heat.label>TODO</SleptInHeat.stages.slept_in_the_heat.label>
@@ -153,16 +168,16 @@
   <SleptOnGround.label>Op de grond geslapen</SleptOnGround.label>
   <SleptOnGround.description>Ik heb als een dier op de grond geslapen.</SleptOnGround.description>
   <!-- EN: slept on ground -->
-  <SleptOnGround.stages.slept_on_ground.label>TODO</SleptOnGround.stages.slept_on_ground.label>
+  <SleptOnGround.stages.slept_on_ground.label>Op de grond geslapen</SleptOnGround.stages.slept_on_ground.label>
   <!-- EN: I had to sleep on the ground like an animal. -->
-  <SleptOnGround.stages.slept_on_ground.description>TODO</SleptOnGround.stages.slept_on_ground.description>
+  <SleptOnGround.stages.slept_on_ground.description>Ik heb als een dier op de grond geslapen.</SleptOnGround.stages.slept_on_ground.description>
   
   <SleptOutside.label>Buiten geslapen</SleptOutside.label>
   <SleptOutside.description>Ik heb buiten geslapen zonder bescherming van de omgeving.</SleptOutside.description>
   <!-- EN: slept outside -->
-  <SleptOutside.stages.slept_outside.label>TODO</SleptOutside.stages.slept_outside.label>
+  <SleptOutside.stages.slept_outside.label>Buiten geslapen</SleptOutside.stages.slept_outside.label>
   <!-- EN: I had to sleep outdoors without any protection from the elements. -->
-  <SleptOutside.stages.slept_outside.description>TODO</SleptOutside.stages.slept_outside.description>
+  <SleptOutside.stages.slept_outside.description>Ik heb buiten geslapen blootgesteld aan de elementen</SleptOutside.stages.slept_outside.description>
   
   <!-- EN: soaking wet -->
   <SoakingWet.stages.soaking_wet.label>TODO</SoakingWet.stages.soaking_wet.label>
@@ -172,16 +187,16 @@
   <WasImprisoned.label>Was gevangengenomen</WasImprisoned.label>
   <WasImprisoned.description>Ik ben een tijdje gevangengenomen als een opgesloten dier.</WasImprisoned.description>
   <!-- EN: was imprisoned -->
-  <WasImprisoned.stages.was_imprisoned.label>TODO</WasImprisoned.stages.was_imprisoned.label>
+  <WasImprisoned.stages.was_imprisoned.label>Was gevangengenomen</WasImprisoned.stages.was_imprisoned.label>
   <!-- EN: The colony had me in jail for a while, like a caged animal. -->
-  <WasImprisoned.stages.was_imprisoned.description>TODO</WasImprisoned.stages.was_imprisoned.description>
+  <WasImprisoned.stages.was_imprisoned.description>Ik ben een tijdje gevangengenomen als een opgesloten dier.</WasImprisoned.stages.was_imprisoned.description>
   
   <WitnessedDeathAlly.label>Zag bondgenoot sterven</WitnessedDeathAlly.label>
   <WitnessedDeathAlly.description>Ik heb een bondgenoot zien sterven. Het ene moment leefde hij nog, het andere was hij dood.</WitnessedDeathAlly.description>
   <!-- EN: witnessed ally's death -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.label>TODO</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>Zag bondgenoot sterven</WitnessedDeathAlly.stages.witnessed_allys_death.label>
   <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.description>TODO</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Ik heb een bondgenoot zien sterven. Het ene moment leefde hij nog, het andere was hij dood.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
   
   <!-- EN: witnessed death with bloodlust -->
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>TODO</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>

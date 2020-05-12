@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: ancients -->
+  <!-- TODO: Major english changes here -->
+  <!-- EN: neutral ancients -->
   <Ancients.label>Ruimtereiziger</Ancients.label>
   <Ancients.description>Reizigers uit de verste hoeken van de ruimte.</Ancients.description>
   <!-- EN: Ancients -->
@@ -11,7 +11,7 @@
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>Ruimtereizigers</Ancients.pawnsPlural>
   
-  <!-- EN: ancients -->
+  <!-- EN: hostile ancients -->
   <AncientsHostile.label>Ruimtereiziger</AncientsHostile.label>
   <AncientsHostile.description>Reizigers uit de verste hoeken van de ruimte.</AncientsHostile.description>
   <!-- EN: Ancients -->
@@ -24,7 +24,7 @@
   <!-- EN: insects -->
   <Insect.label>Insecten</Insect.label>
   <Insect.description>Agressieve en indringende insecten.</Insect.description>
-  <!-- EN: insects -->
+  <!-- EN: Sorne Geneline -->
   <Insect.fixedName>Insecten</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>TODO</Insect.pawnSingular>
@@ -34,7 +34,6 @@
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>Mechanoide</Mechanoid.label>
   <Mechanoid.description>Een collectief van oude zelf-reproducerende machines.</Mechanoid.description>
-  <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>Een zwerm mechanoiden</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>

@@ -4,15 +4,15 @@
   <!-- EN: butcher creature -->
   <ButcherCorpseFlesh.label>dier slachten</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>Een dier slachten, om het vlees te kunnen gebruiken.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>Een dier slachten om het vlees, leer en andere lichaamsprodukten te kunnen gebruiken.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Slachten.</ButcherCorpseFlesh.jobString>
   
-  <!-- EN: disassemble mechanoid -->
+  <!-- EN: shred mechanoid -->
   <ButcherCorpseMechanoid.label>mechanoide afbreken</ButcherCorpseMechanoid.label>
-  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>Breek een mechanoide af in kleinere, bruikbare delen.</ButcherCorpseMechanoid.description>
-  <!-- EN: Disassembling mechanoid. -->
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Breek een mechanoide af in een poging bruikbare onderdelen te verzamelen.</ButcherCorpseMechanoid.description>
+  <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Mechanoide afbreken.</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>

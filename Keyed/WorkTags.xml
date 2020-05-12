@@ -33,5 +33,11 @@
   <WorkTagPlantWork>Plantwerk</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>Mijnbouw</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
 
 </LanguageData>

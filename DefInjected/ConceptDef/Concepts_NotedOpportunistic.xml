@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Animals don't attack doors -->
-  <AnimalsDontAttackDoors.label>Dieren vallen deuren niet aan</AnimalsDontAttackDoors.label>
-  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
-  <AnimalsDontAttackDoors.helpText>Mens-jagende dieren zullen over het algemeen geen deuren of inactieve geschutskoepels aanvallen.\n\nJe kunt aan deze dieren ontsnappen door naar binnen of achter een muur te verplaatsen. Maar ze zullen op je wachten.</AnimalsDontAttackDoors.helpText>
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>Dieren vallen deuren aan</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>Mens-jagende dieren zullen deuren aanvallen als ze een kolonist naar binnen zien gaan. Ze zullen ook inactieve geschutskoepels aanvallen.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Taken tabblad</BillsTab.label>

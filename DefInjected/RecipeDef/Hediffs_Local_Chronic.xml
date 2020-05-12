@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>tumor uitsnijden</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>Uitnsijden van een tumor.</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>Tumor uitsnijden.</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} heeft succesvol {1}'s tumor weggesneden.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+</LanguageData>

@@ -11,6 +11,11 @@
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
   <Comfort.description>Comfort is verkregen door het zitten of slapen op comfortabele meubels.</Comfort.description>
   
+  <!-- EN: chemical -->
+  <DrugDesire.label>TODO</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>TODO</DrugDesire.description>
+  
   <!-- EN: food -->
   <Food.label>voedsel</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
@@ -23,8 +28,8 @@
   
   <!-- EN: mood -->
   <Mood.label>stemming</Mood.label>
-  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
-  <Mood.description>Stemming representeert hoe blij of gestrest iemand is. Als iemands stemming te laag is kan deze persoon mentaal instorten.</Mood.description>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>Stemming representeert hoe blij of gestrest iemand is. Als iemands stemming te laag is kan deze persoon mentaal instorten. Afhankelijk van hoe slecht zijn stemming is kan het kleine inzinking zijn zoals het zich insluiten op zijn kamer voor een dag, of een grote inzinking waarbij hij volledig door het lint gaat.</Mood.description>
   
   <!-- EN: outdoors -->
   <Outdoors.label>TODO</Outdoors.label>

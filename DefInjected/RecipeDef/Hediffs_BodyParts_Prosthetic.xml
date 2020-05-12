@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>TODO</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>TODO</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>geluksdraad installeren</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>Installeert een geluksdraad.</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>Geluksdraad installeren.</InstallJoywire.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>pijnstopper installeren</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>Installeert een pijnstopper.</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>Pijnstopper installeren.</InstallPainstopper.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>power-claw implanteren.</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>Implanteer een power-claw.</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>Power-claw implanteren.</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>eenvoudige armprothese installeren</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>Installeer een simpele armprothese.</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>Eenvoudige armprothese installeren.</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>eenvoudige beenprothese installeren</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>Installeer een simpele beenprothese.</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>Simpele beenprothese installeren.</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: remove painstopper -->
+  <RemovePainstopper.label>TODO</RemovePainstopper.label>
+  <!-- EN: Remove the painstopper. -->
+  <RemovePainstopper.description>TODO</RemovePainstopper.description>
+  <!-- EN: Removing painstopper. -->
+  <RemovePainstopper.jobString>TODO</RemovePainstopper.jobString>
+  
+</LanguageData>

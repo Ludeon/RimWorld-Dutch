@@ -16,18 +16,28 @@
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Versie {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>TODO</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>ontwikkelaarsversie</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Gecompileerd op {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Aangemeld in Steam als {0}</LoggedIntoSteamAs>
-
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>TODO</ToCommaListAnd>
+  
   <!-- General-use words -->
   <!-- EN: Yes -->
   <Yes>Ja</Yes>
   <!-- EN: No -->
   <No>Nee</No>
+  <!-- EN: new -->
+  <New>TODO</New>
+  <!-- EN: Gender -->
+  <Gender>TODO</Gender>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -42,6 +52,8 @@
   <damage>schade</damage>
   <!-- EN: radius -->
   <radius>radius</radius>
+  <!-- EN: expired -->
+  <expired>TODO</expired>
   <!-- EN: duration (days) -->
   <durationDays>duur (dagen)</durationDays>
   <!-- EN: interval (days) -->
@@ -66,6 +78,10 @@
   <Default>Standaard</Default>
   <!-- EN: Average -->
   <Average>Gemiddeld</Average>
+  <!-- EN: Cause -->
+  <Cause>TODO</Cause>
+  <!-- EN: etc -->
+  <Etc>TODO</Etc>
   <!-- EN: ${0} -->
   <MoneyFormat>€{0}</MoneyFormat>
 
@@ -79,6 +95,16 @@
   <MeatInsectDesc>Rauw geslacht vlees. Indien nodig, kan het gekookt worden tot maaltijden, of zelfs rauw gegeten worden. Uiterst smakelijk.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Rauw geslacht vlees. Kan gekookt worden tot maaltijden of rauw gegeten worden, hoewel de meeste mensen er een hekel aan hebben.</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>TODO</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>TODO</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} (lijk)</CorpseLabel>
@@ -134,5 +160,8 @@
   <West>West</West>
   <!-- EN: East -->
   <East>Zuid</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>TODO</ApplyingTechprint>
   
 </LanguageData>

@@ -20,6 +20,8 @@
   <PauseOnLoad>Pauzeer na laden</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pauzeer bij dringende brief</PauseOnUrgentLetter>
+  <!-- EN: Pause on -->
+  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Aangepaste muiscursor</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -46,6 +48,10 @@
   <OpenSaveGameDataFolder>Opslagmap openen</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Toon locatie van opgeslagen gegevens</ShowSaveGameDataLocation>
+  <!-- EN: Open log file folder -->
+  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <!-- EN: Show log file location -->
+  <ShowLogFileLocation>TODO</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Voorkeurspersonages die door een speler zijn gemaakt. Deze karakters zullen eerder willekeurig verschijnen tijdens het spelen:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -64,6 +70,8 @@
   <ShowRealtimeClock>Toon realtime klok</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Maximaal aantal kolonies: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>TODO</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Plantenbeweging (wind)</PlantWindSway>
   <!-- EN: Enable test map sizes -->
@@ -92,5 +100,7 @@
   <RestoreToDefaultSettings>Terugzetten naar de standaardinstellingen</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Je opties zijn gereset. Het spel wordt nu automatisch opnieuw gestart.</ResetAndRestart>
+  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
   
 </LanguageData>

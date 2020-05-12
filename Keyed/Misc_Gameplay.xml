@@ -44,6 +44,8 @@
   <NotEnoughStoredLower>te weinig opgeslagen</NotEnoughStoredLower>
   <!-- EN: nothing -->
   <NothingLower>niets</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>TODO</Nothing>
   <!-- EN: Adapted -->
   <Adapted>Aangepast</Adapted>
   <!-- EN: fresh -->
@@ -64,6 +66,14 @@
   <MissingMedicalBillIngredient>geen {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>Immuniteit</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>TODO</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>TODO</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>TODO</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>TODO</DetectionChance>
   <!-- EN: Race -->
   <Race>Ras</Race>
   <!-- EN: Description -->
@@ -78,12 +88,24 @@
   <ThingInfo>Informatie</ThingInfo>
   <!-- EN: Drop -->
   <DropThing>Laat vallen</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>TODO</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>TODO</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>Hernoemen</Rename>
   <!-- EN: Rename animal -->
   <RenameAnimal>Dier hernoemen</RenameAnimal>
   <!-- EN: Rename colonist -->
   <RenameColonist>Hernoem kolonist</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>TODO</RenounceTitle>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>TODO</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>onbekend</UnknownLower>
   <!-- EN: On -->
@@ -120,6 +142,8 @@
   <DormantHiveNotReproducing>Slapend: Niet aan het reproduceren.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>Volgende {0} in</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
   <BrokenDown>Kapot</BrokenDown>
   <!-- EN: (bond) -->
@@ -164,7 +188,7 @@
   <CaravanDaysOfFoodRot>Voedselvoorraad: {0} (rot in {1} dagen)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
   <AllCaravanMembersDowned>Gestopt: Iedereen is bewusteloos.</AllCaravanMembersDowned>
-  <!-- EN: Stopped because: Everyone has a mental break. -->
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
   <AllCaravanMembersMentalBreak>Gestopt: Iedereen heeft een mentale inzinking.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
@@ -208,6 +232,8 @@
   <CaravanAttacking>Valt {0} aan </CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Geschenken aanbieden aan {0}.</CaravanOfferingGifts>
+  <!-- EN: Trading with {0} -->
+  <CaravanTrading>TODO</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Beschadigd doordat het gedragen werd door een lijk. </WasWornByCorpse>
   <!-- EN: T -->
@@ -262,10 +288,16 @@
   <EquippedBy>uitgerust door {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} wil dat dit vernietigd wordt.\n    Beloning: {1} ({2})</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Resterende tijd: {0}</WorldObjectTimeout>
-  <!-- EN: Contents: {0} ({1}) -->
-  <ItemStashContents>Inhoud: {0} ({1}) </ItemStashContents>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Klik om te sorteren op deze kolom</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
@@ -276,12 +308,8 @@
   <AllowedAreaShiftClickTip>Shift + Klik: Stel alles in op thuis\nShift + rechtermuisknop: Zet alles op Onbeperkt</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + klik: Alles aanvinken\nShift + rechtermuisknop: Alles uitvinken</CheckboxShiftClickTip>
-  <!-- EN: Known threat: {0} -->
-  <KnownSiteThreat>Bekende bedreiging: {0}</KnownSiteThreat>
-  <!-- EN: Known threats: {0} -->
-  <KnownSiteThreats>Bekende bedreigingen: {0}</KnownSiteThreats>
-  <!-- EN: Threats: Unknown -->
-  <KnownSiteThreatsNone>Bedreigingen: Onbekend</KnownSiteThreatsNone>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>Vereiste vaardigheden</SkillRequirements>
   <!-- EN: Products -->
@@ -300,7 +328,7 @@
   <CaravanMovementSpeedFull>Bewegingssnelheid van de karavaan</CaravanMovementSpeedFull>
   <!-- EN: downed -->
   <DownedLower>bewusteloos</DownedLower>
-  <!-- EN: carried -->
+  <!-- EN: resting -->
   <Carried>gedragen</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>Gemiddelde snelheid persoon</AverageCaravanMemberMoveSpeed>
@@ -334,18 +362,24 @@
   <CreatureWildness>{0} wildheid</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} trainbaarheid</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} met {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>Je kunt dit de komende {0} dagen niet opnieuw binnen gaan.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Karavaan </Caravan>
-  <!-- EN: there may be danger there -->
+  <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>er kan daar gevaar zijn</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>brok van {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>geen actief onderzoeksproject</NoActiveResearchProjectToFinish>
+  <!-- EN: Cannot research: No research bench -->
+  <CannotResearchNoBench>TODO</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>geschutskoepel</Turret>
   <!-- EN: turrets -->
@@ -356,6 +390,98 @@
   <Mortars>mortieren</Mortars>
   <!-- EN: enemy -->
   <Enemy>vijand</Enemy>
+  <!-- EN: location -->
+  <Location>TODO</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>TODO</AnimalsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>TODO</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>TODO</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>TODO</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>TODO</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>TODO</Mood>
+  <!-- EN: Quest -->
+  <Quest>TODO</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <!-- EN: Radius expand rate -->
+  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>TODO</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>TODO</DetonationCountdown>
+  <!-- EN: Large explosion if damaged -->
+  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>TODO</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <!-- EN: {0} assembly completes in {1} -->
+  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <!-- EN: produced -->
+  <ThingsProduced>TODO</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>TODO</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>TODO</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>TODO</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>TODO</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>TODO</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>TODO</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>TODO</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <!-- EN: Psychic entropy -->
+  <PsychicEntropy>TODO</PsychicEntropy>
+  <!-- EN: {0} pain focus -->
+  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>TODO</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>TODO</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>TODO</AnyOf>
+  <!-- EN: Goodwill -->
+  <Goodwill>TODO</Goodwill>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>TODO</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>TODO</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation focus -->
+  <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
+  <UserMeditationFocusStrength>TODO</UserMeditationFocusStrength>
+  <!-- EN: Focus effect impacted by -->
+  <MeditationFocusImpacted>TODO</MeditationFocusImpacted>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -400,6 +526,8 @@
   <TextMote_ConstructionFail>Constructie\nmislukt</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
   <TextMote_Dodge>Ontwijken</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>TODO</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} verzorgd</TextMote_Tended>
   <!-- EN: low mood -->
@@ -466,6 +594,8 @@
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
   <ReportHaulingTo>Transporteren van {THING_label} naar {DESTINATION}.</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>Stransporteert {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
@@ -506,6 +636,14 @@
   <LordReportAttendingMarriageCeremony>Bijwonen van de huwelijksceremonie </LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
   <LordReportAttendingParty>Bijwonen feest</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>Karavaan vormen</LordReportFormingCaravan>
 
@@ -536,6 +674,8 @@
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
   <RecipeMake>maak {0}</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>TODO</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Maken van {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -550,6 +690,8 @@
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
   <ThoughtExpiresIn>Verloopt over: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
   <ThoughtStartsExpiringIn>Begint te verlopen in: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
@@ -566,10 +708,20 @@
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {0} under {1}\nHome faction: {2} -->
+  <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Factie</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>TODO</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
+  <ExtraFactionDesc>TODO</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Uitgerust met</Equipped>
   <!-- EN: nothing -->
@@ -600,7 +752,7 @@
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde vierkant.</SelectNextInSquareTip>
-  <!-- EN: View information about this object. -->
+  <!-- EN: View information. -->
   <DefInfoTip>Bekijk informatie over dit object.</DefInfoTip>
 
   <!-- Hostility response -->
@@ -760,9 +912,13 @@
   <ShowAnimalNamesToggleButton>Weergave van dierennamen voor tamme dieren in/uitschakelen.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
   <ShowRoofOverlayToggleButton>Zichtbaarheid van daken in/uitschakelen.</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
   <LockNorthUpToggleButton>Vergrendel de rotatie van de camera zodat de noordpool altijd naar boven is gericht.</LockNorthUpToggleButton>
-  <!-- EN: Toggle day/night lighting system. -->
+  <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>Dag/nachtverlichting in/uitschakelen.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
   <ShowExpandingIconsToggleButton>Schakelt over naar de weergave van uitgebreide symbolen in plaats van reguliere symbolen voor objecten op afstand.</ShowExpandingIconsToggleButton>
@@ -784,6 +940,14 @@
   <TimeLeft>resterende tijd</TimeLeft>
   <!-- EN: impact date -->
   <ImpactDate>impactdatum</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>TODO</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>TODO</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -844,18 +1008,24 @@
   <ShipReportHibernating>Onderdeel in slaapstand</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Component nog niet klaar</ShipReportNotReady>
-  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <!-- EN: <Name>Charlon Whitestone</Name> is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>Charlon Whitestone is klaar om de activeringssequentie van de reactor te starten.\n\nHij waarschuwt je dat de opstartprocedure 15 dagen in beslag kan nemen en dat de energiesignatuur over lange afstanden meetbaar is.\n\nDit type energiesignatuur geeft de interstellaire ruimtevaartcapaciteit aan en zal hele groepen wanhopige rovers en mechanoïden aantrekken.\n\nJe zal worden aangevallen met een kracht die je nog niet eerder hebt gezien. Zorg ervoor dat je verdediging op zijn plaats is voordat je de systemen opstart.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarningStandalone>De reactor is klaar om te worden opgestart.\n\nDe opstartprocedure kan 15 dagen in beslag nemen en de energiesignatuur zal over lange afstanden meetbaar zijn.  Dit type energiesignatuur geeft de interstellaire ruimtevaartcapaciteit aan en zal hele groepen wanhopige rovers en mechanoïden aantrekken.\n\nJe zal worden aangevallen met een kracht die je nog niet eerder hebt gezien. Zorg ervoor dat je verdediging op zijn plaats is voordat je de systemen opstart.</HibernateWarningStandalone>
-  <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <!-- EN: <Name>Charlon Whitestone</Name> is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
   <HibernateWarningPacifist>Charlon Whitestone is klaar om de activeringssequentie van de reactor te starten. Hij waarschuwt je dat de opstartprocedure 15 dagen kan duren.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>De reactor is klaar om opgestart te worden. Het proces duurt ongeveer 15 dagen.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
+  <!-- EN: neurotrainer ({0}) -->
+  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <!-- EN: Use skill neurotrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{USER_labelShort} gebruikt {1} neurotrainer om van niveau {2} naar niveau {3} te gaan.</NeurotrainerUsed>
+  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -902,12 +1072,18 @@
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Iedereen is dood of weg. Dit verhaal is ten einde.\n\nMisschien zal iemand anders een nut vinden voor de ruines die er nu staan.</GameOverEveryoneDead>
-  <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunched>Je ruimteschip is begonnen en heeft de volgende kolonisten meegenomen:\n\n{0}\nDe volgende kolonisten werden achtergelaten:\n\n{1}\nDe AI van je schip zal proberen het ruimteschip naar een veilige plek te brengen. Misschien vindt het hier in het stelsel een florerende planeet voor je of maakt het een eeuwenlange reis naar een andere ster. Het kan ook zijn dat het besluit om een paar duizend jaar onder het ijs op een asteroïde te wachten tot iemand hier een nieuwe glinsterende wereld bouwt.\n\nJe zult het weten wanneer je wakker wordt.</GameOverShipLaunched>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Op bijna lichtsnelheid sloeg het planeetkillerwapen in de grond met de kracht van een triljoen waterstofbommen. Als een waterballon die met een geweer werd neergeschoten, werd deze wereld vloeibaar onder de inslag en besproeidde zijn gesmolten ingewanden over de kosmos.\n\nEen deel van {0} is nu een kleine asteroïdengordel. De rest is een gesmolten, hels radioactief landschap dat voortdurend wordt geschokt door enkele kilometers hoge aardbevingsgolven.\n\nJe hebt het niet overleefd.</GameOverPlanetkillerImpact>
-  <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
-  <GameOverArrivedAtJourneyDestination>Wanneer je aan boord van het ruimteschip stapt, verwelkomt de bemanning je met open armen. Ze lijken blij te zijn dat ze minstens één persoon meer mee kunnen nemen.\n\nDe volgende kolonisten zijn ontsnapt:\n\n{0}\nDe volgende kolonisten zijn achtergelaten:\n\n{1}\nDe AI van je schip zal proberen het ruimteschip naar een veilige plek te brengen. Misschien vindt het hier in het stelsel een florerende planeet voor je of maakt het een eeuwenlange reis naar een andere ster. Het kan ook zijn dat het besluit om een paar duizend jaar onder het ijs op een asteroïde te wachten tot iemand hier een nieuwe glinsterende wereld bouwt.\n\nWanneer je in de cryptoslaapcapsule stapt, twijfel je even en voel je je een beetje onzeker of je deze mensen kunt vertrouwen of niet.\n\nJe zult het weten wanneer je wakker wordt.</GameOverArrivedAtJourneyDestination>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Doorspelen</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -1048,5 +1224,94 @@
   <ClickToSeeAvailableOrders_WorldObject>{0}: Zie beschikbare opdrachten...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Zie beschikbare opdrachten...</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / {3}s ({4}s until zero)\n\nPsyfocus: {5} -->
+  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Max entropy multiplier: {0} -->
+  <PawnTooltipPsychicEntropyStatPsyfocusEntropyLimit>TODO</PawnTooltipPsychicEntropyStatPsyfocusEntropyLimit>
+  <!-- EN: Psychic entropy increases after performing a psycast. Going over the safe limit can lead to long-term health consequences. Whenever entropy reaches zero, it leaves a psychic hangover behind. -->
+  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain focuses the mind, and causes faster recovery from psychic entropy.\n\nPain level: {0}\nBonus to psychic entropy recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects. -->
+  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):
+\n{0} -->
+  <Reward_Items>TODO</Reward_Items>
+  <!-- EN: you will receive (total value {1}):
+\n{0} -->
+  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
+  <!-- EN: value {0} -->
+  <TotalValue>TODO</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>TODO</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>TODO</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>TODO</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>TODO</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1} -->
+  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0} -->
+  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>TODO</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>TODO</CausedByHediff>
+  
+  <!-- UNUSED -->
+  <ItemStashContents>Inhoud: {0} ({1}) </ItemStashContents>
+  <KnownSiteThreat>Bekende bedreiging: {0}</KnownSiteThreat>
+  <KnownSiteThreats>Bekende bedreigingen: {0}</KnownSiteThreats>
+  <KnownSiteThreatsNone>Bedreigingen: Onbekend</KnownSiteThreatsNone>
+  <NeurotrainerUsed>{USER_labelShort} gebruikt {1} neurotrainer om van niveau {2} naar niveau {3} te gaan.</NeurotrainerUsed>
+  <GameOverShipLaunched>Je ruimteschip is begonnen en heeft de volgende kolonisten meegenomen:\n\n{0}\nDe volgende kolonisten werden achtergelaten:\n\n{1}\nDe AI van je schip zal proberen het ruimteschip naar een veilige plek te brengen. Misschien vindt het hier in het stelsel een florerende planeet voor je of maakt het een eeuwenlange reis naar een andere ster. Het kan ook zijn dat het besluit om een paar duizend jaar onder het ijs op een asteroïde te wachten tot iemand hier een nieuwe glinsterende wereld bouwt.\n\nJe zult het weten wanneer je wakker wordt.</GameOverShipLaunched>
+  <GameOverArrivedAtJourneyDestination>Wanneer je aan boord van het ruimteschip stapt, verwelkomt de bemanning je met open armen. Ze lijken blij te zijn dat ze minstens één persoon meer mee kunnen nemen.\n\nDe volgende kolonisten zijn ontsnapt:\n\n{0}\nDe volgende kolonisten zijn achtergelaten:\n\n{1}\nDe AI van je schip zal proberen het ruimteschip naar een veilige plek te brengen. Misschien vindt het hier in het stelsel een florerende planeet voor je of maakt het een eeuwenlange reis naar een andere ster. Het kan ook zijn dat het besluit om een paar duizend jaar onder het ijs op een asteroïde te wachten tot iemand hier een nieuwe glinsterende wereld bouwt.\n\nWanneer je in de cryptoslaapcapsule stapt, twijfel je even en voel je je een beetje onzeker of je deze mensen kunt vertrouwen of niet.\n\nJe zult het weten wanneer je wakker wordt.</GameOverArrivedAtJourneyDestination>
 
 </LanguageData>

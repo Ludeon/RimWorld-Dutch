@@ -16,6 +16,8 @@
   <LoadGame>Laad spel</LoadGame>
   <!-- EN: Options -->
   <Options>Instellingen</Options>
+  <!-- EN: Mod -->
+  <Mod>Mod</Mod>
   <!-- EN: Mods -->
   <Mods>Mods</Mods>
   <!-- EN: Save translation report -->
@@ -24,6 +26,8 @@
   <GeneratingTranslationReport>Vertaalverslag genereren</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Vertaalbestanden opschonen</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>Update vertaalbestanden (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Vertaalbestanden opschonen</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -82,6 +86,8 @@
   <PlanetRainfall>Regenval algemeen</PlanetRainfall>
   <!-- EN: Overall temperature -->
   <PlanetTemperature>Temperatuur algemeen</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>TODO</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>Weinig</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -94,6 +100,12 @@
   <PlanetTemperature_Normal>Normaal</PlanetTemperature_Normal>
   <!-- EN: High -->
   <PlanetTemperature_High>Hoog</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>TODO</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Uitgangspunt</WorldSeed>
   <!-- EN: Randomize seed -->
@@ -138,6 +150,8 @@
   <ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitschakelen? Het spel zal helemaal niet werken tenzij je een andere mod hebt die alle kernfunctionaliteit vervangt.\n\nOnthoud dat andere mods defs de core mod kunnen overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Weet u zeker dat je alle inhoud voor {0} wilt verwijderen? </ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>TODO</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Uitschrijven</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -158,19 +172,63 @@
   <WorkshopUploadSucceeded>Succesvol geüpload {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>Downloading</Downloading>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>TODO</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Bron</Source>
-  <!-- EN: For version(s): {0} -->
+  <!-- EN: For game version(s) -->
   <ModTargetVersion>Voor versie: {0}</ModTargetVersion>
+  <!-- EN: ID -->
+  <ModPackageId>TODO</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>TODO</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <!-- EN: This requires following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Deze mod is niet gemaakt voor deze versie van RimWorld, en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Deze mod is gemaakt voor een nieuwere versie van RimWorld dan deze en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>Mod heeft een goed geformatteerde doelversie nodig in About.xml. Zoals dit:{0}.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Slepen om de volgorde te wijzigen</DragToReorder>
-  
+
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
   <ChooseScenario>Kies een scenario</ChooseScenario>
@@ -316,10 +374,28 @@
   <Randomize>Willekeurig</Randomize>
   <!-- EN: age {0} -->
   <AgeIndicator>Leeftijd: {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>TODO</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Achtergrond</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>Beperkingen</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>TODO</Abilities>
+  <!-- EN: Caused by backstory: {0} -->
+  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title: {0} -->
+  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait: {0} -->
+  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <!-- EN: Caused by: {0} -->
+  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by quest status: {0} -->
+  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Eigenschappen</Traits>
   <!-- EN: Permanent mood effect -->
@@ -364,6 +440,8 @@
   <Next>Volgende</Next>
   <!-- EN: Back -->
   <Back>Terug</Back>
+  <!-- EN: Show Materials -->
+  <ShowMaterials>TODO</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Gameplay</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
@@ -386,5 +464,8 @@
   <GeneratingMap>Kaart genereren</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Genereren van kaart voor nieuwe ontmoeting</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info -->
+  <ClickForMoreInfo>TODO</ClickForMoreInfo>
 
 </LanguageData>

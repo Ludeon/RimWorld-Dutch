@@ -3,6 +3,8 @@
   
   <!-- EN: bite -->
   <Bite.label>TODO</Bite.label>
+  <!-- EN: A bite wound. -->
+  <Bite.description>TODO</Bite.description>
   <!-- EN: bite scar -->
   <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
@@ -16,6 +18,8 @@
   
   <!-- EN: bruise -->
   <Bruise.label>TODO</Bruise.label>
+  <!-- EN: A bruise. -->
+  <Bruise.description>TODO</Bruise.description>
   <!-- EN: a bruise -->
   <Bruise.labelNoun>TODO</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -23,6 +27,8 @@
   
   <!-- EN: burn -->
   <Burn.label>TODO</Burn.label>
+  <!-- EN: A burn. -->
+  <Burn.description>TODO</Burn.description>
   <!-- EN: burn scar -->
   <Burn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
@@ -34,8 +40,25 @@
   <!-- EN: {0} in the {1} -->
   <Burn.labelNounPretty>TODO</Burn.labelNounPretty>
   
+  <!-- EN: chemical burn -->
+  <ChemicalBurn.label>TODO</ChemicalBurn.label>
+  <!-- EN: A chemical burn. -->
+  <ChemicalBurn.description>TODO</ChemicalBurn.description>
+  <!-- EN: chemical burn scar -->
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off (chemical) -->
+  <ChemicalBurn.injuryProps.destroyedLabel>TODO</ChemicalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out (chemical) -->
+  <ChemicalBurn.injuryProps.destroyedOutLabel>TODO</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a chemical burn -->
+  <ChemicalBurn.labelNoun>TODO</ChemicalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ChemicalBurn.labelNounPretty>TODO</ChemicalBurn.labelNounPretty>
+  
   <!-- EN: crack -->
   <Crack.label>TODO</Crack.label>
+  <!-- EN: A crack. -->
+  <Crack.description>TODO</Crack.description>
   <!-- EN: permanent crack -->
   <Crack.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crack wound -->
@@ -45,6 +68,8 @@
   
   <!-- EN: crush -->
   <Crush.label>TODO</Crush.label>
+  <!-- EN: A crushing wound. -->
+  <Crush.description>TODO</Crush.description>
   <!-- EN: mangled scar -->
   <Crush.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crush wound -->
@@ -54,6 +79,8 @@
   
   <!-- EN: cut -->
   <Cut.label>TODO</Cut.label>
+  <!-- EN: A cut. -->
+  <Cut.description>TODO</Cut.description>
   <!-- EN: cut scar -->
   <Cut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
@@ -67,6 +94,8 @@
   
   <!-- EN: frostbite -->
   <Frostbite.label>TODO</Frostbite.label>
+  <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
+  <Frostbite.description>TODO</Frostbite.description>
   <!-- EN: frostbite scar -->
   <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
@@ -76,6 +105,8 @@
   
   <!-- EN: gunshot -->
   <Gunshot.label>TODO</Gunshot.label>
+  <!-- EN: A gunshot wound. -->
+  <Gunshot.description>TODO</Gunshot.description>
   <!-- EN: permanent gunshot injury -->
   <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
@@ -91,6 +122,8 @@
   
   <!-- EN: misc -->
   <Misc.label>TODO</Misc.label>
+  <!-- EN: Miscellanous injuries. -->
+  <Misc.description>TODO</Misc.description>
   <!-- EN: an injury -->
   <Misc.labelNoun>TODO</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
@@ -98,6 +131,8 @@
   
   <!-- EN: missing body part -->
   <MissingBodyPart.label>TODO</MissingBodyPart.label>
+  <!-- EN: A body part is entirely missing. -->
+  <MissingBodyPart.description>TODO</MissingBodyPart.description>
   <!-- EN: a missing body part -->
   <MissingBodyPart.labelNoun>TODO</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
@@ -105,6 +140,8 @@
   
   <!-- EN: scratch -->
   <Scratch.label>TODO</Scratch.label>
+  <!-- EN: A scratch or tear. -->
+  <Scratch.description>TODO</Scratch.description>
   <!-- EN: scratch scar -->
   <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
@@ -118,6 +155,8 @@
   
   <!-- EN: shredded -->
   <Shredded.label>TODO</Shredded.label>
+  <!-- EN: A part of the body has been shredded and torn. -->
+  <Shredded.description>TODO</Shredded.description>
   <!-- EN: shredded scar -->
   <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
@@ -131,6 +170,8 @@
   
   <!-- EN: stab -->
   <Stab.label>TODO</Stab.label>
+  <!-- EN: A stab wound. -->
+  <Stab.description>TODO</Stab.description>
   <!-- EN: stab scar -->
   <Stab.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
@@ -144,6 +185,8 @@
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>TODO</SurgicalCut.label>
+  <!-- EN: A cut made during surgery. -->
+  <SurgicalCut.description>TODO</SurgicalCut.description>
   <!-- EN: surgical scar -->
   <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a surgical cut -->

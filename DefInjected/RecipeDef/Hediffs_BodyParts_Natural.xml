@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install heart -->
+  <InstallNaturalHeart.label>hart implanteren</InstallNaturalHeart.label>
+  <!-- EN: Install a biological heart. -->
+  <InstallNaturalHeart.description>Implanteer een hart.</InstallNaturalHeart.description>
+  <!-- EN: Installing heart. -->
+  <InstallNaturalHeart.jobString>Hart implanteren.</InstallNaturalHeart.jobString>
+  
+  <!-- EN: install kidney -->
+  <InstallNaturalKidney.label>nier implanteren</InstallNaturalKidney.label>
+  <!-- EN: Install a biological kidney. -->
+  <InstallNaturalKidney.description>Implanteer een nier.</InstallNaturalKidney.description>
+  <!-- EN: Installing kidney. -->
+  <InstallNaturalKidney.jobString>Nier implanteren.</InstallNaturalKidney.jobString>
+  
+  <!-- EN: install liver -->
+  <InstallNaturalLiver.label>lever implanteren</InstallNaturalLiver.label>
+  <!-- EN: Install a biological liver. -->
+  <InstallNaturalLiver.description>Implanteer een lever.</InstallNaturalLiver.description>
+  <!-- EN: Installing liver. -->
+  <InstallNaturalLiver.jobString>Lever implanteren.</InstallNaturalLiver.jobString>
+  
+  <!-- EN: install lung -->
+  <InstallNaturalLung.label>long implanteren</InstallNaturalLung.label>
+  <!-- EN: Install a lung. -->
+  <InstallNaturalLung.description>Implanteer een long.</InstallNaturalLung.description>
+  <!-- EN: Installing lung. -->
+  <InstallNaturalLung.jobString>Long implanteren.</InstallNaturalLung.jobString>
+  
+</LanguageData>

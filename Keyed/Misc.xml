@@ -27,7 +27,7 @@
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
-  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <ToCommaListAnd>{0} en {1}</ToCommaListAnd>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -53,7 +53,7 @@
   <!-- EN: radius -->
   <radius>radius</radius>
   <!-- EN: expired -->
-  <expired>TODO</expired>
+  <expired>verlopen</expired>
   <!-- EN: duration (days) -->
   <durationDays>duur (dagen)</durationDays>
   <!-- EN: interval (days) -->
@@ -97,14 +97,14 @@
   <MeatHumanDesc>Rauw geslacht vlees. Kan gekookt worden tot maaltijden of rauw gegeten worden, hoewel de meeste mensen er een hekel aan hebben.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
-  <TechprintLabel>TODO</TechprintLabel>
+  <TechprintLabel>techprint ({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>TODO</TechprintDesc>
+  <TechprintDesc>Dit is een techprint voor het onderzoeksproject '{PROJECT_label}'.\nDe fysieke vorm van techprints kan variëren van papier met diagrammen tot en met zeer geavanceerde leermachines. Onafhankelijk van de vorm spelen ze dezelfde rol. Ze geven je onderzoekers het vertrouwen dat een idee mogelijk is en een grof idee van de ontwerpen die worden gebruikt in verder gevorderde maatschappijen.\n\nJe onderzoekers hebben de basiskennis uit de techprints nodig om te weten waar ze moeten beginnen met een bepaalde technologie. Alleen na het toepassen van voldoende techprints kunnen je onderzoekers de details van de technologie in jouw specifieke situatie uitwerken.\n\nHet toepassen van techprints op een vervuld project resulteert in de helft van de nog te behalen onderzoekspunten. Daarnaast krijgen onderzoekers altijd een betere intellectuele vaardigheid tijdens het toepassen van techprints, zelfs bij al voltooide technologieën.</TechprintDesc>
   <!-- EN: Unlocks -->
-  <Unlocks>TODO</Unlocks>
+  <Unlocks>Ontgrendelt</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} (lijk)</CorpseLabel>
@@ -162,6 +162,6 @@
   <East>Zuid</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>TODO</ApplyingTechprint>
+  <ApplyingTechprint>techprint toepassen ({0})</ApplyingTechprint>
   
 </LanguageData>

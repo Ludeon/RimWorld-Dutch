@@ -64,9 +64,9 @@
   <NeedColonistBedsDesc>Je hebt meer kolonisten dan bedden. Sommige kolinisten kunnen nergens slapen.\n\nBouw meer bedden, of wijs gevangenisbedden aan als gewone bedden.\n\nAls je geen grondstoffen hebt om een bed te bouwen, kun je gratis een 'slaapplek' toewijzen.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Kolonist onbegraven</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Een kolonist is onbegraven.\n\nDit kan de stemming van je andere kolonisten negatief beïnvloeden.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Jager zonder afstandswapen</HunterLacksWeapon>
@@ -152,9 +152,9 @@
   <ColonistsIdleDesc>De volgende kolonisten lopen doelloos rond:\n\n{0}\nJe kunt ze beter iets productiefs laten doen.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Karavaan inactief</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>Deze karavanen wachten op jou om de volgende bestemming in te stellen:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>Kolonist heeft behandeling nodig</ColonistNeedsTreatment>
@@ -179,7 +179,7 @@
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Medische noodsituatie</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>DMensen lopen een risico op overlijden door ernstige ziekte::\n\n{0}\Zorg ervoor dat ze de best mogelijke medische zorg krijgen.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Mensen lopen een risico op overlijden door ernstige ziekte::\n\n{0}\Zorg ervoor dat ze de best mogelijke medische zorg krijgen.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Mensen lopen een risico op overlijden als gevolg van een ernstige ziekte:\n\n{0}\nOverweeg, indien mogelijk, om geïnfecteerde ledematen te amputeren of te vervangen om kolonisten in leven te houden.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
@@ -208,41 +208,41 @@
   <ImmobileCaravanDesc>Een van je karavanen staat stil omdat het te veel draagt.\n\nJe kunt de karavaan weer mobiliseren maken door een aantal items, in het tabblad items, te laten vallen.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Gebouw onbruikbaar vanwege dak</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Eén of meer van je gebouwen kan alleen worden gebruikt zonder dak, maar er is een dak boven gebouwd. Deze gebouw(en) zijn niet bruikbaar tot je het dak weghaalt.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>Zonnesteek</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>De volgende mensen hebben last van een zonnesteek:\n\n{0}\nBreng ze naar een koelere omgeving. Je kunt kamers afkoelen met passieve of elektrische koelers. Diep ondergronds zijn ruimtes van nature koud, als ze ten minste van de buitenlucht zijn afgesloten door een deur.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Gast ongelukkig</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>De queeste '{0}' vereist dat deze persoon een goed humeur houdt. Helaas is hun stemming bedrukt. Onderneem actie om ze zich beter te laten voelen:\n\n{1}  </QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Shuttle vertrekt over {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>De shuttle zal vertrekken over {1}. De queeste '{0}' vereist dat je de volgende mensen of dingen in de shuttle laadt voordat hij vertrekt:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Monument wordt vernietigd</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Je hebt een verboden gebouw gebouwd binnen één van je monumenten. Dit monument wordt als vernietigd beschouwd over {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>Aftelactivator {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Een aftelactivator telt af en is zich aan het voorbereiden om dichtbijzijnde Mechanoids te ontwaken.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} aftelactivators</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>{0} aftelactivators tellen af en zijn zich aan het voorbereiden om dichtbijzijnde Mechanoids te ontwaken.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>Queeste verloopt over {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>De queeste '{0}' zal verlopen over {1}.</QuestExpiresSoonDesc>
 </LanguageData>

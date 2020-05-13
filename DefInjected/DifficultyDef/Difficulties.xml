@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- TODO: Major English changes here -->
+  
   <!-- EN: community builder -->
-  <Easy.label>Kleine uitdaging</Easy.label>
+  <Easy.label>Bouw een gemeenschap</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\nRecommended for:\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>Aangeraden voor spelers die voor het eerst spelen of voor meer relaxte spelers die nog wel een uitdaging willlen. Gebeurtenissen zijn wel gevaarlijk, maar niet extreem.</Easy.description>
+  <Easy.description>Bouw een gemeenschap met een hint van gevaar. Er zijn dreigingen, maar ze zijn zwakker dan normaal.\n\nAangeraden aan:\n\n- Spelers die nieuw zijn in dit spelgenre.\n- Spelers die een perfecte kolonie willen bouwen.\n- Spelers die tot rust willen komen.</Easy.description>
   
   <!-- EN: losing is fun -->
-  <Extreme.label>Meedogenloos</Extreme.label>
-  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
-  <Extreme.description>Uitgebreide kennis van elke vaardigheid in het spel is nodig om ook maar een kans te hebben om te overleven in een meedogenloze en oneerlijke wereld.\n\nAangeraden voor spelers die een brutale en oneerlijke uitdaging willen waar zelfs de besten spelers geen sterfgevallen kan voorkomen.\n\nVerliezen voorkomen is hier onmogelijk, je zal vaak de mensen en dingen waar je van houd moeten opgeven en je zal vaak in het nadeel zijn tijdens gevechten. Op elke moment kunnen er oneerlijke uitdagingen en sterfgevallen om de hoek loeren.</Extreme.description>
+  <Extreme.label>Verliezen is leuk</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>Deze instelling is bewust oneerlijk. Enorme bedreigingen zullen je keer op keer lastig vallen tot je kolonie het niet meer overleeft. Kies deze instelling alleen als je het leuk vind om met een lijdensweg te sterven.\n\nAangeraden aan:\n\n- Ervaren spelers die een brutale, oneerlijke uitdaging willen waarbij zelfs de meest vaardige spelers nog het loodje kunnen leggen.\n- Liefhebbers van tragiek. \n- Digitale masochisten</Extreme.description>
   
   <!-- EN: the price of survival is blood -->
-  <Hard.label>Intens</Hard.label>
+  <Hard.label>De prijs van overleven is bloed</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
-  <Hard.description>Een grote uitdaging. Overleven op dit niveau vereist goede kennis van overlevingsstrategieën, en wat geluk.</Hard.description>
+  <Hard.description>Onderga brutale uitdagingen om te overleven. Zelfs als je goed speelt zal niet iedereen het overleven. Je zult moeten anticiperen op gevaren voordat ze aankomen en elk voordeel moeten uitbuiten.\n\nAangeraden aan:\n\n- Ervaren spelers die willen vechten om te overleven.</Hard.description>
   
   <!-- EN: adventure story -->
-  <Medium.label>Gemiddeld</Medium.label>
+  <Medium.label>Avontuurlijk</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\nRecommended for:\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
-  <Medium.description>De wereld is gevaarlijk maar op dit niveau is het nog mogelijk om redelijk gemakkelijk een grote kolonie uit te bouwen.\n\nAangeraden voor spelers die al ervaring hebben in andere strategiegames en voor het eerst RimWorld spelen of ervaren RimWorld spelers die het wat rustiger aan willen doen.</Medium.description>
+  <Medium.description>Er is ruimte om te groeien en bloeien, maar het is nog steeds een gevaarlijke planeet.\n\nAangeraden aan:\n\n- Ervaren strategiespelers die de eerste keer Rimworld spelen.\n- Ervaren Rimworld spelers die wat ademruimte willen om leuke of rare doelen te behalen.</Medium.description>
   
   <!-- EN: peaceful -->
   <Peaceful.label>Vredig</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\nRecommended for:\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>Een zandbak omgeving met weinig gevaren om een kolonie in te bouwen./n/nAangeraden voor spelers die zich het liefst bezig houden met bouwen.\n\nOp dit niveau komen geen grote, levensgevaarlijke gebeurtenissen voor maar zaken als ziektes, inzinkinen en razende dieren zijn wel mogelijk.</Peaceful.description>
+  <Peaceful.description>Bouw een gemeenschap in een veilige omgeving. Er zijn geen dodelijke gevaren, maar uitdagingen zoals ziekte, zenuwinzinkingen en dolle dieren kunnen nog voorkomen.\n\nAangeraden aan:\n\n- Spelers die het spel willen leren onder minimale druk.\n-Spelers die alleen geïnteresseerd zijn in bouwen.\n- Spelers die lekker rustig een spelletje willen spelen.</Peaceful.description>
   
   <!-- EN: strive to survive -->
-  <Rough.label>Ruig</Rough.label>
+  <Rough.label>Overleven is het streven</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\nRecommended for:\n\n- Experienced players who want a rough story requiring skill to survive. -->
-  <Rough.description>Het is een ruige planeet. Gebeurtenissen zijn erg gevaarlijk. Niet aanbevolen todat je meer ervaring hebt met het spel.</Rough.description>
+  <Rough.description>Probeer te overleven op een ruwe, harde planeet. Verwacht hoogte- en dieptepunten.\n\nAangeraden aan:\n\n- Ervaren spelers op zoek naar een ruig verhaal waarbij alleen de beste overleeft.</Rough.description>
   
 </LanguageData>

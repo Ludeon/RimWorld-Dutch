@@ -226,7 +226,7 @@
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>{1_labelShort} x{{0}} oprapen</PickUpCount>
   
-  <!-- EN: Load {1_label} onto pack animal -->
+  <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Kan geen {1_label} geven om op dieren te laden</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
   <CannotGiveToPackAnimalAll>Kan geen {1_label} (Alle) geven om op dieren te laden</CannotGiveToPackAnimalAll>

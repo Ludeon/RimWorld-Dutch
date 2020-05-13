@@ -11,11 +11,6 @@
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
   <Bionics.description>TODO</Bionics.description>
   
-  <!-- EN: cataphract armor -->
-  <CataphractArmor.label>TODO</CataphractArmor.label>
-  <!-- EN: Craft cataphract armor, heavy powered armor that slows the user but which can absorb extreme punishment. Note that these also require advanced components. -->
-  <CataphractArmor.description>TODO</CataphractArmor.description>
-  
   <!-- EN: pulse-charged munitions -->
   <ChargedShot.label>TODO</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->

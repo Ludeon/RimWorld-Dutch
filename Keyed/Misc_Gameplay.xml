@@ -1238,7 +1238,7 @@
   <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
   <!-- EN: Max entropy multiplier: {0} -->
   <PawnTooltipPsychicEntropyStatPsyfocusEntropyLimit>TODO</PawnTooltipPsychicEntropyStatPsyfocusEntropyLimit>
-  <!-- EN: Psychic entropy increases after performing a psycast. Going over the safe limit can lead to long-term health consequences. Whenever entropy reaches zero, it leaves a psychic hangover behind. -->
+  <!-- EN: Psychic entropy increases after performing a psycast. Going over the safe limit can lead to long-term health consequences. Whenever entropy reaches zero, it leaves a psychic hangover behind.\n\nPsyfocus is separate from psychic entropy. Having psyfocus below 30% will limit maximum safe entropy. Psyfocus can be gained through meditation. -->
   <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain focuses the mind, and causes faster recovery from psychic entropy.\n\nPain level: {0}\nBonus to psychic entropy recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
@@ -1278,6 +1278,8 @@
   <NotBonded>TODO</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <!-- EN: P-{LABEL} -->
+  <PersonaWeaponLabel>TODO</PersonaWeaponLabel>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->

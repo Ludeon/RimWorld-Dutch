@@ -8,7 +8,7 @@
   
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Maximum aantal speler kolonies</MaxNumberOfPlayerSettlements.label>
-  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\n  Playing with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\n  We recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
   <MaxNumberOfPlayerSettlements.helpText>Waarschuwing: RimWorld is ontworpen om gespeeld te worden door één speler met één kolonie per keer. Meerdere kolonies toestaan is een experimentele testfunctionaliteit.\n\nHet spelen met meerdere kolonies te zal je aandacht opslitsen en daarnaast waarschijnlijk prestatie- en balansproblemen veroorzaken.\n\nWij raden aan dat je in ieder geval als beginner het spel met maximum één kolonie speelt, zoals het is bedoeld.</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->

@@ -63,13 +63,13 @@
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>Vermenigvuldigingsfactor voor lichaamsgrootte {0}</StatsReport_BodySize>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>DPS = Schade door aanval van dichtbij * Raak kans / afkoeling in seconden</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Schade door melee-aanval * raakkans / afkoeling in seconden</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
-  <StatsReport_MeleeDamage>Schade door aanval van dichtbij</StatsReport_MeleeDamage>
+  <StatsReport_MeleeDamage>Schade door melee-aanval</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
   <StatsReport_Cooldown>Afkoeling</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>Kans op raken door aanval van dichtbij</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>Kans op raken door melee-aanval</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <!-- EN: Life expectancy -->
@@ -116,114 +116,114 @@
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>TODO</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Kamerindruk</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>TODO</StatsReport_Lit>
+  <StatsReport_Lit>Verlicht</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Bevat {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Bevat een menselijk lijk</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>Mediterende is met het lijk verwant</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>TODO</StatsReport_FromQuality>
+  <StatsReport_FromQuality>Van kwaliteit</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>TODO</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>Nabijgelegen kunstmatige structuren</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>TODO</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Vervult de titelvereisten van de gebruiker</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>TODO</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>Ontspanningsmogelijkheden bevredigen verschillende onspanningstypes. Kolonisten raken snel verveeld door vaak op dezelfde manier te ontspannen. Het is dus belangrijk om diversie ontspanningsmogelijkheden aan te bieden met verschillende ontspanningstypes.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>TODO</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>Alle onspanningstypes</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>TODO</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>Uitgegraven voorwerp</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>TODO</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>Een voorwerp dat bij het afgraven van dit materiaal wordt gewonnen.</Stat_MineableThing_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>TODO</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>Bronsoort</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>TODO</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>Het soort schepsel waar dit van is afgenomen.</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>TODO</Stat_Stuff_Name>
+  <Stat_Stuff_Name>Materiaal</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>TODO</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>Het materiaal waar dit voorwerp van is gemaakt. Dit heeft invloed op andere waarden, zoals wapenschade, bescherming en isolatie van kleding, hitpoints van gebouwen en voorwerpen, schoonheid, marktwaarde en nog veel meer.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>TODO</Stat_Weapon_Name>
+  <Stat_Weapon_Name>Wapen</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>TODO</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Het wapen dat door deze geschutskoepel wordt gebruikt.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>TODO</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Hoe veel schade een voorwerp kan verwerken voordat het wordt vernietigd.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>TODO</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>De hoeveelheid werk die nodig is om dit te verwijderen.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>TODO</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>Welke apparaten gebruikt kunnen worden om dit te produceren.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>TODO</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>De hoeveelheid schade die dit wapen uitdeelt.\n\nDit kan (deels) teniet worden gedaan door beschermende kleding van het doelwit.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>TODO</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Een vermenigvuldigingsfactor voor de hoeveelheid ervaring die dokters opdoen bij het verzorgen van een patiënt.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>TODO</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>De eigenschappen van deze plant</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>TODO</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Welke lichaamsdelen hierdoor bedekt worden.\n\nBechermt geen lichaamsdelen die niet bedekt worden.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>TODO</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>Welke kledinglagen dit vult.\n\nVoor elk lichaamsdeel kan er maar één stuk kleding worden gedragen op elke laag.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>TODO</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>De minimumvruchtbaarheid van de grond die deze plant nodig heeft om te groeien.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>TODO</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Hoe gevoelig deze plant is voor grondvruchtbaarheid.\n\nLage gevoeligheid betekent dat de plant ongeveer even snel groeit in een rijke als arme bodem. Hoge gevoeligheid betekent dat een plant langzaam groeit in arme bodem, maar sneller in een rijke bodem.</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>TODO</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>De hoeveelheid licht die deze plant nodig heeft om te groeien.</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
-  <Stat_Thing_Plant_LifeSpan_Desc>TODO</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>De levensduur van de plant.\n\nPlanten sterven een natuurlijke dood bij het bereiken van een bepaalde leeftijd, zelfs als ze niet geoogst worden.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>TODO</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>De productiehoeveelheid van deze plant als hij wordt geoogst.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>De minimumtemperatuur die deze plant kan overleven.\n\nLagere temperaturen beschadigen de plant in de loop der tijd.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>De maximumtemperatuur die deze plant kan overleven.\n\nHogere temperaturen beschadigen de plant in de loop der tijd</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>TODO</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>De minimale vaardigheid die een boer nodig heeft om deze plant te kunnen planten.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>TODO</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>Het type eten dat dit schepsel kan eten.\n\nKan eten: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>TODO</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>Het type leer dat dit schepsel oplevert wanneer het wordt geslacht.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>TODO</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>De kans dat dit schepsel iemand aanvalt die het zonder succes probeert te temmen.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>TODO</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>De algemene geschiktheid voor training die dit schepsel heeft. Dit is een combinatie van intelligentie en oplettendheid. Het bepaalt welke taken dit schepsel kan leren uitvoeren.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
-  <Stat_Race_LifeExpectancy_Desc>TODO</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Race_LifeExpectancy_Desc>De gemiddelde levensverwachting van dit schepsel.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>TODO</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>De ontspanningswaarde van het innemen van dit middel. Hogere waarden zullen de ontspanningsbehoefte meer vervullen.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>TODO</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>De grootte van het lichaamvan dit schepsel, vergeleken met een gemiddelde volwassen mens.</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>TODO</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Hoe veel tijd er zit tussen aanvang van een melee-aanval en wanneer de vijand wordt geraakt.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
-  <Stat_Thing_Weapon_BurstShotCount_Desc>TODO</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>De hoeveelheid schoten die dit wapen lost per salvo.</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
-  <Stat_Thing_Weapon_BurstShotFireRate_Desc>TODO</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>De vuursnelheid van dit wapen tijdens elk salvo.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
   <!-- EN: The maximum range of this weapon. -->
-  <Stat_Thing_Weapon_Range_Desc>TODO</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_Range_Desc>Het maximaal bereik van dit wapen.</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>TODO</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>De willekeurige spreidingsradius van schoten door dit wapen.\n\nHoge waardes zorgen ervoor dat schoten willekeurig om het doelwit heen belanden.</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>TODO</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>De kans dat een schot het doelwit raakt als het niet onderschept, uitgeweken of gestopt wordt.</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
-  <Stat_Thing_MoodChange_Desc>TODO</Stat_Thing_MoodChange_Desc>
+  <Stat_Thing_MoodChange_Desc>Het effect van dit lichaamsdeel op het humeur van de eigenaar.</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
-  <Stat_Recipe_Skill_Desc>TODO</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Skill_Desc>De hoofdvaardigheid die wordt gebruikt bij het uitvoeren van dit recept.\n\nDeze bepaalt de kwaliteit van het resultaat, en wordt geleerd tijdens het uitvoeren van dit recept.</Stat_Recipe_Skill_Desc>
   <!-- EN: The ingredients required to perform this recipe. -->
-  <Stat_Recipe_Ingredients_Desc>TODO</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_Ingredients_Desc>De benodigde ingrediënten voor dit recept.</Stat_Recipe_Ingredients_Desc>
   <!-- EN: The skills required to perform this recipe. -->
-  <Stat_Recipe_SkillRequirements_Desc>TODO</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>De benodigde vaardigheden voor dit recept.</Stat_Recipe_SkillRequirements_Desc>
   <!-- EN: The products produced by this recipe. -->
-  <Stat_Recipe_Products_Desc>TODO</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_Products_Desc>De producten die door dit recept worden geproduceerd.</Stat_Recipe_Products_Desc>
   <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
-  <Stat_Recipe_WorkSpeedStat_Desc>TODO</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>Welke karaktereigenschap de snelheid van dit recept bepaalt.\n\nHoe hoger de eigenschap is van de werker, des te sneller wordt het werk uitgevoerd.</Stat_Recipe_WorkSpeedStat_Desc>
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
-  <Stat_Recipe_EfficiencyStat_Desc>TODO</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>Welke eigenschap de kwaliteit of hoeveelheid van het resultaat bepaalt.\n\nHoe hoger de eigenschap van de werker, des te hoger de kwaliteit of de opbrengst van het resultaat zal zijn.</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
   <Stat_Thing_Surgery_SuccessChanceFactor_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->

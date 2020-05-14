@@ -141,9 +141,9 @@
 
   <!-- Mod sources -->
   <!-- EN: official content -->
-  <ContentSource_OfficialModsFolder>TODO</ContentSource_OfficialModsFolder>
+  <ContentSource_OfficialModsFolder>officiële DLC</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
-  <ContentSource_ModsFolder>TODO</ContentSource_ModsFolder>
+  <ContentSource_ModsFolder>lokale map</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   

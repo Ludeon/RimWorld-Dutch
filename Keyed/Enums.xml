@@ -291,28 +291,26 @@
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Nooit</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Grote bedreigingen</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>TODO</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Elke bedreiging</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>TODO</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Elke notificatie</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <!-- EN: itchy -->
-  <PainCategory_LowPain>TODO</PainCategory_LowPain>
+  <PainCategory_LowPain>jeuk</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>TODO</PainCategory_MediumPain>
+  <PainCategory_MediumPain>gevoelig</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>TODO</PainCategory_HighPain>
+  <PainCategory_HighPain>pijnlijk</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>thuisfactie</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
-  <!-- UNUSED -->
-  <ContentSource_LocalFolder>lokale map</ContentSource_LocalFolder>
+  <ExtraFactionType_HostFaction>externe factie</ExtraFactionType_HostFaction>
 
 </LanguageData>

@@ -959,9 +959,4 @@
   <!-- EN: {0} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
   
-  <!-- UNUSED -->
-  <ResearchMenuWithoutBench>Totdat je een ONDERZOEKSTAFEL bouwt, zullen je kolonisten niet echt in staat zijn om onderzoek te doen.\n\nJe kunt echter nu al kijken naar onderzoeksprojecten.</ResearchMenuWithoutBench>
-  <ConstructionSkillRequired>Vereiste bouwkundige vaardigheden </ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Vereist dit niveau van Constructie om te bouwen. </ConstructionSkillRequiredExplanation>
-
 </LanguageData>

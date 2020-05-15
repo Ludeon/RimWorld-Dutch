@@ -9,7 +9,7 @@
   <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>Slachtsnelheid</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
-  <ButcheryFleshSpeed.description>De snelheid waarmee een persoon een schepsel kan slachten.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>De snelheid waarmee een persoon een wezen kan slachten.</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
   <ButcheryMechanoidEfficiency.label>Mechanoide-afbreekeffectiviteit</ButcheryMechanoidEfficiency.label>
@@ -52,9 +52,4 @@
   <SmeltingSpeed.label>Smeltsnelheid</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>De snelheid waarmee een persoon sintel omsmelt in metaal.</SmeltingSpeed.description>
-  
-  <!-- UNUSED -->
-  <TailoringSpeed.label>Kleermaaksnelheid</TailoringSpeed.label>
-  <TailoringSpeed.description>De snelheid waarmee een persoon kleding maakt.</TailoringSpeed.description>
-  
 </LanguageData>

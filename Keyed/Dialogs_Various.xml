@@ -429,7 +429,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Wraakkans bij schade</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>De kans dat dit schepsel wraak neemt, wanneer letsel wordt toegedient door een aanvaller op geweerafstand.\n\nDeze kans neemt toe als de aanvaller dichterbij is. Als de aanvaller op zeer korte afstand wordt aanvalt, is de kans drie keer zo groot.\n\n. Deze kans wordt elke keer toegepast als er schade wordt aangericht, dus langzamer vuren van wapens met een hogere schade activeren dit minder snel.\n\nOm de kans te minimaliseren dat een schepsel wraak neemt, val je het aan vanaf schotsafstand met een langzaam vurend wapen.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>De kans dat dit wezen wraak neemt, wanneer letsel wordt toegedient door een aanvaller op geweerafstand.\n\nDeze kans neemt toe als de aanvaller dichterbij is. Als de aanvaller op zeer korte afstand wordt aanvalt, is de kans drie keer zo groot.\n\n. Deze kans wordt elke keer toegepast als er schade wordt aangericht, dus langzamer vuren van wapens met een hogere schade activeren dit minder snel.\n\nOm de kans te minimaliseren dat een wezen wraak neemt, val je het aan vanaf schotsafstand met een langzaam vurend wapen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Wraakkans op mislukte tempoging</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -569,7 +569,7 @@
   <!-- EN: Next restock: {0} days -->
   <NextTraderRestock>TODO</NextTraderRestock>
   <!-- EN: Creatures -->
-  <PawnsTabShort>Schepsels</PawnsTabShort>
+  <PawnsTabShort>wezens</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->

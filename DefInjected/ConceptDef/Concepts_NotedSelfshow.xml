@@ -79,7 +79,7 @@
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>Meer handelaren verkrijgen</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>Er komen meer koopvaardijkaravanen bij je langs als je met meer bondgenootschappen hebt.\n\nAls je geen bondgenoten hebt, komen er nooit karavanen op bezoek!\n\nJe kunt ook bondgenoten betalen voor het versturen van handelskaravanen door ze te bellen op de communicatieconsole.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>Er komen meer koopvaardijkaravanen bij je langs als je met meer bondgenootschappen hebt.\n\nAls je geen bondgenoten hebt, komen er nooit karavanen op bezoek!\n\nJe kunt ook bondgenoten betalen om handelskaravanen te sturen door ze te bellen op de communicatieconsole.</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
   <GrowingFood.label>Groeizones</GrowingFood.label>

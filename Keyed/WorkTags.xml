@@ -34,10 +34,10 @@
   <!-- EN: mining -->
   <WorkTagMining>Mijnbouw</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>Jagen</WorkTagHunting>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>Algemeen werk</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>TODO</WorkTagAllWork>
+  <WorkTagAllWork>Al het werk</WorkTagAllWork>
 
 </LanguageData>

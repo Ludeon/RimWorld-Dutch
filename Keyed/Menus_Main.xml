@@ -37,7 +37,7 @@
   <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Opslaan en afsluiten naar het menu</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Afsluiten naar OS </QuitToOS>
+  <QuitToOS>Afsluiten naar OS</QuitToOS>
   <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Opslaan en verlaten naar OS</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
@@ -87,7 +87,7 @@
   <!-- EN: Overall temperature -->
   <PlanetTemperature>Temperatuur algemeen</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>TODO</PlanetPopulation>
+  <PlanetPopulation>Bevolkingsdichtheid</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>Weinig</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -101,15 +101,15 @@
   <!-- EN: High -->
   <PlanetTemperature_High>Hoog</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Dunbevolkt</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Normaal</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <PlanetPopulation_High>Dichtbevolkt</PlanetPopulation_High>
   <!-- EN: Seed -->
-  <WorldSeed>Uitgangspunt</WorldSeed>
+  <WorldSeed>Sleutel</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>Willekeurig uitgangspunt</RandomizeSeed>
+  <RandomizeSeed>Willekeurige sleutel</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>De planeet heeft altijd dezelfde diameter, maar omdat hij veel groter is dan nodig is om te spelen, genereren we niet het hele oppervlak omdat het heel lang kan duren. Dit is het percentage van het oppervlak dat je wilt genereren.</PlanetCoverageTip>
   <!-- EN: Factions -->
@@ -141,17 +141,17 @@
   <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Verkrijg mods van het forum</GetModsFromForum>
+  <GetModsFromForum>Zoek mods op het forum</GetModsFromForum>
   <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Open de mods-map</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>Toon mods data locatie</ShowModsDataLocation>
+  <ShowModsDataLocation>Toon datalocatie voor mods</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitschakelen? Het spel zal helemaal niet werken tenzij je een andere mod hebt die alle kernfunctionaliteit vervangt.\n\nOnthoud dat andere mods defs de core mod kunnen overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Weet u zeker dat je alle inhoud voor {0} wilt verwijderen? </ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>TODO</ResolveModOrder>
+  <ResolveModOrder>Sorteer mods automatisch</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Uitschrijven</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -169,63 +169,63 @@
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Workshop inzending mislukt.\n\nReden: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>Succesvol geüpload {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>{0} succesvol geüpload.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>Downloading</Downloading>
+  <Downloading>Bezig met downloaden</Downloading>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Toon voldane vereisten</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>TODO</ModClickToSelect>
+  <ModClickToSelect>Klik om te selecteren</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Klik om naar de website te gaan</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Bron</Source>
   <!-- EN: For game version(s) -->
-  <ModTargetVersion>Voor versie: {0}</ModTargetVersion>
+  <ModTargetVersion>Voor versie(s)</ModTargetVersion>
   <!-- EN: ID -->
-  <ModPackageId>TODO</ModPackageId>
+  <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <ModMustLoadBefore>Dit moet worden geladen voor: {0}</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <ModMustLoadAfter>Dit moet worden geladen na: {0}</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>TODO</ModDependsOn>
+  <ModDependsOn>Vereist: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <ModIncompatibleWith>Conflict met: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>Deze mod conflicteert met: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <ModOrderingWarning>Deze mod laadt in de verkeerde volgorde met een andere mod. Gebruik de 'auto-sorteer' knop, of hersorteer de mods handmatig.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>Een andere actieve mod gebruikt hetzelfde ID: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <ModCyclicDependency>Er is een cyclische modafhankelijkheid, beginnend bij: {0}.</ModCyclicDependency>
   <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Dit vereist de volgende mods om te werken: {0}</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Deze mod is niet gemaakt voor deze versie van RimWorld, en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Deze mod is gemaakt voor een nieuwere versie van RimWorld dan deze en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod heeft een goed geformatteerde doelversie nodig in About.xml. Zoals dit:{0}.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod heeft een goed geformatteerde doelversie nodig in About.xml. Zoals dit: &lt;supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt; - &lt;targetVersion&gt; wordt uitgefaseerd. Controleer het log voor details.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Mod vereist een unieke, goed geformatteerde packageId in About.xml. Het packageId heeft de volgende eisen:\n\n  - Alleen alfanumerieke karakters en punten.\n  - Geen spaties.\n  - Minstens één punt.\n  - Geen twee punten direct naast elkaar.\n  - Mag niet beginnen of eindigen met een punt.\n  - Maximaal 60 karakters\n  - Mag niet het woord "Ludeon" bevatten.\n\nBijvoorbeeld:\n&lt;packageId&gt;Auteur.ModNaam&lt;/packageId&gt;\n&lt;packageId&gt;Auteur.ModNaam.Specifiek&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Mod heeft problemen in LoadFolders.xml, die je moet oplossen voor het uploaden:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>Map {0} gespecificeerd voor versie {1} bestaat niet.</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>Verkeerd formaat versietekst '{0}'. Correct formaat is Hoofd.Subversie (bv.: 1.3)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>De lijst van 'load folders' voor versie {0} is leeg.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Versie {0} heeft dezelfde mapnaam meerdere keren in zijn lijst: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Verkeerde versie volgorde: {0} moet voor {1} komen.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Verkeerde versie volgorde: 'default' moet eerst gedefinieerd zijn.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Versie {0} is gedefinieerd in de 'load folders', maar staat niet in 'supportedVersions' in About.xml van de mod.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Slepen om de volgorde te wijzigen</DragToReorder>
 
@@ -243,7 +243,7 @@
   
   <!-- Scenario editor -->
   <!-- EN: seed -->
-  <Seed>Uitgangspunt</Seed>
+  <Seed>Sleutel</Seed>
   <!-- EN: Load -->
   <Load>Laad</Load>
   <!-- EN: edit mode -->
@@ -275,27 +275,27 @@
   <!-- EN: Difficulty -->
   <Difficulty>Moeilijkheidsgraad</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>Commitmentmodus</CommitmentMode>
+  <CommitmentMode>Hardcore modus</CommitmentMode>
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>Onbeperkt opnieuw laden-modus</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Kies Commitmentmodus of Onbeperkt opnieuw laden-modus</MustChoosePermadeath>
+  <MustChoosePermadeath>Kies 'Hardcore' of 'Onbeperkt opnieuw laden' modus</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Je kunt het spel op elk moment opslaan en laden.\n\nDit is een goede keuze als je het spel nog steeds aan het leren bent, als het past bij je persoonlijke speelstijl, als je mods gebruikt die je spel kunnen breken, of als je van plan bent om de commitment mode zelf te forceren.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Je kunt het spel op elk moment opslaan en laden.\n\nDit is een goede keuze als je het spel nog steeds aan het leren bent, als het past bij je persoonlijke speelstijl, als je mods gebruikt die je spel kunnen breken, of als je van plan bent om de hardcore mode zelf te forceren.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
   <PermadeathModeInfo>Je kunt alleen maar opslaan bij het afsluiten van het spel.\n\nAangezien RimWorld een verhalengenerator is, is zelfs het verliezen van op één persoon na niet het einde van het spel - het is onderdeel van het verhaal. Het spel is ontworpen om herstel na verliezen mogelijk te maken.\n\nHet uitspelen van deze verschrikkelijke situaties maakt een verhaal met zowel tragedie en triomf. Het is de manier waarop RimWorld is ontworpen om gespeeld te worden.\n\nEr is een reden waarom Luke Skywalker niet ophield en opnieuw laadde toen zijn familie werd gedood - verlies en herstel is dramatisch.</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>De verhalenverteller en de moeilijkheidsgraad kunnen op elk moment worden gewijzigd.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Verteller en moeilijkheid kunnen op elk moment gewijzigd worden.</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
   <UnlockExtremeDifficulty>Genadeloze modus</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>De genadeloze modus is een speciale spelmodus waarin elke uitdaging tot op het uiterste wordt opgevoerd.\n\Genadeloze modus ontgrendelt automatisch wanneer u specifieke mijlpalen te bereiken. Je kunt het echter al wel ontgrendelen.\n\Deze optie is alleen aan te raden als je een of twee moeilijke spellen hebt gespeeld en je ondanks je beste inspanningen een goede kans wilt hebben om te sterven.</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>De genadeloze modus is een speciale spelmodus waarin elke uitdaging tot op het uiterste wordt opgevoerd.\n\nGenadeloze modus ontgrendelt automatisch wanneer je specifieke mijlpalen bereikt. Je kunt het echter handmatig eerder ontgrendelen.\n\nDeze optie is alleen aan te raden als je een paar moeilijke spellen hebt gespeeld en je ondanks je beste inspanningen een goede kans wilt hebben om te sterven.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>Selecteer startplaats</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Selecteer een willekeurige plaats</SelectRandomSite>
+  <SelectRandomSite>Willekeurige plek</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Kies plaats</SelectSite>
   <!-- EN: Please select a site. -->
@@ -375,27 +375,27 @@
   <!-- EN: age {0} -->
   <AgeIndicator>Leeftijd: {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>TODO</PawnSummary>
+  <PawnSummary>{PAWN_race}, leeftijd {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, leeftijd {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Achtergrond</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>Beperkingen</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>TODO</Abilities>
+  <Abilities>Vaardigheden</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Vanwege achtergrond: {0}</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Vanwege titel: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Vanwege eigenschap: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Vanwege: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Onbeschikbaar werk:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Vanwege queestestatus: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Eigenschappen</Traits>
   <!-- EN: Permanent mood effect -->
@@ -441,7 +441,7 @@
   <!-- EN: Back -->
   <Back>Terug</Back>
   <!-- EN: Show Materials -->
-  <ShowMaterials>TODO</ShowMaterials>
+  <ShowMaterials>Toon materialen</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Gameplay</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
@@ -466,6 +466,6 @@
   <GeneratingMapForNewEncounter>Genereren van kaart voor nieuwe ontmoeting</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info -->
-  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <ClickForMoreInfo>Klik voor meer informatie</ClickForMoreInfo>
 
 </LanguageData>

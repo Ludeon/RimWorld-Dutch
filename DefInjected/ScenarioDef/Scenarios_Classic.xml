@@ -4,9 +4,9 @@
   <!-- EN: Crashlanded -->
   <Crashlanded.label>Noodlanding</Crashlanded.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.description>TODO</Crashlanded.description>
+  <Crashlanded.description>Je wordt met zijn drieën wakker in je cryptoslaapsarcofagen door het geluid van alarmbellen en scheurend metaal. Jullie redden het op het nippertje om in de reddingscapsules te klimmen, vlak voordat het schip volledig uit elkaar gereten wordt. Na een tijdje landen jullie op deze onbekende Rimworld.</Crashlanded.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.scenario.description>TODO</Crashlanded.scenario.description>
+  <Crashlanded.scenario.description>Je wordt met zijn drieën wakker in je cryptoslaapsarcofagen door het geluid van alarmbellen en scheurend metaal. Jullie redden het op het nippertje om in de reddingscapsules te klimmen, vlak voordat het schip volledig uit elkaar gereten wordt. Na een tijdje landen jullie op deze onbekende Rimworld.</Crashlanded.scenario.description>
   <!-- EN: Crashlanded -->
   <Crashlanded.scenario.name>Noodlanding</Crashlanded.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
@@ -15,51 +15,51 @@
   <!-- EN: Lost Tribe -->
   <LostTribe.label>Verloren stam</LostTribe.label>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.description>TODO</LostTribe.description>
+  <LostTribe.description>Jullie stam werd door de grote bloedmachines van de goden aangevallen en vernietigd. Vijf mensen wisten te ontsnappen. Nu is het tijd een nieuw leven op te bouwen.\n\nN.B.: Omdat je start zonder veel goederen en technologie, is dit een moeilijk scenario. </LostTribe.description>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.scenario.description>TODO</LostTribe.scenario.description>
+  <LostTribe.scenario.description>Jullie stam werd door de grote bloedmachines van de goden aangevallen en vernietigd. Vijf mensen wisten te ontsnappen. Nu is het tijd een nieuw leven op te bouwen.\n\nN.B.: Omdat je start zonder veel goederen en technologie, is dit een moeilijk scenario.</LostTribe.scenario.description>
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>Verloren stam</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>TODO</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>De goden waren ziedend. De bloedmachines kwamen 's-nachts. Ze jaagden door je dorp, al moordend en brandend met hun messen den duivelse vuur.\n\nMaar een handvol stamleden wist te ontsnappen.\n\nNa een barre tocht, zonder vrienden om te helpen, moet je een nieuw thuis opbouwen in de wildernis - zoals je voorouders dat ooit deden.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>Vijf verloren stamleden proberen weer op te bouwen. Moeilijk.</LostTribe.scenario.summary>
   
   <!-- EN: Naked Brutality -->
   <NakedBrutality.label>Naakte brutaliteit</NakedBrutality.label>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.description>TODO</NakedBrutality.description>
+  <NakedBrutality.description>Je ging onder narcose voor een kleine ingreep. Nu ben je wakker geworden van de crash die je reddingscapsule maakte op een verre planeet. Je bent naakt, alleen, en volledig onvoorbereid. Overleef je dit?\n\nWaarschuwing: Dit scenario is compleet oneerlijk - het is extreem moeilijk en je kunt op ieder moment sterven.</NakedBrutality.description>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.scenario.description>TODO</NakedBrutality.scenario.description>
+  <NakedBrutality.scenario.description>Je ging onder narcose voor een kleine ingreep. Nu ben je wakker geworden van de crash die je reddingscapsule maakte op een verre planeet. Je bent naakt, alleen, en volledig onvoorbereid. Overleef je dit?\n\nWaarschuwing: Dit scenario is compleet oneerlijk - het is extreem moeilijk en je kunt op ieder moment sterven.</NakedBrutality.scenario.description>
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>Naakte brutaliteit</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>TODO</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Het had een kleine ingreep moeten zijn. Een uurtje onder narcodse. Je voelde je volledig veilig.\n\nNu werd je wakker in een reddingscapsule die neerstort op een verre Rimworld.\n\nBuiten een laag mysterieuze smurrie over je hele lichaam, ben je helemaal naakt. Zonder voorbereiding, proviand of gereedschap, kun je dit overleven?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
   <NakedBrutality.scenario.summary>Naakt, alleen en zonder voorbereiding. Overleef je dit? Heel moeilijk en oneerlijk.</NakedBrutality.scenario.summary>
   
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>De rijke avonturier</TheRichExplorer.label>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.description>TODO</TheRichExplorer.description>
+  <TheRichExplorer.description>Mensen verklaarden je voor gek toen je je thuis op een glitterwereld verliet, maar je wilde altijd al door het heelal reizen - buiten de neurosimulator. Nu ben je aan het eind van je lange reis in cryptoslaap, geland op een onbekende Rimworld om te zien hoe het leven hier is.\n\nN.B.: Omdat je start-karakter niet zo veel vaardigheden heeft, is dit een bijzonder moeilijk scenario, vooral in het begin.</TheRichExplorer.description>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.scenario.description>TODO</TheRichExplorer.scenario.description>
+  <TheRichExplorer.scenario.description>Mensen verklaarden je voor gek toen je je thuis op een glitterwereld verliet, maar je wilde altijd al door het heelal reizen - buiten de neurosimulator. Nu ben je aan het eind van je lange reis in cryptoslaap, geland op een onbekende Rimworld om te zien hoe het leven hier is.\n\nN.B.: Omdat je start-karakter niet zo veel vaardigheden heeft, is dit een bijzonder moeilijk scenario, vooral in het begin.</TheRichExplorer.scenario.description>
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.scenario.name>De rijke avonturier</TheRichExplorer.scenario.name>
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
-  <TheRichExplorer.scenario.parts.GameStartDialog.text>TODO</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>De neurosimulaties, holo-spellen en vrije orgies waren nooit genoeg voor je. Je wilde meer - de ervaringen en consequenties van het echte leven, zoals je las in de geschiedenisboeken. Je wilde weten hoe het aanvoelt als elke beslissing een zaak is van leven of dood.\n\nNu, na een reis van tientallen jaren in cryptoslaap, land je op deze onbekende Rimworld. Het echte leven wacht op je.</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>Eén rijke avonturier die het heelal van dichtbij wil beleven. Extra moeilijk.</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
   <Tutorial.label>Tutorial</Tutorial.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.description>TODO</Tutorial.description>
+  <Tutorial.description>e wordt met zijn drieën wakker in je cryptoslaapsarcofagen door het geluid van alarmbellen en scheurend metaal. Jullie redden het op het nippertje om in de reddingscapsules te klimmen, vlak voordat het schip volledig uit elkaar gereten wordt. Na een tijdje landen jullie op deze onbekende Rimworld.</Tutorial.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.scenario.description>TODO</Tutorial.scenario.description>
+  <Tutorial.scenario.description>e wordt met zijn drieën wakker in je cryptoslaapsarcofagen door het geluid van alarmbellen en scheurend metaal. Jullie redden het op het nippertje om in de reddingscapsules te klimmen, vlak voordat het schip volledig uit elkaar gereten wordt. Na een tijdje landen jullie op deze onbekende Rimworld.</Tutorial.scenario.description>
   <!-- EN: tutorial -->
   <Tutorial.scenario.name>Tutorial</Tutorial.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
-  <Tutorial.scenario.summary>TODO</Tutorial.scenario.summary>
+  <Tutorial.scenario.summary>Drie overlevenden van een crash - de klassieke Rimworldervaring</Tutorial.scenario.summary>
   
 </LanguageData>

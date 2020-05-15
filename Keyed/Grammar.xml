@@ -58,7 +58,7 @@
   <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
   <ClauseSequence5>{0} en {1}. Darnaast {2} en {3}. Tenslotte, {4}.</ClauseSequence5>
   <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
-  <ClauseSequence6>{0}. {1} en {2}. Ook {3} en {4}. Tenslotte, {4}.</ClauseSequence6>
+  <ClauseSequence6>{0}. {1} en {2}. Ook {3} en {4}. Tenslotte, {5}.</ClauseSequence6>
   <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
   <ClauseSequence7>{0} en {1}. {2} en {3}. Ook {4} and {5}. Tenslotte, {6}.</ClauseSequence7>
   <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->

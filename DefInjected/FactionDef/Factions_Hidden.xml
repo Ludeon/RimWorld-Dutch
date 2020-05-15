@@ -2,42 +2,42 @@
 <LanguageData>
   <!-- TODO: Major english changes here -->
   <!-- EN: neutral ancients -->
-  <Ancients.label>Ruimtereiziger</Ancients.label>
+  <Ancients.label>ruimtereizigers</Ancients.label>
   <Ancients.description>Reizigers uit de verste hoeken van de ruimte.</Ancients.description>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>Ruimtereiziger</Ancients.fixedName>
+  <Ancients.fixedName>ruimtereiziger</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>ruimtereiziger</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>Ruimtereizigers</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>ruimtereizigers</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>Ruimtereiziger</AncientsHostile.label>
+  <AncientsHostile.label>vijandige ruimtereizigers</AncientsHostile.label>
   <AncientsHostile.description>Reizigers uit de verste hoeken van de ruimte.</AncientsHostile.description>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>Ruimtereiziger</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>ruimtereiziger</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>ruimtereiziger</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>Ruimtereizigers</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>ruimtereizigers</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
-  <Insect.label>Insecten</Insect.label>
+  <Insect.label>insecten</Insect.label>
   <Insect.description>Agressieve en indringende insecten.</Insect.description>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>Insecten</Insect.fixedName>
+  <Insect.fixedName>Sorne Genlinie</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>insect</Insect.pawnSingular>
   <!-- EN: insects -->
-  <Insect.pawnsPlural>Insecten</Insect.pawnsPlural>
+  <Insect.pawnsPlural>insecten</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>Mechanoide</Mechanoid.label>
+  <Mechanoid.label>mechanoïdennest</Mechanoid.label>
   <Mechanoid.description>Een collectief van oude zelf-reproducerende machines.</Mechanoid.description>
   <Mechanoid.fixedName>Een zwerm mechanoiden</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>mechanoïde</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>mechanoïden</Mechanoid.pawnsPlural>
   
 </LanguageData>

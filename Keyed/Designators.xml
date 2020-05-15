@@ -242,4 +242,5 @@
   <NoColonistWithAllSkillsForConstructing>Geen van je {0} hebben alle vaardigheden die nodig zijn.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Al je {0} met deze vaardigheid zijn niet toegewezen aan {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
 </LanguageData>

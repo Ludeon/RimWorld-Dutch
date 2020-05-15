@@ -35,6 +35,11 @@
   <!-- EN: How casting this ability on someone will impact relations with their faction. -->
   <Ability_GoodwillImpact.description>TODO</Ability_GoodwillImpact.description>
   
+  <!-- EN: psyfocus cost -->
+  <Ability_PsyfocusCost.label>TODO</Ability_PsyfocusCost.label>
+  <!-- EN: How much psyfocus must be spent to performing this ability. -->
+  <Ability_PsyfocusCost.description>TODO</Ability_PsyfocusCost.description>
+  
   <!-- EN: range -->
   <Ability_Range.label>TODO</Ability_Range.label>
   <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
@@ -42,7 +47,7 @@
   
   <!-- EN: psylink level -->
   <Ability_RequiredPsylink.label>TODO</Ability_RequiredPsylink.label>
-  <!-- EN: Minimum level of psylink required to perform this psycast. text_todo -->
+  <!-- EN: The minimum psylink level required to perform this psycast. -->
   <Ability_RequiredPsylink.description>TODO</Ability_RequiredPsylink.description>
   
 </LanguageData>

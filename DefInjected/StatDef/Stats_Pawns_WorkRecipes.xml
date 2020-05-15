@@ -52,4 +52,5 @@
   <SmeltingSpeed.label>Smeltsnelheid</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>De snelheid waarmee een persoon sintel omsmelt in metaal.</SmeltingSpeed.description>
+  
 </LanguageData>

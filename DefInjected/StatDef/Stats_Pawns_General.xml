@@ -87,7 +87,7 @@
   <PsychicEntropyRecoveryRate.label>TODO</PsychicEntropyRecoveryRate.label>
   <!-- EN: The rate at which this person reduces psychic entropy. -->
   <PsychicEntropyRecoveryRate.description>TODO</PsychicEntropyRecoveryRate.description>
-  <!-- EN: {0}/30s -->
+  <!-- EN: {0}/s -->
   <PsychicEntropyRecoveryRate.formatString>TODO</PsychicEntropyRecoveryRate.formatString>
   
   <!-- EN: psychic sensitivity -->

@@ -477,11 +477,9 @@
   <!-- EN: Progress to guaranteed find -->
   <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
   
-  <!-- Meditation focus -->
-  <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
-  <UserMeditationFocusStrength>TODO</UserMeditationFocusStrength>
-  <!-- EN: Focus effect impacted by -->
-  <MeditationFocusImpacted>TODO</MeditationFocusImpacted>
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>TODO</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -1234,15 +1232,13 @@
   <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
-  <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / {3}s ({4}s until zero)\n\nPsyfocus: {5} -->
+  <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero)\n\nPsyfocus: {4} -->
   <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
-  <!-- EN: Max entropy multiplier: {0} -->
-  <PawnTooltipPsychicEntropyStatPsyfocusEntropyLimit>TODO</PawnTooltipPsychicEntropyStatPsyfocusEntropyLimit>
-  <!-- EN: Psychic entropy increases after performing a psycast. Going over the safe limit can lead to long-term health consequences. Whenever entropy reaches zero, it leaves a psychic hangover behind.\n\nPsyfocus is separate from psychic entropy. Having psyfocus below 30% will limit maximum safe entropy. Psyfocus can be gained through meditation. -->
+  <!-- EN: Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nAside from entropy, some psycasts cost psyfocus to perform. Psyfocus is gained through meditation or drugs. -->
   <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
-  <!-- EN: Pain focuses the mind, and causes faster recovery from psychic entropy.\n\nPain level: {0}\nBonus to psychic entropy recovery: {1} -->
+  <!-- EN: Pain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
-  <!-- EN: Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects. -->
+  <!-- EN: Toggle psychic entropy limiter. Exceeding your entropy limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
   <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
 
   <!-- Pawn tooltip description -->

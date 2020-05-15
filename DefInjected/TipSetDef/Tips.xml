@@ -51,6 +51,8 @@
   <GameplayTips.AnimalsMayAttack>TODO</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
   <GameplayTips.AnimalDeathExplosionRain>TODO</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
   <GameplayTips.CaravanPackingSpot>TODO</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->

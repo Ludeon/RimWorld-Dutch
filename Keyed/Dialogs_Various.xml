@@ -938,8 +938,10 @@
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
-  <!-- EN: Entropy gain  -->
+  <!-- EN: Entropy gain -->
   <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <!-- EN: Psyfocus cost -->
+  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
   <AbilityDuration>TODO</AbilityDuration>
   <!-- EN: Effect radius -->
@@ -954,6 +956,8 @@
   <AbilityUnwalkable>TODO</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>TODO</AbilityRoofed>
+  <!-- EN: {0} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
   
   <!-- UNUSED -->
   <ResearchMenuWithoutBench>Totdat je een ONDERZOEKSTAFEL bouwt, zullen je kolonisten niet echt in staat zijn om onderzoek te doen.\n\nJe kunt echter nu al kijken naar onderzoeksprojecten.</ResearchMenuWithoutBench>

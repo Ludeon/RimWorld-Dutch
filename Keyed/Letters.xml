@@ -78,7 +78,7 @@
   <NewPartDiseaseAnimal>{PAWN_labelShort} heeft een ziekte opgelopen: {3} in {PAWN_possessive} {1}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{1_labelShort} maakte vroeger deel uit van uw factie.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>{0} maakte vroeger deel uit van jouw factie.</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
   <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
@@ -326,7 +326,7 @@
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>{{0} is de beschaving zat.\n\n{PAWN_pronoun} realiseerde zich dat wilde wezens altijd vrij zijn. Dus {PAWN_pronoun} heeft besloten om je factie te verlaten en met de dieren te leven.\n\nJe kunt proberen {PAWN_objective} te temmen of te arresteren om {PAWN_objective} terug te krijgen</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} is de beschaving zat.\n\n{PAWN_pronoun} realiseerde zich dat wilde dieren altijd vrij zijn. Dus {PAWN_pronoun} heeft besloten om je factie te verlaten en met de dieren te leven.\n\nJe kunt proberen {PAWN_objective} te temmen of te arresteren om {PAWN_objective} terug te krijgen</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->

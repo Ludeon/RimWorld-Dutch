@@ -101,7 +101,7 @@
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
   <CurrentGoodwillTip_NaturalGoodwill>Deze factie heeft een natuurlijke goedwilligheid die varieert van {0} tot {1}.</CurrentGoodwillTip_NaturalGoodwill>
   <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>Indien de goedwilligheid onder {0} ligt, stijgt deze met {2} per jaar.</CurrentGoodwillTip_NaturalGoodwillRise>
+  <CurrentGoodwillTip_NaturalGoodwillRise>Indien de goedwilligheid onder {0} ligt, stijgt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
   <CurrentGoodwillTip_NaturalGoodwillFall>Indien de goedwilligheid hoger is dan {0}, daalt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillFall>
   

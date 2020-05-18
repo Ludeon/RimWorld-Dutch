@@ -6,7 +6,7 @@
   <!-- EN: Go back -->
   <GoBack>Terug</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>TODO</WantToContinue>
+  <WantToContinue>Wil je doorgaan?</WantToContinue>
   <!-- EN: OK -->
   <OK>OK</OK>
   <!-- EN: Close -->
@@ -301,13 +301,13 @@
   <!-- EN: Cooldown -->
   <CooldownTime>Afkoeltijd</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>TODO</DisarmedTime>
+  <DisarmedTime>Ontwapend</DisarmedTime>
   <!-- EN: Charging -->
-  <ChargingTime>TODO</ChargingTime>
+  <ChargingTime>Oplaad</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>TODO</ChargingNext>
+  <ChargingNext>Volgende lading (voor {1}) over: {0}\nLaadcyclus: {2}</ChargingNext>
   <!-- EN: Shut down -->
-  <ShutDown>TODO</ShutDown>
+  <ShutDown>Afsluiten</ShutDown>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Shietfrequentie</BurstShotFireRate>
   <!-- EN: Range -->
@@ -363,7 +363,7 @@
   <!-- EN: Diet -->
   <Diet>Dieet</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
+  <NutritationEatenPerDay>voedingsvereiste per dag</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Leder type</LeatherType>
   <!-- EN: Body size -->
@@ -375,7 +375,7 @@
   <!-- EN: Covers -->
   <Covers>Afdekkingen</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>TODO</CreatedAt>
+  <CreatedAt>Gemaakt bij</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Laag</Layer>
   <!-- EN: Cover effectiveness -->
@@ -413,7 +413,7 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Succes kans vermenigvuldigingsfactor</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>Sterfkans bij mislukte operatie</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Werksnelheid geregeld door</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
@@ -449,43 +449,43 @@
   <!-- EN: Power consumption -->
   <PowerConsumption>Stroomverbruik</PowerConsumption>
   <!-- EN: Target -->
-  <Target>TODO</Target>
+  <Target>Doelwit</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>TODO</AbilityTargetDesc>
+  <AbilityTargetDesc>Het type doelwit waarop deze vaardigheid kan worden gebruikt.</AbilityTargetDesc>
   <!-- EN: human -->
-  <TargetHuman>TODO</TargetHuman>
+  <TargetHuman>mens</TargetHuman>
   <!-- EN: animal -->
-  <TargetAnimal>TODO</TargetAnimal>
+  <TargetAnimal>dier</TargetAnimal>
   <!-- EN: self -->
-  <TargetSelf>TODO</TargetSelf>
+  <TargetSelf>zelf</TargetSelf>
   <!-- EN: ground -->
-  <TargetGround>TODO</TargetGround>
+  <TargetGround>grond</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <ClickToLearnMore>Klik voor meer informatie.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>TODO</ClickToViewFactions>
+  <ClickToViewFactions>Klik om facties te bekijken.</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>TODO</MeditationFocuses>
+  <MeditationFocuses>Meditatiefocustypen</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Ontgrendelt meditatiefocustypen</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>De meditatiefocustypen die deze persoon kan gebruiken. Tijdens het mediteren kan een persoon focusen op een object om hun psyfocus te verbeteren - maar alleen als dat object een focustype heeft dat ze kunnen gebruiken. De meditatietypes voor elke persoon worden bepaald door hun achtergrond, eigenschappen, sociale posite, etc.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
+  <MeditationFocusesDesc>De meditatiefocustypen die dit object biedt. Tijdens het mediteren kan een persoon focusen op dit object om hun psyfocus te verbeteren, maar alleen als ze een van de meditatietypen van dit object kunnen gebruiken. De meditatietypes voor elke persoon worden bepaald door hun achtergrond, eigenschappen, sociale posite, etc.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Kan {0} focustype gebruiken, omdat</MeditationFocusCanUse>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>heeft titel: {TITLE} ({FACTION_name})</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
-  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByChildhood>heeft jeugd</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
-  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByAdulthood>heeft volwassenheid</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
-  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByTrait>heeft eigenschap</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
-  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
+  <MeditationFocusDisabledByTrait>heeft niet eigenschap</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>Staat meditatiefocustypen toe</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -521,7 +521,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>Onderhandelaar</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>Onderhandelaar: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Uw onderhandelaar {1_labelShort} kan niet goed praten vanwege een slechte gezondheid.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -557,17 +557,17 @@
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Terug naar de handelsmodus.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} wil geen karavaan sturen, want {NEGOTIATOR_nameDef} heeft niet de titel {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Dingen die deze handelaar zal kopen</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <TraderNotVisitedYet>Nooit bezocht - onbekende voorraad</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>Vooraad aangevuld sinds je laatste bezoek</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>TODO</NextTraderRestock>
+  <NextTraderRestock>Volgende aanvulling: {0} dagen</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>wezens</PawnsTabShort>
   
@@ -713,7 +713,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>Weet je zeker dat je {0} wilt aanvallen?\n\nDit maakt {1} vijandig, en ze zullen uiteindelijk je kolonie aanvallen!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -721,23 +721,23 @@
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>De toegewezen mensen en voorwerpen zijn te zwaar voor de transportcapsules.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>De toegewezen personen en voorwerpen zijn te zwaar voor de shuttle.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>U kunt geen lege transportcapsules versturen.</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>Je kunt geen lege shuttle sturen.</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} kan de transportcapsules niet bereiken.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>{1_labelShort} kan de shuttle niet bereiken.</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Er is geen pad tussen de transportcapsules en de {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>Er is geen pad tussen de shuttle en de {0}.</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>Er is geen pad tussen de transportcapsules en {0}x {1}.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>Er is geen pad tussen de shuttle en {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -933,30 +933,30 @@
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>Weet je zeker dat je deze monumentmarkering wilt verwijderen?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <AbilityRequiresLOS>Gezichtsveld vereist</AbilityRequiresLOS>
   <!-- EN: Entropy gain -->
-  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <AbilityEntropyGain>Entropietoename</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>Psyfocus kosten</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
-  <AbilityDuration>TODO</AbilityDuration>
+  <AbilityDuration>Effectduur</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <AbilityEffectRadius>Effectradius</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <AbilityCastingTime>Uitspreektijd</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>Doelwit buiten gezichtsveld.</AbilityCannotHitTarget>
   <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <AbilityOccupiedCells>{0} moet een lege ruimte als doelwit gebruiken.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  <AbilityUnwalkable>{0} moet een begaanbare ruimte als doelwit gebruiken.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
-  <AbilityRoofed>TODO</AbilityRoofed>
+  <AbilityRoofed>{0} moet een ruimte zonder dak als doelwit gebruiken.</AbilityRoofed>
   <!-- EN: {0} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0} is mentaal gebroken.</AbilityCantApplyToMentallyBroken>
   
 </LanguageData>

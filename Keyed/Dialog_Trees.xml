@@ -11,7 +11,7 @@
   <FactionGreetingWarm>{0} begroet {NEGOTIATOR_labelShort} hartelijk en vraagt wat {LEADER_pronoun} kan doen om u te helpen.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>zal niet {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Verbinding verbreken</Disconnect>
 

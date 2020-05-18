@@ -63,7 +63,7 @@
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>Vermenigvuldigingsfactor voor lichaamsgrootte {0}</StatsReport_BodySize>
   <!-- EN: Carefully slaughtered without wounds -->
-  <StatsReport_HasHediffExplanation>TODO</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Zorgvuldig geslacht zonder wonden</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = Schade door melee-aanval * raakkans / afkoeling in seconden</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->

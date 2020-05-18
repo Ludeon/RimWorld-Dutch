@@ -61,9 +61,9 @@
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>Een handelsschip is in de buurt.\n\nZe staan bekend als {0}. Ze zijn een {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>Ze zijn geaffilieerd met {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>Ze zijn een onafhankelijke groep.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>A {PAWN_titel} van {1} komt voorbij. {PAWN_pronoun} heet {PAWN_nameFull}.</SingleTravelerPassing>
@@ -102,9 +102,9 @@
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>{0} dagen wakker</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>{0} dagen geleden geactiveerd</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>{0} dagen geleden geopend</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Psychische bromtoon-niveau: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
@@ -170,7 +170,7 @@
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>Je hebt de coördinaten van (*Name)Charlon Whitestone(/Name) bereikt en het verborgen ruimteschip ontdekt.\n\nDe scheepsreactor staat nog steeds in diepe slaapstand, dus het kan nog niet vliegen. Je kunt de reactor opstarten door interactie met de computerkern.\n\n(*Name)Charlon Whitestone(/Name) waarschuwt je dat het opstartproces ongeveer 15 dagen in beslag zal nemen en dat de energiesignatuur van veraf waarneembaar zal zijn. Dit soort energiesignatuur duidt op interstellaire vluchtmogelijkheden en zal bendes van wanhopige overvallers en zwermen dodelijke mechanoïden aantrekken.\n\nJe zal worden aangevallen met een intensiteit die je nog nooit hebt gezien. Zorg er eerst voor dat je verdediging goed is voorbereid.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name)/Name> warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful> (*Name)Charlon Whitestone(/Name) bereikt en het verborgen ruimteschip ontdekt.\n\nDe scheepsreactor staat nog steeds in diepe slaapstand, dus het kan nog niet vliegen. Je kunt de reactor opstarten door interactie met de computerkern.\n\n(*Name)Charlon Whitestone(/Name) waarschuwt je dat het opstartproces ongeveer 15 dagen in beslag zal nemen.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Schip vernield</EscapeShipLostLabel>
   <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
@@ -190,7 +190,7 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>geen enkel lid van de karavaan is in staat om handel te drijven</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>vereist een handelaar met titel {0} van {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
@@ -226,32 +226,20 @@
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Opdracht mislukt</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>De opdracht kan niet worden voltooid, omdat {FACTION_name} vijandig is.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Opdracht mislukt</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>De opdracht kan niet worden voltooid omdat {SUBJECT_definite} gevangen is genomen.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Opdracht mislukt</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
-
-  <!-- UNUSED -->
-  <LetterLabelPsychicDrone>Psychische bromtoon</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Alle {0}e kolonisten vertrekken van de pijn!\n\nIn de verte roert zich een organisme vol haat. Het projecteert een krachtige psychische bromtoon over deze hele regio, op een frequentie die alleen het {0} geslacht lijkt te beïnvloeden. Voor een paar dagen, zal de stemming van sommige mensen een behoorlijk stuk slechter zijn.\n\nHet bromtoon-niveau is {1}.</LetterIncidentPsychicDrone>
-  <LetterLabelPsychicSoothe>Psychische verlichting </LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Elke kolonist van het {0}e geslacht lacht tevreden!\n\nIn de verte roert zich een organisme vol blijdschap.  Het projecteert een krachtige psychische bromtoon over deze hele regio, op een frequentie die alleen het {0} geslacht lijkt te beïnvloeden. Een paar dagen lang zal de stemming van sommige mensen een stuk beter zijn.</LetterIncidentPsychicSoothe>
-  <RefugeeChasedTitle>Vluchteling achtervolgd bij {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>{PAWN_titleIndef} genaamd {PAWN_nameDef} roept u van dichtbij op. {PAWN_pronoun} wordt achtervolgd door {2} uit {3}!\n\n{PAWN_pronoun} vertelt u dat {PAWN_pronoun} {4} jaar oud is, maar er is geen tijd om meer informatie te verzamelen.\n\nWees gewaarschuwd - als u akkoord gaat, moet u de {2} op {PAWN_possessive} staart bestrijden. Hun groep bestaat uit:\n\n{5}</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Veiligheid bieden</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Negeer het bericht</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{1_labelShort} schreeuwt in paniek door de kleine luidspreker voordat je de transmissie verbreekt.</RefugeeChasedRejected>
-  <JourneyOffer>Een vriendelijke kunstmatige intelligentie uit je verleden genaamd Charlon Whitestone heeft je een bericht gestuurd!\n\nHij onthult dat hij een ruimteschip heeft verborgen op deze planeet, en stuurt je zijn coördinaten.\n\nHet ruimteschip staat momenteel in diepe slaapstand. Je zult het moeten opstarten wanneer je aankomt en het dan verdedigen tegen rovers die het schip proberen te stelen totdat de opstartprocedure voltooid is.\n\nAls je het schip van de grond kunt krijgen, brengt Charlon je van deze randwereld naar de sterren.</JourneyOffer>
+  <LetterQuestAskerDied>De opdracht kan niet worden voltooid omdat {SUBJECT_definite} is overleden.</LetterQuestAskerDied>
 
 </LanguageData>

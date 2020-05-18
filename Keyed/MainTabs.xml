@@ -125,11 +125,11 @@
   <!-- EN: Select graph -->
   <SelectGraph>Grafiek kiezen</SelectGraph>
   <!-- EN: Last 30 days -->
-  <Last30Days>laatste 30 dagen</Last30Days>
+  <Last30Days>30 dagen</Last30Days>
   <!-- EN: Last 100 days -->
-  <Last100Days>laatste 100 dagen</Last100Days>
+  <Last100Days>100 dagen</Last100Days>
   <!-- EN: Last 300 days -->
-  <Last300Days>laatste 300 dagen</Last300Days>
+  <Last300Days>300 dagen</Last300Days>
   <!-- EN: All -->
   <AllDays>Alles</AllDays>
   <!-- EN: Value -->
@@ -179,7 +179,7 @@
   <!-- EN: Unresearched -->
   <Unresearched>Niet onderzocht</Unresearched>
   <!-- EN: Finished -->
-  <Finished>Afgemaakt</Finished>
+  <Finished>Onderzocht</Finished>
   <!-- EN: In Progress -->
   <InProgress>In uitvoering</InProgress>
   <!-- EN: Locked -->

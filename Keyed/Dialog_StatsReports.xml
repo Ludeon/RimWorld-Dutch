@@ -116,7 +116,7 @@
   <StatsReport_NonToolAttack>Aanval</StatsReport_NonToolAttack>
   
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>Mogelijke offsets</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
   <StatsReport_RoomImpressiveness>Kamerindruk</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
@@ -227,66 +227,66 @@
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
   <Stat_Recipe_EfficiencyStat_Desc>Welke eigenschap de kwaliteit of hoeveelheid van het resultaat bepaalt.\n\nHoe hoger de eigenschap van de werker, des te hoger de kwaliteit of de opbrengst van het resultaat zal zijn.</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Vermenigvuldigingsfactor op de kans dat deze operatie succesvol is. Moeilijkere operaties hebben lagere vermenigvuldigingsfactoren.\n\nDe echte kans op succes van een operatie is ook afhankelijk van de dokter, faciliteiten en het type medicijn dat wordt gebruikt.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Kan niet mislukken</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Het uitvoeren van deze operatie is veilig voor de patiënt.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>TODO</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>De kans dat de patiënt zal overlijden door deze operatie.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: The addictiveness of this drug. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>TODO</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>De verslavendheid van deze drug.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: Total bleed factor -->
-  <Stat_Hediff_TotalBleedFactor_Name>TODO</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Name>Totale bloedfactor.</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
-  <Stat_Hediff_TotalBleedFactor_Desc>TODO</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_TotalBleedFactor_Desc>Vermenigvuldigingsfactor op de totale snelheid van bloedverlies.</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
-  <Stat_Hediff_NaturalHealingFactor_Name>TODO</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Name>Natuurlijk herstellende factor</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
-  <Stat_Hediff_NaturalHealingFactor_Desc>TODO</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Desc>Vermenigvuldigingsfactor op de snelheid van het natuurlijk herstel van wonden.</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Voedselvergiftiging kans factor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Vermenigvuldigingsfactor op de kans dat je voedselvergiftiging oploopt</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition is drains blood. -->
-  <Stat_Hediff_BleedingRate_Desc>TODO</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>De snelheid waarmee deze conditie bloedverlies veroorzaakt.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
-  <Stat_Hediff_Pain_Desc>TODO</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_Pain_Desc>De hoeveelheid pijn die deze conditie veroorzaakt.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
-  <Stat_Hediff_PartEfficiency_Desc>TODO</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>De offset in efficiëntie op lichaamsdelen die hierdoor getroffen zijn.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: The mental abilities this affects. -->
-  <Stat_Hediff_Affects_Desc>TODO</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_Affects_Desc>De mentale vaardigheden die dit treft.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
-  <Stat_Hediff_HungerRateOffset_Name>TODO</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateOffset_Name>Hongersnelheid offset</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateFactor_Desc>TODO</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateFactor_Desc>Vermenigvuldigingsfactor op de snelheid waarmee honger oploopt.</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateOffset_Desc>TODO</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>Een offset op de snelheid waarmee honger oploopt.</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
-  <Stat_Hediff_TirednessOffset_Name>TODO</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Name>Rustaftelsnelheid</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>TODO</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>Een offset op de snelheid waarme uitgerustheid aftelt.</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessFactor_Desc>TODO</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>Vermenigvuldigingsfactor op de snelheid waarmee uitgerustheid aftelt.</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
-  <Stat_Hediff_PreventsInfection_Desc>TODO</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>Of dit wel of niet infecties voorkomt.</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
-  <Stat_Thing_Terrain_Supports_Desc>TODO</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>De dingen die dit terrein ondersteunt.</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>TODO</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>Dit kan alleen geplaatst worden op terrein van deze typen.</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>Beoordeeld</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>Fraai</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>Deze vloer wordt als fraai beoordeeld, en is geschikt voor adel.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
-  <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>De hoeveelheid electriciteit die dit gebouw zal gebruiken.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: The overall efficiency of this body part. -->
-  <Stat_Thing_BodyPartEfficiency_Desc>TODO</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>De algemene efficiëncie van dit lichaamsdeel</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Biocodering</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>Dit voorwerp is gecodeerd om alleen een biosignatuur van een specifiek persoon te accepteren.</Stat_Thing_Biocoded_Desc>
 
 </LanguageData>

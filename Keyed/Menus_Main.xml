@@ -395,7 +395,7 @@
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>Onbeschikbaar werk:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>Vanwege queestestatus: {0}</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Vanwege opdrachtstatus: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Eigenschappen</Traits>
   <!-- EN: Permanent mood effect -->

@@ -23,29 +23,29 @@
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Waarschuwing: Het gemiddelde van de relevante vaardigheden is zeer laag.</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>Prioriteit 1 wordt als eerste aan gewerkt, prioriteit 4 als laatst.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
-  <Priority0>TODO</Priority0>
+  <Priority0>Zal niet</Priority0>
   <!-- EN: Top priority -->
-  <Priority1>TODO</Priority1>
+  <Priority1>Hoogste prioriteit</Priority1>
   <!-- EN: High priority -->
-  <Priority2>TODO</Priority2>
+  <Priority2>Hoge prioriteit</Priority2>
   <!-- EN: Normal priority -->
-  <Priority3>TODO</Priority3>
+  <Priority3>Normale prioriteit</Priority3>
   <!-- EN: Low priority -->
-  <Priority4>TODO</Priority4>
+  <Priority4>Lage prioriteit</Priority4>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Beheer outfits</ManageOutfits>
   <!-- EN: Unchangeable -->
-  <Unchangeable>TODO</Unchangeable>
+  <Unchangeable>Niet te veranderen</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>Wis gedwongen</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>gedwongen</ApparelForcedLower>
   <!-- EN: locked -->
-  <ApparelLockedLower>TODO</ApparelLockedLower>
+  <ApparelLockedLower>op slot</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Gedwongen kledij</ForcedApparel>
   <!-- EN: Edit... -->
@@ -75,7 +75,7 @@
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Dit wezen is een roofdier. Als hij honger heeft, jaagt hij op kleinere wezens - mogelijk ook op mensen.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
-  <IsInMentalState>TODO</IsInMentalState>
+  <IsInMentalState>Dit wezen is heeft op dit moment mentale status: {0}</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -87,23 +87,23 @@
   <!-- EN: Enemy of {0} -->
   <HostileTo>Vijand van {0}</HostileTo>
   <!-- EN: Enemy of:  -->
-  <EnemyOf>TODO</EnemyOf>
+  <EnemyOf>Vijand van: </EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>Huidige goedwilligheid en relaties met deze factie.</CurrentGoodwillTip>
+  <CurrentGoodwillTip>Huidige relatie met deze factie.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>Deze factie is permanent vijandig. Zij zullen uw nederzettingen en karavanen overvallen. De relaties met hen zullen nooit verbeteren, om welke reden dan ook.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>Deze factie is permanent vijandig. Zij zullen je nederzettingen en karavanen overvallen. De relaties met hen zullen nooit verbeteren, om welke reden dan ook.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
   <CurrentGoodwillTip_Ally>Deze factie is geallieerd. Zij zullen strijders sturen om je te helpen wanneer ze dat kunnen. Als relaties onder {0} vallen, worden ze neutraal.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>Deze factie is neutraal. Zij zullen vrij met u handelen en met u praten. Als relaties onder {0} vallen, worden ze vijandig. Als relaties boven {1} uitstijgen, worden ze bondgenoten en gaan ze actief aan de slag om je te helpen.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Deze factie is neutraal. Zij zullen vrij met je handelen en met je praten. Als relaties onder {0} vallen, worden ze vijandig. Als relaties boven {1} uitstijgen, worden ze bondgenoten en gaan ze actief aan de slag om je te helpen.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>Deze factie is vijandig. Zij zullen uw nederzettingen en karavanen overvallen. Als relaties boven {0} uitstijgen, worden ze neutraal.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Deze factie is vijandig. Zij zullen je nederzettingen en karavanen overvallen. Als relaties boven {0} uitstijgen, worden ze neutraal.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Deze factie heeft een natuurlijke goedwilligheid die varieert van {0} tot {1}.</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>Deze factie heeft een natuurlijke relatie die varieert van {0} tot {1}.</CurrentGoodwillTip_NaturalGoodwill>
   <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>Indien de goedwilligheid onder {0} ligt, stijgt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillRise>
+  <CurrentGoodwillTip_NaturalGoodwillRise>Indien de relatie onder {0} ligt, stijgt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillRise>
   <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>Indien de goedwilligheid hoger is dan {0}, daalt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillFall>
+  <CurrentGoodwillTip_NaturalGoodwillFall>Indien de relatie hoger is dan {0}, daalt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillFall>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
@@ -187,11 +187,11 @@
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Vereisten voor onderzoek </ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>Vereist techprints {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
-  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <InsufficientTechprintsApplied>Onvoldoende techprints toegepast ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
-  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <PrerequisitesNotCompleted>Vereiste(n) niet voltooid</PrerequisitesNotCompleted>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>Onderzoekstafel nodig</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
@@ -199,94 +199,94 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Projectbasiskosten {0} wordt {1} voor jou vanwege je technische niveau.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>Techprints zijn beschikbaar van deze facties via handel en opdrachten:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
-  <TechLevelTooLow>TODO</TechLevelTooLow>
+  <TechLevelTooLow>Het technisch niveau van je factie is {0}, maar het niveau van dit project is {1}. Onderzoeksnelheid wordt vermenigvuldigd met {2}.</TechLevelTooLow>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
-  <AvailableQuests>TODO</AvailableQuests>
+  <AvailableQuests>Beschikbaar</AvailableQuests>
   <!-- EN: Active -->
-  <ActiveQuests>TODO</ActiveQuests>
+  <ActiveQuests>Actief</ActiveQuests>
   <!-- EN: Historical -->
-  <HistoricalQuests>TODO</HistoricalQuests>
+  <HistoricalQuests>Historisch</HistoricalQuests>
   <!-- EN: no quest selected -->
-  <NoQuestSelected>TODO</NoQuestSelected>
+  <NoQuestSelected>Geen opdracht geselecteerd</NoQuestSelected>
   <!-- EN: Appeared {0} days ago -->
-  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <AppearedDaysAgo>Werd {0} dagen geleden beschikbaar</AppearedDaysAgo>
   <!-- EN: Appeared on {0} -->
-  <AppearedOn>TODO</AppearedOn>
+  <AppearedOn>Ontvangen op {0}</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>TODO</AcceptedAgo>
+  <AcceptedAgo>Geaccepteerd {0} geleden</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
-  <AcceptedOn>TODO</AcceptedOn>
+  <AcceptedOn>Geaccepteerd op {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <AcceptedAgoBy>Geaccepteerd {0} geleden door {1}</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <AcceptedOnBy>Geaccepteerd op {0} door {1}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
-  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <QuestExpiresIn>Verloopt over {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
-  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <QuestExpiresOn>Verloopt op {0}</QuestExpiresOn>
   <!-- EN: Average guest mood: {0} -->
-  <QuestAveragePawnMood>TODO</QuestAveragePawnMood>
+  <QuestAveragePawnMood>Gemiddeld gasthumeur: {0}</QuestAveragePawnMood>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <ShuttleArrivesIn>Shuttle arriveert over {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <ShuttleArrivesOn>Shuttle arriveert op {0}</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <ShuttleDepartsIn>Shuttle vertrekt over {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <ShuttleDepartsOn>Shuttle vertrekt op {0}</ShuttleDepartsOn>
   <!-- EN: Finished {0} ago -->
-  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <QuestFinishedAgo>{0} geleden afgelopen</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>TODO</AcceptQuest>
+  <AcceptQuest>Accepteer opdracht</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>TODO</AcceptWith>
+  <AcceptWith>Accepteer met {0_labelShort}</AcceptWith>
   <!-- EN: Accept for -->
-  <AcceptQuestFor>TODO</AcceptQuestFor>
+  <AcceptQuestFor>Kies beloning</AcceptQuestFor>
   <!-- EN: Click to accept this quest for this reward. -->
-  <AcceptQuestForTip>TODO</AcceptQuestForTip>
+  <AcceptQuestForTip>Klik om deze opdracht te accepteren voor deze beloning.</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
-  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_OfferExpired>Aanbod is verlopen.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
-  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_UnknownOrSuccess>Je hebt deze opdracht voltooid.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
-  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Failed>Deze opdracht is mislukt.</QuestOutcomeInfo_Failed>
   <!-- EN: Jump to {0} -->
-  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <JumpToTargetCustom>Toon locatie {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
-  <SelectHiveTargets>TODO</SelectHiveTargets>
+  <SelectHiveTargets>Selecteer insectenkolonie</SelectHiveTargets>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
-  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <QuestChallengeRatingTip>Uitdaging. Dit is een algemene waardering die aangeeft hoe moeilijk een opdracht zal zijn met je huige sterkte. Moeilijkere quests geven hogere beloningen.\n\n1: Normaal\n2: Moeilijk\n3: Extreem\n4: Ultiem</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>Deze opdracht vereist</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfied>vrije slaapkamers die voldoet aan de titelvereisten van</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestBedroomRequirementsUnsatisfiedSingle>een vrije slaapkamer die voldoet aan de titelvereisten van</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a colonist with the title of {0}. -->
-  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>een kolonist met de titel {0}</QuestNoColonistWithTitle>
   <!-- EN: Reward preferences -->
-  <ChooseRewards>TODO</ChooseRewards>
+  <ChooseRewards>Beloningsvoorkeuren</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
-  <ChooseRewardsDesc>TODO</ChooseRewardsDesc>
+  <ChooseRewardsDesc>Vertel andere facties wat voor beloningen je voor toekomstige opdrachten wilt ontvangen. Dit heeft geen effect op al openstaande opdrachten.</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
-  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <AcceptRoyalFavor>Accepteer {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>Of je beloond wilt worden met {FACTION_royalFavorLabel} van {FACTION_name}.\n\nAls dit uitstaat zal {FACTION_name} een ander soort beloning uitloven.\n\nDeze instelling is alleen van toepassing op nieuwe opdrachten.</AcceptRoyalFavorDesc>
   <!-- EN: Accept goodwill -->
-  <AcceptGoodwill>TODO</AcceptGoodwill>
+  <AcceptGoodwill>Accepteer reputatie</AcceptGoodwill>
   <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
-  <AcceptGoodwillDesc>TODO</AcceptGoodwillDesc>
+  <AcceptGoodwillDesc>Of je beloond wilt worden met verbeterde factierelaties met {FACTION_name}.\n\nAls dit uitstaat zal {FACTION_name} een ander soort beloning uitloven.\n\nDeze instelling is alleen van toepassing op nieuwe opdrachten.</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <RoyalFavorOn>Op dit moment kies je ervoor om {FACTION_royalFavorLabel} te ontvangen.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOff>TODO</RoyalFavorOff>
+  <RoyalFavorOff>Op dit moment kies je ervoor om GEEN {FACTION_royalFavorLabel} te ontvangen.</RoyalFavorOff>
   <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
-  <GoodwillTip>TODO</GoodwillTip>
+  <GoodwillTip>Je relatie met {0_name} zal verbeteren met {1}.\n\nHuidige relatie: {4} ({5}).\n\nReputatie meet de relatie tussen facties. Als het onder {2} komt, wordt de factie vijandelijk en zal je kolonie en karavanen aanvallen. Als het boven {3} uitkomt zal de factie je bondgenoot worden en soldaten sturen om te helpen wanneer ze dat kunnen. Bij andere waardes blijft de factie neutraal en zal met je handelen en spreken.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
-  <PawnQuestReward>TODO</PawnQuestReward>
+  <PawnQuestReward>{0_labelShort} sluit zich aan</PawnQuestReward>
 
 </LanguageData>

@@ -113,9 +113,9 @@
   <!-- EN: flat -->
   <Hilliness_Flat>vlak</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>kleine heuvels</Hilliness_SmallHills>
+  <Hilliness_SmallHills>glooiend</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>grote heuvels</Hilliness_LargeHills>
+  <Hilliness_LargeHills>heuvelachtig</Hilliness_LargeHills>
   <!-- EN: mountainous -->
   <Hilliness_Mountainous>bergachtig</Hilliness_Mountainous>
   <!-- EN: impassable -->
@@ -209,9 +209,9 @@
   <!-- EN: Show animal names -->
   <ShowAnimalNames>Toon dierennamen</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>Tem (alleen met naam)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>Tam (met naam)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>Tem (alle)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>Tam (alle)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <!-- EN: Celsius -->

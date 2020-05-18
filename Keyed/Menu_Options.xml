@@ -21,11 +21,11 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pauzeer bij dringende brief</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Pauzeer bij</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Aangepaste muiscursor</CustomCursor>
   <!-- EN: Hats shown only on game map -->
-  <HatsShownOnlyOnMap>Hoeden alleen getoond op de kaart van het spel </HatsShownOnlyOnMap>
+  <HatsShownOnlyOnMap>Hoeden alleen op kaart tonen</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>UI-schaal</UIScale>
   <!-- EN: Keyboard configuration -->
@@ -49,9 +49,9 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Toon locatie van opgeslagen gegevens</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <OpenLogFileFolder>Open logbestanden map</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>TODO</ShowLogFileLocation>
+  <ShowLogFileLocation>Toon logbestanden map</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Voorkeurspersonages die door een speler zijn gemaakt. Deze karakters zullen eerder willekeurig verschijnen tijdens het spelen:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -71,7 +71,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Maximaal aantal kolonies: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
-  <MapDragSensitivity>TODO</MapDragSensitivity>
+  <MapDragSensitivity>Kaart muissleep gevoeligheid</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Plantenbeweging (wind)</PlantWindSway>
   <!-- EN: Enable test map sizes -->
@@ -81,7 +81,7 @@
   <!-- EN: Mod Settings -->
   <ModSettings>Mod instellingen</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>schakel de ontwikkelingsmodus permanent uit</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>Schakel dev-mode permanent uit</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
@@ -97,10 +97,10 @@
   
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
-  <RestoreToDefaultSettings>Terugzetten naar de standaardinstellingen</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>Standaardinstellingen herstellen</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Je opties zijn gereset. Het spel wordt nu automatisch opnieuw gestart.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Al je instellingen worden teruggezet op de standaard waarden en het spel wordt herstart. Alle onopgeslagen voortgang gaat verloren!\n\nDoorgaan?</ResetAndRestartConfirmationDialog>
   
 </LanguageData>

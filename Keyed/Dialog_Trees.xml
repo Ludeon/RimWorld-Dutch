@@ -21,19 +21,19 @@
   <!-- EN: must be ally -->
   <MustBeAlly>moet bondgenoot zijn</MustBeAlly>
   <!-- EN: need {0} goodwill -->
-  <NeedGoodwill>{0} goedwilligheid nodig</NeedGoodwill>
+  <NeedGoodwill>{0} relatie nodig</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
   <NeedSilverLaunchable>{0} zilver in de buurt van handelsbakens nodig</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
   <NotEnoughSilver>Niet genoeg zilver.</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
-  <SilverForGoodwill>{0} zilver voor {1} goedwilligheid</SilverForGoodwill>
+  <SilverForGoodwill>{0} zilver voor {1} relatie</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
-  <SilverGiftSent>{0} bedankt u.\n\n(Goedwilligheid verbeterd met {1})</SilverGiftSent>
+  <SilverGiftSent>{0} bedankt u.\n\n(Relatie verbetert met {1})</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
-  <RequestTrader>Vraag een handelscaravan aan (kosten: {0} goedwilligheid)</RequestTrader>
+  <RequestTrader>Vraag een handelscaravan aan (kosten: {0} relatie)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
   <ChooseTraderKind>{0} vraagt wat voor soort handelskaravaan u wilt.</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
@@ -51,7 +51,7 @@
   
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
-  <RequestMilitaryAid>Onmiddellijke militaire hulp aanvragen (kosten: {0} goedwilligheid)</RequestMilitaryAid>
+  <RequestMilitaryAid>Onmiddellijke militaire hulp aanvragen (kosten: {0} relatie)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
   <MilitaryAidConfirmMutualEnemy>{0} zal je niet helpen om andere facties te bestrijden die niet hun vijanden zijn. Dit geldt ook voor sommigen die jou momenteel bedreigen, {1}. Wilt u nog steeds om hulp vragen?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->

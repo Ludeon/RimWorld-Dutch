@@ -19,7 +19,7 @@
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Deïnstalleren</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Deïnstalleer dit zodat het kan worden verplaats, verkocht of ergens anders kan worden geïnstalleerd.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Deïnstalleer dit zodat het kan worden verplaatst, verkocht of ergens anders kan worden geïnstalleerd.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Oogsten</DesignatorHarvest>
@@ -32,11 +32,11 @@
   <DesignatorHarvestWoodDesc>Markeert bomen om om te hakken, je krijgt hier hout voor terug.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>Objecten vervoeren</DesignatorHaulThings>
+  <DesignatorHaulThings>Verslepen</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Markeert objecten zoals stenen om weggesleept te worden naar een opslagplaats. Niet nodig voor dingen als eten en lijken, die worden automatisch versleept.Markeer rotsblokken en andere voorwerpen die naar stortplaatsen moeten worden gesleept. Niet nodig voor zaken als voedsel of lijken, die zijn altijd te vervoeren.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Markeert objecten zoals stenen om weggesleept te worden naar een opslagplaats. Niet nodig voor dingen als voedsel en lijken, die worden automatisch versleept.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Je kunt alleen dingen markeren die ververvoerbaar zijn, maar die niet altijd al vervoerbaar zijn (zoals rotsblokken).</MustHaulHaulables>
+  <MustHaulHaulables>Je kunt alleen dingen markeren die versleepbaar zijn, maar niet automatisch worden versleept (zoals rotsblokken).</MustHaulHaulables>
 
   <!-- EN: Hunt -->
   <DesignatorHunt>Jagen</DesignatorHunt>
@@ -49,9 +49,9 @@
   <DesignatorMineDesc>Markeert gesteente dat gedolven moet worden.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>Oppervlakte glad maken</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Polijsten</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>Selecteer ruig terrein of muren die moeten worden gladgestreken..</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Selecteer ruig terrein of muren die moeten worden gepolijst.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Plannen</DesignatorPlan>
@@ -64,23 +64,23 @@
   <DesignatorPlanRemoveDesc>Haalt de 'gepland' markering weg van geplande vakken.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>Verbied</DesignatorForbid>
+  <DesignatorForbid>Verbieden</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>Selecteer items als verboden. Kolonisten kunnen dan geen interacties aangaan met deze items.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>Niet verboden</DesignatorUnforbid>
+  <DesignatorUnforbid>Toestaan</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>Markeer items als niet verboden. Kolonisten kunnen dan interacties aangaan met deze items.</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Markeer items als toegestaan. Kolonisten kunnen dan interacties aangaan met deze items.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>Breidt thuiszone uit.</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Thuiszone uitbreiden</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
   <DesignatorAreaHomeExpandDesc>Kolonisten repareren gebouwen, maken vloeren schoon en blussen branden alleen in de thuiszone.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>Verwijder thuiszone</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Thuiszone verwijderen</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>Verwijderd de thuiszone. Kolonisten zullen hier niet langer schoonmaken, repareren of branden blussen.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Verwijdert de thuiszone. Kolonisten zullen hier niet langer schoonmaken, repareren of branden blussen.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
   <DesignatorAreaBuildRoofExpand>Bouw dak zone</DesignatorAreaBuildRoofExpand>
@@ -93,16 +93,16 @@
   <DesignatorAreaNoRoofExpandDesc>Kolonisten zullen de daken in dit gebied verwijderen (behalve in een berg, dat kan niet worden verwijderd)</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>NEgeer dak zone</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Negeer dak zone</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Kolonisten zullen daken in dit gebied negeren.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
-  <DesignatorAreaSnowClearExpand>Breid sneeuwvrije zone uit</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Sneeuwvrije zone uitbreiden</DesignatorAreaSnowClearExpand>
   <!-- EN: Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>Creëer een zone dat de kolonisten zullen proberen sneeuwvrij te houden.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>Creëer een zone die de kolonisten sneeuwvrij zullen proberen te houden.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear>Verwijder sneeuwvrije zone</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Sneeuwvrije zone verwijderen</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Verwijdert een sneeuwvrije zone. Kolonisten zullen niet langer proberen dit gebied sneeuwvrij te houden.</DesignatorAreaSnowClearClearDesc>
 
@@ -162,7 +162,7 @@
   <DesignatorOpenDesc>Open containers.</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>Slacht</DesignatorSlaughter>
+  <DesignatorSlaughter>Slachten</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
   <DesignatorSlaughterDesc>Slacht een tam dier.</DesignatorSlaughterDesc>
 

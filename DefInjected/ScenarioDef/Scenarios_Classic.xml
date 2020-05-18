@@ -21,7 +21,7 @@
   <!-- EN: Lost Tribe -->
   <LostTribe.scenario.name>Verloren stam</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>De goden waren ziedend. De bloedmachines kwamen 's-nachts. Ze jaagden door je dorp, al moordend en brandend met hun messen den duivelse vuur.\n\nMaar een handvol stamleden wist te ontsnappen.\n\nNa een barre tocht, zonder vrienden om te helpen, moet je een nieuw thuis opbouwen in de wildernis - zoals je voorouders dat ooit deden.</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>De goden waren ziedend. De bloedmachines kwamen 's-nachts. Ze jaagden door je dorp, al moordend en brandend met hun messen en duivels vuur.\n\nMaar een handvol stamleden wist te ontkomen.\n\nNa een barre tocht, zonder vrienden om te helpen, moet je een nieuw thuis opbouwen in de wildernis - zoals je voorouders dat ooit deden.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>Vijf verloren stamleden proberen weer op te bouwen. Moeilijk.</LostTribe.scenario.summary>
   

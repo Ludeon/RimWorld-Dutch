@@ -379,7 +379,7 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>geen actief onderzoeksproject</NoActiveResearchProjectToFinish>
   <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>TODO</CannotResearchNoBench>
+  <CannotResearchNoBench>Kan niet onderzoeken: Geen onderzoekstafel</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>geschutskoepel</Turret>
   <!-- EN: turrets -->
@@ -391,27 +391,27 @@
   <!-- EN: enemy -->
   <Enemy>vijand</Enemy>
   <!-- EN: location -->
-  <Location>TODO</Location>
+  <Location>locatie</Location>
   <!-- EN: animals -->
-  <AnimalsLower>TODO</AnimalsLower>
+  <AnimalsLower>dieren</AnimalsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>TODO</FilthLabel>
+  <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <FilthLabelWithSource>{0} van {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>TODO</Required>
+  <Required>Vereist</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
   <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>TODO</PrisonerLower>
+  <PrisonerLower>gevangene</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>TODO</PrisonersLower>
+  <PrisonersLower>gevangenen</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>Klik om deze opdracht in de opdrachtentab te bekijken</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>TODO</Mood>
+  <Mood>Humeur</Mood>
   <!-- EN: Quest -->
-  <Quest>TODO</Quest>
+  <Quest>Opdracht</Quest>
   <!-- EN: Brings raids every {0} -->
   <BringsRaidsEvery>TODO</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->

@@ -2,94 +2,94 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>TODO</Brewing.label>
+  <Brewing.label>Bierbrouwen</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>TODO</Brewing.description>
+  <Brewing.description>Bouw een brouwerij en fermenteringsvaten om hop om te zetten in heerlijk helder bier.</Brewing.description>
   
   <!-- EN: carpet making -->
-  <CarpetMaking.label>Tapijten</CarpetMaking.label>
+  <CarpetMaking.label>Tapijtmaken</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
   <CarpetMaking.description>Hiermee kun je tapijten maken, die de gedachten van de kolonisten zullen verbeteren</CarpetMaking.description>
   
   <!-- EN: cocoa -->
-  <Cocoa.label>TODO</Cocoa.label>
+  <Cocoa.label>cacao</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
-  <Cocoa.description>TODO</Cocoa.description>
+  <Cocoa.description>Plant cacaobomen om je eigen heerlijke chocolade te maken. Het eten van chocolade helpt het plezier van je kolonisten, en het is waardevol op de markt.</Cocoa.description>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>TODO</ComplexClothing.label>
+  <ComplexClothing.label>complexe kleding</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>TODO</ComplexClothing.description>
+  <ComplexClothing.description>Maak gecompliceerde kleding zoals broeken, stofmantels en cowboyhoeden.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <ComplexFurniture.label>complexe meubels</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  <ComplexFurniture.description>Maak gecompliceerde meubels zoals bedden, nachtkastjes, eetkamerstoelen, zetels, gereedschapskisten, kledingkasten, biljarttafels, pokertafels, ventilatieschachten, sarcofagen, en meer.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>TODO</Devilstrand.label>
+  <Devilstrand.label>duivelsgaren</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>TODO</Devilstrand.description>
+  <Devilstrand.description>Plant duivelsgaren, een langzaam groeiende paddestoel die een uitzonderlijk sterke, hittebestendige vezels geeft.</Devilstrand.description>
   
   <!-- EN: drug production -->
-  <DrugProduction.label>TODO</DrugProduction.label>
+  <DrugProduction.label>drugproductie</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>TODO</DrugProduction.description>
+  <DrugProduction.description>Bouw een druglaboratorium voor eenvoudige drugproductie. Meer onderzoek is nodig om specifieke drugs te maken.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>TODO</GoJuiceProduction.label>
+  <GoJuiceProduction.label>go-juice productie</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>TODO</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Produceer go-juice, een synthetische vecht-verbeterende drug waardoor vaardigheid in schieten, melee en beweging toeneemt en pijngevoel afneemt.</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
-  <Greatbow.label>TODO</Greatbow.label>
+  <Greatbow.label>langboog</Greatbow.label>
   <!-- EN: Craft greatbows for killing enemies at great range. -->
-  <Greatbow.description>TODO</Greatbow.description>
+  <Greatbow.description>Maak langbogen om vijanden af te maken op grote afstand.</Greatbow.description>
   
   <!-- EN: long blades -->
-  <LongBlades.label>TODO</LongBlades.label>
+  <LongBlades.label>lange lemmeten</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
-  <LongBlades.description>TODO</LongBlades.description>
+  <LongBlades.description>Maak langzwaarden en speren.</LongBlades.description>
   
   <!-- EN: passive cooler -->
-  <PassiveCooler.label>TODO</PassiveCooler.label>
+  <PassiveCooler.label>passieve koeler</PassiveCooler.label>
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
-  <PassiveCooler.description>TODO</PassiveCooler.description>
+  <PassiveCooler.description>Maak passieve koelers, om binnenruimtes te koelen zonder electriciteit.</PassiveCooler.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>pemmikan</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Maak pemmikan, een mix van gedroogd of gerookt vlees en planten die lang houdbaar zijn. Uitstekend om mee te reizen. </Pemmican.description>
   
   <!-- EN: penoxycyline production -->
-  <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>
+  <PenoxycylineProduction.label>Penoxycyline productie</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
-  <PenoxycylineProduction.description>TODO</PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>Produceer penoxycyline, een preventief medicijn om de pest, malaria en andere ziektes te voorkomen voordat ze beginnen.</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
-  <PlateArmor.label>TODO</PlateArmor.label>
+  <PlateArmor.label>harnas</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>TODO</PlateArmor.description>
+  <PlateArmor.description>Smeed harnassen van metaal of hout. Deze zware bepantsering vertraagt bewegingen, maar beschermt heel effectief.</PlateArmor.description>
   
   <!-- EN: psychite refining -->
-  <PsychiteRefining.label>TODO</PsychiteRefining.label>
+  <PsychiteRefining.label>psychietraffinage</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
-  <PsychiteRefining.description>TODO</PsychiteRefining.description>
+  <PsychiteRefining.description>Raffineer psychietbladeren naar flake en yayo, verschillende vormen van een euforische psychiet drug.</PsychiteRefining.description>
   
   <!-- EN: psychoid brewing -->
-  <PsychoidBrewing.label>TODO</PsychoidBrewing.label>
+  <PsychoidBrewing.label>psychietbrouwen</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
-  <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
+  <PsychoidBrewing.description>Zet thee met psychietbladeren op een kampvuur of bij een kookstation, het drinken heeft een mild euforisch effect.</PsychoidBrewing.description>
   
   <!-- EN: recurve bow -->
-  <RecurveBow.label>TODO</RecurveBow.label>
+  <RecurveBow.label>recurveboog</RecurveBow.label>
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
-  <RecurveBow.description>TODO</RecurveBow.description>
+  <RecurveBow.description>Bouw een recurveboog, een effectief en goedkoop wapen op afstand.</RecurveBow.description>
   
   <!-- EN: smithing -->
-  <Smithing.label>TODO</Smithing.label>
+  <Smithing.label>smeden</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>TODO</Smithing.description>
+  <Smithing.description>Bouw smederijen om metaal te bewerken. Maak wapens zoals messen, gladii en strijdknotsen. Daarnaast kun je ook mooie, schone, metalen vloertegels maken.</Smithing.description>
   
   <!-- EN: stonecutting -->
   <Stonecutting.label>Steenhouwtafel</Stonecutting.label>
@@ -97,13 +97,13 @@
   <Stonecutting.description>Hiermee kun je een steenhouwtafel bouwen. Daarmee kun je nuteloos puin omzetten in blokken steen, waarmee je gebouwen kunt maken.</Stonecutting.description>
   
   <!-- EN: tree sowing -->
-  <TreeSowing.label>TODO</TreeSowing.label>
+  <TreeSowing.label>boomplanten</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
-  <TreeSowing.description>TODO</TreeSowing.description>
+  <TreeSowing.description>Verbouw de lokale bomen op je akkers.</TreeSowing.description>
   
   <!-- EN: wake-up production -->
-  <WakeUpProduction.label>TODO</WakeUpProduction.label>
+  <WakeUpProduction.label>wake-up productie</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
-  <WakeUpProduction.description>TODO</WakeUpProduction.description>
+  <WakeUpProduction.description>Produceer wake-up, een werk-verbeterende drug die slaap vervangt.</WakeUpProduction.description>
   
 </LanguageData>

@@ -191,7 +191,7 @@
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
   <InsufficientTechprintsApplied>Onvoldoende techprints toegepast ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
-  <PrerequisitesNotCompleted>Vereiste(n) niet voltooid</PrerequisitesNotCompleted>
+  <PrerequisitesNotCompleted>Vereiste(n) niet voldaan</PrerequisitesNotCompleted>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>Onderzoekstafel nodig</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->

@@ -4,10 +4,10 @@
   <!-- EN:
     <li>questDescription->A friendly AI from your past named (*Name)Charlon Whitestone(/Name) has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes. It will be a long, difficult series of battles.\n\nIf you can get the ship off the ground, (*Name)Charlon Whitestone(/Name) will take you off this rimworld, to the stars.</li>
   -->
-  <EndGame_ShipEscape.questDescriptionRules.rulesStrings>TODO</EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+  <EndGame_ShipEscape.questDescriptionRules.rulesStrings>questDescription->Een vriendelijke AI uit je verleden met de naam (*Name)Charlon Whitestone(/Name) heeft je een bericht gestuurd!\n\nHij vertelt dat er een ruimteschip verborgen is op deze planeet en stuurt je de coördinaten.\n\nHet ruimteschip is in diepe slaapstand, dus je zult hem moeten opstarten wanneer je arriveert. Terwijl het schip opstart zul je je moeten verdedigen tegen piraten. Het zal een serie moeilijke gevechten worden.\n\nAls je het schip van de grond kunt krijgen, zal (*Name)Charlon Whitestone(/Name) je helpen de planeet te verlaten en je meenemen naar de sterren.</EndGame_ShipEscape.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Ship to the Stars</li>
   -->
-  <EndGame_ShipEscape.questNameRules.rulesStrings>TODO</EndGame_ShipEscape.questNameRules.rulesStrings>
+  <EndGame_ShipEscape.questNameRules.rulesStrings>questName->Schip naar de sterren</EndGame_ShipEscape.questNameRules.rulesStrings>
   
 </LanguageData>

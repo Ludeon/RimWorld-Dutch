@@ -43,7 +43,7 @@
   <!-- EN: Contents -->
   <TabTransporterContents>Inhoud</TabTransporterContents>
   <!-- EN: Contents -->
-  <TabCasketContents>TODO</TabCasketContents>
+  <TabCasketContents>Inhoud</TabCasketContents>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -79,29 +79,29 @@
   <!-- EN: Resistance remaining -->
   <RecruitmentResistance>Resterende weerstand</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>Recruterings basisniveau</RecruitmentDifficulty>
+  <RecruitmentDifficulty>Rekruterings basisniveau</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
-  <RecruitmentChance>TODO</RecruitmentChance>
+  <RecruitmentChance>Rekruteringskans</RecruitmentChance>
   <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
-  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
+  <RecruitmentChanceExplanation>Rekruteringsmoeilijkheid factor: {0}\nHumeur factor: {1}\nGecombineerde basiskans: {2}</RecruitmentChanceExplanation>
   <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
-  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <RecruitmentChanceWithLastRecruiterExplanationPart>\n- - - - - - - - - -\nLaatste rekruteringspoging\nRecruiter: {3}\nOnderhandelingsvaardigheid factor: {4}\nOpinie factor: {5} ({6})\nUiteindelijke kans om {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <!-- EN: \nResistance reduction: {0} -->
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nVerminderde weerstand: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleasePotentialRelationGains>Relatieverbetering bij vrijlating</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleaseRelationGainsDesc>De relatieverbetering met de factie van de gevangene die je zult verdienen door hem vrij te laten. Dit wordt deels bepaald door de fysieke en mentale gesteldheid van de gevangene.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
-  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
+  <PrisonBreakMTBDays>Uitbraakinterval</PrisonBreakMTBDays>
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
-  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <PrisonBreakMTBDaysDescription>Het gemiddelde aantal (wakkere) dagen tussen uitbraakpogingen. Dit wordt deels bepaald door het humeur, mobiliteit en de tijd sinds de laatste uitbraakpoging.\n\nDit cijfer negeert de tijd dat er wordt geslapen, dus de gemiddelde tijd tussen uitbraakpogingen zal langer zijn.</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
-  <Never>TODO</Never>
+  <Never>Nooit</Never>
   <!-- EN: Not while asleep -->
-  <NotWhileAsleep>TODO</NotWhileAsleep>
+  <NotWhileAsleep>Niet tijdens slaap</NotWhileAsleep>
   <!-- EN: Slave price -->
-  <SlavePrice>TODO</SlavePrice>
+  <SlavePrice>Slavenprijs</SlavePrice>
   <!-- EN: Gets food -->
   <GetsFood>Krijgt voedsel</GetsFood>
   <!-- EN: Doctors care -->
@@ -139,7 +139,7 @@
   <!-- EN: Injured -->
   <Injured>Gewond</Injured>
   <!-- EN: Untended injury -->
-  <UntendedInjury>TODO</UntendedInjury>
+  <UntendedInjury>Onverzorgde wond</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>geen gezondheidsproblemen </NoHealthConditions>
   <!-- EN: Whole body -->
@@ -234,7 +234,7 @@
   <!-- EN: Kidnapped -->
   <Kidnapped>Ontvoerd</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
-  <Lent>TODO</Lent>
+  <Lent>Geleend aan {FACTION_name}, keert terug over {1}</Lent>
   <!-- EN: Missing -->
   <Missing>Vermist</Missing>
   <!-- EN: Slave -->
@@ -316,18 +316,18 @@
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Verwijder {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>TODO</ContainedItems>
+  <ContainedItems>Bevatte voorwerpen</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>Wilt u {0} echt verwijderen?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>TODO</DismissQuest>
+  <DismissQuest>Wijs deze opdracht af en verplaats hem naar de historische tab.\n\nDe opdracht kan op elk moment weer worden geaccepteerd. De opdrachttimer zal niet worden gestopt. Je zult geen notificaties ontvangen over afgewezen opdrachten.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
-  <UnDismissQuest>TODO</UnDismissQuest>
+  <UnDismissQuest>Neem afgewezen opdracht alsnog aan.\n\nDe opdracht zal terugkeren op de beschikbare of actieve tab, en notificaties komen weer binnen.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>TODO</QuestDismissed>
+  <QuestDismissed>Deze opdracht is hier omdat hij is afgewezen.\n\nJe kunt de opdracht alsnog accepteren voordat hij afloopt.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
-  <DeleteQuest>TODO</DeleteQuest>
+  <DeleteQuest>Verwijder deze opdracht definitief uit de lijst met opdrachten.</DeleteQuest>
 
 </LanguageData>

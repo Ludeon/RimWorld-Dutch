@@ -80,7 +80,7 @@
   <!-- EN: {0} was formerly part of your faction. -->
   <PawnWasFormerlyColonist>{0} maakte vroeger deel uit van jouw factie.</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
-  <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
+  <PawnWasFormerlyLodger>{0} is hier ooit te gast geweest.</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
   <PawnHasTheseRelationshipsWithColonists>{1_labelShort} heeft deze relaties met je kolonisten:</PawnHasTheseRelationshipsWithColonists>
 
@@ -140,14 +140,14 @@
   <LastFactionRelationsEvent>De laatste gebeurtenis was</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>TODO</ViewRelatedQuest>
+  <ViewRelatedQuest>Toon gerelateerde opdracht</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>TODO</ViewQuest>
+  <ViewQuest>Toon opdracht</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>De laatste gebeurtenissen in het leven van {PAWN_definite}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>TODO</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>Dankzij zijn goede humeur, heeft [PAWN_nameIndef] een inspiratie ervaren!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -192,7 +192,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} en {PAWN2_labelShort} zijn niet langer in een relatie.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} zal {PAWN_possessive} achternaam terugveranderen naar {PAWN_possessive} geboortenaam.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>Uit elkaar</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
@@ -202,7 +202,7 @@
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
   <LetterAcceptedProposal>Op een gegeven moment in de komende dagen of quadrums, zullen ze hun huwelijksceremonie hebben en alle kolonisten uitnodigen. Overweeg het plaatsen van een huwelijksplek als u wilt controleren waar de ceremonie plaatsvindt.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} zal de achternaam {1} aannemen.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
   <LetterRejectedProposal>{INITIATOR_nameFull} zal er niet gelukkig mee zijn.</LetterRejectedProposal>
 
@@ -290,9 +290,9 @@
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
-  <LetterLabelDeepScannerFoundLump>TODO</LetterLabelDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>Ondergronds gescand</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>TODO</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} heeft een klomp begraven {0} gevonden met de ondergrondse scanner!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
@@ -341,16 +341,16 @@
   <!-- EN: Legendary Work -->
   <LetterCraftedLegendaryLabel>Legendarisch werk</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort} heeft een {CRAFTED_labelShort} gemaakt.\n\nNieuws over dit waardevolle artefact zal zich over de hele wereld verspreiden.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} heeft een {CRAFTED_labelShort} gemaakt.\n\nNieuws over dit waardevolle artefact wordt over de hele wereld verspreid.</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessageArt>TODO</LetterCraftedLegendaryMessageArt>
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} heeft een {CRAFTED_labelShort} gemaakt.\n\n{0}\n\nNieuws over dit waardevolle artefact wordt over de hele wereld verspreid.</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>TODO</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>Meesterwerk</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <LetterCraftedMasterworkMessage>TODO</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} heeft een {CRAFTED_labelShort} gemaakt.</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
-  <LetterCraftedMasterworkMessageArt>TODO</LetterCraftedMasterworkMessageArt>
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} heeft een {CRAFTED_labelShort} gemaakt.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
@@ -410,112 +410,106 @@
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>TODO</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>Een nieuwe opdracht met de titel '{0}' is beschikbaar.</LetterQuestBecameAvailable>
   <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
-  <LetterQuestRequiresAcceptance>TODO</LetterQuestRequiresAcceptance>
+  <LetterQuestRequiresAcceptance>Als je de opdracht niet binnen {0} accepteert zal hij verlopen.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>TODO</LetterQuestBecameActive>
+  <LetterQuestBecameActive>Een nieuwe opdracht met de titel '{0}' is actief geworden.</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>TODO</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>Actieve opdracht: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
-  <LetterQuestActiveNowTime>TODO</LetterQuestActiveNowTime>
+  <LetterQuestActiveNowTime>Hij zal verlopen over {0}.</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->
-  <LetterLabelQuestDropPodsArrived>TODO</LetterLabelQuestDropPodsArrived>
+  <LetterLabelQuestDropPodsArrived>Capsules gearriveerd</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
-  <LetterQuestDropPodsArrived>TODO</LetterQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>Transportcapsules met de volgende inhoud zijn gearriveerd:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRefugeeJoins>TODO</LetterLabelRefugeeJoins>
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} sluit zich aan</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>TODO</LetterRefugeeJoins>
+  <LetterRefugeeJoins>Een {PAWN_title} genaamd {PAWN_nameDef} is gearriveerd en sluit zich aan bij de kolonie.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRescueeJoins>TODO</LetterLabelRescueeJoins>
+  <LetterLabelRescueeJoins>{PAWN_nameDef} sluit zich aan</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
-  <LetterRescueeJoins>TODO</LetterRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} is dankbaar dat je {PAWN_objective} hebt gered. {PAWN_pronoun} heeft besloten dat {PAWN_pronoun} liever hier blijft dan vertrekt, en sluit zich aan bij de kolonie.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
-  <LetterLabelPawnsArriveAndJoin>TODO</LetterLabelPawnsArriveAndJoin>
+  <LetterLabelPawnsArriveAndJoin>Mensen sluiten zich aan</LetterLabelPawnsArriveAndJoin>
   <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
-  <LetterPawnsArriveAndJoin>TODO</LetterPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>De volgende mensen zijn gearriveerd en hebben zich bij de kolonie aangesloten:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
   <!-- EN: People arrived -->
-  <LetterLabelPawnsArrive>TODO</LetterLabelPawnsArrive>
+  <LetterLabelPawnsArrive>Mensen zijn gearriveerd</LetterLabelPawnsArrive>
   <!-- EN: The following people have arrived:\n\n{0} -->
-  <LetterPawnsArrive>TODO</LetterPawnsArrive>
+  <LetterPawnsArrive>De volgende mensen zijn gearriveerd:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnLeaving>TODO</LetterLabelPawnLeaving>
+  <LetterLabelPawnLeaving>{0} vertrekt</LetterLabelPawnLeaving>
   <!-- EN: {0} is leaving. -->
-  <LetterPawnLeaving>TODO</LetterPawnLeaving>
+  <LetterPawnLeaving>{0} vertrekt.</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnsLeaving>TODO</LetterLabelPawnsLeaving>
+  <LetterLabelPawnsLeaving>{0} vertrekken</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
-  <LetterPawnsLeaving>TODO</LetterPawnsLeaving>
+  <LetterPawnsLeaving>{0} vertrekken.</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
-  <LetterLabelPawnsKidnapped>TODO</LetterLabelPawnsKidnapped>
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} is ontvoerd</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>TODO</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} is ontvoerd door {FACTION_name}!\n{PAWN_pronoun} is echter niet voorgoed verloren. Een kans om {PAWN_objective} te redden kan zich in de komende dagen of jaren voordoen.</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>TODO</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>Techprint toegepast: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>TODO</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>Een techprint is toegepast op het onderzoeksproject: {PROJECT_label}</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>TODO</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>Je hebt de techrpintvereisten van het project voltooid! Je onderzoekers kunnen nu aan onderzoekstafels onderzoeken hoe ze de technologie echt moeten gebruiken.</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>TODO</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>De techprintvereisten van dit project zijn nog niet voldaan. {0} techprints zijn tot dusver toegepast. Het project vereist er in totaal {1}.</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>TODO</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>De techprintvereisten van dit project zijn al voldaan. De extra techprint heeft je onderzoek naar {PROJECT_label} bevorderd. De helft van het resterende onderzoekswerk, {0} punten, is voltooid.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>TODO</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>Dit project is al volledig onderzocht, dus de techprint heeft helemaal niet geholpen om je kennis te vorderen.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>TODO</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>Door een techprint toe te passen, heeft {PAWN_labelShort} {0} ervaring opgedaan in de vaardigheid: {1}</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>TODO</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Opdracht voltooid</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
-  <LetterQuestFailedLabel>TODO</LetterQuestFailedLabel>
+  <LetterQuestFailedLabel>Opdracht mislukt</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
-  <LetterQuestConcludedLabel>TODO</LetterQuestConcludedLabel>
+  <LetterQuestConcludedLabel>Opdracht afgesloten</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>TODO</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>Je hebt de opdracht '{0}' succesvol volbracht!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>TODO</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Je hebt de opdracht '{0}' gefaald.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>TODO</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Je hebt de opdracht '{0}' afgesloten.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>TODO</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>Verbintenis: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>TODO</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} heeft een verbintenis opgebouwd met de persoonlijkheid van {WEAPON_labelShort}.\nVanaf nu zal {WEAPON_labelShort} dienst weigeren voor iedereen behalve {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>TODO</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>Mechanoïdecluster</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>TODO</LetterMechClusterArrived>
-
-  <!-- UNUSED -->
-  <PrisonerRescueTimeout>Het kamp zal na {0} dagen verdwijnen. Als je deze kans mist, hoor je misschien nooit meer van {PRISONER_labelShort}.</PrisonerRescueTimeout>
-  <LetterLabelMentalBreakdown>Inzinking</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>Feest</LetterLabelNewParty>
-  <LetterNewParty>{1_labelShort} geeft een feestje! Iedereen die naar het feestje gaat, krijgt ontspanning en sociale energie en een blijvende positieve stemming.</LetterNewParty>
-
+  <LetterMechClusterArrived>Mechanoïden zijn gearriveerd</LetterMechClusterArrived>
+  
 </LanguageData>

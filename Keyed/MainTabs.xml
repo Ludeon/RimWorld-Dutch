@@ -228,8 +228,10 @@
   <QuestExpiresIn>Verloopt over {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>Verloopt op {0}</QuestExpiresOn>
-  <!-- EN: Average guest mood: {0} -->
-  <QuestAveragePawnMood>Gemiddeld gasthumeur: {0}</QuestAveragePawnMood>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>Gemiddeld gasthumeur (voorheen {0}): {1}</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>Het gemiddelde humeur van {0} over de laatste {1}</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>Shuttle arriveert over {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->

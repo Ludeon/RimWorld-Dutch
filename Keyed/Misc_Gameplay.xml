@@ -1238,7 +1238,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>Psychische entropie: {0} / {1}\nAftelratio: {2} / s ({3}s tot nul) </PawnTooltipPsychicEntropyStats>
-  <!-- EN: Psychic entropy increases after performing a psycast. Going over the normal limit can lead to psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <!-- EN: Psychic entropy increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>Psychische entropie neemt toe na het uitvoeren van een psycast. Het overschrijden van de normale limiet kan tot een inzinking leiden van meerdere dagen.\n\nPsychische entropie daalt over tijd. Dit proces kan worden versneld door eltext kleding te dragen of door pijn te ervaren.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>Pijnversterker\n\nPijn focust de geest en versnelt het psychische entropieherstel.\n\nPijnniveau: {0}\nEntropieherstelbonus: {1}</PawnTooltipPsychicEntropyPainFocus>
@@ -1270,6 +1270,10 @@
   <Reward_PassageOffworld>je zult meegenomen worden het heelal in</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
   <Reward_PassageOffworld_Label>Ruimtepassage</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>je kunt alles plunderen in het kamp</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>Kampbuit</Reward_CampLoot_Label>
   <!-- EN: value {0} -->
   <TotalValue>waarde {0}</TotalValue>
   

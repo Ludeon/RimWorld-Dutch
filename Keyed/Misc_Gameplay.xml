@@ -1025,7 +1025,7 @@
   <!-- EN: Use skill neurotrainer to learn {0} -->
   <SkillNeurotrainerUseLabel>Gebruik neurotrainervaardigheid om {0} te leren</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>Een éénmalige superdosis van nanobots die een specifieke vaardigheid trainen.\n\nDe dosis wordt toegepast via oogdruppels. Eenmaal in de hersenen, zullen de nanobots snel een speficieke vaardigheid van de patient verbeteren door zichzelf om te zetten in hersenweefsel. </SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>Een éénmalige superdosis van nanobots die een specifieke vaardigheid trainen.\n\nDe dosis wordt toegepast via oogdruppels. Eenmaal in de hersenen, zullen de nanobots snel een speficieke vaardigheid van de patient verbeteren door zichzelf om te zetten in hersenweefsel.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
   <SkillNeurotrainerUsed>{USER_labelShort} gebruikte {1} neurotrainer om van vaardigheidsniveau {2} naar {3} te gaan.</SkillNeurotrainerUsed>
 

@@ -103,7 +103,7 @@
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} van {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Deze actie zal {PAWN_nameDef} {PAWN_possessive} titel {TITEL} laten verliezen. Je zult geen compensatie ontvangen voor het afwijzen van deze titel.\n\nDit zal de volgende gevolgen hebben:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>Deze actie zal {PAWN_nameDef} {PAWN_possessive} titel {TITLE} laten verliezen. Je zult geen compensatie ontvangen voor het afwijzen van deze titel.\n\nDit zal de volgende gevolgen hebben:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
   <RenounceTitleWillLoosePermits>{PAWN_possessive} zal deze rechten verliezen</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
@@ -1260,7 +1260,7 @@
   <Reward_Pawn_Caravan>een {0_age} jaar oude {0_title} genaamd {0_nameDef} zal zich bij je aansluiten {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>transportcapsules met de volgende inhoud zal arriveren (totale waarde {1}):</Reward_Items>
+  <Reward_Items>transportcapsules met de volgende inhoud zal arriveren (totale waarde {1}):\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
   <Reward_Items_Caravan>te ontvangen (totale waarde {1}):\n{0}</Reward_Items_Caravan>

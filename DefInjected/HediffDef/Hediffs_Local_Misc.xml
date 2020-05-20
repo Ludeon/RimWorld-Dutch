@@ -10,6 +10,12 @@
   <BloodRot.label>TODO</BloodRot.label>
   <!-- EN: A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death. The body's immune system will clear blood rot after a long time, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive. -->
   <BloodRot.description>TODO</BloodRot.description>
+  <!-- EN: minor -->
+  <BloodRot.stages.minor.label>TODO</BloodRot.stages.minor.label>
+  <!-- EN: major -->
+  <BloodRot.stages.major.label>TODO</BloodRot.stages.major.label>
+  <!-- EN: extreme -->
+  <BloodRot.stages.extreme.label>TODO</BloodRot.stages.extreme.label>
   
   <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>TODO</ChemicalDamageModerate.label>

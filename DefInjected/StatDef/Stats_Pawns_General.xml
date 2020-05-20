@@ -75,8 +75,8 @@
   
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>Psychische gevoeligheid</PsychicSensitivity.label>
-  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases psychic entropy limit. -->
-  <PsychicSensitivity.description>Vermenigvuldiger van de impact van psychische fenomenen, die een persoon beinvloeden.</PsychicSensitivity.description>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>Gevoeligere mensen  lijden meer onder negatieve psychische effecten, en profiteren meer van positieve effecten. Hogere psychische gevoeligheid verhoogt ook de neurale warmtelimiet.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>TODO</RestRateMultiplier.label>

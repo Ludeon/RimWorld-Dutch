@@ -938,8 +938,8 @@
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Gezichtsveld vereist</AbilityRequiresLOS>
-  <!-- EN: Entropy gain -->
-  <AbilityEntropyGain>Entropietoename</AbilityEntropyGain>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>Neurale warmtetoename</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
   <AbilityPsyfocusCost>Psyfocus kosten</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->

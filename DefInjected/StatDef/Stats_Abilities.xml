@@ -25,9 +25,9 @@
   <!-- EN: The radius of the area of effect of this ability. -->
   <Ability_EffectRadius.description>TODO</Ability_EffectRadius.description>
   
-  <!-- EN: entropy gain -->
+  <!-- EN: neural heat gain -->
   <Ability_EntropyGain.label>TODO</Ability_EntropyGain.label>
-  <!-- EN: How much psychic entropy will be added as a result of performing this ability. -->
+  <!-- EN: How much neural heat will be added as a result of performing this ability. -->
   <Ability_EntropyGain.description>TODO</Ability_EntropyGain.description>
   
   <!-- EN: goodwill impact -->

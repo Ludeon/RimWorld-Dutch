@@ -430,8 +430,10 @@
   <MechCluster>Mechanoïdecluster</MechCluster>
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Produceert over {0}</SpawningNextPawnIn>
-  <!-- EN: {0} assembly completes in {1} -->
-  <MechAssemblyCompleteIn>{0} bouw klaar over {1}</MechAssemblyCompleteIn>
+  <!-- EN: {0} assembly completes in {1}. -->
+  <MechAssemblyCompleteIn>{0} bouw klaar over {1}.</MechAssemblyCompleteIn>
+  <!-- EN: Will assemble {0}. text_todo -->
+  <MechAssemblyNextType>Zal {0} bouwen.</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>geproduceerd</ThingsProduced>
   <!-- EN: harvested -->
@@ -452,16 +454,14 @@
   <InitiatesIn>Begint over</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Activeert over {0}</SendSignalOnCountdownCompTime>
-  <!-- EN: Psychic entropy -->
-  <PsychicEntropy>Psychische entropie</PsychicEntropy>
-  <!-- EN: Entropy -->
-  <PsychicEntropyShort>Entropie</PsychicEntropyShort>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>Neurale warmte</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>Warmte</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
   <PsychicEntropyPainFocus>{0} pijnversterker</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>radius {0}</ConditionCauserRadius>
-  <!-- EN: Psyfocus -->
-  <Psyfocus>Psyfocus</Psyfocus>
   <!-- EN: low psyfocus -->
   <LowPsyfocus>Lage psyfocus</LowPsyfocus>
   <!-- EN: {0} left -->
@@ -1236,14 +1236,14 @@
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <!-- EN: Psychic entropy: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Psychische entropie: {0} / {1}\nAftelratio: {2} / s ({3}s tot nul) </PawnTooltipPsychicEntropyStats>
-  <!-- EN: Psychic entropy increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nPsychic entropy dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Psychische entropie neemt toe na het uitvoeren van een psycast. Het overschrijden van de normale limiet kan tot een inzinking leiden van meerdere dagen.\n\nPsychische entropie daalt over tijd. Dit proces kan worden versneld door eltext kleding te dragen of door pijn te ervaren.</PawnTooltipPsychicEntropyDesc>
-  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up psychic entropy recovery.\n\nPain level: {0}\nBonus to entropy recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>Pijnversterker\n\nPijn focust de geest en versnelt het psychische entropieherstel.\n\nPijnniveau: {0}\nEntropieherstelbonus: {1}</PawnTooltipPsychicEntropyPainFocus>
-  <!-- EN: Toggle psychic entropy limiter. Exceeding your entropy limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>Psychische entropie limiet in/uitschakelen. Overschrijden van de entropielimiet kan tot een inzinking leiden van meerdere dagen. Het veroorzaakt geen permanente schade.</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>Neurale warmte: {0} / {1}\nAftelratio: {2} / s ({3}s tot nul) </PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>Neurale warmte neemt toe na het uitvoeren van een psycast. Het overschrijden van de normale limiet kan tot een inzinking leiden van meerdere dagen.\n\nNeurale warmte wordt over tijd uitgestraald en koelt af. Dit proces kan worden versneld door eltex kleding te dragen of door pijn te ervaren.</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>Pijnversterker\n\nPijn focust de geest en versnelt het uitstoten van neurale warmte.\n\nPijnniveau: {0}\nEntropieherstelbonus: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>Neurale warmtelimiet in/uitschakelen. Overschrijden van de warmtelimiet kan tot een inzinking leiden van meerdere dagen. Het veroorzaakt geen permanente schade.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>Psyfocus: {0}</PawnTooltipPsyfocus>
 
@@ -1313,4 +1313,7 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Veroorzaakt door: {0}</CausedByHediff>
   
+  <!-- UNUSED -->
+  <Psyfocus>Psyfocus</Psyfocus>
+
 </LanguageData>

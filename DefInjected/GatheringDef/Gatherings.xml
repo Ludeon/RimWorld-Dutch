@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: marriage ceremony -->
-  <MarriageCeremony.label>TODO</MarriageCeremony.label>
+  <MarriageCeremony.label>bruiloft</MarriageCeremony.label>
   
   <!-- EN: party -->
-  <Party.label>TODO</Party.label>
+  <Party.label>feest</Party.label>
   <!-- EN: The party has been called off. -->
-  <Party.calledOffMessage>TODO</Party.calledOffMessage>
+  <Party.calledOffMessage>Het feest is geannuleerd.</Party.calledOffMessage>
   <!-- EN: The party has finished. -->
-  <Party.finishedMessage>TODO</Party.finishedMessage>
+  <Party.finishedMessage>Het feest is afgelopen.</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <Party.letterText>TODO</Party.letterText>
+  <Party.letterText>{ORGANIZER_labelShort} geeft een feest! Iedereen die gaat zal ontspanning, sociale energie en een positief effect op het humeur ontvangen.</Party.letterText>
   <!-- EN: Party -->
-  <Party.letterTitle>TODO</Party.letterTitle>
+  <Party.letterTitle>Feest</Party.letterTitle>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: burn -->
   <Burn.label>Verbrand</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>TODO</Burn.deathMessage>
+  <Burn.deathMessage>{0} is verbrand.</Burn.deathMessage>
   
   <!-- EN: flame -->
   <Flame.label>Vuur</Flame.label>

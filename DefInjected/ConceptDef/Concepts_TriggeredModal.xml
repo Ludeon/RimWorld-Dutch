@@ -22,8 +22,8 @@
   <TradeGoodsMustBeNearBeacon.helpText>Om goederen of zilver te sturen naar orbitale handelschepen moet je een ORBITAAL HANDELSBAKEN bouwen en er een opslagzone dichtbij zetten.</TradeGoodsMustBeNearBeacon.helpText>
   
   <!-- EN: Trading permit requirements -->
-  <TradingRequiresPermit.label>TODO</TradingRequiresPermit.label>
+  <TradingRequiresPermit.label>Handelsvergunning vereisten</TradingRequiresPermit.label>
   <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
-  <TradingRequiresPermit.helpText>TODO</TradingRequiresPermit.helpText>
+  <TradingRequiresPermit.helpText>Hier handelen vereist de titel {0}.\n\nZorg ervoor dat elke handelskaravaan die je stuurt iemand mee heeft met de titel {0} of hoger.</TradingRequiresPermit.helpText>
   
 </LanguageData>

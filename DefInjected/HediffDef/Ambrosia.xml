@@ -4,19 +4,19 @@
   <!-- EN: ambrosia addiction -->
   <AmbrosiaAddiction.label>ambrosia verslaving</AmbrosiaAddiction.label>
   <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AmbrosiaAddiction.description>TODO</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.description>Een chemische verslaving aan ambrosia. Door langdurig ambrosiagebruik hebben neuronen in de hersenen zich aangepast zodat ze niet meer kunnen functioneren zonder ambrosia.\n\nZonder reguliere ambrosiainname zullen afkickverschijnselen beginnen. Na langdurige onthouding zullen de hersenen weer in de normale staat terugkeren, waardoor de verslaving oplost.</AmbrosiaAddiction.description>
   <!-- EN: withdrawal -->
   <AmbrosiaAddiction.stages.withdrawal.label>ontwenning</AmbrosiaAddiction.stages.withdrawal.label>
   
   <!-- EN: ambrosia warmth -->
   <AmbrosiaHigh.label>ambrosia warmtegevoel</AmbrosiaHigh.label>
   <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
-  <AmbrosiaHigh.description>TODO</AmbrosiaHigh.description>
+  <AmbrosiaHigh.description>Ambrosia chemicaliën in het bloed. Het verbetert de stemming. </AmbrosiaHigh.description>
   
   <!-- EN: ambrosia tolerance -->
-  <AmbrosiaTolerance.label>ambrosia tolerantie</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.label>ambrosiatolerantie</AmbrosiaTolerance.label>
   <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
-  <AmbrosiaTolerance.description>TODO</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.description>Een opgebouwde tolerantie voor ambrosia. Hoe meer tolerantie er is opgebouwd, hoe meer ambrosia gebruikt moet worden voor hetzelfde effect.</AmbrosiaTolerance.description>
   <!-- EN: small -->
   <AmbrosiaTolerance.stages.small-0.label>kleinschalig</AmbrosiaTolerance.stages.small-0.label>
   <!-- EN: small -->

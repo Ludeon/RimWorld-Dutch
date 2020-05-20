@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: bomb -->
-  <Bomb.label>Explosie</Bomb.label>
+  <Bomb.label>explosief</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0} is omgekomen door een explosie.</Bomb.deathMessage>
+  <Bomb.deathMessage>{0} is omgekomen in een explosie.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>TODO</BombSuper.label>
+  <BombSuper.label>explosief</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} is omgekomen in een explosie</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
-  <Deterioration.label>Verslechtering</Deterioration.label>
+  <Deterioration.label>verslechtering</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} is omgekomen</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
-  <Extinguish.label>Blussen</Extinguish.label>
+  <Extinguish.label>blussen</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} is omgekomen</Extinguish.deathMessage>
   
   <!-- EN: mining -->
-  <Mining.label>Delven</Mining.label>
+  <Mining.label>delven</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>TODO</Mining.deathMessage>
+  <Mining.deathMessage>{0} is omgekomen</Mining.deathMessage>
   
   <!-- EN: rotting -->
-  <Rotting.label>Verrotten</Rotting.label>
+  <Rotting.label>verrotten</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>TODO</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} is omgekomen</Rotting.deathMessage>
   
   <!-- EN: smoke -->
-  <Smoke.label>TODO</Smoke.label>
+  <Smoke.label>rook</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>TODO</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} is omgekomen</Smoke.deathMessage>
   
 </LanguageData>

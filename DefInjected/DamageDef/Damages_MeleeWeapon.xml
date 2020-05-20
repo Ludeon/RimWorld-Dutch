@@ -32,9 +32,9 @@
   <Scratch.deathMessage>{0} is doodgekrabd.</Scratch.deathMessage>
   
   <!-- EN: toxic scratch -->
-  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <ScratchToxic.label>Giftige schram</ScratchToxic.label>
   <!-- EN: {0} has been torn to death. -->
-  <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
+  <ScratchToxic.deathMessage>{0} is aan stukken gescheurd.</ScratchToxic.deathMessage>
   
   <!-- EN: stab -->
   <Stab.label>Steek</Stab.label>

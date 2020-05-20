@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
   <!-- EN: An installed archotech arm. -->
-  <ArchotechArm.description>TODO</ArchotechArm.description>
+  <ArchotechArm.description>Een geïnstalleerde archotech arm.</ArchotechArm.description>
   <!-- EN: fist -->
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>vuist</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>een archotech arm</ArchotechArm.labelNoun>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>een archotech oog</ArchotechEye.label>
   <!-- EN: An installed archotech eye. -->
-  <ArchotechEye.description>TODO</ArchotechEye.description>
+  <ArchotechEye.description>Een geïnstalleerd archotech oog.</ArchotechEye.description>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>een archotech oog</ArchotechEye.labelNoun>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <ArchotechLeg.label>archotech been</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. -->
-  <ArchotechLeg.description>TODO</ArchotechLeg.description>
+  <ArchotechLeg.description>een geïnstalleerd archotech been.</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>TODO</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>een archotech been</ArchotechLeg.labelNoun>
   
 </LanguageData>

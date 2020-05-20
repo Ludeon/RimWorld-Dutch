@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: denture -->
-  <Denture.label>TODO</Denture.label>
+  <Denture.label>kunstgebit</Denture.label>
   <!-- EN: An installed denture. -->
-  <Denture.description>TODO</Denture.description>
+  <Denture.description>Een geïnstalleerd kunstgebit.</Denture.description>
   <!-- EN: a denture -->
-  <Denture.labelNoun>TODO</Denture.labelNoun>
+  <Denture.labelNoun>een kunstgebit</Denture.labelNoun>
   
   <!-- EN: peg leg -->
-  <PegLeg.label>TODO</PegLeg.label>
+  <PegLeg.label>houten been</PegLeg.label>
   <!-- EN: An installed peg leg. -->
-  <PegLeg.description>TODO</PegLeg.description>
+  <PegLeg.description>een geïnstalleerd houten been</PegLeg.description>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>TODO</PegLeg.labelNoun>
+  <PegLeg.labelNoun>een houten been</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <WoodenFoot.label>houten voet</WoodenFoot.label>
   <!-- EN: An installed wooden foot. -->
-  <WoodenFoot.description>TODO</WoodenFoot.description>
+  <WoodenFoot.description>Een geïnstalleerde houten voet</WoodenFoot.description>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>een houten voet</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
-  <WoodenHand.label>TODO</WoodenHand.label>
+  <WoodenHand.label>houten hand</WoodenHand.label>
   <!-- EN: An installed wooden hand. -->
-  <WoodenHand.description>TODO</WoodenHand.description>
+  <WoodenHand.description>een geïnstalleerde houten hand</WoodenHand.description>
   <!-- EN: a wooden hand -->
-  <WoodenHand.labelNoun>TODO</WoodenHand.labelNoun>
+  <WoodenHand.labelNoun>een houten hand</WoodenHand.labelNoun>
   
 </LanguageData>

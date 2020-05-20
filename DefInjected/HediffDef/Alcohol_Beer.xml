@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: alcohol addiction -->
-  <AlcoholAddiction.label>alcohol verslaving</AlcoholAddiction.label>
+  <AlcoholAddiction.label>alcoholverslaving</AlcoholAddiction.label>
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
+  <AlcoholAddiction.description>Een chemische verslaving aan alcohol. Door langdurig alcoholgebruik hebben neuronen in de hersenen zich aangepast zodat ze niet meer kunnen functioneren zonder alcohol.\n\nZonder reguliere alcoholinname zullen afkickverschijnselen beginnen. Na langdurige onthouding zullen de hersenen weer in de normale staat terugkeren, waardoor de verslaving oplost.</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
   <AlcoholAddiction.stages.withdrawal.label>ontwenning</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
   <AlcoholHigh.label>alcohol</AlcoholHigh.label>
   <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
-  <AlcoholHigh.description>TODO</AlcoholHigh.description>
+  <AlcoholHigh.description>Alcohol in het bloed. Het maakt mensen gelukkig, maar vermindert hun vaardigheden.</AlcoholHigh.description>
   <!-- EN: drunkenness -->
   <AlcoholHigh.labelNoun>dronkenschap</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
@@ -23,12 +23,12 @@
   <!-- EN: hammered -->
   <AlcoholHigh.stages.hammered.label>ladderzat</AlcoholHigh.stages.hammered.label>
   <!-- EN: blackout -->
-  <AlcoholHigh.stages.blackout.label>bewustzijnsverlies</AlcoholHigh.stages.blackout.label>
+  <AlcoholHigh.stages.blackout.label>black-out</AlcoholHigh.stages.blackout.label>
   
   <!-- EN: alcohol tolerance -->
-  <AlcoholTolerance.label>alcohol tolerantie</AlcoholTolerance.label>
+  <AlcoholTolerance.label>alcoholtolerantie</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
-  <AlcoholTolerance.description>TODO</AlcoholTolerance.description>
+  <AlcoholTolerance.description>Een opgebouwde tolerantie voor alcohol. Hoe meer tolerantie er is opgebouwd, hoe meer alcohol genuttigd moet worden voor hetzelfde effect.</AlcoholTolerance.description>
   <!-- EN: small -->
   <AlcoholTolerance.stages.small-0.label>kleinschalig</AlcoholTolerance.stages.small-0.label>
   <!-- EN: small -->
@@ -41,7 +41,7 @@
   <!-- EN: hangover -->
   <Hangover.label>kater</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
-  <Hangover.description>TODO</Hangover.description>
+  <Hangover.description>Een ongemakkelijk gevoel na dronkenschap.</Hangover.description>
   <!-- EN: a hangover -->
   <Hangover.labelNoun>een kater</Hangover.labelNoun>
   <!-- EN: slight -->

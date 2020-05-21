@@ -273,7 +273,7 @@
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>{0} is afgestorven door gif.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{1_label} is afgestorven aan de gevolgen van meeldauw.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} is afgestorven door de gevolgen van meeldauw.</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{1_labelShort} wordt verbrand door verhitte lucht!</MessagePawnBeingBurned>

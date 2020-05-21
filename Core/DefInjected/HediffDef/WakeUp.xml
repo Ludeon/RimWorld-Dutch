@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: wake-up addiction -->
-  <WakeUpAddiction.label>TODO</WakeUpAddiction.label>
+  <WakeUpAddiction.label>oppepperverslaving</WakeUpAddiction.label>
   <!-- EN: A chemical addiction to wake-up. Long-term presence of wake-up has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of wake-up, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <WakeUpAddiction.description>TODO</WakeUpAddiction.description>
+  <WakeUpAddiction.description>Een chemische verslaving aan oppepper. Door langdurig oppeppergebruik hebben neuronen in de hersenen zich aangepast zodat ze niet meer kunnen functioneren zonder oppepper.\n\nZonder reguliere oppepperinname zullen afkickverschijnselen beginnen. Na langdurige onthouding zullen de hersenen weer in de normale staat terugkeren, waardoor de verslaving oplost.</WakeUpAddiction.description>
   <!-- EN: withdrawal -->
-  <WakeUpAddiction.stages.withdrawal.label>TODO</WakeUpAddiction.stages.withdrawal.label>
+  <WakeUpAddiction.stages.withdrawal.label>ontwenning</WakeUpAddiction.stages.withdrawal.label>
   
   <!-- EN: high on wake-up -->
-  <WakeUpHigh.label>TODO</WakeUpHigh.label>
+  <WakeUpHigh.label>high door oppepper</WakeUpHigh.label>
   <!-- EN: Wake-up in the bloodstream. It fills the need for rest by stimulating the brain, and increases focus, allowing faster work. It also increases the psyfocus gains from meditation. -->
-  <WakeUpHigh.description>TODO</WakeUpHigh.description>
+  <WakeUpHigh.description>Oppepper in het bloed. Het vervult de rustbehoefte door het brein te stimuleren en focus te verhogen. Hierdoor werken kolonisten sneller en kunnen ze sneller psyfocus opbouwen door meditatie.</WakeUpHigh.description>
   <!-- EN: a wake-up high -->
-  <WakeUpHigh.labelNoun>TODO</WakeUpHigh.labelNoun>
+  <WakeUpHigh.labelNoun>een oppepper roes</WakeUpHigh.labelNoun>
   
   <!-- EN: wake-up tolerance -->
-  <WakeUpTolerance.label>TODO</WakeUpTolerance.label>
+  <WakeUpTolerance.label>oppeppertolerantie</WakeUpTolerance.label>
   <!-- EN: A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect. -->
-  <WakeUpTolerance.description>TODO</WakeUpTolerance.description>
+  <WakeUpTolerance.description>Een opgebouwde tolerantie voor oppepper. Hoe meer tolerantie er is opgebouwd, hoe meer oppepper gebruikt moet worden voor hetzelfde effect.</WakeUpTolerance.description>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small-0.label>TODO</WakeUpTolerance.stages.small-0.label>
+  <WakeUpTolerance.stages.small-0.label>kleinschalig</WakeUpTolerance.stages.small-0.label>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small-1.label>TODO</WakeUpTolerance.stages.small-1.label>
+  <WakeUpTolerance.stages.small-1.label>kleinschalig</WakeUpTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <WakeUpTolerance.stages.large.label>TODO</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.large.label>grootschalig</WakeUpTolerance.stages.large.label>
   <!-- EN: massive -->
-  <WakeUpTolerance.stages.massive.label>TODO</WakeUpTolerance.stages.massive.label>
+  <WakeUpTolerance.stages.massive.label>gigantisch</WakeUpTolerance.stages.massive.label>
   
 </LanguageData>

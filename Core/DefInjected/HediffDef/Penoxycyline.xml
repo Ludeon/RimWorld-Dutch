@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: penoxycyline -->
-  <PenoxycylineHigh.label>TODO</PenoxycylineHigh.label>
+  <PenoxycylineHigh.label>penoxycyline</PenoxycylineHigh.label>
   <!-- EN: Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. -->
-  <PenoxycylineHigh.description>TODO</PenoxycylineHigh.description>
+  <PenoxycylineHigh.description>Immuniteit door penoxycyline voor bepaalde ziektes. Dit blokkeert alleen nieuwe infecties, het helpt niet bij mensen die al geïnfecteerd zijn, zelfs als de infectie nog geen symptomen vertoont.</PenoxycylineHigh.description>
   
 </LanguageData>

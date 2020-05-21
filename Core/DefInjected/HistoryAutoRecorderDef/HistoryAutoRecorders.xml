@@ -2,58 +2,58 @@
 <LanguageData>
   
   <!-- EN: recovery -->
-  <Adaptation.label>TODO</Adaptation.label>
+  <Adaptation.label>herstel</Adaptation.label>
   <!-- EN: Days -->
-  <Adaptation.graphLabelY>TODO</Adaptation.graphLabelY>
+  <Adaptation.graphLabelY>Dagen</Adaptation.graphLabelY>
   
   <!-- EN: mood -->
-  <ColonistMood.label>TODO</ColonistMood.label>
+  <ColonistMood.label>humeur</ColonistMood.label>
   <!-- EN: Percent -->
-  <ColonistMood.graphLabelY>TODO</ColonistMood.graphLabelY>
+  <ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
   
   <!-- EN: free colonists -->
-  <FreeColonists.label>TODO</FreeColonists.label>
+  <FreeColonists.label>kolonisten zonder taak</FreeColonists.label>
   <!-- EN: Colonists -->
-  <FreeColonists.graphLabelY>TODO</FreeColonists.graphLabelY>
+  <FreeColonists.graphLabelY>Kolonisten</FreeColonists.graphLabelY>
   
   <!-- EN: pop recovery -->
-  <PopAdaptation.label>TODO</PopAdaptation.label>
+  <PopAdaptation.label>pop herstel</PopAdaptation.label>
   <!-- EN: Days -->
-  <PopAdaptation.graphLabelY>TODO</PopAdaptation.graphLabelY>
+  <PopAdaptation.graphLabelY>Dagen</PopAdaptation.graphLabelY>
   
   <!-- EN: pop intent x10 -->
-  <PopIntent.label>TODO</PopIntent.label>
+  <PopIntent.label>pop doel x10</PopIntent.label>
   <!-- EN: Days -->
-  <PopIntent.graphLabelY>TODO</PopIntent.graphLabelY>
+  <PopIntent.graphLabelY>Dagen</PopIntent.graphLabelY>
   
   <!-- EN: prisoners -->
-  <Prisoners.label>TODO</Prisoners.label>
+  <Prisoners.label>gevangenen</Prisoners.label>
   <!-- EN: Prisoners -->
-  <Prisoners.graphLabelY>TODO</Prisoners.graphLabelY>
+  <Prisoners.graphLabelY>Gevangenen</Prisoners.graphLabelY>
   
   <!-- EN: fun points /10 -->
-  <ThreatPoints.label>TODO</ThreatPoints.label>
+  <ThreatPoints.label>vermaakpunten /10</ThreatPoints.label>
   <!-- EN: Points -->
-  <ThreatPoints.graphLabelY>TODO</ThreatPoints.graphLabelY>
+  <ThreatPoints.graphLabelY>Punten</ThreatPoints.graphLabelY>
   
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>TODO</Wealth_Buildings.label>
+  <Wealth_Buildings.label>waarde (gebouwen)</Wealth_Buildings.label>
   <!-- EN: Amount -->
-  <Wealth_Buildings.graphLabelY>TODO</Wealth_Buildings.graphLabelY>
+  <Wealth_Buildings.graphLabelY>Hoeveelheid</Wealth_Buildings.graphLabelY>
   
   <!-- EN: wealth (items) -->
-  <Wealth_Items.label>TODO</Wealth_Items.label>
+  <Wealth_Items.label>waarde (voorwerpen)</Wealth_Items.label>
   <!-- EN: Amount -->
-  <Wealth_Items.graphLabelY>TODO</Wealth_Items.graphLabelY>
+  <Wealth_Items.graphLabelY>Hoeveelheid</Wealth_Items.graphLabelY>
   
   <!-- EN: wealth (creatures) -->
-  <Wealth_Pawns.label>TODO</Wealth_Pawns.label>
+  <Wealth_Pawns.label>waarde (dieren)</Wealth_Pawns.label>
   <!-- EN: Amount -->
-  <Wealth_Pawns.graphLabelY>TODO</Wealth_Pawns.graphLabelY>
+  <Wealth_Pawns.graphLabelY>Hoeveelheid</Wealth_Pawns.graphLabelY>
   
   <!-- EN: wealth (total) -->
-  <Wealth_Total.label>TODO</Wealth_Total.label>
+  <Wealth_Total.label>waarde (totaal)</Wealth_Total.label>
   <!-- EN: Amount -->
-  <Wealth_Total.graphLabelY>TODO</Wealth_Total.graphLabelY>
+  <Wealth_Total.graphLabelY>Hoeveelheid</Wealth_Total.graphLabelY>
   
 </LanguageData>

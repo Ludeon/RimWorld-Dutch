@@ -2,98 +2,98 @@
 <LanguageData>
   
   <!-- EN: alphabeavers -->
-  <Alphabeavers.label>TODO</Alphabeavers.label>
+  <Alphabeavers.label>alfabevers</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>TODO</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>ambrosiabosje</AmbrosiaSprout.label>
   <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>TODO</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterLabel>Ambrosiabosje</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>TODO</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>Een bosje mysterieuze ambrosiaplanten is dichtbij ontkiemd! Als je wacht tot de planten zijn gegroeit kun je het heerlijke, pleziergevende en licht verslavende fruit plukken.</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>TODO</ColdSnap.label>
+  <ColdSnap.label>koudegolf</ColdSnap.label>
   <!-- EN: Cold snap -->
-  <ColdSnap.letterLabel>TODO</ColdSnap.letterLabel>
+  <ColdSnap.letterLabel>Koudegolf</ColdSnap.letterLabel>
   
   <!-- EN: crop blight -->
-  <CropBlight.label>TODO</CropBlight.label>
+  <CropBlight.label>meeldauw</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>TODO</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>verloren boerderijdieren</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>flitsstorm</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>TODO</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>Flitsstorm</Flashstorm.letterLabel>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>TODO</HeatWave.label>
+  <HeatWave.label>hittegolf</HeatWave.label>
   <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>TODO</HeatWave.letterLabel>
+  <HeatWave.letterLabel>Hittegolf</HeatWave.letterLabel>
   
   <!-- EN: herd migration -->
-  <HerdMigration.label>TODO</HerdMigration.label>
+  <HerdMigration.label>kuddemigratie</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
-  <HerdMigration.letterLabel>TODO</HerdMigration.letterLabel>
+  <HerdMigration.letterLabel>Kuddemigratie: {0}</HerdMigration.letterLabel>
   <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>TODO</HerdMigration.letterText>
+  <HerdMigration.letterText>Een groep {0} komt door het gebied.\n\nZe zullen niet aanvallen tenzij ze worden uitgedaagd.</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
+  <MeteoriteImpact.label>meteorietinslag</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>TODO</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>Meteoriet</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>TODO</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>Een grote meteoriet is in het gebied neergestort. Het heeft een brokstuk van {0} achtergelaten.</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>TODO</PsychicDrone.label>
+  <PsychicDrone.label>psychisch gedreun</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>TODO</PsychicSoothe.label>
+  <PsychicSoothe.label>psychische kalmte</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
-  <RansomDemand.label>TODO</RansomDemand.label>
+  <RansomDemand.label>losgeldeis</RansomDemand.label>
   <!-- EN: Ransom demand -->
-  <RansomDemand.letterLabel>TODO</RansomDemand.letterLabel>
+  <RansomDemand.letterLabel>Losgeld eis</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>TODO</RefugeePodCrash.label>
+  <RefugeePodCrash.label>transportcapsule crash</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
-  <ResourcePodCrash.label>TODO</ResourcePodCrash.label>
+  <ResourcePodCrash.label>materiaalcapsule crash</ResourcePodCrash.label>
   
   <!-- EN: self-tame -->
-  <SelfTame.label>TODO</SelfTame.label>
+  <SelfTame.label>zelf-temmen</SelfTame.label>
   
   <!-- EN: short circuit -->
-  <ShortCircuit.label>TODO</ShortCircuit.label>
+  <ShortCircuit.label>kortsluiting</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
-  <ThrumboPasses.label>TODO</ThrumboPasses.label>
+  <ThrumboPasses.label>passerende thrumbos</ThrumboPasses.label>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>giftige neerslag</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>TODO</ToxicFallout.letterLabel>
+  <ToxicFallout.letterLabel>Giftige neerslag</ToxicFallout.letterLabel>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>vulkanische winter</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
-  <VolcanicWinter.letterLabel>TODO</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterLabel>Vulkanische winter</VolcanicWinter.letterLabel>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>TODO</WandererJoin.label>
+  <WandererJoin.label>vagebond sluit zich aan</WandererJoin.label>
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <WandererJoin.letterLabel>TODO</WandererJoin.letterLabel>
+  <WandererJoin.letterLabel>Een vagebond sluit zich aan: {PAWN_nameDef</WandererJoin.letterLabel>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>TODO</WandererJoin.letterText>
+  <WandererJoin.letterText>Een {PAWN_title}, {PAWN_nameDef} is gearriveerd en sluit zich aan bij de kolonie.\n\n[PAWN_pronoun] wil graag meehelpen, maar zal niet vrijwillig vertrekken. Als je {PAWN_nameDef} niet wilt hebben, kun je {PAWN_objective} verbannen, in slavernij verkopen, of simpelweg omleggen. Je andere kolonisten zouden dit verontrustend kunnen vinden.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
-  <WildManWandersIn.label>TODO</WildManWandersIn.label>
+  <WildManWandersIn.label>wilde mens in het gebied</WildManWandersIn.label>
   <!-- EN: {PAWN_kind} wanders in -->
-  <WildManWandersIn.letterLabel>TODO</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>{PAWN_kind} komt het gebied binnen</WildManWandersIn.letterLabel>
   <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>Een persoon die onder de wilde dieren leeft is in dit gebied terecht gekomen. {PAWN_pronoun} heet {0}.\n\nJe kunt proberen {PAWN_objective} te temmen of te arresteren.</WildManWandersIn.letterText>
   
 </LanguageData>

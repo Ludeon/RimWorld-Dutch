@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: smokeleaf dependence -->
-  <SmokeleafAddiction.label>TODO</SmokeleafAddiction.label>
+  <SmokeleafAddiction.label>rookbladafhankelijkheid</SmokeleafAddiction.label>
   <!-- EN: A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <SmokeleafAddiction.description>TODO</SmokeleafAddiction.description>
+  <SmokeleafAddiction.description>Een chemische verslaving aan rookblad. Door langdurig rookbladgebruik hebben neuronen in de hersenen zich aangepast zodat ze niet meer kunnen functioneren zonder rookblad.\n\nZonder regelmatig rookblad te roken zullen afkickverschijnselen beginnen. Na langdurige onthouding zullen de hersenen weer in de normale staat terugkeren, waardoor de verslaving oplost.</SmokeleafAddiction.description>
   <!-- EN: withdrawal -->
-  <SmokeleafAddiction.stages.withdrawal.label>TODO</SmokeleafAddiction.stages.withdrawal.label>
+  <SmokeleafAddiction.stages.withdrawal.label>ontwenning</SmokeleafAddiction.stages.withdrawal.label>
   
   <!-- EN: stoned on smokeleaf -->
-  <SmokeleafHigh.label>TODO</SmokeleafHigh.label>
+  <SmokeleafHigh.label>stoned door rookblad</SmokeleafHigh.label>
   <!-- EN: Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
-  <SmokeleafHigh.description>TODO</SmokeleafHigh.description>
+  <SmokeleafHigh.description>Actief rookblad in het bloed. Geeft een zacht en warm gevoel van welzijn.</SmokeleafHigh.description>
   <!-- EN: a smokeleaf high -->
-  <SmokeleafHigh.labelNoun>TODO</SmokeleafHigh.labelNoun>
+  <SmokeleafHigh.labelNoun>een rookblad roes</SmokeleafHigh.labelNoun>
   
   <!-- EN: smokeleaf tolerance -->
-  <SmokeleafTolerance.label>TODO</SmokeleafTolerance.label>
+  <SmokeleafTolerance.label>rookbladtolerantie</SmokeleafTolerance.label>
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
-  <SmokeleafTolerance.description>TODO</SmokeleafTolerance.description>
+  <SmokeleafTolerance.description>Een opgebouwde tolerantie voor rookblad. Hoe meer tolerantie er is opgebouwd, hoe meer rookblad gebruikt moet worden voor hetzelfde effect.</SmokeleafTolerance.description>
   <!-- EN: small -->
-  <SmokeleafTolerance.stages.small-0.label>TODO</SmokeleafTolerance.stages.small-0.label>
+  <SmokeleafTolerance.stages.small-0.label>kleinschalig</SmokeleafTolerance.stages.small-0.label>
   <!-- EN: small -->
-  <SmokeleafTolerance.stages.small-1.label>TODO</SmokeleafTolerance.stages.small-1.label>
+  <SmokeleafTolerance.stages.small-1.label>kleinschalig</SmokeleafTolerance.stages.small-1.label>
   <!-- EN: large -->
-  <SmokeleafTolerance.stages.large.label>TODO</SmokeleafTolerance.stages.large.label>
+  <SmokeleafTolerance.stages.large.label>grootschalig</SmokeleafTolerance.stages.large.label>
   <!-- EN: massive -->
-  <SmokeleafTolerance.stages.massive.label>TODO</SmokeleafTolerance.stages.massive.label>
+  <SmokeleafTolerance.stages.massive.label>gigantisch</SmokeleafTolerance.stages.massive.label>
   
 </LanguageData>

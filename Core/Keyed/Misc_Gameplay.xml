@@ -861,9 +861,9 @@
   <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>Kan niet groeien (slechte seizoenstemperatuur).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>Vervloekt</Blighted>
+  <Blighted>Meeldauw</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>Sterven door blootstelling aan licht </DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Sterven door blootstelling aan licht</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <!-- EN: Zone -->

@@ -402,8 +402,46 @@
   <TimeRecordsCategory>Tijd</TimeRecordsCategory>
   <!-- EN: Misc -->
   <MiscRecordsCategory>Diversen</MiscRecordsCategory>
-  <!-- EN: Addictiveness -->
-  <Addictiveness>Verslavendheid</Addictiveness>
+  <!-- EN: Chemical -->
+  <Chemical>Werkzame stof</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>Highintensiteit per dosis</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>Highafname</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>Highperiode per dosis</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>Tolerantietoename per dosis</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>Tolerantieafname</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>Min nieuwe verslavingtolerantie</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval -->
+  <SafeDoseInterval>Velige dosis interval</SafeDoseInterval>
+  <!-- EN: New addiction chance -->
+  <Addictiveness>Kans op verslaving</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>Initieel verslavingsniveau</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>Verslavingsniveau per dosis</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>Verslavingsbehoefte per dosis</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>Verslavingsbehoefte toename</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>Verslavingsbehoefte dosisinterval</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>Verslaving herstelperiode</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>Verslavingskosten</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>Kans op overdosis</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>Altijd veilig</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>Nooit veilig</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>{0} per dag</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>Lastdier</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->

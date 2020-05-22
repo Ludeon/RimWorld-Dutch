@@ -234,8 +234,6 @@
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Het uitvoeren van deze operatie is veilig voor de patiënt.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
   <Stat_Thing_Surgery_DeathOnFailChance_Desc>De kans dat de patiënt zal overlijden door deze operatie.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
-  <!-- EN: The addictiveness of this drug. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>De verslavendheid van deze drug.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: Total bleed factor -->
   <Stat_Hediff_TotalBleedFactor_Name>Totale bloedfactor.</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
@@ -288,5 +286,41 @@
   <Stat_Thing_Biocoded_Name>Biocodering</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>Dit voorwerp is gecodeerd om alleen een biosignatuur van een specifiek persoon te accepteren.</Stat_Thing_Biocoded_Desc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>De werkzame stof.\n\nIn sommige gevallen bevatten verschillende drugs dezelfde werkzame stof. Deze verschillende drugs zullen dezelfde verslaving in verschillende mate beïnvloeden.</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>De intensiteit van de high per dosis van deze drug.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>Hoe sterk de high dagelijks af zal nemen.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>Hoe lang de high van deze drug duurt per dosis.\n\nDit wordt berekend aan de hand van de high per dosis en de highafname.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>Hoe veel tolerantie voor de werkzame stof door de gebruiker wordt opgebouwd per dosis van deze drug.\n\nDit kan verschilend zijn voor verschillende vormen van dezelfde werkzame stof.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>Hoezeer de tolerantie van een gebruiker voor deze werkzame stof dagelijks afneemt.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>Het minimaal tolerantieniveau dat nodig is om verslaafd te raken aan deze drug.\n\nAls een gebruiker onder dit niveau blijft, kunnen ze niet verslaafd raken door een dosis te gebruiken.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>Een gebruiker zal nooit verslaafd raken als ze een drug niet vaker nemen dan dit.\n\nDit wordt berekend aan het minimum tolerantieniveau voor verslaving, de tolerantietoename per dosis en de dagelijkse tolerantieafname.\n\nLet op dat sommige drugs geen veilig interval hebben. Deze drugs kunnen verslaving veroorzaken bij elke dosis, zelfs de eerste.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>De kans op een willekeurige overdosis bij het gebruike van deze drug. Willekeurige overdosissen kunnen gebeuren bij elk gebruik, of het nu de eerste keer is van een nieuwe gebruiker of de honderdste keer van een drugsverslaafde.</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>De kans op verslaving van deze drug.\n\nAls de drug een minimaal tolerantieniveau heeft om verslaafd te raken, moet de tolerantie boven dat niveau liggen voordat dit van toepassing is. Als er geen minimumtolerantieniveau is, kan elke dosis een verslaving veroorzaken.</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>De eerste verslaving aan deze drug begint op dit niveau.\n\nDoor meer drugs te gebruiken zal de verslaving in ernst toenemen, na verloop van tijd zal het niveau afnemen.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>Hoe lang het duurt om te herstellen van een eerste verslaving aan deze drug.\n\nDit wordt berekend aan de hand van het eerste verslavingsniveau, gedeeld door de dagelijkse verslavingsafname. Een verslaving die wordt onderhouden zal langer duren.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Hoe veel zwaarder de verslaving wordt bij elke dosis van deze drug.\n\nHet verslavingsniveau kan niet boven de 100% uitkomen.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Hoe vaak een verslaafde een nieuwe dosis nodig heeft om ontwenningsverschijnselen te voorkomen.\n\nDit wordt berekend aan de hand van de verslavingsafname en de drugsbehoefte. </Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>De mate waarin de drugsbehoefte wordt voorzien door een dosis.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Hoe snel de drugsbehoefte zal toenemen bij een verslaafde.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>De marktwaarde van drugs die per dag moeten worden gebruikt om een verslaving te onderhouden zonder ontwenningsverschijnselen.\n\nDeze waarde wordt berekend aan de hand van de drugsbehoefte per dosis, de behoefttoename en de marktwaarde van deze drug.\n\nLet op dat er andere manieren zouden kunnen zijn om dezelfde werkzame stof te gebruiken met andere kosten.</Stat_Thing_Drug_AddictionCost_Desc>
 
 </LanguageData>

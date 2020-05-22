@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal chat -->
-  <AnimalChat.label>TODO</AnimalChat.label>
+  <AnimalChat.label>dierenpraat</AnimalChat.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
@@ -27,10 +27,33 @@
     <li>tamed->sat patiently near</li>
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
-  <AnimalChat.logRulesInitiator.rulesStrings>TODO</AnimalChat.logRulesInitiator.rulesStrings>
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] zat naast [RECIPIENT_nameDef] en praatte in [INITIATOR_objective]zelf over [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] naderde [RECIPIENT_nameDef] terwijl [INIITIATOR_pronoun] tegen [INITIATOR_objective]zelf fluisterde over [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kwam dichtbij [RECIPIENT_nameDef] terwijl [INITIATOR_pronoun] in [INITIATOR_objective]zelf praate over [TalkTopicAny].</li>
+    <li>tamed->maakte kalmerende geluiden naar</li>
+    <li>tamed->maakte langzame, vriendelijke gebaren naar</li>
+    <li>tamed->maakte sussende geluiden naar</li>
+    <li>tamed->maakte vrolijke klikgeluiden naar</li>
+    <li>tamed->gebaarde vriendelijk en naderde</li>
+    <li>tamed->naderde langzaam</li>
+    <li>tamed->raakte zacht aan</li>
+    <li>tamed->kalmeerde en moedigde aan</li>
+    <li>tamed->kwam in hetzelfde ademritme als</li>
+    <li>tamed->maakte zich klein bij het naderen van</li>
+    <li>tamed->toonde geen angst of woede richting</li>
+    <li>tamed->deed alsof [INITIATOR_pronoun] niet lette op</li>
+    <li>tamed->neuriet zachtjes een liedje aan</li>
+    <li>tamed->zong een oud slaapliedje voor</li>
+    <li>tamed->gaf een stevige maar toch zachte knuffel aan</li>
+    <li>tamed->toonde een innerlijke kalmte aan</li>
+    <li>tamed->zat geduldig naast</li>
+    <li>tamed->fluisterde een verhaal over [TalkTopicAny] aan</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
-  <Nuzzle.label>TODO</Nuzzle.label>
+  <Nuzzle.label>neuzelen</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -57,10 +80,35 @@
     <li>rubbedpart->side</li>
     <li>rubbedpart->arm</li>
   -->
-  <Nuzzle.logRulesInitiator.rulesStrings>TODO</Nuzzle.logRulesInitiator.rulesStrings>
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] wreef [INITIATOR_possessive] neus tegen [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->neuzelde tegen</li>
+    <li>nuzzled->kroop aan tegen</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->zachtjes</li>
+    <li>nuzzleadverb->bemoedigend</li>
+    <li>nuzzleadverb->vrolijk</li>
+    <li>nuzzleadverb->voorzichtig</li>
+    <li>nuzzleadverb->ondersteunend</li>
+    <li>nuzzleadverb->licht</li>
+    <li>nuzzleadverb->warm</li>
+    <li>nuzzleadverb->klaaglijk</li>
+    <li>nuzzleadverb->liefhebbend</li>
+    <li>nuzzleadverb->toegenegen</li>
+    <li>rubbedpart->been</li>
+    <li>rubbedpart->knie</li>
+    <li>rubbedpart->voet</li>
+    <li>rubbedpart->elleboog</li>
+    <li>rubbedpart->heup</li>
+    <li>rubbedpart->schouder</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->zij</li>
+    <li>rubbedpart->arm</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
-  <TameAttempt.label>TODO</TameAttempt.label>
+  <TameAttempt.label>tempoging</TameAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
@@ -78,10 +126,26 @@
     <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
-  <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] probeerde [RECIPIENT_nameDef] te temmen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] probeerde [RECIPIENT_nameDef] onder controle te brengen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] probeerde [RECIPIENT_nameDef] een halsband om te doen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] eiste gehoorzaamheid van [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] riep [RECIPIENT_nameDef] om naar [INITIATOR_objective] toe te komen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] probeerde [RECIPIENT_nameDef] stil te laten zitten.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pakte [RECIPIENT_nameDef] sterk vast en gaf een commando.</li>
+    <li>r_logentry->[INITIATOR_nameDef] probeerde [RECIPIENT_nameDef] stil to houden.</li>
+    <li>r_logentry->[INITIATOR_nameDef] schreeuwde een commando naar [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sloeg [RECIPIENT_nameDef] om te laten zien wie de baas is.</li>
+    <li>r_logentry->[INITIATOR_nameDef] wees [RECIPIENT_nameDef] in de richting van de gemeenschap.</li>
+    <li>r_logentry->[INITIATOR_nameDef] riep [RECIPIENT_nameDef] om terug te komen naar de gemeenschap.</li>
+    <li>r_logentry->[INITIATOR_nameDef] raakte een gevoelig lichaamsdeel van [RECIPIENT_nameDef] aan, om gehoorzaamheid te eisen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] wees op de grond, om te eisen dat [RECIPIENT_nameDef] hierheen zou komen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] gaf [RECIPIENT_nameDef] een eerste commando.</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
-  <TrainAttempt.label>TODO</TrainAttempt.label>
+  <TrainAttempt.label>trainpoging</TrainAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] to train</li>
@@ -94,6 +158,18 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <TrainAttempt.logRulesInitiator.rulesStrings>TODO</TrainAttempt.logRulesInitiator.rulesStrings>
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [trained].</li>
+    <li>trained(p=2)->[tried] [RECIPIENT_nameDef] te trainen</li>
+    <li>trained->[tried] [RECIPIENT_nameDef] een nieuw trucje aan te leren</li>
+    <li>trained->[tried] [RECIPIENT_nameDef] te straffen</li>
+    <li>trained->[tried] [RECIPIENT_nameDef] te instruëren</li>
+    <li>trained->[tried] [RECIPIENT_nameDef] te belonen om een vaardigheid te leren</li>
+    <li>trained->demonstreerde een vaardigheid aan [RECIPIENT_nameDef]</li>
+    <li>trained->beloonde een nieuwe reactie bij [RECIPIENT_nameDef]</li>
+    <li>tried->probeerde</li>
+    <li>tried->poogde</li>
+    <li>tried->trachtte</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

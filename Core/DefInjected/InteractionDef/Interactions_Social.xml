@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: chitchat -->
-  <Chitchat.label>TODO</Chitchat.label>
+  <Chitchat.label>prietpraat</Chitchat.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
@@ -20,10 +20,26 @@
     <li>commentedabout->commented about</li>
     <li>commentedabout->told a joke about</li>
   -->
-  <Chitchat.logRulesInitiator.rulesStrings>TODO</Chitchat.logRulesInitiator.rulesStrings>
+  <Chitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] met [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] tegen [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->babbelden over</li>
+    <li>talkedabout->vertelden elkaar over</li>
+    <li>talkedabout->spraken over</li>
+    <li>talkedabout->kletsten over</li>
+    <li>talkedabout->praatten over</li>
+    <li>talkedabout->maakten grappen over</li>
+    <li>talkedabout->keuvelden over</li>
+    <li>commentedabout->zei iets over</li>
+    <li>commentedabout->deelde iets mee over</li>
+    <li>commentedabout->maakte een opmerking over</li>
+    <li>commentedabout->gaf commentaar op</li>
+    <li>commentedabout->vertelde een grap over</li>
+  </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
-  <DeepTalk.label>TODO</DeepTalk.label>
+  <DeepTalk.label>diep gesprek</DeepTalk.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -39,10 +55,24 @@
     <li>talkedabout->connected on the topic of</li>
     <li>subject->[TalkTopicHeavy]</li>
   -->
-  <DeepTalk.logRulesInitiator.rulesStrings>TODO</DeepTalk.logRulesInitiator.rulesStrings>
+  <DeepTalk.logRulesInitiator.rulesStrings>    
+    <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] met [RECIPIENT_nameDef].</li>
+    <li>talkedabout->deelden gedachten over</li>
+    <li>talkedabout->wisselden gedachten uit over</li>
+    <li>talkedabout->deelden ideëen over</li>
+    <li>talkedabout->deelden hun inzichten over</li>
+    <li>talkedabout->deelden hun overtuigingen over</li>
+    <li>talkedabout->bediscussiëerden</li>
+    <li>talkedabout->had een diep gesprek over</li>
+    <li>talkedabout->spraken zachtjes over</li>
+    <li>talkedabout->spraken diep over</li>
+    <li>talkedabout->hadden een moment van verbintenis over</li>
+    <li>subject->[TalkTopicHeavy]</li>
+  </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
-  <Insult.label>TODO</Insult.label>
+  <Insult.label>belediging</Insult.label>
   <!-- EN:
     <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
     <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
@@ -62,10 +92,28 @@
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   -->
-  <Insult.logRulesInitiator.rulesStrings>TODO</Insult.logRulesInitiator.rulesStrings>
+  <Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] vergeleek [target] met een [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] schold [target] uit voor een [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>insulted(p=3)->beledigde</li>
+    <li>insulted->beledigde openlijk</li>
+    <li>insulted->beledigde luidruchtig</li>
+    <li>insulted->beledigde zonder schaamte</li>
+    <li>insulted->beledigde direct</li>
+    <li>insulted->beledigde vreselijk</li>
+    <li>insulted->was respectloos tegenover</li>
+    <li>insulted->belasterde</li>
+    <li>insulted->riep scheldwoorden over</li>
+    <li>insulted->vernederde</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
+  </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
-  <KindWords.label>TODO</KindWords.label>
+  <KindWords.label>complimenten</KindWords.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
     <li>complimented(p=3)->complimented</li>
@@ -82,10 +130,25 @@
     <li>complimented->expressed appreciation for</li>
     <li>complimented->said good things about</li>
   -->
-  <KindWords.logRulesInitiator.rulesStrings>TODO</KindWords.logRulesInitiator.rulesStrings>
+  <KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>complimented(p=3)->complimenteerde</li>
+    <li>complimented->prees</li>
+    <li>complimented->erkende</li>
+    <li>complimented->loofde</li>
+    <li>complimented->applauded</li>
+    <li>complimented->vierde</li>
+    <li>complimented->saluteerde</li>
+    <li>complimented->sprak vriendelijke woorden over</li>
+    <li>complimented->verheerlijkte</li>
+    <li>complimented->bood [INITIATOR_possessive] welgemeende complimenten aan over</li>
+    <li>complimented->drukte in woorden zijn waardering uit</li>
+    <li>complimented->waardeerde</li>
+    <li>complimented->zei iets positiefs over</li>
+  </KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
-  <Slight.label>TODO</Slight.label>
+  <Slight.label>minachtend</Slight.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
@@ -103,6 +166,22 @@
     <li>madefunof->made a contemptuous remark about</li>
     <li>madefunof->offered a backhanded compliment about</li>
   -->
-  <Slight.logRulesInitiator.rulesStrings>TODO</Slight.logRulesInitiator.rulesStrings>
+  <Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target] [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>madefunof->dreef de spot met</li>
+    <li>madefunof->was respectloos over</li>
+    <li>madefunof->minachtte subtiel</li>
+    <li>madefunof->maakte schandelijke opmerking over</li>
+    <li>madefunof->sprak minachtend over</li>
+    <li>madefunof->drukte zich negatief uit over</li>
+    <li>madefunof->lachte zich rot over</li>
+    <li>madefunof->maakte een sneer over</li>
+    <li>madefunof->impliceerde iets negatiefs over</li>
+    <li>madefunof->kleineerde</li>
+    <li>madefunof->maakte een respectloze opmerking over</li>
+    <li>madefunof->maakte een dubbelzinnig compliment over</li>
+    </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

@@ -2,26 +2,35 @@
 <LanguageData>
   
   <!-- EN: breakup -->
-  <Breakup.label>TODO</Breakup.label>
+  <Breakup.label>uit elkaar</Breakup.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
-  <Breakup.logRulesInitiator.rulesStrings>TODO</Breakup.logRulesInitiator.rulesStrings>
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] om een pauze.</li>
+    <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] om wat ademruimte.</li>
+    <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] dat het zo niet langer gaat.</li>
+    <li>r_logentry->[INITIATOR_nameDef] vertelede [RECIPIENT_nameDef] dat ze misschien beter met andere mensen konden omgaan.</li>
+    </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
-  <MarriageProposal.label>TODO</MarriageProposal.label>
+  <MarriageProposal.label>aanzoek</MarriageProposal.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
-  <MarriageProposal.logRulesInitiator.rulesStrings>TODO</MarriageProposal.logRulesInitiator.rulesStrings>
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] deed [RECIPIENT_nameDef] een huwelijksaanzoek.</li>
+    <li>r_logentry->[INITIATOR_nameDef] stelde een levenslange verbintenis voor aan [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] dat [INITIATOR_pronoun] de rest van [INITIATOR_possessive] leven met [RECIPIENT_objective] wil doorbrengen.</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
-  <RomanceAttempt.label>TODO</RomanceAttempt.label>
+  <RomanceAttempt.label>romantische avances</RomanceAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
     <li>wooed->tried to flirt with</li>
@@ -84,6 +93,66 @@
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
-  <RomanceAttempt.logRulesInitiator.rulesStrings>TODO</RomanceAttempt.logRulesInitiator.rulesStrings>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] door [wootactic].</li>
+    <li>wooed->probeerde te flirten met</li>
+    <li>wooed->flirtte met</li>
+    <li>wooed->probeerde aantrekkelijk te zijn voor</li>
+    <li>wooed->probeerde romantisch te doen voor</li>
+    <li>wooed->probeerde verleidelijk te zijn voor</li>
+    <li>wooed->verleidde</li>
+    <li>wooed->joeg op</li>
+    <li>wooed->charmeerde</li>
+    <li>wooed->maakte het hof aan</li>
+    <li>wootactic(p=4)->[RECIPIENT_possessive] [PersonalCharacteristic] [complimenting]</li>
+    <li>wootactic->een verhaal te vertellen over [TalkTopicAny]</li>
+    <li>wootactic->een sprookje te vertellen over [TalkTopicAny]</li>
+    <li>wootactic->grappen te maken over [TalkTopicAny]</li>
+    <li>wootactic->een opmerking te maken over [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] eigen [PersonalCharacteristic]</li>
+    <li>wootactic->[RECIPIENT_objective] te vergelijken met [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->[RECIPIENT_objective] te beschrijven als [romantic_adj] [romantic_noun]</li>
+    <li>boasting->op te scheppen over</li>
+    <li>boasting->te vertellen over</li>
+    <li>boasting->goede dingen te impliceren over</li>
+    <li>boasting->te overdrijven over</li>
+    <li>boasting->te praten over</li>
+    <li>boasting->de aandacht te vestigen op</li>
+    <li>complimenting(p=3)->te becomplimenteren</li>
+    <li>complimenting->subtiel te becomplimenteren</li>
+    <li>complimenting->te prijzen</li>
+    <li>complimenting->te loven</li>
+    <li>complimenting->te verheerlijken</li>
+    <li>complimenting(p=2)->speels te bespotten</li>
+    <li>complimenting->gekscherend te porren</li>
+    <li>complimenting->gekscherend half te becomplimenteren</li>
+    <li>complimenting->speels in twijfel te trekken</li>
+    <li>complimenting->vrolijk als grap te behandelen</li>
+    <li>romantic_adj->mooi</li>
+    <li>romantic_adj->glanzende</li>
+    <li>romantic_adj->glitterende</li>
+    <li>romantic_adj->hemelijk</li>
+    <li>romantic_adj->gouden</li>
+    <li>romantic_adj->heldere</li>
+    <li>romantic_adj->adembenemende</li>
+    <li>romantic_adj->charmerende</li>
+    <li>romantic_adj->duizelingwekkende</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fijne</li>
+    <li>romantic_adj->uitstekende</li>
+    <li>romantic_adj->liefdevolle</li>
+    <li>romantic_adj->prachtige</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->bloem</li>
+    <li>romantic_noun->lente</li>
+    <li>romantic_noun->rivier</li>
+    <li>romantic_noun->ster</li>
+    <li>romantic_noun->maan</li>
+    <li>romantic_noun->zon</li>
+    <li>romantic_noun->huis</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType]boom</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li></RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

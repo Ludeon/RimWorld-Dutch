@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: try to get to know -->
-  <BuildRapport.label>TODO</BuildRapport.label>
+  <BuildRapport.label>proberen te leren kennen</BuildRapport.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
@@ -39,20 +39,60 @@
     <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
-  <BuildRapport.logRulesInitiator.rulesStrings>TODO</BuildRapport.logRulesInitiator.rulesStrings>
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] over [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] beschreef [subject] aan [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] moedigde [RECIPIENT_nameDef] aan om [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] gaf [RECIPIENT_nameDef] de kans om [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] toonde interesse in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] naar [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->vertelde een verhaal over</li>
+    <li>toldastoryabout->vertelde een grappig verhaal over</li>
+    <li>toldastoryabout->vertelde een aangrijpend verhaal over</li>
+    <li>toldastoryabout->vertelde een klassiek verhaal over</li>
+    <li>toldastoryabout->vertelde een persoonlijk verhaal over</li>
+    <li>toldastoryabout->vertelde een verhaal uit [INITIATOR_possessive] kindertijd over</li>
+    <li>toldastoryabout->vertelde een anekdote over</li>
+    <li>talkabout->te spreken over</li>
+    <li>talkabout->te discussiëren over</li>
+    <li>talkabout->een discussie te beginnen over</li>
+    <li>talkabout->te vragen naar</li>
+    <li>talkabout->na te denken over</li>
+    <li>talkabout->overeenkomsten te vinden over</li>
+    <li>subject->de kolonie</li>
+    <li>subject->de gemeenschap</li>
+    <li>subject->het aansluiten bij de kolonie</li>
+    <li>subject->van team wisselen</li>
+    <li>subject->het vinden van vriendschap</li>
+    <li>subject->het ontmoeten van nieuwe mensen</li>
+    <li>subject->het heroverwegen van [RECIPIENT_possessive] ideën</li>
+    <li>subject->het heroverwegen van [RECIPIENT_possessive] loyaliteit</li>
+    <li>subject->[RECIPIENT_possessive] welzijn</li>
+    <li>subject->de toekomst</li>
+    <li>subject->[RECIPIENT_possessive] verleden</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
-  <RecruitAttempt.label>TODO</RecruitAttempt.label>
+  <RecruitAttempt.label>proberen te rekruteren</RecruitAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
     <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
     <li>goodthing(p=15)->[ConceptPositive]</li>
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
-  <RecruitAttempt.logRulesInitiator.rulesStrings>TODO</RecruitAttempt.logRulesInitiator.rulesStrings>
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] zich aan te sluiten.</li>
+    <li>r_logentry->[INITIATOR_nameDef] beloofde [goodthing] aan [RECIPIENT_nameDef], en vroeg [RECIPIENT_objective] zich aan te sluiten.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->vrije, verse [Vegetable]</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
-  <SparkJailbreak.label>TODO</SparkJailbreak.label>
+  <SparkJailbreak.label>veroorzaak uitbraak</SparkJailbreak.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
     <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
@@ -63,6 +103,15 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] sprak over het genot van [freedom], en bood een vluchtroute.</li>
+    <li>r_logentry->[INITIATOR_nameDef] sprak over hoe mooi de [TerrainFeature] is, en bood vrijheid.</li>
+    <li>r_logentry->[INITIATOR_nameDef] toonde een vluchtweg aan [RECIPIENT_nameDef], en beloofde [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] zei tegen [RECIPIENT_nameDef] dat er weinig beveiliging was, en stelde voor te ontsnappen.</li>
+    <li>freedom->vrijheid</li>
+    <li>freedom->mogelijkheden</li>
+    <li>freedom->thuis</li>
+    <li>freedom->zelfbestemming</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

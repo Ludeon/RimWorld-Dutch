@@ -201,7 +201,7 @@
   <!-- EN: Enhanced -->
   <Enhanced>Verbeterd</Enhanced>
   <!-- EN: Seriously impaired -->
-  <SeriouslyImpaired>Extreem gehandicapt</SeriouslyImpaired>
+  <SeriouslyImpaired>Ernstig gehandicapt</SeriouslyImpaired>
   <!-- EN: Impaired -->
   <Impaired>gehandicapt</Impaired>
   <!-- EN: Slightly impaired -->
@@ -209,13 +209,13 @@
   <!-- EN: None -->
   <NoPain>Geen</NoPain>
   <!-- EN: Little -->
-  <LittlePain>Een beetje</LittlePain>
+  <LittlePain>Beetje</LittlePain>
   <!-- EN: Medium -->
   <MediumPain>Gemiddeld</MediumPain>
   <!-- EN: Severe -->
   <SeverePain>Veel</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>Extreem veel</ExtremePain>
+  <ExtremePain>Extreem</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->

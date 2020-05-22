@@ -11,7 +11,7 @@
   <Capture.reportString>TargetA aan het pakken.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>TODO</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToExit.reportString>TargetA aan het dragen.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>TargetA naar een Cryptoslaapbed aan het tillen.</CarryToCryptosleepCasket.reportString>
@@ -23,7 +23,7 @@
   <CutPlant.reportString>TargetA aan het weghalen.</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>TODO</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>TargetA aan het afsnijden.</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>TargetA aan het afbreken.</Deconstruct.reportString>
@@ -50,7 +50,7 @@
   <Harvest.reportString>TargetA aan het oogsten.</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>TargetA aan het oogsten.</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToCell.reportString>TargetA naar een opslagplaats aan het tillen.</HaulToCell.reportString>
@@ -74,7 +74,7 @@
   <OperateDeepDrill.reportString>aan het graven bij TargetA.</OperateDeepDrill.reportString>
   
   <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>TODO</OperateScanner.reportString>
+  <OperateScanner.reportString>scannen bij TargetA.</OperateScanner.reportString>
   
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>TargetA aan het opbouwen.</PlaceNoCostFrame.reportString>
@@ -110,10 +110,10 @@
   <Slaughter.reportString>TargetA aan het slachten.</Slaughter.reportString>
   
   <!-- EN: smoothing floor. -->
-  <SmoothFloor.reportString>de vloer glad aan het maken.</SmoothFloor.reportString>
+  <SmoothFloor.reportString>de vloer aan het polijsten.</SmoothFloor.reportString>
   
   <!-- EN: smoothing wall. -->
-  <SmoothWall.reportString>TODO</SmoothWall.reportString>
+  <SmoothWall.reportString>muur aan het polijsten.</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
   <Sow.reportString>TargetA aan het zaaien.</Sow.reportString>

@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: talking. -->
-  <GiveSpeech.reportString>TODO</GiveSpeech.reportString>
+  <GiveSpeech.reportString>aan het spreken.</GiveSpeech.reportString>
   
   <!-- EN: marrying TargetA. -->
-  <MarryAdjacentPawn.reportString>TODO</MarryAdjacentPawn.reportString>
+  <MarryAdjacentPawn.reportString>aan het trouwen met TargetA.</MarryAdjacentPawn.reportString>
   
   <!-- EN: spectating. -->
   <SpectateCeremony.reportString>aan het toekijken.</SpectateCeremony.reportString>

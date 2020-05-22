@@ -256,6 +256,8 @@
   <QuestOutcomeInfo_UnknownOrSuccess>Je hebt deze opdracht voltooid.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>Deze opdracht is mislukt.</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>Deze opdracht werd ongeldig voordat hij werd geaccepteerd.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>Toon locatie {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
@@ -290,5 +292,9 @@
   <GoodwillTip>Je relatie met {0_name} zal verbeteren met {1}.\n\nHuidige relatie: {4} ({5}).\n\nReputatie meet de relatie tussen facties. Als het onder {2} komt, wordt de factie vijandelijk en zal je kolonie en karavanen aanvallen. Als het boven {3} uitkomt zal de factie je bondgenoot worden en soldaten sturen om te helpen wanneer ze dat kunnen. Bij andere waardes blijft de factie neutraal en zal met je handelen en spreken.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort} sluit zich aan</PawnQuestReward>
+  
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>Creëert behoefte</CreatesNeed>
 
 </LanguageData>

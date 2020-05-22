@@ -432,8 +432,8 @@
   <SpawningNextPawnIn>Produceert over {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>{0} bouw klaar over {1}.</MechAssemblyCompleteIn>
-  <!-- EN: Will assemble {0}. text_todo -->
-  <MechAssemblyNextType>Zal {0} bouwen.</MechAssemblyNextType>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>Zal maken</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>geproduceerd</ThingsProduced>
   <!-- EN: harvested -->
@@ -1284,8 +1284,6 @@
   <NotBonded>Nog niet verbonden</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>Verbonden met iemand anders</BladelinkBondedToSomeoneElse>
-  <!-- EN: P-{LABEL} -->
-  <PersonaWeaponLabel>P-{LABEL}</PersonaWeaponLabel>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1313,7 +1311,5 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Veroorzaakt door: {0}</CausedByHediff>
   
-  <!-- UNUSED -->
-  <Psyfocus>Psyfocus</Psyfocus>
 
 </LanguageData>

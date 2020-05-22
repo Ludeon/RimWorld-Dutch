@@ -27,7 +27,7 @@
   <!-- EN: Post-process - other stats -->
   <StatsReport_OtherStats>Andere statistieken</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>Gezondheid</StatsReport_Health>
+  <StatsReport_Health>Welzijn</StatsReport_Health>
   <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} betekenis</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->

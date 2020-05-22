@@ -119,7 +119,7 @@
   <!-- EN: Medical operations -->
   <MedicalOperations.label>Medische operaties</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>Om een medische ingreep toe te wijzen, zoals het oogsten van organen of de installatie van protheses, opent je het tabblad GEZONDHEID van een kolonist en schakelt je dan over naar het sub-tabblad OPERATIES.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>Om een medische ingreep toe te wijzen, zoals het oogsten van organen of de installatie van protheses, opent je het tabblad WELZIJN van een kolonist en schakelt je dan over naar het sub-tabblad OPERATIES.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>Mijnbouw</Mining.label>

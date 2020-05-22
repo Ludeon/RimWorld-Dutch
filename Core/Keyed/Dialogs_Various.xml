@@ -827,7 +827,7 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Drugsbeleid is in gebruik door {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Voedselrestrictie wordt gebruikt door {0}.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Voedselprofiel wordt gebruikt door {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Sociale drugs </SocialDrugs>
   <!-- EN: No drugs -->
@@ -885,7 +885,7 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>Voedselrestrictie</FoodRestriction>
+  <FoodRestriction>Voedselprofiel</FoodRestriction>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Overvloedig</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -899,17 +899,17 @@
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Niets</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Selecteer voedselrestrictie</SelectFoodRestriction>
+  <SelectFoodRestriction>Kies voedselprofiel</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Nieuwe voedselrestrictie</NewFoodRestriction>
+  <NewFoodRestriction>Nieuw voedselprofiel</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Voedingsrestrictie schrappen </DeleteFoodRestriction>
+  <DeleteFoodRestriction>Verw. voedselprofiel</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Geen voedselrestrictie geselecteerd </NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Geen voedselprofiel geselecteerd </NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
-  <MedGroupDefaults>Standaardwaarden</MedGroupDefaults>
+  <MedGroupDefaults>Standaard</MedGroupDefaults>
   <!-- EN: Colonist -->
   <MedGroupColonist>Kolonist</MedGroupColonist>
   <!-- EN: Imprisoned colonist -->

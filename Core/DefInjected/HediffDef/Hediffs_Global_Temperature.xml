@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: heatstroke -->
-  <Heatstroke.label>oververhit</Heatstroke.label>
+  <Heatstroke.label>zonnesteek</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>TODO</Heatstroke.description>
+  <Heatstroke.description>Een algemene verstoring van lichaamsfuncties door blootstelling aan extreme hitte en zon. Het slachtoffer wordt duizelig, zwak en verward. Herstel verloopt snel in een koele ruimte, maar als blootstelling aan hitte doorgaat zal de zonnesteek verergeren tot de dood volgt.</Heatstroke.description>
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>miniem</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
@@ -19,7 +19,7 @@
   <!-- EN: hypothermia -->
   <Hypothermia.label>onderkoeling</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>TODO</Hypothermia.description>
+  <Hypothermia.description>Gevaarlijk lage lichaamstemperatuur. Tenzij opgewarmd zal de onderkoeling steeds erger worden tot de dood volgt. Herstel verloopt snel wanneer het slachtoffer wordt opgewarmd. Voorkom onderkoeling door warme kleren te dragen in koude omgevingen.</Hypothermia.description>
   <!-- EN: shivering -->
   <Hypothermia.stages.shivering-0.label>rillen</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
@@ -34,7 +34,7 @@
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>hypothermische vertraging</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>Een bijzondere biologische staat die sommige wezens gebruiken om extreme kou te overleven. In plaats van het proberen warm te blijven past het lichaam zich aan om interne bevriezing te voorkomen bij zeer lage temperaturen. Lichaamsfuncties en vaardigheden zijn minder, maar de kou veroorzaakt geen blijvende schade. Sommige biologen noemen het een wakkere vorm van winterslaap.</HypothermicSlowdown.description>
   <!-- EN: minor -->
   <HypothermicSlowdown.stages.minor-0.label>miniem</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->

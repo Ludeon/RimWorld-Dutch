@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: dirt -->
-  <DirtInEyes.label>TODO</DirtInEyes.label>
+  <DirtInEyes.label>vuil</DirtInEyes.label>
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <DirtInEyes.description>TODO</DirtInEyes.description>
+  <DirtInEyes.description>Vuil in de ogen. Het beperkt zicht, maar kan in enkele seconden worden weggeveegd.</DirtInEyes.description>
   <!-- EN: dirt -->
-  <DirtInEyes.labelNoun>TODO</DirtInEyes.labelNoun>
+  <DirtInEyes.labelNoun>vuil</DirtInEyes.labelNoun>
   
   <!-- EN: gravel -->
-  <GravelInEyes.label>TODO</GravelInEyes.label>
+  <GravelInEyes.label>grind</GravelInEyes.label>
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <GravelInEyes.description>TODO</GravelInEyes.description>
+  <GravelInEyes.description>Grind in de ogen. Het beperkt zicht, maar kan in enkele seconden worden weggeveegd.</GravelInEyes.description>
   <!-- EN: gravel -->
-  <GravelInEyes.labelNoun>TODO</GravelInEyes.labelNoun>
+  <GravelInEyes.labelNoun>grind</GravelInEyes.labelNoun>
   
   <!-- EN: mud -->
-  <MudInEyes.label>TODO</MudInEyes.label>
+  <MudInEyes.label>modder</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <MudInEyes.description>TODO</MudInEyes.description>
+  <MudInEyes.description>Modder in de ogen. Het beperkt zicht, maar kan in enkele seconden worden weggeveegd.</MudInEyes.description>
   <!-- EN: mud -->
-  <MudInEyes.labelNoun>TODO</MudInEyes.labelNoun>
+  <MudInEyes.labelNoun>modder</MudInEyes.labelNoun>
   
   <!-- EN: sand -->
-  <SandInEyes.label>TODO</SandInEyes.label>
+  <SandInEyes.label>zand</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
-  <SandInEyes.description>TODO</SandInEyes.description>
+  <SandInEyes.description>Zand in de ogen. Het beperkt zicht, maar kan in enkele seconden worden weggeveegd.</SandInEyes.description>
   <!-- EN: sand -->
-  <SandInEyes.labelNoun>TODO</SandInEyes.labelNoun>
+  <SandInEyes.labelNoun>zand</SandInEyes.labelNoun>
   
   <!-- EN: water -->
-  <WaterInEyes.label>TODO</WaterInEyes.label>
+  <WaterInEyes.label>water</WaterInEyes.label>
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <WaterInEyes.description>TODO</WaterInEyes.description>
+  <WaterInEyes.description>Water in de ogen. Het beperkt zicht, maar kan in enkele seconden worden weggeveegd.</WaterInEyes.description>
   <!-- EN: water -->
-  <WaterInEyes.labelNoun>TODO</WaterInEyes.labelNoun>
+  <WaterInEyes.labelNoun>water</WaterInEyes.labelNoun>
   
 </LanguageData>

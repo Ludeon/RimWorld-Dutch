@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: malnutrition -->
-  <Malnutrition.label>uithongering</Malnutrition.label>
+  <Malnutrition.label>ondervoeding</Malnutrition.label>
   <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleaseant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death.\n\nUpon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
-  <Malnutrition.description>TODO</Malnutrition.description>
+  <Malnutrition.description>Een abnormaal laag lichaamsvet en gewicht, meestal veroorzaakt door een gebrek aan eten. Ondervoeding is altijd erg onaangenaam, maar de in het begin zijn de effecten mild. Zonder eten zal een wezen uiteindelijk door het verlies van spiermassa en laag prestatieniveau wegkwijnen. Ondervoeding eindigt met de dood.\n\nNa opnieuw te eten zal het lichaam natuurlijk herstellen. Ondervoede wezens hebben meer trek dan gemiddeld.</Malnutrition.description>
   <!-- EN: trivial -->
-  <Malnutrition.stages.trivial.label>miniem</Malnutrition.stages.trivial.label>
+  <Malnutrition.stages.trivial.label>minimaal</Malnutrition.stages.trivial.label>
   <!-- EN: minor -->
   <Malnutrition.stages.minor.label>klein</Malnutrition.stages.minor.label>
   <!-- EN: moderate -->

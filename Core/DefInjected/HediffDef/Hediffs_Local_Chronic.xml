@@ -2,99 +2,99 @@
 <LanguageData>
   
   <!-- EN: alzheimer's -->
-  <Alzheimers.label>TODO</Alzheimers.label>
+  <Alzheimers.label>alzheimer</Alzheimers.label>
   <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
-  <Alzheimers.description>TODO</Alzheimers.description>
+  <Alzheimers.description>Hersenziekte, meestal geassocieerd met veroudering. Alzheimers veroorzaakt geleidelijk degeneratie in de capaciteit na te denken en te herinneren. Patiënten vergeten vaak hun nabije familie, en lopen soms verdwaasd rond.</Alzheimers.description>
   <!-- EN: minor -->
-  <Alzheimers.stages.minor-0.label>TODO</Alzheimers.stages.minor-0.label>
+  <Alzheimers.stages.minor-0.label>miniem</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
-  <Alzheimers.stages.minor-1.label>TODO</Alzheimers.stages.minor-1.label>
+  <Alzheimers.stages.minor-1.label>miniem</Alzheimers.stages.minor-1.label>
   <!-- EN: major -->
-  <Alzheimers.stages.major-0.label>TODO</Alzheimers.stages.major-0.label>
+  <Alzheimers.stages.major-0.label>ernstig</Alzheimers.stages.major-0.label>
   <!-- EN: major -->
-  <Alzheimers.stages.major-1.label>TODO</Alzheimers.stages.major-1.label>
+  <Alzheimers.stages.major-1.label>ernstig</Alzheimers.stages.major-1.label>
   
   <!-- EN: asthma -->
-  <Asthma.label>TODO</Asthma.label>
+  <Asthma.label>astma</Asthma.label>
   <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
-  <Asthma.description>TODO</Asthma.description>
+  <Asthma.description>Een chronische ontsteking van de luchtwegen. Het vereist regelmatige verpleging om symptomen te voorkomen.</Asthma.description>
   <!-- EN: minor -->
-  <Asthma.stages.minor.label>TODO</Asthma.stages.minor.label>
+  <Asthma.stages.minor.label>miniem</Asthma.stages.minor.label>
   <!-- EN: major -->
-  <Asthma.stages.major-0.label>TODO</Asthma.stages.major-0.label>
+  <Asthma.stages.major-0.label>ernstig</Asthma.stages.major-0.label>
   <!-- EN: major -->
-  <Asthma.stages.major-1.label>TODO</Asthma.stages.major-1.label>
+  <Asthma.stages.major-1.label>ernstig</Asthma.stages.major-1.label>
   
   <!-- EN: bad back -->
-  <BadBack.label>TODO</BadBack.label>
+  <BadBack.label>slechte rug</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
-  <BadBack.description>TODO</BadBack.description>
+  <BadBack.description>Achteruitgaande ruggegraat en de omliggende spieren. Dit maakt het moeilijk normaal te bewegen en buigen.</BadBack.description>
   <!-- EN: a bad back -->
-  <BadBack.labelNoun>TODO</BadBack.labelNoun>
+  <BadBack.labelNoun>een slechte rug</BadBack.labelNoun>
   
   <!-- EN: blindness -->
-  <Blindness.label>TODO</Blindness.label>
+  <Blindness.label>blindheid</Blindness.label>
   <!-- EN: Total inability to see. -->
-  <Blindness.description>TODO</Blindness.description>
+  <Blindness.description>Volledige onmacht iets te zien</Blindness.description>
   
   <!-- EN: carcinoma -->
-  <Carcinoma.label>TODO</Carcinoma.label>
+  <Carcinoma.label>tumor</Carcinoma.label>
   <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
-  <Carcinoma.description>TODO</Carcinoma.description>
+  <Carcinoma.description>Een kwaadaardige tumor. Zonder behandeling zal de tumor groeien, en steeds ergere symptomen veroorzaken. Uiteindelijk zal de patiënt hieraan overlijden.\n\nEen uitstekende dokter kan de tumor uitsnijden. Een minder capabele dokter zou het lichaamsdeel met de tumor kunnen amputeren.</Carcinoma.description>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>TODO</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>een tumor</Carcinoma.labelNoun>
   <!-- EN: minor -->
-  <Carcinoma.stages.minor-0.label>TODO</Carcinoma.stages.minor-0.label>
+  <Carcinoma.stages.minor-0.label>miniem</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
-  <Carcinoma.stages.minor-1.label>TODO</Carcinoma.stages.minor-1.label>
+  <Carcinoma.stages.minor-1.label>miniem</Carcinoma.stages.minor-1.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-0.label>TODO</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-0.label>ernstig</Carcinoma.stages.major-0.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-1.label>TODO</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.major-1.label>ernstig</Carcinoma.stages.major-1.label>
   <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-0.label>TODO</Carcinoma.stages.extreme-0.label>
+  <Carcinoma.stages.extreme-0.label>extreem</Carcinoma.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-1.label>TODO</Carcinoma.stages.extreme-1.label>
+  <Carcinoma.stages.extreme-1.label>extreem</Carcinoma.stages.extreme-1.label>
   
   <!-- EN: cataract -->
-  <Cataract.label>TODO</Cataract.label>
+  <Cataract.label>grijze staar</Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
-  <Cataract.description>TODO</Cataract.description>
+  <Cataract.description>Een melkachtige vertroebeling van de ooglens. Grijze staar verslechtert het zicht.</Cataract.description>
   <!-- EN: a cataract -->
-  <Cataract.labelNoun>TODO</Cataract.labelNoun>
+  <Cataract.labelNoun>grijze staar</Cataract.labelNoun>
   
   <!-- EN: dementia -->
-  <Dementia.label>TODO</Dementia.label>
+  <Dementia.label>dementie</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
-  <Dementia.description>TODO</Dementia.description>
+  <Dementia.description>Neurale verslechtering die de capaciteit tot nadenken en herinnering vermindert. Dementie kan verschillende oorzaken hebben, zoals ouderdom, specifieke ziekten en vergiftiging.</Dementia.description>
   
   <!-- EN: frail -->
-  <Frail.label>TODO</Frail.label>
+  <Frail.label>fragiel</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
-  <Frail.description>TODO</Frail.description>
+  <Frail.description>Algemeen verlies van spiermassa en botdichtheid</Frail.description>
   <!-- EN: frailty -->
-  <Frail.labelNoun>TODO</Frail.labelNoun>
+  <Frail.labelNoun>fragiliteit</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
-  <HearingLoss.label>TODO</HearingLoss.label>
+  <HearingLoss.label>hardhorendheid</HearingLoss.label>
   <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
-  <HearingLoss.description>TODO</HearingLoss.description>
+  <HearingLoss.description>Het niet kunnen horen van zachte geluiden vanwege degradatie van haarcellen in het binnenoor.</HearingLoss.description>
   
   <!-- EN: artery blockage -->
-  <HeartArteryBlockage.label>TODO</HeartArteryBlockage.label>
+  <HeartArteryBlockage.label>bloedprop</HeartArteryBlockage.label>
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
-  <HeartArteryBlockage.description>TODO</HeartArteryBlockage.description>
+  <HeartArteryBlockage.description>Een bloedprop in één van de belangrijke aders van het hart. Een bloedprop in het hart kan hartaanvallen veroorzaken.</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>TODO</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.labelNoun>een bloedprop</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-0.label>TODO</HeartArteryBlockage.stages.minor-0.label>
+  <HeartArteryBlockage.stages.minor-0.label>miniem</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-1.label>TODO</HeartArteryBlockage.stages.minor-1.label>
+  <HeartArteryBlockage.stages.minor-1.label>miniem</HeartArteryBlockage.stages.minor-1.label>
   <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-0.label>TODO</HeartArteryBlockage.stages.major-0.label>
+  <HeartArteryBlockage.stages.major-0.label>ernstig</HeartArteryBlockage.stages.major-0.label>
   <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-1.label>TODO</HeartArteryBlockage.stages.major-1.label>
+  <HeartArteryBlockage.stages.major-1.label>ernstig</HeartArteryBlockage.stages.major-1.label>
   <!-- EN: extreme -->
-  <HeartArteryBlockage.stages.extreme.label>TODO</HeartArteryBlockage.stages.extreme.label>
+  <HeartArteryBlockage.stages.extreme.label>extreem</HeartArteryBlockage.stages.extreme.label>
   
 </LanguageData>

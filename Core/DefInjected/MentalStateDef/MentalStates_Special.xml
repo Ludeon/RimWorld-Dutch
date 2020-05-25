@@ -12,13 +12,13 @@
   <Manhunter.recoveryMessage>{0} is gekalmeerd.</Manhunter.recoveryMessage>
   
   <!-- EN: manhunter -->
-  <ManhunterPermanent.label>TODO</ManhunterPermanent.label>
+  <ManhunterPermanent.label>dierengekte</ManhunterPermanent.label>
   <!-- EN: Maddened: Manhunter -->
-  <ManhunterPermanent.baseInspectLine>TODO</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.baseInspectLine>Mentale staat: razend</ManhunterPermanent.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <ManhunterPermanent.beginLetter>TODO</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetter>{0} is gek geworden en valt je kolonisten aan!</ManhunterPermanent.beginLetter>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>TODO</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>{0} is gekalmeerd.</ManhunterPermanent.recoveryMessage>
   
   <!-- EN: panic fleeing -->
   <PanicFlee.label>paniek vluchten</PanicFlee.label>
@@ -34,7 +34,7 @@
   <!-- EN: social fighting -->
   <SocialFighting.label>sociaal gevecht</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->
-  <SocialFighting.baseInspectLine>TODO</SocialFighting.baseInspectLine>
+  <SocialFighting.baseInspectLine>Mentale staat: Sociaal gevecht</SocialFighting.baseInspectLine>
   
   <!-- EN: confused wandering -->
   <WanderConfused.label>verwarde wandeling</WanderConfused.label>
@@ -43,7 +43,7 @@
   <!-- EN: {0} has broken down and is wandering around confused. -->
   <WanderConfused.beginLetter>{0} zit erdoorheen en is volledige verward om zich het te kijken en wandelen.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
-  <WanderConfused.beginLetterLabel>verwaring</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetterLabel>verwarring</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
   <WanderConfused.recoveryMessage>{0} is niet meer verward.</WanderConfused.recoveryMessage>
   

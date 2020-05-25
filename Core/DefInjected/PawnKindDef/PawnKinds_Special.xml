@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: slave -->
-  <Slave.label>TODO</Slave.label>
+  <Slave.label>slaaf</Slave.label>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>TODO</StrangerInBlack.label>
+  <StrangerInBlack.label>mysterieuze vreemdeling</StrangerInBlack.label>
   <!-- EN: woman in black -->
-  <StrangerInBlack.labelFemale>TODO</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelFemale>mysterieuze vreemdeling</StrangerInBlack.labelFemale>
   <!-- EN: man in black -->
-  <StrangerInBlack.labelMale>TODO</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelMale>mysterieuze vreemdeling</StrangerInBlack.labelMale>
   <!-- EN: strangers in black -->
-  <StrangerInBlack.labelPlural>TODO</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelPlural>mysterieuze vreemdelingen</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>TODO</WildMan.label>
+  <WildMan.label>wilde man</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <WildMan.labelFemale>wilde vrouw</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>wilde vrouwen</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <WildMan.labelPlural>wilde mannen</WildMan.labelPlural>
   
 </LanguageData>

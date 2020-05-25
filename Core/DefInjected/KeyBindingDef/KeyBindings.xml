@@ -2,150 +2,150 @@
 <LanguageData>
   
   <!-- EN: accept -->
-  <Accept.label>TODO</Accept.label>
+  <Accept.label>accepteren</Accept.label>
   
   <!-- EN: cancel -->
-  <Cancel.label>TODO</Cancel.label>
+  <Cancel.label>annuleren</Cancel.label>
   
   <!-- EN: draft -->
-  <Command_ColonistDraft.label>TODO</Command_ColonistDraft.label>
+  <Command_ColonistDraft.label>rekruteren</Command_ColonistDraft.label>
   
   <!-- EN: toggle forbidden -->
-  <Command_ItemForbid.label>TODO</Command_ItemForbid.label>
+  <Command_ItemForbid.label>verbieden/toestaan</Command_ItemForbid.label>
   
   <!-- EN: toggle power -->
-  <Command_TogglePower.label>TODO</Command_TogglePower.label>
+  <Command_TogglePower.label>stroom aan/uit</Command_TogglePower.label>
   
   <!-- EN: cancel -->
-  <Designator_Cancel.label>TODO</Designator_Cancel.label>
+  <Designator_Cancel.label>annuleren</Designator_Cancel.label>
   
   <!-- EN: deconstruct -->
-  <Designator_Deconstruct.label>TODO</Designator_Deconstruct.label>
+  <Designator_Deconstruct.label>afbreken</Designator_Deconstruct.label>
   
   <!-- EN: rotate left -->
-  <Designator_RotateLeft.label>TODO</Designator_RotateLeft.label>
+  <Designator_RotateLeft.label>linksom draaien</Designator_RotateLeft.label>
   
   <!-- EN: rotate right -->
-  <Designator_RotateRight.label>TODO</Designator_RotateRight.label>
+  <Designator_RotateRight.label>rechtsom draaien</Designator_RotateRight.label>
   
   <!-- EN: tick once -->
-  <Dev_TickOnce.label>TODO</Dev_TickOnce.label>
+  <Dev_TickOnce.label>eenmaal klikken</Dev_TickOnce.label>
   
   <!-- EN: toggle debug actions menu -->
-  <Dev_ToggleDebugActionsMenu.label>TODO</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugActionsMenu.label>debugacties menu aan/uit</Dev_ToggleDebugActionsMenu.label>
   
   <!-- EN: toggle debug inspector -->
-  <Dev_ToggleDebugInspector.label>TODO</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugInspector.label>debuginspector aan/uit</Dev_ToggleDebugInspector.label>
   
   <!-- EN: toggle debug log -->
-  <Dev_ToggleDebugLog.label>TODO</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugLog.label>debuglog aan/uit</Dev_ToggleDebugLog.label>
   
   <!-- EN: toggle debug log menu -->
-  <Dev_ToggleDebugLogMenu.label>TODO</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugLogMenu.label>debuglog menu aan/uit</Dev_ToggleDebugLogMenu.label>
   
   <!-- EN: toggle debug settings menu -->
-  <Dev_ToggleDebugSettingsMenu.label>TODO</Dev_ToggleDebugSettingsMenu.label>
+  <Dev_ToggleDebugSettingsMenu.label>debuginstellingen menu aan/uit</Dev_ToggleDebugSettingsMenu.label>
   
   <!-- EN: toggle god mode -->
-  <Dev_ToggleGodMode.label>TODO</Dev_ToggleGodMode.label>
+  <Dev_ToggleGodMode.label>god mode aan/uit</Dev_ToggleGodMode.label>
   
   <!-- EN: dolly down -->
-  <MapDolly_Down.label>TODO</MapDolly_Down.label>
+  <MapDolly_Down.label>naar beneden</MapDolly_Down.label>
   
   <!-- EN: dolly left -->
-  <MapDolly_Left.label>TODO</MapDolly_Left.label>
+  <MapDolly_Left.label>naar links</MapDolly_Left.label>
   
   <!-- EN: dolly right -->
-  <MapDolly_Right.label>TODO</MapDolly_Right.label>
+  <MapDolly_Right.label>naar rechts</MapDolly_Right.label>
   
   <!-- EN: dolly up -->
-  <MapDolly_Up.label>TODO</MapDolly_Up.label>
+  <MapDolly_Up.label>naar boven</MapDolly_Up.label>
   
   <!-- EN: zoom in -->
-  <MapZoom_In.label>TODO</MapZoom_In.label>
+  <MapZoom_In.label>inzoomen</MapZoom_In.label>
   
   <!-- EN: zoom out -->
-  <MapZoom_Out.label>TODO</MapZoom_Out.label>
+  <MapZoom_Out.label>uitzoomen</MapZoom_Out.label>
   
   <!-- EN: Misc 1 -->
-  <Misc1.label>TODO</Misc1.label>
+  <Misc1.label>Divers 1</Misc1.label>
   
   <!-- EN: Misc 10 -->
-  <Misc10.label>TODO</Misc10.label>
+  <Misc10.label>Divers 10</Misc10.label>
   
   <!-- EN: Misc 11 -->
-  <Misc11.label>TODO</Misc11.label>
+  <Misc11.label>Divers 11</Misc11.label>
   
   <!-- EN: Misc 12 -->
-  <Misc12.label>TODO</Misc12.label>
+  <Misc12.label>Divers 12</Misc12.label>
   
   <!-- EN: Misc 2 -->
-  <Misc2.label>TODO</Misc2.label>
+  <Misc2.label>Divers 2</Misc2.label>
   
   <!-- EN: Misc 3 -->
-  <Misc3.label>TODO</Misc3.label>
+  <Misc3.label>Divers 3</Misc3.label>
   
   <!-- EN: Misc 4 -->
-  <Misc4.label>TODO</Misc4.label>
+  <Misc4.label>Divers 4</Misc4.label>
   
   <!-- EN: Misc 5 -->
-  <Misc5.label>TODO</Misc5.label>
+  <Misc5.label>Divers 5</Misc5.label>
   
   <!-- EN: Misc 6 -->
-  <Misc6.label>TODO</Misc6.label>
+  <Misc6.label>Divers 6</Misc6.label>
   
   <!-- EN: Misc 7 -->
-  <Misc7.label>TODO</Misc7.label>
+  <Misc7.label>Divers 7</Misc7.label>
   
   <!-- EN: Misc 8 -->
-  <Misc8.label>TODO</Misc8.label>
+  <Misc8.label>Divers 8</Misc8.label>
   
   <!-- EN: Misc 9 -->
-  <Misc9.label>TODO</Misc9.label>
+  <Misc9.label>Divers 9</Misc9.label>
   
   <!-- EN: increment 100x -->
-  <ModifierIncrement_100x.label>TODO</ModifierIncrement_100x.label>
+  <ModifierIncrement_100x.label>100x opwaarderen</ModifierIncrement_100x.label>
   
   <!-- EN: increment 10x -->
-  <ModifierIncrement_10x.label>TODO</ModifierIncrement_10x.label>
+  <ModifierIncrement_10x.label>10x opwaarderen</ModifierIncrement_10x.label>
   
   <!-- EN: next colonist -->
-  <NextColonist.label>TODO</NextColonist.label>
+  <NextColonist.label>volgende kolonist</NextColonist.label>
   
   <!-- EN: previous colonist -->
-  <PreviousColonist.label>TODO</PreviousColonist.label>
+  <PreviousColonist.label>vorige kolonist</PreviousColonist.label>
   
   <!-- EN: queue order -->
-  <QueueOrder.label>TODO</QueueOrder.label>
+  <QueueOrder.label>plaats order in wachtrij</QueueOrder.label>
   
   <!-- EN: select next in cell -->
-  <SelectNextInCell.label>TODO</SelectNextInCell.label>
+  <SelectNextInCell.label>selecteer volgende in cel.</SelectNextInCell.label>
   
   <!-- EN: take screenshot -->
-  <TakeScreenshot.label>TODO</TakeScreenshot.label>
+  <TakeScreenshot.label>neem screenshot</TakeScreenshot.label>
   
   <!-- EN: game speed: Fast -->
-  <TimeSpeed_Fast.label>TODO</TimeSpeed_Fast.label>
+  <TimeSpeed_Fast.label>spelsnelheid: Snel</TimeSpeed_Fast.label>
   
   <!-- EN: game speed: Normal -->
-  <TimeSpeed_Normal.label>TODO</TimeSpeed_Normal.label>
+  <TimeSpeed_Normal.label>spelsnelheid: Normaal</TimeSpeed_Normal.label>
   
   <!-- EN: game speed: Super fast -->
-  <TimeSpeed_Superfast.label>TODO</TimeSpeed_Superfast.label>
+  <TimeSpeed_Superfast.label>spelsnelheid: Supersnel</TimeSpeed_Superfast.label>
   
   <!-- EN: game speed: Ultra fast (debug) -->
-  <TimeSpeed_Ultrafast.label>TODO</TimeSpeed_Ultrafast.label>
+  <TimeSpeed_Ultrafast.label>spelsnelheid: Ultrasnel (debug)</TimeSpeed_Ultrafast.label>
   
   <!-- EN: toggle beauty display -->
-  <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
+  <ToggleBeautyDisplay.label>toon schoonheidsweergave aan/uit</ToggleBeautyDisplay.label>
   
   <!-- EN: pause/resume game -->
-  <TogglePause.label>TODO</TogglePause.label>
+  <TogglePause.label>pauzeren/hervatten spel</TogglePause.label>
   
   <!-- EN: toggle room stats display -->
-  <ToggleRoomStatsDisplay.label>TODO</ToggleRoomStatsDisplay.label>
+  <ToggleRoomStatsDisplay.label>toon ruimtestatistieken aan/uit</ToggleRoomStatsDisplay.label>
   
   <!-- EN: toggle screenshot mode -->
-  <ToggleScreenshotMode.label>TODO</ToggleScreenshotMode.label>
+  <ToggleScreenshotMode.label>screenshotmodus aan/uit</ToggleScreenshotMode.label>
   
 </LanguageData>

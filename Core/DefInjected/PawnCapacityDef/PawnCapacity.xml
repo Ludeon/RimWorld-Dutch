@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: blood filtration -->
-  <BloodFiltration.label>TODO</BloodFiltration.label>
+  <BloodFiltration.label>bloedfiltratie</BloodFiltration.label>
   <!-- EN: fluid reprocessing -->
-  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  <BloodFiltration.labelMechanoids>vloeistofverversing</BloodFiltration.labelMechanoids>
   
   <!-- EN: blood pumping -->
-  <BloodPumping.label>TODO</BloodPumping.label>
+  <BloodPumping.label>bloed pompen</BloodPumping.label>
   <!-- EN: power generation -->
-  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  <BloodPumping.labelMechanoids>energiegeneratie</BloodPumping.labelMechanoids>
   
   <!-- EN: breathing -->
-  <Breathing.label>TODO</Breathing.label>
+  <Breathing.label>ademen</Breathing.label>
   
   <!-- EN: consciousness -->
-  <Consciousness.label>TODO</Consciousness.label>
+  <Consciousness.label>bewustzijn</Consciousness.label>
   <!-- EN: Data processing -->
-  <Consciousness.labelMechanoids>TODO</Consciousness.labelMechanoids>
+  <Consciousness.labelMechanoids>Dataverwerking</Consciousness.labelMechanoids>
   
   <!-- EN: eating -->
-  <Eating.label>TODO</Eating.label>
+  <Eating.label>eten</Eating.label>
   
   <!-- EN: hearing -->
-  <Hearing.label>TODO</Hearing.label>
+  <Hearing.label>gehoor</Hearing.label>
   
   <!-- EN: manipulation -->
-  <Manipulation.label>TODO</Manipulation.label>
+  <Manipulation.label>manipulatie</Manipulation.label>
   
   <!-- EN: metabolism -->
-  <Metabolism.label>TODO</Metabolism.label>
+  <Metabolism.label>metabolisme</Metabolism.label>
   
   <!-- EN: moving -->
-  <Moving.label>TODO</Moving.label>
+  <Moving.label>bewegen</Moving.label>
   
   <!-- EN: sight -->
-  <Sight.label>TODO</Sight.label>
+  <Sight.label>zicht</Sight.label>
   
   <!-- EN: talking -->
-  <Talking.label>TODO</Talking.label>
+  <Talking.label>praten</Talking.label>
   <!-- EN: Communication -->
-  <Talking.labelMechanoids>TODO</Talking.labelMechanoids>
+  <Talking.labelMechanoids>communicatie</Talking.labelMechanoids>
   
 </LanguageData>

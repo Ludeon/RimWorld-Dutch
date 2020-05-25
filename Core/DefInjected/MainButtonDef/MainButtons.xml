@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>dieren</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
-  <Animals.description>TODO</Animals.description>
+  <Animals.description>Stel in hoe de getemde dieren van de kolonie moeten worden behandeld.</Animals.description>
   
   <!-- EN: architect -->
-  <Architect.label>TODO</Architect.label>
+  <Architect.label>architect</Architect.label>
   <!-- EN: Designate where to build, farm, store items, and so on. -->
-  <Architect.description>TODO</Architect.description>
+  <Architect.description>Geef gebieden aan aan waar gebouwd, verbouwd, opgeslagen etc., moet worden.</Architect.description>
   
   <!-- EN: assign -->
-  <Assign.label>TODO</Assign.label>
+  <Assign.label>toewijzen</Assign.label>
   <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
-  <Assign.description>TODO</Assign.description>
+  <Assign.description>Wijs gedragsregels toe aan kolonisten, zoals wat ze moeten dragen, welke drugs ze wanneer mogen nemen en hoe ze op vijanden reageren.</Assign.description>
   
   <!-- EN: factions -->
-  <Factions.label>TODO</Factions.label>
+  <Factions.label>facties</Factions.label>
   <!-- EN: Review the other factions on this world and their relationships. -->
-  <Factions.description>TODO</Factions.description>
+  <Factions.description>Bekijk de andere facties op deze wereld en hun relaties met jou en elkaar.</Factions.description>
   
   <!-- EN: history -->
-  <History.label>TODO</History.label>
+  <History.label>geschiedenis</History.label>
   <!-- EN: Review historical records. -->
-  <History.description>TODO</History.description>
+  <History.description>Bekijk geschiedenis van de kolonie.</History.description>
   
   <!-- EN: inspect -->
-  <Inspect.label>TODO</Inspect.label>
+  <Inspect.label>inspecteren</Inspect.label>
   
   <!-- EN: menu -->
-  <Menu.label>TODO</Menu.label>
+  <Menu.label>menu</Menu.label>
   <!-- EN: Change options, save, load, or quit the game. -->
-  <Menu.description>TODO</Menu.description>
+  <Menu.description>Verander instellingen, laad of sla een spel op, of sluit het spel af.</Menu.description>
   
   <!-- EN: quests -->
-  <Quests.label>TODO</Quests.label>
+  <Quests.label>Opdrachten</Quests.label>
   <!-- EN: View available, active, and historical quests. -->
-  <Quests.description>TODO</Quests.description>
+  <Quests.description>Bekijk beschikbare, actieve en historische opdrachten.</Quests.description>
   
   <!-- EN: research -->
-  <Research.label>TODO</Research.label>
+  <Research.label>onderzoek</Research.label>
   <!-- EN: Examine and decide on research projects. -->
-  <Research.description>TODO</Research.description>
+  <Research.description>Bekijk en geef opdracht om projecten te onderzoeken.</Research.description>
   
   <!-- EN: schedule -->
-  <Restrict.label>TODO</Restrict.label>
+  <Restrict.label>schema</Restrict.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Restrict.description>TODO</Restrict.description>
+  <Restrict.description>Plan de activiteiten van je kolonisten voor bepaalde tijden op de dag, en stel in waar ze mogen komen.</Restrict.description>
   
   <!-- EN: wildlife -->
-  <Wildlife.label>TODO</Wildlife.label>
+  <Wildlife.label>wildleven</Wildlife.label>
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
-  <Wildlife.description>TODO</Wildlife.description>
+  <Wildlife.description>Lijst van alle wilde dieren in het gebied, je kunt ze hier markeren om gejaagd of getemd te worden.</Wildlife.description>
   
   <!-- EN: work -->
-  <Work.label>TODO</Work.label>
+  <Work.label>werk</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
-  <Work.description>TODO</Work.description>
+  <Work.description>Kies welke kolonisten welke taken uitvoeren, en in welke volgorde.</Work.description>
   
   <!-- EN: world -->
-  <World.label>TODO</World.label>
+  <World.label>wereld</World.label>
   <!-- EN: Examine the world map, form, and manage caravans. -->
-  <World.description>TODO</World.description>
+  <World.description>Bekijk de wereldkaart, vorm en beheer karavanen.</World.description>
   
 </LanguageData>

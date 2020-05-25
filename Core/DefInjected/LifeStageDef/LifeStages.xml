@@ -8,10 +8,10 @@
   <AnimalBaby.label>baby</AnimalBaby.label>
   
   <!-- EN: baby -->
-  <AnimalBabyTiny.label>TODO</AnimalBabyTiny.label>
+  <AnimalBabyTiny.label>bay</AnimalBabyTiny.label>
   
   <!-- EN: juvenile -->
-  <AnimalJuvenile.label>onvolwassen</AnimalJuvenile.label>
+  <AnimalJuvenile.label>jeugdig</AnimalJuvenile.label>
   
   <!-- EN: adult -->
   <EusocialInsectAdult.label>volwassen</EusocialInsectAdult.label>
@@ -23,7 +23,7 @@
   <EusocialInsectLarva.label>larve</EusocialInsectLarva.label>
   
   <!-- EN: adult -->
-  <HumanlikeAdult.label>TODO</HumanlikeAdult.label>
+  <HumanlikeAdult.label>volwassen</HumanlikeAdult.label>
   
   <!-- EN: baby -->
   <HumanlikeBaby.label>baby</HumanlikeBaby.label>
@@ -32,9 +32,9 @@
   <HumanlikeChild.label>kind</HumanlikeChild.label>
   
   <!-- EN: teenager -->
-  <HumanlikeTeenager.label>TODO</HumanlikeTeenager.label>
+  <HumanlikeTeenager.label>tiener</HumanlikeTeenager.label>
   <!-- EN: teenage -->
-  <HumanlikeTeenager.adjective>TODO</HumanlikeTeenager.adjective>
+  <HumanlikeTeenager.adjective>tiener</HumanlikeTeenager.adjective>
   
   <!-- EN: toddler -->
   <HumanlikeToddler.label>peuter</HumanlikeToddler.label>

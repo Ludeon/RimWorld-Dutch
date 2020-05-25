@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: architect -->
-  <Architect.label>TODO</Architect.label>
+  <Architect.label>architect</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>TODO</Architect.description>
+  <Architect.description>Algemene toetsbindingen voor het architect menu.</Architect.description>
   
   <!-- EN: developer tools -->
-  <Development.label>TODO</Development.label>
+  <Development.label>ontwikkelaarstools</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>TODO</Development.description>
+  <Development.description>Toetsbindingen voor otnwikkelaars en modders. Alleen actief in ontwikkelaarsmodus.</Development.description>
   
   <!-- EN: in-game global -->
-  <Game.label>TODO</Game.label>
+  <Game.label>algemeen</Game.label>
   <!-- EN: Colony mode controls that apply in most situations. -->
-  <Game.description>TODO</Game.description>
+  <Game.description>Toetsbindingen die van toepassing zijn in de meeste situaties tijdens het spel.</Game.description>
   
   <!-- EN: camera -->
-  <GameMapCamera.label>TODO</GameMapCamera.label>
+  <GameMapCamera.label>camera</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
-  <GameMapCamera.description>TODO</GameMapCamera.description>
+  <GameMapCamera.description>Toetsbindingen voor camerabesturing.</GameMapCamera.description>
   
   <!-- EN: main tabs -->
-  <MainTabs.label>TODO</MainTabs.label>
+  <MainTabs.label>hoofdtabs</MainTabs.label>
   <!-- EN: Controls for the main tabs. -->
-  <MainTabs.description>TODO</MainTabs.description>
+  <MainTabs.description>Toetsbindingen voor de hoofdtabs</MainTabs.description>
   
   <!-- EN: modifiers -->
-  <Modifiers.label>TODO</Modifiers.label>
+  <Modifiers.label>toetscombinaties</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>TODO</Modifiers.description>
+  <Modifiers.description>Toetsen die andere acties kunnen beïnvloeden.</Modifiers.description>
   
   <!-- EN: misc -->
-  <SelectionMisc.label>TODO</SelectionMisc.label>
+  <SelectionMisc.label>etc</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>TODO</SelectionMisc.description>
+  <SelectionMisc.description>Generieke toetsbindingen die veel hergebruikt worden door voorwerpen in het hele spel.</SelectionMisc.description>
   
   <!-- EN: special -->
-  <SelectionSpecial.label>TODO</SelectionSpecial.label>
+  <SelectionSpecial.label>Speciaal</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>TODO</SelectionSpecial.description>
+  <SelectionSpecial.description>Speciale toetsbindingen gereserveerd voor specifieke functies op bepaalde voorwerpen.</SelectionSpecial.description>
   
 </LanguageData>

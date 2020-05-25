@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: tantrum -->
-  <BedroomTantrum.label>TODO</BedroomTantrum.label>
+  <BedroomTantrum.label>woedeaanval</BedroomTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <BedroomTantrum.baseInspectLine>TODO</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.baseInspectLine>Mentale staat: Woedeaanval</BedroomTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
-  <BedroomTantrum.beginLetter>TODO</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetter>{0} heeft een woedeaanval.\n\n[PAWN_pronoun] gaat dingen kapot slaan in [PAWN_possessive] kamer.</BedroomTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <BedroomTantrum.recoveryMessage>TODO</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.recoveryMessage>{0} is weer bedaard.</BedroomTantrum.recoveryMessage>
   
   <!-- EN: berserk -->
   <Berserk.label>razernij</Berserk.label>
   <!-- EN: Mental state: Berserk -->
-  <Berserk.baseInspectLine>Mentale staat: razend</Berserk.baseInspectLine>
+  <Berserk.baseInspectLine>Mentale staat: Razend</Berserk.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
-  <Berserk.beginLetter>{0} is razend geworden.</Berserk.beginLetter>
+  <Berserk.beginLetter>{0} is razend geworden.\n\n[PAWN_pronoun] zal iedereen aanvallen die [PAWN_pronoun] ziet.</Berserk.beginLetter>
   <Berserk.beginLetterLabel>razernij</Berserk.beginLetterLabel>
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <Berserk.recoveryMessage>{0}s razernij is afgelopen.</Berserk.recoveryMessage>
@@ -23,12 +23,12 @@
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>overdosis drugs aan het nemen</Binging_DrugExtreme.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugExtreme.baseInspectLine>Mentale staat: overdosis aan het nemen.</Binging_DrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.baseInspectLine>Mentale staat: Overdosis aan het nemen.</Binging_DrugExtreme.baseInspectLine>
   
   <!-- EN: binging on drug -->
-  <Binging_DrugMajor.label>TODO</Binging_DrugMajor.label>
+  <Binging_DrugMajor.label>Drugsverslaafde losgeslagen</Binging_DrugMajor.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugMajor.baseInspectLine>TODO</Binging_DrugMajor.baseInspectLine>
+  <Binging_DrugMajor.baseInspectLine>Mentale staat: Losgeslagen aan de drugs</Binging_DrugMajor.baseInspectLine>
   
   <!-- EN: binging on food -->
   <Binging_Food.label>voedsel schrokken</Binging_Food.label>
@@ -42,20 +42,20 @@
   <Binging_Food.recoveryMessage>{0} is niet meer voedsel aan het schrokken.</Binging_Food.recoveryMessage>
   
   <!-- EN: corpse obsession -->
-  <CorpseObsession.label>TODO</CorpseObsession.label>
+  <CorpseObsession.label>lijkobsessie</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
-  <CorpseObsession.baseInspectLine>TODO</CorpseObsession.baseInspectLine>
+  <CorpseObsession.baseInspectLine>Mentale staat: Lijkobsessie</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
-  <CorpseObsession.beginLetter>TODO</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetter>{0} is mentaal gebroken en heeft een lijkobsessie gekregen.\n\n[PAWN_pronoun] gaat lijken opgraven en ze aan iedereen laten zien.</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
-  <CorpseObsession.recoveryMessage>TODO</CorpseObsession.recoveryMessage>
+  <CorpseObsession.recoveryMessage>{0} is niet langer geobsedeerd door lijken</CorpseObsession.recoveryMessage>
   
   <!-- EN: fire starting spree -->
   <FireStartingSpree.label>pyromanische bui</FireStartingSpree.label>
   <!-- EN: Mental state: Fire starting spree -->
-  <FireStartingSpree.baseInspectLine>Mentale staat: pyromanisch</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.baseInspectLine>Mentale staat: Pyromanisch</FireStartingSpree.baseInspectLine>
   <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
-  <FireStartingSpree.beginLetter>{0} is in een pyromanische bui.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetter>{0} is in een pyromanische bui.\n\n[PAWN_pronoun] zal rondlopen op zoek naar dingen die in brand gezet moeten worden.</FireStartingSpree.beginLetter>
   <FireStartingSpree.beginLetterLabel>pyrmonanische bui</FireStartingSpree.beginLetterLabel>
   <!-- EN: {0} is no longer on a fire starting spree. -->
   <FireStartingSpree.recoveryMessage>{0} is niet meer pyromanisch.</FireStartingSpree.recoveryMessage>
@@ -72,81 +72,81 @@
   <GiveUpExit.recoveryMessage>{0} heeft zijn gedachten veranderd en komt weer terug.</GiveUpExit.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <InsultingSpree.label>TODO</InsultingSpree.label>
+  <InsultingSpree.label>beledigingstour</InsultingSpree.label>
   <!-- EN: Mental state: Insulting spree -->
-  <InsultingSpree.baseInspectLine>TODO</InsultingSpree.baseInspectLine>
+  <InsultingSpree.baseInspectLine>Mentale staat: Beledigingstour</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
-  <InsultingSpree.beginLetter>TODO</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetter>{0} is op een beledigingstour.\n\n[PAWN_pronoun] zal rondlopen op de basis en anderen beledigen.</InsultingSpree.beginLetter>
   <!-- EN: {0} is no longer on an insulting spree. -->
-  <InsultingSpree.recoveryMessage>TODO</InsultingSpree.recoveryMessage>
+  <InsultingSpree.recoveryMessage>{0} is niet langer op een beledingstour.</InsultingSpree.recoveryMessage>
   
   <!-- EN: inducing prisoner to escape -->
-  <Jailbreaker.label>TODO</Jailbreaker.label>
+  <Jailbreaker.label>gevangene helpen om te ontsnappen</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
-  <Jailbreaker.baseInspectLine>TODO</Jailbreaker.baseInspectLine>
+  <Jailbreaker.baseInspectLine>Mentale staat: Uitbreker</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>TODO</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>{0} heeft een mentale inzinking gehad en gaat gevangenen helpen ontsnappen.</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
-  <Jailbreaker.beginLetterLabel>TODO</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetterLabel>uitbreker</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
-  <Jailbreaker.recoveryMessage>TODO</Jailbreaker.recoveryMessage>
+  <Jailbreaker.recoveryMessage>{0} helpt niet langer gevangenen te ontsnappen</Jailbreaker.recoveryMessage>
   
   <!-- EN: murderous rage -->
-  <MurderousRage.label>TODO</MurderousRage.label>
+  <MurderousRage.label>moordende razernij </MurderousRage.label>
   <!-- EN: Mental state: Murderous rage -->
-  <MurderousRage.baseInspectLine>TODO</MurderousRage.baseInspectLine>
+  <MurderousRage.baseInspectLine>Mentale staat: Moordende razernij</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>TODO</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>{0} is in een moordende razernij gevlogen.\n\n[PAWN_pronoun] heeft besloten {1} om te leggen.</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
-  <MurderousRage.recoveryMessage>TODO</MurderousRage.recoveryMessage>
+  <MurderousRage.recoveryMessage>{0} is niet langer in een moordende razernij.</MurderousRage.recoveryMessage>
   
   <!-- EN: sadistic rage -->
-  <SadisticRage.label>TODO</SadisticRage.label>
+  <SadisticRage.label>sadistische razernij</SadisticRage.label>
   <!-- EN: Mental state: Sadistic rage -->
-  <SadisticRage.baseInspectLine>TODO</SadisticRage.baseInspectLine>
+  <SadisticRage.baseInspectLine>Mentale staat: Sadistische razernij</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-  <SadisticRage.beginLetter>TODO</SadisticRage.beginLetter>
+    <SadisticRage.beginLetter>{0} is in een moordende razernij gevlogen.\n\n[PAWN_pronoun] zal [PAWN_possessive] woede op je gevangenen botvieren.</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
-  <SadisticRage.recoveryMessage>TODO</SadisticRage.recoveryMessage>
+  <SadisticRage.recoveryMessage>{0} is niet langer in een sadistische razernij</SadisticRage.recoveryMessage>
   
   <!-- EN: slaughterer -->
-  <Slaughterer.label>TODO</Slaughterer.label>
+  <Slaughterer.label>slachter</Slaughterer.label>
   <!-- EN: Mental state: Slaughterer -->
-  <Slaughterer.baseInspectLine>TODO</Slaughterer.baseInspectLine>
+  <Slaughterer.baseInspectLine>Mentale staat: Slachter</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>TODO</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>{0} had een mentale inzinking en zal [PAWN_possessive] woede op je dieren botvieren.</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
-  <Slaughterer.recoveryMessage>TODO</Slaughterer.recoveryMessage>
+  <Slaughterer.recoveryMessage>{0} slacht niet langer willekeurige dieren.</Slaughterer.recoveryMessage>
   
   <!-- EN: tantrum -->
-  <Tantrum.label>TODO</Tantrum.label>
+  <Tantrum.label>woedeaanval</Tantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <Tantrum.baseInspectLine>TODO</Tantrum.baseInspectLine>
+  <Tantrum.baseInspectLine>Mentale staat: Woedeaanval</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
-  <Tantrum.beginLetter>TODO</Tantrum.beginLetter>
+  <Tantrum.beginLetter>{0} heeft een woedeaanval.\n\n[PAWN_pronoun] gaat willekeurige meubels, voorwerpen en structuren kapot slaan.</Tantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <Tantrum.recoveryMessage>TODO</Tantrum.recoveryMessage>
+  <Tantrum.recoveryMessage>{0} is weer bedaard</Tantrum.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <TargetedInsultingSpree.label>TODO</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.label>beledingstour</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>TODO</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>Mentale staat: Beledigingstour tegen {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>TODO</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>{0} is op een beledigingstour tegen {1}.\n\n[PAWN_pronoun] zal {1} volgen en constant beledigen.</TargetedInsultingSpree.beginLetter>
   
   <!-- EN: tantrum -->
-  <TargetedTantrum.label>TODO</TargetedTantrum.label>
+  <TargetedTantrum.label>woedeaanval</TargetedTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <TargetedTantrum.baseInspectLine>TODO</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.baseInspectLine>Mentale staat: Woedeaanval</TargetedTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
-  <TargetedTantrum.beginLetter>TODO</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetter>0} heeft een woedeaanval.\n\n[PAWN_pronoun] gaat {1} slopen.</TargetedTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <TargetedTantrum.recoveryMessage>TODO</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.recoveryMessage>{0} is weer bedaard.</TargetedTantrum.recoveryMessage>
   
   <!-- EN: sitting alone -->
   <Wander_OwnRoom.label>alleen aan het zitten</Wander_OwnRoom.label>
   <!-- EN: Mental state: Hiding in room -->
-  <Wander_OwnRoom.baseInspectLine>Mentale staat: verstopen in kamer.</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.baseInspectLine>Mentale staat: Verstopen in kamer.</Wander_OwnRoom.baseInspectLine>
   <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
   <Wander_OwnRoom.beginLetter>{0} is zich aan het verstoppen in [PAWN_possessive] kamer.</Wander_OwnRoom.beginLetter>
   <!-- EN: hide in room -->
@@ -166,15 +166,15 @@
   <Wander_Psychotic.recoveryMessage>{0} is niet meer verward aan het rondlopen.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>psychotisch wandelen</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>Mentale staat: Psychotische wandeling</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>{0} wandelt psychotisch rond.</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>waas</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>{0} is niet langer psychotisch.</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
   <Wander_Sad.label>treurig wandelen</Wander_Sad.label>

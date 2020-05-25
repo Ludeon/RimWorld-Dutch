@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: age -->
-  <Age.label>TODO</Age.label>
+  <Age.label>leeftijd</Age.label>
   
   <!-- EN: allowed area -->
-  <AllowedArea.label>TODO</AllowedArea.label>
+  <AllowedArea.label>toegestane zone</AllowedArea.label>
   
   <!-- EN: allowed area -->
-  <AllowedAreaWide.label>TODO</AllowedAreaWide.label>
+  <AllowedAreaWide.label>toegestane zone</AllowedAreaWide.label>
   
   <!-- EN: drug policy -->
-  <DrugPolicy.label>TODO</DrugPolicy.label>
+  <DrugPolicy.label>drugsbeleid</DrugPolicy.label>
   
   <!-- EN: food restriction -->
-  <FoodRestriction.label>TODO</FoodRestriction.label>
+  <FoodRestriction.label>voedselprofiel</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
-  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  <HostilityResponse.headerTip>Reactie op vijandelijk gedrag</HostilityResponse.headerTip>
   
   <!-- EN: master -->
-  <Master.label>TODO</Master.label>
+  <Master.label>baasje</Master.label>
   
   <!-- EN: Medical care -->
-  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  <MedicalCare.headerTip>Medische zorg</MedicalCare.headerTip>
   
   <!-- EN: current outfit -->
-  <Outfit.label>TODO</Outfit.label>
+  <Outfit.label>huidige uitrusting</Outfit.label>
   
 </LanguageData>

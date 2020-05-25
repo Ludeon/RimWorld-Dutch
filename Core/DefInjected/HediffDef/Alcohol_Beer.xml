@@ -30,9 +30,7 @@
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
   <AlcoholTolerance.description>Een opgebouwde tolerantie voor alcohol. Hoe meer tolerantie er is opgebouwd, hoe meer alcohol genuttigd moet worden voor hetzelfde effect.</AlcoholTolerance.description>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>kleinschalig</AlcoholTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-1.label>kleinschalig</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small.label>kleinschalig</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
   <AlcoholTolerance.stages.large.label>grootschalig</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->

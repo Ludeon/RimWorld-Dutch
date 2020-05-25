@@ -105,7 +105,7 @@
   <!-- EN: Mental state: Sadistic rage -->
   <SadisticRage.baseInspectLine>Mentale staat: Sadistische razernij</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-    <SadisticRage.beginLetter>{0} is in een moordende razernij gevlogen.\n\n[PAWN_pronoun] zal [PAWN_possessive] woede op je gevangenen botvieren.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetter>{0} is in een moordende razernij gevlogen.\n\n[PAWN_pronoun] zal [PAWN_possessive] woede op je gevangenen botvieren.</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
   <SadisticRage.recoveryMessage>{0} is niet langer in een sadistische razernij</SadisticRage.recoveryMessage>
   

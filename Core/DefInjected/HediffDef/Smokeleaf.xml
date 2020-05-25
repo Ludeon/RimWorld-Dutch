@@ -20,9 +20,7 @@
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
   <SmokeleafTolerance.description>Een opgebouwde tolerantie voor rookblad. Hoe meer tolerantie er is opgebouwd, hoe meer rookblad gebruikt moet worden voor hetzelfde effect.</SmokeleafTolerance.description>
   <!-- EN: small -->
-  <SmokeleafTolerance.stages.small-0.label>kleinschalig</SmokeleafTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <SmokeleafTolerance.stages.small-1.label>kleinschalig</SmokeleafTolerance.stages.small-1.label>
+  <SmokeleafTolerance.stages.small.label>kleinschalig</SmokeleafTolerance.stages.small.label>
   <!-- EN: large -->
   <SmokeleafTolerance.stages.large.label>grootschalig</SmokeleafTolerance.stages.large.label>
   <!-- EN: massive -->

@@ -3,57 +3,54 @@
   
   <!-- EN: recovery -->
   <Adaptation.label>herstel</Adaptation.label>
-  <!-- EN: Days -->
   <Adaptation.graphLabelY>Dagen</Adaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>{0} dagen</Adaptation.valueFormat>
   
   <!-- EN: mood -->
   <ColonistMood.label>humeur</ColonistMood.label>
-  <!-- EN: Percent -->
   <ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
   
   <!-- EN: free colonists -->
   <FreeColonists.label>kolonisten zonder taak</FreeColonists.label>
-  <!-- EN: Colonists -->
   <FreeColonists.graphLabelY>Kolonisten</FreeColonists.graphLabelY>
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>pop herstel</PopAdaptation.label>
-  <!-- EN: Days -->
   <PopAdaptation.graphLabelY>Dagen</PopAdaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>{0} dagen</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
   <PopIntent.label>pop doel x10</PopIntent.label>
-  <!-- EN: Days -->
   <PopIntent.graphLabelY>Dagen</PopIntent.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>{0} dagen</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
   <Prisoners.label>gevangenen</Prisoners.label>
-  <!-- EN: Prisoners -->
   <Prisoners.graphLabelY>Gevangenen</Prisoners.graphLabelY>
   
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>vermaakpunten /10</ThreatPoints.label>
-  <!-- EN: Points -->
   <ThreatPoints.graphLabelY>Punten</ThreatPoints.graphLabelY>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>{0} punten</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
   <Wealth_Buildings.label>waarde (gebouwen)</Wealth_Buildings.label>
-  <!-- EN: Amount -->
   <Wealth_Buildings.graphLabelY>Hoeveelheid</Wealth_Buildings.graphLabelY>
   
   <!-- EN: wealth (items) -->
   <Wealth_Items.label>waarde (voorwerpen)</Wealth_Items.label>
-  <!-- EN: Amount -->
   <Wealth_Items.graphLabelY>Hoeveelheid</Wealth_Items.graphLabelY>
   
   <!-- EN: wealth (creatures) -->
   <Wealth_Pawns.label>waarde (dieren)</Wealth_Pawns.label>
-  <!-- EN: Amount -->
   <Wealth_Pawns.graphLabelY>Hoeveelheid</Wealth_Pawns.graphLabelY>
   
   <!-- EN: wealth (total) -->
   <Wealth_Total.label>waarde (totaal)</Wealth_Total.label>
-  <!-- EN: Amount -->
   <Wealth_Total.graphLabelY>Hoeveelheid</Wealth_Total.graphLabelY>
   
 </LanguageData>

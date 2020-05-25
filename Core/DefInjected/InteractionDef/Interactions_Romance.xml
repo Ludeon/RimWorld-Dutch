@@ -14,7 +14,7 @@
     <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] om wat ademruimte.</li>
     <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] dat het zo niet langer gaat.</li>
     <li>r_logentry->[INITIATOR_nameDef] vertelede [RECIPIENT_nameDef] dat ze misschien beter met andere mensen konden omgaan.</li>
-    </Breakup.logRulesInitiator.rulesStrings>
+  </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>aanzoek</MarriageProposal.label>
@@ -153,6 +153,7 @@
     <li>romantic_noun->aurora</li>
     <li>romantic_noun->[TreeType]boom</li>
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
-    <li>romantic_noun(p=2)->[NaturalObject]</li></RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

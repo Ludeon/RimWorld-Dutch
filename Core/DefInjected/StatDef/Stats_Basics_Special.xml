@@ -22,5 +22,7 @@
   <MeditationFocusStrength.label>TODO</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation. For some objects, this number can change depending on the surroundings and the person doing the meditating. -->
   <MeditationFocusStrength.description>TODO</MeditationFocusStrength.description>
+  <!-- EN: {0}/d -->
+  <MeditationFocusStrength.formatString>TODO</MeditationFocusStrength.formatString>
   
 </LanguageData>

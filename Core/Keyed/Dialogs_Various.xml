@@ -512,6 +512,8 @@
   <MeditationFocusesDesc>De meditatiefocustypen die dit object biedt. Tijdens het mediteren kan een persoon focusen op dit object om hun psyfocus te verbeteren, maar alleen als ze een van de meditatietypen van dit object kunnen gebruiken. De meditatietypes voor elke persoon worden bepaald door hun achtergrond, eigenschappen, sociale posite, etc.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
   <MeditationFocusCanUse>Kan {0} focustype gebruiken, omdat</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>{0} focusobjecten</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
   <MeditationFocusEnabledByTitle>heeft titel: {TITLE} ({FACTION_name})</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->

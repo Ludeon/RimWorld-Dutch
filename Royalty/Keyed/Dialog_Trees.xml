@@ -3,10 +3,10 @@
 
   <!-- Royalty -->
   <!-- EN: Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort} -->
-  <RequestChangeRoyalHeir>TODO</RequestChangeRoyalHeir>
+  <RequestChangeRoyalHeir>Verander erfgenaam van {HOLDER_labelShort}'s {TITLE} titel (nu: {HEIR_labelShort})</RequestChangeRoyalHeir>
   <!-- EN: Designate heir of {HOLDER_labelShort}'s {TITLE} title -->
-  <RequestSetRoyalHeir>TODO</RequestSetRoyalHeir>
+  <RequestSetRoyalHeir>Wijs de erfgenaam aan van {HOLDER_labelShort}'s {TITLE} titel</RequestSetRoyalHeir>
   <!-- EN: already in progress for {PAWN_labelShort} -->
-  <RequestChangeRoyalHeirAlreadyInProgress>TODO</RequestChangeRoyalHeirAlreadyInProgress>
+  <RequestChangeRoyalHeirAlreadyInProgress>al aan de gang voor {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
   
 </LanguageData>

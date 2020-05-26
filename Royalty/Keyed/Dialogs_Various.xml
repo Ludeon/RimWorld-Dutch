@@ -3,70 +3,70 @@
 
   <!-- Royal Titles -->
   <!-- EN: The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal. -->
-  <RoyalFavorDescription>TODO</RoyalFavorDescription>
+  <RoyalFavorDescription>De hoeveelheid {FACTION_royalFavorLabel} die je onderhandelaar persoonlijk zal ontvangen als gevolg van deze deal.</RoyalFavorDescription>
   <!-- EN: Required apparel -->
-  <RoyalTitleTooltipRequiredApparel>TODO</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparel>Kledingvereisten</RoyalTitleTooltipRequiredApparel>
   <!-- EN: Minimum apparel quality -->
-  <RoyalTitleTooltipRequiredApparelQuality>TODO</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipRequiredApparelQuality>Minimale kledingkwaliteit</RoyalTitleTooltipRequiredApparelQuality>
   <!-- EN: Bedroom requirements -->
-  <RoyalTitleTooltipBedroomRequirements>TODO</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipBedroomRequirements>Slaapkamervereisten</RoyalTitleTooltipBedroomRequirements>
   <!-- EN: Throneroom requirements -->
-  <RoyalTitleTooltipThroneroomRequirements>TODO</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>Troonzaalvereisten</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
-  <RoyalTitleTooltipPermits>TODO</RoyalTitleTooltipPermits>
+  <RoyalTitleTooltipPermits>Titelprivileges</RoyalTitleTooltipPermits>
   <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>TODO</RoomRequirementArea>
+  <RoomRequirementArea>kameroppervlakte: {0} tegels</RoomRequirementArea>
   <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>TODO</RoomRequirementImpressiveness>
+  <RoomRequirementImpressiveness>kamerindrukwekkendheid</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
-  <RoomRequirementAllFloored>TODO</RoomRequirementAllFloored>
+  <RoomRequirementAllFloored>volledig bevloerd</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>TODO</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllBraziersMustBeLit>alle kandelaars moeten aangestoken zijn</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>TODO</RoomRequirementAllFineFloored>
+  <RoomRequirementAllFineFloored>volledig fraai bevloerd</RoomRequirementAllFineFloored>
   <!-- EN: no production facilities -->
-  <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoProductionFacilities>geen productiefaciliteiten</RoomRequirementNoProductionFacilities>
   <!-- EN: no beds -->
-  <RoomRequirementNoBeds>TODO</RoomRequirementNoBeds>
+  <RoomRequirementNoBeds>geen bedden</RoomRequirementNoBeds>
   <!-- EN: Holders of this title must be covered in some combination of -->
-  <RoyalTitleRequiredApparelStatDescription>TODO</RoyalTitleRequiredApparelStatDescription>
+  <RoyalTitleRequiredApparelStatDescription>Titelhouders moeten worden bedekt in een combinatie van</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
-  <ApparelRequirementAnyPrestigeArmor>TODO</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPrestigeArmor>Elk prestigeniveau harnas</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
-  <ApparelRequirementAnyPsycasterApparel>TODO</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementAnyPsycasterApparel>Elke psycaster kleding</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: Disallowed work types -->
-  <DisabledWorkTypes>TODO</DisabledWorkTypes>
+  <DisabledWorkTypes>Niet toegestane werkzaamheden</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
-  <RoyalTitleRequiredMeals>TODO</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMeals>Dieetvereisten</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
-  <RoyalTitleRequiredMealsDesc>TODO</RoyalTitleRequiredMealsDesc>
+  <RoyalTitleRequiredMealsDesc>Een titelhouder zal dit dieet strikt volgen, tenzij ze uitgehongerd zijn of deel uitmaken van een karavaan.</RoyalTitleRequiredMealsDesc>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
-  <RoyalImplantIllegalUseWarning>TODO</RoyalImplantIllegalUseWarning>
+  <RoyalImplantIllegalUseWarning>Volgens de wetten van {FACTION_name}, moet je minstens de titel {TITLE} hebben om legaal een {IMPLANT} te gebruiken.\n\n{VIOLATIONTRIGGER}, er is een kans dat {FACTION_name} de psychische signatuur detecteert. Dit zal diplomatieke gevolgen hebben.</RoyalImplantIllegalUseWarning>
   <!-- EN: Install this implant anyway? -->
-  <RoyalImplantInstallConfirmation>TODO</RoyalImplantInstallConfirmation>
+  <RoyalImplantInstallConfirmation>Implantaat toch implanteren?</RoyalImplantInstallConfirmation>
   <!-- EN: Upgrade this implant anyway? -->
-  <RoyalImplantUpgradeConfirmation>TODO</RoyalImplantUpgradeConfirmation>
+  <RoyalImplantUpgradeConfirmation>Implantaat toch upgraden?</RoyalImplantUpgradeConfirmation>
 
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <BladelinkEquipWarning>TODO</BladelinkEquipWarning>
+  <BladelinkEquipWarning>Wanneer dit wapen eenmaal een band met een gebruiker heeft opgebouwd, zal de wapenpersona geen andere gebruikers meer accepteren.</BladelinkEquipWarning>
   <!-- EN: Are you sure you want to equip this item? -->
-  <RoyalWeaponEquipConfirmation>TODO</RoyalWeaponEquipConfirmation>
+  <RoyalWeaponEquipConfirmation>Weet je zeker dat je dit voorwerp wilt gebruiken?</RoyalWeaponEquipConfirmation>
   
   <!-- Psycasts -->
   <!-- EN: Target is psychically deaf. -->
-  <AbilityTargetPsychicallyDeaf>TODO</AbilityTargetPsychicallyDeaf>
+  <AbilityTargetPsychicallyDeaf>Doelwit is doof.</AbilityTargetPsychicallyDeaf>
   <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
-  <PsycastIsIllegal>TODO</PsycastIsIllegal>
+  <PsycastIsIllegal>Dit is illegaal voor {PAWN_labelShort}. Vereist {TITLE} titel.</PsycastIsIllegal>
 
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
-  <QuestGivesRoyalFavor>TODO</QuestGivesRoyalFavor>
+  <QuestGivesRoyalFavor>Deze opdracht zal {FACTION_royalFavorLabel} en dus adellijke titels voor {PAWN_labelShort} opleveren.</QuestGivesRoyalFavor>
   <!-- EN: {PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept. -->
-  <RoyalIncapableOfSocial>TODO</RoyalIncapableOfSocial>
+  <RoyalIncapableOfSocial>{PAWN_labelShort} kan geen sociale taken uitvoeren. Adellijke titelhouders moeten goede sociale vaardigheden bezitten, dus als {PAWN_labelShort} een titel zal krijgen, zou {PAWN_pronoun} het best wel eens moeilijk kunnen krijgen. Een andere kolonist is misschien sociaal sterker.</RoyalIncapableOfSocial>
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
-  <RoyalWithConceitedTrait>TODO</RoyalWithConceitedTrait>
+  <RoyalWithConceitedTrait>Omdat {PAWN_labelShort} {2} is, eist {PAWN_pronoun} dat de titelprivileges volledig gerespecteerd worden. {PAWN_labelShort} kan bepaald werk of slecht eten weigeren, en zal besluiten uitvaardigen. Een andere kolonist zou zich waarschijnlijk flexibeler opstellen.</RoyalWithConceitedTrait>
 
 </LanguageData>

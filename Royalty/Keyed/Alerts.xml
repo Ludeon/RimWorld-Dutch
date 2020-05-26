@@ -3,55 +3,55 @@
 
   <!-- Room requirements -->
   <!-- EN: Need throneroom -->
-  <NeedThroneAssigned>TODO</NeedThroneAssigned>
+  <NeedThroneAssigned>Troonzaal vereist</NeedThroneAssigned>
   <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
-  <NeedThroneAssignedDesc>TODO</NeedThroneAssignedDesc>
+  <NeedThroneAssignedDesc>Een van je mensen heeft een adellijke titel die een troonzaal vereist, maar er is geen troonzaal toegewezen.\n\nZorg ervoor dat de titelhouder een troon in een troonzaal aangewezen krijgt.\n\nDe troonzaal moet voldoende oppervlakte en decoratie hebben om aan de vereisten van de titel te voldoen.\n\nMeerdere tronen kunnen in één troonzaal worden geplaatst.</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
-  <UndignifiedBedroom>TODO</UndignifiedBedroom>
+  <UndignifiedBedroom>Onwaardige slaapkamer</UndignifiedBedroom>
   <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
-  <UndignifiedBedroomDesc>TODO</UndignifiedBedroomDesc>
+  <UndignifiedBedroomDesc>Een van je mensen heeft een adellijke titel die een slaapkamer vereist met bepaalde eigenschappen. Ofwel is er geen slaapkamer toegewezen, of de slaapkamer voldoet niet aan de titelvereisten.</UndignifiedBedroomDesc>
 
   <!-- EN: Title requires bedroom -->
-  <NeedBedroomAssigned>TODO</NeedBedroomAssigned>
+  <NeedBedroomAssigned>Titel vereist slaapkamer</NeedBedroomAssigned>
   <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedBedroomAssignedDesc>TODO</NeedBedroomAssignedDesc>
+  <NeedBedroomAssignedDesc>Een van je mensen heeft een adellijke titel die een persoonlijke slaapkamer vereist, maar er is geen slaapkamer toegewezen.\n\nWijs ze een persoonlijke slaapkamer toe. De slaapkamer moet voldoende oppervlakte en decoratie hebben om aan de vereisten van de titel te voldoen.</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
-  <UndignifiedThroneroom>TODO</UndignifiedThroneroom>
+  <UndignifiedThroneroom>Onwaardige troonzaal</UndignifiedThroneroom>
   <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
-  <UndignifiedThroneroomDesc>TODO</UndignifiedThroneroomDesc>
+  <UndignifiedThroneroomDesc>Een van je mensen heeft een adellijke titel en een troon, maar de troonzaal voldoet niet aan de titelvereisten.</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
-  <RoyalNoAcceptableFood>TODO</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFood>Geen acceptabel eten</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
-  <RoyalNoAcceptableFoodDesc>TODO</RoyalNoAcceptableFoodDesc>
+  <RoyalNoAcceptableFoodDesc>Een van je mensen heeft een adellijke titel met specifieke dieetvereisten. Er is geen eten beschikbaar dat aan de titelvereisten voldoet.</RoyalNoAcceptableFoodDesc>
 
   <!-- EN: {0} days until requirement begins -->
-  <RoomRequirementGracePeriodDesc>TODO</RoomRequirementGracePeriodDesc>
+  <RoomRequirementGracePeriodDesc>{0} dagen tot de eis ingaat.</RoomRequirementGracePeriodDesc>
 
   <!-- EN: Throne not usable -->
-  <ThroneroomInvalidConfiguration>TODO</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfiguration>Troon onbruikbaar</ThroneroomInvalidConfiguration>
   <!-- EN: A throne is not usable because of how it is set up: -->
-  <ThroneroomInvalidConfigurationDesc>TODO</ThroneroomInvalidConfigurationDesc>
+  <ThroneroomInvalidConfigurationDesc>Een troon is niet bruikbaar vanwege de manier dat hij staat opgesteld:</ThroneroomInvalidConfigurationDesc>
   
   <!-- EN: Monument missing blueprints -->
-  <MonumentMarkerMissingBlueprints>TODO</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprints>Monument mist blauwdrukken</MonumentMarkerMissingBlueprints>
   <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
-  <MonumentMarkerMissingBlueprintsDesc>TODO</MonumentMarkerMissingBlueprintsDesc>
+  <MonumentMarkerMissingBlueprintsDesc>Het monument kon niet voltooid worden, omdat niet alle onderdelen van blauwdruk voorzien zijn.\n\nSelecteer de monumentmarkering en klik "Plaats blauwdruk", of plaats de blauwdrukken handmatig.</MonumentMarkerMissingBlueprintsDesc>
 
   <!-- EN: Beacon unusable -->
-  <ShipLandingBeaconUnusable>TODO</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusable>Baken onbruikbaar</ShipLandingBeaconUnusable>
   <!-- EN: A ship landing beacon is powered but can’t be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
-  <ShipLandingBeaconUnusableDesc>TODO</ShipLandingBeaconUnusableDesc>
+  <ShipLandingBeaconUnusableDesc>Een scheepslandingsbaken is aangezet, maar is niet bruikbaar. Om bruikbaar te zijn, moeten vier van deze bakens elk op een hoek van een vierkant van minstens 9 tegels breed worden geplaatst. Het hele vierkant moet vrij zijn van obstructies zoals gebouwen, mensen en dieren.</ShipLandingBeaconUnusableDesc>
 
   <!-- EN: Need meditation spot -->
-  <NeedMeditationSpotAlert>TODO</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlert>Meditatieplek nodig</NeedMeditationSpotAlert>
   <!-- EN: These colonists have a psyfocus need, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
-  <NeedMeditationSpotAlertDesc>TODO</NeedMeditationSpotAlertDesc>
+  <NeedMeditationSpotAlertDesc>Deze kolonisten hebben een Psyfocusvereiste, maar ze hebben geen meditatieplek beschikbaar.\n\n{0}\n\nPlaats een meditatieplek en zorg ervoor dat hij bereikbaar en bruikbaar is. Kolonisten zullen het liefst mediteren op een plek in de buurt van een focusobject die ze kunnen gebruiken.</NeedMeditationSpotAlertDesc>
 
   <!-- EN: Unusable meditation focus -->
-  <UnusableMeditationFocusAlert>TODO</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlert>Onbruikbare meditatiefocus</UnusableMeditationFocusAlert>
   <!-- EN: These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button. -->
-  <UnusableMeditationFocusAlertDesc>TODO</UnusableMeditationFocusAlertDesc>
+  <UnusableMeditationFocusAlertDesc>Deze kolonisten mediteren in de buurt van focusobjecten die ze niet kunnen gebruiken.\n\n{0}\n\nElke persoon kan verschillende objecten gebruiken, afhankelijk van hun meditatie focustypen. Een focustype hangt af van de achtergrond, eigenschappen en titel van een persoon. Om de focustypen van een persoon te zien kun je in het persoonsdetailscherm kijken door ze te selecteren en het 'i' icoon aan te klikken.</UnusableMeditationFocusAlertDesc>
 </LanguageData>

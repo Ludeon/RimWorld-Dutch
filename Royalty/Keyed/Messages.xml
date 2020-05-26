@@ -3,8 +3,8 @@
 
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0}. -->
-  <ShuttleBlocked>TODO</ShuttleBlocked>
+  <ShuttleBlocked>Shuttle kon niet landen op platform: {0}.</ShuttleBlocked>
   <!-- EN: blocked by {0_label} -->
-  <BlockedBy>TODO</BlockedBy>
+  <BlockedBy>geblokkeerd door {0_label}</BlockedBy>
 
 </LanguageData>

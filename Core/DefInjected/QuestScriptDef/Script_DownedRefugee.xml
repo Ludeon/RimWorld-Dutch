@@ -19,7 +19,7 @@
     <li>questName->[refugee_nameDef]'s Rescue</li>
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
-  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>    
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
     <li>questName->Reddingsoperatie [refugee_nameDef]</li>
     <li>questName->De redding van [refugee_nameDef]</li>
     <li>questName->[refugee_nameDef]'s redding</li>

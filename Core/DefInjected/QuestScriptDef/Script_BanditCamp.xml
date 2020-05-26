@@ -6,7 +6,7 @@
   -->
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft ons een bericht gestuurd. Blijkbaar hebben [siteFaction_pawnsPlural] in de buurt hun karavaans overvallen. Het kamp wordt gecontroleerd door [siteFaction_name].\n\n[asker_nameDef] vraagt ons het kamp te vernietigen, dat betekent alle vijanden en geschutskoepels uit te schakelen. [asker_label] vertelt dat [sitePart0_description].</li>
-    </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>

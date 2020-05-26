@@ -15,11 +15,15 @@
   <!-- EN:
     <li>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo]</li>
   -->
-  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings><li>rewardDescription->een [joiner_age]-jarige [joiner_title] genaamd [joiner_nameDef] arriveert en sluit zich bij je aan. [joiner_relationInfo]</li></Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+    <li>rewardDescription->een [joiner_age]-jarige [joiner_title] genaamd [joiner_nameDef] arriveert en sluit zich bij je aan. [joiner_relationInfo]</li>
+  </Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
   -->
-  <Util_SendItemPods.questDescriptionRules.rulesStrings><li>rewardDescription->transportcapsules met de volgende grondstoffen komen aan (totale waarde [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li></Util_SendItemPods.questDescriptionRules.rulesStrings>
+  <Util_SendItemPods.questDescriptionRules.rulesStrings>
+    <li>rewardDescription->transportcapsules met de volgende grondstoffen komen aan (totale waarde [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+  </Util_SendItemPods.questDescriptionRules.rulesStrings>
   
 </LanguageData>

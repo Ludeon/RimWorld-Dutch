@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>Dromedaris</Dromedary.label>
+  <Dromedary.label>dromedaris</Dromedary.label>
   <!-- EN: dromedaries -->
-  <Dromedary.labelPlural>TODO</Dromedary.labelPlural>
+  <Dromedary.labelPlural>dromedarissen</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
-  <Dromedary.lifeStages.dromedary_calf.label>TODO</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.label>dromedariskalf</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>TODO</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedariskalveren</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>TODO</Gazelle.label>
+  <Gazelle.label>gazelle</Gazelle.label>
   
   <!-- EN: iguana -->
   <Iguana.label>Leguaan</Iguana.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>Muffalo</Muffalo.label>
+  <Muffalo.label>muffel</Muffalo.label>
   <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>TODO</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.label>muffelkalf</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>TODO</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>muffelkalveren</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
 </LanguageData>

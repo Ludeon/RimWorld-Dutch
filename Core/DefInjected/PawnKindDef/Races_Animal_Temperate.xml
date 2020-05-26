@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: caribou -->
-  <Caribou.label>TODO</Caribou.label>
+  <Caribou.label>rendier</Caribou.label>
   <!-- EN: caribou -->
-  <Caribou.labelPlural>TODO</Caribou.labelPlural>
+  <Caribou.labelPlural>rendieren</Caribou.labelPlural>
   <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>TODO</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.label>rendierkalf</Caribou.lifeStages.caribou_calf.label>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>TODO</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>rendierkalveren</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: deer -->
-  <Deer.label>Hert</Deer.label>
+  <Deer.label>hert</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>TODO</Deer.labelFemale>
+  <Deer.labelFemale>ree</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>TODO</Deer.labelMale>
+  <Deer.labelMale>bok</Deer.labelMale>
   <!-- EN: deer -->
-  <Deer.labelPlural>TODO</Deer.labelPlural>
+  <Deer.labelPlural>herten</Deer.labelPlural>
   
   <!-- EN: elk -->
-  <Elk.label>TODO</Elk.label>
+  <Elk.label>eland</Elk.label>
   <!-- EN: elk -->
-  <Elk.labelPlural>TODO</Elk.labelPlural>
+  <Elk.labelPlural>elanden</Elk.labelPlural>
   <!-- EN: elk calf -->
-  <Elk.lifeStages.elk_calf.label>TODO</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.label>elandkalf</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>TODO</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.elk_calf.labelPlural>elandkalveren</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: ibex -->
-  <Ibex.label>TODO</Ibex.label>
+  <Ibex.label>steenbok</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>TODO</Ibex.labelFemale>
+  <Ibex.labelFemale>steenbok vrouwtje</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>TODO</Ibex.labelMale>
+  <Ibex.labelMale>steenbok ram</Ibex.labelMale>
   <!-- EN: ibexes -->
-  <Ibex.labelPlural>TODO</Ibex.labelPlural>
+  <Ibex.labelPlural>steenbokken</Ibex.labelPlural>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>Schildpad</Tortoise.label>
+  <Tortoise.label>schildpad</Tortoise.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>Wild zwijn</WildBoar.label>
+  <WildBoar.label>wild zwijn</WildBoar.label>
   
 </LanguageData>

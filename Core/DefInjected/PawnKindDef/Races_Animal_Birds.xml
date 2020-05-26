@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>TODO</Cassowary.label>
+  <Cassowary.label>kasuaris</Cassowary.label>
   <!-- EN: cassowaries -->
-  <Cassowary.labelPlural>TODO</Cassowary.labelPlural>
+  <Cassowary.labelPlural>kasaurissen</Cassowary.labelPlural>
   
   <!-- EN: emu -->
-  <Emu.label>TODO</Emu.label>
+  <Emu.label>emoe</Emu.label>
   
   <!-- EN: ostrich -->
-  <Ostrich.label>TODO</Ostrich.label>
+  <Ostrich.label>struisvogel</Ostrich.label>
   <!-- EN: ostriches -->
-  <Ostrich.labelPlural>TODO</Ostrich.labelPlural>
+  <Ostrich.labelPlural>struisvogels</Ostrich.labelPlural>
   
   <!-- EN: turkey -->
-  <Turkey.label>TODO</Turkey.label>
+  <Turkey.label>kalkoen</Turkey.label>
   
 </LanguageData>

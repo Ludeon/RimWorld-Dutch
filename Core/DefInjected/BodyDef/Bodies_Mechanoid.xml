@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: lancer -->
-  <Lancer.label>lancer</Lancer.label>
+  <Lancer.label>lansier</Lancer.label>
   <!-- EN: left sight sensor -->
   <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker zichtsensor</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
@@ -87,7 +87,7 @@
   <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>rechter achtervoet</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
   
   <!-- EN: scyther -->
-  <Scyther.label>Maaier</Scyther.label>
+  <Scyther.label>maaier</Scyther.label>
   <!-- EN: left sight sensor -->
   <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker zichtsensor</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->

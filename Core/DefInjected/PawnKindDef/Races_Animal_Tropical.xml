@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>TODO</Boomalope.label>
+  <Boomalope.label>boemilope</Boomalope.label>
   <!-- EN: boomalope calf -->
-  <Boomalope.lifeStages.boomalope_calf.label>TODO</Boomalope.lifeStages.boomalope_calf.label>
+  <Boomalope.lifeStages.boomalope_calf.label>boemilopekalf</Boomalope.lifeStages.boomalope_calf.label>
   <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>TODO</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>boemilopekalveren</Boomalope.lifeStages.boomalope_calf.labelPlural>
   
   <!-- EN: cobra -->
-  <Cobra.label>Cobra</Cobra.label>
+  <Cobra.label>cobra</Cobra.label>
   
   <!-- EN: monkey -->
-  <Monkey.label>Aap</Monkey.label>
+  <Monkey.label>aap</Monkey.label>
   
 </LanguageData>

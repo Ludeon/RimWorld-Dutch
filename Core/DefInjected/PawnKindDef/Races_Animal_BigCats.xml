@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: cougar -->
-  <Cougar.label>TODO</Cougar.label>
+  <Cougar.label>poema</Cougar.label>
   
   <!-- EN: lynx -->
-  <Lynx.label>TODO</Lynx.label>
+  <Lynx.label>lynx</Lynx.label>
   <!-- EN: lynx -->
-  <Lynx.labelPlural>TODO</Lynx.labelPlural>
+  <Lynx.labelPlural>lynxen</Lynx.labelPlural>
   <!-- EN: lynx kitten -->
-  <Lynx.lifeStages.lynx_kitten.label>TODO</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.label>lynxwelp</Lynx.lifeStages.lynx_kitten.label>
   
   <!-- EN: panther -->
-  <Panther.label>TODO</Panther.label>
+  <Panther.label>panter</Panther.label>
   
 </LanguageData>

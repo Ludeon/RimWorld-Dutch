@@ -279,7 +279,7 @@
   <!-- EN: This floor is considered fine and suitable for royalty. -->
   <Stat_Thing_Terrain_Fine_Desc>Deze vloer wordt als fraai beoordeeld, en is geschikt voor adel.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
-  <Stat_Thing_PowerConsumption_Desc>De hoeveelheid electriciteit die dit gebouw zal gebruiken.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>De hoeveelheid elektriciteit die dit gebouw zal gebruiken.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>De algemene efficiëncie van dit lichaamsdeel</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->

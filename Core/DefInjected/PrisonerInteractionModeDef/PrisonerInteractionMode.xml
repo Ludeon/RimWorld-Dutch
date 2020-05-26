@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: recruit -->
-  <AttemptRecruit.label>TODO</AttemptRecruit.label>
+  <AttemptRecruit.label>rekruteren</AttemptRecruit.label>
   
   <!-- EN: execute -->
-  <Execution.label>TODO</Execution.label>
+  <Execution.label>executeren</Execution.label>
   
   <!-- EN: no interaction -->
-  <NoInteraction.label>TODO</NoInteraction.label>
+  <NoInteraction.label>geen interactie</NoInteraction.label>
   
   <!-- EN: reduce resistance -->
-  <ReduceResistance.label>TODO</ReduceResistance.label>
+  <ReduceResistance.label>verminder weerstand</ReduceResistance.label>
   
   <!-- EN: release -->
-  <Release.label>TODO</Release.label>
+  <Release.label>vrijlaten</Release.label>
   
 </LanguageData>

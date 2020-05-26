@@ -6,7 +6,11 @@
     <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccessful peace talks can earn your negotiator a small amount of personal [faction_royalFavorLabel] with [faction_name].</li>
     <li>favorRewardDetails-></li>
   -->
-  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] van [faction_name], heeft ons een bericht gestuurd. [faction_leader_pronoun] wil ons op neutraal terrein ontmoeten.\n\nDit is een buitenkans om de relaties met hun factie te verbeteren en kado's te ontvangen, maar let op - een slechte onderhandelaar kan meer kwaad dan goed doen.[favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccesvolle onderhandelingen kunnen je onderhandelaar een kleine hoeveelheid [faction_royalFavorLabel] met [faction_name] opleveren.</li>
+    <li>favorRewardDetails-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
     <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
@@ -16,10 +20,18 @@
     <li>peaceTalks->Diplomacy</li>
     <li>peaceTalks->Meeting</li>
   -->
-  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
+    <li>questName->[peaceTalks] met [faction_leader_nameDef]</li>
+    <li>questName->De [peaceTalks]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>peaceTalks->Vredesonderhandelingen</li>
+    <li>peaceTalks->Diplomatie</li>
+    <li>peaceTalks->Ontmoeting</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Opdracht verlopen: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
-  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>Het aanbod voor vredesonderhandelingen met [faction_name] is verlopen. De opdracht [resolvedQuestName] is mislukt.</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

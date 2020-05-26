@@ -6,7 +6,11 @@
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
     <li>qualityInfo-></li>
   -->
-  <TradeRequest.questDescriptionRules.rulesStrings>TODO</TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->Een nederzetting in de buurt, [settlement_label], heeft een bijzonder handelsverzoek. Ze willen de volgende voorwerpen graag kopen:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](waarde [requestedThingMarketValue_money])\n\nAls je op het verzoek in wilt gaan, stuur dan een karavaan met de gevraagde handelswaar. De verwachtte reistijd is: [estimatedTravelTime_duration].</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->van normale+ kwaliteit </li>
+    <li>qualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Caravan to [settlement_label]</li>
     <li>questName->Trade with [settlement_label]</li>
@@ -21,14 +25,27 @@
     <li>trade->Deal</li>
     <li>trade->Offer</li>
   -->
-  <TradeRequest.questNameRules.rulesStrings>TODO</TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->Karavaan naar [settlement_label]</li>
+    <li>questName->Handelen met [settlement_label]</li>
+    <li>questName->Verkoop aan [settlement_label]</li>
+    <li>questName->Voorraden voor [settlement_label]</li>
+    <li>questName->Een [special] [trade]</li>
+    <li>special->Speciale</li>
+    <li>special->Unieke</li>
+    <li>special->Niet Traditionele</li>
+    <li>trade->Handel</li>
+    <li>trade->Ruil</li>
+    <li>trade->Deal</li>
+    <li>trade->Aanbod</li>
+  </TradeRequest.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <TradeRequest.LetterLabelQuestFailed.slateRef>TODO</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>Opdracht mislukt: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
   <!-- EN: [faction_name] became hostile to you. -->
-  <TradeRequest.LetterTextQuestFailed.slateRef>TODO</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name] is je nu vijandig gezind.</TradeRequest.LetterTextQuestFailed.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <TradeRequest.LetterLabelFavorReceiver.slateRef>TODO</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Wie zou met [asker_faction_royalFavorLabel] beloond moeten worden voor het vervullen van het handelsverzoek?</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

@@ -7,17 +7,27 @@
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   -->
-  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef] neemt contact met je op en vraagt om hulp. [refugee_pronoun] is gewond en kan niet bewegen.\n\n[refugee_nameDef] is een [refugee_age]-jarige [refugee_title]. [refugee_pronoun] belooft zich bij de kolonie aan te sluite nals je [refugee_objective] redt.\n\n[refugee_nameDef] vertelt dat [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] van [asker_faction_name], vertelt dat [asker_possessive] vriend gewond is geraakt tijdens een reis. Het slachtoffer is [refugee_nameIndef], een [refugee_age]-jarige [refugee_title].\n\n[asker_nameDef] heeft geen mankracht om [refugee_nameDef] te redden, maar zegt dat als je [refugee_nameDef] kunt bereiken en [refugee_objective] redden, [refugee_pronoun] zich bij je zal aansluiten.\n\n[asker_nameDef] vertelt dat [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo-></li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [refugee_nameDef]</li>
     <li>questName->The Rescue of [refugee_nameDef]</li>
     <li>questName->[refugee_nameDef]'s Rescue</li>
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
-  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>    
+    <li>questName->Reddingsoperatie [refugee_nameDef]</li>
+    <li>questName->De redding van [refugee_nameDef]</li>
+    <li>questName->[refugee_nameDef]'s redding</li>
+    <li>questName->[refugee_nameDef]'s hoop in bange dagen</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Opdracht verlopen: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
   <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>Het signaal van [refugee_nameDef] is verloren gegaan en [refugee_pronoun] kan niet langer worden gered. De opdracht [resolvedQuestName] is verlopen.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

@@ -10,7 +10,7 @@
   <Cousin.label>neef of nicht</Cousin.label>
   
   <!-- EN: cousin once removed -->
-  <CousinOnceRemoved.label>klein- neef of nicht</CousinOnceRemoved.label>
+  <CousinOnceRemoved.label>achterneef of -nicht</CousinOnceRemoved.label>
   
   <!-- EN: grandson -->
   <Grandchild.label>kleinzoon</Grandchild.label>
@@ -18,9 +18,9 @@
   <Grandchild.labelFemale>kleindochter</Grandchild.labelFemale>
   
   <!-- EN: grandnephew -->
-  <GrandnephewOrGrandniece.label>achterkleinneef</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.label>achterneef</GrandnephewOrGrandniece.label>
   <!-- EN: grandniece -->
-  <GrandnephewOrGrandniece.labelFemale>achterkleinnicht</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.labelFemale>achternicht</GrandnephewOrGrandniece.labelFemale>
   
   <!-- EN: grandfather -->
   <Grandparent.label>opa</Grandparent.label>
@@ -28,9 +28,9 @@
   <Grandparent.labelFemale>oma</Grandparent.labelFemale>
   
   <!-- EN: granduncle -->
-  <GranduncleOrGrandaunt.label>grootoom</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.label>oudoom</GranduncleOrGrandaunt.label>
   <!-- EN: grandaunt -->
-  <GranduncleOrGrandaunt.labelFemale>groottante</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.labelFemale>oudtante</GranduncleOrGrandaunt.labelFemale>
   
   <!-- EN: great grandson -->
   <GreatGrandchild.label>achterkleinzoon</GreatGrandchild.label>
@@ -61,7 +61,7 @@
   <Parent.labelFemale>moeder</Parent.labelFemale>
   
   <!-- EN: second cousin -->
-  <SecondCousin.label>achterklein- neef of nicht</SecondCousin.label>
+  <SecondCousin.label>achterneef of -nicht</SecondCousin.label>
   
   <!-- EN: brother -->
   <Sibling.label>broer</Sibling.label>

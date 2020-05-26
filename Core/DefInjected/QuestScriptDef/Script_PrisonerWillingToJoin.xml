@@ -8,7 +8,13 @@
     <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
     <li>underArmedGuard-></li>
   -->
-  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription->Een gevangene van [siteFaction_name] heeft een radio weten te bemachtigen en roept je op!\n\n[prisoner_nameDef] wordt vastgehouden in de buurt van [map_definite][underArmedGuard]. Red [prisoner_objective], en [prisoner_pronoun] zal zich bij je aansluiten. [prisoner_pronoun] is een [prisoner_age]-jarige [prisoner_title]. [prisoner_pronoun] vertelt dat [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nAls je deze kans aan je voorbij laat gaan, zul je waarschijnlijk nooit meer iets van [prisoner_nameDef] vernemen.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> met gewapende bewakers</li>
+    <li>underArmedGuard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[prisoner_nameDef]'s Salvation</li>
     <li>questName->[prisoner_nameDef]'s Rescue</li>
@@ -17,6 +23,14 @@
     <li>questName->Saving [prisoner_nameDef]</li>
     <li>questName->Breaking [prisoner_nameDef] Out</li>
   -->
-  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>TODO</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName->[prisoner_nameDef]'s Verlossing</li>
+    <li>questName->[prisoner_nameDef]'s Redding</li>
+    <li>questName->[prisoner_nameDef]'s Uitbraak</li>
+    <li>questName->[prisoner_nameDef] Redden</li>
+    <li>questName->[prisoner_nameDef] Bevrijden</li>
+    <li>questName->[prisoner_nameDef] Uitbreken</li>
+    <li>questName->[prisoner_nameDef]'s Bevrijding</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
   
 </LanguageData>

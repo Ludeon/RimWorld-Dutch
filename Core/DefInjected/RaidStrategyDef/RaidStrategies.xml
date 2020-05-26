@@ -2,58 +2,58 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttack.arrivalTextEnemy>TODO</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextEnemy>Ze vallen direct aan.</ImmediateAttack.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttack.arrivalTextFriendly>TODO</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Ze komen meteen om je te helpen.</ImmediateAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttack.letterLabelEnemy>TODO</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelEnemy>Overval</ImmediateAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttack.letterLabelFriendly>TODO</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.letterLabelFriendly>Bondgenoten</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>Ze vallen direct aan.</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>Ze komen meteen om je te helpen</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>Overval</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>Bondgenoten</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
-  <ImmediateAttackSappers.arrivalTextEnemy>TODO</ImmediateAttackSappers.arrivalTextEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Het lijkt erop dat ze een tunnel willen graven om je verdeding te omzeilen.</ImmediateAttackSappers.arrivalTextEnemy>
   <!-- EN: Raid -->
-  <ImmediateAttackSappers.letterLabelEnemy>TODO</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.letterLabelEnemy>Overval</ImmediateAttackSappers.letterLabelEnemy>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackSmart.arrivalTextEnemy>TODO</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>Ze vallen direct aan.\n\nLet op - ze lijken ongewoon slim met hun tactieken. Ze zullen je geschutskoepels ontwijken en sommige valstrikken op tijd zien.</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackSmart.arrivalTextFriendly>TODO</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>Ze komen meteen om je te helpen.</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackSmart.letterLabelEnemy>TODO</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Overval</ImmediateAttackSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackSmart.letterLabelFriendly>TODO</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.letterLabelFriendly>Bondgenoten</ImmediateAttackSmart.letterLabelFriendly>
   
   <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
-  <Siege.arrivalTextEnemy>TODO</Siege.arrivalTextEnemy>
+  <Siege.arrivalTextEnemy>Het lijkt erop dat ze de kolonie willen belegeren, en je met mortiervuur van afstand te beschieten. Je zou kunnen afwachten, of ze aanvallen.</Siege.arrivalTextEnemy>
   <!-- EN: It looks like they want to use siege tactics to help you. -->
-  <Siege.arrivalTextFriendly>TODO</Siege.arrivalTextFriendly>
+  <Siege.arrivalTextFriendly>Het lijkt erop dat ze belegeringstactiek willen gebruiken om je te helpen.</Siege.arrivalTextFriendly>
   <!-- EN: Siege -->
-  <Siege.letterLabelEnemy>TODO</Siege.letterLabelEnemy>
+  <Siege.letterLabelEnemy>Belegering</Siege.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <Siege.letterLabelFriendly>TODO</Siege.letterLabelFriendly>
+  <Siege.letterLabelFriendly>Bondgenoten</Siege.letterLabelFriendly>
   
   <!-- EN: Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack it to finally remove the threat.\n\nThe cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <SiegeMechanoid.arrivalTextEnemy>TODO</SiegeMechanoid.arrivalTextEnemy>
+  <SiegeMechanoid.arrivalTextEnemy>In plaats van direct aan te vallen, zetten de mechanoïden een mechanoïdecluster op bij de kolonie. Je moet het aanvallen om definitief met de bedreiging af te rekenen.\n\nHet cluster zal initiëel in slaapstand staan, dus je kunt de tijd nemen om een aanvalsplan te maken.\n\nHet zou in slaapstand kunnen blijven tot het wordt verstoord, of hij kan geactiveerd worden door een timer of bewegingsdetectoren.\n\nZelfs mechanoïdeclusters in slaapstand zijn niet zonder gevaar. Een cluster in slaapstand kan zo nu en dan mechanoïden bouwen die je basis aanvallen, of andere negatieve invloed uitoefenen op de regio.</SiegeMechanoid.arrivalTextEnemy>
   <!-- EN: Mechanoid Siege -->
-  <SiegeMechanoid.letterLabelEnemy>TODO</SiegeMechanoid.letterLabelEnemy>
+  <SiegeMechanoid.letterLabelEnemy>Belegering door Mechanoïden</SiegeMechanoid.letterLabelEnemy>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
-  <StageThenAttack.arrivalTextEnemy>TODO</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextEnemy>Ze zullen een tijdje voorbereiden en dan aanvallen.\n\nBereid je verdediging voor, of val ze eerst aan.</StageThenAttack.arrivalTextEnemy>
   <!-- EN: They will prepare for a while before moving in to help you. -->
-  <StageThenAttack.arrivalTextFriendly>TODO</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextFriendly>Ze zullen een tijdje voorbereiden voordat ze je komen helpen.</StageThenAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <StageThenAttack.letterLabelEnemy>TODO</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelEnemy>Overval</StageThenAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <StageThenAttack.letterLabelFriendly>TODO</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.letterLabelFriendly>Bondgenoten</StageThenAttack.letterLabelFriendly>
   
 </LanguageData>

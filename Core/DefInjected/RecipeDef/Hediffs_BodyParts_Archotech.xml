@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: install archotech arm -->
-  <InstallArchotechArm.label>TODO</InstallArchotechArm.label>
+  <InstallArchotechArm.label>archotech arm implanteren</InstallArchotechArm.label>
   <!-- EN: Install an archotech arm. -->
-  <InstallArchotechArm.description>TODO</InstallArchotechArm.description>
+  <InstallArchotechArm.description>Implanteer een archotech arm.</InstallArchotechArm.description>
   <!-- EN: Installing archotech arm. -->
-  <InstallArchotechArm.jobString>TODO</InstallArchotechArm.jobString>
+  <InstallArchotechArm.jobString>Bezig een archotech arm te implanteren.</InstallArchotechArm.jobString>
   
   <!-- EN: install archotech eye -->
-  <InstallArchotechEye.label>TODO</InstallArchotechEye.label>
+  <InstallArchotechEye.label>archotech oog implanteren</InstallArchotechEye.label>
   <!-- EN: Install an archotech eye. -->
-  <InstallArchotechEye.description>TODO</InstallArchotechEye.description>
+  <InstallArchotechEye.description>Implanteer een archotech oog.</InstallArchotechEye.description>
   <!-- EN: Installing archotech eye. -->
-  <InstallArchotechEye.jobString>TODO</InstallArchotechEye.jobString>
+  <InstallArchotechEye.jobString>Bezig een archotech oog te implanteren.</InstallArchotechEye.jobString>
   
   <!-- EN: install archotech leg -->
-  <InstallArchotechLeg.label>TODO</InstallArchotechLeg.label>
+  <InstallArchotechLeg.label>archotech been implanteren</InstallArchotechLeg.label>
   <!-- EN: Install an archotech leg. -->
-  <InstallArchotechLeg.description>TODO</InstallArchotechLeg.description>
+  <InstallArchotechLeg.description>Implanteer een archotech been.</InstallArchotechLeg.description>
   <!-- EN: Installing archotech leg. -->
-  <InstallArchotechLeg.jobString>TODO</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.jobString>Bezig een archotech been te implanteren.</InstallArchotechLeg.jobString>
   
 </LanguageData>

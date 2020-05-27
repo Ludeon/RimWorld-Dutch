@@ -22,9 +22,9 @@
   <CraftingSpot.description>TODO</CraftingSpot.description>
   
   <!-- EN: deep drill -->
-  <DeepDrill.label>TODO</DeepDrill.label>
+  <DeepDrill.label>diepteboor</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description>TODO</DeepDrill.description>
+  <DeepDrill.description>Een diepteboor die diep onder de oppervlakte graaft naar grondstoffen. Gebruik een dieptescanner om de grondstoffen te vinden. Deze diepteboor zal rotsblokken produceren als er geen grondstoffen beschikbaar zijn. Kan vrij verplaatst worden.</DeepDrill.description>
   
   <!-- EN: drug lab -->
   <DrugLab.label>TODO</DrugLab.label>
@@ -97,7 +97,7 @@
   <HydroponicsBasin.description>TODO</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
-  <NutrientPasteDispenser.label>TODO</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>voedingspasta machine</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
   <NutrientPasteDispenser.description>TODO</NutrientPasteDispenser.description>
   

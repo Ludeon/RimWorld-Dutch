@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: install cochlear implant -->
-  <InstallCochlearImplant.label>TODO</InstallCochlearImplant.label>
+  <InstallCochlearImplant.label>binnenoorimplantaat implanteren</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
-  <InstallCochlearImplant.description>TODO</InstallCochlearImplant.description>
+  <InstallCochlearImplant.description>Implanteer een binnenoorimplantaat.</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
-  <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.jobString>Binnenoorimplantaat implanteren</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
   <InstallJoywire.label>geluksdraad installeren</InstallJoywire.label>
@@ -23,11 +23,11 @@
   <InstallPainstopper.jobString>Pijnstopper installeren.</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
-  <InstallPowerClaw.label>power-claw implanteren.</InstallPowerClaw.label>
+  <InstallPowerClaw.label>powerklauw implanteren.</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>Implanteer een power-claw.</InstallPowerClaw.description>
+  <InstallPowerClaw.description>Implanteer een powerklauw.</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>Power-claw implanteren.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>Powerklauw implanteren.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>eenvoudige armprothese installeren</InstallSimpleProstheticArm.label>
@@ -37,11 +37,11 @@
   <InstallSimpleProstheticArm.jobString>Eenvoudige armprothese installeren.</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
-  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>kunsthart implanteren</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>Implanteer een kunsthart.</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>Kunsthart implanteren.</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>eenvoudige beenprothese installeren</InstallSimpleProstheticLeg.label>
@@ -51,10 +51,10 @@
   <InstallSimpleProstheticLeg.jobString>Simpele beenprothese installeren.</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
-  <RemovePainstopper.label>TODO</RemovePainstopper.label>
+  <RemovePainstopper.label>pijnstopper verwijderen</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
-  <RemovePainstopper.description>TODO</RemovePainstopper.description>
+  <RemovePainstopper.description>Verwijder de pijnstopper</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
-  <RemovePainstopper.jobString>TODO</RemovePainstopper.jobString>
+  <RemovePainstopper.jobString>Pijnstopper verwijderen.</RemovePainstopper.jobString>
   
 </LanguageData>

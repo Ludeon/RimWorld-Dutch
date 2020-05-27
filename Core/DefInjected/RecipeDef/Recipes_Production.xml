@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <DestroyApparel.label>kleding vernietigen</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <DestroyApparel.description>Gebruik hitte om ongewenste kleding te vernietigen. Dit gaat sneller dan smelten, en werkt ook op niet-smeltbare objecten, maar geeft geen grondstoffen.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  <DestroyApparel.jobString>Kleding aan het vernietigen.</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
-  <DestroyWeapon.label>TODO</DestroyWeapon.label>
+  <DestroyWeapon.label>wapen vernietigen</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>TODO</DestroyWeapon.description>
+  <DestroyWeapon.description>Gebruik hitte om ongewenste wapens te vernietigen. Dit gaat snelelr dan smelten, en werkt ook op niet-smeltbare objecten, maar geeft geen grondstoffen.</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
-  <DestroyWeapon.jobString>TODO</DestroyWeapon.jobString>
+  <DestroyWeapon.jobString>Wapen aan het vernietigen.</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
   <ExtractMetalFromSlag.label>smelt sintel.</ExtractMetalFromSlag.label>
@@ -23,59 +23,59 @@
   <ExtractMetalFromSlag.jobString>Sintel omsmelten in metaal.</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
-  <Make_ChemfuelFromOrganics.label>TODO</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.label>win brandstof uit organische stoffen</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
-  <Make_ChemfuelFromOrganics.description>TODO</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>Maak brandstof door biobrandstof uit organische voedingsstoffen te halen.</Make_ChemfuelFromOrganics.description>
   <!-- EN: Refining chemfuel from organics. -->
-  <Make_ChemfuelFromOrganics.jobString>TODO</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.jobString>Raffineert brandstof uit organische stoffen.</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>TODO</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>win brandstof uit hout</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>TODO</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>Maak brandstof door houtgas uit boomstammen te onttrekken.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
-  <Make_ChemfuelFromWood.jobString>TODO</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.jobString>Raffineert brandstof uit hout.</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
   <Make_ComponentIndustrial.label>maak component</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>Maak een component voor in complexere machines.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>Maak een component.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
   <Make_ComponentIndustrial.jobString>Component aan het maken.</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>TODO</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>maak geavanceerde component</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>Maak een geavanceerde component. </Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>TODO</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>Geavanceerde component aan het maken.</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <Make_Patchleather.label>Maak lappenleer</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <Make_Patchleather.description>Naai verschillende soorten leer aan elkaar om een zwakker lappenleer te maken.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Maakt lappenleer.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>TODO</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>maak elk stenen blok</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>TODO</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Verwerk rotsblokken in bruikbare stenen.</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>TODO</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>Rotsblokken aan het verwerken.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>Smelt kleding</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>Gebruik hitte en sterke elektromagneten om metalen kleding zoals harnassen in bruikbare grondstoffen om te zetten.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>Kleding aan het smelten.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
   <SmeltWeapon.label>smelt metaal van wapen</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>Gebruik hitte en sterke electromagneten om nuttig metaal uit wapens te halen.</SmeltWeapon.description>
+  <SmeltWeapon.description>Gebruik hitte en sterke elektromagneten om wapens in bruikbare grondstoffen om te zetten.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>TODO</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>Wapen aan het smelten.</SmeltWeapon.jobString>
   
 </LanguageData>

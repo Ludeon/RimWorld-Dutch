@@ -56,11 +56,11 @@
   <Insulation_Heat.labelForFullStatList>TODO</Insulation_Heat.labelForFullStatList>
   
   <!-- EN: Smokepop belt radius -->
-  <SmokepopBeltRadius.label>TODO</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.label>Rookriem radius</SmokepopBeltRadius.label>
   <!-- EN: The area obscured when a smokepop belt detonates. -->
-  <SmokepopBeltRadius.description>TODO</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.description>Het gebied dat bedekt wordt met rook wanneer de rookriem afgaat.</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>TODO</SmokepopBeltRadius.formatString>
+  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
   <StuffEffectMultiplierArmor.label>TODO</StuffEffectMultiplierArmor.label>

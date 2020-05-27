@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: shield belt -->
-  <Apparel_ShieldBelt.label>TODO</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.label>schildriem</Apparel_ShieldBelt.label>
   <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
-  <Apparel_ShieldBelt.description>TODO</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>Een projectiel-blokkerend apparaat. Het zal inkomende projectielen blokkeren, maar werkt niet tegen melee-aanvallen of hitte. Zolang het schild actief is kan de drager zelf ook niet schieten. Het schild sluit direct af wanneer het wordt geraakt met een EMP wapen.</Apparel_ShieldBelt.description>
   
   <!-- EN: smokepop belt -->
-  <Apparel_SmokepopBelt.label>TODO</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.label>rookriem</Apparel_SmokepopBelt.label>
   <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>TODO</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>Een éénmalig automatisch defensief rookgordijn. Als de riemdrager wordt geraakt door een projectiel zal de riem een rookgordijn loslaten, waardoor het moeilijker is voor vijanden en geschutskoepels om de riemdrager op de korrel te nemen.</Apparel_SmokepopBelt.description>
   
 </LanguageData>

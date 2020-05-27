@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: anesthetize -->
-  <Anesthetize.label>TODO</Anesthetize.label>
+  <Anesthetize.label>onder narcose brengen</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
-  <Anesthetize.description>TODO</Anesthetize.description>
+  <Anesthetize.description>Maak een wezen bewusteloos door een narcosemiddel toe te dienen.</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
-  <Anesthetize.jobString>TODO</Anesthetize.jobString>
+  <Anesthetize.jobString>Onder narcose aan het brengen.</Anesthetize.jobString>
   
   <!-- EN: euthanize by cut -->
   <Euthanize.label>inslapen</Euthanize.label>

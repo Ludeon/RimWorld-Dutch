@@ -2,128 +2,128 @@
 <LanguageData>
   
   <!-- EN: air conditioning -->
-  <AirConditioning.label>TODO</AirConditioning.label>
+  <AirConditioning.label>Airconditioning</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>TODO</AirConditioning.description>
+  <AirConditioning.description>Bouw koelers zodat mensen zich prettig voelen in warm weer, of bouw vriezers om bederfelijke goederen op te slaan.</AirConditioning.description>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>TODO</Autodoors.label>
+  <Autodoors.label>automatische deur</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
-  <Autodoors.description>TODO</Autodoors.description>
+  <Autodoors.description>Bouw automatische deuren die open gaan als iemand nadert, zonder ze af te remmen.</Autodoors.description>
   
   <!-- EN: battery -->
-  <Batteries.label>TODO</Batteries.label>
+  <Batteries.label>batterij</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>TODO</Batteries.description>
+  <Batteries.description>Bouw batterijen om elektriciteit op te slaan.</Batteries.description>
   
   <!-- EN: biofuel refining -->
-  <BiofuelRefining.label>TODO</BiofuelRefining.label>
+  <BiofuelRefining.label>biobrandstofraffinade</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>TODO</BiofuelRefining.description>
+  <BiofuelRefining.description>Bouw biobrandstofraffinaderijen om brandstof te maken van biologische grondstoffen zoals hout of voedsel.</BiofuelRefining.description>
   
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>TODO</BlowbackOperation.label>
+  <BlowbackOperation.label>terugslaglader</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
-  <BlowbackOperation.description>TODO</BlowbackOperation.description>
+  <BlowbackOperation.description>Maak eenvoudige wapens met terugslaglader, zoals automatische pistolen en machinepistolen.</BlowbackOperation.description>
   
   <!-- EN: colored lights -->
-  <ColoredLights.label>Gekleurde lichten</ColoredLights.label>
+  <ColoredLights.label>gekleurde lichten</ColoredLights.label>
   <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>Dit stelt je in staat gekleurde lichten te bouwen. Puur decoratief.</ColoredLights.description>
+  <ColoredLights.description>Maak gekleurde lichten als decoratie. Puur cosmetisch.</ColoredLights.description>
   
   <!-- EN: electricity -->
-  <Electricity.label>TODO</Electricity.label>
+  <Electricity.label>elektriciteit</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>TODO</Electricity.description>
+  <Electricity.description>Gebruik de kracht van elektriciteit voor talloze dingen.</Electricity.description>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>TODO</Firefoam.label>
+  <Firefoam.label>vuurschuim</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>TODO</Firefoam.description>
+  <Firefoam.description>Maak vuurschuimknallers, deze zal automatisch een brandwerend schuim om zich heen verspreiden wanneer er vuur in de buurt komt.</Firefoam.description>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>TODO</FlakArmor.label>
+  <FlakArmor.label>flakharnas</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
-  <FlakArmor.description>TODO</FlakArmor.description>
+  <FlakArmor.description>Maak kleding met ingenaaide metalen bescherming tegen kogels en explosies. Deze kleding is zwaar en beperkt de bewegingssnelheid licht.</FlakArmor.description>
   
   <!-- EN: gas operation -->
-  <GasOperation.label>TODO</GasOperation.label>
+  <GasOperation.label>gasdruklader</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
-  <GasOperation.description>TODO</GasOperation.description>
+  <GasOperation.description>Maak sterke schietwapens, zoals automatische jachtgeweren, LMGs en zware machinepistolen.</GasOperation.description>
   
   <!-- EN: geothermal power -->
-  <GeothermalPower.label>TODO</GeothermalPower.label>
+  <GeothermalPower.label>geothermische energie</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>TODO</GeothermalPower.description>
+  <GeothermalPower.description>Bouw geothermische generators op geysers, voor ononderbroken energieverzorging.</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
-  <Gunsmithing.label>TODO</Gunsmithing.label>
+  <Gunsmithing.label>wapensmeden</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>TODO</Gunsmithing.description>
+  <Gunsmithing.description>Maak eenvoudige handmatig geladen wapens, zoals revolvers, pompjachtgeweren, grendelgeweren, en brandwerpers.</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>TODO</GunTurrets.label>
+  <GunTurrets.label>geschutskoepels</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
-  <GunTurrets.description>TODO</GunTurrets.description>
+  <GunTurrets.description>Produceer eenvoudige geautomatiseerde geschutskoepels.</GunTurrets.description>
   
   <!-- EN: hydroponics -->
-  <Hydroponics.label>Hydrocultuur</Hydroponics.label>
+  <Hydroponics.label>hydrocultuur</Hydroponics.label>
   <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
-  <Hydroponics.description>Ontgrendel de hydrocultuurtafels. Hiermee kun je binnen planten verbouwen.</Hydroponics.description>
+  <Hydroponics.description>Bouw hydrocultuurtafels om snel planten binnen te kunnen verbouwen, onafhankelijk van ondergrond of het weer buiten.</Hydroponics.description>
   
   <!-- EN: IEDs -->
-  <IEDs.label>TODO</IEDs.label>
+  <IEDs.label>geïmproviseerde explosieven</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
-  <IEDs.description>TODO</IEDs.description>
+  <IEDs.description>Bouw geïmproviseerde vallen van elk type mortiergranaat.</IEDs.description>
   
   <!-- EN: machining -->
-  <Machining.label>Machinetafel</Machining.label>
+  <Machining.label>machinetafel</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
-  <Machining.description>Hiermee kun je een machinetafel bouwen, waarmee je wapens, flakharnassen kunt maken. En mechanoïden kunnen worden omgezet in bruikbaar metaal.</Machining.description>
+  <Machining.description>Bouw machinetafels om wapens, granaten, flakharnassen kunt maken. En mechanoïden kunnen worden omgezet in bruikbaare grondstoffen.</Machining.description>
   
   <!-- EN: mortars -->
-  <Mortars.label>Mortieren</Mortars.label>
+  <Mortars.label>mortieren</Mortars.label>
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
-  <Mortars.description>Leer mortieren te bouwen, waarmee je de hele kaart kunt beschieten.</Mortars.description>
+  <Mortars.description>Bouw mortieren, waarmee je de hele kaart kunt beschieten.</Mortars.description>
   
   <!-- EN: nutrient paste -->
-  <NutrientPaste.label>TODO</NutrientPaste.label>
+  <NutrientPaste.label>voedingspasta</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
-  <NutrientPaste.description>TODO</NutrientPaste.description>
+  <NutrientPaste.description>Bouw voedingspasta machines die efficïent eetbare maaltijden kunne produceren van rauwe ingrediënten, zonder handmatige inspanning.</NutrientPaste.description>
   
   <!-- EN: packaged survival meal -->
-  <PackagedSurvivalMeal.label>TODO</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.label>overlevingsmaaltijdpakket</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
-  <PackagedSurvivalMeal.description>TODO</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>Produceer overlevingsmaaltijdpakketten die nooit zullen vergaan. Uitstekend geschikt om op reis mee te nemen.</PackagedSurvivalMeal.description>
   
   <!-- EN: prosthetics -->
-  <Prosthetics.label>TODO</Prosthetics.label>
+  <Prosthetics.label>protheses</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
-  <Prosthetics.description>TODO</Prosthetics.description>
+  <Prosthetics.description>Maak goedkope lichaamsdeelprotheses om verloren ledematen te vervangen. Vereist een goede dokter om te implanteren.</Prosthetics.description>
   
   <!-- EN: smokepop belts -->
-  <SmokepopBelt.label>TODO</SmokepopBelt.label>
+  <SmokepopBelt.label>rookriemen</SmokepopBelt.label>
   <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
-  <SmokepopBelt.description>TODO</SmokepopBelt.description>
+  <SmokepopBelt.description>Maak rookriemen die een automatisch rookgordijn activeren wanneer de riemdrager wordt aangeschoten.</SmokepopBelt.description>
   
   <!-- EN: solar panel -->
-  <SolarPanels.label>TODO</SolarPanels.label>
+  <SolarPanels.label>zonnepaneel</SolarPanels.label>
   <!-- EN: Build solar panels for electricity generation. -->
-  <SolarPanels.description>TODO</SolarPanels.description>
+  <SolarPanels.description>Bouw zonnepanelen om elektriciteit op te wekken.</SolarPanels.description>
   
   <!-- EN: sterile materials -->
-  <SterileMaterials.label>TODO</SterileMaterials.label>
+  <SterileMaterials.label>steriel materiaal</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
-  <SterileMaterials.description>TODO</SterileMaterials.description>
+  <SterileMaterials.description>Maak steriele tegels om schone kamers te maken voor effectievere medische verzorging, onderzoek, en maaltijden koken.</SterileMaterials.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>TODO</TubeTelevision.label>
+  <TubeTelevision.label>beeldbuistelevisie</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>TODO</TubeTelevision.description>
+  <TubeTelevision.description>Produceer beeldbuistelevisies om plezier op te bouwen tijdens het kijken.</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>watermolen</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
-  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  <WatermillGenerator.description>Bouw watermolens in rivieren om constant elektriciteit op te wekken.</WatermillGenerator.description>
   
 </LanguageData>

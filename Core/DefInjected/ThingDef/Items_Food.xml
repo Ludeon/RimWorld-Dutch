@@ -17,7 +17,7 @@
   <MealLavish.description>TODO</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
-  <MealNutrientPaste.label>TODO</MealNutrientPaste.label>
+  <MealNutrientPaste.label>voedingspasta maaltijd</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
   <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
   
@@ -27,9 +27,9 @@
   <MealSimple.description>TODO</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
-  <MealSurvivalPack.label>TODO</MealSurvivalPack.label>
+  <MealSurvivalPack.label>Overlevingsmaaltijdpakket</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>TODO</MealSurvivalPack.description>
+  <MealSurvivalPack.description>Een maaltijd van hoge kwaliteit, geconserveerd voor het gebruik in survival situaties. Alhoewel het nooit zal verroten, kan de verpakking vergaan als het buiten wordt opgeslagen. Uitstekend geschikt om mee op reis te nemen.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>TODO</Pemmican.label>

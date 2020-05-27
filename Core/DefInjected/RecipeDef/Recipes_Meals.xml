@@ -4,57 +4,57 @@
   <!-- EN: cook fine meal -->
   <CookMealFine.label>Kook een lekkere maaltijd</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>Kook een lekker maaltijd met twee ingredi�nten.</CookMealFine.description>
+  <CookMealFine.description>Kook een lekkere maaltijd met een combinatie van dierlijke en plantaardige ingrediënten.</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>Lekkere maaltijd koken.</CookMealFine.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <CookMealFineBulk.label>Kook 4 lekkere maaltijden</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Kook 4 lekkere maaltijdenmet een combinatie van dierlijke en plantaardige ingrediënten</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>4 lekkere maaltijden koken.</CookMealFineBulk.jobString>
   
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>Kook een luxe maaltijd</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>Kook een luxe maaltijd met drie ingredi�nten.</CookMealLavish.description>
+  <CookMealLavish.description>Kook een luxe maaltijd met een combinatie van dierlijke en plantaardige ingrediënten. Een deel van de ingrediënten wordt verspild.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Luxe maaltijd koken.</CookMealLavish.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>Kook 4 luxe maaltijden</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Kook 4 luxe maaltijden met een combinatie van dierlijke en plantaardige ingrediënten. Een deel van de ingrediënten wordt verspild.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>4 luxe maaltijden koken.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>Eenvoudige maaltijd koken</CookMealSimple.label>
+  <CookMealSimple.label>Kook een eenvoudige maaltijd</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>Kook een eenvoudige maaltijd met maar ��n simpel ingredi�nt.</CookMealSimple.description>
+  <CookMealSimple.description>Kook een eenvoudige maaltijd met maar één ingrediënt.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>Eenvoudige maaltijd koken.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>Kook 4 eenvoudige maaltijden</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Kook 4 eenvoudige maaltijden met maar één ingrediënt</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>4 eenvoudige maaltijden koken</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <CookMealSurvival.label>maak overlevingsmaaltijdpakket</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>TODO</CookMealSurvival.description>
+  <CookMealSurvival.description>Maak een overlevingsmaaltijdpakket van een combinatie van dierlijke en plantaardige ingrediënten. Veel ingrediënten worden verspild tijdens het conservatieproces.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Overlevingsmaaltijd koken</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>maak 4 overlevingsmaaltijdpakketten</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Maak 4 overlevingsmaaltijdpakketten van een combinatie van dierlijke en plantaardige ingrediënten. Veel ingrediënten worden verspild tijdens het conservatieproces.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>4 overlevingsmaaltijden koken</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

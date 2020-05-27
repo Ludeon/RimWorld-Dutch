@@ -4,29 +4,29 @@
   <!-- EN: burn apparel -->
   <BurnApparel.label>kleding verbranden</BurnApparel.label>
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
-  <BurnApparel.description>Verbrand kleding, om er voorgoed vanaf te zijn.</BurnApparel.description>
+  <BurnApparel.description>Verbrand kleding, om het volledig te vernietigen.</BurnApparel.description>
   <!-- EN: Burning apparel. -->
   <BurnApparel.jobString>Kleding verbranden.</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
   <BurnDrugs.label>verbrand drugs</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>Drugs verbranden, om er volledig van af te zijn.</BurnDrugs.description>
+  <BurnDrugs.description>Drugs verbranden, om ze volledig te vernietigen.</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
   <BurnDrugs.jobString>Drugs verbranden.</BurnDrugs.jobString>
   
   <!-- EN: burn weapon -->
-  <BurnWeapon.label>TODO</BurnWeapon.label>
+  <BurnWeapon.label>verbrand wapen</BurnWeapon.label>
   <!-- EN: Burn unwanted weapon to completely destroy it. -->
-  <BurnWeapon.description>TODO</BurnWeapon.description>
+  <BurnWeapon.description>Verbrand ongewenste wapens om ze volledig te vernietigen.</BurnWeapon.description>
   <!-- EN: Burning weapon. -->
-  <BurnWeapon.jobString>TODO</BurnWeapon.jobString>
+  <BurnWeapon.jobString>Wapen verbranden</BurnWeapon.jobString>
   
   <!-- EN: cremate corpse -->
-  <CremateCorpse.label>cremeer een lichaam</CremateCorpse.label>
+  <CremateCorpse.label>cremeer een lijk</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
-  <CremateCorpse.description>Cremeer een lichaam, om er voorgoed vanaf te zijn.</CremateCorpse.description>
+  <CremateCorpse.description>Cremeer een lijk, om er voorgoed vanaf te zijn.</CremateCorpse.description>
   <!-- EN: Cremating. -->
-  <CremateCorpse.jobString>Lichaam cremeren.</CremateCorpse.jobString>
+  <CremateCorpse.jobString>Lijk cremeren.</CremateCorpse.jobString>
   
 </LanguageData>

@@ -2,68 +2,68 @@
 <LanguageData>
   
   <!-- EN: deep drilling -->
-  <DeepDrilling.label>TODO</DeepDrilling.label>
+  <DeepDrilling.label>diepteboor</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>TODO</DeepDrilling.description>
+  <DeepDrilling.description>Bouw diepteboren om grondstoffen van onder de grond op te halen. Je hebt een dieptescanner nodig om een locatie met grondstoffen te vinden.</DeepDrilling.description>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>LCD televisie</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
-  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>Produceer LCD televisies met hoge resolutie voor meer kijkplezier.</FlatscreenTelevision.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>dieptescanner</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
-  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Bouw dieptescanners die onder de grond grondstoffen kan vinden voor een diepteboor. Vereist geavanceerde component om te bouwen.</GroundPenetratingScanner.description>
   
   <!-- EN: autocannon turret -->
-  <HeavyTurrets.label>TODO</HeavyTurrets.label>
+  <HeavyTurrets.label>zware automatische geschutskoepel</HeavyTurrets.label>
   <!-- EN: Produce the heavy autocannon turret. -->
-  <HeavyTurrets.description>TODO</HeavyTurrets.description>
+  <HeavyTurrets.description>Bouw de zware automatische geschutskoepel om de kolonie te verdedigen.</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>Ziekenbed</HospitalBed.label>
+  <HospitalBed.label>ziekenbed</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>Hiermee kun je ziekenbedden bouwen, die er voor zorgen dat de kans op een goede behandeling hoger is.</HospitalBed.description>
+  <HospitalBed.description>Maak ziekenbedden, die de kans op een goede behandeling verbeteren.</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>langeafstandsscanner</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Bouw langeafstandscanners om waardevolle grondstoffen te vinden over de hele planeet. Kan ingesteld worden om een specifieke grondstof te vinden. Vereist geavanceerde componenten om te bouwen.</LongRangeMineralScanner.description>
   
   <!-- EN: medicine production -->
-  <MedicineProduction.label>TODO</MedicineProduction.label>
+  <MedicineProduction.label>medicijnproductie</MedicineProduction.label>
   <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
-  <MedicineProduction.description>TODO</MedicineProduction.description>
+  <MedicineProduction.description>Produceer standaard industriëel technologie-niveau medicijnen uit een combinatie van kruidenmedicijnen, neutroamine en stof.</MedicineProduction.description>
   
   <!-- EN: microelectronics -->
-  <MicroelectronicsBasics.label>TODO</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.label>microelektronica</MicroelectronicsBasics.label>
   <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
-  <MicroelectronicsBasics.description>TODO</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>Werk met microelektronica. Dit ontgrendelt een hi-tech onderzoekstafel en de communicatie console.</MicroelectronicsBasics.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>TODO</MoisturePump.label>
+  <MoisturePump.label>vochtigheidsregulator</MoisturePump.label>
   <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
-  <MoisturePump.description>TODO</MoisturePump.description>
+  <MoisturePump.description>Maak vochtigheidsregulators, die langzaam het vocht in de grond om hen heen normaliseren. Ze kunnen natte ondergrond laten drogen en zacht zand in normaal zand omzetten.</MoisturePump.description>
   
   <!-- EN: multibarrel weapons -->
-  <MultibarrelWeapons.label>TODO</MultibarrelWeapons.label>
+  <MultibarrelWeapons.label>meerlopige wapens</MultibarrelWeapons.label>
   <!-- EN: Assemble miniguns. -->
-  <MultibarrelWeapons.description>TODO</MultibarrelWeapons.description>
+  <MultibarrelWeapons.description>Maak miniguns.</MultibarrelWeapons.description>
   
   <!-- EN: precision rifling -->
-  <PrecisionRifling.label>TODO</PrecisionRifling.label>
+  <PrecisionRifling.label>Precisiewapens</PrecisionRifling.label>
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
-  <PrecisionRifling.description>TODO</PrecisionRifling.description>
+  <PrecisionRifling.description>Maak nauwkeurig gemachineerde wapens zoals stormgeweren en scherpschuttersgeweren</PrecisionRifling.description>
   
   <!-- EN: shield belt -->
-  <ShieldBelt.label>TODO</ShieldBelt.label>
+  <ShieldBelt.label>schildriem</ShieldBelt.label>
   <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
-  <ShieldBelt.description>TODO</ShieldBelt.description>
+  <ShieldBelt.description>Bouw schildriemen, die gebruik maken van momentumblokkade-technologie om inkomende en uitgaande schoten te blokkeren.</ShieldBelt.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>TODO</TransportPod.label>
+  <TransportPod.label>transportcapsule</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
-  <TransportPod.description>TODO</TransportPod.description>
+  <TransportPod.description>Bouw een lanceerbare transportcapsule die je kunt gebruiken om mensen en voorraden over lange afstand te vervoeren. Kan worden gebruikt om te overvallen, reizen, giften te sturen en meer.</TransportPod.description>
   
 </LanguageData>

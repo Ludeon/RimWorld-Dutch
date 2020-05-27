@@ -11,11 +11,11 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Extreme kans op inzinking</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>De volgende kolonisten zijn in een slecht humear en kunnen elk moment een kleine mentale inzinking krijgen:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>De volgende kolonisten zijn in een slecht humeur en kunnen elk moment een kleine mentale inzinking krijgen:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
   <BreakRiskMajorDesc>De volgende kolonisten zijn in een erg slecht humeur en kunnen elk moment een grote mentale inzinking krijgen:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>De volgende kolonisten zijn zwaar gestressed en kunnen elk moment een extreme (en mogelijk geweldadige) mentale inzinking krijgen:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>De volgende kolonisten zijn zwaar gestresst en kunnen elk moment een extreme (en mogelijk geweldadige) mentale inzinking krijgen:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Bekijk deze kolonisten hun behoeften tabblad om te zien wat het stoort.\n\n Om deze kolonisten zich beter te laten voelen kun je dingen doen zoals ze een sjieke maaltijd geven, meer recreatie uren per dag en mooiere recreatie objecten geven, ze in een mooie ruimte plaatsen, laat ze drinken en roken, en nog veel meer.</BreakRiskDescEnding>
 

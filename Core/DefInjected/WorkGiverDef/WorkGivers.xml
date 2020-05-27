@@ -303,11 +303,11 @@
   <DoExecution.verb>TODO</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
-  <Drill.label>TODO</Drill.label>
+  <Drill.label>boren met diepteboor</Drill.label>
   <!-- EN: drilling -->
-  <Drill.gerund>TODO</Drill.gerund>
+  <Drill.gerund>boren</Drill.gerund>
   <!-- EN: drill -->
-  <Drill.verb>TODO</Drill.verb>
+  <Drill.verb>boor</Drill.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>TODO</FeedPrisoner.label>

@@ -84,7 +84,7 @@
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Schildriemen</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>Schildriemen voorkomen afstandsaanvallen van binnenkomende en uitgaande aanvallen. Ze hebben geen effect op aanvallen van dichtbij. In de strijd tegen schildriemen, concentreer je ofwel veel geschutsvuur op het doelwit, of vecht je van hand tot hand.O</ShieldBelts.helpText>
+  <ShieldBelts.helpText>Schildriemen blokkeren zowel binnenkomende als uitgaande schoten. Ze hebben geen effect op melee aanvallen.\n\nIn de strijd tegen schildriemen, concentreer je ofwel veel geschutsvuur op het doelwit, of vecht in melee.</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>TV voor zieke mensen</TVForSickPeople.label>

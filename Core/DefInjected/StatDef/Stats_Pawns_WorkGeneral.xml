@@ -22,9 +22,9 @@
   <ConstructSuccessChance.description>TODO</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
-  <DeepDrillingSpeed.label>TODO</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.label>diepteboorsnelheid</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>TODO</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>De snelheid waarmee deze persoon de diepteboor gebruikt om ondergrondse reserves te delven.</DeepDrillingSpeed.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>TODO</FixBrokenDownBuildingSuccessChance.label>
@@ -42,9 +42,9 @@
   <MiningSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan delven.</MiningSpeed.description>
   
   <!-- EN: mining yield -->
-  <MiningYield.label>TODO</MiningYield.label>
+  <MiningYield.label>opbrengst</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
-  <MiningYield.description>TODO</MiningYield.description>
+  <MiningYield.description>Het percentage van gedolven grondstoffen die een delver zal produceren.\n\nDit geldt voor zowel normaal delven als diepteboren.\nDit heeft geen effect op het genereren van rotsblokken door diepteboren.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>TODO</PlantHarvestYield.label>

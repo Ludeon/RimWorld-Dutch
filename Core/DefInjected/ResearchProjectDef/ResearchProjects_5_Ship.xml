@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: starflight basics -->
-  <ShipBasics.label>Schipbouwkunst</ShipBasics.label>
+  <ShipBasics.label>basisruimtevaart</ShipBasics.label>
   <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
-  <ShipBasics.description>Hiermee kun je het begin van je ruimteschip bouwen.</ShipBasics.description>
+  <ShipBasics.description>Bouw de structurele en ondersteunende elementen van een ruimteschip. Dit is de eerste stap naar het verlaten van de planeet.</ShipBasics.description>
   <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nMany desperate souls want off this planet. Ship reactors take 15 days to charge up. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures for their own mysterious reasons.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
-  <ShipBasics.discoveredLetterText>TODO</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterText>De planeet ontsnappen - eindelijk vrij, en misschien een weg naar huis.\n\nMaar ook ontzettend gevaarlijk.\n\nEen hoop wanhopige zielen willen deze planeet verlaten. Het kost 15 dagen om scheepsreactors op te laden. Zodra dit proces begint, zal de reactor een energiesignaal uitzenden dat van duizenden kilometers afstand detecteerbaar is. Piraten zullen je aanvallen met aantallen die je nooit eerder hebt gezien. Mechanoïden worden ook aangetrokken door dergelijke energiesignalen, om onduidelijke redenen.\n\nDit zal niet beginnnen voordat je de scheepsreactor activeert, maar als het begint zal het brutaal zijn. Zorg ervoor dat je voldoende voedsel, wapens en verdeding hebt klaarstaan als je levend wilt ontsnappen.</ShipBasics.discoveredLetterText>
   <!-- EN: About: Launching the ship -->
-  <ShipBasics.discoveredLetterTitle>TODO</ShipBasics.discoveredLetterTitle>
+  <ShipBasics.discoveredLetterTitle>Over: Ruimteschip lanceren</ShipBasics.discoveredLetterTitle>
   
   <!-- EN: machine persuasion -->
-  <ShipComputerCore.label>Computer kern</ShipComputerCore.label>
+  <ShipComputerCore.label>machineovertuiging</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
-  <ShipComputerCore.description>Hiermee kun je een computerkern voor je schip bouwen, die je schip zal aansturen.</ShipComputerCore.description>
+  <ShipComputerCore.description>Bouw een beloningssignaal om een bestaande ai-personakern te verleiden de rol van kapitein op je ruimteschip over te nemen. Omdat mensen slapen tijdens interstellaire reizen, is een personakern nodig om complexe beslissingen te nemen tijdens de jarenlange vlucht.</ShipComputerCore.description>
   
   <!-- EN: vacuum cryptosleep casket -->
-  <ShipCryptosleep.label>Cryptoslaapcapsule</ShipCryptosleep.label>
+  <ShipCryptosleep.label>vacuüm cryptoslaapcapsule</ShipCryptosleep.label>
   <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
-  <ShipCryptosleep.description>Hiermee kun je Crypotslaapcapsules bouwen, waarin je kolonisten de lange reis zullen overleven.</ShipCryptosleep.description>
+  <ShipCryptosleep.description>Bouw versterkte crypotslaapcapsules, sterk genoeg om in een vacuüm te overleven, om mensen te transporteren op een jarenlange reis tussen sterren.</ShipCryptosleep.description>
   
   <!-- EN: Johnson-Tanaka drive -->
-  <ShipEngine.label>Antimaterie-motoren</ShipEngine.label>
+  <ShipEngine.label>Johnson-Tanaka motor</ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
-  <ShipEngine.description>Hiermee kun je de motoren van je schip bouwen.</ShipEngine.description>
+  <ShipEngine.description>Bouw een Johnson-Tanaka motor voor een ruimteschip. De JT motor gebruikt quantumeffecten om je momentum naar andere sterren te projecteren. Zoals met alle ruimteschepen, duurt het alsnog jaren voordat je ook maar ergens uitkomt.</ShipEngine.description>
   
   <!-- EN: starship reactor -->
-  <ShipReactor.label>Antimaterie-reactor</ShipReactor.label>
+  <ShipReactor.label>ruimteschip reactor</ShipReactor.label>
   <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
-  <ShipReactor.description>Hiermee kun je je antimaterie-motoren aandrijven.</ShipReactor.description>
+  <ShipReactor.description>Bouw een langetermijn nucleaire reactor om je ruimteschip van stroom te voorzien. Let op dat reactoren een lange opstartprocedure hebben, die piraten aantrekt.</ShipReactor.description>
   
   <!-- EN: starflight sensors -->
-  <ShipSensorCluster.label>TODO</ShipSensorCluster.label>
+  <ShipSensorCluster.label>interstellaire sensoren</ShipSensorCluster.label>
   <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
-  <ShipSensorCluster.description>TODO</ShipSensorCluster.description>
+  <ShipSensorCluster.description>Bouw langeafstand sensoren voor je ruimteschip. Deze sensoren zijn essentieel voor navigatie, communicatie en het ontwijken van gevaar.</ShipSensorCluster.description>
   
 </LanguageData>

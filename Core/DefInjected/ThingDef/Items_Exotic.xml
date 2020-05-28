@@ -2,47 +2,47 @@
 <LanguageData>
   
   <!-- EN: persona core -->
-  <AIPersonaCore.label>TODO</AIPersonaCore.label>
+  <AIPersonaCore.label>personakern</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
-  <AIPersonaCore.description>TODO</AIPersonaCore.description>
+  <AIPersonaCore.description>Een hyper-geavanceerde computerkern die een AI huist die zich kan meten met de slimste mensen. In geïsoleerde staat zal de kern in slaapstand gaan. Eenmaal geïnstalleerd in een ondersteunende structuur kan het verstand echter snel groeien.</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
-  <ElephantTusk.label>TODO</ElephantTusk.label>
+  <ElephantTusk.label>olifantslagtand</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
-  <ElephantTusk.description>TODO</ElephantTusk.description>
+  <ElephantTusk.description>De slagtand van een olifant. Het is heel duurzaam en waardevol. Alhoewel erg groot voor een melee-wapen, kan het alsnog dodelijk zijn.</ElephantTusk.description>
   <!-- EN: point -->
-  <ElephantTusk.tools.point.label>TODO</ElephantTusk.tools.point.label>
+  <ElephantTusk.tools.point.label>punt</ElephantTusk.tools.point.label>
   <!-- EN: base -->
-  <ElephantTusk.tools.base.label>TODO</ElephantTusk.tools.base.label>
+  <ElephantTusk.tools.base.label>basis</ElephantTusk.tools.base.label>
   
   <!-- EN: healer mech serum -->
-  <MechSerumHealer.label>TODO</MechSerumHealer.label>
+  <MechSerumHealer.label>gezondheidsmechserum</MechSerumHealer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
-  <MechSerumHealer.description>TODO</MechSerumHealer.description>
+  <MechSerumHealer.description>Een éénmalige superdosis van mechanieten afgesteld om medische condities te genezen. De mechanieten zullen de ergste medische conditie van de gebruiker genezen. Werkt zelfs op condities die niet op een andere manier te genezen zijn. De mechanieten kunnen zichzelf omzetten in organische structuren, om te functioneren als nieuwe ledematen of organen.</MechSerumHealer.description>
   <!-- EN: Use healer mech serum -->
-  <MechSerumHealer.comps.CompUsable.useLabel>TODO</MechSerumHealer.comps.CompUsable.useLabel>
+  <MechSerumHealer.comps.CompUsable.useLabel>Gebruik gezondheidsmechserum</MechSerumHealer.comps.CompUsable.useLabel>
   
   <!-- EN: resurrector mech serum -->
-  <MechSerumResurrector.label>TODO</MechSerumResurrector.label>
+  <MechSerumResurrector.label>herrijzenismechserum</MechSerumResurrector.label>
   <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
-  <MechSerumResurrector.description>TODO</MechSerumResurrector.description>
+  <MechSerumResurrector.description>Een éénmalige superdosis van mechanieten afgesteld om doden te laten herrijzen. Wanneer toegediend aan een lijk, zullen de mechanieten afgebroken weefsel herstellen, het hart herstarten en het lichaam weer tot leven brengen. Helaas komen de herrezenen soms terug met hersenschade, blindheid of een progressieve psychose. Hoe verser het lijk, hoe beter het proces werkt. Als een lijk goed wordt bewaard, kan het lang na overlijden nog herrezen worden.</MechSerumResurrector.description>
   <!-- EN: Use resurrector mech serum -->
-  <MechSerumResurrector.comps.CompUsable.useLabel>TODO</MechSerumResurrector.comps.CompUsable.useLabel>
+  <MechSerumResurrector.comps.CompUsable.useLabel>Gebruik herrijzenismechserum</MechSerumResurrector.comps.CompUsable.useLabel>
   
   <!-- EN: techprof subpersona core -->
-  <TechprofSubpersonaCore.label>TODO</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.label>techprofessor subpersonakern</TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
-  <TechprofSubpersonaCore.description>TODO</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.description>Een kleine AI behuizing met eenvoudige subpersonakern, gespecialiseerd in het onderwijzen van technologie. Bij gebruik zal de AI je huidige onderzoeksonderwerp ineens voltooien. Kan éénmalig gebruikt worden.</TechprofSubpersonaCore.description>
   <!-- EN: Use techprof subpersona core -->
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>TODO</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>techprofessor subpersonakern</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   
   <!-- EN: thrumbo horn -->
-  <ThrumboHorn.label>TODO</ThrumboHorn.label>
+  <ThrumboHorn.label>drumbohoorn</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
-  <ThrumboHorn.description>TODO</ThrumboHorn.description>
+  <ThrumboHorn.description>De hoorn van een drumbo. Het is vlijmscherp, keihard en onbetaalbaar op de vrije markt. Het is een echte trofee, en een dodelijk melee-wapen.</ThrumboHorn.description>
   <!-- EN: point -->
-  <ThrumboHorn.tools.point.label>TODO</ThrumboHorn.tools.point.label>
+  <ThrumboHorn.tools.point.label>punt</ThrumboHorn.tools.point.label>
   <!-- EN: base -->
-  <ThrumboHorn.tools.base.label>TODO</ThrumboHorn.tools.base.label>
+  <ThrumboHorn.tools.base.label>basis</ThrumboHorn.tools.base.label>
   
 </LanguageData>

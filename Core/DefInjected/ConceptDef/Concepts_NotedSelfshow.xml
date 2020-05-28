@@ -124,7 +124,7 @@
   <!-- EN: Mining -->
   <Mining.label>Mijnbouw</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>Je kunt aangeven waar je de mijnbouw wilt uitvoeren door het BOUWmenu te openen en het tabblad OPDRACHTEN te selecteren.\n\nSommige winbare blokken leveren STAAL, GOUD, PLASTEEL en andere nuttige materialen.</Mining.helpText>
+  <Mining.helpText>Je kunt aangeven waar je de mijnbouw wilt uitvoeren door het BOUWmenu te openen en het tabblad OPDRACHTEN te selecteren.\n\nSommige winbare blokken leveren STAAL, GOUD, PLASTAAL en andere nuttige materialen.</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>Outfits</Outfits.label>

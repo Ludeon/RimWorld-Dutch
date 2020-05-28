@@ -4,24 +4,34 @@
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
   -->
-  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>TODO</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] accepteerde, en de twee zijn nu verloofd.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
   -->
-  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>TODO</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] wees het aanzoek af.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
   -->
-  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>TODO</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->Het vroeg te veel van de relatie om door te gaan, en ze zijn nu uit elkaar.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
     <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
     <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
   -->
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>TODO</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] voelde zich aangetrokken en is nu [INITIATOR_nameDef]'s lief.</li>
+    <li>sent->[RECIPIENT_nameDef] reageerde positief en is nu [INITIATOR_nameDef]'s lief.</li>
+    <li>sent->[RECIPIENT_nameDef] werd opgewonden en stemde in om [INITIATOR_nameDef]'s lief te worden.</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
@@ -32,6 +42,14 @@
     <li>sent->[RECIPIENT_nameDef] did not respond.</li>
     <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
   -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>TODO</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] wees de avances af.</li>
+    <li>sent->[RECIPIENT_nameDef] negeerde de avance.</li>
+    <li>sent->[RECIPIENT_nameDef] wees [RECIPIENT_possessive] terug.</li>
+    <li>sent->[RECIPIENT_nameDef] draaide zich om.</li>
+    <li>sent->[RECIPIENT_nameDef] gaf een minimale reactie.</li>
+    <li>sent->[RECIPIENT_nameDef] reageerde niet.</li>
+    <li>sent->[RECIPIENT_nameDef] wees [INITIATOR_objective] af.</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

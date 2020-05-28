@@ -17,70 +17,70 @@
   <Gold.description>TODO</Gold.description>
   
   <!-- EN: hyperweave -->
-  <Hyperweave.label>TODO</Hyperweave.label>
+  <Hyperweave.label>hyperweefsel</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>TODO</Hyperweave.description>
+  <Hyperweave.description>Nanovezels worden molecuul voor molecuul in elkaar geweven met speciale productiemechanieten. Alhoewel het over het algemeen vrije beweging toelaat, verstijft het om klappen te absorberen, en is erg moeilijk te breken. Het productieproces is een goed bewaard geheim en alleen bekend op de meest geavanceerde glitterwerelden.</Hyperweave.description>
   
   <!-- EN: jade -->
-  <Jade.label>TODO</Jade.label>
+  <Jade.label>jade</Jade.label>
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
-  <Jade.description>TODO</Jade.description>
+  <Jade.description>Een harde groene steen. Vanwege de zeldzaamheid en schoonheid wordt jade vaak gebruikt voor ornamenten en decoratie. Vanwege de hardheid en dichtheid is het ook een goed materiaal voor stompe wapens.</Jade.description>
   
   <!-- EN: plasteel -->
-  <Plasteel.label>TODO</Plasteel.label>
+  <Plasteel.label>plastaal</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>TODO</Plasteel.description>
+  <Plasteel.description>Geavanceerde materiaal gemaakt met ruimtetechnologie. Plastaal is erg sterk vanwege zijn unieke moleculaire structuur.</Plasteel.description>
   
   <!-- EN: silver -->
-  <Silver.label>TODO</Silver.label>
+  <Silver.label>zilver</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
-  <Silver.description>TODO</Silver.description>
+  <Silver.description>Dit metaal wordt meestal gebruikt als munteenheid. Het kan ook worden gebruikt als decoratie.</Silver.description>
   
   <!-- EN: steel -->
-  <Steel.label>TODO</Steel.label>
+  <Steel.label>staal</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>TODO</Steel.description>
+  <Steel.description>Een legering van ijzer en koolstof, gebruikt in allerlei constructie, van gebouwen tot wapens en machines.</Steel.description>
   
   <!-- EN: synthread -->
-  <Synthread.label>TODO</Synthread.label>
+  <Synthread.label>syndraad</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>TODO</Synthread.description>
+  <Synthread.description>Ruimtetechnologisch synthetische stof, ontwikkeld om gewone kleding van te maken. Het is zacht, licht, sterk en isoleert goed.</Synthread.description>
   
   <!-- EN: uranium -->
-  <Uranium.label>TODO</Uranium.label>
+  <Uranium.label>uranium</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>TODO</Uranium.description>
+  <Uranium.description>Een donker, zwaar metaal. Alhoewel het vooral bekend is als brandstof voor nucleaire apparaten, is het vanwege zijn hoge dichtheid en hardheid ook uitstekend geschikt om wapens, bepantsering en munitie te maken.</Uranium.description>
   
   <!-- EN: wood -->
-  <WoodLog.label>TODO</WoodLog.label>
+  <WoodLog.label>hout</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>TODO</WoodLog.description>
+  <WoodLog.description>Hout van bomen of andere vezelrijke planten. Nuttig om gebouwen en wapens te bouwen. Het een goede brandstof voor kampvuren en generators, en kan zelfs worden geraffineerd tot chemische brandstof. In geval van nood kan hout worden gebruikt als wapen of als been.</WoodLog.description>
   <!-- EN: log -->
-  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
+  <WoodLog.tools.log.label>blok</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
-  <WoolAlpaca.label>TODO</WoolAlpaca.label>
+  <WoolAlpaca.label>alpacawol</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>TODO</WoolAlpaca.description>
+  <WoolAlpaca.description>De opmerkelijk zachte wol van een alpaca. Het is heel warm.</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>TODO</WoolBison.label>
+  <WoolBison.label>bisonwol</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>TODO</WoolBison.description>
+  <WoolBison.description>Dikke en grove wol van een bison. Best warm.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
-  <WoolMegasloth.label>TODO</WoolMegasloth.label>
+  <WoolMegasloth.label>megaluiaardwol</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>TODO</WoolMegasloth.description>
+  <WoolMegasloth.description>De lange vezels van megaluiaardwol maken het erg sterk, maar wel een beetje grof. Het is uitzonderlijk warm.</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
-  <WoolMuffalo.label>TODO</WoolMuffalo.label>
+  <WoolMuffalo.label>muffelwol</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>TODO</WoolMuffalo.description>
+  <WoolMuffalo.description>Zacht, licht en isoleert goed. Kleding van muffelwol kan het lichaam warm houden in de koudste omgevingen.</WoolMuffalo.description>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>TODO</WoolSheep.label>
+  <WoolSheep.label>schaapswol</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>TODO</WoolSheep.description>
+  <WoolSheep.description>Wol van een schaap, het isolateert goed.</WoolSheep.description>
   
 </LanguageData>

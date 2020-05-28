@@ -2,57 +2,57 @@
 <LanguageData>
   
   <!-- EN: advanced fabrication -->
-  <AdvancedFabrication.label>TODO</AdvancedFabrication.label>
+  <AdvancedFabrication.label>geavanceerd fabrieksproces</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>TODO</AdvancedFabrication.description>
+  <AdvancedFabrication.description>Maak geavanceerde componenten van standaardcomponenten en ander materiaal</AdvancedFabrication.description>
   
   <!-- EN: bionic replacements -->
-  <Bionics.label>TODO</Bionics.label>
+  <Bionics.label>bionische prothesen</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
-  <Bionics.description>TODO</Bionics.description>
+  <Bionics.description>Bouw high-tech bionische lichaamsdelen om verloren ledematen en ogen te vervangen. Vereist een goede dokter om te implanteren.</Bionics.description>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>TODO</ChargedShot.label>
+  <ChargedShot.label>impulsgeladen munitie</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>TODO</ChargedShot.description>
+  <ChargedShot.description>Bouw wapens die impulsgeladen munitie gebruiken voor extra schade. Let op dat deze ook geavanceerde componenten vereisen.</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>TODO</Cryptosleep.label>
+  <Cryptosleep.label>cryptoslaapsarcofaag</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>TODO</Cryptosleep.description>
+  <Cryptosleep.description>Bouw cryptoslaapsarcofagen die een levend wezen oneindig in een kunstmatige winterslaap kunnen houden.</Cryptosleep.description>
   
   <!-- EN: fabrication -->
-  <Fabrication.label>TODO</Fabrication.label>
+  <Fabrication.label>fabricatie</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>TODO</Fabrication.description>
+  <Fabrication.description>Bouw fabriekswerkstations die high-tech producten kunnen maken, van componenten tot krachtharnassen.</Fabrication.description>
   <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
-  <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterText>Je hebt nu de technologie om een fabriekswerkstation te bouwen - maar het vereist ook geavanceerde componenten om te beginnen. Je kunt geavanceerde coponenten op verschillende manieren verzamelen:\n\n  -Alle buitenstaander-nederzettingen verkopen geavanceerde componenten, stuur een karavaan om ze te kopen.\n  -Bezoekende handelaars verkopen geavanceerde componenten. Nodig ze uit of wacht tot ze vanzelf langskomen.\n  -Sommige opdrachten geven geavanceerde componenten als beloning.</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
-  <Fabrication.discoveredLetterTitle>TODO</Fabrication.discoveredLetterTitle>
+  <Fabrication.discoveredLetterTitle>Over: Verzamelen van geavanceerde componenten</Fabrication.discoveredLetterTitle>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
+  <MultiAnalyzer.label>multi-analysator</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Bouw multi-analysators om onderzoekssnelheid te verbeteren, en een hoger niveau onderzoeksprojecten te starten.</MultiAnalyzer.description>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>TODO</PoweredArmor.label>
+  <PoweredArmor.label>marineharnas</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>TODO</PoweredArmor.description>
+  <PoweredArmor.description>Maak een marineharnas, normaal gebruikt door high-tech schoktroepen. Let op: vereist geavanceerde componenten.</PoweredArmor.description>
   
   <!-- EN: recon armor -->
-  <ReconArmor.label>TODO</ReconArmor.label>
+  <ReconArmor.label>verkennersharnas</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
-  <ReconArmor.description>TODO</ReconArmor.description>
+  <ReconArmor.description>Maak een verkennersharnas, een licht harnas gebruikt door verkenners die bescherming nodig hebben die hun bewegingsvrijheid niet beperkt. Let op: vereist geavanceerde componenten.</ReconArmor.description>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>TODO</SniperTurret.label>
+  <SniperTurret.label>Uraniumgeschutskoepel</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>TODO</SniperTurret.description>
+  <SniperTurret.description>Produceer geschutskoepels die bepantsering doorbreken door te schieten met uranium. Het schiet stukken uranium, die door plastaal scheuren alsof het papier is, maar minder effectief zijn op korte afstand.</SniperTurret.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>TODO</VitalsMonitor.label>
+  <VitalsMonitor.label>patiëntmonitor</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>TODO</VitalsMonitor.description>
+  <VitalsMonitor.description>Bouw een patiëntmonitor die het resultaat van medische ingrepen verbetert wanneer hij naast een ziekenbed staat.</VitalsMonitor.description>
   
 </LanguageData>

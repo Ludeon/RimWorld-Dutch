@@ -2,75 +2,75 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>TODO</Beauty.label>
+  <Beauty.label>schoonheid</Beauty.label>
   <!-- EN: very beautiful -->
-  <Beauty.scoreStages.very_beautiful.label>TODO</Beauty.scoreStages.very_beautiful.label>
+  <Beauty.scoreStages.very_beautiful.label>heel mooi</Beauty.scoreStages.very_beautiful.label>
   <!-- EN: extremely beautiful -->
-  <Beauty.scoreStages.extremely_beautiful.label>TODO</Beauty.scoreStages.extremely_beautiful.label>
+  <Beauty.scoreStages.extremely_beautiful.label>prachtig</Beauty.scoreStages.extremely_beautiful.label>
   <!-- EN: unbelievably beautiful -->
-  <Beauty.scoreStages.unbelievably_beautiful.label>TODO</Beauty.scoreStages.unbelievably_beautiful.label>
+  <Beauty.scoreStages.unbelievably_beautiful.label>ongelooflijk mooi</Beauty.scoreStages.unbelievably_beautiful.label>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>TODO</Cleanliness.label>
+  <Cleanliness.label>netheid</Cleanliness.label>
   <!-- EN: very dirty -->
-  <Cleanliness.scoreStages.very_dirty.label>TODO</Cleanliness.scoreStages.very_dirty.label>
+  <Cleanliness.scoreStages.very_dirty.label>heel vies</Cleanliness.scoreStages.very_dirty.label>
   <!-- EN: slightly dirty -->
-  <Cleanliness.scoreStages.slightly_dirty.label>TODO</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.slightly_dirty.label>een beetje vies</Cleanliness.scoreStages.slightly_dirty.label>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
+  <FoodPoisonChance.label>voedselvergiftigingskans</FoodPoisonChance.label>
   
   <!-- EN: grave visiting recreation factor -->
-  <GraveVisitingJoyGainFactor.label>TODO</GraveVisitingJoyGainFactor.label>
+  <GraveVisitingJoyGainFactor.label>grafbezoekrecreatiefactor</GraveVisitingJoyGainFactor.label>
   
   <!-- EN: impressiveness -->
-  <Impressiveness.label>TODO</Impressiveness.label>
+  <Impressiveness.label>indrukwekkendheid</Impressiveness.label>
   <!-- EN: slightly impressive -->
-  <Impressiveness.scoreStages.slightly_impressive.label>TODO</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>licht indrukwekkend</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
-  <Impressiveness.scoreStages.somewhat_impressive.label>TODO</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>een beetje indrukwekkend</Impressiveness.scoreStages.somewhat_impressive.label>
   <!-- EN: very impressive -->
-  <Impressiveness.scoreStages.very_impressive.label>TODO</Impressiveness.scoreStages.very_impressive.label>
+  <Impressiveness.scoreStages.very_impressive.label>indrukwekkend</Impressiveness.scoreStages.very_impressive.label>
   <!-- EN: extremely impressive -->
-  <Impressiveness.scoreStages.extremely_impressive.label>TODO</Impressiveness.scoreStages.extremely_impressive.label>
+  <Impressiveness.scoreStages.extremely_impressive.label>erg indrukwekkend</Impressiveness.scoreStages.extremely_impressive.label>
   <!-- EN: unbelievably impressive -->
-  <Impressiveness.scoreStages.unbelievably_impressive.label>TODO</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <Impressiveness.scoreStages.unbelievably_impressive.label>enorm indrukwekkend</Impressiveness.scoreStages.unbelievably_impressive.label>
   <!-- EN: wondrously impressive -->
-  <Impressiveness.scoreStages.wondrously_impressive.label>TODO</Impressiveness.scoreStages.wondrously_impressive.label>
+  <Impressiveness.scoreStages.wondrously_impressive.label>ongelooflijk indrukwekkend</Impressiveness.scoreStages.wondrously_impressive.label>
   
   <!-- EN: infection chance factor -->
-  <InfectionChanceFactor.label>TODO</InfectionChanceFactor.label>
+  <InfectionChanceFactor.label>infectiekansfactor</InfectionChanceFactor.label>
   
   <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>TODO</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>onderzoekssnelheidsfactor</ResearchSpeedFactor.label>
   
   <!-- EN: space -->
-  <Space.label>TODO</Space.label>
+  <Space.label>ruimte</Space.label>
   <!-- EN: rather tight -->
-  <Space.scoreStages.rather_tight.label>TODO</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.rather_tight.label>claustrofobisch</Space.scoreStages.rather_tight.label>
   <!-- EN: somewhat spacious -->
-  <Space.scoreStages.somewhat_spacious.label>TODO</Space.scoreStages.somewhat_spacious.label>
+  <Space.scoreStages.somewhat_spacious.label>een beetje ruimte</Space.scoreStages.somewhat_spacious.label>
   <!-- EN: quite spacious -->
-  <Space.scoreStages.quite_spacious.label>TODO</Space.scoreStages.quite_spacious.label>
+  <Space.scoreStages.quite_spacious.label>best ruimtelijk</Space.scoreStages.quite_spacious.label>
   <!-- EN: very spacious -->
-  <Space.scoreStages.very_spacious.label>TODO</Space.scoreStages.very_spacious.label>
+  <Space.scoreStages.very_spacious.label>erg ruimtelijk</Space.scoreStages.very_spacious.label>
   <!-- EN: extremely spacious -->
-  <Space.scoreStages.extremely_spacious.label>TODO</Space.scoreStages.extremely_spacious.label>
+  <Space.scoreStages.extremely_spacious.label>enorm ruimtelijk</Space.scoreStages.extremely_spacious.label>
   
   <!-- EN: surgery success chance cleanliness factor -->
-  <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>chirurgie succeskans door netheidsfactor</SurgerySuccessChanceCleanlinessFactor.label>
   
   <!-- EN: wealth -->
-  <Wealth.label>TODO</Wealth.label>
+  <Wealth.label>waarde</Wealth.label>
   <!-- EN: somewhat poor -->
-  <Wealth.scoreStages.somewhat_poor.label>TODO</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.somewhat_poor.label>armzalig</Wealth.scoreStages.somewhat_poor.label>
   <!-- EN: somewhat rich -->
-  <Wealth.scoreStages.somewhat_rich.label>TODO</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.somewhat_rich.label>een beetje rijk</Wealth.scoreStages.somewhat_rich.label>
   <!-- EN: very luxurious -->
-  <Wealth.scoreStages.very_luxurious.label>TODO</Wealth.scoreStages.very_luxurious.label>
+  <Wealth.scoreStages.very_luxurious.label>luxe</Wealth.scoreStages.very_luxurious.label>
   <!-- EN: extremely luxurious -->
-  <Wealth.scoreStages.extremely_luxurious.label>TODO</Wealth.scoreStages.extremely_luxurious.label>
+  <Wealth.scoreStages.extremely_luxurious.label>erg luxe</Wealth.scoreStages.extremely_luxurious.label>
   <!-- EN: unbelievably luxurious -->
-  <Wealth.scoreStages.unbelievably_luxurious.label>TODO</Wealth.scoreStages.unbelievably_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>enorm luxe</Wealth.scoreStages.unbelievably_luxurious.label>
   
 </LanguageData>

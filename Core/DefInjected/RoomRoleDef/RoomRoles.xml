@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: barn -->
-  <Barn.label>TODO</Barn.label>
+  <Barn.label>stal</Barn.label>
   
   <!-- EN: barracks -->
-  <Barracks.label>TODO</Barracks.label>
+  <Barracks.label>barak</Barracks.label>
   
   <!-- EN: bedroom -->
-  <Bedroom.label>TODO</Bedroom.label>
+  <Bedroom.label>slaapkamer</Bedroom.label>
   
   <!-- EN: dining room -->
-  <DiningRoom.label>TODO</DiningRoom.label>
+  <DiningRoom.label>eetkamer</DiningRoom.label>
   
   <!-- EN: hospital -->
-  <Hospital.label>TODO</Hospital.label>
+  <Hospital.label>ziekenhuis</Hospital.label>
   
   <!-- EN: kitchen -->
-  <Kitchen.label>TODO</Kitchen.label>
+  <Kitchen.label>keuken</Kitchen.label>
   
   <!-- EN: laboratory -->
-  <Laboratory.label>TODO</Laboratory.label>
+  <Laboratory.label>laboratorium</Laboratory.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>geen</None.label>
   
   <!-- EN: prison barracks -->
-  <PrisonBarracks.label>TODO</PrisonBarracks.label>
+  <PrisonBarracks.label>gevangenenbarak</PrisonBarracks.label>
   
   <!-- EN: prison cell -->
-  <PrisonCell.label>TODO</PrisonCell.label>
+  <PrisonCell.label>gevangeniscel</PrisonCell.label>
   
   <!-- EN: rec room -->
-  <RecRoom.label>TODO</RecRoom.label>
+  <RecRoom.label>recreatieruimte</RecRoom.label>
   
   <!-- EN: room -->
-  <Room.label>TODO</Room.label>
+  <Room.label>kamer</Room.label>
   
   <!-- EN: tomb -->
-  <Tomb.label>TODO</Tomb.label>
+  <Tomb.label>tombe</Tomb.label>
   
   <!-- EN: workshop -->
-  <Workshop.label>TODO</Workshop.label>
+  <Workshop.label>werkplaats</Workshop.label>
   
 </LanguageData>

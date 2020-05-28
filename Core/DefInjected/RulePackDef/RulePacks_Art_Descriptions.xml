@@ -9,13 +9,23 @@
     <li>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</li>
     <li>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</li>
   -->
-  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings>TODO</ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->Dit [depiction] refereert aan [tale_noun] op [DATE].</li>
+    <li>context_sentence->Dit [depiction] is gerelateerd aan [tale_noun] op [DATE].</li>
+    <li>context_sentence->Dit [depiction] vertelt het verhaal van [tale_noun] op [DATE].</li>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_art_description->[physical_description_root]</li>
     <li>desc_sentence_group->[style_group]</li>
   -->
-  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>TODO</ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
   
   <!-- EN:
     <li>style_group->[artextra_clause]. [style_clause].</li>
@@ -190,6 +200,177 @@
     <li>artstyle_adj->sensual</li>
     <li>artstyle_adj->heartfelt</li>
   -->
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings>TODO</ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings><li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->als een interessant contrast,</li>
+    <li>artconjunction->rondt het werk af,</li>
+    <li>artconjunction->en daarbij nog,</li>
+    <li>artconjunction->opmerkelijk,</li>
+    <li>artconjunction->provocatief,</li>
+    <li>artconjunction->ongebruikelijk, voor dit type werk,</li>
+    <li>artconjunction->alhoewel weinigen het zouden verwachten,</li>
+    <li>artconjunction->daarnaast,</li>
+    <li>artextra_clause->het beeld wordt omringd door [subimageplural]</li>
+    <li>artextra_clause->aan het eind van het beeld zijn [subimageplural]</li>
+    <li>artextra_clause->er is [subimagesingle] [side_position]</li>
+    <li>artextra_clause->de onderwerpen zijn voor [subimageany]</li>
+    <li>artextra_clause->het onderste deel van het beeld wordt gedomineerd door [subimageany]</li>
+    <li>artextra_clause->de scène vindt plaats in het midden van een [Community]</li>
+    <li>artextra_clause->de scène vindt plaats aan de rand van een [Community]</li>
+    <li>artextra_clause->de scène vindt plaats in een [Community] gebouwd bij een [TerrainFeature]</li>
+    <li>artextra_clause->een [Character] [idles] [side_position]</li>
+    <li>artextra_clause->een [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character]s lijken [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s lijken [side_position]</li>
+    <li>artextra_clause->een [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->als je je ogen dichtknijpt, zie je in de [composition] compositie van het beeld de beeltenis van [subimageany]</li>
+    <li>artextra_clause->het [emotional_expression] hoofd van een [PAWN_adj] [PersonJob] waakt over alles</li>
+    <li>artextra_clause->een [PAWN_adj] [PersonJob] waakt over alles met [emotional_expression]</li>
+    <li>artextra_clause->het hoofd van een [PAWN_adj] [PersonJob] waakt over alles</li>
+    <li>artextra_clause->het hele beeld wordt uitgebeeld door een nauwkeurige plaatsing van [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->een [Character]</li>
+    <li>subimagesingle->een [TerrainFeature]</li>
+    <li>subimagesingle->een [Community]</li>
+    <li>subimagesingle->een [TreeType]boom</li>
+    <li>subimagesingle->een [Vegetable]</li>
+    <li>subimagesingle->een [AnimalGroup] van [Animal]en</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape]s</li>
+    <li>pawn_adj->dood</li>
+    <li>pawn_adj->stervende</li>
+    <li>pawn_adj->verwonde</li>
+    <li>pawn_adj->slapende</li>
+    <li>pawn_adj->staande</li>
+    <li>pawn_adj->zittende</li>
+    <li>pawn_adj->geestoorde</li>
+    <li>pawn_adj->jonge</li>
+    <li>pawn_adj->oude</li>
+    <li>pawn_adj->[Gore]-bedekte</li>
+    <li>pawn_adj->vieze</li>
+    <li>pawn_adj->[Apparel]-dragende</li>
+    <li>pawn_adj->[Weapon]-dragende</li>
+    <li>pawn_adj->[Vegetable]-etende</li>
+    <li>emotional_expression->smiling</li>
+    <li>emotional_expression->frowning</li>
+    <li>emotional_expression->scowling</li>
+    <li>emotional_expression->laughing</li>
+    <li>emotional_expression->staring</li>
+    <li>emotional_expression->crying</li>
+    <li>emotional_expression->screaming</li>
+    <li>emotional_expression->overjoyed</li>
+    <li>idles->zit</li>
+    <li>idles->staat</li>
+    <li>idles->wacht</li>
+    <li>idles->lacht</li>
+    <li>idles->ligt</li>
+    <li>idles->poseert</li>
+    <li>idles->verschijnt</li>
+    <li>idles->wordt getoond</li>
+    <li>idles->vervaagt in</li>
+    <li>idles->zweeft</li>
+    <li>side_position->aan één kant</li>
+    <li>side_position->in de achtergrond</li>
+    <li>side_position->in de verte</li>
+    <li>side_position->in het onderste deel van het beeld</li>
+    <li>side_position->in bovenste deel van het beeld</li>
+    <li>side_position->links van de hoofdscène</li>
+    <li>side_position->rechts van de hoofdscène</li>
+    <li>side_position->in de hoek van het beeld</li>
+    <li>side_position->bij het hoofdonderwerp</li>
+    <li>side_position->ver van het hoofdonderwerp</li>
+    <li>side_position->onder het hoofdonderwerp</li>
+    <li>side_position->achter het focuspunt</li>
+    <li>style_clause(p=4)->het werk [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
+    <li>style_clause->het werk is doordrenkt met het idee van [ConceptAny] en is gemaakt in een [artstyle_adj] stijl</li>
+    <li>style_clause->het werk is uitgevoerd in een [artstyle_adj] stijl</li>
+    <li>style_clause->de [artstyle_adj] stijl van de centrale scène vloekt met de [artstyle_adj] vertoning van de achtergrond</li>
+    <li>style_clause->het werk heeft een [artstyle_adj] gevoel en een [composition] structuur</li>
+    <li>style_clause->de algemene compositie is [composition]</li>
+    <li>style_clause->de stijl is [artstyle_adj] met [artstyle_adj] elementen</li>
+    <li>style_clause->op de een of andere manier drukt het beeld zowel [ConceptAny] als [ConceptAny] uit</li>
+    <li>style_clause->het beel schept een contrast tussen [ConceptAny] en [ConceptAny]</li>
+    <li>style_clause->de [composition] structuur van het beeld vloekt bijna met zijn [artstyle_adj] stijl</li>
+    <li>style_clause->het werk is gekleurd in tinten van [Color] en [Color]</li>
+    <li>style_clause->bijna elke vorm in het beeld lijkt een [composition]</li>
+    <li>symbolizes->symboliseert</li>
+    <li>symbolizes->lijkt te symboliseren</li>
+    <li>symbolizes->vertegenwoordigt</li>
+    <li>symbolizes->lijkt te vertegenwoordigen</li>
+    <li>symbolizes->lijkt uit te drukken</li>
+    <li>symbolizes->herinnert de kijker aan</li>
+    <li>symbolizes->deelt de emotie van</li>
+    <li>symbolizes->laat de kijker denken aan</li>
+    <li>symbolizes->vertegenwoordigt de gedachten van de artiest over</li>
+    <li>symbolizes->suggereert het concept</li>
+    <li>depicts->verbeeldt</li>
+    <li>depicts->toont</li>
+    <li>depicts->portretteert</li>
+    <li>depicts->lijkt op</li>
+    <li>depicts->illustreert</li>
+    <li>depicts->vertegenwoordigt</li>
+    <li>depicts->is gevormd als</li>
+    <li>depiction->verbeelding</li>
+    <li>depiction->beeld</li>
+    <li>depiction->portret</li>
+    <li>depiction->representatie</li>
+    <li>depiction->illustratie</li>
+    <li>depiction->kunstwerk</li>
+    <li>composition->driehoekig</li>
+    <li>composition->rechthoekig</li>
+    <li>composition->vierkant</li>
+    <li>composition->ongebalanceerd</li>
+    <li>composition->zeer gebalanceerd</li>
+    <li>composition->dynamisch</li>
+    <li>composition->statisch</li>
+    <li>composition->verticaal</li>
+    <li>composition->horizontaal</li>
+    <li>composition->gefocust</li>
+    <li>artstyle_adj->onoriginele</li>
+    <li>artstyle_adj->simpele</li>
+    <li>artstyle_adj->complexe en realistische</li>
+    <li>artstyle_adj->surrealistische</li>
+    <li>artstyle_adj->klassieke</li>
+    <li>artstyle_adj->moderne</li>
+    <li>artstyle_adj->symbolische</li>
+    <li>artstyle_adj->amateuristische, maar toch attractieve</li>
+    <li>artstyle_adj->detail-georiënteerde</li>
+    <li>artstyle_adj->blokkerige</li>
+    <li>artstyle_adj->cubistische</li>
+    <li>artstyle_adj->impressionistische</li>
+    <li>artstyle_adj->expressionistische</li>
+    <li>artstyle_adj->fotografische</li>
+    <li>artstyle_adj->barokke</li>
+    <li>artstyle_adj->dadaistische</li>
+    <li>artstyle_adj->glitch-artige</li>
+    <li>artstyle_adj->gepixelleerde</li>
+    <li>artstyle_adj->fauvistische</li>
+    <li>artstyle_adj->volkse</li>
+    <li>artstyle_adj->figuratieve</li>
+    <li>artstyle_adj->kronkelende</li>
+    <li>artstyle_adj->geometrische</li>
+    <li>artstyle_adj->abstracte</li>
+    <li>artstyle_adj->hyper-realistische</li>
+    <li>artstyle_adj->pop art</li>
+    <li>artstyle_adj->minimalistische</li>
+    <li>artstyle_adj->neoclassieke</li>
+    <li>artstyle_adj->cel-shaded</li>
+    <li>artstyle_adj->post-impressionistische</li>
+    <li>artstyle_adj->puritijnse</li>
+    <li>artstyle_adj->rococo</li>
+    <li>artstyle_adj->romanesque</li>
+    <li>artstyle_adj->romantische</li>
+    <li>artstyle_adj->graffiti-achtige</li>
+    <li>artstyle_adj->erotische</li>
+    <li>artstyle_adj->sensuele</li>
+    <li>artstyle_adj->hartverwarmende</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
   
 </LanguageData>

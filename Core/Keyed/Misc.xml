@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>Automatisch opslaan</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Jullie drieën worden wakker in je cryptoslaapcapsules met het geluid van sirenes en scheurend metaal. Je komt nog maar nauwelijks bij de ontsnappingscapsules voordat het schip uit elkaar scheurt.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nTTerwijl stukken van het verscheurde ruimteschip om jullie heen vallen, beginnen jullie plannen te maken om te overleven.</GameStartDialog>
+  <GameStartDialog>Jullie drieën worden wakker in je cryptoslaapcapsules met het geluid van sirenes en scheurend metaal. Je komt nog maar nauwelijks bij de ontsnappingscapsules voordat het schip uit elkaar scheurt.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nTerwijl stukken van het verscheurde ruimteschip om jullie heen vallen, beginnen jullie plannen te maken om te overleven.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Kolonie</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
@@ -47,7 +47,7 @@
   <!-- EN: context -->
   <context>context</context>
   <!-- EN: multiplier -->
-  <multiplier>vermenigvuldigingsfactor</multiplier>
+  <multiplier>vermenigvuldiger</multiplier>
   <!-- EN: damage -->
   <damage>schade</damage>
   <!-- EN: radius -->

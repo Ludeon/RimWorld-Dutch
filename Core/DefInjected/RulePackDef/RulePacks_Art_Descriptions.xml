@@ -200,7 +200,8 @@
     <li>artstyle_adj->sensual</li>
     <li>artstyle_adj->heartfelt</li>
   -->
-  <ArtDescriptionUtility_Global.rulePack.rulesStrings><li>style_group->[artextra_clause]. [style_clause].</li>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group->[artextra_clause]. [style_clause].</li>
     <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
     <li>style_group->[style_clause].</li>
     <li>style_group->[artextra_clause].</li>

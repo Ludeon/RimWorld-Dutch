@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: outpost -->
-  <Outpost.label>TODO</Outpost.label>
+  <Outpost.label>buitenpost</Outpost.label>
   <!-- EN: A small, guarded outpost. -->
-  <Outpost.description>TODO</Outpost.description>
+  <Outpost.description>Een kleine, bewaakte buitenpost.</Outpost.description>
   <!-- EN: Attacking {0} -->
-  <Outpost.approachingReportString>TODO</Outpost.approachingReportString>
+  <Outpost.approachingReportString>{0} aanvallen</Outpost.approachingReportString>
   <!-- EN: Attack {0} -->
-  <Outpost.approachOrderString>TODO</Outpost.approachOrderString>
+  <Outpost.approachOrderString>Val {0} aan</Outpost.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <Outpost.arrivedLetter>TODO</Outpost.arrivedLetter>
+  <Outpost.arrivedLetter>Er is een vijandige buitenpost in dit gebied.</Outpost.arrivedLetter>
   
 </LanguageData>

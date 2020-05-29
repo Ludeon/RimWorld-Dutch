@@ -15,7 +15,20 @@
     <li>died(SUBJECT_flesh==Mechanoid)->stopped functioning</li>
     <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
   -->
-  <Transition_Died.rulePack.rulesStrings>TODO</Transition_Died.rulePack.rulesStrings>
+  <Transition_Died.rulePack.rulesStrings>
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->sterven</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->vergaan</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->eindigen</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->afsluiten</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->stop met functioneren</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->batterij raakt leeg</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->gestorven</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->vergaan</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->beëindigd</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->afgesloten</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->gestopt met functioneren</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->batterij is leeg</li>
+  </Transition_Died.rulePack.rulesStrings>
   
   <!-- EN:
     <li>die(p=3)->explode [flavor]</li>
@@ -46,7 +59,35 @@
     <li>everywhere->everywhere</li>
     <li>everywhere->far and wide</li>
   -->
-  <Transition_DiedExplosive.rulePack.rulesStrings>TODO</Transition_DiedExplosive.rulePack.rulesStrings>
+  <Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>die(p=3)->ontploft [flavor]</li>
+    <li>die(p=3)->ontploft [flavorsuffix]</li>
+    <li>die->deed ontploffen [flavor]</li>
+    <li>die->deed ontploffen [flavorsuffix]</li>
+    <li>die->barstte [flavor]</li>
+    <li>die->barstte [flavorsuffix]</li>
+    <li>died(p=3)->ontplofte [flavor]</li>
+    <li>died->deed ontploffen [flavor]</li>
+    <li>died->barstte [flavor]</li>
+    <li>flavor(p=0.2)->in een chemische [fireball]</li>
+    <li>flavor->in een [Color] [fireball]</li>
+    <li>flavor->in een [AdjectiveLarge] [fireball]</li>
+    <li>flavor(p=4)->in een [fireball]</li>
+    <li>flavor(p=4)-></li>
+    <li>flavorsuffix->, [pieces] [everywhere] verspreid</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)->, [Gore] [everywhere] verspreid</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)->, een hoopje [Gore] achterlatend</li>
+    <li>flavorsuffix->, een kleine krater achterlatend</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>fireball(p=3)->vuurbal</li>
+    <li>fireball->vlammenzee</li>
+    <li>fireball->schokgolf</li>
+    <li>fireball->vuurzee</li>
+    <li>pieces->stukjes</li>
+    <li>pieces->fragmenten</li>
+    <li>everywhere->overal</li>
+    <li>everywhere->heinde en verre</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
@@ -95,6 +136,10 @@
     <li>duetoa(p=0.5)->because of</li>
     <li>duetoa(p=0.5)->thanks to</li>
   -->
-  <Transition_Include.rulePack.rulesStrings>TODO</Transition_Include.rulePack.rulesStrings>
+  <Transition_Include.rulePack.rulesStrings>
+    <li>duetoa->vanwege</li>
+    <li>duetoa(p=0.5)->omdat</li>
+    <li>duetoa(p=0.5)->dankzij</li>
+  </Transition_Include.rulePack.rulesStrings>
   
 </LanguageData>

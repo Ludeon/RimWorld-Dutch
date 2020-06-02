@@ -11,8 +11,8 @@
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\nRecommended for:\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
   <Extreme.description>Deze instelling is bewust oneerlijk. Enorme bedreigingen zullen je keer op keer lastig vallen tot je kolonie het niet meer overleeft. Kies deze instelling alleen als je het leuk vind om met een lijdensweg te sterven.\n\nAangeraden aan:\n\n- Ervaren spelers die een brutale, oneerlijke uitdaging willen waarbij zelfs de meest vaardige spelers nog het loodje kunnen leggen.\n- Liefhebbers van tragiek. \n- Digitale masochisten</Extreme.description>
   
-  <!-- EN: the price of survival is blood -->
-  <Hard.label>De prijs van overleven is bloed</Hard.label>
+  <!-- EN: blood and dust -->
+  <Hard.label>Bloed en stof</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\nRecommended for:\n\n- Experienced players who want to struggle to survive. -->
   <Hard.description>Onderga brutale uitdagingen om te overleven. Zelfs als je goed speelt zal niet iedereen het overleven. Je zult moeten anticiperen op gevaren voordat ze aankomen en elk voordeel moeten uitbuiten.\n\nAangeraden aan:\n\n- Ervaren spelers die willen vechten om te overleven.</Hard.description>
   

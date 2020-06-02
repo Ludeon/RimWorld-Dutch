@@ -7,4 +7,7 @@
   <!-- EN: blocked by {0_label} -->
   <BlockedBy>geblokkeerd door {0_label}</BlockedBy>
 
+  <!-- EN: Warning: Anima tree has been marked for cutting. -->
+  <MessageWarningCutAnimaTree>Waarschuwing: Er is een animaboom gemarkeerd om omgehakt te worden.</MessageWarningCutAnimaTree>
+
 </LanguageData>

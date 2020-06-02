@@ -66,6 +66,10 @@
   <MeditationFocusImpacted>TODO</MeditationFocusImpacted>
   <!-- EN: Psyfocus gain rate: {0}/d -->
   <PsyfocusPerDayOfMeditation>TODO</PsyfocusPerDayOfMeditation>
+  <!-- EN: Desired psyfocus -->
+  <DesiredPsyfocus>TODO</DesiredPsyfocus>
+  <!-- EN: Click to set desired psyfocus. -->
+  <DesiredPsyfocusDesc>TODO</DesiredPsyfocusDesc>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->

@@ -28,11 +28,14 @@
   <!-- EN: Building -->
   <Building.label>Bouw</Building.label>
   
-  <!-- EN: capacity effects -->
+  <!-- EN: effects -->
   <CapacityEffects.label>effecten</CapacityEffects.label>
   
   <!-- EN: Drug -->
   <Drug.label>Drug</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>drugsverslaving</DrugAddiction.label>
   
   <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Bonussen wanneer gedragen</EquippedStatOffsets.label>

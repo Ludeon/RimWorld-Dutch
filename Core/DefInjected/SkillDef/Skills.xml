@@ -2,87 +2,87 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>dieren</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
-  <Animals.description>TODO</Animals.description>
+  <Animals.description>Dieren temmen, trainen en controleren.</Animals.description>
   <!-- EN: animals -->
-  <Animals.skillLabel>TODO</Animals.skillLabel>
+  <Animals.skillLabel>dieren</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>TODO</Artistic.label>
+  <Artistic.label>artistiek</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>TODO</Artistic.description>
+  <Artistic.description>Kunst maken.</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>Creatief</Artistic.skillLabel>
+  <Artistic.skillLabel>artistiek</Artistic.skillLabel>
   
   <!-- EN: construction -->
-  <Construction.label>TODO</Construction.label>
+  <Construction.label>bouw</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>TODO</Construction.description>
+  <Construction.description>Bouwen en afbreken van structuren en meubels</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>Bouwen</Construction.skillLabel>
+  <Construction.skillLabel>bouw</Construction.skillLabel>
   
   <!-- EN: cooking -->
-  <Cooking.label>TODO</Cooking.label>
+  <Cooking.label>koken</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>TODO</Cooking.description>
+  <Cooking.description>Snel en zonder per ongeluk voedselvergiftiging te veroorzaken maaltijden maken van rauwe ingrediënten.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.skillLabel>Koken</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>TODO</Crafting.label>
+  <Crafting.label>handwerk</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>TODO</Crafting.description>
+  <Crafting.description>Voorwerpen maken zoals wapens, componenten en geraffineerde grondstoffen.</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>Handwerk</Crafting.skillLabel>
+  <Crafting.skillLabel>handwerk</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
-  <Intellectual.label>TODO</Intellectual.label>
+  <Intellectual.label>intellectueel</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
-  <Intellectual.description>TODO</Intellectual.description>
+  <Intellectual.description>Onderzoek en drugproductie.</Intellectual.description>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>TODO</Intellectual.skillLabel>
+  <Intellectual.skillLabel>intellectueel</Intellectual.skillLabel>
   
   <!-- EN: medical -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>medisch</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>TODO</Medicine.description>
+  <Medicine.description>Verzorgen van wonden, ziektes en het uitvoeren van chirurgie.</Medicine.description>
   <!-- EN: medical -->
-  <Medicine.skillLabel>Medicijn</Medicine.skillLabel>
+  <Medicine.skillLabel>medisch</Medicine.skillLabel>
   
   <!-- EN: melee -->
-  <Melee.label>TODO</Melee.label>
+  <Melee.label>melee</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
-  <Melee.description>TODO</Melee.description>
+  <Melee.description>Meleegevecht, zowel gewapend als met blote vuisten.</Melee.description>
   <!-- EN: melee -->
-  <Melee.skillLabel>Vechten met de hand</Melee.skillLabel>
+  <Melee.skillLabel>melee</Melee.skillLabel>
   
   <!-- EN: mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>delven</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>TODO</Mining.description>
+  <Mining.description>Het graven van tunnels en begraven grondstoffen delven.</Mining.description>
   <!-- EN: mining -->
-  <Mining.skillLabel>Delven</Mining.skillLabel>
+  <Mining.skillLabel>delven</Mining.skillLabel>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>planten</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>TODO</Plants.description>
+  <Plants.description>Planten inzaaien, verzorgen en oogsten. Op reis foerageren.</Plants.description>
   <!-- EN: plants -->
-  <Plants.skillLabel>Verbouwing</Plants.skillLabel>
+  <Plants.skillLabel>planten</Plants.skillLabel>
   
   <!-- EN: shooting -->
-  <Shooting.label>TODO</Shooting.label>
+  <Shooting.label>schieten</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>TODO</Shooting.description>
+  <Shooting.description>Gevecht op afstand, met zowel moderne als prehistorische wapens.</Shooting.description>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>Schieten</Shooting.skillLabel>
+  <Shooting.skillLabel>schieten</Shooting.skillLabel>
   
   <!-- EN: social -->
-  <Social.label>TODO</Social.label>
+  <Social.label>sociaal</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
-  <Social.description>TODO</Social.description>
+  <Social.description>Onderhandelen, overtuigen, manipuleren, leiden en opvrolijken van anderen.</Social.description>
   <!-- EN: social -->
-  <Social.skillLabel>Sociaal</Social.skillLabel>
+  <Social.skillLabel>sociaal</Social.skillLabel>
   
 </LanguageData>

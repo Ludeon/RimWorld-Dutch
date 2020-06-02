@@ -2,74 +2,74 @@
 <LanguageData>
   
   <!-- EN: allow biocoded apparel -->
-  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  <AllowBiocodedApparel.label>sta biogecodeerde kleding toe</AllowBiocodedApparel.label>
   
   <!-- EN: allow biocoded weapons -->
-  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  <AllowBiocodedWeapons.label>sta biogecodeerde wapens toe</AllowBiocodedWeapons.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  <AllowBurnableApparel.label>sta brandbare kleding toe</AllowBurnableApparel.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  <AllowBurnableWeapons.label>sta brandbare wapens toe</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>Sta lichamen van kolonisten toe</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>sta lijken van kolonisten toe</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>Staat lichamen toe, van zij die ooit kolonist waren.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>Sta lijken toe van voormalige kolonisten.</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
-  <AllowCorpsesStranger.label>Sta lichamen van vreemden toe</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.label>sta lijken van vreemden toe</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
-  <AllowCorpsesStranger.description>Sta vreemde lichamen toe.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>Sta lijken toe van vreemden en vijanden.</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
-  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.label>sta bedoezelde kleding toe</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.description>Sta kleding toe die ooit door een lijk gedragen is. De meeste mensen vinden door een lijk bedoezelde kleding ontstellend, en handelaars zullen het niet accepteren.</AllowDeadmansApparel.description>
   
   <!-- EN: allow fresh -->
-  <AllowFresh.label>TODO</AllowFresh.label>
+  <AllowFresh.label>sta verse voorwerpen toe</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
-  <AllowFresh.description>TODO</AllowFresh.description>
+  <AllowFresh.description>Sta organische dingen toe die nog niet aan het rotten zijn.</AllowFresh.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>sta niet-biogecodeerde kleding toe</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
-  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>sta niet-biogecodeerde wapens toe</AllowNonBiocodedWeapons.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  <AllowNonBurnableApparel.label>sta niet-brandbare kleding toe</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>sta niet-brandbare wapens toe</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
-  <AllowNonDeadmansApparel.label>TODO</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.label>sta schone kleding toe</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.description>Sta kleding toe die nooit is gedragen door een lijk. De meeste mensen vinden door een lijk bedoezelde kleding ontstellend, en handelaars zullen het niet accepteren.</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>sta niet-smeltbare kleding toe</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableWeapons.label>TODO</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.label>sta niet-smeltbare wapens toe</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
-  <AllowPlantFood.label>TODO</AllowPlantFood.label>
+  <AllowPlantFood.label>sta plantvoedsel toe</AllowPlantFood.label>
   <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
-  <AllowPlantFood.description>TODO</AllowPlantFood.description>
+  <AllowPlantFood.description>Sta voedsel toe van een dezelfde kwaliteit als ongeoogste planten, zoals hooi.</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
-  <AllowRotten.label>Sta verrotten toe</AllowRotten.label>
+  <AllowRotten.label>sta rotte voorwerpen toe</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
-  <AllowRotten.description>Staat verrotte materialen toe.</AllowRotten.description>
+  <AllowRotten.description>Sta organische dingen toe die al aan het rotten zijn.</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>TODO</AllowSmeltable.label>
+  <AllowSmeltable.label>sta smeltbare kleding toe</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>sta smeltbare wapens toe</AllowSmeltableApparel.label>
   
 </LanguageData>

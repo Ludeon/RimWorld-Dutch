@@ -2,218 +2,218 @@
 <LanguageData>
   
   <!-- EN: animals slaughtered -->
-  <AnimalsSlaughtered.label>TODO</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.label>dieren geslacht</AnimalsSlaughtered.label>
   <!-- EN: The number of animals I have slaughtered. -->
-  <AnimalsSlaughtered.description>TODO</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.description>Het aantal dieren dat ik heb geslacht.</AnimalsSlaughtered.description>
   
   <!-- EN: animals tamed -->
-  <AnimalsTamed.label>TODO</AnimalsTamed.label>
+  <AnimalsTamed.label>dieren getemd</AnimalsTamed.label>
   <!-- EN: The number of animals I have tamed. -->
-  <AnimalsTamed.description>TODO</AnimalsTamed.description>
+  <AnimalsTamed.description>Het aantal dieren dat ik heb getemd.</AnimalsTamed.description>
   
   <!-- EN: artifacts activated -->
-  <ArtifactsActivated.label>TODO</ArtifactsActivated.label>
+  <ArtifactsActivated.label>artifacten gactiveerd</ArtifactsActivated.label>
   <!-- EN: The number of artifacts I have activated. -->
-  <ArtifactsActivated.description>TODO</ArtifactsActivated.description>
+  <ArtifactsActivated.description>Het aantal artifacten dat ik heb geactiveerd.</ArtifactsActivated.description>
   
   <!-- EN: bodies stripped -->
-  <BodiesStripped.label>TODO</BodiesStripped.label>
+  <BodiesStripped.label>lijken uitgekleed</BodiesStripped.label>
   <!-- EN: The number of bodies I have stripped. -->
-  <BodiesStripped.description>TODO</BodiesStripped.description>
+  <BodiesStripped.description>Het aantal lijken dat ik heb uitgekleed.</BodiesStripped.description>
   
   <!-- EN: cells mined -->
-  <CellsMined.label>TODO</CellsMined.label>
+  <CellsMined.label>cellen gedolven</CellsMined.label>
   <!-- EN: The number of cells I have mined out. -->
-  <CellsMined.description>TODO</CellsMined.description>
+  <CellsMined.description>Het aantal cellen dat ik heb gedolven.</CellsMined.description>
   
   <!-- EN: containers opened -->
-  <ContainersOpened.label>TODO</ContainersOpened.label>
+  <ContainersOpened.label>containers geopend</ContainersOpened.label>
   <!-- EN: The number of containers I have opened. -->
-  <ContainersOpened.description>TODO</ContainersOpened.description>
+  <ContainersOpened.description>Het aantal containers die ik heb geopend.</ContainersOpened.description>
   
   <!-- EN: corpses buried -->
-  <CorpsesBuried.label>TODO</CorpsesBuried.label>
+  <CorpsesBuried.label>lijken begraven</CorpsesBuried.label>
   <!-- EN: The number of corpses I have buried. -->
-  <CorpsesBuried.description>TODO</CorpsesBuried.description>
+  <CorpsesBuried.description>Het aantal lijken dat ik heb begraven.</CorpsesBuried.description>
   
   <!-- EN: damage dealt -->
-  <DamageDealt.label>TODO</DamageDealt.label>
+  <DamageDealt.label>schade toegebracht</DamageDealt.label>
   <!-- EN: The amount of damage I have dealt. -->
-  <DamageDealt.description>TODO</DamageDealt.description>
+  <DamageDealt.description>De hoeveelheid schade die ik heb toegebracht.</DamageDealt.description>
   
   <!-- EN: damage taken -->
-  <DamageTaken.label>TODO</DamageTaken.label>
+  <DamageTaken.label>schade ontvangen</DamageTaken.label>
   <!-- EN: The amount of damage I have taken. -->
-  <DamageTaken.description>TODO</DamageTaken.description>
+  <DamageTaken.description>De hoeveelheid schade die ik heb ontvangen.</DamageTaken.description>
   
   <!-- EN: fires extinguished -->
-  <FiresExtinguished.label>TODO</FiresExtinguished.label>
+  <FiresExtinguished.label>branden geblust</FiresExtinguished.label>
   <!-- EN: The number of fires I have extinguished. -->
-  <FiresExtinguished.description>TODO</FiresExtinguished.description>
+  <FiresExtinguished.description>Het aantal branden die ik heb geblust.</FiresExtinguished.description>
   
   <!-- EN: headshots -->
-  <Headshots.label>TODO</Headshots.label>
+  <Headshots.label>hoofdschoten</Headshots.label>
   <!-- EN: The number of headshots I have made. -->
-  <Headshots.description>TODO</Headshots.description>
+  <Headshots.description>Het aantal hoofdschoten die ik heb gemaakt.</Headshots.description>
   
   <!-- EN: kills -->
-  <Kills.label>TODO</Kills.label>
+  <Kills.label>doden</Kills.label>
   <!-- EN: The number of creatures I have killed. -->
-  <Kills.description>TODO</Kills.description>
+  <Kills.description>Het aantal wezens dat ik heb gedood.</Kills.description>
   
   <!-- EN: kills (animals) -->
-  <KillsAnimals.label>TODO</KillsAnimals.label>
+  <KillsAnimals.label>doden (dieren)</KillsAnimals.label>
   <!-- EN: The number of animals I have killed. -->
-  <KillsAnimals.description>TODO</KillsAnimals.description>
+  <KillsAnimals.description>Het aantal dieren dat ik heb gedood.</KillsAnimals.description>
   
   <!-- EN: kills (humanlikes) -->
-  <KillsHumanlikes.label>TODO</KillsHumanlikes.label>
+  <KillsHumanlikes.label>doden (mensachtigen)</KillsHumanlikes.label>
   <!-- EN: The number of humanlike characters I have killed. -->
-  <KillsHumanlikes.description>TODO</KillsHumanlikes.description>
+  <KillsHumanlikes.description>Het aantal mensachtige personen die ik heb gedood.</KillsHumanlikes.description>
   
   <!-- EN: kills (mechanoids) -->
-  <KillsMechanoids.label>TODO</KillsMechanoids.label>
+  <KillsMechanoids.label>doden (mechanoïden)</KillsMechanoids.label>
   <!-- EN: The number of mechanoids I have killed. -->
-  <KillsMechanoids.description>TODO</KillsMechanoids.description>
+  <KillsMechanoids.description>Het aantal mechanoïden dat ik heb gedood.</KillsMechanoids.description>
   
   <!-- EN: meals cooked -->
-  <MealsCooked.label>TODO</MealsCooked.label>
+  <MealsCooked.label>maaltijden gekookt</MealsCooked.label>
   <!-- EN: The number of meals I have cooked. -->
-  <MealsCooked.description>TODO</MealsCooked.description>
+  <MealsCooked.description>Het aantal maaltijden dat ik heb gekookt</MealsCooked.description>
   
   <!-- EN: messes cleaned -->
-  <MessesCleaned.label>TODO</MessesCleaned.label>
+  <MessesCleaned.label>rotzooi opgeruimt</MessesCleaned.label>
   <!-- EN: The number of messes I have cleaned up. -->
-  <MessesCleaned.description>TODO</MessesCleaned.description>
+  <MessesCleaned.description>Hoe vaak ik rotzooi heb opgeruimd.</MessesCleaned.description>
   
   <!-- EN: nutrition eaten -->
-  <NutritionEaten.label>TODO</NutritionEaten.label>
+  <NutritionEaten.label>voedsel gegeten</NutritionEaten.label>
   <!-- EN: The amount of nutrition I have eaten. -->
-  <NutritionEaten.description>TODO</NutritionEaten.description>
+  <NutritionEaten.description>Hoe veel voedsel ik gegeten heb.</NutritionEaten.description>
   
   <!-- EN: operations performed -->
-  <OperationsPerformed.label>TODO</OperationsPerformed.label>
+  <OperationsPerformed.label>operaties uitgevoerd</OperationsPerformed.label>
   <!-- EN: How many medical operations I have performed. -->
-  <OperationsPerformed.description>TODO</OperationsPerformed.description>
+  <OperationsPerformed.description>Hoe veel medische operaties ik heb uitgevoerd.</OperationsPerformed.description>
   
   <!-- EN: operations received -->
-  <OperationsReceived.label>TODO</OperationsReceived.label>
+  <OperationsReceived.label>operaties ondergaan</OperationsReceived.label>
   <!-- EN: How many times I have been medically operated on. -->
-  <OperationsReceived.description>TODO</OperationsReceived.description>
+  <OperationsReceived.description>Hoe vaak anderen op mij hebben geopereerd.</OperationsReceived.description>
   
   <!-- EN: enemies downed -->
-  <PawnsDowned.label>TODO</PawnsDowned.label>
+  <PawnsDowned.label>vijanden neergehaald</PawnsDowned.label>
   <!-- EN: The number of creatures I have downed. -->
-  <PawnsDowned.description>TODO</PawnsDowned.description>
+  <PawnsDowned.description>Het aantal wezens dat ik heb neergehaald.</PawnsDowned.description>
   
   <!-- EN: enemies downed (animals) -->
-  <PawnsDownedAnimals.label>TODO</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.label>dieren neergehaald</PawnsDownedAnimals.label>
   <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
-  <PawnsDownedAnimals.description>TODO</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.description>Het aantal dieren dat ik heb neergehaald, zowel op jacht als in gevecht.</PawnsDownedAnimals.description>
   
   <!-- EN: enemies downed (humanlikes) -->
-  <PawnsDownedHumanlikes.label>TODO</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.label>mensachtigen neergehaald</PawnsDownedHumanlikes.label>
   <!-- EN: The number of humanlike creatures I have downed. -->
-  <PawnsDownedHumanlikes.description>TODO</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.description>Het aantal mensachtige personen dat ik heb neergehaald.</PawnsDownedHumanlikes.description>
   
   <!-- EN: enemies downed (mechanoids) -->
-  <PawnsDownedMechanoids.label>TODO</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.label>mechanoïden neergehaald</PawnsDownedMechanoids.label>
   <!-- EN: The number of mechanoids I have downed. -->
-  <PawnsDownedMechanoids.description>TODO</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.description>Het aantal mechanoïden dat ik heb neergehaald.</PawnsDownedMechanoids.description>
   
   <!-- EN: people captured -->
-  <PeopleCaptured.label>TODO</PeopleCaptured.label>
+  <PeopleCaptured.label>mensen gevangen</PeopleCaptured.label>
   <!-- EN: The number of people I have captured. -->
-  <PeopleCaptured.description>TODO</PeopleCaptured.description>
+  <PeopleCaptured.description>Het aantal mensen dat ik gevangen heb genomen.</PeopleCaptured.description>
   
   <!-- EN: plants harvested -->
-  <PlantsHarvested.label>TODO</PlantsHarvested.label>
+  <PlantsHarvested.label>planten geoogst</PlantsHarvested.label>
   <!-- EN: The number of plants I have harvested. -->
-  <PlantsHarvested.description>TODO</PlantsHarvested.description>
+  <PlantsHarvested.description>Het aantal planten dat ik heb geoogst.</PlantsHarvested.description>
   
   <!-- EN: plants sown -->
-  <PlantsSown.label>TODO</PlantsSown.label>
+  <PlantsSown.label>planten geplant</PlantsSown.label>
   <!-- EN: The number of plants I have sown. -->
-  <PlantsSown.description>TODO</PlantsSown.description>
+  <PlantsSown.description>Het aantal planten dat ik heb geplant.</PlantsSown.description>
   
   <!-- EN: prisoners chatted -->
-  <PrisonersChatted.label>TODO</PrisonersChatted.label>
+  <PrisonersChatted.label>gevangenen gesproken</PrisonersChatted.label>
   <!-- EN: How many times I have chatted with prisoners. -->
-  <PrisonersChatted.description>TODO</PrisonersChatted.description>
+  <PrisonersChatted.description>Hoe vaak ik met gevangenen gesproken heb.</PrisonersChatted.description>
   
   <!-- EN: prisoners recruited -->
-  <PrisonersRecruited.label>TODO</PrisonersRecruited.label>
+  <PrisonersRecruited.label>gevangenen gerekruteerd</PrisonersRecruited.label>
   <!-- EN: The number of prisoners I have recruited. -->
-  <PrisonersRecruited.description>TODO</PrisonersRecruited.description>
+  <PrisonersRecruited.description>Hoe veel gevangenen ik gerekruteerd heb.</PrisonersRecruited.description>
   
   <!-- EN: research points researched -->
-  <ResearchPointsResearched.label>TODO</ResearchPointsResearched.label>
+  <ResearchPointsResearched.label>onderzoekspunten onderzocht</ResearchPointsResearched.label>
   <!-- EN: The number of research points I have researched. -->
-  <ResearchPointsResearched.description>TODO</ResearchPointsResearched.description>
+  <ResearchPointsResearched.description>Het aantal onderzoekspunten dat ik heb bijgedragen aan onderzoek.</ResearchPointsResearched.description>
   
   <!-- EN: shots fired -->
-  <ShotsFired.label>TODO</ShotsFired.label>
+  <ShotsFired.label>schoten gelost</ShotsFired.label>
   <!-- EN: The number of shots I have fired. -->
-  <ShotsFired.description>TODO</ShotsFired.description>
+  <ShotsFired.description>Het aantal schoten dat ik heb gelost.</ShotsFired.description>
   
   <!-- EN: switches flicked -->
-  <SwitchesFlicked.label>TODO</SwitchesFlicked.label>
+  <SwitchesFlicked.label>schakelaars omgezet</SwitchesFlicked.label>
   <!-- EN: The number of switches I have flicked. -->
-  <SwitchesFlicked.description>TODO</SwitchesFlicked.description>
+  <SwitchesFlicked.description>Het aantal schakelaars dat ik aan of uit heb gezet.</SwitchesFlicked.description>
   
   <!-- EN: things constructed -->
-  <ThingsConstructed.label>TODO</ThingsConstructed.label>
+  <ThingsConstructed.label>gebouwde dingen</ThingsConstructed.label>
   <!-- EN: The number of things I have constructed. -->
-  <ThingsConstructed.description>TODO</ThingsConstructed.description>
+  <ThingsConstructed.description>Het aantal dingen dat ik heb gebouwd.</ThingsConstructed.description>
   
   <!-- EN: things crafted -->
-  <ThingsCrafted.label>TODO</ThingsCrafted.label>
+  <ThingsCrafted.label>gemaakte dingen</ThingsCrafted.label>
   <!-- EN: The number of things I have crafted. -->
-  <ThingsCrafted.description>TODO</ThingsCrafted.description>
+  <ThingsCrafted.description>Het aantal dingen dat ik heb gemaakt.</ThingsCrafted.description>
   
   <!-- EN: things deconstructed -->
-  <ThingsDeconstructed.label>TODO</ThingsDeconstructed.label>
+  <ThingsDeconstructed.label>afgebroken dingen</ThingsDeconstructed.label>
   <!-- EN: The number of things I have deconstructed. -->
-  <ThingsDeconstructed.description>TODO</ThingsDeconstructed.description>
+  <ThingsDeconstructed.description>Het aantal dingen dat ik heb afgebroken.</ThingsDeconstructed.description>
   
   <!-- EN: things hauled -->
-  <ThingsHauled.label>TODO</ThingsHauled.label>
+  <ThingsHauled.label>gesleepte dingen</ThingsHauled.label>
   <!-- EN: The number of things I have hauled. -->
-  <ThingsHauled.description>TODO</ThingsHauled.description>
+  <ThingsHauled.description>Het aantal dingen dat ik heb gesleept.</ThingsHauled.description>
   
   <!-- EN: things installed -->
-  <ThingsInstalled.label>TODO</ThingsInstalled.label>
+  <ThingsInstalled.label>geïnstalleerde dingen</ThingsInstalled.label>
   <!-- EN: The number of things I have installed. -->
-  <ThingsInstalled.description>TODO</ThingsInstalled.description>
+  <ThingsInstalled.description>Het aantal dingen dat ik heb geïnstalleerd.</ThingsInstalled.description>
   
   <!-- EN: things repaired -->
-  <ThingsRepaired.label>TODO</ThingsRepaired.label>
+  <ThingsRepaired.label>gerepareerde dingen</ThingsRepaired.label>
   <!-- EN: The number of things I have repaired. -->
-  <ThingsRepaired.description>TODO</ThingsRepaired.description>
+  <ThingsRepaired.description>Het aantal dingen dat ik heb gerepareerd.</ThingsRepaired.description>
   
   <!-- EN: things uninstalled -->
-  <ThingsUninstalled.label>TODO</ThingsUninstalled.label>
+  <ThingsUninstalled.label>verwijderde dingen</ThingsUninstalled.label>
   <!-- EN: The number of things I have uninstalled. -->
-  <ThingsUninstalled.description>TODO</ThingsUninstalled.description>
+  <ThingsUninstalled.description>Het aantal dingen dat ik heb verwijderd.</ThingsUninstalled.description>
   
   <!-- EN: times in mental state -->
-  <TimesInMentalState.label>TODO</TimesInMentalState.label>
+  <TimesInMentalState.label>mentale inzinkingen</TimesInMentalState.label>
   <!-- EN: How many times I have suffered a mental break. -->
-  <TimesInMentalState.description>TODO</TimesInMentalState.description>
+  <TimesInMentalState.description>Het aantal mentale inzinkingen dat ik heb gehad.</TimesInMentalState.description>
   
   <!-- EN: times on fire -->
-  <TimesOnFire.label>TODO</TimesOnFire.label>
+  <TimesOnFire.label>in brand gestaan</TimesOnFire.label>
   <!-- EN: How many times I have been on fire. -->
-  <TimesOnFire.description>TODO</TimesOnFire.description>
+  <TimesOnFire.description>Het aantal keer dat ik in brand heb gestaan.</TimesOnFire.description>
   
   <!-- EN: tends given -->
-  <TimesTendedOther.label>TODO</TimesTendedOther.label>
+  <TimesTendedOther.label>anderen verzorgd</TimesTendedOther.label>
   <!-- EN: How many times I have tended to others' medical conditions. -->
-  <TimesTendedOther.description>TODO</TimesTendedOther.description>
+  <TimesTendedOther.description>Het aantal keer dat ik anderen heb verzorgd als zij ziek waren.</TimesTendedOther.description>
   
   <!-- EN: tends received -->
-  <TimesTendedTo.label>TODO</TimesTendedTo.label>
+  <TimesTendedTo.label>door anderen verzorgd</TimesTendedTo.label>
   <!-- EN: How many times I have had my medical conditions tended. -->
-  <TimesTendedTo.description>TODO</TimesTendedTo.description>
+  <TimesTendedTo.description>Hoe vaak ik door anderen verzorgd ben als ik ziek was.</TimesTendedTo.description>
   
 </LanguageData>

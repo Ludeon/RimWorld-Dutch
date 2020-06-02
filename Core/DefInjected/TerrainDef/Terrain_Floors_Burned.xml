@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: burned carpet -->
-  <BurnedCarpet.label>TODO</BurnedCarpet.label>
+  <BurnedCarpet.label>verbrand tapijt</BurnedCarpet.label>
   <!-- EN: Burned-out carpet. -->
-  <BurnedCarpet.description>TODO</BurnedCarpet.description>
+  <BurnedCarpet.description>Uitgebrand tapijt.</BurnedCarpet.description>
   
   <!-- EN: burned wood floor -->
-  <BurnedWoodPlankFloor.label>TODO</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.label>verbrande houten vloer</BurnedWoodPlankFloor.label>
   <!-- EN: Burned-out wood plank flooring. -->
-  <BurnedWoodPlankFloor.description>TODO</BurnedWoodPlankFloor.description>
+  <BurnedWoodPlankFloor.description>Uitgebrande houten vloerplanken.</BurnedWoodPlankFloor.description>
   
 </LanguageData>

@@ -2,180 +2,180 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>TODO</AnimalProductRaw.label>
+  <AnimalProductRaw.label>dierlijke producten</AnimalProductRaw.label>
   
   <!-- EN: apparel -->
-  <Apparel.label>Kleding</Apparel.label>
+  <Apparel.label>kleding</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>harnas</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>adellijke kleding</ApparelNoble.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>hoofdtooien</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
-  <Artifacts.label>TODO</Artifacts.label>
+  <Artifacts.label>artefacten</Artifacts.label>
   
   <!-- EN: body parts -->
-  <BodyParts.label>Lichaamsdelen</BodyParts.label>
+  <BodyParts.label>lichaamsdelen</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionisch</BodyPartsBionic.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>TODO</BodyPartsNatural.label>
+  <BodyPartsNatural.label>natuurlijk</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>protheses</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>eenvoudige delen</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>TODO</Buildings.label>
+  <Buildings.label>gebouwen</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>TODO</BuildingsArt.label>
+  <BuildingsArt.label>kunst</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  <BuildingsFurniture.label>meubilair</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  <BuildingsJoy.label>plezier</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  <BuildingsMisc.label>diversen</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>TODO</BuildingsPower.label>
+  <BuildingsPower.label>energie</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  <BuildingsProduction.label>productie</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  <BuildingsSecurity.label>beveiliging</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  <BuildingsSpecial.label>bijzonder</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  <BuildingsTemperature.label>temperatuur</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>Puin</Chunks.label>
+  <Chunks.label>blokken</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>Lijken</Corpses.label>
+  <Corpses.label>lijken</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>Dierenlijken</CorpsesAnimal.label>
+  <CorpsesAnimal.label>dierenlijken</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
-  <CorpsesHumanlike.label>TODO</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>mensachtige lijken</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>TODO</CorpsesInsect.label>
+  <CorpsesInsect.label>insectenlijken</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>Mechanoidelijken</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>mechanoïde lijken</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>TODO</Drugs.label>
+  <Drugs.label>drugs</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
-  <EggsFertilized.label>TODO</EggsFertilized.label>
+  <EggsFertilized.label>eieren (bevr.)</EggsFertilized.label>
   
   <!-- EN: eggs (unfert.) -->
-  <EggsUnfertilized.label>TODO</EggsUnfertilized.label>
+  <EggsUnfertilized.label>eieren (onbevr.)</EggsUnfertilized.label>
   
   <!-- EN: meals -->
-  <FoodMeals.label>Maaltijden</FoodMeals.label>
+  <FoodMeals.label>maaltijden</FoodMeals.label>
   
   <!-- EN: raw food -->
-  <FoodRaw.label>Rauw</FoodRaw.label>
+  <FoodRaw.label>rauw</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>Voedsel</Foods.label>
+  <Foods.label>voedsel</Foods.label>
   
   <!-- EN: grenades -->
-  <Grenades.label>TODO</Grenades.label>
+  <Grenades.label>granaten</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>TODO</Headgear.label>
+  <Headgear.label>hoofdtooien</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>hoofdtooien</HeadgearNoble.label>
   
   <!-- EN: items -->
-  <Items.label>TODO</Items.label>
+  <Items.label>voorwerpen</Items.label>
   
   <!-- EN: leathers -->
-  <Leathers.label>TODO</Leathers.label>
+  <Leathers.label>leders</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>Vervaardigd</Manufactured.label>
+  <Manufactured.label>vervaardigd</Manufactured.label>
   
   <!-- EN: meat -->
-  <MeatRaw.label>Vlees</MeatRaw.label>
+  <MeatRaw.label>vlees</MeatRaw.label>
   
   <!-- EN: medicine -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>medicijnen</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>TODO</MortarShells.label>
+  <MortarShells.label>mortiergranaten</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>neurotrainers</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>Vegetarisch</PlantFoodRaw.label>
+  <PlantFoodRaw.label>vegetarisch</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
-  <PlantMatter.label>TODO</PlantMatter.label>
+  <PlantMatter.label>plantmaterie</PlantMatter.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>Ruwe grondstoffen</ResourcesRaw.label>
+  <ResourcesRaw.label>ruwe grondstoffen</ResourcesRaw.label>
   
   <!-- EN: root -->
-  <Root.label>Wortel</Root.label>
+  <Root.label>wortel</Root.label>
   
   <!-- EN: stone blocks -->
-  <StoneBlocks.label>TODO</StoneBlocks.label>
+  <StoneBlocks.label>steenblokken</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>TODO</StoneChunks.label>
+  <StoneChunks.label>rotsblokken</StoneChunks.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>techprints</Techprints.label>
   
   <!-- EN: textiles -->
-  <Textiles.label>TODO</Textiles.label>
+  <Textiles.label>textiel</Textiles.label>
   
   <!-- EN: unfinished -->
-  <Unfinished.label>TODO</Unfinished.label>
+  <Unfinished.label>onafgemaakt</Unfinished.label>
   
   <!-- EN: weapons -->
-  <Weapons.label>Wapens</Weapons.label>
+  <Weapons.label>wapens</Weapons.label>
   
   <!-- EN: melee weapons -->
-  <WeaponsMelee.label>TODO</WeaponsMelee.label>
+  <WeaponsMelee.label>melee wapens</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>persona wapens</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
-  <WeaponsRanged.label>TODO</WeaponsRanged.label>
+  <WeaponsRanged.label>afstandswapens</WeaponsRanged.label>
   
 </LanguageData>

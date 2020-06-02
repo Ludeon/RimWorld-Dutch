@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: bridge -->
-  <Bridge.label>TODO</Bridge.label>
+  <Bridge.label>brug</Bridge.label>
   <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
-  <Bridge.description>TODO</Bridge.description>
+  <Bridge.description>Een vlakke houten oppervlakte op ondersteunende balken, die over water kan worden gebouwd. Je kunt lichte structuren op bruggen bouwen, maar let op - bruggen zijn breekbaar. Als een brug instort, zal de structuur er bovenop ook instorten.</Bridge.description>
   
   <!-- EN: underwall -->
-  <Underwall.label>Vaste ondergrond</Underwall.label>
+  <Underwall.label>ondergrond</Underwall.label>
   
 </LanguageData>

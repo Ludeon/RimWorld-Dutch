@@ -2,40 +2,40 @@
 <LanguageData>
   
   <!-- EN: marsh -->
-  <Marsh.label>Moeras</Marsh.label>
+  <Marsh.label>moeras</Marsh.label>
   <!-- EN: water -->
-  <Marsh.tools.water.label>TODO</Marsh.tools.water.label>
+  <Marsh.tools.water.label>water</Marsh.tools.water.label>
   <!-- EN: mud -->
-  <Marsh.tools.mud.label>TODO</Marsh.tools.mud.label>
+  <Marsh.tools.mud.label>modder</Marsh.tools.mud.label>
   
   <!-- EN: deep water -->
-  <WaterDeep.label>Diep water</WaterDeep.label>
+  <WaterDeep.label>diep water</WaterDeep.label>
   <!-- EN: water -->
-  <WaterDeep.tools.water.label>TODO</WaterDeep.tools.water.label>
+  <WaterDeep.tools.water.label>water</WaterDeep.tools.water.label>
   
   <!-- EN: chest-deep moving water -->
-  <WaterMovingChestDeep.label>TODO</WaterMovingChestDeep.label>
+  <WaterMovingChestDeep.label>stromend water (borstdiep)</WaterMovingChestDeep.label>
   <!-- EN: water -->
-  <WaterMovingChestDeep.tools.water.label>TODO</WaterMovingChestDeep.tools.water.label>
+  <WaterMovingChestDeep.tools.water.label>water</WaterMovingChestDeep.tools.water.label>
   
   <!-- EN: shallow moving water -->
-  <WaterMovingShallow.label>TODO</WaterMovingShallow.label>
+  <WaterMovingShallow.label>stromend water (ondiep)</WaterMovingShallow.label>
   <!-- EN: water -->
-  <WaterMovingShallow.tools.water.label>TODO</WaterMovingShallow.tools.water.label>
+  <WaterMovingShallow.tools.water.label>water</WaterMovingShallow.tools.water.label>
   
   <!-- EN: deep ocean water -->
-  <WaterOceanDeep.label>TODO</WaterOceanDeep.label>
+  <WaterOceanDeep.label>diep oceaanwater</WaterOceanDeep.label>
   <!-- EN: water -->
-  <WaterOceanDeep.tools.water.label>TODO</WaterOceanDeep.tools.water.label>
+  <WaterOceanDeep.tools.water.label>water</WaterOceanDeep.tools.water.label>
   
   <!-- EN: shallow ocean water -->
-  <WaterOceanShallow.label>TODO</WaterOceanShallow.label>
+  <WaterOceanShallow.label>ondiep oceaanwater</WaterOceanShallow.label>
   <!-- EN: water -->
   <WaterOceanShallow.tools.water.label>TODO</WaterOceanShallow.tools.water.label>
   
   <!-- EN: shallow water -->
-  <WaterShallow.label>Ondiep water</WaterShallow.label>
+  <WaterShallow.label>ondiep water</WaterShallow.label>
   <!-- EN: water -->
-  <WaterShallow.tools.water.label>TODO</WaterShallow.tools.water.label>
+  <WaterShallow.tools.water.label>water</WaterShallow.tools.water.label>
   
 </LanguageData>

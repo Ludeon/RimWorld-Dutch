@@ -2,72 +2,72 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>TODO</Ability.label>
+  <Ability.label>Vaardigheid</Ability.label>
   
   <!-- EN: Apparel -->
-  <Apparel.label>TODO</Apparel.label>
+  <Apparel.label>Kleding</Apparel.label>
   
   <!-- EN: Basics -->
-  <Basics.label>TODO</Basics.label>
+  <Basics.label>Basis</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsImportant.label>TODO</BasicsImportant.label>
+  <BasicsImportant.label>Basis</BasicsImportant.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawn.label>TODO</BasicsNonPawn.label>
+  <BasicsNonPawn.label>Basis</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  <BasicsNonPawnImportant.label>Basis</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
-  <BasicsPawn.label>TODO</BasicsPawn.label>
+  <BasicsPawn.label>Basis</BasicsPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  <BasicsPawnImportant.label>Basis</BasicsPawnImportant.label>
   
   <!-- EN: Building -->
-  <Building.label>TODO</Building.label>
+  <Building.label>Bouw</Building.label>
   
   <!-- EN: capacity effects -->
-  <CapacityEffects.label>TODO</CapacityEffects.label>
+  <CapacityEffects.label>effecten</CapacityEffects.label>
   
   <!-- EN: Drug -->
-  <Drug.label>TODO</Drug.label>
+  <Drug.label>Drug</Drug.label>
   
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>TODO</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>Bonussen wanneer gedragen</EquippedStatOffsets.label>
   
   <!-- EN: Implant -->
-  <Implant.label>TODO</Implant.label>
+  <Implant.label>Implantaat</Implant.label>
   
   <!-- EN: Meditation -->
-  <Meditation.label>TODO</Meditation.label>
+  <Meditation.label>Meditatie</Meditation.label>
   
   <!-- EN: Combat -->
-  <PawnCombat.label>TODO</PawnCombat.label>
+  <PawnCombat.label>Gevecht</PawnCombat.label>
   
   <!-- EN: Misc -->
-  <PawnMisc.label>TODO</PawnMisc.label>
+  <PawnMisc.label>Diverse</PawnMisc.label>
   
   <!-- EN: Social -->
-  <PawnSocial.label>TODO</PawnSocial.label>
+  <PawnSocial.label>Sociaal</PawnSocial.label>
   
   <!-- EN: Work -->
-  <PawnWork.label>TODO</PawnWork.label>
+  <PawnWork.label>Werk</PawnWork.label>
   
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>TODO</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>Vermenigvuldigingsfactor wanneer voorwerpen van dit materiaal zijn gemaakt</StuffOfEquipmentStatFactors.label>
   
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>TODO</StuffStatFactors.label>
+  <StuffStatFactors.label>Vermenigvuldigingsfactor wanneer voorwerpen van dit materiaal zijn gemaatk</StuffStatFactors.label>
   
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>TODO</StuffStatOffsets.label>
+  <StuffStatOffsets.label>Bonussen wanneer voorwerpen van dit materiaal zijn gemaakt.</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
-  <Surgery.label>TODO</Surgery.label>
+  <Surgery.label>Chirurgisch</Surgery.label>
   
   <!-- EN: Weapon -->
-  <Weapon.label>TODO</Weapon.label>
+  <Weapon.label>Wapen</Weapon.label>
   
 </LanguageData>

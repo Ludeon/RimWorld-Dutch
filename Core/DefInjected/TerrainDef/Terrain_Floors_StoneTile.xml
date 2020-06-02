@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: granite flagstone -->
-  <FlagstoneGranite.label>TODO</FlagstoneGranite.label>
+  <FlagstoneGranite.label>granieten plavuizen</FlagstoneGranite.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneGranite.description>TODO</FlagstoneGranite.description>
+  <FlagstoneGranite.description>Ruw uitgehakte stenen tegels. Ze zijn niet mooi, maar zijn een goede ondergrond voor wegen en wandelpaden. Het afbreken van plavuizen geeft geen grondstoffen terug.</FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone -->
-  <FlagstoneLimestone.label>TODO</FlagstoneLimestone.label>
+  <FlagstoneLimestone.label>kalkstenen plavuizen</FlagstoneLimestone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneLimestone.description>TODO</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>Ruw uitgehakte stenen tegels. Ze zijn niet mooi, maar zijn een goede ondergrond voor wegen en wandelpaden. Het afbreken van plavuizen geeft geen grondstoffen terug.</FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone -->
-  <FlagstoneMarble.label>TODO</FlagstoneMarble.label>
+  <FlagstoneMarble.label>marmeren plavuizen</FlagstoneMarble.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneMarble.description>TODO</FlagstoneMarble.description>
+  <FlagstoneMarble.description>Ruw uitgehakte stenen tegels. Ze zijn niet mooi, maar zijn een goede ondergrond voor wegen en wandelpaden. Het afbreken van plavuizen geeft geen grondstoffen terug.</FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone -->
-  <FlagstoneSandstone.label>TODO</FlagstoneSandstone.label>
+  <FlagstoneSandstone.label>zandstenen plavuizen</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSandstone.description>TODO</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>Ruw uitgehakte stenen tegels. Ze zijn niet mooi, maar zijn een goede ondergrond voor wegen en wandelpaden. Het afbreken van plavuizen geeft geen grondstoffen terug.</FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone -->
-  <FlagstoneSlate.label>TODO</FlagstoneSlate.label>
+  <FlagstoneSlate.label>leistenen plavuizen</FlagstoneSlate.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSlate.description>TODO</FlagstoneSlate.description>
+  <FlagstoneSlate.description>Ruw uitgehakte stenen tegels. Ze zijn niet mooi, maar zijn een goede ondergrond voor wegen en wandelpaden. Het afbreken van plavuizen geeft geen grondstoffen terug.</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
-  <TileGranite.label>TODO</TileGranite.label>
+  <TileGranite.label>granieten tegels</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>TODO</TileGranite.description>
+  <TileGranite.description>Zorgvuldig uitghakte en gepaste stenen tegels voor die kasteelatmosfeer. Ze zien er mooi uit, maar het duurt lang om ze te leggen.</TileGranite.description>
   
   <!-- EN: limestone tile -->
-  <TileLimestone.label>TODO</TileLimestone.label>
+  <TileLimestone.label>kalkstenen tegels</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>TODO</TileLimestone.description>
+  <TileLimestone.description>Zorgvuldig uitghakte en gepaste stenen tegels voor die kasteelatmosfeer. Ze zien er mooi uit, maar het duurt lang om ze te leggen.</TileLimestone.description>
   
   <!-- EN: marble tile -->
-  <TileMarble.label>TODO</TileMarble.label>
+  <TileMarble.label>marmeren tegels</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>TODO</TileMarble.description>
+  <TileMarble.description>Zorgvuldig uitghakte en gepaste stenen tegels voor die kasteelatmosfeer. Ze zien er mooi uit, maar het duurt lang om ze te leggen.</TileMarble.description>
   
   <!-- EN: sandstone tile -->
-  <TileSandstone.label>TODO</TileSandstone.label>
+  <TileSandstone.label>zandstenen tegels</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>TODO</TileSandstone.description>
+  <TileSandstone.description>Zorgvuldig uitghakte en gepaste stenen tegels voor die kasteelatmosfeer. Ze zien er mooi uit, maar het duurt lang om ze te leggen.</TileSandstone.description>
   
   <!-- EN: slate tile -->
-  <TileSlate.label>TODO</TileSlate.label>
+  <TileSlate.label>leistenen tegels</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>TODO</TileSlate.description>
+  <TileSlate.description>Zorgvuldig uitghakte en gepaste stenen tegels voor die kasteelatmosfeer. Ze zien er mooi uit, maar het duurt lang om ze te leggen.</TileSlate.description>
   
 </LanguageData>

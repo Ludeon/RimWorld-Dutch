@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>TODO</AbandonedSettlement.label>
+  <AbandonedSettlement.label>verlaten nederzetting</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>TODO</AbandonedSettlement.description>
+  <AbandonedSettlement.description>Een verlaten nederzetting.</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
-  <AttackedNonPlayerCaravan.label>TODO</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.label>aangevallen karavaan</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
-  <AttackedNonPlayerCaravan.description>TODO</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.description>Een lopende aanval tegen een karavaan</AttackedNonPlayerCaravan.description>
   
   <!-- EN: caravan -->
-  <Caravan.label>TODO</Caravan.label>
+  <Caravan.label>karavaan</Caravan.label>
   <!-- EN: A group of traveling people. -->
-  <Caravan.description>TODO</Caravan.description>
+  <Caravan.description>Een groep reizende mensen.</Caravan.description>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSettlement.label>TODO</DestroyedSettlement.label>
+  <DestroyedSettlement.label>vernietigde nederzetting</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSettlement.description>TODO</DestroyedSettlement.description>
+  <DestroyedSettlement.description>Een vernietigde nederzetting.</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>TODO</EscapeShip.label>
+  <EscapeShip.label>geland ruimteschip</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>TODO</EscapeShip.description>
+  <EscapeShip.description>De locatie van een verborgen schip waarmee je de planeet kunt verlaten.</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <PeaceTalks.label>vredesbesprekingen</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>TODO</PeaceTalks.description>
+  <PeaceTalks.description>Een locatie uitgekozen voor vredesbesprekingen.</PeaceTalks.description>
   
   <!-- EN: waypoint -->
-  <RoutePlannerWaypoint.label>TODO</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.label>wegmarkering</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
-  <RoutePlannerWaypoint.description>TODO</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.description>Een tijdelijke wegmarkering.</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>TODO</Settlement.label>
+  <Settlement.label>nederzetting</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>TODO</Settlement.description>
+  <Settlement.description>Een basis van één van de facties.</Settlement.description>
   
   <!-- EN: transport pods -->
-  <TravelingTransportPods.label>TODO</TravelingTransportPods.label>
+  <TravelingTransportPods.label>transportcapsules</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>TODO</TravelingTransportPods.description>
+  <TravelingTransportPods.description>Transportcapsules onderweg naar hun bestemming.</TravelingTransportPods.description>
   
 </LanguageData>

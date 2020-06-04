@@ -79,9 +79,9 @@
   <Doctor.verb>Verzorg</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
-  <Firefighter.description>Blus vuur in de kolonie.</Firefighter.description>
+  <Firefighter.description>Blus branden in de kolonie.</Firefighter.description>
   <!-- EN: firefighting -->
-  <Firefighter.gerundLabel>Blussen</Firefighter.gerundLabel>
+  <Firefighter.gerundLabel>Brandblussen</Firefighter.gerundLabel>
   <!-- EN: Firefight -->
   <Firefighter.labelShort>Blus</Firefighter.labelShort>
   <!-- EN: Firefighter -->

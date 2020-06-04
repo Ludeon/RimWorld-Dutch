@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: category -->
-  <Category.label>TODO</Category.label>
+  <Category.label>categorie</Category.label>
   
   <!-- EN: hit points percentage -->
-  <HitPointsPercentage.label>TODO</HitPointsPercentage.label>
+  <HitPointsPercentage.label>hitpoints percentage</HitPointsPercentage.label>
   
   <!-- EN: market value -->
-  <MarketValue.label>TODO</MarketValue.label>
+  <MarketValue.label>marktwaarde</MarketValue.label>
   
   <!-- EN: mass -->
-  <Mass.label>TODO</Mass.label>
+  <Mass.label>gewicht</Mass.label>
   
   <!-- EN: name -->
-  <Name.label>TODO</Name.label>
+  <Name.label>naam</Name.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>geen</None.label>
   
   <!-- EN: quality -->
-  <Quality.label>TODO</Quality.label>
+  <Quality.label>kwaliteit</Quality.label>
   
 </LanguageData>

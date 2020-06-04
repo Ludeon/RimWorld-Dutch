@@ -68,8 +68,8 @@
   <RoyalIncapableOfSocial>{PAWN_labelShort} kan geen sociale taken uitvoeren. Adellijke titelhouders moeten goede sociale vaardigheden bezitten, dus als {PAWN_labelShort} een titel zal krijgen, zou {PAWN_pronoun} het best wel eens moeilijk kunnen krijgen. Een andere kolonist is misschien sociaal sterker.</RoyalIncapableOfSocial>
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
   <RoyalWithConceitedTrait>Omdat {PAWN_labelShort} {2} is, eist {PAWN_pronoun} dat de titelprivileges volledig gerespecteerd worden. {PAWN_labelShort} kan bepaald werk of slecht eten weigeren, en zal besluiten uitvaardigen. Een andere kolonist zou zich waarschijnlijk flexibeler opstellen.</RoyalWithConceitedTrait>
-  <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_possessive}. -->
-  <RoyalWithTraitAffectingPsylinkNegatively>Omdat {PAWN_labelShort} een {2} is, is de psylink misschien niet nuttig voor {PAWN_possessive}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
+  <RoyalWithTraitAffectingPsylinkNegatively>Omdat {PAWN_labelShort} een {2} is, is de psylink misschien niet nuttig voor {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}'s psylink is niet op een hoog genoeg niveau om {ABILITY} te kunnen gebruiken.\n\nProbeer toch de psyuitzending te ontvangen?</PsylinkTooLowForGainAbility>
 

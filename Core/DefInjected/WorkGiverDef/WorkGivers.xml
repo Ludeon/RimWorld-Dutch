@@ -2,305 +2,305 @@
 <LanguageData>
   
   <!-- EN: release prisoners -->
-  <BasicReleasePrisoner.label>TODO</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.label>gevangenen vrijlaten</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
-  <BasicReleasePrisoner.gerund>TODO</BasicReleasePrisoner.gerund>
+  <BasicReleasePrisoner.gerund>vrijlaten</BasicReleasePrisoner.gerund>
   <!-- EN: release -->
-  <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
+  <BasicReleasePrisoner.verb>laat vrij</BasicReleasePrisoner.verb>
   
   <!-- EN: build roofs -->
-  <BuildRoofs.label>TODO</BuildRoofs.label>
+  <BuildRoofs.label>bouw daken</BuildRoofs.label>
   <!-- EN: building roof -->
-  <BuildRoofs.gerund>TODO</BuildRoofs.gerund>
+  <BuildRoofs.gerund>dak bouwen</BuildRoofs.gerund>
   <!-- EN: build roof -->
-  <BuildRoofs.verb>TODO</BuildRoofs.verb>
+  <BuildRoofs.verb>bouw dak</BuildRoofs.verb>
   
   <!-- EN: chat with prisoners -->
-  <ChatWithPrisoner.label>TODO</ChatWithPrisoner.label>
+  <ChatWithPrisoner.label>praat met gevangenen</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
-  <ChatWithPrisoner.gerund>TODO</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.gerund>praten met</ChatWithPrisoner.gerund>
   <!-- EN: chat with -->
-  <ChatWithPrisoner.verb>TODO</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.verb>praat met</ChatWithPrisoner.verb>
   
   <!-- EN: clear snow -->
-  <CleanClearSnow.label>TODO</CleanClearSnow.label>
+  <CleanClearSnow.label>ruim sneeuw</CleanClearSnow.label>
   <!-- EN: clearing snow -->
-  <CleanClearSnow.gerund>TODO</CleanClearSnow.gerund>
+  <CleanClearSnow.gerund>sneeuwruimen</CleanClearSnow.gerund>
   <!-- EN: clear snow -->
-  <CleanClearSnow.verb>TODO</CleanClearSnow.verb>
+  <CleanClearSnow.verb>ruim sneeuw</CleanClearSnow.verb>
   
   <!-- EN: clean filth -->
-  <CleanFilth.label>TODO</CleanFilth.label>
+  <CleanFilth.label>schoonmaken</CleanFilth.label>
   <!-- EN: cleaning -->
-  <CleanFilth.gerund>opruimen</CleanFilth.gerund>
+  <CleanFilth.gerund>schoonmaken</CleanFilth.gerund>
   <!-- EN: clean -->
-  <CleanFilth.verb>opruimen</CleanFilth.verb>
+  <CleanFilth.verb>maak schoon</CleanFilth.verb>
   
   <!-- EN: deliver resources to blueprints -->
-  <ConstructDeliverResourcesToBlueprints.label>TODO</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.label>breng grondstoffen naar blauwdrukken</ConstructDeliverResourcesToBlueprints.label>
   <!-- EN: working on -->
   <ConstructDeliverResourcesToBlueprints.gerund>werken aan</ConstructDeliverResourcesToBlueprints.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToBlueprints.verb>werken aan</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.verb>werk aan</ConstructDeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
-  <ConstructDeliverResourcesToFrames.label>TODO</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.label>breng grondstoffen naar bouwplaats</ConstructDeliverResourcesToFrames.label>
   <!-- EN: working on -->
   <ConstructDeliverResourcesToFrames.gerund>werken aan</ConstructDeliverResourcesToFrames.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToFrames.verb>werken aan</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.verb>werk aan</ConstructDeliverResourcesToFrames.verb>
   
   <!-- EN: construct placed frames -->
-  <ConstructFinishFrames.label>TODO</ConstructFinishFrames.label>
+  <ConstructFinishFrames.label>bouw aan constructies</ConstructFinishFrames.label>
   <!-- EN: constructing -->
   <ConstructFinishFrames.gerund>bouwen</ConstructFinishFrames.gerund>
   <!-- EN: construct -->
-  <ConstructFinishFrames.verb>bouwen</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.verb>bouw</ConstructFinishFrames.verb>
   
   <!-- EN: remove floors -->
-  <ConstructRemoveFloors.label>TODO</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.label>verwijder vloeren</ConstructRemoveFloors.label>
   <!-- EN: removing floor -->
-  <ConstructRemoveFloors.gerund>TODO</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.gerund>vloer verwijderen</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
-  <ConstructRemoveFloors.verb>TODO</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.verb>verwijder vloer</ConstructRemoveFloors.verb>
   
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>TODO</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.label>polijst vloeren</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothFloors.gerund>TODO</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.gerund>polijsten</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothFloors.verb>TODO</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.verb>polijst</ConstructSmoothFloors.verb>
   
   <!-- EN: smooth walls -->
-  <ConstructSmoothWalls.label>TODO</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.label>polijst muren</ConstructSmoothWalls.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothWalls.gerund>TODO</ConstructSmoothWalls.gerund>
+  <ConstructSmoothWalls.gerund>polijsten</ConstructSmoothWalls.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothWalls.verb>TODO</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.verb>polijst</ConstructSmoothWalls.verb>
   
   <!-- EN: fill food hoppers -->
-  <CookFillHopper.label>TODO</CookFillHopper.label>
+  <CookFillHopper.label>vul voedselvoorraadbak</CookFillHopper.label>
   <!-- EN: filling -->
-  <CookFillHopper.gerund>vult</CookFillHopper.gerund>
+  <CookFillHopper.gerund>vullen</CookFillHopper.gerund>
   <!-- EN: fill -->
-  <CookFillHopper.verb>vullen</CookFillHopper.verb>
+  <CookFillHopper.verb>vul</CookFillHopper.verb>
   
   <!-- EN: deconstruct structures -->
-  <Deconstruct.label>TODO</Deconstruct.label>
+  <Deconstruct.label>breek structuren af</Deconstruct.label>
   <!-- EN: deconstructing -->
   <Deconstruct.gerund>afbreken</Deconstruct.gerund>
   <!-- EN: deconstruct -->
-  <Deconstruct.verb>afbreken</Deconstruct.verb>
+  <Deconstruct.verb>breek af</Deconstruct.verb>
   
   <!-- EN: deliver food to prisoners -->
-  <DeliverFoodToPrisoner.label>TODO</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>breng voedsel naar gevangenen</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>TODO</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>brengt voedsel naar</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
-  <DeliverFoodToPrisoner.verb>TODO</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.verb>breng voedsel naar</DeliverFoodToPrisoner.verb>
   
   <!-- EN: deliver resources to blueprints -->
-  <DeliverResourcesToBlueprints.label>TODO</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.label>breng grondstoffen naar blauwdrukken</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToBlueprints.gerund>TODO</DeliverResourcesToBlueprints.gerund>
+  <DeliverResourcesToBlueprints.gerund>brengen naar</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToBlueprints.verb>TODO</DeliverResourcesToBlueprints.verb>
+  <DeliverResourcesToBlueprints.verb>breng naar</DeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
-  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.label>breng grondstoffen naar bouwplaatsen</DeliverResourcesToFrames.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
+  <DeliverResourcesToFrames.gerund>brengen naar</DeliverResourcesToFrames.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  <DeliverResourcesToFrames.verb>breng naar</DeliverResourcesToFrames.verb>
   
   <!-- EN: brew liquors -->
-  <DoBillsBrew.label>TODO</DoBillsBrew.label>
+  <DoBillsBrew.label>drank brouwen</DoBillsBrew.label>
   <!-- EN: brewing at -->
-  <DoBillsBrew.gerund>TODO</DoBillsBrew.gerund>
+  <DoBillsBrew.gerund>brouwen bij</DoBillsBrew.gerund>
   <!-- EN: brew -->
-  <DoBillsBrew.verb>TODO</DoBillsBrew.verb>
+  <DoBillsBrew.verb>brouw</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
-  <DoBillsButcherFlesh.label>TODO</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.label>wezens slachten</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
-  <DoBillsButcherFlesh.gerund>slacht</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.gerund>slachten bij</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>slachten</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.verb>slacht</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
-  <DoBillsCook.label>TODO</DoBillsCook.label>
+  <DoBillsCook.label>kook maaltijden op een fornuis</DoBillsCook.label>
   <!-- EN: cooking at -->
-  <DoBillsCook.gerund>kookt</DoBillsCook.gerund>
+  <DoBillsCook.gerund>kookt op</DoBillsCook.gerund>
   <!-- EN: cook -->
-  <DoBillsCook.verb>koken</DoBillsCook.verb>
+  <DoBillsCook.verb>kook</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
-  <DoBillsCookCampfire.label>TODO</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.label>kook maaltijden op een kampvuur</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
-  <DoBillsCookCampfire.gerund>TODO</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.gerund>kookt op</DoBillsCookCampfire.gerund>
   <!-- EN: cook -->
-  <DoBillsCookCampfire.verb>TODO</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.verb>kook</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
-  <DoBillsCremate.label>TODO</DoBillsCremate.label>
+  <DoBillsCremate.label>lijken verbranden</DoBillsCremate.label>
   <!-- EN: cremating at -->
-  <DoBillsCremate.gerund>lijk verbranden</DoBillsCremate.gerund>
+  <DoBillsCremate.gerund>lijk verbranden bij</DoBillsCremate.gerund>
   <!-- EN: cremate -->
   <DoBillsCremate.verb>lijk verbranden</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
-  <DoBillsFabricationBench.label>TODO</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.label>fabriceer dingen</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
-  <DoBillsFabricationBench.gerund>TODO</DoBillsFabricationBench.gerund>
+  <DoBillsFabricationBench.gerund>fabriceert dingen bij</DoBillsFabricationBench.gerund>
   <!-- EN: fabricating things -->
-  <DoBillsFabricationBench.verb>TODO</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.verb>fabriceert dingen</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
-  <DoBillsHaulCampfire.label>TODO</DoBillsHaulCampfire.label>
+  <DoBillsHaulCampfire.label>voer taken uit bij kampvuur</DoBillsHaulCampfire.label>
   <!-- EN: working at -->
-  <DoBillsHaulCampfire.gerund>TODO</DoBillsHaulCampfire.gerund>
+  <DoBillsHaulCampfire.gerund>werken bij</DoBillsHaulCampfire.gerund>
   <!-- EN: work at -->
-  <DoBillsHaulCampfire.verb>TODO</DoBillsHaulCampfire.verb>
+  <DoBillsHaulCampfire.verb>werk bij</DoBillsHaulCampfire.verb>
   
   <!-- EN: make things at machining table -->
-  <DoBillsMachiningTable.label>TODO</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.label>maak dingen aan de machinetafel</DoBillsMachiningTable.label>
   <!-- EN: working at -->
-  <DoBillsMachiningTable.gerund>TODO</DoBillsMachiningTable.gerund>
+  <DoBillsMachiningTable.gerund>werken bij</DoBillsMachiningTable.gerund>
   <!-- EN: work -->
-  <DoBillsMachiningTable.verb>TODO</DoBillsMachiningTable.verb>
+  <DoBillsMachiningTable.verb>werk bij</DoBillsMachiningTable.verb>
   
   <!-- EN: make apparel -->
-  <DoBillsMakeApparel.label>TODO</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.label>maak kleding</DoBillsMakeApparel.label>
   <!-- EN: tailoring at -->
-  <DoBillsMakeApparel.gerund>TODO</DoBillsMakeApparel.gerund>
+  <DoBillsMakeApparel.gerund>kleermaken bij</DoBillsMakeApparel.gerund>
   <!-- EN: tailor -->
-  <DoBillsMakeApparel.verb>TODO</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.verb>maak kleding</DoBillsMakeApparel.verb>
   
   <!-- EN: make weapons -->
-  <DoBillsMakeWeapons.label>TODO</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.label>maak wapens</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
-  <DoBillsMakeWeapons.gerund>TODO</DoBillsMakeWeapons.gerund>
+  <DoBillsMakeWeapons.gerund>smeden bij</DoBillsMakeWeapons.gerund>
   <!-- EN: smith -->
-  <DoBillsMakeWeapons.verb>TODO</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.verb>smeed</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
-  <DoBillsMedicalAnimalOperation.label>TODO</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.label>opereer op dieren</DoBillsMedicalAnimalOperation.label>
   <!-- EN: operating on -->
-  <DoBillsMedicalAnimalOperation.gerund>TODO</DoBillsMedicalAnimalOperation.gerund>
+  <DoBillsMedicalAnimalOperation.gerund>opererend op</DoBillsMedicalAnimalOperation.gerund>
   <!-- EN: operate on -->
-  <DoBillsMedicalAnimalOperation.verb>TODO</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.verb>opereer op</DoBillsMedicalAnimalOperation.verb>
   
   <!-- EN: operate on humanlikes -->
-  <DoBillsMedicalHumanOperation.label>TODO</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.label>opereer op mensachtigen</DoBillsMedicalHumanOperation.label>
   <!-- EN: operating on -->
-  <DoBillsMedicalHumanOperation.gerund>opereren</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalHumanOperation.gerund>opereren op</DoBillsMedicalHumanOperation.gerund>
   <!-- EN: operate on -->
-  <DoBillsMedicalHumanOperation.verb>opereren</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.verb>opereer op</DoBillsMedicalHumanOperation.verb>
   
   <!-- EN: synthesize drugs -->
-  <DoBillsProduceDrugs.label>TODO</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.label>drugs synthetiseren</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
-  <DoBillsProduceDrugs.gerund>TODO</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.gerund>drugs produceren bij</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs -->
-  <DoBillsProduceDrugs.verb>TODO</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.verb>produceer drugs</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
-  <DoBillsRefinery.label>TODO</DoBillsRefinery.label>
+  <DoBillsRefinery.label>werk bij raffinaderij</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
-  <DoBillsRefinery.gerund>TODO</DoBillsRefinery.gerund>
+  <DoBillsRefinery.gerund>chemicaliën raffineren bij</DoBillsRefinery.gerund>
   <!-- EN: refine chemicals -->
-  <DoBillsRefinery.verb>TODO</DoBillsRefinery.verb>
+  <DoBillsRefinery.verb>raffineer chemicaliën</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
-  <DoBillsSculpt.label>TODO</DoBillsSculpt.label>
+  <DoBillsSculpt.label>maak dingen aan een kunstwerktafel</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
-  <DoBillsSculpt.gerund>TODO</DoBillsSculpt.gerund>
+  <DoBillsSculpt.gerund>beeldhouwen bij</DoBillsSculpt.gerund>
   <!-- EN: sculpt -->
-  <DoBillsSculpt.verb>TODO</DoBillsSculpt.verb>
+  <DoBillsSculpt.verb>houw beeld</DoBillsSculpt.verb>
   
   <!-- EN: smelt items -->
-  <DoBillsSmelter.label>TODO</DoBillsSmelter.label>
+  <DoBillsSmelter.label>smelt voorwerpen</DoBillsSmelter.label>
   <!-- EN: refining at -->
-  <DoBillsSmelter.gerund>TODO</DoBillsSmelter.gerund>
+  <DoBillsSmelter.gerund>smelten bij</DoBillsSmelter.gerund>
   <!-- EN: refine -->
-  <DoBillsSmelter.verb>TODO</DoBillsSmelter.verb>
+  <DoBillsSmelter.verb>smelt</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
-  <DoBillsStonecut.label>TODO</DoBillsStonecut.label>
+  <DoBillsStonecut.label>steenblokken maken</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
-  <DoBillsStonecut.gerund>steen bewerken</DoBillsStonecut.gerund>
+  <DoBillsStonecut.gerund>steenblokken maken bij</DoBillsStonecut.gerund>
   <!-- EN: stonecut -->
-  <DoBillsStonecut.verb>steen bewerken</DoBillsStonecut.verb>
+  <DoBillsStonecut.verb>maak steenblokken</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
-  <DoBillsUseCraftingSpot.label>TODO</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.label>maak dingen bij een werkplaats</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
-  <DoBillsUseCraftingSpot.gerund>TODO</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.gerund>dingen maken bij</DoBillsUseCraftingSpot.gerund>
   <!-- EN: craft -->
-  <DoBillsUseCraftingSpot.verb>TODO</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.verb>maak</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
-  <DoctorFeedAnimals.label>TODO</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.label>voer dieren</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
-  <DoctorFeedAnimals.gerund>TODO</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.gerund>voeren</DoctorFeedAnimals.gerund>
   <!-- EN: feed -->
-  <DoctorFeedAnimals.verb>TODO</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.verb>voer</DoctorFeedAnimals.verb>
   
   <!-- EN: feed patients -->
-  <DoctorFeedHumanlikes.label>TODO</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.label>geef patiënten te eten</DoctorFeedHumanlikes.label>
   <!-- EN: feeding -->
-  <DoctorFeedHumanlikes.gerund>TODO</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.gerund>voeden</DoctorFeedHumanlikes.gerund>
   <!-- EN: feed -->
-  <DoctorFeedHumanlikes.verb>TODO</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.verb>voed</DoctorFeedHumanlikes.verb>
   
   <!-- EN: rescue downed allies to bed -->
-  <DoctorRescue.label>TODO</DoctorRescue.label>
+  <DoctorRescue.label>red neergehaalde vrienden</DoctorRescue.label>
   <!-- EN: rescuing -->
-  <DoctorRescue.gerund>TODO</DoctorRescue.gerund>
+  <DoctorRescue.gerund>redden</DoctorRescue.gerund>
   <!-- EN: rescue -->
-  <DoctorRescue.verb>TODO</DoctorRescue.verb>
+  <DoctorRescue.verb>red</DoctorRescue.verb>
   
   <!-- EN: tend to patients with urgent needs -->
-  <DoctorTendEmergency.label>TODO</DoctorTendEmergency.label>
+  <DoctorTendEmergency.label>verzorg patiënten in dringende nood</DoctorTendEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendEmergency.gerund>TODO</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.gerund>verzorgen van</DoctorTendEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendEmergency.verb>TODO</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.verb>verzorg</DoctorTendEmergency.verb>
   
   <!-- EN: tend to animals -->
-  <DoctorTendToAnimals.label>TODO</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.label>verzorg dieren</DoctorTendToAnimals.label>
   <!-- EN: tending to -->
-  <DoctorTendToAnimals.gerund>TODO</DoctorTendToAnimals.gerund>
+  <DoctorTendToAnimals.gerund>verzorgen van</DoctorTendToAnimals.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToAnimals.verb>TODO</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.verb>verzorg</DoctorTendToAnimals.verb>
   
   <!-- EN: tend to patients -->
-  <DoctorTendToHumanlikes.label>TODO</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.label>patiënten verzorgen</DoctorTendToHumanlikes.label>
   <!-- EN: tending to -->
-  <DoctorTendToHumanlikes.gerund>TODO</DoctorTendToHumanlikes.gerund>
+  <DoctorTendToHumanlikes.gerund>verzorgen van</DoctorTendToHumanlikes.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToHumanlikes.verb>TODO</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.verb>verzorg</DoctorTendToHumanlikes.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelf.label>TODO</DoctorTendToSelf.label>
+  <DoctorTendToSelf.label>zichzelf verzorgen</DoctorTendToSelf.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelf.gerund>TODO</DoctorTendToSelf.gerund>
+  <DoctorTendToSelf.gerund>verzorgen van</DoctorTendToSelf.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelf.verb>TODO</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.verb>verzorg</DoctorTendToSelf.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelfEmergency.label>TODO</DoctorTendToSelfEmergency.label>
+  <DoctorTendToSelfEmergency.label>zichzelf verzorgen</DoctorTendToSelfEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelfEmergency.gerund>TODO</DoctorTendToSelfEmergency.gerund>
+  <DoctorTendToSelfEmergency.gerund>verzorgen van</DoctorTendToSelfEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelfEmergency.verb>TODO</DoctorTendToSelfEmergency.verb>
+  <DoctorTendToSelfEmergency.verb>verzorg</DoctorTendToSelfEmergency.verb>
   
   <!-- EN: execute prisoners -->
-  <DoExecution.label>TODO</DoExecution.label>
+  <DoExecution.label>executeer gevangenen</DoExecution.label>
   <!-- EN: doing execution on -->
-  <DoExecution.gerund>TODO</DoExecution.gerund>
+  <DoExecution.gerund>executeren van</DoExecution.gerund>
   <!-- EN: do execution on -->
-  <DoExecution.verb>TODO</DoExecution.verb>
+  <DoExecution.verb>executeer</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
   <Drill.label>boren met diepteboor</Drill.label>
@@ -310,283 +310,283 @@
   <Drill.verb>boor</Drill.verb>
   
   <!-- EN: feed prisoners -->
-  <FeedPrisoner.label>TODO</FeedPrisoner.label>
+  <FeedPrisoner.label>voed gevangenen</FeedPrisoner.label>
   <!-- EN: feeding -->
-  <FeedPrisoner.gerund>TODO</FeedPrisoner.gerund>
+  <FeedPrisoner.gerund>voeden</FeedPrisoner.gerund>
   <!-- EN: feed -->
-  <FeedPrisoner.verb>TODO</FeedPrisoner.verb>
+  <FeedPrisoner.verb>voed</FeedPrisoner.verb>
   
   <!-- EN: fight fires -->
-  <FightFires.label>TODO</FightFires.label>
+  <FightFires.label>branden blussen</FightFires.label>
   <!-- EN: extinguishing -->
   <FightFires.gerund>blussen</FightFires.gerund>
   <!-- EN: extinguish -->
-  <FightFires.verb>blussen</FightFires.verb>
+  <FightFires.verb>blus</FightFires.verb>
   
   <!-- EN: fill fermenting barrels -->
-  <FillFermentingBarrel.label>TODO</FillFermentingBarrel.label>
+  <FillFermentingBarrel.label>vul gistingsvaten</FillFermentingBarrel.label>
   <!-- EN: filling -->
-  <FillFermentingBarrel.gerund>TODO</FillFermentingBarrel.gerund>
+  <FillFermentingBarrel.gerund>vullen</FillFermentingBarrel.gerund>
   <!-- EN: fill -->
-  <FillFermentingBarrel.verb>TODO</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.verb>vul</FillFermentingBarrel.verb>
   
   <!-- EN: fix broken-down buildings -->
-  <FixBrokenDownBuilding.label>TODO</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.label>repareer beschadigde gebouwen</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->
-  <FixBrokenDownBuilding.gerund>TODO</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.gerund>kapotte componenten vervangen in</FixBrokenDownBuilding.gerund>
   <!-- EN: replace broken components in -->
-  <FixBrokenDownBuilding.verb>TODO</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.verb>vervang kapotte componenten in</FixBrokenDownBuilding.verb>
   
   <!-- EN: flick switches -->
-  <Flick.label>TODO</Flick.label>
+  <Flick.label>schakelaar omzetten</Flick.label>
   <!-- EN: flicking switch on -->
-  <Flick.gerund>TODO</Flick.gerund>
+  <Flick.gerund>aanschakelen</Flick.gerund>
   <!-- EN: flick switch on -->
-  <Flick.verb>TODO</Flick.verb>
+  <Flick.verb>schakel aan</Flick.verb>
   
   <!-- EN: operate ground penetrating scanner -->
-  <GroundPenetratingScan.label>TODO</GroundPenetratingScan.label>
+  <GroundPenetratingScan.label>werk met ondergrondscanner</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
-  <GroundPenetratingScan.gerund>TODO</GroundPenetratingScan.gerund>
+  <GroundPenetratingScan.gerund>scannen bij</GroundPenetratingScan.gerund>
   <!-- EN: scan -->
-  <GroundPenetratingScan.verb>TODO</GroundPenetratingScan.verb>
+  <GroundPenetratingScan.verb>scan</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
-  <GrowerHarvest.label>TODO</GrowerHarvest.label>
+  <GrowerHarvest.label>oogst gewassen</GrowerHarvest.label>
   <!-- EN: harvesting -->
   <GrowerHarvest.gerund>oogsten</GrowerHarvest.gerund>
   <!-- EN: harvest -->
-  <GrowerHarvest.verb>oogsten</GrowerHarvest.verb>
+  <GrowerHarvest.verb>oogst</GrowerHarvest.verb>
   
   <!-- EN: sow crops -->
-  <GrowerSow.label>TODO</GrowerSow.label>
+  <GrowerSow.label>zaai gewassen</GrowerSow.label>
   <!-- EN: sowing -->
   <GrowerSow.gerund>zaaien</GrowerSow.gerund>
   <!-- EN: sow -->
   <GrowerSow.verb>zaaien</GrowerSow.verb>
   
   <!-- EN: feed animals -->
-  <HandlingFeedPatientAnimals.label>TODO</HandlingFeedPatientAnimals.label>
+  <HandlingFeedPatientAnimals.label>voer dieren</HandlingFeedPatientAnimals.label>
   <!-- EN: feeding -->
-  <HandlingFeedPatientAnimals.gerund>TODO</HandlingFeedPatientAnimals.gerund>
+  <HandlingFeedPatientAnimals.gerund>voeren</HandlingFeedPatientAnimals.gerund>
   <!-- EN: feed -->
-  <HandlingFeedPatientAnimals.verb>TODO</HandlingFeedPatientAnimals.verb>
+  <HandlingFeedPatientAnimals.verb>voer</HandlingFeedPatientAnimals.verb>
   
   <!-- EN: haul corpses -->
-  <HaulCorpses.label>TODO</HaulCorpses.label>
+  <HaulCorpses.label>draag lijken</HaulCorpses.label>
   <!-- EN: hauling -->
   <HaulCorpses.gerund>dragen</HaulCorpses.gerund>
   <!-- EN: haul -->
-  <HaulCorpses.verb>dragen</HaulCorpses.verb>
+  <HaulCorpses.verb>draag</HaulCorpses.verb>
   
   <!-- EN: haul general things -->
-  <HaulGeneral.label>TODO</HaulGeneral.label>
+  <HaulGeneral.label>draag algemene dingen</HaulGeneral.label>
   <!-- EN: hauling -->
   <HaulGeneral.gerund>dragen</HaulGeneral.gerund>
   <!-- EN: haul -->
-  <HaulGeneral.verb>dragen</HaulGeneral.verb>
+  <HaulGeneral.verb>draag</HaulGeneral.verb>
   
   <!-- EN: merge things -->
-  <HaulMerge.label>TODO</HaulMerge.label>
+  <HaulMerge.label>voeg dingen samen</HaulMerge.label>
   <!-- EN: merging -->
-  <HaulMerge.gerund>TODO</HaulMerge.gerund>
+  <HaulMerge.gerund>samenvoegen</HaulMerge.gerund>
   <!-- EN: merge -->
-  <HaulMerge.verb>TODO</HaulMerge.verb>
+  <HaulMerge.verb>voeg samen</HaulMerge.verb>
   
   <!-- EN: load caravan -->
-  <HelpGatheringItemsForCaravan.label>TODO</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.label>laad karavaan</HelpGatheringItemsForCaravan.label>
   <!-- EN: loading -->
-  <HelpGatheringItemsForCaravan.gerund>TODO</HelpGatheringItemsForCaravan.gerund>
+  <HelpGatheringItemsForCaravan.gerund>laden</HelpGatheringItemsForCaravan.gerund>
   <!-- EN: load -->
-  <HelpGatheringItemsForCaravan.verb>TODO</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.verb>laad</HelpGatheringItemsForCaravan.verb>
   
   <!-- EN: hunt -->
-  <HunterHunt.label>TODO</HunterHunt.label>
+  <HunterHunt.label>jacht</HunterHunt.label>
   <!-- EN: hunting -->
   <HunterHunt.gerund>jagen</HunterHunt.gerund>
   <!-- EN: hunt -->
-  <HunterHunt.verb>jagen</HunterHunt.verb>
+  <HunterHunt.verb>jaag</HunterHunt.verb>
   
   <!-- EN: load transporters -->
-  <LoadTransporters.label>TODO</LoadTransporters.label>
+  <LoadTransporters.label>laad transportcapsules</LoadTransporters.label>
   <!-- EN: loading -->
-  <LoadTransporters.gerund>TODO</LoadTransporters.gerund>
+  <LoadTransporters.gerund>laden</LoadTransporters.gerund>
   <!-- EN: load -->
-  <LoadTransporters.verb>TODO</LoadTransporters.verb>
+  <LoadTransporters.verb>laad</LoadTransporters.verb>
   
   <!-- EN: operate long range scanner -->
-  <LongRangeScan.label>TODO</LongRangeScan.label>
+  <LongRangeScan.label>werk met langeafstandsscanner</LongRangeScan.label>
   <!-- EN: scanning at -->
-  <LongRangeScan.gerund>TODO</LongRangeScan.gerund>
+  <LongRangeScan.gerund>scannen bij</LongRangeScan.gerund>
   <!-- EN: scan -->
-  <LongRangeScan.verb>TODO</LongRangeScan.verb>
+  <LongRangeScan.verb>scan</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
-  <Milk.label>TODO</Milk.label>
+  <Milk.label>melk dieren</Milk.label>
   <!-- EN: milking -->
-  <Milk.gerund>TODO</Milk.gerund>
+  <Milk.gerund>melken</Milk.gerund>
   <!-- EN: milk -->
-  <Milk.verb>TODO</Milk.verb>
+  <Milk.verb>melk</Milk.verb>
   
   <!-- EN: mine -->
-  <Mine.label>TODO</Mine.label>
+  <Mine.label>delven</Mine.label>
   <!-- EN: mining -->
   <Mine.gerund>delven</Mine.gerund>
   <!-- EN: mine -->
-  <Mine.verb>delven</Mine.verb>
+  <Mine.verb>delf</Mine.verb>
   
   <!-- EN: open containers -->
-  <Open.label>TODO</Open.label>
+  <Open.label>open containers</Open.label>
   <!-- EN: opening -->
-  <Open.gerund>TODO</Open.gerund>
+  <Open.gerund>openen</Open.gerund>
   <!-- EN: open -->
-  <Open.verb>TODO</Open.verb>
+  <Open.verb>open</Open.verb>
   
   <!-- EN: go to bed for emergency treatment -->
-  <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.label>ga naar bed voor noodverzorging</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedEmergencyTreatment.gerund>TODO</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.gerund>verzorging ontvangen in</PatientGoToBedEmergencyTreatment.gerund>
   <!-- EN: receive treatment in -->
-  <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.verb>ontvang verzorging in</PatientGoToBedEmergencyTreatment.verb>
   
   <!-- EN: recuperate in bed -->
-  <PatientGoToBedRecuperate.label>TODO</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.label>herstel in bed</PatientGoToBedRecuperate.label>
   <!-- EN: getting bed rest in -->
-  <PatientGoToBedRecuperate.gerund>TODO</PatientGoToBedRecuperate.gerund>
+  <PatientGoToBedRecuperate.gerund>in bed uitrusten</PatientGoToBedRecuperate.gerund>
   <!-- EN: get bed rest in -->
-  <PatientGoToBedRecuperate.verb>TODO</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedRecuperate.verb>rust in bed uit</PatientGoToBedRecuperate.verb>
   
   <!-- EN: go to bed for treatment -->
-  <PatientGoToBedTreatment.label>TODO</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.label>ga naar bed voor verzorging</PatientGoToBedTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedTreatment.gerund>TODO</PatientGoToBedTreatment.gerund>
+  <PatientGoToBedTreatment.gerund>verzorging ontvangen in</PatientGoToBedTreatment.gerund>
   <!-- EN: receive treatment in -->
-  <PatientGoToBedTreatment.verb>TODO</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.verb>ontvang verzorging in</PatientGoToBedTreatment.verb>
   
   <!-- EN: cut plants -->
-  <PlantsCut.label>TODO</PlantsCut.label>
+  <PlantsCut.label>planten wieden</PlantsCut.label>
   <!-- EN: cutting -->
-  <PlantsCut.gerund>snijden</PlantsCut.gerund>
+  <PlantsCut.gerund>wieden</PlantsCut.gerund>
   <!-- EN: cut -->
-  <PlantsCut.verb>snijden</PlantsCut.verb>
+  <PlantsCut.verb>wied</PlantsCut.verb>
   
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>TODO</RearmTurrets.label>
+  <RearmTurrets.label>geschutskoepels herladen</RearmTurrets.label>
   <!-- EN: rearming -->
-  <RearmTurrets.gerund>TODO</RearmTurrets.gerund>
+  <RearmTurrets.gerund>herladen</RearmTurrets.gerund>
   <!-- EN: rearm -->
-  <RearmTurrets.verb>TODO</RearmTurrets.verb>
+  <RearmTurrets.verb>herlaad</RearmTurrets.verb>
   
   <!-- EN: refuel fuelable buildings -->
-  <Refuel.label>TODO</Refuel.label>
+  <Refuel.label>gebouwen bijtanken</Refuel.label>
   <!-- EN: refueling -->
-  <Refuel.gerund>TODO</Refuel.gerund>
+  <Refuel.gerund>bijtanken</Refuel.gerund>
   <!-- EN: refuel -->
-  <Refuel.verb>TODO</Refuel.verb>
+  <Refuel.verb>tank bij</Refuel.verb>
   
   <!-- EN: release prisoners -->
-  <ReleasePrisoner.label>TODO</ReleasePrisoner.label>
+  <ReleasePrisoner.label>laat gevangenen vrij</ReleasePrisoner.label>
   <!-- EN: releasing -->
-  <ReleasePrisoner.gerund>TODO</ReleasePrisoner.gerund>
+  <ReleasePrisoner.gerund>vrijlaten</ReleasePrisoner.gerund>
   <!-- EN: release -->
-  <ReleasePrisoner.verb>TODO</ReleasePrisoner.verb>
+  <ReleasePrisoner.verb>laat vrij</ReleasePrisoner.verb>
   
   <!-- EN: remove roofs -->
-  <RemoveRoofs.label>TODO</RemoveRoofs.label>
+  <RemoveRoofs.label>verwijder daken</RemoveRoofs.label>
   <!-- EN: removing roof -->
-  <RemoveRoofs.gerund>TODO</RemoveRoofs.gerund>
+  <RemoveRoofs.gerund>dak verwijderen</RemoveRoofs.gerund>
   <!-- EN: remove roof -->
-  <RemoveRoofs.verb>TODO</RemoveRoofs.verb>
+  <RemoveRoofs.verb>verwijder dak</RemoveRoofs.verb>
   
   <!-- EN: repair damaged things -->
-  <Repair.label>TODO</Repair.label>
+  <Repair.label>repareer beschadigde dingen</Repair.label>
   <!-- EN: repairing -->
   <Repair.gerund>repareren</Repair.gerund>
   <!-- EN: repair -->
-  <Repair.verb>repareren</Repair.verb>
+  <Repair.verb>repareer</Repair.verb>
   
   <!-- EN: do research -->
-  <Research.label>TODO</Research.label>
+  <Research.label>doe onderzoek</Research.label>
   <!-- EN: researching at -->
-  <Research.gerund>onderzoeken</Research.gerund>
+  <Research.gerund>onderzoeken bij</Research.gerund>
   <!-- EN: research -->
-  <Research.verb>onderzoeken</Research.verb>
+  <Research.verb>onderzoek</Research.verb>
   
   <!-- EN: shear animals -->
-  <Shear.label>TODO</Shear.label>
+  <Shear.label>scheer dieren</Shear.label>
   <!-- EN: shearing -->
-  <Shear.gerund>TODO</Shear.gerund>
+  <Shear.gerund>scheren</Shear.gerund>
   <!-- EN: shear -->
-  <Shear.verb>TODO</Shear.verb>
+  <Shear.verb>scheer</Shear.verb>
   
   <!-- EN: slaughter animals -->
-  <Slaughter.label>TODO</Slaughter.label>
+  <Slaughter.label>slacht dieren</Slaughter.label>
   <!-- EN: slaughtering -->
-  <Slaughter.gerund>TODO</Slaughter.gerund>
+  <Slaughter.gerund>slachten</Slaughter.gerund>
   <!-- EN: slaughter -->
-  <Slaughter.verb>TODO</Slaughter.verb>
+  <Slaughter.verb>slacht</Slaughter.verb>
   
   <!-- EN: strip corpses -->
-  <Strip.label>TODO</Strip.label>
+  <Strip.label>strip lijken</Strip.label>
   <!-- EN: stripping -->
-  <Strip.gerund>TODO</Strip.gerund>
+  <Strip.gerund>strippen</Strip.gerund>
   <!-- EN: strip -->
-  <Strip.verb>TODO</Strip.verb>
+  <Strip.verb>strip</Strip.verb>
   
   <!-- EN: take beer out of fermenting barrels -->
-  <TakeBeerOutOfFermentingBarrel.label>TODO</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.label>haal bier uit gistingsvaten</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
-  <TakeBeerOutOfFermentingBarrel.gerund>TODO</TakeBeerOutOfFermentingBarrel.gerund>
+  <TakeBeerOutOfFermentingBarrel.gerund>bier halen uit</TakeBeerOutOfFermentingBarrel.gerund>
   <!-- EN: take beer -->
-  <TakeBeerOutOfFermentingBarrel.verb>TODO</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.verb>haal bier uit</TakeBeerOutOfFermentingBarrel.verb>
   
   <!-- EN: take prisoners to bed -->
-  <TakePrisonerToBed.label>TODO</TakePrisonerToBed.label>
+  <TakePrisonerToBed.label>breng gevangenen naar bed</TakePrisonerToBed.label>
   <!-- EN: taking to bed -->
-  <TakePrisonerToBed.gerund>TODO</TakePrisonerToBed.gerund>
+  <TakePrisonerToBed.gerund>naar bed brengen</TakePrisonerToBed.gerund>
   <!-- EN: take to bed -->
-  <TakePrisonerToBed.verb>TODO</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.verb>breng naar bed</TakePrisonerToBed.verb>
   
   <!-- EN: take patients to bed for operations -->
-  <TakeToBedToOperate.label>TODO</TakeToBedToOperate.label>
+  <TakeToBedToOperate.label>breng patiënten naar bed voor operaties</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
-  <TakeToBedToOperate.gerund>naar een bed brengen voor operatie</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.gerund>brengen voor operatie</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
-  <TakeToBedToOperate.verb>naar een bed brengen voor operatie</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.verb>breng voor operatie</TakeToBedToOperate.verb>
   
   <!-- EN: tame animals -->
-  <Tame.label>TODO</Tame.label>
+  <Tame.label>tem dieren</Tame.label>
   <!-- EN: taming -->
-  <Tame.gerund>TODO</Tame.gerund>
+  <Tame.gerund>temmen</Tame.gerund>
   <!-- EN: tame -->
-  <Tame.verb>TODO</Tame.verb>
+  <Tame.verb>tem</Tame.verb>
   
   <!-- EN: train animals -->
-  <Train.label>TODO</Train.label>
+  <Train.label>train dieren</Train.label>
   <!-- EN: training -->
-  <Train.gerund>TODO</Train.gerund>
+  <Train.gerund>trainen</Train.gerund>
   <!-- EN: train -->
-  <Train.verb>TODO</Train.verb>
+  <Train.verb>train</Train.verb>
   
   <!-- EN: uninstall structures -->
-  <Uninstall.label>TODO</Uninstall.label>
+  <Uninstall.label>breek structuren af</Uninstall.label>
   <!-- EN: uninstalling -->
-  <Uninstall.gerund>TODO</Uninstall.gerund>
+  <Uninstall.gerund>afbreken</Uninstall.gerund>
   <!-- EN: uninstall -->
-  <Uninstall.verb>TODO</Uninstall.verb>
+  <Uninstall.verb>breek af</Uninstall.verb>
   
   <!-- EN: unload carriers -->
-  <UnloadCarriers.label>TODO</UnloadCarriers.label>
+  <UnloadCarriers.label>laad dragers uit</UnloadCarriers.label>
   <!-- EN: unloading -->
-  <UnloadCarriers.gerund>TODO</UnloadCarriers.gerund>
+  <UnloadCarriers.gerund>uitladen</UnloadCarriers.gerund>
   <!-- EN: unload -->
-  <UnloadCarriers.verb>TODO</UnloadCarriers.verb>
+  <UnloadCarriers.verb>laad uit</UnloadCarriers.verb>
   
   <!-- EN: visit sick people -->
-  <VisitSickPawn.label>TODO</VisitSickPawn.label>
+  <VisitSickPawn.label>ga op ziekenbezoek</VisitSickPawn.label>
   <!-- EN: visiting -->
-  <VisitSickPawn.gerund>TODO</VisitSickPawn.gerund>
+  <VisitSickPawn.gerund>bezoeken</VisitSickPawn.gerund>
   <!-- EN: visit -->
-  <VisitSickPawn.verb>TODO</VisitSickPawn.verb>
+  <VisitSickPawn.verb>bezoek</VisitSickPawn.verb>
   
 </LanguageData>

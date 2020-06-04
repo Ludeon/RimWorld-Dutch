@@ -45,9 +45,9 @@
   <BrawlerUnhappy.label>Vechtjas heeft een wapen</BrawlerUnhappy.label>
   <BrawlerUnhappy.description>Ik haat vuurwapens. Ik wil gewoon naar ze toegaan en ze in het gezicht slaan!</BrawlerUnhappy.description>
   <!-- EN: brawler has ranged weapon -->
-  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>TODO</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>vechtjas heeft een afstandswapen</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
   <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
-  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>TODO</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Ik haat afstandswapens. Ik wil gewoon naar iemand toegaan en ze in het gezicht slaan!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
   
   <!-- EN: constraining clothes -->
   <ClothedNudist.stages.constraining_clothes.label>TODO</ClothedNudist.stages.constraining_clothes.label>
@@ -78,9 +78,9 @@
   <HappyNude.label>Naakt en gelukkig</HappyNude.label>
   <HappyNude.description>Ik ben naakt en vind het geweldig! Ik voel me zo vrij, onbegrendsd en één met de natuur!</HappyNude.description>
   <!-- EN: happily nude -->
-  <HappyNude.stages.happily_nude.label>TODO</HappyNude.stages.happily_nude.label>
+  <HappyNude.stages.happily_nude.label>naakt en gelukkig</HappyNude.stages.happily_nude.label>
   <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
-  <HappyNude.stages.happily_nude.description>TODO</HappyNude.stages.happily_nude.description>
+  <HappyNude.stages.happily_nude.description>Ik ben naakt e nvind het geweldig. Ik voel me zo vrij, onbegrensd en één met de natuur!</HappyNude.stages.happily_nude.description>
   
   <!-- EN: jealous of {0}'s bedroom -->
   <Jealous.stages.jealous_of_s_bedroom.label>TODO</Jealous.stages.jealous_of_s_bedroom.label>

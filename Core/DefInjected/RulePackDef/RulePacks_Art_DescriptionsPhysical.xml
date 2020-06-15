@@ -6,9 +6,11 @@
     <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
   -->
-  <ArtDescription_Furniture.rulePack.rulesStrings><li>physical_description_root->Dit meubelstuk is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
+  <ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>physical_description_root->Dit meubelstuk is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Dit meubelstuk toont een [depiction] van [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Een gravure op dit meubelsteuk toont een [depicts] [image]. [desc_sentence_group]</li></ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>physical_description_root->Een gravure op dit meubelsteuk toont een [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
@@ -20,7 +22,8 @@
     <li>physical_description_root->De sarcofaag is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->De sarcofaag toont een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->De sarcofaag is gegvraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Een gravure op de sarcofaag toont een [depicts] [image]. [desc_sentence_group]</li></ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>physical_description_root->Een gravure op de sarcofaag toont een [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
@@ -38,7 +41,8 @@
     <li>sculpture->beeld</li>
     <li>sculpture->werk</li>
     <li>sculpture->stuk</li>
-    <li>sculpture->snijwerk</li></ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>sculpture->snijwerk</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>

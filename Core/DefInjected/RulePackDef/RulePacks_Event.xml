@@ -6,7 +6,7 @@
   -->
   <Event_AbilityUsed.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite] gebruikte [ABILITY_label] op [SUBJECT_definite].</li>
-    </Event_AbilityUsed.rulePack.rulesStrings>
+  </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>

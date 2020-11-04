@@ -55,7 +55,7 @@
   <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>Je hebt het bandietenkamp verslagen!\n\nDe betaling van [asker_faction_name] is gearriveerd.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
-  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
   <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>Deze kolonisten hebben meegewerkt aan het succesvol voldoen van de opdracht [resolvedQuestName]. [asker_definite] wil weten wie de [royalFavorReward_amount] [asker_faction_royalFavorLabel] mag ontvangen voor deze dienst.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

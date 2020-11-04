@@ -109,7 +109,7 @@
   <PsychicDroneLevel>Psychische bromtoon-niveau: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Bromtoon versterkt</LetterLabelPsychicDroneLevelIncreased>
-  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>Het gecrashte stuk schip straalt nu een krachtiger soort psychische bromtoon uit. Ieder mens in het gebied voelt zich nu meer verontrust, bang en paranoïde.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->

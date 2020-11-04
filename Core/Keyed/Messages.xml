@@ -13,6 +13,9 @@
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} van {1} hebben besloten om te stelen wat ze kunnen stelen en weg te gaan.</MessageRaidersStealing>
 
+  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
@@ -76,6 +79,8 @@
   <MessageTameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans) en {RECRUITEE_objective} {RECRUITEE_nameFull} genoemd.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>De kolonie kan zich deze deal niet veroorloven.</MessageColonyCannotAfford>
@@ -141,15 +146,6 @@
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort} is ingestort door extreme uitputting.</MessageInvoluntarySleep>
 
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} heeft een kleine fout gemaakt tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} faalde catastrofaal tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} faalde met de operatie op {PATIENT_labelShort} op een belachelijke manier ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} maakte een fatale fout tijdens de operatie op {PATIENT_labelShort} als gevolg van speciale uitwerkingen: {2}</MessageMedicalOperationFailureFatal>
-
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Deze operatie zal boosheid opwekken bij {0}.</MessageMedicalOperationWillAngerFaction>
 
@@ -194,7 +190,7 @@
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort} begon een sociale ruzie met {PAWN2_labelShort}.</MessageSocialFight>
   
-  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>Kolonisten verzamelen zich om het huwelijk van {PAWN1_labelShort} en {PAWN2_labelShort} te vieren.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort} en {PAWN2_labelShort} beginnen hun huwelijksceremonie!</MessageMarriageCeremonyStarts>
@@ -453,9 +449,6 @@
   <!-- EN: Cannot build a roof over {0}. -->
   <MessageRoofIncompatibleWithPlant>Kan geen dak over {0} bouwen.</MessageRoofIncompatibleWithPlant>
 
-  <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>Karavaan reist automatisch naar het eerste routepunt.</MessageChoseRoute>
-
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Om het gebied te verlaten, gebruikt je de 'karavaan hervormingsknop' in het wereld menu.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
@@ -513,6 +506,18 @@
   <GoodwillChangedReason_RequestedMilitaryAid>militaire steun aangevraagd</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
   <GoodwillChangedReason_RequestedTrader>handelskaravaan aangevraagd</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} accepteert je cadeau, maar ze waarderen het niet.</MessageGiftGivenButNotAppreciated>
@@ -551,7 +556,7 @@
   <!-- EN: {0} couldn't reach its destination. -->
   <MessageCaravanArrivalActionNoLongerValid>{0} kon zijn bestemming niet bereiken</MessageCaravanArrivalActionNoLongerValid>
 
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <MessageEnterCooldownBlocksEntering>Je kunt niet nogmaals binnenkomen voor {0} dagen. </MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
@@ -615,5 +620,11 @@
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label} is op dit moment verborgen.</MessageCannotSelectInvisibleStat>
+
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
+
+  <!-- UNUSED -->
+  <MessageChoseRoute>Karavaan reist automatisch naar het eerste routepunt.</MessageChoseRoute>
 
 </LanguageData>

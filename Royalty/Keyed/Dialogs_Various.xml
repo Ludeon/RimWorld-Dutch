@@ -52,6 +52,8 @@
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
   <BladelinkEquipWarning>Wanneer dit wapen eenmaal een band met een gebruiker heeft opgebouwd, zal de wapenpersona geen andere gebruikers meer accepteren.</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>TODO</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>Weet je zeker dat je dit voorwerp wilt gebruiken?</RoyalWeaponEquipConfirmation>
   
@@ -70,7 +72,11 @@
   <RoyalWithConceitedTrait>Omdat {PAWN_labelShort} {2} is, eist {PAWN_pronoun} dat de titelprivileges volledig gerespecteerd worden. {PAWN_labelShort} kan bepaald werk of slecht eten weigeren, en zal besluiten uitvaardigen. Een andere kolonist zou zich waarschijnlijk flexibeler opstellen.</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
   <RoyalWithTraitAffectingPsylinkNegatively>Omdat {PAWN_labelShort} een {2} is, is de psylink misschien niet nuttig voor {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
-  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}'s psylink is niet op een hoog genoeg niveau om {ABILITY} te kunnen gebruiken.\n\nProbeer toch de psyuitzending te ontvangen?</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>TODO</SendShuttleWithNoContents>
+  <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
+  <DropResourcesOverweightConfirm>TODO</DropResourcesOverweightConfirm>
 
 </LanguageData>

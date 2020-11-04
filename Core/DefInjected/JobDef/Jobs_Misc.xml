@@ -16,6 +16,18 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>iets aan het doen.</CastAbilityOnThing.reportString>
   
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>TODO</CastJump.reportString>
+  
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>sneeuw aan het opruimen.</ClearSnow.reportString>
   
@@ -112,6 +124,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>TargetA bijtanken.</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TODO</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>TargetA aan het uittrekken.</RemoveApparel.reportString>
   
@@ -127,7 +142,7 @@
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>bier tappen uit TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
-  <!-- EN: taking TargetA. -->
+  <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>TargetA aan het pakken.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
@@ -153,6 +168,9 @@
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>Iets aan het doen.</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>aan het overgeven.</Vomit.reportString>

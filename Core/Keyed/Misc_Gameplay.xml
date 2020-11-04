@@ -176,7 +176,7 @@
   <UsingBedrolls>gebruikt {0} slaapzakken</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Geschatte tijd tot bestemming: {0} dagen</CaravanEstimatedTimeToDestination>
-  <!-- EN: Estimated days to arrive: {0} -->
+  <!-- EN: Route travel time: {0} days -->
   <CaravanEstimatedDaysToDestination>Geschatte dagen tot aankomst: {0} </CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Kan niet bewegen: Te veel gewicht.</CaravanImmobilizedByMass>
@@ -246,10 +246,10 @@
   <DeterioratingBecauseOf>Verslechterend door</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>Kaart</Map>
-  <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>{0} tot vertrek</ForceExitAndRemoveMapCountdown>
-  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>Je kolonisten hervormen automatisch de karavaan en verlaten dit gebied in {0}.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Kamer</Room>
   <!-- EN: Beauty here -->
@@ -368,18 +368,18 @@
   <CreatureFollowFieldwork>Volg het baasje tijdens veldwerk</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} met {1}</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <EnterCooldown>Je kunt dit de komende {0} dagen niet opnieuw binnen gaan.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Karavaan </Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>er kan daar gevaar zijn</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>brok van {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>geen actief onderzoeksproject</NoActiveResearchProjectToFinish>
-  <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>Kan niet onderzoeken: Geen onderzoekstafel</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>geschutskoepel</Turret>
   <!-- EN: turrets -->
@@ -532,6 +532,8 @@
   <TextMote_Immune>Immuun</TextMote_Immune>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} verzorgd</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>TODO</TextMote_SkillUp>
   <!-- EN: low mood -->
   <lowMood>laag humeur</lowMood>
   <!-- EN: low opinion -->
@@ -620,6 +622,8 @@
   <WatchingAurora>kijken naar het poollicht.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>gebruikt {0} tot {1}.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>gebied</AreaLower>
   <!-- EN: cowering. -->
@@ -722,7 +726,7 @@
   <Faction>Factie</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
   <FactionDesc>De factie waar {PAWN_labelShort} op dit moment bijhoort.</FactionDesc>
-  <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
   <ExtraFactionDesc>De factie waar {PAWN_labelShort} oorspronkelijk bijhoorde. {PAWN_pronoun} zal zich opnieuw bij {PAWN_possessive} thuisfactie aansluiten als ze bij de huidige factie vetrekken.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Uitgerust met</Equipped>
@@ -1020,9 +1024,9 @@
   <HibernateWarningStandalonePacifist>De reactor is klaar om opgestart te worden. Het proces duurt ongeveer 15 dagen.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: neurotrainer ({0}) -->
+  <!-- EN: skilltrainer ({0}) -->
   <SkillNeurotrainerLabel>neurotrainer ({0})</SkillNeurotrainerLabel>
-  <!-- EN: Use skill neurotrainer to learn {0} -->
+  <!-- EN: Use skilltrainer to learn {0} -->
   <SkillNeurotrainerUseLabel>Gebruik neurotrainervaardigheid om {0} te leren</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>Een éénmalige superdosis van nanobots die een specifieke vaardigheid trainen.\n\nDe dosis wordt toegepast via oogdruppels. Eenmaal in de hersenen, zullen de nanobots snel een speficieke vaardigheid van de patient verbeteren door zichzelf om te zetten in hersenweefsel.</SkillNeurotrainerDescription>
@@ -1163,6 +1167,10 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>De grondstoffen door diepboren zijn uitgeput.</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>TODO</ChargesRemaining>
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Leerhulp</LearningHelper>
@@ -1238,7 +1246,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>Neurale warmte: {0} / {1}\nAftelratio: {2} / s ({3}s tot nul) </PawnTooltipPsychicEntropyStats>
-  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>Neurale warmte neemt toe na het uitvoeren van een psycast. Het overschrijden van de normale limiet kan tot een inzinking leiden van meerdere dagen.\n\nNeurale warmte wordt over tijd uitgestraald en koelt af. Dit proces kan worden versneld door eltex kleding te dragen of door pijn te ervaren.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>Pijnversterker\n\nPijn focust de geest en versnelt het uitstoten van neurale warmte.\n\nPijnniveau: {0}\nEntropieherstelbonus: {1}</PawnTooltipPsychicEntropyPainFocus>
@@ -1274,6 +1282,26 @@
   <Reward_CampLoot>je kunt alles plunderen in het kamp</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>Kampbuit</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>TODO</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>waarde {0}</TotalValue>
   
@@ -1284,6 +1312,12 @@
   <NotBonded>Nog niet verbonden</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>Verbonden met iemand anders</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1311,4 +1345,9 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Veroorzaakt door: {0}</CausedByHediff>
   
+  <!-- UNUSED -->
+  <ForceExitAndRemoveMapCountdown>{0} tot vertrek</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>Je kolonisten hervormen automatisch de karavaan en verlaten dit gebied in {0}.</ForceExitAndRemoveMapCountdownTip>
+  <CannotResearchNoBench>Kan niet onderzoeken: Geen onderzoekstafel</CannotResearchNoBench>
+
 </LanguageData>

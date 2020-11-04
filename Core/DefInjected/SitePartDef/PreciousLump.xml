@@ -5,5 +5,7 @@
   <PreciousLump.label>klomp waardevolle grondstoffen</PreciousLump.label>
   <!-- EN: A mineable lump of precious resources. -->
   <PreciousLump.description>Een delfbare klomp waardevolle grondstoffen.</PreciousLump.description>
+  <!-- EN: Hostile activity detected. -->
+  <PreciousLump.mainPartAllThreatsLabel>TODO</PreciousLump.mainPartAllThreatsLabel>
   
 </LanguageData>

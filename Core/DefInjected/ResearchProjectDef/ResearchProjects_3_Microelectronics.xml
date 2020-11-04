@@ -56,9 +56,9 @@
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
   <PrecisionRifling.description>Maak nauwkeurig gemachineerde wapens zoals stormgeweren en scherpschuttersgeweren</PrecisionRifling.description>
   
-  <!-- EN: shield belt -->
+  <!-- EN: shields -->
   <ShieldBelt.label>schildriem</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
   <ShieldBelt.description>Bouw schildriemen, die gebruik maken van momentumblokkade-technologie om inkomende en uitgaande schoten te blokkeren.</ShieldBelt.description>
   
   <!-- EN: transport pod -->

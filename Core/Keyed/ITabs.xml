@@ -112,6 +112,8 @@
   <ShouldTryToRecruit>Probeer te recruteren</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Schuldig bevonden (vervalt in {0})</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -277,18 +279,10 @@
   <CopyLogTip>Kopieer logboek naar klembord.</CopyLogTip>
 
   <!-- Forming caravan tab -->
-  <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>Dieren verzamelen</FormingCaravanStatus_GatheringAnimals>
-  <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>Dieren verzamelen (wachten)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>Items verzamelen</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
   <FormingCaravanStatus_GatheringItems_Pause>Items verzamelen (wahten)</FormingCaravanStatus_GatheringItems_Pause>
-  <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>Slaven verzamelen</FormingCaravanStatus_GatheringSlaves>
-  <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>Slaven verzamelen (wachten)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
   <FormingCaravanStatus_GatheringDownedPawns>Verzamelen van neergehaalde mensen</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
@@ -303,9 +297,9 @@
   <CaravanMembers>Leden</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>Dieren </CaravanAnimals>
-  <!-- EN: Items to load -->
+  <!-- EN: To load -->
   <ItemsToLoad>Te laden items</ItemsToLoad>
-  <!-- EN: Loaded items -->
+  <!-- EN: Loaded -->
   <LoadedItems>Geladen items </LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>lastdieren laden</PackAnimalsCountLower>
@@ -329,5 +323,11 @@
   <QuestDismissed>Deze opdracht is hier omdat hij is afgewezen.\n\nJe kunt de opdracht alsnog accepteren voordat hij afloopt.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>Verwijder deze opdracht definitief uit de lijst met opdrachten.</DeleteQuest>
+
+  <!-- UNUSED -->
+  <FormingCaravanStatus_GatheringAnimals>Dieren verzamelen</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Dieren verzamelen (wachten)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringSlaves>Slaven verzamelen</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Slaven verzamelen (wachten)</FormingCaravanStatus_GatheringSlaves_Pause>
 
 </LanguageData>

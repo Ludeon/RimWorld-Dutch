@@ -4,7 +4,7 @@
   <!-- EN: Arresting worsens faction relations -->
   <ArrestingCreatesEnemies.label>Arresteren verergert factie relaties</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
-  <ArrestingCreatesEnemies.helpText>De persoon die je probeert te arresteren</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>De persoon die je probeert te arresteren zal zich mogelijk verzetten.\n\nAls je een niet-kolonist of een kolonist van een andere factie arresteert, kan hun hele factie zich tegen je keren.\n\nDeze arrestatie heeft een kans van {0} op succes, gebaseerd op de sociale vaardigheid van de arresterende kolonist.</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Maximum aantal speler kolonies</MaxNumberOfPlayerSettlements.label>

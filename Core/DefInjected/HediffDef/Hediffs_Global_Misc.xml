@@ -105,11 +105,11 @@
   <Pregnant.stages.latestage.label>eindfase</Pregnant.stages.latestage.label>
   
   <!-- EN: psychic coma -->
-  <PsychicComa.label>TODO</PsychicComa.label>
+  <PsychicComa.label>psychisch coma</PsychicComa.label>
   <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
-  <PsychicComa.description>TODO</PsychicComa.description>
+  <PsychicComa.description>Een vorm van goedaardig coma waarin de hersenen herstellen van een psychische overbelasting.</PsychicComa.description>
   <!-- EN: a psychic coma -->
-  <PsychicComa.labelNoun>TODO</PsychicComa.labelNoun>
+  <PsychicComa.labelNoun>een psychisch coma</PsychicComa.labelNoun>
   
   <!-- EN: psychic hangover -->
   <PsychicHangover.label>psychische kater</PsychicHangover.label>

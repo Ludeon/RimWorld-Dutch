@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Custom -->
-  <Custom.label>TODO</Custom.label>
+  <Custom.label>Vrij spel</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>TODO</Custom.description>
+  <Custom.description>Met deze variant kun je zelf je eigen speelinstellingen tot in de details configureren.\n\nAangeraden aan:\n\n- Spelers die tevreden zijn met standaard speelstijlen, maar een paar kleine details willen veranderen.\n- Spelers die willen experimenteren met andere instellingen.</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>Bouw een gemeenschap</Easy.label>

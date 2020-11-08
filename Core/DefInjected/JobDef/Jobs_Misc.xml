@@ -125,7 +125,7 @@
   <RefuelAtomic.reportString>TargetA bijtanken.</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>TODO</Reload.reportString>
+  <Reload.reportString>TargetA herladen.</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>TargetA aan het uittrekken.</RemoveApparel.reportString>

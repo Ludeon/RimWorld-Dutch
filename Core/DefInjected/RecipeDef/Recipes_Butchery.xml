@@ -13,13 +13,13 @@
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
   <ButcherCorpseMechanoid.description>Breek een mechanoïde af in een poging bruikbare onderdelen te verzamelen.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>Mechanoide afbreken.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>Mechanoïde afbreken.</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>mechanoïde kapot slaan</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>Sla een mechanoïde met eenvoudige handwerktuigen om bruikbaar materiaal te verzamelen.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>Mechanoïde aan het slaan</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

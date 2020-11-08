@@ -49,8 +49,8 @@
   <RandomDrop.textWillArrive>{0_pawnsPluralDef} arriveren in transportcapsules.</RandomDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in a shuttle. -->
-  <Shuttle.textEnemy>TODO</Shuttle.textEnemy>
+  <Shuttle.textEnemy>Een groep {0} van {1} zijn per shutle gearriveerd.</Shuttle.textEnemy>
   <!-- EN: A friendly group of {0} from {1} have arrived in a shuttle. -->
-  <Shuttle.textFriendly>TODO</Shuttle.textFriendly>
+  <Shuttle.textFriendly>Een vriendelijke groep {0} van {1} zijn gearriveerd in een shuttle.</Shuttle.textFriendly>
   
 </LanguageData>

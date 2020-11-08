@@ -46,7 +46,7 @@
     <li>image->een [Character] [desc_pawn] die [Game] speelt met [Quantity_adjphrase] [Character]s</li>
     <li>image->een [Character] [desc_pawn] met een [Weapon] in de hand</li>
     <li>image->een [Character] [desc_pawn] terwijl ze een [Vegetable] eten</li>
-    <li>image->[Quantity_adjphrase] [PersonJob]s en [PersonJob]s die samen [Vegetable]s eten</li>
+    <li>image->[Quantity_adjphrase] [PersonJobPlural] en [PersonJobPlural] die samen [Vegetable]s eten</li>
     <li>image->de lokale beroemdheid [NamePerson] [desc_pawn]</li>
     <li>image->een [Character] die een [Apparel] draagt en [desc_pawn]</li>
     <li>image->een [Community]</li>
@@ -71,7 +71,9 @@
     <li>desc_pawn->die zichtbaar is als silhouet</li>
     <li>desc_pawn->die rijdt op een [Animal]</li>
     <li>desc_pawn->die er [AdjectiveAny] uitziet</li>
-    <li>desc_pawn->die onder de [Gore] zit</li>
+    <li>desc_pawn(p=0.3)->Die onder de [GoreMF] zit</li>
+    <li>desc_pawn(p=0.3)->Die onder het [GoreNeuter] zit</li>
+    <li>desc_pawn(p=0.3)->Die onder de [GorePlural] zit</li>
   </TalelessImages.rulePack.rulesStrings>
   
 </LanguageData>

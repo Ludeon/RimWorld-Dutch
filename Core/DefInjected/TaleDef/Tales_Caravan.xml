@@ -32,24 +32,28 @@
     <li>tale_noun->[PAWN_nameDef]'s karavaan in gevecht tegen een hinderlaag</li>
     <li>image->[PAWN_nameFull] die tegenstand organiseert terwijl [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die een [Weapon] defensief gebruikt terwijl [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] die weerwraak neemt met [PAWN_possessive] [Weapon] terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die terug vecht met [PAWN_possessive] [Weapon] terwijl [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die sterk staat als een huis terwijl [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] met een [AdjectiveBadass] uitdrukking terwijl [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] met een [AdjectiveAngsty] uitdrukking terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [AdjectiveBadassGendered] uitdrukking op zijn gezicht heeft, terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [AdjectiveAngstyGendered] uitdrukking op zijn gezicht heeft, terwijl [circumstance_group]</li>
     <li>circumstance_phrase->een horde vijanden dichterbij komt</li>
-    <li>circumstance_phrase->de wagens omsingeld worden</li>
+    <li>circumstance_phrase->de wagens defensief worden opgesteld</li>
     <li>circumstance_phrase->[PAWN_pronoun] de overwinning uitroept</li>
-    <li>circumstance_phrase->[Weapon] worden gebruikt</li>
-    <li>circumstance_phrase->[PAWN_pronoun] met [Gore] bedekt is</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] komen dichterbij, met getrokken [Weapon].</li>
-    <li>desc_sentence->Een enorme [Enemy] komt dichterbij, met getrokken [Weapon].</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] komen dichterbij met een [AdjectiveBadass] gelaatsuitdrukking.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] komen dichterbij met een [AdjectiveAngsty] gelaatsuitdrukking.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] komen dichterbij met [Color] gekleurde ogen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] komen dichterbij, bedekt met [Gore].</li>
-    <li>desc_sentence->De grond is vol [Gore] gesmeerd.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] vluchten uit de regio.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal] vluchten uit de regio.</li>
+    <li>circumstance_phrase->[PAWN_pronoun] met [WeaponPlural] zwaait</li>
+    <li>circumstance_phrase(p=0.3)->[PAWN_pronoun] onder de [GoreGendered] zit</li>
+    <li>circumstance_phrase(p=0.3)->[PAWN_pronoun] onder het [GoreNeuter] zit</li>
+    <li>circumstance_phrase(p=0.3)->[PAWN_pronoun] onder de [GorePlural] zit</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] komen dichterbij, met getrokken [Weapon].</li>
+    <li>desc_sentence->Een [AdjectiveLargeGendered] [EnemyGendered] komt dichterbij, met getrokken [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] komen dichterbij met een [AdjectiveBadassGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] komen dichterbij met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] met lichtgevende [AdjectiveColor] ogen komen dichterbij.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] komen dichterbij, bedekt met [Gore].</li>
+    <li>desc_sentence(p=0.3)->De grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.3)->De grond zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.3)->De grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] vluchten uit de regio.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] vluchten uit de regio.</li>
   </CaravanAmbushDefeated.rulePack.rulesStrings>
 
   <!-- EN: caravan assault successful -->
@@ -74,23 +78,25 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
   <CaravanAssaultSuccessful.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]'s karavaan verovert een vijandig bolwerk</li>
-    <li>image->[PAWN_nameFull] rent op [Enemy] af, [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] met een [Weapon], [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] zwaaiend met een [Weapon], [circumstance_group]</li>
-    <li>image->[PAWN_nameFull], sterk als een huis, [circumstance_group]</li>
-    <li>circumstance_phrase->met een [AdjectiveBadass] blik in [PAWN_possessive] ogen</li>
-    <li>circumstance_phrase->met een [AdjectiveAngsty] blik in [PAWN_possessive] ogen</li>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die een vijandig bolwerk verovert</li>
+    <li>image->[PAWN_nameFull] die op een [Enemy] af rent, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die uitgerust is met een [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die zwaait met een [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die sterk staat als een huis, [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] blik in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] blik in [PAWN_possessive] ogen</li>
     <li>circumstance_phrase->de overwinning uitschreeuwend</li>
     <li>circumstance_phrase->met [Gore] bedekt</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] verschuilen zich voor de aanval.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] ontvluchten de regio.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Enemy] zijn zichtbaar gewond.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] verschuilen zich voor de aanval.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] ontvluchten de regio.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] zijn zichtbaar gewond.</li>
     <li>desc_sentence->Een [Community] brandt aan de horizon.</li>
     <li>desc_sentence->Een [Community] rookt aan de horizon.</li>
-    <li>desc_sentence->De grond is bedekt met [Gore].</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] ontvluchten de regio.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [Animal]en ontvluchten de regio.</li>
+    <li>desc_sentence(p=0.3)->De grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.3)->De grond zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.3)->De grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ontvluchten de regio.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten de regio.</li>
   </CaravanAssaultSuccessful.rulePack.rulesStrings>
 
   <!-- EN: caravan fled -->
@@ -117,7 +123,28 @@
     <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
     <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
   -->
-  <CaravanFled.rulePack.rulesStrings>TODO</CaravanFled.rulePack.rulesStrings>
+  <CaravanFled.rulePack.rulesStrings>
+    <li>tale_noun->de karavaan van [PAWN_nameDef] die gevaar ontvlucht</li>
+    <li>tale_noun->de karavaan van [PAWN_nameDef] die ontkomt aan gevaar</li>
+    <li>tale_noun->de karavaan van [PAWN_nameDef] die ternauwernood aan gevaar ontsnapt</li>
+    <li>tale_noun->de karavaan van [PAWN_nameDef] die door vijanden weg wordt gejaagd</li>
+    <li>image(PAWN_gender!=Female)->[PAWN_nameFull] die zo snel als hij kan wegrent van [circumstance_group]</li>
+    <li>image(PAWN_gender==Female)->[PAWN_nameFull] die zo snel als ze kan wegrent van [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die weg sprint van [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die achter een [TerrainFeature] zit, verscholen voor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die zich al vechtend terug trekt van [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die nonchalant weg wandelt van [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [Quantity_adjphrase] [EnemyPlural] achtervolgen</li>
+    <li>circumstance_phrase->terwijl [Quantity_adjphrase] [EnemyPlural] speuren</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [EnemyPlural]</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] vijandelijke [AnimalPlural]</li>
+    <li>circumstance_phrase->een [AdjectiveLargeGendered] [EnemyGendered]</li>
+    <li>desc_sentence->[PAWN_nameDef]'s achtervolgers houden [WeaponPlural] vast.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s achtervolgers zijn gehuld in [AdjectiveColor] rook.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s achtervolgers hebben [AdjectiveAngstyGendered] gezichtsuitdrukkingen.</li>
+    <li>desc_sentence->[PAWN_nameDef] is bezweet.</li>
+    <li>desc_sentence->[PAWN_nameDef] snakt naar adem.</li>
+  </CaravanFled.rulePack.rulesStrings>
 
   <!-- EN: caravan formed -->
   <CaravanFormed.label>karavaan gevormd</CaravanFormed.label>
@@ -140,7 +167,25 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
   -->
-  <CaravanFormed.rulePack.rulesStrings>TODO</CaravanFormed.rulePack.rulesStrings>
+  <CaravanFormed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die op avontuur gaat</li>
+    <li>tale_noun->[PAWN_nameDef] die een karavaan vormt</li>
+    <li>image->[PAWN_nameFull] die vastberaden naar voren stapt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die naar de horizon kijkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die spullen inpakt voor een lange reis [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een reis plant [circumstance_group]</li>
+    <li>circumstance_phrase->en is voorbereid op een gevecht</li>
+    <li>circumstance_phrase->en is uitgerust om te overleven</li>
+    <li>circumstance_phrase->en is uitgerust om ontdekkingen te doen</li>
+    <li>circumstance_phrase->met een enthousiaste blik in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->met een [AdjectiveAnyGendered] blik in [PAWN_possessive] ogen</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] de voorbereidingen gadeslaan.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] met de voorbereidingen helpen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] terugdeinzen voor het tableau.</li>
+    <li>desc_sentence->Een [TerrainFeature] is zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken van een afstandje toe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] zijn vreedzaam aanwezig.</li>
+  </CaravanFormed.rulePack.rulesStrings>
 
   <!-- EN: caravan remote mining -->
   <CaravanRemoteMining.label>karavaan delft op afstand</CaravanRemoteMining.label>
@@ -163,6 +208,24 @@
     <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
-  <CaravanRemoteMining.rulePack.rulesStrings>TODO</CaravanRemoteMining.rulePack.rulesStrings>
+  <CaravanRemoteMining.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die een rijke ader [MATERIAL_label] in een ver land delft</li>
+    <li>image->[PAWN_nameFull] die bij een muur van [MATERIAL_label] werkt met mijnbouwgereedschap, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een brok [MATERIAL_label] omhooghoudt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die uitrust tegen een muur van [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een team kompels organiseert bij een ader [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die voorzichtig een rijke ader [MATERIAL_label] inspecteert, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] erg zweet</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] een [AdjectiveFriendlyGendered] uitdrukking op [PAWN_possessive] gezicht heeft</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] trots lacht</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] een tevreden uitdrukking op [PAWN_possessive] gezicht heeft</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] rond kijkt of er geen gevaar dreigt</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] helpen mee.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] zijn in het gebied aanwezig.</li>
+    <li>desc_sentence->Er is een vlug opgetrokken onderkomen op de achtergrond.</li>
+    <li>desc_sentence->Er zijn nog [Quantity_adjphrase] andere aders zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->Een [TerrainFeature] is zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit onder het zweet en het vuil door al het werk.</li>
+  </CaravanRemoteMining.rulePack.rulesStrings>
 
 </LanguageData>

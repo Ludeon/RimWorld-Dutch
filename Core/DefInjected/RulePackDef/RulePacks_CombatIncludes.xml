@@ -33,7 +33,21 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <Combat_FailIncludes.rulePack.rulesStrings>TODO</Combat_FailIncludes.rulePack.rulesStrings>
+  <Combat_FailIncludes.rulePack.rulesStrings>
+    <li>action->[INITIATOR_label] [tried] om [RECIPIENT_label] te [damaged_inf]</li>
+    <li>action->[INITIATOR_label] [tried] om [RECIPIENT_label] met [implement] te [damaged_inf]</li>
+    <li>action->[INITIATOR_label] [tried] [INITIATOR_possessive] [implement] te gebruiken om [RECIPIENT_label] te [damaged_inf]</li>
+    <li>action->[INITIATOR_label] zwaaide met [INITIATOR_possessive] [WEAPON_label] richting [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] [implement] [towardsat] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] [implement]</li>
+    <li>towardsat->naar</li>
+    <li>towardsat->richting</li>
+    <li>verb_genericattack->zwaaide met</li>
+    <li>verb_genericattack->mepte met</li>
+    <li>verb_genericattack->sloeg met</li>
+    <li>tried->probeerde</li>
+    <li>tried->deed een poging</li>
+  </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>

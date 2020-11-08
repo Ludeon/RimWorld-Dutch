@@ -70,6 +70,8 @@
   <CommandBedSetOwnerDesc>Wijs dit bed toe aan een specifieke kolonist.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>Wijs deze troon toe aan een specifieke kolonist.</CommandThroneSetOwnerDesc>
+  <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
+  <CommandMeditationSpotSetOwnerDesc>TODO</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Kolonist toewijzen</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -252,6 +254,12 @@
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Beëindigen van alle lopende aanvallen.</CommandHoldFireDesc>
   
+  <!-- reload -->
+  <!-- EN: No {CHARGENOUN_plural} left. -->
+  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
+  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
+  
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Selecteer een plant om te groeien </CommandSelectPlantToGrowMulti>
@@ -297,6 +305,8 @@
   <CommandMergeCaravansDesc>Geselecteerde karavanen samenvoegen.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>Selecteer alle karavanen die moeten worden samengevoegd. De karavanen moeten dicht bij elkaar staan.</CommandMergeCaravansFailCaravansNotSelected>
+  <!-- EN: Join -->
+  <CommandJoinCaravan>TODO</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
@@ -397,9 +407,9 @@
   <CommandCancelLoadDesc>Annuleer het laden met mensen of voorwerpen en werp alles, wat al geladen is, uit.</CommandCancelLoadDesc>
   
   <!-- Launch group -->
-  <!-- EN: Launch group -->
+  <!-- EN: Launch -->
   <CommandLaunchGroup>Lanceer groep </CommandLaunchGroup>
-  <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
+  <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>Initieert het bestemmingsproces voor het lanceren van een groep transportcapsules. De volgende stap is het kiezen van een bestemming. De capsules zullen samen vliegen en landen</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Sommige transportcapsules in deze ladingsgroep zijn niet aangesloten op een brandstofaansluiting.</CommandLaunchGroupFailNotConnectedToFuelingPort>
@@ -493,12 +503,22 @@
   <CommandSendShuttleFailUnderRoof>De shuttle staat onder een afdak.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
   <CommandSendShuttleFailMissingRequiredThing>Sommige vereiste voorwerpen of mensen missen.</CommandSendShuttleFailMissingRequiredThing>
+  
+  <!-- Dismiss shuttle -->
+  <!-- EN: Dismiss -->
+  <CommandShuttleDismiss>TODO</CommandShuttleDismiss>
+  <!-- EN: Unload all contents and send the shuttle away. -->
+  <CommandShuttleDismissDesc>TODO</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
   <CommandPlaceBlueprints>Plaats blauwdruk</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
   <CommandPlaceBlueprintsDesc>Plaats alle vereiste blauwdrukken waar mogelijk.</CommandPlaceBlueprintsDesc>
+  <!-- EN: Place {0} blueprints -->
+  <CommandPlaceBlueprintsSpecific>TODO</CommandPlaceBlueprintsSpecific>
+  <!-- EN: Place all {0} blueprints where possible. -->
+  <CommandPlaceBlueprintsSpecificDesc>TODO</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
@@ -515,5 +535,11 @@
   <CommandOpenLinkedQuest>Open gekoppelde opdracht</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>Bekijk de gekoppelde opdracht in de opdrachtentab.</CommandOpenLinkedQuestDesc>
+  
+  <!-- Take a drug -->
+  <!-- EN: Take drug... -->
+  <TakeDrug>TODO</TakeDrug>
+  <!-- EN: Choose a drug from inventory to ingest immediately. -->
+  <TakeDrugDesc>TODO</TakeDrugDesc>
   
 </LanguageData>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: You can choose one of your {0} to receive {1} {2} from {3_name}.\n\nBy receiving {2}, you gain royal titles. The higher the title, the more privileges you get, like trading with imperial settlements, requesting royal aid, or using powerful, exotic weapons. But beware, {0} with royal titles will be unhappy if you don't dress them properly or fulfill their bedroom requirements. -->
+  <!-- EN: You can choose one of your {0} to receive {1} {2} from {3_name}.\n\nBy receiving {2}, you gain titles. Titles bring psylink rewards and special permits like military aid. However, {0} with higher titles will also need specific apparel and bedroom furnishings. -->
   <RoyalFavorTip>Je kunt een van je {0} kiezen om {1} {2} van {3_name} te ontvangen.\n\nDoor {2} te ontvangen, win je adellijke titels. Des te hoger de titel, des te meer privileges je krijgt, zoals handel met keizerlijke nederzettingen, keizerlijke hulp vragen, of het gebruik van krachtige exotische wapens. Maar let op, {0} met adellijke titels worden ongelukkig als ze niet fatsoenlijk gekleed zijn, of wanneer hun slaapkamer niet aan hun titelvereisten voldoet.</RoyalFavorTip>
 
 </LanguageData>

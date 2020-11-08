@@ -101,9 +101,9 @@
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>Maak goedkope lichaamsdeelprotheses om verloren ledematen te vervangen. Vereist een goede dokter om te implanteren.</Prosthetics.description>
   
-  <!-- EN: smokepop belts -->
+  <!-- EN: smokepop packs -->
   <SmokepopBelt.label>rookriemen</SmokepopBelt.label>
-  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
   <SmokepopBelt.description>Maak rookriemen die een automatisch rookgordijn activeren wanneer de riemdrager wordt aangeschoten.</SmokepopBelt.description>
   
   <!-- EN: solar panel -->

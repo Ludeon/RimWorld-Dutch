@@ -41,6 +41,8 @@
   <CannotOrderNonControlledLower>kan geen personages bevelen die u niet bestuurt.</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>kan jezelf niet aanvallen</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Beman {1_labelShort}</OrderManThing>
@@ -136,6 +138,8 @@
   <InstallImplantAlreadyMaxLevel>maximaal niveau</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Verbeter {0} tot niveau {1}</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Consumeer {1_labelShort}</ConsumeThing>
@@ -190,6 +194,8 @@
   <IsReservedBy>{0} is gereserveerd door {1}</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>Te zwaar</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>TODO</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>incompetent</Incapable>
@@ -212,8 +218,19 @@
   <ForceWear>Forceer dragen van {1_labelShort}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Kan {1_label} niet dragen</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>TODO</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>ontbrekende lichaamsdelen</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>TODO</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>TODO</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>TODO</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Kan {1_label} niet oppakken</CannotPickUp>
@@ -374,6 +391,8 @@
   <DropAtEdge>Laat vallen aan de rand</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>In centrum laten vallen</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>TODO</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Val {0} aan: Laat vallen aan de rand</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -420,5 +439,8 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>pas {0} toe</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
   
 </LanguageData>

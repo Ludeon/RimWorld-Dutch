@@ -34,6 +34,8 @@
   <Priority3>Normale prioriteit</Priority3>
   <!-- EN: Low priority -->
   <Priority4>Lage prioriteit</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>TODO</PawnFactionInfo>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -90,6 +92,8 @@
   <EnemyOf>Vijand van: </EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>Huidige relatie met deze factie.</CurrentGoodwillTip>
+  <!-- EN: Current relations with this faction. -->
+  <CurrentRelationTip>TODO</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Deze factie is permanent vijandig. Zij zullen je nederzettingen en karavanen overvallen. De relaties met hen zullen nooit verbeteren, om welke reden dan ook.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -202,6 +206,8 @@
   <ResearchTechprintsFromFactions>Techprints zijn beschikbaar van deze facties via handel en opdrachten:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
   <TechLevelTooLow>Het technisch niveau van je factie is {0}, maar het niveau van dit project is {1}. Onderzoeksnelheid wordt vermenigvuldigd met {2}.</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>TODO</UnlockedWith>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -240,6 +246,10 @@
   <ShuttleDepartsIn>Shuttle vertrekt over {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>Shuttle vertrekt op {0}</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>TODO</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>{0} geleden afgelopen</QuestFinishedAgo>
   <!-- EN: Accept quest -->
@@ -270,8 +280,16 @@
   <QuestBedroomRequirementsUnsatisfied>vrije slaapkamers die voldoet aan de titelvereisten van</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>een vrije slaapkamer die voldoet aan de titelvereisten van</QuestBedroomRequirementsUnsatisfiedSingle>
-  <!-- EN: a colonist with the title of {0}. -->
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>een kolonist met de titel {0}</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>TODO</QuestRequiresNoDangerOnMap>
   <!-- EN: Reward preferences -->
   <ChooseRewards>Beloningsvoorkeuren</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -292,6 +310,10 @@
   <GoodwillTip>Je relatie met {0_name} zal verbeteren met {1}.\n\nHuidige relatie: {4} ({5}).\n\nReputatie meet de relatie tussen facties. Als het onder {2} komt, wordt de factie vijandelijk en zal je kolonie en karavanen aanvallen. Als het boven {3} uitkomt zal de factie je bondgenoot worden en soldaten sturen om te helpen wanneer ze dat kunnen. Bij andere waardes blijft de factie neutraal en zal met je handelen en spreken.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort} sluit zich aan</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
   
   <!-- Health tab -->
   <!-- EN: Creates need -->

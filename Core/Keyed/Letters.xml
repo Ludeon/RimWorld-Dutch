@@ -16,14 +16,25 @@
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>De zomer is begonnen! Maar de winter staat alweer voor de deur.\n\nJe gewassen zullen in de koude wintermaanden niet kunnen groeien. Zorg er dus voor dat je nu het nog kan genoeg voedsel produceert, zodat je genoeg voorraad hebt om de winter te overleven.\n\nJe kunt een inloop-vriezer maken om te voorkomen dat je voedsel zal verrotten.\n\nProbeer ook een paar parka's te kopen, stelen of maken zodat je niet doodvriest zodra je naar buiten gaat.</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>De relaties met {0} zijn volledig verbroken. Zij zijn nu vijandig tegenover jou.\n\nZij zullen regelmatig overvallen uitvoeren op je kolonie en karavanen, en weigeren met je handel te drijven. Als je de relaties wilt verbeteren, kun je ze nog steeds geschenken aanbieden met behulp van karavanen of transportcapsules.\n\nDit gebeurde omdat de relatie ({1}) onder {2} is gedaald. Om neutrale relaties te herstellen, moet de relatie weer {3} bereiken.</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>De relaties met {0} zijn volledig verbroken. Zij zijn nu vijandig tegenover jou.\n\nZij zullen regelmatig overvallen uitvoeren op je kolonie en karavanen, en weigeren met je handel te drijven. Als je de relaties wilt verbeteren, kun je ze nog steeds geschenken aanbieden met behulp van karavanen of transportcapsules.\n\nDit gebeurde omdat de relatie ({1}) onder {2} is gedaald. Om neutrale relaties te herstellen, moet de relatie weer {3} bereiken.</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>TODO</LetterRelationsChange_HostileGoodwillDescription>  
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>De relaties met {0} zijn opgewarmd. Zij beschouwen je nu als neutraal en zullen je niet langer aanvallen.\n\n Dit gebeurde omdat de relatie ({1}) voorbij {2} is gestegen. Als de relatie onder {3} daalt, zal {0} weer vijandig worden. Als de relatie boven {4} stijgt, zullen ze je bondgenoot worden en voor je vechten.</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>TODO</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
   <LetterRelationsChange_NeutralFromAlly>De relaties met {0} zijn afgekoeld. Ze beschouwen je nu als neutraal in plaats van geallieerd.\n\nTerwijl ze nog steeds vreedzaam met je zullen omgaan, zullen ze geen strijders meer sturen om je te helpen wanneer je bedreigd wordt.\n\nDit gebeurde omdat de relatie ({1}) onder {2} is gedaald. Als de relatie onder {3} daalt, wordt {0} vijandig. Als de relatie boven {4} stijgt, worden ze opnieuw bondgenoten.</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>TODO</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
   <LetterRelationsChange_Ally>De relaties met {0} zijn zeer hecht geworden. Zij beschouwen je nu als een bondgenoot.\n\nBondgenoten zullen je soms komen helpen verdedigen wanneer je wordt aangevallen. Je kunt ze ook op elk moment om hulp vragen, tegen een prijs van relatie.\n\nJe bent bondgenoten geworden omdat je relatie ({1}) voorbij {2} is gestegen. Als de relatie onder {3} daalt, zullen de relaties weer neutraal worden.</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>TODO</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>relatie</goodwill>
@@ -118,13 +129,16 @@
 
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} is overleden: {0}</LetterLeadersDeathLabel>
-  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
   <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} van {1}, is overleden.\n\nDe nieuwe {3} is {NEWLEADER_nameFull}.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Nieuwe {1}: {0}</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
   <LetterLeaderChanged>{OLDLEADER_nameFull} is niet langer {3} van {1}.\n\nDe nieuwe {3} is {NEWLEADER_nameFull}.</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>TODO</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>De laatste druppel was: {0}</FinalStraw>
@@ -267,13 +281,15 @@
   <LetterLabelTransportPodsLandedInEnemyBase>Aanval begonnen</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
   <LetterTransportPodsLandedInEnemyBase>Je transportcapsules zijn aangekomen bij {0}.</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>TODO</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>Basis vernietigd</LetterLabelFactionBaseDefeated>
-  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterFactionBaseDefeated>De vijandelijke basis {0} is vernietigd.\n\nIn {1} wordt de karavaan automatisch hervormd. Je kunt de karavaan nu hervormen in het scherm Wereld door de vernietigde basis te selecteren en de optie "Hervor karavaan" te kiezen.</LetterFactionBaseDefeated>
-  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
   <LetterFactionBaseDefeated_FactionDestroyed>Dit was de laatste basis van {0}, wat betekent dat deze factie niet meer bestaat.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
@@ -385,7 +401,7 @@
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>Karavaan gevecht gewonnen</LetterLabelCaravansBattlefieldVictory>
-  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterCaravansBattlefieldVictory>Je karavaan heeft de strijd gewonnen. Je kunt de karavaan nu in het scherm Wereld hervormen door het slagveld te selecteren en de optie " Hervorm karavaan" te kiezen.\n\nHet is niet nodig om handmatig items te verzamelen, de hervorm karavaan tool kan het direct doen.\n\nIn {0} wordt de karavaan automatisch hervormd.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
@@ -408,10 +424,22 @@
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} is ziek geworden van {1}.\n\nZorg ervoor dat {PAWN_pronoun} een goede behandeling krijgt en zoveel mogelijk tijd in bed doorbrengt.</LetterTraitDisease>
 
+  <!-- Surgery -->
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <LetterLabelSurgeryFailed>TODO</LetterLabelSurgeryFailed>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} heeft een kleine fout gemaakt tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} faalde catastrofaal tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} faalde met de operatie op {PATIENT_labelShort} op een belachelijke manier ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} maakte een fatale fout tijdens de operatie op {PATIENT_labelShort} als gevolg van speciale uitwerkingen: {2}</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>Een nieuwe opdracht met de titel '{0}' is beschikbaar.</LetterQuestBecameAvailable>
-  <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>Als je de opdracht niet binnen {0} accepteert zal hij verlopen.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>Een nieuwe opdracht met de titel '{0}' is actief geworden.</LetterQuestBecameActive>
@@ -511,5 +539,10 @@
   <LetterLabelMechClusterArrived>Mechanoïdecluster</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>Mechanoïden zijn gearriveerd</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>TODO</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
 
 </LanguageData>

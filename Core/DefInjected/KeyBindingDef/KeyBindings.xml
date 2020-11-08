@@ -28,6 +28,9 @@
   <!-- EN: rotate right -->
   <Designator_RotateRight.label>rechtsom draaien</Designator_RotateRight.label>
   
+  <!-- EN: change selected debug action -->
+  <Dev_ChangeSelectedDebugAction.label>TODO</Dev_ChangeSelectedDebugAction.label>
+  
   <!-- EN: tick once -->
   <Dev_TickOnce.label>eenmaal klikken</Dev_TickOnce.label>
   

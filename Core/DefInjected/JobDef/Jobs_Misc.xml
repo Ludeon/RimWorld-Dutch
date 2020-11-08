@@ -17,16 +17,16 @@
   <CastAbilityOnThing.reportString>iets aan het doen.</CastAbilityOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnThingMelee.reportString>iets aan het doen.</CastAbilityOnThingMelee.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>iets aan het doen.</CastAbilityOnThingUninterruptible.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  <CastAbilityOnWorldTile.reportString>iets aan het doen.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
-  <CastJump.reportString>TODO</CastJump.reportString>
+  <CastJump.reportString>iets aan het doen.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>sneeuw aan het opruimen.</ClearSnow.reportString>
@@ -125,7 +125,7 @@
   <RefuelAtomic.reportString>TargetA bijtanken.</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>TODO</Reload.reportString>
+  <Reload.reportString>TargetA herladen.</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>TargetA aan het uittrekken.</RemoveApparel.reportString>
@@ -170,7 +170,7 @@
   <UseVerbOnThing.reportString>Iets aan het doen.</UseVerbOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>Iets aan het doen.</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>aan het overgeven.</Vomit.reportString>

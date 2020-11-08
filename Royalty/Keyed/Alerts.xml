@@ -56,13 +56,13 @@
   <UnusableMeditationFocusAlertDesc>Deze kolonisten mediteren in de buurt van focusobjecten die ze niet kunnen gebruiken.\n\n{0}\n\nElke persoon kan verschillende objecten gebruiken, afhankelijk van hun meditatie focustypen. Een focustype hangt af van de achtergrond, eigenschappen en titel van een persoon. Om de focustypen van een persoon te zien kun je in het persoonsdetailscherm kijken door ze te selecteren en het 'i' icoon aan te klikken.</UnusableMeditationFocusAlertDesc>
 
   <!-- EN: Permit choice ready -->
-  <PermitChoiceReadyAlert>TODO</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlert>Vergunningkeuze beschikbaar</PermitChoiceReadyAlert>
   <!-- EN: {PAWN_nameDef} can choose a new permit. -->
-  <PermitChoiceReadyAlertDesc>TODO</PermitChoiceReadyAlertDesc>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} kan een nieuwe vergunning kiezen.</PermitChoiceReadyAlertDesc>
   
   <!-- EN: Bestower waiting -->
-  <BestowerWaitingAlert>TODO</BestowerWaitingAlert>
+  <BestowerWaitingAlert>Titelverlener wacht</BestowerWaitingAlert>
   <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
-  <BestowerWaitingAlertDesc>TODO</BestowerWaitingAlertDesc>
+  <BestowerWaitingAlertDesc>Een titelverlener wacht om de titelceremonie te beginnen.</BestowerWaitingAlertDesc>
 
 </LanguageData>

@@ -19,8 +19,8 @@
   <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>Hoogste adellijke titel waarvan de dieetvereisten worden voldaan door dit eten.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
 
   <!-- EN: Traits -->
-  <Stat_Thing_PersonaWeaponTrait_Label>TODO</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Label>Eigenschappen</Stat_Thing_PersonaWeaponTrait_Label>
   <!-- EN: This weapon's individual traits. -->
-  <Stat_Thing_PersonaWeaponTrait_Desc>TODO</Stat_Thing_PersonaWeaponTrait_Desc>
+  <Stat_Thing_PersonaWeaponTrait_Desc>De individuele eigenschappen van dit wapen.</Stat_Thing_PersonaWeaponTrait_Desc>
   
 </LanguageData>

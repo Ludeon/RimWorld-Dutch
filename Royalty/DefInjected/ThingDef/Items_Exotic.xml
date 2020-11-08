@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: shield core -->
-  <BroadshieldCore.label>TODO</BroadshieldCore.label>
+  <BroadshieldCore.label>schildkern</BroadshieldCore.label>
   <!-- EN: A piece of ultratechnology that can generate a momentum-repulsor shield. This can't do anything on its own, but it is necessary to craft some other usable shield items.\n\nShield cores can be obtained by deconstructing mechanoid shield generators. -->
-  <BroadshieldCore.description>TODO</BroadshieldCore.description>
+  <BroadshieldCore.description>Een stuk ultratechnologie dat een momentum-repulsorschild kan genereren. Het kan zelf niets doen, maar is vereist om bruikbare schilden te maken.\n\nSchildkernen kunnen worden verkregen door schildgenerators van mechanoïden uit elkaar te halen.</BroadshieldCore.description>
   
 </LanguageData>

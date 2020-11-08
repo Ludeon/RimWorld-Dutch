@@ -53,7 +53,7 @@
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
   <BladelinkEquipWarning>Wanneer dit wapen eenmaal een band met een gebruiker heeft opgebouwd, zal de wapenpersona geen andere gebruikers meer accepteren.</BladelinkEquipWarning>
   <!-- EN: The weapon has the following traits -->
-  <BladelinkEquipWarningTraits>TODO</BladelinkEquipWarningTraits>
+  <BladelinkEquipWarningTraits>Het wapen heeft de volgende eigenschappen</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>Weet je zeker dat je dit voorwerp wilt gebruiken?</RoyalWeaponEquipConfirmation>
   
@@ -75,8 +75,8 @@
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
   <PsylinkTooLowForGainAbility>{PAWN_labelShort}'s psylink is niet op een hoog genoeg niveau om {ABILITY} te kunnen gebruiken.\n\nProbeer toch de psyuitzending te ontvangen?</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
-  <SendShuttleWithNoContents>TODO</SendShuttleWithNoContents>
+  <SendShuttleWithNoContents>Deze shuttle is leeg. Als je hem wegstuurt kun je hem niet opnieuw gebruiken.\n\nWil je hem toch wegsturen?</SendShuttleWithNoContents>
   <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
-  <DropResourcesOverweightConfirm>TODO</DropResourcesOverweightConfirm>
+  <DropResourcesOverweightConfirm>Deze goederen zouden te zwaar zijn voor de karavaan, hierdoor kunnen ze niet meer bewegen.\n\nWil je ze toch laden?</DropResourcesOverweightConfirm>
 
 </LanguageData>

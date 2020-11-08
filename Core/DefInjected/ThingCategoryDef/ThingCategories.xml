@@ -14,7 +14,7 @@
   <ApparelNoble.label>adellijke kleding</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>riem</ApparelUtility.label>
   
   <!-- EN: headgear -->
   <ArmorHeadgear.label>hoofdtooien</ArmorHeadgear.label>
@@ -143,7 +143,7 @@
   <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>vaardigheidstrainers</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>vegetarisch</PlantFoodRaw.label>

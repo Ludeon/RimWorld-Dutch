@@ -140,11 +140,11 @@
   <!-- EN: Set forced target -->
   <CommandSetForceAttackTarget>Stel geforceerd doelwit in</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>Stelt een doelwit in dat deze geschutskoepel zo lang mogelijk continu moet aanvallen.</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>Stelt een doelwit in dat dit afweergeschut zo lang mogelijk continu moet aanvallen.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
   <CommandStopForceAttack>Stop geforceerde aanval</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>Stopt geforceerd aanvallen en zorgt ervoor dat de geschutskoepel naar wens kan schieten.</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>Stopt geforceerd aanvallen en zorgt ervoor dat het afweergeschut naar wens kan schieten.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>Momenteel niet geforceerd aan het aanvallen.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->

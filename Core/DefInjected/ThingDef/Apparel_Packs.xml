@@ -4,7 +4,7 @@
   <!-- EN: smokepop pack -->
   <Apparel_SmokepopBelt.label>rookriem</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>Een éénmalig automatisch defensief rookgordijn. Als de riemdrager wordt geraakt door een projectiel zal de riem een rookgordijn loslaten, waardoor het moeilijker is voor vijanden en geschutskoepels om de riemdrager op de korrel te nemen.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>Een éénmalig automatisch defensief rookgordijn. Als de riemdrager wordt geraakt door een projectiel zal de riem een rookgordijn loslaten, waardoor het moeilijker is voor vijanden en afweergeschut om de riemdrager op de korrel te nemen.</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
   <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>TODO</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
   <!-- EN: pop smoke -->

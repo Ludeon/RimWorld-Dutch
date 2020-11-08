@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: turrets -->
-  <Turrets.label>geschutskoepels</Turrets.label>
+  <Turrets.label>afweergeschut</Turrets.label>
   <!-- EN: A group of turrets. -->
-  <Turrets.description>Een groep geschutskoepels.</Turrets.description>
+  <Turrets.description>Een groep geschutsinstallaties.</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>Er zijn vijandige geschutskoepels in dit gebied.</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>Er is vijandig afweergeschut aanwezig in dit gebied.</Turrets.arrivedLetter>
   
 </LanguageData>

@@ -2,105 +2,105 @@
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>TODO</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>antieke cryptoslaapcapsule</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>TODO</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>Het ziet er naar uit dat deze cryptoslaapcapsule hier al heel lang is. Wat zou er in zitten?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>TODO</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>karavaan inpaklocatie</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>TODO</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Wijst een locatie aan waar karavanen zich zullen vormen. Plaats hem in de buurt van je opslag om het laden van de karavaan te bespoedigen.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
-  <CommsConsole.label>TODO</CommsConsole.label>
+  <CommsConsole.label>communi-\ncatie-\npaneel</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>TODO</CommsConsole.description>
+  <CommsConsole.description>Biedt de mogelijkheid om te communiceren met andere facties en met handelsschepen in de ruimte.</CommsConsole.description>
   
   <!-- EN: cryptosleep casket -->
-  <CryptosleepCasket.label>TODO</CryptosleepCasket.label>
+  <CryptosleepCasket.label>cryptoslaap-\ncapsule</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>TODO</CryptosleepCasket.description>
+  <CryptosleepCasket.description>Een sarcofaag met eigen energievoorziening, bedoeld om een persoon vele jaren lang schijndood te houden.</CryptosleepCasket.description>
   
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>TODO</FirefoamPopper.label>
+  <FirefoamPopper.label>blusschuim-\nknaller</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>TODO</FirefoamPopper.description>
+  <FirefoamPopper.description>Wanneer dit veligheidsmechanisme brand constateert zal het uiteen spatten en een brandwerend schuim in een cirkel verspreiden. Het kan ook handmatig worden geactiveerd.</FirefoamPopper.description>
   <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>TODO</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>Activeer blusschuimknaller</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
-  <Grave.label>TODO</Grave.label>
+  <Grave.label>graf</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>TODO</Grave.description>
+  <Grave.description>Een waardige laatste rustplaats. Kolonisten bezoeken soms gevulde graven voor meditatief plezier.</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>dieptescanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>diepte-\nscanner</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
-  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Een instrument waarmee grondstoffen in the grond kunnen worden opgespoord. De kans op het vinden van een grondstof hangt af van de onderzoekskwaliteiten van de gebruiker. Gebruikt veel stroom. Wanneer een grondstof wordt gevonden zul je het uit de grond moeten halen met een diepteboor. De scanner werkt niet onder een dak.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>lange-\nafstand mineraal-\nscanner</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Een instrument waarme onderzoekers kunnen speuren naar een specifiek mineraal waar dan ook ter wereld. De kans op het vinden van een grondstof hangt af van de onderzoekskwaliteiten van de gebruiker. De scanner kan ingesteld worden op een specifieke grondstof. Gebruikt veel stroom. Wanneer een grondstof wordt gevonden zul je het moeten gaan halen.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>TODO</MarriageSpot.label>
+  <MarriageSpot.label>trouwplek</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>TODO</MarriageSpot.description>
+  <MarriageSpot.description>Wijst een plek aan waar huwelijken zich zullen voltrekken. Het publiek kan van weerskanten toekijken.</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>vochtigheidsregulator</MoisturePump.label>
+  <MoisturePump.label>vochtigheids-\nregulator</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
   <MoisturePump.description>Reguleert erg langzaam de vochtigheidsgraad in nabijgelegen terrein. Converteert moeras of laagwater naar droge grond, en zacht zand naar normaal zand. Heeft geen effect op diep water.</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
+  <MultiAnalyzer.label>multi-\nanalysator</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Versnelt onderzoek wanneer naast een hi-tech onderzoekstafel geplaatst en maakt nieuwe projecten beschikbaar. Elke onderzoekstafel kan slechts één multi-analysator benutten.</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>TODO</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>ruimte-\nhandels-\nbaken</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>TODO</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Vereist om handel met ruimtehandelaren te drijven. Enkel voorwerpen binnen bereik van een baken kunnen worden verhandeld. Kan binnenshuis worden geplaatst.</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>TODO</PartySpot.label>
+  <PartySpot.label>feestplek</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>TODO</PartySpot.description>
+  <PartySpot.description>Wijst een plek aan waar feestjes kunnen worden gegeven.</PartySpot.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>TODO</PodLauncher.label>
+  <PodLauncher.label>capsule lanceerbasis</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>TODO</PodLauncher.description>
+  <PodLauncher.description>Een brandstofdepot waarmee een enkele transportcapsule kan worden gelanceerd. Capsules kunnen in groepen worden gelanceerd, maar dan moeten de lanceerbases wel tegen elkaar aan worden gebouwd.</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
-  <Sarcophagus.label>TODO</Sarcophagus.label>
+  <Sarcophagus.label>sarcofaag</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
-  <Sarcophagus.description>TODO</Sarcophagus.description>
+  <Sarcophagus.description>Een bewerkte grafkist bedoeld voor vereerde doden.</Sarcophagus.description>
   
   <!-- EN: grand stele -->
-  <SteleGrand.label>TODO</SteleGrand.label>
+  <SteleGrand.label>indruk-\nwekkende zuil</SteleGrand.label>
   <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleGrand.description>TODO</SteleGrand.description>
+  <SteleGrand.description>Een enorm stuk steen waarin gedetailleerd graveerwerk is aangebracht. Zuilen worden al eeuwenlang gebruikt om individuen, veldslagen en andere belangrijke gebeurtenissen vast te leggen.</SteleGrand.description>
   
   <!-- EN: large stele -->
-  <SteleLarge.label>TODO</SteleLarge.label>
+  <SteleLarge.label>grote zuil</SteleLarge.label>
   <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleLarge.description>TODO</SteleLarge.description>
+  <SteleLarge.description>Een groot stuk steen waarin graveerwerk is aangebracht. Zuilen worden al eeuwenlang gebruikt om individuen, veldslagen en andere belangrijke gebeurtenissen vast te leggen.</SteleLarge.description>
   
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>TODO</ToolCabinet.label>
+  <ToolCabinet.label>gereed-\nschapskast</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-  <ToolCabinet.description>TODO</ToolCabinet.description>
+  <ToolCabinet.description>Versnelt werk wanneer naast een werktafel geplaatst. Elke werkbank kan maximaal twee gereedschapskasten benutten.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>TODO</TransportPod.label>
+  <TransportPod.label>transport-\ncapsule</TransportPod.label>
   <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>TODO</TransportPod.description>
+  <TransportPod.description>Een capsule die gelanceerd kan worden om mensen, voorwerpen of dieren over lange afstanden te transporteren. Kan bijvoorbeeld worden gebruikt om giften te geven, mensen of materieel te verplaatsen, verrassingsaanvallen uit te voeren of versterkingen naar een front te sturen.</TransportPod.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>TODO</VitalsMonitor.label>
+  <VitalsMonitor.label>patiënt-\nmonitor</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>TODO</VitalsMonitor.description>
+  <VitalsMonitor.description>Bevordert de kwaliteit van verzorging, de kans op het slagen van operaties, en de snelheid waarmee immuniteit opbouwt wanneer direct naast een ziekenbed geplaatst. Werkt alleen voor ziekenbedden - normale bedden zijn niet gebaat. Het heeft geen zin om meer dan één monitor bij een bed te plaatsen.</VitalsMonitor.description>
   
 </LanguageData>

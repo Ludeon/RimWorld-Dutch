@@ -25,7 +25,7 @@
   <ImmediateAttackSappers.letterLabelEnemy>Overval</ImmediateAttackSappers.letterLabelEnemy>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackSmart.arrivalTextEnemy>Ze vallen direct aan.\n\nLet op - ze lijken ongewoon slim met hun tactieken. Ze zullen je geschutskoepels ontwijken en sommige valstrikken op tijd zien.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>Ze vallen direct aan.\n\nLet op - ze lijken ongewoon slim met hun tactieken. Ze zullen je afweergeschut ontwijken en sommige valstrikken op tijd zien.</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
   <ImmediateAttackSmart.arrivalTextFriendly>Ze komen meteen om je te helpen.</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->

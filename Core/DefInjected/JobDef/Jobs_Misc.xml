@@ -17,19 +17,19 @@
   <CastAbilityOnThing.reportString>iets aan het doen.</CastAbilityOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnThingMelee.reportString>iets aan het doen.</CastAbilityOnThingMelee.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>iets aan het doen.</CastAbilityOnThingUninterruptible.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  <CastAbilityOnWorldTile.reportString>iets aan het doen.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
-  <CastJump.reportString>TODO</CastJump.reportString>
+  <CastJump.reportString>iets aan het doen.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
-  <ClearSnow.reportString>sneeuw aan het opruimen.</ClearSnow.reportString>
+  <ClearSnow.reportString>sneeuw aan het scheppen.</ClearSnow.reportString>
   
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetA laten vallen.</DropEquipment.reportString>
@@ -65,13 +65,13 @@
   <FollowClose.reportString>TargetA aan het volgen.</FollowClose.reportString>
   
   <!-- EN: taking TargetA. -->
-  <GiveToPackAnimal.reportString>TargetA meenemen.</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>TargetA aan het halen.</GiveToPackAnimal.reportString>
   
   <!-- EN: moving. -->
-  <Goto.reportString>aan het bewegen.</Goto.reportString>
+  <Goto.reportString>zich aan het verplaatsen.</Goto.reportString>
   
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>aan het bewegen.</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>zich aan het verplaatsen.</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
   <GotoSafeTemperature.reportString>een veilige temperatuur aan het opzoeken.</GotoSafeTemperature.reportString>
@@ -104,7 +104,7 @@
   <Lovin.reportString>de liefde aan het bedrijven.</Lovin.reportString>
   
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>een geschuttoren aan het bedienen.</ManTurret.reportString>
+  <ManTurret.reportString>afweergeschut aan het bedienen.</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
   <OfferHelp.reportString>TargetA helpen.</OfferHelp.reportString>
@@ -149,7 +149,7 @@
   <TradeWithPawn.reportString>met TargetA aan het onderhandelen.</TradeWithPawn.reportString>
   
   <!-- EN: triggering firefoam popper. -->
-  <TriggerFirefoamPopper.reportString>een vuurfoampopper aan het activeren.</TriggerFirefoamPopper.reportString>
+  <TriggerFirefoamPopper.reportString>een blusschuimknaller aan het activeren.</TriggerFirefoamPopper.reportString>
   
   <!-- EN: unloading TargetA. -->
   <UnloadInventory.reportString>TargetA uitladen.</UnloadInventory.reportString>
@@ -167,10 +167,10 @@
   <UseNeurotrainer.reportString>neurotrainer aan het gebruiken.</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Iets aan het doen.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>iets aan het doen.</UseVerbOnThing.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>iets aan het doen.</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>aan het overgeven.</Vomit.reportString>

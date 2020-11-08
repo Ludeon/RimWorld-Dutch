@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Custom -->
-  <Custom.label>TODO</Custom.label>
+  <Custom.label>Aangepast</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\nRecommended for:\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>TODO</Custom.description>
+  <Custom.description>Deze instelling geeft je de mogelijkheid om je eigen speelstijl te bepalen.\n\nAanbevolen voor:\n\n- Spelers die een bestaande moeilijkheidsgraad met enkele aanpassingen willen spelen.\n- Spelers die willen experimenteren met iets nieuws.</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>Bouw een gemeenschap</Easy.label>

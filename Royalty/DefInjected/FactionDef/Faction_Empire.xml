@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: shattered empire -->
-  <Empire.label>TODO</Empire.label>
+  <Empire.label>Verspinterd keizerrijk</Empire.label>
   <!-- EN: An ultratech refugee society from another planet, organized along feudal lines.\n\nThey lived for thousands of years in a stable multi-planet empire with a strict caste system, an intricate code of warrior ethics, and enforced cultural stasis. Invaded by powerful outsiders, they fled. Despite losing almost all of their people, their fleet and technology still make them powerful.\n\nThey will refuse to trade with anyone who lacks the appropriate royal title. -->
-  <Empire.description>TODO</Empire.description>
+  <Empire.description>Een ultratech vluchtelingenmaatschappij van een andere planeet, feodaal georganiseerd.\n\nZe woonden duizenden jaren in een stabiele multi-planetair keizerrijk, met strikt kaste-systeem, een ingewikkelde ethische gevechtscode, en geforceerde culturele stagnatie. Overrompeld door machtige buitenstaanders, zijn ze gevlucht. Ondanks het verlies van bijna alle mensen, maakte hun vloot en technologie hen alsnog machtig.\n\nZe zullen handel weigeren met iedereen die niet de vereiste adellijke titel heeft.</Empire.description>
   <!-- EN: high stellarch -->
-  <Empire.leaderTitle>TODO</Empire.leaderTitle>
+  <Empire.leaderTitle>hoge stellarch</Empire.leaderTitle>
   <!-- EN: imperial -->
-  <Empire.pawnSingular>TODO</Empire.pawnSingular>
+  <Empire.pawnSingular>keizerlijk</Empire.pawnSingular>
   <!-- EN: imperials -->
-  <Empire.pawnsPlural>TODO</Empire.pawnsPlural>
+  <Empire.pawnsPlural>keizerlijken</Empire.pawnsPlural>
   <!-- EN: honor -->
-  <Empire.royalFavorLabel>TODO</Empire.royalFavorLabel>
+  <Empire.royalFavorLabel>eer</Empire.royalFavorLabel>
   
 </LanguageData>

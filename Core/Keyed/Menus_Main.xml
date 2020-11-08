@@ -402,7 +402,7 @@
   <!-- EN: Insect spawning rate -->
   <Difficulty_EnemyReproductionRateFactor_Label>Snelheid insectengeboorte</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>Wijzig de snelheid waarmee insectennesten nieuwe insecten genereren. Een lagere waarde betekent een langere periode.\n\nDit heeft geen invloed op het al dan niet voorkomen van plagen - enkel het aanmaken van nieuw insecten door nesten.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>Wijzig de snelheid waarmee insectennesten nieuwe insecten genereren. Een lagere waarde betekent een langere periode.\n\nDit heeft geen invloed op het al dan niet voorkomen van plagen - enkel het aanmaken van nieuwe insecten door nesten.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
   <Difficulty_DeepDrillInfestationChanceFactor_Label>Diepteboorplagen</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->

@@ -91,7 +91,7 @@
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>gereed-\nschapskast</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-  <ToolCabinet.description>Versnelt werk wanneer naast een werktafel geplaatst. Elke werkbank kan maximaal twee gereedschapskasten benutten.</ToolCabinet.description>
+  <ToolCabinet.description>Versnelt werk wanneer naast een werktafel geplaatst. Elke werktafel kan maximaal twee gereedschapskasten benutten.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>transport-\ncapsule</TransportPod.label>

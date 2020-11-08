@@ -13,7 +13,16 @@
     <li>terrain_word->points</li>
     <li>terrain_word->chain</li>
   -->
-  <NamerArchipelago.rulePack.rulesStrings>TODO</NamerArchipelago.rulePack.rulesStrings>
+  <NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->eiland [narrative_name]</li>
+    <li>terrain_word(p=4)->eilanden</li>
+    <li>terrain_word(p=3)->archipel</li>
+    <li>terrain_word->rif</li>
+    <li>terrain_word->atol</li>
+    <li>terrain_word->rotsen</li>
+    <li>terrain_word->eilandjes</li>
+    <li>terrain_word->eilandengroep</li>
+  </NamerArchipelago.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->shrubland</li>
@@ -80,7 +89,11 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerForest.rulePack.rulesStrings>TODO</NamerForest.rulePack.rulesStrings>
+  <NamerForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->woud</li>
+    <li>terrain_word->bos</li>
+    <li>terrain_word->bossen</li>
+  </NamerForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->sheet</li>
@@ -92,7 +105,12 @@
     <li>terrain_word(p=0.3)->stretch</li>
     <li>terrain_word(p=0.3)->tract</li>
   -->
-  <NamerIceSheet.rulePack.rulesStrings>TODO</NamerIceSheet.rulePack.rulesStrings>
+  <NamerIceSheet.rulePack.rulesStrings>
+    <li>terrain_word->vlakte</li>
+    <li>terrain_word->gebied</li>
+    <li>terrain_word(p=0.5)->ijsschotsen</li>
+    <li>terrain_word(p=0.3)->ijsvlakte</li>
+  </NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -104,7 +122,15 @@
     <li>terrain_word->islet</li>
     <li>terrain_word->point</li>
   -->
-  <NamerIsland.rulePack.rulesStrings>TODO</NamerIsland.rulePack.rulesStrings>
+  <NamerIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->eiland [narrative_name]</li>
+    <li>terrain_word(p=4)->eilanden</li>
+    <li>terrain_word->rif</li>
+    <li>terrain_word->atol</li>
+    <li>terrain_word->rotsen</li>
+    <li>terrain_word->eilandjes</li>
+    <li>terrain_word->eilandengroep</li>
+  </NamerIsland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
@@ -286,6 +312,63 @@
     <li>story_result->facade</li>
     <li>story_result->fraud</li>
   -->
-  <WorldFeatureNamerCommon.rulePack.rulesStrings>TODO</WorldFeatureNamerCommon.rulePack.rulesStrings>
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>r_name->[narrative_name] [terrain_word]</li>
+    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>narrative_name(p=12)->[WordTribal]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[Color][NaturalObject]</li>
+    <li>narrative_name->[AdjectiveNaturalNeuter][BodyPart]</li>
+    <li>narrative_name->[Animal]</li>
+    <li>narrative_name->[AdjectiveColor]</li>
+    <li>narrative_name->[Color][Animal]</li>
+    <li>narrative_name->[AdjectiveNaturalNeuter][Animal]</li>
+    <li>narrative_name->[Animal][BodyPart]</li>
+    <li>narrative_name->[AdjectiveColor] [Animal]</li>
+    <li>narrative_name->[AdjectiveNaturalGendered] [Animal]</li>
+    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>storyname(p=50)->[story_result] van [subject]</li>
+    <li>storyname(p=2)->[BodyPart] van [subject]</li>
+    <li>storyname->[Gore] van [subject]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->stommiteit</li>
+    <li>story_result->ondeugd</li>
+    <li>story_result->waanzin</li>
+    <li>story_result->vergissing</li>
+    <li>story_result->schuld</li>
+    <li>story_result->misstap</li>
+    <li>story_result->waanbeeld</li>
+    <li>story_result->vreugde</li>
+    <li>story_result->blijdschap</li>
+    <li>story_result->verwondering</li>
+    <li>story_result->trots</li>
+    <li>story_result->juweel</li>
+    <li>story_result->aanwinst</li>
+    <li>story_result->weelde</li>
+    <li>story_result->eer</li>
+    <li>story_result->hoofdprijs</li>
+    <li>story_result->trofee</li>
+    <li>story_result->verwaandheid</li>
+    <li>story_result->arrogantie</li>
+    <li>story_result->verlies</li>
+    <li>story_result->schuld</li>
+    <li>story_result->inzakking</li>
+    <li>story_result->ramp</li>
+    <li>story_result->ruïne</li>
+    <li>story_result->vernietiging</li>
+    <li>story_result->ondergang</li>
+    <li>story_result->einde</li>
+    <li>story_result->vertrek</li>
+    <li>story_result->prestatie</li>
+    <li>story_result->finale</li>
+    <li>story_result->bluf</li>
+    <li>story_result->list</li>
+    <li>story_result->deceptie</li>
+    <li>story_result->façade</li>
+    <li>story_result->oplichting</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
   
 </LanguageData>

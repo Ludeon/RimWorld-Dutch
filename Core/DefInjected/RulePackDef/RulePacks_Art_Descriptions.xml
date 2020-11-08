@@ -224,14 +224,14 @@
     <li>artextra_clause->de scène vindt plaats aan de rand van een [Community]</li>
     <li>artextra_clause->de scène vindt plaats in een [Community] gebouwd bij een [TerrainFeature]</li>
     <li>artextra_clause->een [Character] [idles] [side_position]</li>
-    <li>artextra_clause->een [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->een [pawn_adjGendered] [Character] [idles] [side_position]</li>
     <li>artextra_clause->[Quantity_adjphrase] [Character]s staan [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s staan [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [pawn_adjGendered] [Character]s staan [side_position]</li>
     <li>artextra_clause->een [Animal] [idles] [side_position]</li>
-    <li>artextra_clause->als je je ogen dichtknijpt, zie je in de [composition] compositie van het beeld de beeltenis van [subimageany]</li>
-    <li>artextra_clause->het [emotional_expression] hoofd van een [PAWN_adj] [PersonJob] waakt over alles</li>
-    <li>artextra_clause->een [PAWN_adj] [PersonJob] waakt over alles met [emotional_expression]</li>
-    <li>artextra_clause->het hoofd van een [PAWN_adj] [PersonJob] waakt over alles</li>
+    <li>artextra_clause->als je je ogen dichtknijpt, zie je in de [compositionGendered] compositie van het beeld de beeltenis van [subimageany]</li>
+    <li>artextra_clause->het [emotional_expressionGendered] hoofd van een [pawn_adjGendered] [PersonJob] waakt over alles</li>
+    <li>artextra_clause->een [pawn_adjGendered] [PersonJob] waakt [emotional_expressionNeuter] over alles</li>
+    <li>artextra_clause->het hoofd van een [pawn_adjGendered] [PersonJob] waakt over alles</li>
     <li>artextra_clause->het hele beeld wordt uitgebeeld door een nauwkeurige plaatsing van [subimageplural]</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
@@ -240,32 +240,54 @@
     <li>subimagesingle->een [Community]</li>
     <li>subimagesingle->een [TreeType]boom</li>
     <li>subimagesingle->een [Vegetable]</li>
-    <li>subimagesingle->een [AnimalGroup] van [Animal]en</li>
-    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]s</li>
-    <li>subimageplural->[Quantity_adjphrase] [Vegetable]s</li>
-    <li>subimageplural->[Quantity_adjphrase] [Shape]s</li>
-    <li>pawn_adj->dood</li>
-    <li>pawn_adj->stervende</li>
-    <li>pawn_adj->verwonde</li>
-    <li>pawn_adj->slapende</li>
-    <li>pawn_adj->staande</li>
-    <li>pawn_adj->zittende</li>
-    <li>pawn_adj->geestoorde</li>
-    <li>pawn_adj->jonge</li>
-    <li>pawn_adj->oude</li>
-    <li>pawn_adj->[Gore]-bedekte</li>
-    <li>pawn_adj->vieze</li>
-    <li>pawn_adj->[Apparel]-dragende</li>
-    <li>pawn_adj->[Weapon]-dragende</li>
-    <li>pawn_adj->[Vegetable]-etende</li>
-    <li>emotional_expression->smiling</li>
-    <li>emotional_expression->frowning</li>
-    <li>emotional_expression->scowling</li>
-    <li>emotional_expression->laughing</li>
-    <li>emotional_expression->staring</li>
-    <li>emotional_expression->crying</li>
-    <li>emotional_expression->screaming</li>
-    <li>emotional_expression->overjoyed</li>
+    <li>subimagesingle->een [AnimalGroup] van [AnimalPlural]</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [CharacterPlural]</li>
+    <li>subimageplural->[Quantity_adjphrase] [VegetablePlural]</li>
+    <li>subimageplural->[Quantity_adjphrase] [ShapePlural]</li>
+    <li>pawn_adjGendered->dode</li>
+    <li>pawn_adjGendered->stervende</li>
+    <li>pawn_adjGendered->verwonde</li>
+    <li>pawn_adjGendered->slapende</li>
+    <li>pawn_adjGendered->staande</li>
+    <li>pawn_adjGendered->zittende</li>
+    <li>pawn_adjGendered->gestoorde</li>
+    <li>pawn_adjGendered->jonge</li>
+    <li>pawn_adjGendered->oude</li>
+    <li>pawn_adjGendered->[Gore]-bedekte</li>
+    <li>pawn_adjGendered->vieze</li>
+    <li>pawn_adjGendered->[Apparel]-dragende</li>
+    <li>pawn_adjGendered->[Weapon]-dragende</li>
+    <li>pawn_adjGendered->[Vegetable]-etende</li>
+    <li>pawn_adjNeuter->dood</li>
+    <li>pawn_adjNeuter->stervend</li>
+    <li>pawn_adjNeuter->verwond</li>
+    <li>pawn_adjNeuter->slapend</li>
+    <li>pawn_adjNeuter->staand</li>
+    <li>pawn_adjNeuter->zittend</li>
+    <li>pawn_adjNeuter->gestoord</li>
+    <li>pawn_adjNeuter->jong</li>
+    <li>pawn_adjNeuter->oud</li>
+    <li>pawn_adjNeuter->[Gore]-bedekt</li>
+    <li>pawn_adjNeuter->vies</li>
+    <li>pawn_adjNeuter->[Apparel]-dragend</li>
+    <li>pawn_adjNeuter->[Weapon]-dragend</li>
+    <li>pawn_adjNeuter->[Vegetable]-etend</li>
+    <li>emotional_expressionGendered->glimlachende</li>
+    <li>emotional_expressionGendered->fronsende</li>
+    <li>emotional_expressionGendered->kwaad kijkende</li>
+    <li>emotional_expressionGendered->lachende</li>
+    <li>emotional_expressionGendered->starende</li>
+    <li>emotional_expressionGendered->huilende</li>
+    <li>emotional_expressionGendered->schreeuwende</li>
+    <li>emotional_expressionGendered->verblijde</li>
+    <li>emotional_expressionNeuter->glimlachend</li>
+    <li>emotional_expressionNeuter->fronsend</li>
+    <li>emotional_expressionNeuter->kwaad kijkend</li>
+    <li>emotional_expressionNeuter->lachend</li>
+    <li>emotional_expressionNeuter->starend</li>
+    <li>emotional_expressionNeuter->huilend</li>
+    <li>emotional_expressionNeuter->schreeuwend</li>
+    <li>emotional_expressionNeuter->verblijd</li>
     <li>idles->zit</li>
     <li>idles->staat</li>
     <li>idles->wacht</li>
@@ -290,17 +312,17 @@
     <li>side_position->achter het focuspunt</li>
     <li>style_clause(p=4)->het werk [symbolizes] [ConceptAny]</li>
     <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
-    <li>style_clause->het werk is doordrenkt met het idee van [ConceptAny] en is gemaakt in een [artstyle_adj] stijl</li>
-    <li>style_clause->het werk is uitgevoerd in een [artstyle_adj] stijl</li>
-    <li>style_clause->de [artstyle_adj] stijl van de centrale scène vloekt met de [artstyle_adj] vertoning van de achtergrond</li>
-    <li>style_clause->het werk heeft een [artstyle_adj] gevoel en een [composition] structuur</li>
-    <li>style_clause->de algemene compositie is [composition]</li>
-    <li>style_clause->de stijl is [artstyle_adj] met [artstyle_adj] elementen</li>
+    <li>style_clause->het werk is doordrenkt met het idee van [ConceptAny] en is gemaakt in een [artstyle_adjGendered] stijl</li>
+    <li>style_clause->het werk is uitgevoerd in een [artstyle_adjGendered] stijl</li>
+    <li>style_clause->de [artstyle_adjGendered] stijl van de centrale scène vloekt met de [artstyle_adjGendered] vertoning van de achtergrond</li>
+    <li>style_clause->het werk heeft een [artstyle_adjNeuter] gevoel en een [compositionGendered] structuur</li>
+    <li>style_clause->de algemene compositie is [compositionNeuter]</li>
+    <li>style_clause->de stijl is [artstyle_adjNeuter] met [artstyle_adjGendered] elementen</li>
     <li>style_clause->op de een of andere manier drukt het beeld zowel [ConceptAny] als [ConceptAny] uit</li>
     <li>style_clause->het beeld schept een contrast tussen [ConceptAny] en [ConceptAny]</li>
-    <li>style_clause->de [composition] structuur van het beeld vloekt bijna met zijn [artstyle_adj] stijl</li>
+    <li>style_clause->de [compositionGendered] structuur van het beeld vloekt bijna met zijn [artstyle_adjGendered] stijl</li>
     <li>style_clause->het werk is gekleurd in tinten van [Color] en [Color]</li>
-    <li>style_clause->bijna elke vorm in het beeld lijkt een [composition]</li>
+    <li>style_clause->bijna elke vorm in het beeld lijkt een [compositionNeuter]</li>
     <li>symbolizes->symboliseert</li>
     <li>symbolizes->lijkt te symboliseren</li>
     <li>symbolizes->vertegenwoordigt</li>
@@ -322,54 +344,102 @@
     <li>depiction->afbeelding</li>
     <li>depiction->gravering</li>
     <li>depiction->tekening</li>
-    <li>composition->driehoekig</li>
-    <li>composition->rechthoekig</li>
-    <li>composition->vierkant</li>
-    <li>composition->ongebalanceerd</li>
-    <li>composition->zeer gebalanceerd</li>
-    <li>composition->dynamisch</li>
-    <li>composition->statisch</li>
-    <li>composition->verticaal</li>
-    <li>composition->horizontaal</li>
-    <li>composition->gefocust</li>
-    <li>artstyle_adj->onoriginele</li>
-    <li>artstyle_adj->simpele</li>
-    <li>artstyle_adj->complexe en realistische</li>
-    <li>artstyle_adj->surrealistische</li>
-    <li>artstyle_adj->klassieke</li>
-    <li>artstyle_adj->moderne</li>
-    <li>artstyle_adj->symbolische</li>
-    <li>artstyle_adj->amateuristische, maar toch attractieve</li>
-    <li>artstyle_adj->detail-georiënteerde</li>
-    <li>artstyle_adj->blokkerige</li>
-    <li>artstyle_adj->cubistische</li>
-    <li>artstyle_adj->impressionistische</li>
-    <li>artstyle_adj->expressionistische</li>
-    <li>artstyle_adj->fotografische</li>
-    <li>artstyle_adj->barokke</li>
-    <li>artstyle_adj->dadaistische</li>
-    <li>artstyle_adj->glitch-artige</li>
-    <li>artstyle_adj->gepixelleerde</li>
-    <li>artstyle_adj->fauvistische</li>
-    <li>artstyle_adj->volkse</li>
-    <li>artstyle_adj->figuratieve</li>
-    <li>artstyle_adj->kronkelende</li>
-    <li>artstyle_adj->geometrische</li>
-    <li>artstyle_adj->abstracte</li>
-    <li>artstyle_adj->hyper-realistische</li>
-    <li>artstyle_adj->pop art</li>
-    <li>artstyle_adj->minimalistische</li>
-    <li>artstyle_adj->neoclassieke</li>
-    <li>artstyle_adj->cel-shaded</li>
-    <li>artstyle_adj->post-impressionistische</li>
-    <li>artstyle_adj->puritijnse</li>
-    <li>artstyle_adj->rococo</li>
-    <li>artstyle_adj->romanesque</li>
-    <li>artstyle_adj->romantische</li>
-    <li>artstyle_adj->graffiti-achtige</li>
-    <li>artstyle_adj->erotische</li>
-    <li>artstyle_adj->sensuele</li>
-    <li>artstyle_adj->hartverwarmende</li>
+    <li>compositionGendered->driehoekige</li>
+    <li>compositionGendered->rechthoekige</li>
+    <li>compositionGendered->vierkante</li>
+    <li>compositionGendered->ongebalanceerde</li>
+    <li>compositionGendered->zeer gebalanceerde</li>
+    <li>compositionGendered->dynamische</li>
+    <li>compositionGendered->statische</li>
+    <li>compositionGendered->verticale</li>
+    <li>compositionGendered->horizontale</li>
+    <li>compositionGendered->gefocuste</li>
+    <li>compositionNeuter->driehoekig</li>
+    <li>compositionNeuter->rechthoekig</li>
+    <li>compositionNeuter->vierkant</li>
+    <li>compositionNeuter->ongebalanceerd</li>
+    <li>compositionNeuter->zeer gebalanceerd</li>
+    <li>compositionNeuter->dynamisch</li>
+    <li>compositionNeuter->statisch</li>
+    <li>compositionNeuter->verticaal</li>
+    <li>compositionNeuter->horizontaal</li>
+    <li>compositionNeuter->gefocust</li>
+    <li>artstyle_adjGendered->onoriginele</li>
+    <li>artstyle_adjGendered->simpele</li>
+    <li>artstyle_adjGendered->complexe en realistische</li>
+    <li>artstyle_adjGendered->surrealistische</li>
+    <li>artstyle_adjGendered->klassieke</li>
+    <li>artstyle_adjGendered->moderne</li>
+    <li>artstyle_adjGendered->symbolische</li>
+    <li>artstyle_adjGendered->amateuristische, maar toch aantrekkelijke</li>
+    <li>artstyle_adjGendered->detail-georiënteerde</li>
+    <li>artstyle_adjGendered->blokkerige</li>
+    <li>artstyle_adjGendered->kubistische</li>
+    <li>artstyle_adjGendered->impressionistische</li>
+    <li>artstyle_adjGendered->expressionistische</li>
+    <li>artstyle_adjGendered->fotografische</li>
+    <li>artstyle_adjGendered->barokke</li>
+    <li>artstyle_adjGendered->dadaïstische</li>
+    <li>artstyle_adjGendered->glitch-artige</li>
+    <li>artstyle_adjGendered->gepixelleerde</li>
+    <li>artstyle_adjGendered->fauvistische</li>
+    <li>artstyle_adjGendered->volkse</li>
+    <li>artstyle_adjGendered->figuratieve</li>
+    <li>artstyle_adjGendered->kronkelende</li>
+    <li>artstyle_adjGendered->geometrische</li>
+    <li>artstyle_adjGendered->abstracte</li>
+    <li>artstyle_adjGendered->hyper-realistische</li>
+    <li>artstyle_adjGendered->pop art</li>
+    <li>artstyle_adjGendered->minimalistische</li>
+    <li>artstyle_adjGendered->neoklassieke</li>
+    <li>artstyle_adjGendered->cel-shaded</li>
+    <li>artstyle_adjGendered->post-impressionistische</li>
+    <li>artstyle_adjGendered->puriteinse</li>
+    <li>artstyle_adjGendered->rococo</li>
+    <li>artstyle_adjGendered->romaneske</li>
+    <li>artstyle_adjGendered->romantische</li>
+    <li>artstyle_adjGendered->graffiti-achtige</li>
+    <li>artstyle_adjGendered->erotische</li>
+    <li>artstyle_adjGendered->sensuele</li>
+    <li>artstyle_adjGendered->hartverwarmende</li>
+    <li>artstyle_adjNeuter->onorigineel</li>
+    <li>artstyle_adjNeuter->simpel</li>
+    <li>artstyle_adjNeuter->complex en realistisch</li>
+    <li>artstyle_adjNeuter->surrealistisch</li>
+    <li>artstyle_adjNeuter->klassiek</li>
+    <li>artstyle_adjNeuter->modern</li>
+    <li>artstyle_adjNeuter->symbolisch</li>
+    <li>artstyle_adjNeuter->amateuristische, maar toch aantrekkelijk</li>
+    <li>artstyle_adjNeuter->detail-georiënteerd</li>
+    <li>artstyle_adjNeuter->blokkerig</li>
+    <li>artstyle_adjNeuter->kubistisch</li>
+    <li>artstyle_adjNeuter->impressionistisch</li>
+    <li>artstyle_adjNeuter->expressionistisch</li>
+    <li>artstyle_adjNeuter->fotografisch</li>
+    <li>artstyle_adjNeuter->barok</li>
+    <li>artstyle_adjNeuter->dadaïstisch</li>
+    <li>artstyle_adjNeuter->glitch-artig</li>
+    <li>artstyle_adjNeuter->gepixelleerd</li>
+    <li>artstyle_adjNeuter->fauvistisch</li>
+    <li>artstyle_adjNeuter->volks</li>
+    <li>artstyle_adjNeuter->figuratief</li>
+    <li>artstyle_adjNeuter->kronkelend</li>
+    <li>artstyle_adjNeuter->geometrisch</li>
+    <li>artstyle_adjNeuter->abstract</li>
+    <li>artstyle_adjNeuter->hyper-realistisch</li>
+    <li>artstyle_adjNeuter->pop art</li>
+    <li>artstyle_adjNeuter->minimalistisch</li>
+    <li>artstyle_adjNeuter->neoklassiek</li>
+    <li>artstyle_adjNeuter->cel-shaded</li>
+    <li>artstyle_adjNeuter->post-impressionistisch</li>
+    <li>artstyle_adjNeuter->puriteins</li>
+    <li>artstyle_adjNeuter->rococo</li>
+    <li>artstyle_adjNeuter->romanesk</li>
+    <li>artstyle_adjNeuter->romantisch</li>
+    <li>artstyle_adjNeuter->graffiti-achtig</li>
+    <li>artstyle_adjNeuter->erotisch</li>
+    <li>artstyle_adjNeuter->sensueel</li>
+    <li>artstyle_adjNeuter->hartverwarmend</li>
   </ArtDescriptionUtility_Global.rulePack.rulesStrings>
   
 </LanguageData>

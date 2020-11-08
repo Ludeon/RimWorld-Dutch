@@ -48,8 +48,8 @@
   <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef] wees de avances af.</li>
     <li>sent->[RECIPIENT_nameDef] negeerde de avance.</li>
-    <li>sent->[RECIPIENT_nameDef] wees [RECIPIENT_possessive] terug.</li>
-    <li>sent->[RECIPIENT_nameDef] draaide zich om.</li>
+    <li>sent->[RECIPIENT_nameDef] keerde [INITIATOR_objective] de rug toe.</li>
+    <li>sent->[RECIPIENT_nameDef] draaide zich weg.</li>
     <li>sent->[RECIPIENT_nameDef] gaf een minimale reactie.</li>
     <li>sent->[RECIPIENT_nameDef] reageerde niet.</li>
     <li>sent->[RECIPIENT_nameDef] wees [INITIATOR_objective] af.</li>

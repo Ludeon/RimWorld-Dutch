@@ -54,10 +54,37 @@
     <li>Trans->voor</li>
     <li>Trans->van</li>
     <li>Trans->met</li>
-    <li>Character(p=6)->[PersonJob]</li>
-    <li>Character(p=4)->[Animal]</li>
-    <li>Character(p=3)->[Enemy]</li>
-    <li>Character->[Mechanoid]</li>
+    <li>CharacterGendered(p=6)->[PersonJobGendered]</li>
+    <li>CharacterGendered(p=4)->[AnimalGendered]</li>
+    <li>CharacterGendered(p=3)->[EnemyGendered]</li>
+    <li>CharacterGendered->[MechanoidGendered]</li>
+    <li>CharacterNeuter(p=6)->[PersonJobNeuter]</li>
+    <li>CharacterNeuter(p=4)->[AnimalNeuter]</li>
+    <li>CharacterNeuter(p=3)->[EnemyNeuter]</li>
+    <li>CharacterNeuter->[MechanoidNeuter]</li>
+    <li>CharacterPlural(p=6)->[PersonJobPlural]</li>
+    <li>CharacterPlural(p=4)->[AnimalPlural]</li>
+    <li>CharacterPlural(p=3)->[EnemyPlural]</li>
+    <li>CharacterPlural->[MechanoidPlural]</li>
+    <li>Character(p=255)->[CharacterGendered]</li>
+    <li>Character(p=15)->[CharacterNeuter]</li>
+    <li>Animal(p=162)->[AnimalGendered]</li>
+    <li>Animal(p=15)->[AnimalNeuter]</li>
+    <li>Vegetable(p=18)->[VegetableGendered]</li>
+    <li>Vegetable(p=0)->[VegetableNeuter]</li>
+    <li>Enemy(p=18)->[EnemyGendered]</li>
+    <li>Enemy(p=0)->[EnemyNeuter]</li>
+    <li>PersonAlly(p=11)->[PersonAllyGendered]</li>
+    <li>PersonAlly(p=1)->[PersonAllyNeuter]</li>
+    <li>PersonJob(p=61)->[PersonJobGendered]</li>
+    <li>PersonJob(p=0)->[PersonJobNeuter]</li>
+    <li>Mechanoid(p=14)->[MechanoidGendered]</li>
+    <li>Mechanoid(p=0)->[MechanoidNeuter]</li>
+    <li>Weapon(p=45)->[WeaponGendered]</li>
+    <li>Weapon(p=12)->[WeaponNeuter]</li>
+    <li>Gore(p=1)->[GoreGendered]</li>
+    <li>Gore(p=1)->[GoreNeuter]</li>
+    <li>Gore(p=3)->[GorePlural]</li>
     <li>Quantity_adjphrase->twee</li>
     <li>Quantity_adjphrase->drie</li>
     <li>Quantity_adjphrase->vier</li>
@@ -83,19 +110,25 @@
     <li>Shape->ster</li>
     <li>Shape->cirkel</li>
     <li>Shape->ellips</li>
-    <li>ShapePluralDat->driehoeken</li>
-    <li>ShapePluralDat->vierkanten</li>
-    <li>ShapePluralDat->rechthoeken</li>
-    <li>ShapePluralDat->kegels</li>
-    <li>ShapePluralDat->lijnen</li>
-    <li>ShapePluralDat->harten</li>
-    <li>ShapePluralDat->sterren</li>
-    <li>ShapePluralDat->cirkels</li>
-    <li>ShapePluralDat->ellipsen</li>
-    <li>AdjectiveAny->[AdjectiveBadass]</li>
-    <li>AdjectiveAny->[AdjectiveAngsty]</li>
-    <li>AdjectiveAny->[AdjectiveFriendly]</li>
-    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ShapePlural->driehoeken</li>
+    <li>ShapePlural->vierkanten</li>
+    <li>ShapePlural->rechthoeken</li>
+    <li>ShapePlural->kegels</li>
+    <li>ShapePlural->lijnen</li>
+    <li>ShapePlural->harten</li>
+    <li>ShapePlural->sterren</li>
+    <li>ShapePlural->cirkels</li>
+    <li>ShapePlural->ellipsen</li>
+    <li>AdjectiveAnyGendered->[AdjectiveBadassGendered]</li>
+    <li>AdjectiveAnyGendered->[AdjectiveAngstyGendered]</li>
+    <li>AdjectiveAnyGendered->[AdjectiveFriendlyGendered]</li>
+    <li>AdjectiveAnyGendered->[AdjectiveNaturalGendered]</li>
+    <li>AdjectiveAnyNeuter->[AdjectiveBadassNeuter]</li>
+    <li>AdjectiveAnyNeuter->[AdjectiveAngstyNeuter]</li>
+    <li>AdjectiveAnyNeuter->[AdjectiveFriendlyNeuter]</li>
+    <li>AdjectiveAnyNeuter->[AdjectiveNaturalNeuter]</li>
+    <li>AdjectiveAny->[AdjectiveAnyGendered]</li>
+    <li>AdjectiveAny->[AdjectiveAnyNeuter]</li>
     <li>ConceptAny->[ConceptPositive]</li>
     <li>ConceptAny->[ConceptBadass]</li>
     <li>ConceptAny->[ConceptAngsty]</li>
@@ -103,11 +136,77 @@
     <li>PersonalCharacteristic(p=0.15)->schaamhaar</li>
     <li>PersonalCharacteristic(p=0.15)->lichaamshaar</li>
     <li>PersonalCharacteristic(p=0.15)->toiletgewoonten</li>
-    <li>PersonalCharacteristic(p=0.15)->sexuele vaardigheden</li>
-    <li>PersonalCharacteristic(p=0.15)->sexuele voorkeuren</li>
-    <li>PersonalCharacteristic(p=0.15)->sexuele ervaring</li>
+    <li>PersonalCharacteristic(p=0.15)->seksuele vaardigheden</li>
+    <li>PersonalCharacteristic(p=0.15)->seksuele voorkeuren</li>
+    <li>PersonalCharacteristic(p=0.15)->seksuele ervaring</li>
   </GlobalUtility.rulePack.rulesStrings>
   
+  <TalkTopicsUtility.rulePack.rulesFiles>
+    <li>AnimalGendered->Words/Nouns/Animals_Gendered</li>
+    <li>AnimalNeuter->Words/Nouns/Animals_Neuter</li>
+    <li>AnimalPlural->Words/Nouns/Animals_Plural</li>
+    <li>VegetableGendered->Words/Nouns/Vegetables_Gendered</li>
+    <li>VegetableNeuter->Words/Nouns/Vegetables_Neuter</li>
+    <li>VegetablePlural->Words/Nouns/Vegetables_Plural</li>
+    <li>EnemyGendered->Words/Nouns/Enemies_Gendered</li>
+    <li>EnemyNeuter->Words/Nouns/Enemies_Neuter</li>
+    <li>EnemyPlural->Words/Nouns/Enemies_Plural</li>
+    <li>PersonAllyGendered->Words/Nouns/People_Allies_Gendered</li>
+    <li>PersonAllyNeuter->Words/Nouns/People_Allies_Neuter</li>
+    <li>PersonAllyPlural->Words/Nouns/People_Allies_Plural</li>
+    <li>PersonJobGendered->Words/Nouns/People_Jobs_Gendered</li>
+    <li>PersonJobNeuter->Words/Nouns/People_Jobs_Neuter</li>
+    <li>PersonJobPlural->Words/Nouns/People_Jobs_Plural</li>
+    <li>MechanoidGendered->Words/Nouns/Mechanoid_Gendered</li>
+    <li>MechanoidNeuter->Words/Nouns/Mechanoid_Neuter</li>
+    <li>MechanoidPlural->Words/Nouns/Mechanoid_Plural</li>
+    <li>WeaponGendered->Words/Nouns/Weapons_Gendered</li>
+    <li>WeaponNeuter->Words/Nouns/Weapons_Neuter</li>
+    <li>WeaponPlural->Words/Nouns/Weapons_Plural</li>
+    <li>GoreGendered->Words/Nouns/Gore_Gendered</li>
+    <li>GoreNeuter->Words/Nouns/Gore_Neuter</li>
+    <li>GorePlural->Words/Nouns/Gore_Plural</li>
+    <li>Color->Words/Adjective/Colors_Neuter</li>
+    <li>AdjectiveColor->Words/Adjectives/Colors_Gendered</li>
+    <li>AdjectiveLargeGendered->Words/Adjectives/Large_Gendered</li>
+    <li>AdjectiveLargeNeuter->Words/Adjectives/Large_Neuter</li>
+    <li>AdjectiveBadassGendered->Words/Adjectives/Badass_Gendered</li>
+    <li>AdjectiveBadassNeuter->Words/Adjectives/Badass_Neuter</li>
+    <li>AdjectiveAngstyGendered->Words/Adjectives/Angsty_Gendered</li>
+    <li>AdjectiveAngstyNeuter->Words/Adjectives/Angsty_Neuter</li>
+    <li>AdjectiveFriendlyGendered->Words/Adjectives/Friendly_Gendered</li>
+    <li>AdjectiveFriendlyNeuter->Words/Adjectives/Friendly_Neuter</li>
+    <li>AdjectiveNaturalGendered->Words/Adjectives/Natural_Gendered</li>
+    <li>AdjectiveNaturalNeuter->Words/Adjectives/Natural_Neuter</li>
+    <!-- DEFAULTS BELOW-->
+    <li>talktopicheavyfile->Words/Nouns/TalkTopics_Heavy</li>
+    <li>talktopiclightfile->Words/Nouns/TalkTopics_Light</li>
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+  </TalkTopicsUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>
     <li>TalkTopicAny->[TalkTopicHeavy]</li>

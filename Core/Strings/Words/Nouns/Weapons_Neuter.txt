@@ -1,0 +1,12 @@
+﻿geweer
+jachtgeweer
+kanon
+kapmes
+kromzwaard
+lemmet
+mes
+pistool
+projectiel
+scheermes
+slagzwaard
+zwaard

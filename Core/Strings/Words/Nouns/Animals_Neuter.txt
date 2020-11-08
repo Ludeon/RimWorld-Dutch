@@ -1,0 +1,15 @@
+﻿aardvarken
+gordeldier
+jachtluipaard
+kameel
+konijn
+luipaard
+nijlpaard
+paard
+rendier
+spookdier
+stekelvarken
+stinkdier
+varken
+zeepaard
+zwijn

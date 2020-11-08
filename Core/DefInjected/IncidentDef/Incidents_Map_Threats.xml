@@ -15,7 +15,7 @@
   <DeepDrillInfestation.letterText>Vibraties van je diepteboren hebben ondergrondse insecten verstoord. Ze graven zich naar de oppervlakte om wraak te nemen!\n\nLet op - de insecten zullen proberen je basis te vernietigen.</DeepDrillInfestation.letterText>
   
   <!-- EN: ship part crash (defoliator) -->
-  <DefoliatorShipPartCrash.label>scheepsdeel crash (ontgroener)</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.label>Neergestort scheepsdeel (ontgroener)</DefoliatorShipPartCrash.label>
   <!-- EN: Defoliator ship -->
   <DefoliatorShipPartCrash.letterLabel>Ontgroener schip</DefoliatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
@@ -29,7 +29,7 @@
   <Infestation.letterText>Gigantische insecten graven zich een weg naar je toe! Ze zullen over enkele seconden doorbreken en een nest plaatsen.\n\nDe nesten zullen meer insecten produceren.\n\nAls je wilt voorkomen dat insecten het hele gebied overnemen moet je de nesten vernietigen. Maar let op: de insecten zullen hun nest verdedigen.</Infestation.letterText>
   
   <!-- EN: manhunter pack -->
-  <ManhunterPack.label>bende mensenjagers</ManhunterPack.label>
+  <ManhunterPack.label>groep klopjagers</ManhunterPack.label>
   
   <!-- EN: mech cluster -->
   <MechCluster.label>mechanoïdecluster</MechCluster.label>
@@ -39,7 +39,7 @@
   <MechCluster.letterText>Een mechanoïdegevechtscluster landt in de buurt. Het cluster zal beginnen in slaapstand, zodat je een aanvalsplan kunt maken.\n\nHet zou in slaapstand kunnen blijven tot het verstoord wordt, of het wordt geactiveerd door een timer of bewegingsdetectoren.\n\nZelfs clusters in slaapstand zijn niet zonder gevaar. Van tijd tot tijd kunnen ze een gevaarlijke mechanoïde produceren, of andere negatieve effecten veroorzaken.</MechCluster.letterText>
   
   <!-- EN: ship part crash (psychic) -->
-  <PsychicEmanatorShipPartCrash.label>scheepsdeel crash (psychisch)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.label>Neergestort scheepsdeel (psychisch)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->
   <PsychicEmanatorShipPartCrash.letterLabel>Psychisch schip</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->

@@ -5,6 +5,7 @@
   <Cloth.label>stof</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
   <Cloth.description>Stof geweven van organische vezels</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>stoffen</Cloth.stuffProps.stuffAdjective>
   
   <!-- EN: devilstrand -->
   <DevilstrandCloth.label>duivelsgaren</DevilstrandCloth.label>
@@ -15,6 +16,8 @@
   <Gold.label>goud</Gold.label>
   <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
   <Gold.description>TODO</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>gouden</Gold.stuffProps.stuffAdjective>
   
   <!-- EN: hyperweave -->
   <Hyperweave.label>hyperweefsel</Hyperweave.label>
@@ -30,16 +33,19 @@
   <Plasteel.label>plastaal</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
   <Plasteel.description>Geavanceerde materiaal gemaakt met ruimtetechnologie. Plastaal is erg sterk vanwege zijn unieke moleculaire structuur.</Plasteel.description>
+  <Plasteel.stuffProps.stuffAdjective>plastalen</Plasteel.stuffProps.stuffAdjective>
   
   <!-- EN: silver -->
   <Silver.label>zilver</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
   <Silver.description>Dit metaal wordt meestal gebruikt als munteenheid. Het kan ook worden gebruikt als decoratie.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>zilveren</Silver.stuffProps.stuffAdjective>
   
   <!-- EN: steel -->
   <Steel.label>staal</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
   <Steel.description>Een legering van ijzer en koolstof, gebruikt in allerlei constructie, van gebouwen tot wapens en machines.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>stalen</Steel.stuffProps.stuffAdjective>
   
   <!-- EN: synthread -->
   <Synthread.label>syndraad</Synthread.label>
@@ -55,6 +61,8 @@
   <WoodLog.label>hout</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
   <WoodLog.description>Hout van bomen of andere vezelrijke planten. Nuttig om gebouwen en wapens te bouwen. Het een goede brandstof voor kampvuren en generators, en kan zelfs worden geraffineerd tot chemische brandstof. In geval van nood kan hout worden gebruikt als wapen of als been.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>houten</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
   <WoodLog.tools.log.label>blok</WoodLog.tools.log.label>
   
@@ -62,25 +70,30 @@
   <WoolAlpaca.label>alpacawol</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
   <WoolAlpaca.description>De opmerkelijk zachte wol van een alpaca. Het is heel warm.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>alpacawollen</WoolAlpaca.stuffProps.stuffAdjective>
   
   <!-- EN: bison wool -->
   <WoolBison.label>bisonwol</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
   <WoolBison.description>Dikke en grove wol van een bison. Best warm.</WoolBison.description>
+  <WoolBison.stuffProps.stuffAdjective>bisonwollen</WoolBison.stuffProps.stuffAdjective>
   
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>megaluiaardwol</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
   <WoolMegasloth.description>De lange vezels van megaluiaardwol maken het erg sterk, maar wel een beetje grof. Het is uitzonderlijk warm.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>megaluiaardwollen</WoolMegasloth.stuffProps.stuffAdjective>
   
   <!-- EN: muffalo wool -->
   <WoolMuffalo.label>muffelwol</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
   <WoolMuffalo.description>Zacht, licht en isoleert goed. Kleding van muffelwol kan het lichaam warm houden in de koudste omgevingen.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>muffelwollen</WoolMuffalo.stuffProps.stuffAdjective>
   
   <!-- EN: sheep wool -->
   <WoolSheep.label>schaapswol</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
   <WoolSheep.description>Wol van een schaap, het isolateert goed.</WoolSheep.description>
+  <WoolSheep.stuffProps.stuffAdjective>schaapswollen</WoolSheep.stuffProps.stuffAdjective>
   
 </LanguageData>

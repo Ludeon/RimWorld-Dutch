@@ -17,9 +17,9 @@
   <GroundPenetratingScanner.description>Bouw dieptescanners die onder de grond grondstoffen kan vinden voor een diepteboor. Vereist geavanceerde component om te bouwen.</GroundPenetratingScanner.description>
   
   <!-- EN: autocannon turret -->
-  <HeavyTurrets.label>zware automatische geschutskoepel</HeavyTurrets.label>
+  <HeavyTurrets.label>zwaar automatisch afweergeschut</HeavyTurrets.label>
   <!-- EN: Produce the heavy autocannon turret. -->
-  <HeavyTurrets.description>Bouw de zware automatische geschutskoepel om de kolonie te verdedigen.</HeavyTurrets.description>
+  <HeavyTurrets.description>Bouw zwaar automatisch afweergeschut om de kolonie te verdedigen.</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>ziekenbed</HospitalBed.label>

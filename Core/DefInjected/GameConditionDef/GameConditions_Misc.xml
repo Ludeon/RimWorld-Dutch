@@ -61,13 +61,13 @@
   <Planetkiller.description>Een interstellair, planeetverwoestend wapen is onderweg naar deze planeet. Bij de inslag zal deze wereld aan stukken worden geslagen waarbij al het leven omkomt.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>psychisch gedreun</PsychicDrone.label>
+  <PsychicDrone.label>psychisch gezoem</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
   <PsychicDrone.description>Van grote afstand zendt archotech krachtige psychische golven uit, die mensen langzaam krankzinnig maken.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>een [psychicDroneLevel] psychisch gedreun zal door het gebied om [map_definite] golven voor [gameConditionDuration_duration], waardoor iedereen van het [psychicDroneGender] geslacht langzaam krankzinnig wordt</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>een [psychicDroneLevel] psychisch gezoem zal door het gebied om [map_definite] golven voor [gameConditionDuration_duration], waardoor iedereen van het [psychicDroneGender] geslacht langzaam krankzinnig wordt</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>Het psychisch gedreun is afgelopen.</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>Het psychisch gezoem is afgelopen.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
   <PsychicDrone.letterText>Elke {0} kolonist voelt een golf van ongerustheid en woede!\n\nEen haatzaaiende machine bromt in de verte. Het stuurt een psychisch gedreun door het heelal, afgestemd op {0}. Voor enkele dagen zullen sommige kolonisten zich een stuk slechter voelen.\n\nHet dreun-niveau is {1}.</PsychicDrone.letterText>
   

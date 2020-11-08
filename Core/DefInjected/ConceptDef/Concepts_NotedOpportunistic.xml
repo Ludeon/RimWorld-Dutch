@@ -4,7 +4,7 @@
   <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>Dieren vallen deuren aan</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Mens-jagende dieren zullen deuren aanvallen als ze een kolonist naar binnen zien gaan. Ze zullen ook inactieve geschutskoepels aanvallen.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Mens-jagende dieren zullen deuren aanvallen als ze een kolonist naar binnen zien gaan. Ze zullen ook inactief afweergeschut aanvallen.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>Taken tabblad</BillsTab.label>

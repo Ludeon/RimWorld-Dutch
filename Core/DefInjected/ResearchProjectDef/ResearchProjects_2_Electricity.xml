@@ -37,9 +37,9 @@
   <Electricity.description>Gebruik de kracht van elektriciteit voor talloze dingen.</Electricity.description>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>vuurschuim</Firefoam.label>
+  <Firefoam.label>blusschuim</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>Maak vuurschuimknallers, deze zal automatisch een brandwerend schuim om zich heen verspreiden wanneer er vuur in de buurt komt.</Firefoam.description>
+  <Firefoam.description>Maak blusschuimknallers. Deze zullen automatisch een brandwerend schuim om zich heen verspreiden wanneer er vuur in de buurt komt.</Firefoam.description>
   
   <!-- EN: flak armor -->
   <FlakArmor.label>flakharnas</FlakArmor.label>
@@ -62,9 +62,9 @@
   <Gunsmithing.description>Maak eenvoudige handmatig geladen wapens, zoals revolvers, pompjachtgeweren, grendelgeweren, en brandwerpers.</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>geschutskoepels</GunTurrets.label>
+  <GunTurrets.label>afweergeschut</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
-  <GunTurrets.description>Produceer eenvoudige geautomatiseerde geschutskoepels.</GunTurrets.description>
+  <GunTurrets.description>Produceer eenvoudig automatisch afweergeschut.</GunTurrets.description>
   
   <!-- EN: hydroponics -->
   <Hydroponics.label>hydrocultuur</Hydroponics.label>

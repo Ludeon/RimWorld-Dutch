@@ -5,7 +5,7 @@
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
   -->
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft ons een bericht gestuurd. Blijkbaar hebben [siteFaction_pawnsPlural] in de buurt hun karavaans overvallen. Het kamp wordt gecontroleerd door [siteFaction_name].\n\n[asker_nameDef] vraagt ons het kamp te vernietigen, dat betekent alle vijanden en geschutskoepels uit te schakelen. [asker_label] vertelt dat [sitePart0_description].</li>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft ons een bericht gestuurd. Blijkbaar hebben [siteFaction_pawnsPlural] in de buurt hun karavaans overvallen. Het kamp wordt gecontroleerd door [siteFaction_name].\n\n[asker_nameDef] vraagt ons het kamp te vernietigen, dat betekent alle vijanden en afweergeschut uit te schakelen. [asker_label] vertelt dat [sitePart0_description].</li>
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>

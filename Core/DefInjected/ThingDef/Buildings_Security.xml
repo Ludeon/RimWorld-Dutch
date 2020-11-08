@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: barricade -->
-  <Barricade.label>TODO</Barricade.label>
+  <Barricade.label>barricade</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
-  <Barricade.description>TODO</Barricade.description>
+  <Barricade.description>Een barricade op heuphoogte waarachter dekking kan worden gezocht. Barricades zijn lelijk, maar bieden meer dekking dan andere lage objecten.</Barricade.description>
   
   <!-- EN: sandbags -->
-  <Sandbags.label>TODO</Sandbags.label>
+  <Sandbags.label>zandzakken</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>TODO</Sandbags.description>
+  <Sandbags.description>Zakken vol zand of aarde waarachter dekking kan worden gezocht. Zandzakken zijn lelijk, maar bieden meer dekking dan andere lage objecten.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>TODO</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>Antikorrel kernkop</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_AntigrainWarhead.description>TODO</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead.description>Een kernkop die functioneert op antimaterie. Hij is verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de kernkop verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
-  <TrapIED_EMP.label>TODO</TrapIED_EMP.label>
+  <TrapIED_EMP.label>EMP bermbom</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>TODO</TrapIED_EMP.description>
+  <TrapIED_EMP.description>Twee EMP granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
-  <TrapIED_Firefoam.label>TODO</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.label>Blusschuim bermbom</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Firefoam.description>TODO</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam.description>Twee blusschuim granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
-  <TrapIED_HighExplosive.label>TODO</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.label>bermbom</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>TODO</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>Twee explosieve granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>TODO</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>brandbermbom</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>TODO</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>Twee brandgranaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
-  <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>rookbermbom</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
+  <TrapIED_Smoke.description>Twee rookgranaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
-  <TrapSpike.label>TODO</TrapSpike.label>
+  <TrapSpike.label>stekelval</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>TODO</TrapSpike.description>
+  <TrapSpike.description>Vijf stekels onder spanning die verbonden zijn aan een mechanisme dat af gaat op aanraking. Wanneer het slachtoffer het mechanisme in werking zet schieten de stekels naar voren en raken het slachtoffer. Omdat de val verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapSpike.description>
   
 </LanguageData>

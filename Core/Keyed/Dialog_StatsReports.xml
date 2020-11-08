@@ -161,7 +161,7 @@
   <!-- EN: Weapon -->
   <Stat_Weapon_Name>Wapen</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>Het wapen dat door deze geschutskoepel wordt gebruikt.</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Het wapen dat door dit afweergeschut wordt gebruikt.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
   <Stat_HitPoints_Desc>Hoe veel schade een voorwerp kan verwerken voordat het wordt vernietigd.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->

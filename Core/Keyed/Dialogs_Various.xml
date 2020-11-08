@@ -481,7 +481,7 @@
   <!-- EN: Rearm cost -->
   <RearmCost>Kosten herbewapening</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>Middelen die nodig zijn om deze geschutskoepel te herbewapenen (beïnvloed door moeilijkheid).</RearmCostExplanation>
+  <RearmCostExplanation>Middelen die nodig zijn om dit afweergeschut te herbewapenen (beïnvloed door moeilijkheid).</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Schoten voor het opnieuw bewapenen</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->

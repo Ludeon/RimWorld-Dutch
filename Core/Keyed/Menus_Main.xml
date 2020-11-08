@@ -69,7 +69,7 @@
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Waarschuwing: Dit is een onstabiele ontwikkelversie. Dit betekent dat we ontwerpexperimenten uitvoeren en technische ontwikkelingen doen.\n\nSommige dingen zullen opzettelijk tijdelijk uit balans raken. Dit is een klassieke ontwerpmethode waarbij we bewust te ver gaan met een evenwichtsverandering om de evenwichtsgrenzen beter te begrijpen. Die informatie kunnen we dan gebruiken om te beslissen over de uiteindelijke balanspunten.\n\nEr zullen ook bugs zijn, inclusief spel-brekende. Compatibiliteit voor opslaan kan op elk moment stuk gaan.\n\nAls je met dit alles akkoord gaat, bedankt voor het testen! Als u niet wilt worden onderworpen aan onze experimenten, speel dan de laatste stabiele versie.</DevBuildWarning>
+  <DevBuildWarning>Waarschuwing: Dit is een onstabiele ontwikkelversie. Dit betekent dat we ontwerpexperimenten uitvoeren en technische ontwikkelingen doen.\n\nSommige dingen zullen opzettelijk tijdelijk uit balans raken. Dit is een klassieke ontwerpmethode waarbij we bewust te ver gaan met een evenwichtsverandering om de evenwichtsgrenzen beter te begrijpen. Die informatie kunnen we dan gebruiken om te beslissen over de uiteindelijke balanspunten.\n\nEr zullen ook bugs zijn, inclusief spel-brekende. Compatibiliteit voor opslaan kan op elk moment stuk gaan.\n\nAls je met dit alles akkoord gaat, bedankt voor het testen! Als je niet wilt worden onderworpen aan onze experimenten, speel dan de laatste stabiele versie.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -149,13 +149,13 @@
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Weet je zeker dat je de core mod wilt uitschakelen? Het spel zal helemaal niet werken tenzij je een andere mod hebt die alle kernfunctionaliteit vervangt.\n\nOnthoud dat andere mods defs de core mod kunnen overschrijven door dezelfde defName te gebruiken.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>Weet u zeker dat je alle inhoud voor {0} wilt verwijderen? </ConfirmDeleteMod>
+  <ConfirmDeleteMod>Weet je zeker dat je alle inhoud voor {0} wilt verwijderen? </ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Sorteer mods automatisch</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Uitschrijven</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Weet u zeker dat u zich wilt uitschrijven voor {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Weet je zeker dat je je wilt uitschrijven voor {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>Auteur</Author>
   <!-- EN: Workshop page -->
@@ -205,7 +205,7 @@
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Deze mod is niet gemaakt voor deze versie van RimWorld, en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Deze mod is niet gemaakt voor deze versie van RimWorld.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Deze mod is gemaakt voor een nieuwere versie van RimWorld dan deze en zal waarschijnlijk niet goed werken.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
@@ -227,7 +227,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Verkeerde versie volgorde: 'default' moet eerst gedefinieerd zijn.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Het gebruik van 'default' in de 'load folders' is verouderd. Definieer folders voor individuele versies via de <v...> tags.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>Versie {0} is gedefinieerd in de 'load folders', maar staat niet in 'supportedVersions' in About.xml van de mod.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
@@ -259,13 +259,13 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Alle tekstvelden moeten worden ingevuld.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Weet u zeker dat u dit wilt uploaden naar de Steam Workshop?\n\nDan moet u akkoord gaan met de servicevoorwaarden van de Steam Workshop. De volledige voorwaarden vindt u hier:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Weet je zeker dat je dit wilt uploaden naar de Steam Workshop?\n\nDan moet je akkoord gaan met de servicevoorwaarden van de Steam Workshop. De volledige voorwaarden vind je hier:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Uiteraard dient je alleen content te uploaden die je zelf hebt gemaakt.\n\nHeb je deze content zelf gemaakt?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>Incompatibel</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>TODO</TagAsTranslation>
+  <TagAsTranslation>Markeer als vertaling</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>Te veel (max {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
@@ -285,7 +285,7 @@
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>Onbeperkt opnieuw laden-modus</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Kies 'Hardcore' of 'Onbeperkt opnieuw laden' modus</MustChoosePermadeath>
+  <MustChoosePermadeath>Kies 'Hardcore' of 'Onbeperkt opnieuw laden' modus.</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>Je kunt het spel op elk moment opslaan en laden.\n\nDit is een goede keuze als je het spel nog steeds aan het leren bent, als het past bij je persoonlijke speelstijl, als je mods gebruikt die je spel kunnen breken, of als je van plan bent om de hardcore mode zelf te forceren.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
@@ -341,7 +341,7 @@
   <!-- EN: Adjust the amount of materials produced when mining. -->
   <Difficulty_MineYieldFactor_Info>Wijzig de hoeveelheid materialen die door te delven worden gewonnen.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>Opbrenst slacht</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Opbrengst slacht</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
   <Difficulty_ButcherYieldFactor_Info>Wijzig de hoeveelheid materialen die met de slacht worden gewonnen. Hieronder vallen vlees, leer en de opbrengst van het ontmantelen van mechanoïden.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
@@ -359,13 +359,13 @@
   <!-- EN: Turret rearm cost -->
   <Difficulty_MaintenanceCostFactor_Label>Kosten herladen afweergeschut</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Wijzig de kosten voor het herladen van afweergeschut</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Wijzig de kosten voor het herladen van afweergeschut.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
   <Difficulty_ScariaRotChance_Label>Scaria verrottingskans</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
   <Difficulty_ScariaRotChance_Info>De kans dat een lijk ommiddelijk verrot zodra het gestorven is, wanneer het wezen scaria heeft.\n\nLet op: De standaardinstellingen zijn gekozen om het hogere aantal dieren op hogere moeilijkheidsgraden to compenseren, zodat alle spelers dezelfde hoeveelheid vlees krijgen.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Sterfte vijanden wanneer gevallen</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Sterfte vijanden wanneer neergehaald</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Wijzig de extra kans dat een vijand onmiddelijk sterft wanneer die valt. Dit heeft zijn weerslag op de mogelijkheid voor het nemen van gevangenen, en dus ook op de groei van de kolonie.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
@@ -518,7 +518,7 @@
   <!-- EN: Forageability -->
   <Forageability>Veevoederwinning </Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Geen van de geselecteerde mensen kan de volgende taken uitvoeren:\n\n{0}\n\nDit kan het spel moeilijker maken dan normaal. Weet u zeker dat u wilt doorgaan?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Geen van de geselecteerde mensen kan de volgende taken uitvoeren:\n\n{0}\n\nDit kan het spel moeilijker maken dan normaal. Weet je zeker dat je wilt doorgaan?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->

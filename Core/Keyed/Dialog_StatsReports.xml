@@ -51,9 +51,9 @@
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>Vermenigvuldigingsfactor voor gezondheid {0}</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>TODO</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>Kosten voor herladen ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>TODO</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>Vermenigvuldigingsfactor voor resterende {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>Vermenigvuldigingsfactor voor gemoedstoestand {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -145,11 +145,11 @@
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>Uitgegraven voorwerp</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>Een voorwerp dat bij het afgraven van dit materiaal wordt gewonnen.</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>Een voorwerp dat bij het delven van dit materiaal wordt gewonnen.</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
-  <Stat_MiningYield_Name>TODO</Stat_MiningYield_Name>
+  <Stat_MiningYield_Name>Opbrengst mijnbouw</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>TODO</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>Het maximale aantal voorwerpen dat bij het delven van dit materiaal wordt gewonnen. Het daadwerkelijke aantal hangt af van de vaardigheid van het kompel.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>Bronsoort</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -207,7 +207,7 @@
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>De ontspanningswaarde van het innemen van dit middel. Hogere waarden zullen de ontspanningsbehoefte meer vervullen.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>De grootte van het lichaamvan dit wezen, vergeleken met een gemiddelde volwassen mens.</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>De grootte van het lichaam van dit wezen, vergeleken met een gemiddelde volwassen mens.</Stat_Race_BodySize_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Hoe veel tijd er zit tussen aanvang van een melee-aanval en wanneer de vijand wordt geraakt.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -289,25 +289,25 @@
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>De hoeveelheid elektriciteit die dit gebouw zal gebruiken.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} resterend</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
-  <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Desc>Het aantal {CHARGENOUN_plural} resterend voor dit voorwerp. Wanneer deze zijn uitgeput kan het speciale effect niet langer worden gebruikt.</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
-  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
-  <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadMaxCharges_Desc>Het maximum aantal {CHARGENOUN_plural} dat dit voorwerp kan hebben.</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
-  <Stat_Thing_ReloadRefill_Name>TODO</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Name>Herladingskosten in {CHARGENOUN}</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
-  <Stat_Thing_ReloadRefill_Desc>TODO</Stat_Thing_ReloadRefill_Desc>
+  <Stat_Thing_ReloadRefill_Desc>Het aantal voorwerpen dat nodig is om dit voorwerp volledig te herladen.\n\nDit voorwerp kan worden herladen voordat het leeg is, maar de kosten zijn even hoog als wanneer het leeg was.</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
-  <Stat_Thing_ReloadPerCharge_Name>TODO</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Name>Herladingskosten per {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>TODO</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>Het aantal voorwerpen dat nodig is om èèn {CHARGENOUN} te herladen. Het is mogelijk meerdere {CHARGENOUN_plural} tegelijk te herladen.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>Verdwijnt wanneer uitgeput</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Dit voorwerp zal verdwijnen als de laatste {CHARGENOUN} is opgebruikt.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>De algemene efficiëncie van dit lichaamsdeel</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->

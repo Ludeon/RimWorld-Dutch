@@ -227,14 +227,14 @@
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>De shuttle zal vertrekken over {1}. De opdracht '{0}' vereist dat je de volgende mensen of dingen in de shuttle laadt voordat hij vertrekt:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
-  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelayDescHidden>De shuttle zal vertrekken over {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Shuttle arriving in {0} -->
-  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelay>Shuttle arriveert over {0}.</QuestPartShuttleArriveDelay>
   <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDesc>De shuttle zal arriveren over {1}. De opdracht '{0}' vereist dat je de volgende mensen of dingen in de shuttle laadt voordat hij vertrekt:\n\n{2}</QuestPartShuttleArriveDelayDesc>
   <!-- EN: A shuttle will arrive in {0}. -->
-  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartShuttleArriveDelayDescHidden>De shuttle zal arriveren over {0}.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>Monument wordt vernietigd</DisallowedBuildingInsideMonument>

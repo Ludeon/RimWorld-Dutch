@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{0} van {1} hebben besloten om te stelen wat ze kunnen stelen en weg te gaan.</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+  <MessageCaravanDetectedRaidArrived>{0} van {1} zijn aangekomen bij je karavaan en vallen aan. Meer zijn onderweg en zullen arriveren in {2}.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
@@ -80,7 +80,7 @@
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans) en {RECRUITEE_objective} {RECRUITEE_nameFull} genoemd.</MessageTameAndNameSuccess>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} heeft zich bij je kolonie aangesloten.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>De kolonie kan zich deze deal niet veroorloven.</MessageColonyCannotAfford>
@@ -507,17 +507,17 @@
   <!-- EN: requested trader caravan -->
   <GoodwillChangedReason_RequestedTrader>handelskaravaan aangevraagd</GoodwillChangedReason_RequestedTrader>
   <!-- EN: caused neuroquake echo -->
-  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>neurobeving echo veroorzaakt</GoodwillChangedReason_CausedNeuroquakeEcho>
   <!-- EN: caused berserk on {PAWN_labelShort} -->
-  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangedReason_CausedBerserk>berserk bij {PAWN_labelShort} veroorzaakt</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
-  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_AttackedFaction>{0_name} aangevallen</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
-  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_ShuttleDestroyed>shuttle vernietigd</GoodwillChangeReason_ShuttleDestroyed>
   <!-- EN: civilians lost -->
-  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CiviliansLost>burgers verloren</GoodwillChangeReason_CiviliansLost>
   <!-- EN: commander lost -->
-  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
+  <GoodwillChangeReason_CommanderLost>commandant verloren</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} accepteert je cadeau, maar ze waarderen het niet.</MessageGiftGivenButNotAppreciated>
@@ -622,9 +622,6 @@
   <MessageCannotSelectInvisibleStat>{0_label} is op dit moment verborgen.</MessageCannotSelectInvisibleStat>
 
   <!-- EN: {PAWN_nameDef} is a prisoner -->
-  <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
-
-  <!-- UNUSED -->
-  <MessageChoseRoute>Karavaan reist automatisch naar het eerste routepunt.</MessageChoseRoute>
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} is een gevangene</MessagePrisonerCannotEquipWeapon>
 
 </LanguageData>

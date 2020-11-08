@@ -130,15 +130,15 @@
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} is overleden: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} van {1}, is overleden.\n\nDe nieuwe {3} is {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} van {0}, is overleden.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Nieuwe {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} is niet langer {3} van {1}.\n\nDe nieuwe {3} is {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} is niet langer {1} van {0}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>TODO</LetterNewLeader>
+  <LetterNewLeader>De nieuwe {0} is {NEWLEADER_nameFull}.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>De laatste druppel was: {0}</FinalStraw>

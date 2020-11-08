@@ -629,8 +629,4 @@
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>Er is niet meer informatie beschikbaar.</NoMoreInfoAvailable>
 
-  <!-- UNUSED -->
-  <UnlockExtremeDifficulty>Genadeloze modus</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>De genadeloze modus is een speciale spelmodus waarin elke uitdaging tot op het uiterste wordt opgevoerd.\n\nGenadeloze modus ontgrendelt automatisch wanneer je specifieke mijlpalen bereikt. Je kunt het echter handmatig eerder ontgrendelen.\n\nDeze optie is alleen aan te raden als je een paar moeilijke spellen hebt gespeeld en je ondanks je beste inspanningen een goede kans wilt hebben om te sterven.</ConfirmUnlockExtremeDifficulty>
-
 </LanguageData>

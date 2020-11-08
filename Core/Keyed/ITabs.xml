@@ -113,7 +113,7 @@
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Schuldig bevonden (vervalt in {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->
-  <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
+  <ConsideredGuiltyNoTimer>Schuldig bevonden</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -323,11 +323,5 @@
   <QuestDismissed>Deze opdracht is hier omdat hij is afgewezen.\n\nJe kunt de opdracht alsnog accepteren voordat hij afloopt.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>Verwijder deze opdracht definitief uit de lijst met opdrachten.</DeleteQuest>
-
-  <!-- UNUSED -->
-  <FormingCaravanStatus_GatheringAnimals>Dieren verzamelen</FormingCaravanStatus_GatheringAnimals>
-  <FormingCaravanStatus_GatheringAnimals_Pause>Dieren verzamelen (wachten)</FormingCaravanStatus_GatheringAnimals_Pause>
-  <FormingCaravanStatus_GatheringSlaves>Slaven verzamelen</FormingCaravanStatus_GatheringSlaves>
-  <FormingCaravanStatus_GatheringSlaves_Pause>Slaven verzamelen (wachten)</FormingCaravanStatus_GatheringSlaves_Pause>
 
 </LanguageData>

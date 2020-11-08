@@ -215,13 +215,13 @@
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>Werkplek overlapt met de de werkplek van {1_labelShort}</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>Monument kan niet over {0} worden geplaatst.</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>Monument kan niet direct naast {0} worden geplaatst.</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>Monument kan niet over andere gebouwen heen worden geplaatst.</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>Monument kan niet over {0} worden geplaatst.</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
-  <MonumentAdjacentToBuilding>Monument kan niet direct naast een ander gebouw worden geplaatst.</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Monument kan niet direct naast {0} worden geplaatst.</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -242,9 +242,4 @@
   <NoColonistWithAllSkillsForConstructing>Geen van je {0} hebben alle vaardigheden die nodig zijn.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Al je {0} met deze vaardigheid zijn niet toegewezen aan {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
-
-  <!-- UNUSED -->
-  <MonumentBadTerrain>Monument kan niet op ongeschikt terrein worden geplaatst.</MonumentBadTerrain>
-  <MonumentBlockedPermanently>Monument kan niet over permanente obstakels heen worden geplaatst.</MonumentBlockedPermanently>
-
 </LanguageData>

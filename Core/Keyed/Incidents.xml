@@ -110,7 +110,7 @@
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Bromtoon versterkt</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Het gecrashte stuk schip straalt nu een krachtiger soort psychische bromtoon uit. Ieder mens in het gebied voelt zich nu meer verontrust, bang en paranoïde.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Het gecrashte stuk schip straalt nu een krachtiger soort psychische bromtoon uit. Iedere {0} mens in het gebied voelt zich nu meer verontrust, bang en paranoïde.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->

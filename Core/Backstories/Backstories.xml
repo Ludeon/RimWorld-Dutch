@@ -2024,21 +2024,21 @@
 	<!-- Tribal_Child -->
 	<Hideaway7>
 		<!-- EN: hideaway -->
-		<title>hideaway</title>
+		<title>verstopt</title>
 		<!-- EN: hideaway -->
-		<titleShort>hideaway</titleShort>
+		<titleShort>verstopt</titleShort>
 		<!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
-		<desc>[PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills.</desc>
+		<desc>De overbeschermende ouders van [PAWN_nameDef] probeerden [PAWN_objective] elke dag thuis te houden. Alhoewel [PAWN_pronoun] veel tijd had om te lezen en andere hobbies te ontwikkelen, heeft [PAWN_pronoun] nooit normale sociale vaardigheden weten te ontwikkelen.</desc>
 	</Hideaway7>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Recruiter14>
 		<!-- EN: recruiter -->
-		<title>recruiter</title>
+		<title>ronselaar</title>
 		<!-- EN: recruiter -->
-		<titleShort>recruiter</titleShort>
+		<titleShort>ronselaar</titleShort>
 		<!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
-		<desc>[PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training.</desc>
+		<desc>[PAWN_nameDef] was onderdeel van een vereerde orde van martial artiesten, berucht om zowel hun gevechtskunsten als hun onwil om hun gewonde kamaraden te verzorgen.\n\n[PAWN_pronoun] reisde over [PAWN_possessive] thuiswereld, beoordeelde alle jongeren die [PAWN_pronoun] ontmoette om te bepalen of ze het waard waren om te trainen.</desc>
 	</Recruiter14>
 
 	<!-- Max "Max" Alterman, Male, Childhood -->

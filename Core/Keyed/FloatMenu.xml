@@ -38,11 +38,11 @@
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort} is niet militair opgesteld</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
-  <CannotOrderNonControlledLower>kan geen personages bevelen die u niet bestuurt.</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>kan geen personages bevelen die je niet bestuurt.</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>kan jezelf niet aanvallen</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>kan geen bondgenoten aanvallen</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Beman {1_labelShort}</OrderManThing>
@@ -139,7 +139,7 @@
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Verbeter {0} tot niveau {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>misdaad tegen bondgenoot</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Consumeer {1_labelShort}</ConsumeThing>
@@ -195,7 +195,7 @@
   <!-- EN: Too heavy -->
   <TooHeavy>Te zwaar</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
-  <SameFaction>TODO</SameFaction>
+  <SameFaction>{0_labelShort} hoort bij dezelfde factie.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>incompetent</Incapable>
@@ -219,18 +219,18 @@
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Kan {1_label} niet dragen</CannotWear>
   <!-- EN: Force equip {1_labelShort} -->
-  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <ForceEquipApparel>Forceer uitrusten met {1_labelShort}</ForceEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
-  <CannotEquipApparel>TODO</CannotEquipApparel>
+  <CannotEquipApparel>Kan niet worden uitgerust met {1_labelShort}</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>ontbrekende lichaamsdelen</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>TODO</Reload>
+  <Reload>Herlaad {GEAR_labelShort} met {AMMO_label}</Reload>
   <!-- EN: Full -->
-  <ReloadFull>TODO</ReloadFull>
+  <ReloadFull>Vol</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <ReloadNotEnough>Te weinig</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>Kan {1_label} niet oppakken</CannotPickUp>
@@ -392,7 +392,7 @@
   <!-- EN: Drop in center -->
   <DropInCenter>In centrum laten vallen</DropInCenter>
   <!-- EN: Attack {0} -->
-  <AttackShuttle>TODO</AttackShuttle>
+  <AttackShuttle>Val {0} aan</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Val {0} aan: Laat vallen aan de rand</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -441,6 +441,6 @@
   <ApplyTechprint>pas {0} toe</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>Te gevaarlijk</EnterCooldownBlocksEntering>
   
 </LanguageData>

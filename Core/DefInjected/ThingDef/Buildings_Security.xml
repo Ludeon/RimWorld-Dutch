@@ -32,18 +32,18 @@
   <TrapIED_HighExplosive.description>Twee explosieve granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>brandbermbom</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>brand-\nbermbom</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Twee brandgranaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
-  <TrapIED_Smoke.label>rookbermbom</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>rook-\nbermbom</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Smoke.description>Twee rookgranaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
   <TrapSpike.label>stekelval</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>Vijf stekels onder spanning die verbonden zijn aan een mechanisme dat af gaat op aanraking. Wanneer het slachtoffer het mechanisme in werking zet schieten de stekels naar voren en raken het slachtoffer. Omdat de val verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapSpike.description>
+  <TrapSpike.description>Vijf stekels onder spanning die verbonden zijn aan een mechanisme dat af gaat op aanraking. Wanneer het slachtoffer het mechanisme in werking zet schieten de stekels naar voren en raken ze het slachtoffer. Omdat de val verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapSpike.description>
   
 </LanguageData>

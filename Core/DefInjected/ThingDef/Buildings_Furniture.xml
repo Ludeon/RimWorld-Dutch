@@ -2,145 +2,145 @@
 <LanguageData>
   
   <!-- EN: animal bed -->
-  <AnimalBed.label>TODO</AnimalBed.label>
+  <AnimalBed.label>dieren-\nmand</AnimalBed.label>
   <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
-  <AnimalBed.description>TODO</AnimalBed.description>
+  <AnimalBed.description>Een zacht mandje waar dieren kunnen slapen. Elk dier past er in.</AnimalBed.description>
   
   <!-- EN: animal sleeping box -->
-  <AnimalSleepingBox.label>TODO</AnimalSleepingBox.label>
+  <AnimalSleepingBox.label>dierenbak</AnimalSleepingBox.label>
   <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
-  <AnimalSleepingBox.description>TODO</AnimalSleepingBox.description>
+  <AnimalSleepingBox.description>Een kleine bak waar dieren in kunnen slapen. Kleine dieren zoals kippen, katten en kleine honden passen er in.</AnimalSleepingBox.description>
   
   <!-- EN: animal sleeping spot -->
-  <AnimalSleepingSpot.label>TODO</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.label>dieren slaapplaats</AnimalSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where animals should sleep. -->
-  <AnimalSleepingSpot.description>TODO</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.description>Wijst een plek aan op de grond waar dieren moeten slapen.</AnimalSleepingSpot.description>
   
   <!-- EN: armchair -->
-  <Armchair.label>TODO</Armchair.label>
+  <Armchair.label>leunstoel</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>TODO</Armchair.description>
+  <Armchair.description>Een grote, zachte, comfortabele stoel. Perfect om je in te ontspannen. Kan worden gebruikt bij tafels, werktafels en elders.</Armchair.description>
   
   <!-- EN: bed -->
-  <Bed.label>TODO</Bed.label>
+  <Bed.label>bed</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>TODO</Bed.description>
+  <Bed.description>Een knus matras met lakens op een ledikant waarin kan worden uitgerust.</Bed.description>
   
   <!-- EN: bedroll -->
-  <Bedroll.label>TODO</Bedroll.label>
+  <Bedroll.label>slaapzak</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>TODO</Bedroll.description>
+  <Bedroll.description>Een eenvoudig bed dat op de grond ligt. Normaal gesproken is het gemaakt van stof of leer, meestal met een voering aan de binnenkant. Het is licht en kan opgerold worden voor transport, maar het slaapt niet zo lekker als in een echt bed. Slaapzakken kunnen door karavanen worden gebruikt voor overnachtingen onderweg.</Bedroll.description>
   
   <!-- EN: double bedroll -->
-  <BedrollDouble.label>TODO</BedrollDouble.label>
+  <BedrollDouble.label>twee-\npersoons slaapzak</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <BedrollDouble.description>TODO</BedrollDouble.description>
+  <BedrollDouble.description>Een eenvoudig bed voor twee personen dat op de grond ligt. Normaal gesproken is het gemaakt van stof of leer, meestal met een voering aan de binnenkant. Het is licht en kan opgerold worden voor transport, maar het slaapt niet zo lekker als in een echt bed. Slaapzakken kunnen door karavanen worden gebruikt voor overnachtingen onderweg.</BedrollDouble.description>
   
   <!-- EN: dining chair -->
-  <DiningChair.label>TODO</DiningChair.label>
+  <DiningChair.label>eetstoel</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>TODO</DiningChair.description>
+  <DiningChair.description>Een comfortabele en aantrekkelijke stoel. Kan worden gebruikt bij tafels, werktafels en elders.</DiningChair.description>
   
   <!-- EN: double bed -->
-  <DoubleBed.label>TODO</DoubleBed.label>
+  <DoubleBed.label>twee-\npersoons bed</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <DoubleBed.description>TODO</DoubleBed.description>
+  <DoubleBed.description>Een eenvoudig en breed bed voor twee personen.</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>twee-\npersoons slaapplaats</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
-  <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot.description>Wijst een plek aan op de grond waar twee personen samen moeten slapen. Niet comfortabel.</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
-  <Dresser.label>TODO</Dresser.label>
+  <Dresser.label>dressoir</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
-  <Dresser.description>TODO</Dresser.description>
+  <Dresser.description>Geeft een kleine bonus op het comfort van alle bedden in de buurt. Het heeft geen zin om meer dan één dressoir bij hetzelfde bed te plaatsen.</Dresser.description>
   
   <!-- EN: end table -->
-  <EndTable.label>TODO</EndTable.label>
+  <EndTable.label>nachtkastje</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
-  <EndTable.description>TODO</EndTable.description>
+  <EndTable.description>Een klein tafeltje dat bedden in de buurt een klein beetje comfortabeler maakt. Moet direct naast het hoofdeind van een bed worden geplaatst. Het heeft geen zin om meer dan één nachtkastje bij hetzelfde bed te plaatsen.</EndTable.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>TODO</HospitalBed.label>
+  <HospitalBed.label>ziekenbed</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>TODO</HospitalBed.description>
+  <HospitalBed.description>Een bed speciaal ontworpen voor gebruik in hospitalen. Omdat het aanpasbaar is aan de patiënt en uitgerust is met ingebouwde apparatuur zorgt het voor betere medische zorg ten opzichte van gewone bedden.</HospitalBed.description>
   
   <!-- EN: plant pot -->
-  <PlantPot.label>TODO</PlantPot.label>
+  <PlantPot.label>bloempot</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>TODO</PlantPot.description>
+  <PlantPot.description>Hier kun je fraaie bloemen poten om de stemming van mensen in de buurt te verbeteren.</PlantPot.description>
   
   <!-- EN: royal bed -->
-  <RoyalBed.label>TODO</RoyalBed.label>
+  <RoyalBed.label>koninklijk bed</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
-  <RoyalBed.description>TODO</RoyalBed.description>
+  <RoyalBed.description>Een luxueus verguld bed dat een koning waardig is. Het is zo comfortabel en mooi dat het praktisch kunst is. Tweepersoons.</RoyalBed.description>
   
   <!-- EN: shelf -->
-  <Shelf.label>TODO</Shelf.label>
+  <Shelf.label>planken-\nkast</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>TODO</Shelf.description>
+  <Shelf.description>Een plankenkast waar van alles in kan worden opgeborgen. Spullen doe hier zijn opgeslagen hebben geen effect op de schoonheid van een kamer en blijven goed bewaard, ook buitenshuis.</Shelf.description>
   
   <!-- EN: sleeping spot -->
-  <SleepingSpot.label>TODO</SleepingSpot.label>
+  <SleepingSpot.label>slaapplaats</SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <SleepingSpot.description>TODO</SleepingSpot.description>
+  <SleepingSpot.description>Wijst een plek aan op de grond waar iemand moet slapen. Niet comfortabel.</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
-  <StandingLamp.label>TODO</StandingLamp.label>
+  <StandingLamp.label>staande lamp</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>TODO</StandingLamp.description>
+  <StandingLamp.description>Een elektrische staande lamp die een gebied verlicht. Mensen hebben licht nodig om op volle snelheid te kunnen lopen en werken.</StandingLamp.description>
   
   <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>TODO</StandingLamp_Blue.label>
+  <StandingLamp_Blue.label>staande lamp (blauw)</StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>TODO</StandingLamp_Blue.description>
+  <StandingLamp_Blue.description>Een staande lamp die een gebied blauw verlicht.</StandingLamp_Blue.description>
   
   <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>TODO</StandingLamp_Green.label>
+  <StandingLamp_Green.label>staande lamp (groen)</StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>TODO</StandingLamp_Green.description>
+  <StandingLamp_Green.description>Een staande lamp die een gebied groen verlicht.</StandingLamp_Green.description>
   
   <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>TODO</StandingLamp_Red.label>
+  <StandingLamp_Red.label>staande lamp (rood)</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>TODO</StandingLamp_Red.description>
+  <StandingLamp_Red.description>Een staande lamp die een gebied rood verlicht.</StandingLamp_Red.description>
   
   <!-- EN: stool -->
-  <Stool.label>TODO</Stool.label>
+  <Stool.label>kruk</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
-  <Stool.description>TODO</Stool.description>
+  <Stool.description>Een eenvoudig krukje waarop men kan zitten. Niet echt comfortabel, maar beter dan niks. Kan worden gebruikt bij tafels, werktafels en elders.</Stool.description>
   
   <!-- EN: sun lamp -->
-  <SunLamp.label>TODO</SunLamp.label>
+  <SunLamp.label>zonnelamp</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
-  <SunLamp.description>TODO</SunLamp.description>
+  <SunLamp.description>Een industriele lamp die een gebied sterk genoeg verlicht om er gewassen onder te kunnen telen. Gebruikt wel erg veel stroom. Gaat 's nachts automatisch uit.</SunLamp.description>
   <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>TODO</SunLamp.comps.CompSchedule.offMessage>
+  <SunLamp.comps.CompSchedule.offMessage>Uitgeschakeld vanwege de rustperiode van planten</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
-  <Table1x2c.label>TODO</Table1x2c.label>
+  <Table1x2c.label>tafel (1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table1x2c.description>TODO</Table1x2c.description>
+  <Table1x2c.description>Mensen eten hun maaltijden aan tafels als er stoelen naast staan die naar de tafel toe zijn gericht.</Table1x2c.description>
   
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>TODO</Table2x2c.label>
+  <Table2x2c.label>tafel (2x2)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x2c.description>TODO</Table2x2c.description>
+  <Table2x2c.description>Mensen eten hun maaltijden aan tafels als er stoelen naast staan die naar de tafel toe zijn gericht.</Table2x2c.description>
   
   <!-- EN: table (2x4) -->
-  <Table2x4c.label>TODO</Table2x4c.label>
+  <Table2x4c.label>tafel (2x4)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x4c.description>TODO</Table2x4c.description>
+  <Table2x4c.description>Mensen eten hun maaltijden aan tafels als er stoelen naast staan die naar de tafel toe zijn gericht.</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
-  <Table3x3c.label>TODO</Table3x3c.label>
+  <Table3x3c.label>tafel (3x3)</Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table3x3c.description>TODO</Table3x3c.description>
+  <Table3x3c.description>Mensen eten hun maaltijden aan tafels als er stoelen naast staan die naar de tafel toe zijn gericht.</Table3x3c.description>
   
   <!-- EN: torch lamp -->
-  <TorchLamp.label>TODO</TorchLamp.label>
+  <TorchLamp.label>toorts</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <TorchLamp.description>TODO</TorchLamp.description>
+  <TorchLamp.description>Een houten toorts om een gebied mee te verlichten. Mensen hebben licht nodig om op volle snelheid te kunnen lopen en werken. Kan automatisch worden herladen met hout. Genereert een klein beetje warmte.</TorchLamp.description>
   
 </LanguageData>

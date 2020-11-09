@@ -2,63 +2,63 @@
 <LanguageData>
   
   <!-- EN: collapsed rocks -->
-  <CollapsedRocks.label>TODO</CollapsedRocks.label>
+  <CollapsedRocks.label>ingestorte rotsen</CollapsedRocks.label>
   <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
-  <CollapsedRocks.description>TODO</CollapsedRocks.description>
+  <CollapsedRocks.description>Ingestorte rotsen die dicht genoeg op elkaar gepakt liggen om een dak te kunnen dragen.</CollapsedRocks.description>
   
   <!-- EN: glow pod -->
-  <GlowPod.label>TODO</GlowPod.label>
+  <GlowPod.label>gloeischulp</GlowPod.label>
   <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
-  <GlowPod.description>TODO</GlowPod.description>
+  <GlowPod.description>Een bioluminescente schulp vervaardigd door reusachtige insecten. Het geeft voor een lange tijd licht, waarna het sterft.</GlowPod.description>
   
   <!-- EN: hive -->
-  <Hive.label>TODO</Hive.label>
+  <Hive.label>nest</Hive.label>
   <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
-  <Hive.description>TODO</Hive.description>
+  <Hive.description>Een nest van reusachtige insecten. Wanneer het actief is creëert het naar verloop van tijd nieuwe insecten en nesten, maar ook waardevolle insectengelei.</Hive.description>
   
   <!-- EN: compacted machinery -->
-  <MineableComponentsIndustrial.label>TODO</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.label>samengeperste machinerie</MineableComponentsIndustrial.label>
   <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
-  <MineableComponentsIndustrial.description>TODO</MineableComponentsIndustrial.description>
+  <MineableComponentsIndustrial.description>Antieke machines die over de jaren heen samen zijn geperst. Kan worden gedolven om bruikbare componenten te winnen.</MineableComponentsIndustrial.description>
   
   <!-- EN: gold ore -->
-  <MineableGold.label>TODO</MineableGold.label>
+  <MineableGold.label>gouderts</MineableGold.label>
   <!-- EN: Rock containing bits of gold. -->
-  <MineableGold.description>TODO</MineableGold.description>
+  <MineableGold.description>Rots met stukjes goud er in.</MineableGold.description>
   
   <!-- EN: jade -->
-  <MineableJade.label>TODO</MineableJade.label>
+  <MineableJade.label>jade</MineableJade.label>
   <!-- EN: Rock containing bits of jade. -->
-  <MineableJade.description>TODO</MineableJade.description>
+  <MineableJade.description>Rots met stukjes jade er in.</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
-  <MineablePlasteel.label>TODO</MineablePlasteel.label>
+  <MineablePlasteel.label>samengeperst plastaal</MineablePlasteel.label>
   <!-- EN: Ancient compacted rubble rich in plasteel. -->
-  <MineablePlasteel.description>TODO</MineablePlasteel.description>
+  <MineablePlasteel.description>Oude, samengeperste hopen puin rijk aan plastaal.</MineablePlasteel.description>
   
   <!-- EN: silver ore -->
-  <MineableSilver.label>TODO</MineableSilver.label>
+  <MineableSilver.label>zilvererts</MineableSilver.label>
   <!-- EN: Rock containing bits of silver. -->
-  <MineableSilver.description>TODO</MineableSilver.description>
+  <MineableSilver.description>Rots met stukjes zilver er in.</MineableSilver.description>
   
   <!-- EN: compacted steel -->
-  <MineableSteel.label>TODO</MineableSteel.label>
+  <MineableSteel.label>samengeperst staal</MineableSteel.label>
   <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
-  <MineableSteel.description>TODO</MineableSteel.description>
+  <MineableSteel.description>Het restant van een oud, vervallen bouwwerk. Rijk aan staal.</MineableSteel.description>
   
   <!-- EN: uranium ore -->
-  <MineableUranium.label>TODO</MineableUranium.label>
+  <MineableUranium.label>uraniumerts</MineableUranium.label>
   <!-- EN: Rock containing bits of uranium. -->
-  <MineableUranium.description>TODO</MineableUranium.description>
+  <MineableUranium.description>Rots met stukjes uranium er in.</MineableUranium.description>
   
   <!-- EN: raised rocks -->
-  <RaisedRocks.label>TODO</RaisedRocks.label>
+  <RaisedRocks.label>opgetrokken rotsen</RaisedRocks.label>
   <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
-  <RaisedRocks.description>TODO</RaisedRocks.description>
+  <RaisedRocks.description>Een wankele muur gemaakt van puin. Zal naar verloop van tijd uit elkaar vallen.</RaisedRocks.description>
   
   <!-- EN: steam geyser -->
-  <SteamGeyser.label>TODO</SteamGeyser.label>
+  <SteamGeyser.label>stoomgeiser</SteamGeyser.label>
   <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
-  <SteamGeyser.description>TODO</SteamGeyser.description>
+  <SteamGeyser.description>Een natuurlijke bron van stoom onder hoge druk. Geothermische generatoren kunnen stroom opwekken uit deze stoom. Kamers die over de geiser heen worden gebouwd zullen snel kokend heet worden.</SteamGeyser.description>
   
 </LanguageData>

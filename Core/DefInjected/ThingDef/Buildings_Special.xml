@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: infinite chemreactor -->
-  <InfiniteChemreactor.label>TODO</InfiniteChemreactor.label>
+  <InfiniteChemreactor.label>oneindige chemische reactor</InfiniteChemreactor.label>
   <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
-  <InfiniteChemreactor.description>TODO</InfiniteChemreactor.description>
+  <InfiniteChemreactor.description>Genereert langzaam chemische brandstof door atomen uit de lucht te halen via een complex chemisch proces.</InfiniteChemreactor.description>
   
   <!-- EN: psychic emanator -->
-  <PsychicEmanator.label>TODO</PsychicEmanator.label>
+  <PsychicEmanator.label>psychische zender</PsychicEmanator.label>
   <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
-  <PsychicEmanator.description>TODO</PsychicEmanator.description>
+  <PsychicEmanator.description>Een antiek apparaat dat een psychische kalmte rond zichzelf opwekt. Mensen in de buurt zullen in een betere stemming raken. Werkt door muren heen.</PsychicEmanator.description>
   
   <!-- EN: vanometric power cell -->
-  <VanometricPowerCell.label>TODO</VanometricPowerCell.label>
+  <VanometricPowerCell.label>vanometrische stroomcel</VanometricPowerCell.label>
   <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
-  <VanometricPowerCell.description>TODO</VanometricPowerCell.description>
+  <VanometricPowerCell.description>Genereert gratis stroom, voor altijd, zonder brandstof. Deze technologie is afkomstig  van argotechneuten, en is onbegrijpelijk zelfs in de maatschappijen op glitterwerelden. Niemand weet precies hoe het werkt, maar geleerden vermoeden dat het op een of andere manier energie ontleent aan de fluctuaties in het kwantumschuim.</VanometricPowerCell.description>
   
 </LanguageData>

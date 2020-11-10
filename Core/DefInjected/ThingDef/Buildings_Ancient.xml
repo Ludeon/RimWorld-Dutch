@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: ancient concrete barrier -->
-  <AncientConcreteBarrier.label>TODO</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.label>antieke betonnen versperring</AncientConcreteBarrier.label>
   <!-- EN: A traffic management solution from long ago. -->
-  <AncientConcreteBarrier.description>TODO</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.description>Een manier om verkeer te regelen uit de oudheid.</AncientConcreteBarrier.description>
   
   <!-- EN: ancient lamppost -->
-  <AncientLamppost.label>TODO</AncientLamppost.label>
+  <AncientLamppost.label>antieke straatlantaarn</AncientLamppost.label>
   <!-- EN: Road lighting from long ago. No longer functional. -->
-  <AncientLamppost.description>TODO</AncientLamppost.description>
+  <AncientLamppost.description>Wegverlichting uit de oudheid. Niet langer functioneel.</AncientLamppost.description>
   
   <!-- EN: urn -->
-  <Urn.label>TODO</Urn.label>
+  <Urn.label>urn</Urn.label>
   <!-- EN: An ancient-style decorative container. -->
-  <Urn.description>TODO</Urn.description>
+  <Urn.description>Een decoratieve pot in antieke stijl.</Urn.description>
   
 </LanguageData>

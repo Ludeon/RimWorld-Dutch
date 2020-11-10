@@ -26,9 +26,9 @@
   <Filth_FireFoam.label>blusschuim</Filth_FireFoam.label>
   
   <!-- EN: chemfuel puddle -->
-  <Filth_Fuel.label>plas chembrandstof</Filth_Fuel.label>
+  <Filth_Fuel.label>plas brandstof</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>een plas ontvlambare chembrandstof</Filth_Fuel.description>
+  <Filth_Fuel.description>een plas ontvlambare brandstof</Filth_Fuel.description>
   
   <!-- EN: machine bits -->
   <Filth_MachineBits.label>stukjes machinerie</Filth_MachineBits.label>

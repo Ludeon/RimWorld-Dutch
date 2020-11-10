@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: campfire -->
-  <Campfire.label>TODO</Campfire.label>
+  <Campfire.label>kampvuur</Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
-  <Campfire.description>TODO</Campfire.description>
+  <Campfire.description>Produceert warmte en biedt de gelegenheid tot het koken van maaltijden. Na een paar dagen is het uitgebrand. Net als andere hittebronnen moet het binnenshuis worden geplaatst zodat het de ruimte kan verwarmen. Kan worden bijgevuld.</Campfire.description>
   
   <!-- EN: cooler -->
-  <Cooler.label>TODO</Cooler.label>
+  <Cooler.label>koeler</Cooler.label>
   <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
-  <Cooler.description>TODO</Cooler.description>
+  <Cooler.description>Een luchtkoelingsmachine die in een muur past. Aan de ene kant komt er koele lucht uit, aan de andere hete lucht. Kan gebruikt worden om in de zomer ruimtes te koelen, of om een vriesruimte te maken.</Cooler.description>
   
   <!-- EN: heater -->
-  <Heater.label>TODO</Heater.label>
+  <Heater.label>kachel</Heater.label>
   <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
-  <Heater.description>TODO</Heater.description>
+  <Heater.description>Een apparaat dat elektriciteit in warmte omzet. Hij kan zichzelf aan- en uitzetten teneinde een bepaalde temperatuur te bereiken.</Heater.description>
   
   <!-- EN: passive cooler -->
-  <PassiveCooler.label>TODO</PassiveCooler.label>
+  <PassiveCooler.label>passieve koeler</PassiveCooler.label>
   <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
-  <PassiveCooler.description>TODO</PassiveCooler.description>
+  <PassiveCooler.description>Een traditioneel bouwsel dat zonder stroom kan koelen via het verdampen van water. Moet om de zoveel tijd worden bijgevuld met hout. Niet efficiënt genoeg om voedsel langer goed te houden.</PassiveCooler.description>
   
   <!-- EN: vent -->
-  <Vent.label>TODO</Vent.label>
+  <Vent.label>luchtrooster</Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
-  <Vent.description>TODO</Vent.description>
+  <Vent.description>Een rooster dat de temperatuur van twee ruimtes gelijk maakt zonder dat mensen van de ene naar de andere kant kunnen lopen.</Vent.description>
   
 </LanguageData>

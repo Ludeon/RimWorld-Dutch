@@ -227,7 +227,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Verkeerde versie volgorde: 'default' moet eerst gedefinieerd zijn.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Het gebruik van 'default' in de 'load folders' is verouderd. Definieer folders voor individuele versies via de &lt;v...&gt; tags.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Het gebruik van 'default' in de 'load folders' is verouderd. Definieer folders voor individuele versies via de v... tags.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>Versie {0} is gedefinieerd in de 'load folders', maar staat niet in 'supportedVersions' in About.xml van de mod.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->

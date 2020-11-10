@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: grand sculpture -->
-  <SculptureGrand.label>indrukwekkend sculptuur</SculptureGrand.label>
+  <SculptureGrand.label>indrukwekkende sculptuur</SculptureGrand.label>
   <!-- EN: A huge sculpture sized to dominate a room. -->
-  <SculptureGrand.description>Een enorm sculptuur groot genoeg om een ruimte te domineren.</SculptureGrand.description>
+  <SculptureGrand.description>Een enorme sculptuur groot genoeg om een ruimte te domineren.</SculptureGrand.description>
   
   <!-- EN: large sculpture -->
-  <SculptureLarge.label>groot sculptuur</SculptureLarge.label>
+  <SculptureLarge.label>grote sculptuur</SculptureLarge.label>
   <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
   <SculptureLarge.description>Een levensgroot stuk materiaal dat op een artistieke manier is vormgegeven.</SculptureLarge.description>
   
   <!-- EN: small sculpture -->
-  <SculptureSmall.label>klein sculptuur</SculptureSmall.label>
+  <SculptureSmall.label>kleine sculptuur</SculptureSmall.label>
   <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
   <SculptureSmall.description>Een stuk materiaal ter grootte van een torso dat op een artistieke manier is vormgegeven.</SculptureSmall.description>
   

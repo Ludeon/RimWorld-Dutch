@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: caravan ambush defeated -->
-  <CaravanAmbushDefeated.label>TODO</CaravanAmbushDefeated.label>
+  <CaravanAmbushDefeated.label>karavaan hinderlaag verslagen</CaravanAmbushDefeated.label>
   <!-- EN:
     <li>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</li>
     <li>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</li>
@@ -27,10 +27,33 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
-  <CaravanAmbushDefeated.rulePack.rulesStrings>TODO</CaravanAmbushDefeated.rulePack.rulesStrings>
-  
+  <CaravanAmbushDefeated.rulePack.rulesStrings>
+    <li>tale_noun->een succesvolle verdediging van [PAWN_nameDef]'s karavaan</li>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan in gevecht tegen een hinderlaag</li>
+    <li>image->[PAWN_nameFull] die tegenstand organiseert terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [Weapon] defensief gebruikt terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die weerwraak neemt met [PAWN_possessive] [Weapon] terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die sterk staat als een huis terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] met een [AdjectiveBadass] uitdrukking terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] met een [AdjectiveAngsty] uitdrukking terwijl [circumstance_group]</li>
+    <li>circumstance_phrase->een horde vijanden dichterbij komt</li>
+    <li>circumstance_phrase->de wagens omsingeld worden</li>
+    <li>circumstance_phrase->[PAWN_pronoun] de overwinning uitroept</li>
+    <li>circumstance_phrase->[Weapon] worden gebruikt</li>
+    <li>circumstance_phrase->[PAWN_pronoun] met [Gore] bedekt is</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] komen dichterbij, met getrokken [Weapon].</li>
+    <li>desc_sentence->Een enorme [Enemy] komt dichterbij, met getrokken [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] komen dichterbij met een [AdjectiveBadass] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] komen dichterbij met een [AdjectiveAngsty] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] komen dichterbij met [Color] gekleurde ogen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] komen dichterbij, bedekt met [Gore].</li>
+    <li>desc_sentence->De grond is vol [Gore] gesmeerd.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] vluchten uit de regio.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] vluchten uit de regio.</li>
+  </CaravanAmbushDefeated.rulePack.rulesStrings>
+
   <!-- EN: caravan assault successful -->
-  <CaravanAssaultSuccessful.label>TODO</CaravanAssaultSuccessful.label>
+  <CaravanAssaultSuccessful.label>karavaan aanval succesvol</CaravanAssaultSuccessful.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</li>
     <li>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</li>
@@ -50,10 +73,28 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
-  <CaravanAssaultSuccessful.rulePack.rulesStrings>TODO</CaravanAssaultSuccessful.rulePack.rulesStrings>
-  
+  <CaravanAssaultSuccessful.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan verovert een vijandig bolwerk</li>
+    <li>image->[PAWN_nameFull] rent op [Enemy] af, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] met een [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] zwaaiend met een [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], sterk als een huis, [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveBadass] blik in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->met een [AdjectiveAngsty] blik in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->de overwinning uitschreeuwend</li>
+    <li>circumstance_phrase->met [Gore] bedekt</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] verschuilen zich voor de aanval.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] ontvluchten de regio.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy] zijn zichtbaar gewond.</li>
+    <li>desc_sentence->Een [Community] brandt aan de horizon.</li>
+    <li>desc_sentence->Een [Community] rookt aan de horizon.</li>
+    <li>desc_sentence->De grond is bedekt met [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] ontvluchten de regio.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]en ontvluchten de regio.</li>
+  </CaravanAssaultSuccessful.rulePack.rulesStrings>
+
   <!-- EN: caravan fled -->
-  <CaravanFled.label>TODO</CaravanFled.label>
+  <CaravanFled.label>karavaan gevlucht</CaravanFled.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</li>
     <li>tale_noun->[PAWN_nameDef]'s caravan escaping danger</li>
@@ -77,9 +118,9 @@
     <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
   -->
   <CaravanFled.rulePack.rulesStrings>TODO</CaravanFled.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan formed -->
-  <CaravanFormed.label>TODO</CaravanFormed.label>
+  <CaravanFormed.label>karavaan gevormd</CaravanFormed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
     <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
@@ -100,9 +141,9 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
   -->
   <CaravanFormed.rulePack.rulesStrings>TODO</CaravanFormed.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan remote mining -->
-  <CaravanRemoteMining.label>TODO</CaravanRemoteMining.label>
+  <CaravanRemoteMining.label>karavaan delft op afstand</CaravanRemoteMining.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
     <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
@@ -123,5 +164,5 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <CaravanRemoteMining.rulePack.rulesStrings>TODO</CaravanRemoteMining.rulePack.rulesStrings>
-  
+
 </LanguageData>

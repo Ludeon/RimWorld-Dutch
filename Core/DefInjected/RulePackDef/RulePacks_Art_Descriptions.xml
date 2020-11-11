@@ -13,9 +13,9 @@
     <li>r_art_description->[physical_description_root] [context_sentence]</li>
     <li>circumstance_group->[circumstance_phrase]</li>
     <li>desc_sentence_group->[desc_sentence] [style_group]</li>
-    <li>context_sentence->Dit [depiction] refereert aan [tale_noun] op [DATE].</li>
-    <li>context_sentence->Dit [depiction] is gerelateerd aan [tale_noun] op [DATE].</li>
-    <li>context_sentence->Dit [depiction] vertelt het verhaal van [tale_noun] op [DATE].</li>
+    <li>context_sentence->Deze [depiction] refereert aan [tale_noun] op [DATE].</li>
+    <li>context_sentence->Deze [depiction] is gerelateerd aan [tale_noun] op [DATE].</li>
+    <li>context_sentence->Deze [depiction] vertelt het verhaal van [tale_noun] op [DATE].</li>
   </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:
@@ -225,8 +225,8 @@
     <li>artextra_clause->de scène vindt plaats in een [Community] gebouwd bij een [TerrainFeature]</li>
     <li>artextra_clause->een [Character] [idles] [side_position]</li>
     <li>artextra_clause->een [PAWN_adj] [Character] [idles] [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [Character]s lijken [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s lijken [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character]s staan [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s staan [side_position]</li>
     <li>artextra_clause->een [Animal] [idles] [side_position]</li>
     <li>artextra_clause->als je je ogen dichtknijpt, zie je in de [composition] compositie van het beeld de beeltenis van [subimageany]</li>
     <li>artextra_clause->het [emotional_expression] hoofd van een [PAWN_adj] [PersonJob] waakt over alles</li>
@@ -297,7 +297,7 @@
     <li>style_clause->de algemene compositie is [composition]</li>
     <li>style_clause->de stijl is [artstyle_adj] met [artstyle_adj] elementen</li>
     <li>style_clause->op de een of andere manier drukt het beeld zowel [ConceptAny] als [ConceptAny] uit</li>
-    <li>style_clause->het beel schept een contrast tussen [ConceptAny] en [ConceptAny]</li>
+    <li>style_clause->het beeld schept een contrast tussen [ConceptAny] en [ConceptAny]</li>
     <li>style_clause->de [composition] structuur van het beeld vloekt bijna met zijn [artstyle_adj] stijl</li>
     <li>style_clause->het werk is gekleurd in tinten van [Color] en [Color]</li>
     <li>style_clause->bijna elke vorm in het beeld lijkt een [composition]</li>
@@ -318,12 +318,10 @@
     <li>depicts->illustreert</li>
     <li>depicts->vertegenwoordigt</li>
     <li>depicts->is gevormd als</li>
-    <li>depiction->verbeelding</li>
-    <li>depiction->beeld</li>
-    <li>depiction->portret</li>
-    <li>depiction->representatie</li>
-    <li>depiction->illustratie</li>
-    <li>depiction->kunstwerk</li>
+    <li>depiction->vertoning</li>
+    <li>depiction->afbeelding</li>
+    <li>depiction->gravering</li>
+    <li>depiction->tekening</li>
     <li>composition->driehoekig</li>
     <li>composition->rechthoekig</li>
     <li>composition->vierkant</li>

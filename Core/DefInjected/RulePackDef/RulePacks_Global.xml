@@ -50,7 +50,63 @@
     <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
-  <GlobalUtility.rulePack.rulesStrings>TODO</GlobalUtility.rulePack.rulesStrings>
+  <GlobalUtility.rulePack.rulesStrings>
+    <li>Trans->voor</li>
+    <li>Trans->van</li>
+    <li>Trans->met</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase->twee</li>
+    <li>Quantity_adjphrase->drie</li>
+    <li>Quantity_adjphrase->vier</li>
+    <li>Quantity_adjphrase->vijf</li>
+    <li>Quantity_adjphrase->zes</li>
+    <li>Quantity_adjphrase->zeven</li>
+    <li>Quantity_adjphrase->acht</li>
+    <li>Quantity_adjphrase->negen</li>
+    <li>Quantity_adjphrase->tien</li>
+    <li>Quantity_adjphrase->meerdere</li>
+    <li>Quantity_adjphrase->een groep</li>
+    <li>Quantity_adjphrase->een grote groep</li>
+    <li>Quantity_adjphrase->tientallen</li>
+    <li>Quantity_adjphrase->honderden</li>
+    <li>Quantity_adjphrase->duizend</li>
+    <li>Quantity_adjphrase->duizenden</li>
+    <li>Shape->driehoek</li>
+    <li>Shape->vierkant</li>
+    <li>Shape->rechthoek</li>
+    <li>Shape->kegel</li>
+    <li>Shape->lijn</li>
+    <li>Shape->hart</li>
+    <li>Shape->ster</li>
+    <li>Shape->cirkel</li>
+    <li>Shape->ellips</li>
+    <li>ShapePluralDat->driehoeken</li>
+    <li>ShapePluralDat->vierkanten</li>
+    <li>ShapePluralDat->rechthoeken</li>
+    <li>ShapePluralDat->kegels</li>
+    <li>ShapePluralDat->lijnen</li>
+    <li>ShapePluralDat->harten</li>
+    <li>ShapePluralDat->sterren</li>
+    <li>ShapePluralDat->cirkels</li>
+    <li>ShapePluralDat->ellipsen</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitaliën</li>
+    <li>PersonalCharacteristic(p=0.15)->schaamhaar</li>
+    <li>PersonalCharacteristic(p=0.15)->lichaamshaar</li>
+    <li>PersonalCharacteristic(p=0.15)->toiletgewoonten</li>
+    <li>PersonalCharacteristic(p=0.15)->sexuele vaardigheden</li>
+    <li>PersonalCharacteristic(p=0.15)->sexuele voorkeuren</li>
+    <li>PersonalCharacteristic(p=0.15)->sexuele ervaring</li>
+  </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>
@@ -91,6 +147,44 @@
     <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
     <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
   -->
-  <TalkTopicsUtility.rulePack.rulesStrings>TODO</TalkTopicsUtility.rulePack.rulesStrings>
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->de link tussen [talktopicheavyfile] en [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->de verbinding tussen [talktopicheavyfile] en [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->de relatie van [talktopicheavyfile] met [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[Vegetable]s</li>
+    <li>TalkTopicLight->eet [Vegetable]s</li>
+    <li>TalkTopicLight->kookt met [Vegetable]s</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->speelt [Game]</li>
+    <li>TalkTopicLight->oefent [Game]</li>
+    <li>TalkTopicLight->leert [Game]</li>
+    <li>TalkTopicLight->[Animal]s</li>
+    <li>TalkTopicLight->traint [Animal]</li>
+    <li>TalkTopicLight->temt [Animal]</li>
+    <li>TalkTopicLight->vercht [Animal]</li>
+    <li>TalkTopicLight->gestoorde [Animal]</li>
+    <li>TalkTopicLight->[Weapon]s</li>
+    <li>TalkTopicLight->gebruikt [Weapon]</li>
+    <li>TalkTopicLight->oefent met [Weapon]</li>
+    <li>TalkTopicLight->[TerrainFeature]</li>
+    <li>TalkTopicLight->[NaturalObject]</li>
+    <li>TalkTopicLight->[TreeType] bomen</li>
+    <li>TalkTopicLight->[PersonJob]</li>
+    <li>TalkTopicLight->vriendelijke [PersonJob]</li>
+    <li>TalkTopicLight->vijandige [PersonJob]</li>
+    <li>TalkTopicLight->[Enemy]</li>
+    <li>TalkTopicLight->vecht met [Enemy]</li>
+    <li>TalkTopicLight->[Apparel]</li>
+    <li>TalkTopicLight->draagt [Apparel]</li>
+    <li>TalkTopicLight->maakt [Apparel]</li>
+    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->verleiding</li>
+    <li>talktopicheavyfile(p=0.15)->dierlijke sexualiteit</li>
+    <li>talktopicheavyfile(p=0.15)->sexuele fetishes</li>
+    </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>

@@ -2,11 +2,11 @@
 //Simple colors only, no mauve and puce
 
 
-red
-blue
-green
-purple
-black
-white
-gray
-orange
+rood
+blauw
+groen
+paars
+zwart
+wit
+grijs
+oranje

@@ -1,61 +1,60 @@
-﻿knife
-dagger
-blade
-shiv
-razor
-scythe
-sickle
+﻿mes
+dolk
+lemmet
+scheermes
+zeis
+sikkel
 
-sword
-sabre
-rapier
+zwaard
+sabel
+degen
 claymore
-scimitar
+kromzwaard
 
-spear
-pike
+speer
+piek
 ikwa
-lance
-bayonet
-javelin
+lans
+bajonet
+werpspies
 
-axe
+bijl
 tomahawk
-hatchet
+kapmes
 
-whip
+zweep
 
-saw
+zaag
 
-club
-hammer
-sledgehammer
-mace
+knots
+hamer
+moker
+goedendag
 
-knuckleduster
-gauntlet
+boksbeugel
+handschoen
 
 dart
-arrow
+pijl
 
-crossbow
-bow
+kruisboog
+boog
 
-gun
-pistol
-rifle
-shotgun
+geweer
+pistool
+buks
+jachtgeweer
 revolver
 
-cannon
-mortar
+kanon
+mortier
 howitzer
 
-bomb
-nuke
-landmine
-grenade
+bom
+nucleaire bom
+landmijn
+granaat
 
-missile
-rocket
+projectiel
+raket
 

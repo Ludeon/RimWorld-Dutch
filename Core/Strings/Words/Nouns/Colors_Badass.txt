@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+rood
+zwart
+grauw
+as
 
-dark
-shadow
-night
+donker
+schaduw
+nacht

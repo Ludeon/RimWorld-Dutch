@@ -2,103 +2,123 @@
 <LanguageData>
   
   <!-- EN: bearskin -->
-  <Leather_Bear.label>TODO</Leather_Bear.label>
+  <Leather_Bear.label>berenvel</Leather_Bear.label>
   <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
-  <Leather_Bear.description>TODO</Leather_Bear.description>
+  <Leather_Bear.description>Het sterke, behaarde leer van een beer. Vergeleken met de meeste andere leersoorten is het een flink stuk bestendiger en beter in het reguleren van de temperatuur.</Leather_Bear.description>
+  <Leather_Bear.stuffProps.stuffAdjective>berenvellen</Leather_Bear.stuffProps.stuffAdjective>
   
   <!-- EN: birdskin -->
-  <Leather_Bird.label>TODO</Leather_Bird.label>
+  <Leather_Bird.label>vogelvel</Leather_Bird.label>
   <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
-  <Leather_Bird.description>TODO</Leather_Bird.description>
+  <Leather_Bird.description>Gelooid, gedroogd en schoongeschraapt vogelvel. Het is nogal broos. Zonder de veren biedt het weinig bescherming tegen hitte of kou.</Leather_Bird.description>
+  <Leather_Bird.stuffProps.stuffAdjective>vogelvellen</Leather_Bird.stuffProps.stuffAdjective>
   
   <!-- EN: bluefur -->
-  <Leather_Bluefur.label>TODO</Leather_Bluefur.label>
+  <Leather_Bluefur.label>blauwbont</Leather_Bluefur.label>
   <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
-  <Leather_Bluefur.description>TODO</Leather_Bluefur.description>
+  <Leather_Bluefur.description>De bontachtige huid van een muffel. Makkelijk te herkennen aan de blauwe tint. Goed voor het reguleren van de temperatuur in koude contreien.</Leather_Bluefur.description>
+  <Leather_Bluefur.stuffProps.stuffAdjective>blauwbonten</Leather_Bluefur.stuffProps.stuffAdjective>
   
   <!-- EN: camelhide -->
-  <Leather_Camel.label>TODO</Leather_Camel.label>
+  <Leather_Camel.label>kamelenhuid</Leather_Camel.label>
   <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
-  <Leather_Camel.description>TODO</Leather_Camel.description>
+  <Leather_Camel.description>Gelooide, gedroogde en schoongeschraapte kamelenhuid. Goed voor het reguleren van de temperatuur in warme contreien.</Leather_Camel.description>
+  <Leather_Camel.stuffProps.stuffAdjective>kamelenhuiden</Leather_Camel.stuffProps.stuffAdjective>
   
   <!-- EN: chinchilla fur -->
-  <Leather_Chinchilla.label>TODO</Leather_Chinchilla.label>
+  <Leather_Chinchilla.label>chinchillabont</Leather_Chinchilla.label>
   <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
-  <Leather_Chinchilla.description>TODO</Leather_Chinchilla.description>
+  <Leather_Chinchilla.description>Gelooide, gedroogde en schoongeschraapte chinchillahuid. Het staat bekend als een extreem luxueus en isolerend bont, en is daarom van buitengewoon hoge waarde.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.stuffProps.stuffAdjective>chinchillabonten</Leather_Chinchilla.stuffProps.stuffAdjective>
   
   <!-- EN: dog leather -->
-  <Leather_Dog.label>TODO</Leather_Dog.label>
+  <Leather_Dog.label>hondenleer</Leather_Dog.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Dog.description>TODO</Leather_Dog.description>
+  <Leather_Dog.description>Gelooide, gedroogde en schoongeschraapte hondenhuid. Een vertrouwd materiaal om kleren en tassen van te maken.</Leather_Dog.description>
+  <Leather_Dog.stuffProps.stuffAdjective>hondenleren</Leather_Dog.stuffProps.stuffAdjective>
   
   <!-- EN: elephant leather -->
-  <Leather_Elephant.label>TODO</Leather_Elephant.label>
+  <Leather_Elephant.label>olifantenleer</Leather_Elephant.label>
   <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
-  <Leather_Elephant.description>TODO</Leather_Elephant.description>
+  <Leather_Elephant.description>Gelooide, gedroogde en schoongeschraapte olifantenhuid. Hoewel het erg bestendig is, isoleert het maar matigjes.</Leather_Elephant.description>
+  <Leather_Elephant.stuffProps.stuffAdjective>olifantenleren</Leather_Elephant.stuffProps.stuffAdjective>
   
   <!-- EN: foxfur -->
-  <Leather_Fox.label>TODO</Leather_Fox.label>
+  <Leather_Fox.label>vossenbont</Leather_Fox.label>
   <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
-  <Leather_Fox.description>TODO</Leather_Fox.description>
+  <Leather_Fox.description>De huid van een vos. Het biedt goede bescherming tegen de kou en is vrij luxueus, waardoor het voor een hoge prijs wordt verhandeld.</Leather_Fox.description>
+  <Leather_Fox.stuffProps.stuffAdjective>vossenleren</Leather_Fox.stuffProps.stuffAdjective>
   
   <!-- EN: guinea pig fur -->
-  <Leather_GuineaPig.label>TODO</Leather_GuineaPig.label>
+  <Leather_GuineaPig.label>caviahuid</Leather_GuineaPig.label>
   <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
-  <Leather_GuineaPig.description>TODO</Leather_GuineaPig.description>
+  <Leather_GuineaPig.description>Lappen caviahuid. Het is delicaat maar luxueus.</Leather_GuineaPig.description>
+  <Leather_GuineaPig.stuffProps.stuffAdjective>caviahuiden</Leather_GuineaPig.stuffProps.stuffAdjective>
   
   <!-- EN: heavy fur -->
-  <Leather_Heavy.label>TODO</Leather_Heavy.label>
+  <Leather_Heavy.label>dik bont</Leather_Heavy.label>
   <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
-  <Leather_Heavy.description>TODO</Leather_Heavy.description>
+  <Leather_Heavy.description>Dik leer bedekt met een stevige laag bont. Het is afkomstig van een groot, winterhard dier. De dikke huid biedt goede isolatie en bescherming.</Leather_Heavy.description>
+  <Leather_Heavy.stuffProps.stuffAdjective>bonten</Leather_Heavy.stuffProps.stuffAdjective>
   
   <!-- EN: human leather -->
-  <Leather_Human.label>TODO</Leather_Human.label>
+  <Leather_Human.label>mensenleer</Leather_Human.label>
   <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Human.description>TODO</Leather_Human.description>
+  <Leather_Human.description>Gelooide, gedroogde en schoongeschraapte mensenhuid. De meeste mensen vinden dit materiaal afschuwelijk. Sommige mensen vinden het fascinerend. Als leer is het niet slecht, maar het laat zowel qua bescherming als qua isolatie te wensen over.</Leather_Human.description>
+  <Leather_Human.stuffProps.stuffAdjective>mensenleren</Leather_Human.stuffProps.stuffAdjective>
   
   <!-- EN: lightleather -->
-  <Leather_Light.label>TODO</Leather_Light.label>
+  <Leather_Light.label>lichtleer</Leather_Light.label>
   <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
-  <Leather_Light.description>TODO</Leather_Light.description>
+  <Leather_Light.description>Lichtgewicht, dun leer, waarschijnlijk afkomstig van een klein dier. Beschermt minder goed dan dikkere leersoorten.</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>lichtleren</Leather_Light.stuffProps.stuffAdjective>
   
   <!-- EN: lizardskin -->
-  <Leather_Lizard.label>TODO</Leather_Lizard.label>
+  <Leather_Lizard.label>hagedissenhuid</Leather_Lizard.label>
   <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
-  <Leather_Lizard.description>TODO</Leather_Lizard.description>
+  <Leather_Lizard.description>De gelooide huid van een koudbloedig reptiel. Hagedissenhuid is redelijk sterk, maar isoleert nauwelijks.</Leather_Lizard.description>
+  <Leather_Lizard.stuffProps.stuffAdjective>hagedissenhuiden</Leather_Lizard.stuffProps.stuffAdjective>
   
   <!-- EN: panthera fur -->
-  <Leather_Panthera.label>TODO</Leather_Panthera.label>
+  <Leather_Panthera.label>panterabont</Leather_Panthera.label>
   <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
-  <Leather_Panthera.description>TODO</Leather_Panthera.description>
+  <Leather_Panthera.description>Een zachte bontsoort afkomstig van een grote kat. Het is moeilijk te doorboren en isoleert goed tegen warmte.</Leather_Panthera.description>
+  <Leather_Panthera.stuffProps.stuffAdjective>panterabonten</Leather_Panthera.stuffProps.stuffAdjective>
   
   <!-- EN: patchleather -->
   <Leather_Patch.label>lappenleer</Leather_Patch.label>
   <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
   <Leather_Patch.description>Een zwak textiel gemaakt door het verknippen en samennaaien van verschillende soorten leer. Ongeacht het type leer dat wordt gebruikt om het te maken, zit lappenleer vol onregelmatige naailijnen, wat het minder sterk en isolerend maakt dan andere soorten leer.</Leather_Patch.description>
-  
+  <Leather_Patch.stuffProps.stuffAdjective>lappenleren</Leather_Patch.stuffProps.stuffAdjective>
+
   <!-- EN: pigskin -->
-  <Leather_Pig.label>TODO</Leather_Pig.label>
+  <Leather_Pig.label>varkensleer</Leather_Pig.label>
   <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Pig.description>TODO</Leather_Pig.description>
+  <Leather_Pig.description>Gelooide, gedroogde en schoongeschraapte varkenshuid. Als leer is het niet slecht, maar het laat zowel qua bescherming als qua isolatie te wensen over.</Leather_Pig.description>
+  <Leather_Pig.stuffProps.stuffAdjective>varkensleren</Leather_Pig.stuffProps.stuffAdjective>
   
   <!-- EN: plainleather -->
-  <Leather_Plain.label>TODO</Leather_Plain.label>
+  <Leather_Plain.label>leer</Leather_Plain.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Plain.description>TODO</Leather_Plain.description>
+  <Leather_Plain.description>Gelooide, gedroogde en schoongeschraapte dierenhuid. Een vertrouwd materiaal om kleren en tassen van te maken.</Leather_Plain.description>
+  <Leather_Plain.stuffProps.stuffAdjective>leren</Leather_Plain.stuffProps.stuffAdjective>
   
   <!-- EN: rhinoceros leather -->
-  <Leather_Rhinoceros.label>TODO</Leather_Rhinoceros.label>
+  <Leather_Rhinoceros.label>neushoornleer</Leather_Rhinoceros.label>
   <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
-  <Leather_Rhinoceros.description>TODO</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.description>Gelooide, gedroogde en schoongeschraapte neushoornhuid. Het is zeer bestendig tijdens gevechten, maar biedt weinig bescherming tegen het weer.</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.stuffProps.stuffAdjective>neushoornleren</Leather_Rhinoceros.stuffProps.stuffAdjective>
   
   <!-- EN: thrumbofur -->
-  <Leather_Thrumbo.label>TODO</Leather_Thrumbo.label>
+  <Leather_Thrumbo.label>thrumbobont</Leather_Thrumbo.label>
   <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_Thrumbo.description>TODO</Leather_Thrumbo.description>
+  <Leather_Thrumbo.description>De zachte pels van een thrumbo. Luxueus en ongekend bestendig. Gewild voor hoogwaardige artikelen vanwege zijn sterkte en isolatie.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.stuffProps.stuffAdjective>thrumbobonten</Leather_Thrumbo.stuffProps.stuffAdjective>
   
   <!-- EN: wolfskin -->
-  <Leather_Wolf.label>TODO</Leather_Wolf.label>
+  <Leather_Wolf.label>wolvenhuid</Leather_Wolf.label>
   <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
-  <Leather_Wolf.description>TODO</Leather_Wolf.description>
+  <Leather_Wolf.description>Een zachte pels afkomstig van een wolfachtig wezen. Het is moeilijk te doorboren en isoleert goed tegen de kou.</Leather_Wolf.description>
+  <Leather_Wolf.stuffProps.stuffAdjective>wolvenhuiden</Leather_Wolf.stuffProps.stuffAdjective>
   
 </LanguageData>

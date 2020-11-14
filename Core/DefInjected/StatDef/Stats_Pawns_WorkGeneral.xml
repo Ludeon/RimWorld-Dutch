@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: animal gather speed -->
-  <AnimalGatherSpeed.label>TODO</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.label>verzamelsnelheid dieren</AnimalGatherSpeed.label>
   <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
-  <AnimalGatherSpeed.description>TODO</AnimalGatherSpeed.description>
+  <AnimalGatherSpeed.description>De snelheid waarmee deze persoon melkt, scheert en anderszins middelen van dieren verzamelt.</AnimalGatherSpeed.description>
   
   <!-- EN: animal gather yield -->
-  <AnimalGatherYield.label>TODO</AnimalGatherYield.label>
+  <AnimalGatherYield.label>verzamelopbrengst dieren</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
-  <AnimalGatherYield.description>TODO</AnimalGatherYield.description>
+  <AnimalGatherYield.description>Het opbrengstpercentage dat iemand ontvangt bij het scheren, melken of anderszins middelen verzamelen van een levend dier.\n\nHogere percentages verkleinen de kans op verspilling van het product.</AnimalGatherYield.description>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeed.label>Bouwsnelheid</ConstructionSpeed.label>
+  <ConstructionSpeed.label>bouwsnelheid</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
-  <ConstructionSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan bouwen.</ConstructionSpeed.description>
+  <ConstructionSpeed.description>Een factor op de snelheid waarmee deze persoon kan bouwen.</ConstructionSpeed.description>
   
   <!-- EN: construct success chance -->
-  <ConstructSuccessChance.label>TODO</ConstructSuccessChance.label>
+  <ConstructSuccessChance.label>slagingskans bouwen</ConstructSuccessChance.label>
   <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
-  <ConstructSuccessChance.description>TODO</ConstructSuccessChance.description>
+  <ConstructSuccessChance.description>De kans dat deze persoon erin slaagt iets op te bouwen.\nFalen betekent verspilling van tijd en grondstoffen.</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
   <DeepDrillingSpeed.label>diepteboorsnelheid</DeepDrillingSpeed.label>
@@ -27,19 +27,19 @@
   <DeepDrillingSpeed.description>De snelheid waarmee deze persoon de diepteboor gebruikt om ondergrondse reserves te delven.</DeepDrillingSpeed.description>
   
   <!-- EN: repair success chance -->
-  <FixBrokenDownBuildingSuccessChance.label>TODO</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.label>slagingskans reparatie</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>TODO</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>De kans dat deze persoon met succes een defect gebouw herstelt met behulp van een component.\n\nFalen betekent verspilling van tijd en grondstoffen.\nLet op: dit geldt alleen voor het herstellen van storingen, wat anders is dan het herstellen van schade.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
-  <HuntingStealth.label>TODO</HuntingStealth.label>
+  <HuntingStealth.label>jagerscamouflage</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
-  <HuntingStealth.description>TODO</HuntingStealth.description>
+  <HuntingStealth.description>Deze score verkleint de kans dat bejaagde dieren de jager aanvallen.\n\nEen score van 0% betekent geen reductie.\nEen score van 100% betekent dat dieren nooit aanvallen.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
-  <MiningSpeed.label>Delfsnelheid</MiningSpeed.label>
+  <MiningSpeed.label>delfsnelheid</MiningSpeed.label>
   <!-- EN: A speed at which this person mines away walls. -->
-  <MiningSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan delven.</MiningSpeed.description>
+  <MiningSpeed.description>Een factor op de snelheid waarmee deze persoon kan delven.</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>opbrengst</MiningYield.label>
@@ -47,28 +47,28 @@
   <MiningYield.description>Het percentage van gedolven grondstoffen die een delver zal produceren.\n\nDit geldt voor zowel normaal delven als diepteboren.\nDit heeft geen effect op het genereren van rotsblokken door diepteboren.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
-  <PlantHarvestYield.label>TODO</PlantHarvestYield.label>
+  <PlantHarvestYield.label>opbrengst oogst</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
-  <PlantHarvestYield.description>TODO</PlantHarvestYield.description>
+  <PlantHarvestYield.description>De opbrengst die deze persoon krijgt bij het oogsten van planten.\n\nBij lage opbrengsten bestaat het risico dat deze persoon per ongeluk de oogst verspilt.</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
-  <PlantWorkSpeed.label>Plantwerksnelheid</PlantWorkSpeed.label>
+  <PlantWorkSpeed.label>werksnelheid planten</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
-  <PlantWorkSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon werk kan doen dat te maken heeft met planten.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.description>Een factor op de snelheid waarmee deze persoon werk kan doen dat te maken heeft met planten.</PlantWorkSpeed.description>
   
   <!-- EN: research speed -->
-  <ResearchSpeed.label>Onderzoekssnelheid</ResearchSpeed.label>
+  <ResearchSpeed.label>onderzoekssnelheid</ResearchSpeed.label>
   <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
-  <ResearchSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon kan onderzoeken.</ResearchSpeed.description>
+  <ResearchSpeed.description>Een factor op de snelheid waarmee deze persoon kan onderzoeken.</ResearchSpeed.description>
   
   <!-- EN: smoothing speed -->
-  <SmoothingSpeed.label>TODO</SmoothingSpeed.label>
+  <SmoothingSpeed.label>werksnelheid polijsten</SmoothingSpeed.label>
   <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
-  <SmoothingSpeed.description>TODO</SmoothingSpeed.description>
+  <SmoothingSpeed.description>Een factor op de snelheid waarmee deze persoon ruw steen tot gladde muren en vloeren polijst.</SmoothingSpeed.description>
   
   <!-- EN: global work speed -->
-  <WorkSpeedGlobal.label>Globale werksnelheid</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.label>algemene werksnelheid</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
-  <WorkSpeedGlobal.description>Een verveelvoudiger waarmee een persoon al het werk kan uitvoeren.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.description>Een factor die van toepassing is op al het werk dat deze persoon uitvoert.</WorkSpeedGlobal.description>
   
 </LanguageData>

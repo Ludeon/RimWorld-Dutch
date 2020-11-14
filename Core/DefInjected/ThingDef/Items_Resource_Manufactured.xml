@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: chemfuel -->
-  <Chemfuel.label>TODO</Chemfuel.label>
+  <Chemfuel.label>brandstof</Chemfuel.label>
   <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
-  <Chemfuel.description>TODO</Chemfuel.description>
+  <Chemfuel.description>Een ontvlambare chemische vloeistof. Motoren en raketten kunnen er op draaien, maar het kan ook worden gebruikt als drijfgas voor projectielen of als brandwapen.</Chemfuel.description>
   
   <!-- EN: component -->
-  <ComponentIndustrial.label>TODO</ComponentIndustrial.label>
+  <ComponentIndustrial.label>component</ComponentIndustrial.label>
   <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
-  <ComponentIndustrial.description>TODO</ComponentIndustrial.description>
+  <ComponentIndustrial.description>Een losse verzameling tandwielen, condensatoren, printplaten, buizen, wielen, sensoren, draden, chips, processors en andere elektronische en industriële onderdelen. Noodzakelijk voor het samenstellen van complexe machines of elektronica.</ComponentIndustrial.description>
   
   <!-- EN: advanced component -->
-  <ComponentSpacer.label>TODO</ComponentSpacer.label>
+  <ComponentSpacer.label>geavanceerde component</ComponentSpacer.label>
   <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
-  <ComponentSpacer.description>TODO</ComponentSpacer.description>
+  <ComponentSpacer.description>Geavanceerde computer- en energie-aansturende machines, geminiaturiseerd en gehard voor de meest veeleisende toepassingen.</ComponentSpacer.description>
   
   <!-- EN: herbal medicine -->
-  <MedicineHerbal.label>TODO</MedicineHerbal.label>
+  <MedicineHerbal.label>kruidenmedicijn</MedicineHerbal.label>
   <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
-  <MedicineHerbal.description>TODO</MedicineHerbal.description>
+  <MedicineHerbal.description>Een pakje kruidenmengsels gewonnen uit helingskruid. Het is minder krachtig dan industriële farmaceutische producten, maar een stuk beter dan niets.</MedicineHerbal.description>
   
   <!-- EN: medicine -->
-  <MedicineIndustrial.label>TODO</MedicineIndustrial.label>
+  <MedicineIndustrial.label>medicijn</MedicineIndustrial.label>
   <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
-  <MedicineIndustrial.description>TODO</MedicineIndustrial.description>
+  <MedicineIndustrial.description>Een set medische apparatuur van industriële kwaliteit. Het bevat basismedicijnen, hulpmiddelen voor het hechten en het zetten van botten, diagnostische apparaten en verschillende pleisters en vloeistoffen.</MedicineIndustrial.description>
   
   <!-- EN: glitterworld medicine -->
-  <MedicineUltratech.label>TODO</MedicineUltratech.label>
+  <MedicineUltratech.label>glitterwereldmedicijn</MedicineUltratech.label>
   <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
-  <MedicineUltratech.description>TODO</MedicineUltratech.description>
+  <MedicineUltratech.description>Een set met geavanceerde, ultramoderne medische benodigdheden, waarschijnlijk vervaardigd op een verre glitterwereld. Het bevat geavanceerde polymorfe medicijnen, diagnostische en genezingsassisterende naniten, een mini-imager en verschillende multifunctionele instrumenten.</MedicineUltratech.description>
   
   <!-- EN: neutroamine -->
-  <Neutroamine.label>TODO</Neutroamine.label>
+  <Neutroamine.label>neutroamine</Neutroamine.label>
   <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
-  <Neutroamine.description>TODO</Neutroamine.description>
+  <Neutroamine.description>Een synthetische chemische basisstof. Hoewel het op zichzelf nutteloos is, hebben veel medicijnen neutroamine als ingrediënt nodig.</Neutroamine.description>
   
 </LanguageData>

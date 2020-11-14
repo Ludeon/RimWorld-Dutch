@@ -2,136 +2,136 @@
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>TODO</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>Je kunt brieven sluiten door er met de rechtermuisknop op te klikken.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>TODO</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>Je kunt de shift toets ingedrukt houden meerdere commando's voor je kolonisten één voor één uit te laten voeren.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
-  <GameplayTips.ReorderColonistbar>TODO</GameplayTips.ReorderColonistbar>
+  <GameplayTips.ReorderColonistbar>Je kunt door met de rechtermuisknop te slepen kolonisten op de kolonistenbalk herschikken.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>TODO</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>Je kunt de volgende/vorige kolonist selecteren met de . en , toetsen.</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>TODO</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>Veel menus stellen je in staat om een instelling over meerdere items te 'schilderen'. Dit werkt zelfs met zaken als kledings- en voedselbeperkingen.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
-  <GameplayTips.ManualPriorities>TODO</GameplayTips.ManualPriorities>
+  <GameplayTips.ManualPriorities>Bij de handmatige prioriteiten in het werk tab is 1 de hoogste en 4 de laagste prioriteit.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>TODO</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>De stemming van elke kolonist is zichtbaar in de achtergrond van het betreffende icoon op de kolonistenbalk.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
-  <GameplayTips.WorkTabChangeAllColonists>TODO</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabChangeAllColonists>Houd shift ingedrukt en klik op een werktype in het werk tab om de instelling voor alle kolonisten tegelijk aan te passen.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
-  <GameplayTips.WorkTabDecreasePriority>TODO</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.WorkTabDecreasePriority>Klik met de rechter muisknop op een handmatige prioriteit in het werk tab om de prioriteit te verlagen in plaats van te verhogen.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: In a gunfight, always be behind cover! -->
-  <GameplayTips.GunfightCover>TODO</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>Zoek altijd dekking tijdens een vuurgevecht!</GameplayTips.GunfightCover>
   <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
-  <GameplayTips.GunfightSpread>TODO</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>Zorg dat je kolonisten niet op een kluitje staan tijdens een vuurgevecht, want dit verhoogt de kans om geraakt te worden!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>TODO</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>Rookgordijnen voorkomen dat automatisch afweergeschut überhaupt kan schieten, maar mensen kunnen dat blijven doen, al is het met verminderde nauwkeurigheid.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>TODO</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>Bij het plaatsen van verdedigingslinies, houd er rekening mee dat vijanden via capsules of tunnels binnen kunnen dringen. Plaats ook interne verdedigingen.</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>TODO</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain>Mistig en regenachtig weer maakt afstandswapens minder nauwkeurig.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>TODO</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>Je kunt zien hoe groot de kans is dat een schot doel zal treffen door de schutter te selecteren en de cursor op her doelwit te zetten.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>TODO</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>Afweergeschut kan exploderen als het beschadigd raakt. Zet ze niet te dicht bij elkaar, en zet kolonisten niet te dicht in de buurt.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>TODO</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>Sommige dieren kunnen exploderen als ze sterven. Je kunt ook dieren via transportcapsules bovenop de vijand droppen. Ideetje?</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.CallAllies>TODO</GameplayTips.CallAllies>
+  <GameplayTips.CallAllies>Als je tijdens een gevecht hulp nodig hebt, roep dan de help in van je bondgenoten middels een communicatiepaneel.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>TODO</GameplayTips.MaddenedAnimals>
+  <GameplayTips.MaddenedAnimals>Dolgedraaide dieren vallen alle mensen aan, ook je vijanden. Je kunt hier gebruik van maken.</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>TODO</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>Elektromagnetische pulsen schakelen schilden en afweergeschut tijdelijk uit.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
-  <GameplayTips.EMPDisablesPersonalShields>TODO</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.EMPDisablesPersonalShields>Elektromagnetische pulsen doorbreken onmiddellijk persoonlijke schilden.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>TODO</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>Jagerscamouflage vermindert de kans dat een dier aanvalt. Het wordt beïnvloedt door de jager's vaardigheden in dieren en schieten.</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
-  <GameplayTips.AnimalsAttackCloseRange>TODO</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsAttackCloseRange>Dieren zijn meer geneigd aan te vallen wanneer ze van dichtbij worden aangevallen. Lange-afstandswapens die langzaam vuren zijn de meest veilige wapens voor de jacht.</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
-  <GameplayTips.AnimalsMayAttack>TODO</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalsMayAttack>Een hele kudde dieren kan je aanvallen als je er op jaagt. Wees je bewust van het risico wanneer je op jacht gaat, of zoek een makkelijkere prooi.</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
-  <GameplayTips.AnimalDeathExplosionRain>TODO</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.AnimalDeathExplosionRain>Als je op boemratten en boemilopes jaagt wanneer het regent zullen ze geen bosbranden veroorzaken.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
-  <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.GreaterSlaughterYield>Met zorg geslachte dieren leveren meer vlees en leer dan dieren die op gewelddadige manier zijn omgekomen.</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>TODO</GameplayTips.CaravanPackingSpot>
+  <GameplayTips.CaravanPackingSpot>Plaats een karavaan inpaklocatie op een plek waar je je karavanen wilt vormen.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
-  <GameplayTips.CaravanSinglePerson>TODO</GameplayTips.CaravanSinglePerson>
+  <GameplayTips.CaravanSinglePerson>Eenpersoonskaravanen kunnen in sommige situaties zeer nuttig zijn.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>TODO</GameplayTips.CaravanFasterAnimals>
+  <GameplayTips.CaravanFasterAnimals>Hoe sneller je dieren, hoe sneller je karavaan.</GameplayTips.CaravanFasterAnimals>
   <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
-  <GameplayTips.CaravanSmallerLessVisible>TODO</GameplayTips.CaravanSmallerLessVisible>
+  <GameplayTips.CaravanSmallerLessVisible>Kleinere karavanan worden minder vaak overvallen omdat ze minder zichtbaar zijn.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>TODO</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot>Voordat je een karavaan samenstelt, verzamel de dingen die je mee wilt nemen in een opslagplaats dichtbij je inpaklocatie. Dit zal het vormen van de karavaan een stuk sneller maken.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
-  <GameplayTips.CaravanUntrainedAnimals>TODO</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanUntrainedAnimals>Als je ongetrainde dieren in je karavaan hebt kan je ze in een tweede karavaan afsplitsen voordat je de vijand aanvalt, zodat ze niet verzeild raken in het gevecht.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
-  <GameplayTips.StoryGenerator>TODO</GameplayTips.StoryGenerator>
+  <GameplayTips.StoryGenerator>RimWorld is een verhalengenerator, niet een vaardigheidstest. Een verwoeste kolonie is een dramatische tragedie, niet een mislukking.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
-  <GameplayTips.BadAllies>TODO</GameplayTips.BadAllies>
+  <GameplayTips.BadAllies>Sommige kolonisten zijn minder dan niks waard. Slechte bondgenoten maken deel uit van de uitdaging.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
-  <GameplayTips.MakeCaravanRunBeforeDefeat>TODO</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Als je je niet kunt verdedigen tegen een bedreiging, vorm een karavaan en zet het op een lopen. Je bent dan je tehuis kwijt, maar het verhaal gaat verder.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>TODO</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>Gebruik als het kan geen steen voor een deur. Ze gaan langzaam open, en dat is tijdverspilling voor je kolonisten.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
-  <GameplayTips.ChairsWorkbench>TODO</GameplayTips.ChairsWorkbench>
+  <GameplayTips.ChairsWorkbench>Zet stoelen voor werktafels zodat arbeiders comfortabel kunnen zitten tijdens hun werk.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
-  <GameplayTips.MechanicalBreakdown>TODO</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>Mechanische structuren gaan kapot en zullen moeten worden gerepareerd door componenten te vervangen. Bouw geen dingen als je ze niet nodig hebt.</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>TODO</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>Wees voorzichtig als je dingen op een brug plaatst. Bruggen kunnen makkelijk instorten door explosies, en alles dat er bovenop staat zal ook vergaan.</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
-  <GameplayTips.CleanRooms>TODO</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>Schone kamers komen de onderzoekssnelheid ten goede, bevorderen de resultaten van medische zorg en verminderen voedselvergiftiging. Steriele tegels maken kamers extra schoon.</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
-  <GameplayTips.ColonyOneStructure>TODO</GameplayTips.ColonyOneStructure>
+  <GameplayTips.ColonyOneStructure>Als je je kolonie als één groot complex bouwt scheelt dat grondstoffen, maar het maakt het blussen van branden moeilijker.</GameplayTips.ColonyOneStructure>
   <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
-  <GameplayTips.TerrainMovementSpeed>TODO</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainMovementSpeed>Het terrein is van invloed op de loopsnelheid. Leg vloeren aan om je kolonisten sneller te doen lopen.</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
-  <GameplayTips.TerrainCleanliness>TODO</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanliness>Er is een inherent niveau van hygiëne voor elk terrein. Tegels zijn inherent schoon terwijl grond inherent vies is.</GameplayTips.TerrainCleanliness>
   <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
-  <GameplayTips.PrisonersAsGifts>TODO</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.PrisonersAsGifts>Je kunt gevangenen als gift geven. Facties stellen het sterk op prijs als je gevangenen terug geeft.</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
-  <GameplayTips.RequestTradeCaravans>TODO</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.RequestTradeCaravans>Je kunt specifieke soorten handelaren aanvragen met het communicatiepaneel.</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>TODO</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>Je kunt transportcapsules gebruiken om direct giften te sturen naar andere nederzettingen, zelfs als die vijandelijk zijn. Als je dit doet verbetert het de onderlinge relaties.</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
-  <GameplayTips.KeepingPrisonersTogether>TODO</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.KeepingPrisonersTogether>Je kunt ruimte besparen door gevangenen samen te bewaren, maar gevangenen die samen bewaard worden zullen samen uitbreken.</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
-  <GameplayTips.EnemyFactionBaseDefenses>TODO</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.EnemyFactionBaseDefenses>Vijandelijke nederzettingen worden zeer goed verdedigd. Je hoeft ze niet aan te vallen, maar als je dat toch besluit te doen, wees dan goed voorbereid.</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>TODO</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>Schattige kleine dieren zullen je kolonisten knuffelen en zo hun stemming verbeteren.</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
-  <GameplayTips.AnimalHerbivorousGrassArea>TODO</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.AnimalHerbivorousGrassArea>Wijs een gebied met veel gras aan voor je tamme herbivoren. Ze zullen het gras grazen zodat je ze niet zelf hoeft te voeren.</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
-  <GameplayTips.RemoveLimbInfection>TODO</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.RemoveLimbInfection>Als iemand een ernstige infectie heeft aan een ledemaat kan je die ledemaat amputeren om die persoon te behoeden voor de dood.</GameplayTips.RemoveLimbInfection>
   <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
-  <GameplayTips.SloshingWater>TODO</GameplayTips.SloshingWater>
+  <GameplayTips.SloshingWater>Mensen worden niet blij als ze door water moeten waden. Bouw een brug waar mogelijk.</GameplayTips.SloshingWater>
   <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
-  <GameplayTips.Luciferium>TODO</GameplayTips.Luciferium>
+  <GameplayTips.Luciferium>Luciferium kan littekens genezen, zelfs als die zich op een oog of het brein bevindt. Daar staat tegenover dat het een permanente verslaving veroorzaakt.</GameplayTips.Luciferium>
   <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
-  <GameplayTips.WorkMovementSpeedLighting>TODO</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.WorkMovementSpeedLighting>De snelheid van werk en verplaatsing wordt beïnvloed door verlichting. Alles gaat net een beetje minder snel in het donker.</GameplayTips.WorkMovementSpeedLighting>
   <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
-  <GameplayTips.DeepCavesTemperature>TODO</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.DeepCavesTemperature>Diepe grotten hebben van nature een stabiele temperatuur, zelf als het buiten zeer heet of koud is.</GameplayTips.DeepCavesTemperature>
   <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
-  <GameplayTips.MountainBases>TODO</GameplayTips.MountainBases>
+  <GameplayTips.MountainBases>Nederzettingen onder bergen zijn gemakkelijk te verdedigen. Het nadeel is dat mensen gek worden als ze te lang ondergronds blijven. En de enorme insecten.</GameplayTips.MountainBases>
   <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
-  <GameplayTips.PrisonersGoodMood>TODO</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.PrisonersGoodMood>Gevangenen zullen zich een stuk sneller aansluiten en minder vaak uit proberen te breken als ze in een goede stemming zijn.</GameplayTips.PrisonersGoodMood>
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
-  <GameplayTips.MultipleResearchers>TODO</GameplayTips.MultipleResearchers>
+  <GameplayTips.MultipleResearchers>Je kunt meerdere onderzoekers tegelijk laten werken als je meerdere onderzoekstafels hebt.</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>TODO</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>Geisers verhitten gesloten ruimtes. Dat kan gevaarlijk zijn, of handig.</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
-  <GameplayTips.ExtinguishFireArtillery>TODO</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.ExtinguishFireArtillery>Explosies doven brand. Op die manier kunnen mortiergranaten van nut zijn om branden te blussen als er geen andere keus is.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>TODO</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>Zelfs enorme tegenslagen hoeven niet het eind van het spel te betekenen. Probeer een verloren gevecht uit te spelen - vaak zorgen de meest hopeloze situaties voor de beste verhalen.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
-  <GameplayTips.CleanLabs>TODO</GameplayTips.CleanLabs>
+  <GameplayTips.CleanLabs>Schone laboratoria met steriele tegels zorgen voor het snelste onderzoek.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>TODO</GameplayTips.ChangeStoryteller>
+  <GameplayTips.ChangeStoryteller>Je kunt je verhalenverteller en speelstijl te allen tijde wijzigen in het optiesmenu.</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
-  <GameplayTips.MoreAlliesMoreTraders>TODO</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.MoreAlliesMoreTraders>Hoe meer facties aan je zijn geallieerd, hoe meer handelaren en militaire hulp je zal ontvangen.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>Je kunt je strijders via je drugbeleid gevechtsdrugs zoals go-juice bij zich laten houden. Een vlotte dosis drugs kan het verschil maken.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
-  <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
+  <GameplayTips.SchedulesSetLong>Stel lange periodes van dezelfde activiteit in in het schema om reistijden te minimaliseren.</GameplayTips.SchedulesSetLong>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: Cancel -->
   <DesignatorCancel>Annuleren</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>Annuleert orders om te bouwen, mijnbouw, vervoeren, oogsten en andere orders.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Annuleert orders om te bouwen, delven, vervoeren, oogsten en andere orders.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Planten wieden</DesignatorCutPlants>
@@ -44,7 +44,7 @@
   <DesignatorHuntDesc>Markeert dieren waarop gejaagd moet worden.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>Mijnbouw</DesignatorMine>
+  <DesignatorMine>Delven</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Markeert gesteente dat gedolven moet worden.</DesignatorMineDesc>
 
@@ -83,17 +83,17 @@
   <DesignatorAreaHomeClearDesc>Verwijdert de thuiszone. Kolonisten zullen hier niet langer schoonmaken, repareren of branden blussen.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>Bouw dak zone</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Dakzone uitbreiden</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>Kolonisten zullen in dit gebied daken bouwen.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>Verwijder dak zone</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Dakzone verwijderen</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
   <DesignatorAreaNoRoofExpandDesc>Kolonisten zullen de daken in dit gebied verwijderen (behalve in een berg, dat kan niet worden verwijderd)</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>Negeer dak zone</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Dakzone negeren</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Kolonisten zullen daken in dit gebied negeren.</DesignatorAreaIgnoreRoofExpandDesc>
 

@@ -29,7 +29,7 @@
   <Deconstruct.reportString>TargetA aan het afbreken.</Deconstruct.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>TargetB naar TargetA aan het brengen.</DeliverFood.reportString>
+  <DeliverFood.reportString>TargetA naar TargetB aan het brengen.</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
   <DoBill.reportString>opdrachten bij TargetA aan het doen.</DoBill.reportString>

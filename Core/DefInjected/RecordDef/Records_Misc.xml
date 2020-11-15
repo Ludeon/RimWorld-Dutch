@@ -12,7 +12,7 @@
   <AnimalsTamed.description>Het aantal dieren dat ik heb getemd.</AnimalsTamed.description>
   
   <!-- EN: artifacts activated -->
-  <ArtifactsActivated.label>artifacten gactiveerd</ArtifactsActivated.label>
+  <ArtifactsActivated.label>artifacten geactiveerd</ArtifactsActivated.label>
   <!-- EN: The number of artifacts I have activated. -->
   <ArtifactsActivated.description>Het aantal artifacten dat ik heb geactiveerd.</ArtifactsActivated.description>
   

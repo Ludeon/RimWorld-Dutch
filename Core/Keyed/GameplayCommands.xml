@@ -436,7 +436,7 @@
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>Laden gactiveerd</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Inladen</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandSetToLoadTransporterDesc>Opent het laadscherm zodat je kunt bepalen wie en wat er ingeladen moeten worden.</CommandSetToLoadTransporterDesc>
   

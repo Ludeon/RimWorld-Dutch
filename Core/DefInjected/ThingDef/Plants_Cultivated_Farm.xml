@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: corn plant -->
-  <Plant_Corn.label>TODO</Plant_Corn.label>
+  <Plant_Corn.label>maïsplant</Plant_Corn.label>
   <!-- EN: A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil. -->
-  <Plant_Corn.description>TODO</Plant_Corn.description>
+  <Plant_Corn.description>Een hoge graanplant die kolven zachte, eetbare zaden produceert. Hoewel maïs veel tijd nodig heeft om te groeien, levert het veel voedsel op in vergelijking met andere gewassen. Geoogste maïs bederft niet snel.</Plant_Corn.description>
   
   <!-- EN: cotton plant -->
   <Plant_Cotton.label>katoenplant</Plant_Cotton.label>
@@ -17,48 +17,48 @@
   <Plant_Devilstrand.description>Deze fragiele paddestoel is genetisch gemodificeerd om een zijden net te maken dat zowel sterk als zacht is. Alhoewel het heel lang duurt voor de paddestoel is volgroeid, zijn er weinig stoffen die beter zijn dan duivelsgaren.\n\nSommigen zeggen dat het duivelsgaren heet vanwege de rode kleur. Anderen denken dat de naam komt van de hebzucht die het veroorzaakt in mensen.</Plant_Devilstrand.description>
   
   <!-- EN: haygrass -->
-  <Plant_Haygrass.label>TODO</Plant_Haygrass.label>
+  <Plant_Haygrass.label>hooigras</Plant_Haygrass.label>
   <!-- EN: A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans. -->
-  <Plant_Haygrass.description>TODO</Plant_Haygrass.description>
+  <Plant_Haygrass.description>Een mengsel van voedselrijke grassen die veel hooi opleveren. Hooi is eetbaar voor dieren, maar niet voor mensen.</Plant_Haygrass.description>
   
   <!-- EN: healroot -->
-  <Plant_Healroot.label>TODO</Plant_Healroot.label>
+  <Plant_Healroot.label>heelkruid</Plant_Healroot.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
-  <Plant_Healroot.description>TODO</Plant_Healroot.description>
+  <Plant_Healroot.description>Een langzaam groeiende plant die bij de oogst kruidenmedicijnen oplevert. Het zaaien en oogsten van heelkruid zijn beide zeer arbeidsintensieve taken vanwege de delicate scheuten.\n\nHeelkruid is door de eeuwen heen selectief gekweekt door kolonisten. Het wordt door stamleden soms ook wel 'genezershand' genoemd - een bijnaam die het dankt aan zijn vijf belangrijkste geneeskrachtige eigenschappen.</Plant_Healroot.description>
   
   <!-- EN: hop plant -->
-  <Plant_Hops.label>TODO</Plant_Hops.label>
+  <Plant_Hops.label>hopplant</Plant_Hops.label>
   <!-- EN: A flowering crop that yields hops, an essential ingredient in beer. -->
-  <Plant_Hops.description>TODO</Plant_Hops.description>
+  <Plant_Hops.description>Een bloeiend gewas dat hop oplevert, een essentieel ingrediënt in bier.</Plant_Hops.description>
   
   <!-- EN: potato plant -->
-  <Plant_Potato.label>TODO</Plant_Potato.label>
+  <Plant_Potato.label>aardappelplant</Plant_Potato.label>
   <!-- EN: A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil. -->
-  <Plant_Potato.description>TODO</Plant_Potato.description>
+  <Plant_Potato.description>Een zeer voedzame knol. Aardappelen groeien goed, zelfs in ietwat arme grond, en krijgen een heerlijke knapperige buitenlaag wanneer ze in olie worden gebakken.</Plant_Potato.description>
   
   <!-- EN: psychoid plant -->
-  <Plant_Psychoid.label>TODO</Plant_Psychoid.label>
+  <Plant_Psychoid.label>psychoïdeplant</Plant_Psychoid.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
-  <Plant_Psychoid.description>TODO</Plant_Psychoid.description>
+  <Plant_Psychoid.description>Een lommerrijke plant die de chemische verbinding psychiet maakt. Oorspronkelijk ontwikkeld als een afweermechanisme tegen plantenetende dieren dat werkte door ze te overstimuleren en ziek te maken. Psychiet kan worden geëxtraheerd en verfijnd tot verschillende vormen voor recreatief gebruik. Het is verslavend.</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
-  <Plant_Rice.label>TODO</Plant_Rice.label>
+  <Plant_Rice.label>rijstplant</Plant_Rice.label>
   <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
-  <Plant_Rice.description>TODO</Plant_Rice.description>
+  <Plant_Rice.description>Een kort, snelgroeiend gewas dat kleine eetbare korrels oplevert. Zijn grote voedingswaarde en het gemak van cultivatie hebben het tot de economische kern van vele grote beschavingen gemaakt. Hoewel rijst snel groeit, is het gevoelig voor bodemvruchtbaarheid en zal het niet goed groeien in arme grond.</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
-  <Plant_Smokeleaf.label>TODO</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.label>rookbladplant</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>TODO</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>Een lommerrijk gewas dat wordt gekweekt vanwege de psychologische effecten van chemicaliën in de bladeren. Rookblad-bladeren kunnen op de handwerkplek tot joints worden gerold. Rookblad zorgt ervoor dat een gebruiker zich ontspannen voelt, maar vermindert de motivatie en kan verslavend zijn.</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
-  <Plant_Strawberry.label>TODO</Plant_Strawberry.label>
+  <Plant_Strawberry.label>aardbeiplant</Plant_Strawberry.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry.description>TODO</Plant_Strawberry.description>
+  <Plant_Strawberry.description>Een lage struikachtige plant die fragiele maar heerlijke aardbeien oplevert. Hoewel het calorie voor calorie niet zo productief is als andere gewassen, zijn aardbeien heerlijk, zelfs als ze rauw zijn.</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
-  <Plant_TreeCocoa.label>TODO</Plant_TreeCocoa.label>
+  <Plant_TreeCocoa.label>cacaoboom</Plant_TreeCocoa.label>
   <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
-  <Plant_TreeCocoa.description>TODO</Plant_TreeCocoa.description>
+  <Plant_TreeCocoa.description>Een tropische boom die chocolade produceert. Hij is genetisch gemanipuleerd om zijn eigen product zoeter te maken en kan overleven in iets minder warme klimaten.</Plant_TreeCocoa.description>
   
 </LanguageData>

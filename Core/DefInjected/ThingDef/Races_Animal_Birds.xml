@@ -2,49 +2,50 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>TODO</Cassowary.label>
+  <Cassowary.label>casuaris</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
-  <Cassowary.description>TODO</Cassowary.description>
+  <Cassowary.description>Een grote loopvogel met felgekleurde veren. Hoewel ze er mooi uitzien kunnen ze gemene trappen uitdelen. Het is bekend dat ze snel agressief worden wanneer ze worden verwond, of worden geconfronteerd met incompetente dierentemmers.</Cassowary.description>
   <!-- EN: bird meat -->
-  <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
+  <Cassowary.race.meatLabel>vogelvlees</Cassowary.race.meatLabel>
   <!-- EN: claws -->
-  <Cassowary.tools.claws.label>TODO</Cassowary.tools.claws.label>
+  <Cassowary.tools.claws.label>klauwen</Cassowary.tools.claws.label>
   <!-- EN: beak -->
-  <Cassowary.tools.beak.label>TODO</Cassowary.tools.beak.label>
+  <Cassowary.tools.beak.label>snavel</Cassowary.tools.beak.label>
   <!-- EN: head -->
-  <Cassowary.tools.head.label>TODO</Cassowary.tools.head.label>
+  <Cassowary.tools.head.label>kop</Cassowary.tools.head.label>
   
   <!-- EN: emu -->
-  <Emu.label>TODO</Emu.label>
+  <Emu.label>emoe</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
-  <Emu.description>TODO</Emu.description>
+  <Emu.description>Een grote loopvogel met kraaloogjes in zijn lelijke gezicht. Met hun slechte humeur zijn emoes de hufters van de natuurlijke wereld. Je kunt er van op aan dat ze wraak zullen nemen als je ze stoort.</Emu.description>
   <!-- EN: claws -->
-  <Emu.tools.claws.label>TODO</Emu.tools.claws.label>
+  <Emu.tools.claws.label>klauwen</Emu.tools.claws.label>
   <!-- EN: beak -->
-  <Emu.tools.beak.label>TODO</Emu.tools.beak.label>
+  <Emu.tools.beak.label>snavel</Emu.tools.beak.label>
   <!-- EN: head -->
-  <Emu.tools.head.label>TODO</Emu.tools.head.label>
+  <Emu.tools.head.label>kop</Emu.tools.head.label>
   
   <!-- EN: ostrich -->
-  <Ostrich.label>TODO</Ostrich.label>
+  <Ostrich.label>struisvogel</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
-  <Ostrich.description>TODO</Ostrich.description>
+  <Ostrich.description>De grootste niet-gemanipuleerde vogelsoort. Struisvogels staan bekend om hun snelle vlucht, hun enorme eieren en hun krachtige trap. Ze worden gemakkelijk boos.</Ostrich.description>
   <!-- EN: claws -->
-  <Ostrich.tools.claws.label>TODO</Ostrich.tools.claws.label>
+  <Ostrich.tools.claws.label>klauwen</Ostrich.tools.claws.label>
   <!-- EN: beak -->
-  <Ostrich.tools.beak.label>TODO</Ostrich.tools.beak.label>
+  <Ostrich.tools.beak.label>snavel</Ostrich.tools.beak.label>
   <!-- EN: head -->
-  <Ostrich.tools.head.label>TODO</Ostrich.tools.head.label>
+  <Ostrich.tools.head.label>kop</Ostrich.tools.head.label>
   
   <!-- EN: turkey -->
-  <Turkey.label>TODO</Turkey.label>
+  <Turkey.label>kalkoen</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>TODO</Turkey.description>
+  <Turkey.description>Een korte, dikke loopvogel die bekend staat om zijn hilarische roep. Kalkoenen worden al lang als pluimvee gehouden, maar ze leven ook in het wild.</Turkey.description>
+  <Turkey.race.meatLabel>kalkoen</Turkey.race.meatLabel>
   <!-- EN: claws -->
-  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
+  <Turkey.tools.claws.label>klauwen</Turkey.tools.claws.label>
   <!-- EN: beak -->
-  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
+  <Turkey.tools.beak.label>snavel</Turkey.tools.beak.label>
   <!-- EN: head -->
-  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
+  <Turkey.tools.head.label>kop</Turkey.tools.head.label>
   
 </LanguageData>

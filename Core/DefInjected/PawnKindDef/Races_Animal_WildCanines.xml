@@ -45,12 +45,12 @@
   <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>poolwolfpups</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
   
   <!-- EN: timber wolf -->
-  <Wolf_Timber.label>Timberwolf</Wolf_Timber.label>
+  <Wolf_Timber.label>houtwolf</Wolf_Timber.label>
   <!-- EN: timber wolves -->
-  <Wolf_Timber.labelPlural>Timberwolven</Wolf_Timber.labelPlural>
+  <Wolf_Timber.labelPlural>houtwolven</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>Timberwolfpup</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>houtwolfpup</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
   <!-- EN: timber wolf puppies -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>Timberwolfpups</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>houtwolfpups</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
   
 </LanguageData>

@@ -2,17 +2,18 @@
 <LanguageData>
   
   <!-- EN: hare -->
-  <Hare.label>TODO</Hare.label>
+  <Hare.label>haas</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
-  <Hare.description>TODO</Hare.description>
+  <Hare.description>Deze kleine, eenzame herbivoor kan snel wegspringen als er gevaar dreigt.</Hare.description>
+  <Hare.race.meatLabel>hazenvlees</Hare.race.meatLabel>
   <!-- EN: head -->
-  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  <Hare.tools.head.label>kop</Hare.tools.head.label>
   
   <!-- EN: snowhare -->
-  <Snowhare.label>TODO</Snowhare.label>
+  <Snowhare.label>sneeuwhaas</Snowhare.label>
   <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
-  <Snowhare.description>TODO</Snowhare.description>
+  <Snowhare.description>Dit dier overleeft de brute winters van zijn thuislanden door gaten in de sneeuw te graven om eetbare planten te vinden.</Snowhare.description>
   <!-- EN: head -->
-  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  <Snowhare.tools.head.label>kop</Snowhare.tools.head.label>
   
 </LanguageData>

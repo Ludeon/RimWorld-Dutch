@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.label>TODO</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.label>orbitaal bombardement doelzoeker</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
-  <OrbitalTargeterBombardment.description>TODO</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.description>Een oude doelzoeker voor een orbitaal bombardementsysteem. Dit apparaat wijst een doelwit aan en verzendt de coördinaten naar een netwerk van satellieten, die het doelgebied vervolgens bombarderen met kinetische projectielen. De doelzoeker is gehackt en zal daarom onbevoegde gebruikers accepteren, maar zodra het wordt gebruikt zal het netwerk de indringer detecteren en de verbinding permanent verbreken.</OrbitalTargeterBombardment.description>
   <!-- EN: charge -->
-  <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>TODO</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
+  <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>toepassingen</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>TODO</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>ruimtebombardement doelzoeker</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
   
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.label>TODO</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.label>orbitaal energiekanon doelzoeker</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
-  <OrbitalTargeterPowerBeam.description>TODO</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.description>Een oude doelzoeker voor een netwerk van satellieten dat gemaakt is voor het verzamelen van energie. Eenmaal gericht op een doel, stuurt het de oude satellieten aan zodat die een enorme kolom van elektromagnetische energie naar beneden stralen. Deze energie kan veilig worden opgevangen in een gigantische absorptieschaal. Omdat je geen absorptieschotel hebt richt je de straal op vijanden, zodat het getroffen gebied in een hel van duizend graden verandert. Dit zal duren totdat de satellieten detecteren dat de coördinaten onveilig zijn, zichzelf afsluiten en de doelzoeker permanent deactiveren.</OrbitalTargeterPowerBeam.description>
   <!-- EN: charge -->
-  <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>TODO</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>toepassingen</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>TODO</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>ruimte-energiekanon doelzoeker</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
   
   <!-- EN: tornado generator -->
-  <TornadoGenerator.label>TODO</TornadoGenerator.label>
+  <TornadoGenerator.label>tornadogenerator</TornadoGenerator.label>
   <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
-  <TornadoGenerator.description>TODO</TornadoGenerator.description>
+  <TornadoGenerator.description>Een oude regeleenheid voor een netwerk van weersatellieten. Bij dit apparaat zijn bepaalde foutmeldingen omzeild; het kan een enorme verstoring van de luchtstroom veroorzaken die op een gekozen locatie een tornado zal produceren. Het weernetwerk zal deze onbevoegde inbraak detecteren en het apparaat na gebruik vergrendelen, maar de tornado zal op natuurlijke manier moeten uitrazen.</TornadoGenerator.description>
   <!-- EN: charge -->
-  <TornadoGenerator.comps.CompReloadable.chargeNoun>TODO</TornadoGenerator.comps.CompReloadable.chargeNoun>
+  <TornadoGenerator.comps.CompReloadable.chargeNoun>toepassingen</TornadoGenerator.comps.CompReloadable.chargeNoun>
   <!-- EN: tornado generator -->
-  <TornadoGenerator.verbs.Verb_Spawn.label>TODO</TornadoGenerator.verbs.Verb_Spawn.label>
+  <TornadoGenerator.verbs.Verb_Spawn.label>tornadogenerator</TornadoGenerator.verbs.Verb_Spawn.label>
   
 </LanguageData>

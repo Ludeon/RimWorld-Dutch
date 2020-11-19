@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: club -->
-  <MeleeWeapon_Club.label>TODO</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.label>knuppel</MeleeWeapon_Club.label>
   <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
-  <MeleeWeapon_Club.description>TODO</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.description>Een stok die zwaarder is aan één uiteinde om vijanden mee dood te slaan. Dit wapen is zo oud dat het deel uitmaakt van de menselijke biologie. Evolutionaire biologen zeggen dat een belangrijke reden waarom mensen hun polsen heen en weer kunnen kantelen (in plaats van alleen voorwaarts en achterwaarts zoals andere primaten), is om een club beter te kunnen zwaaien.</MeleeWeapon_Club.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Club.tools.handle.label>TODO</MeleeWeapon_Club.tools.handle.label>
+  <MeleeWeapon_Club.tools.handle.label>handvat</MeleeWeapon_Club.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Club.tools.head.label>TODO</MeleeWeapon_Club.tools.head.label>
+  <MeleeWeapon_Club.tools.head.label>kop</MeleeWeapon_Club.tools.head.label>
   
   <!-- EN: ikwa -->
-  <MeleeWeapon_Ikwa.label>TODO</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
   <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
-  <MeleeWeapon_Ikwa.description>TODO</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.description>Een korte speerhandgreep bevestigd aan een lange speerpunt, ontworpen om met een snelle stoot in vitale organen te worden gedreven.</MeleeWeapon_Ikwa.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Ikwa.tools.handle.label>TODO</MeleeWeapon_Ikwa.tools.handle.label>
+  <MeleeWeapon_Ikwa.tools.handle.label>handvat</MeleeWeapon_Ikwa.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Ikwa.tools.head.label>TODO</MeleeWeapon_Ikwa.tools.head.label>
+  <MeleeWeapon_Ikwa.tools.head.label>kop</MeleeWeapon_Ikwa.tools.head.label>
   <!-- EN: edge -->
-  <MeleeWeapon_Ikwa.tools.edge.label>TODO</MeleeWeapon_Ikwa.tools.edge.label>
+  <MeleeWeapon_Ikwa.tools.edge.label>snede</MeleeWeapon_Ikwa.tools.edge.label>
   
   <!-- EN: knife -->
-  <MeleeWeapon_Knife.label>TODO</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.label>mes</MeleeWeapon_Knife.label>
   <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
-  <MeleeWeapon_Knife.description>TODO</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.description>Een van de oudste door mensen vervaardigde objecten. Het mes heeft vele vormen aangenomen, maar het concept is altijd hetzelfde gebleven: een handvat om vast te houden en een scherpe snede om mee te snijden.</MeleeWeapon_Knife.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Knife.tools.handle.label>TODO</MeleeWeapon_Knife.tools.handle.label>
+  <MeleeWeapon_Knife.tools.handle.label>handvat</MeleeWeapon_Knife.tools.handle.label>
   <!-- EN: blade -->
-  <MeleeWeapon_Knife.tools.blade.label>TODO</MeleeWeapon_Knife.tools.blade.label>
+  <MeleeWeapon_Knife.tools.blade.label>snede</MeleeWeapon_Knife.tools.blade.label>
   <!-- EN: point -->
-  <MeleeWeapon_Knife.tools.point.label>TODO</MeleeWeapon_Knife.tools.point.label>
+  <MeleeWeapon_Knife.tools.point.label>punt</MeleeWeapon_Knife.tools.point.label>
   
   <!-- EN: spear -->
-  <MeleeWeapon_Spear.label>TODO</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.label>speer</MeleeWeapon_Spear.label>
   <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
-  <MeleeWeapon_Spear.description>TODO</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.description>Een lang wapen getipt met een scherpe punt voor het neersteken van tegenstanders.</MeleeWeapon_Spear.description>
   <!-- EN: shaft -->
-  <MeleeWeapon_Spear.tools.shaft.label>TODO</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.shaft.label>schacht</MeleeWeapon_Spear.tools.shaft.label>
   <!-- EN: point -->
-  <MeleeWeapon_Spear.tools.point.label>TODO</MeleeWeapon_Spear.tools.point.label>
+  <MeleeWeapon_Spear.tools.point.label>punt</MeleeWeapon_Spear.tools.point.label>
   
 </LanguageData>

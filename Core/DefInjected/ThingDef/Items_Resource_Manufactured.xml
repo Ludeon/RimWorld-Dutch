@@ -19,7 +19,7 @@
   <!-- EN: herbal medicine -->
   <MedicineHerbal.label>kruidenmedicijn</MedicineHerbal.label>
   <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
-  <MedicineHerbal.description>Een pakje kruidenmengsels gewonnen uit helingskruid. Het is minder krachtig dan industriële farmaceutische producten, maar een stuk beter dan niets.</MedicineHerbal.description>
+  <MedicineHerbal.description>Een pakje kruidenmengsels gewonnen uit heelkruid. Het is minder krachtig dan industriële farmaceutische producten, maar een stuk beter dan niets.</MedicineHerbal.description>
   
   <!-- EN: medicine -->
   <MedicineIndustrial.label>medicijn</MedicineIndustrial.label>

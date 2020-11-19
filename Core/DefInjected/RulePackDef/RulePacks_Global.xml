@@ -181,10 +181,10 @@
     <li>TalkTopicLight->[Apparel]</li>
     <li>TalkTopicLight->draagt [Apparel]</li>
     <li>TalkTopicLight->maakt [Apparel]</li>
-    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->seks</li>
     <li>talktopicheavyfile(p=0.15)->verleiding</li>
-    <li>talktopicheavyfile(p=0.15)->dierlijke sexualiteit</li>
-    <li>talktopicheavyfile(p=0.15)->sexuele fetishes</li>
+    <li>talktopicheavyfile(p=0.15)->dierlijke seksualiteit</li>
+    <li>talktopicheavyfile(p=0.15)->seksuele fetishes</li>
     </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>

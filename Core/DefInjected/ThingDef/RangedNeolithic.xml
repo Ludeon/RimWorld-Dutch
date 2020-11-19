@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: greatbow arrow -->
-  <Arrow_Great.label>TODO</Arrow_Great.label>
+  <Arrow_Great.label>pijl van een grote boog</Arrow_Great.label>
   
   <!-- EN: recurve bow arrow -->
-  <Arrow_Recurve.label>TODO</Arrow_Recurve.label>
+  <Arrow_Recurve.label>pijl van een recurveboog</Arrow_Recurve.label>
   
   <!-- EN: shortbow arrow -->
-  <Arrow_Short.label>TODO</Arrow_Short.label>
+  <Arrow_Short.label>pijl van een kleine boog</Arrow_Short.label>
   
   <!-- EN: greatbow -->
-  <Bow_Great.label>TODO</Bow_Great.label>
+  <Bow_Great.label>grote boog</Bow_Great.label>
   <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
-  <Bow_Great.description>TODO</Bow_Great.description>
+  <Bow_Great.description>Een krachtige boog. Schiet zware pijlen over lange afstanden.</Bow_Great.description>
   <!-- EN: limb -->
-  <Bow_Great.tools.limb.label>TODO</Bow_Great.tools.limb.label>
+  <Bow_Great.tools.limb.label>boog</Bow_Great.tools.limb.label>
   <!-- EN: greatbow -->
-  <Bow_Great.verbs.Verb_Shoot.label>TODO</Bow_Great.verbs.Verb_Shoot.label>
+  <Bow_Great.verbs.Verb_Shoot.label>grote boog</Bow_Great.verbs.Verb_Shoot.label>
   
   <!-- EN: recurve bow -->
-  <Bow_Recurve.label>TODO</Bow_Recurve.label>
+  <Bow_Recurve.label>recurveboog</Bow_Recurve.label>
   <!-- EN: A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
-  <Bow_Recurve.description>TODO</Bow_Recurve.description>
+  <Bow_Recurve.description>Een recurveboog. De constructie gedraagt zich als een afgestelde veer, die energie efficiënter opslaat en een sneller schot oplevert.</Bow_Recurve.description>
   <!-- EN: limb -->
-  <Bow_Recurve.tools.limb.label>TODO</Bow_Recurve.tools.limb.label>
+  <Bow_Recurve.tools.limb.label>boog</Bow_Recurve.tools.limb.label>
   <!-- EN: recurve bow -->
-  <Bow_Recurve.verbs.Verb_Shoot.label>TODO</Bow_Recurve.verbs.Verb_Shoot.label>
+  <Bow_Recurve.verbs.Verb_Shoot.label>recurveboog</Bow_Recurve.verbs.Verb_Shoot.label>
   
   <!-- EN: short bow -->
-  <Bow_Short.label>TODO</Bow_Short.label>
+  <Bow_Short.label>kleine boog</Bow_Short.label>
   <!-- EN: A simple short selfbow made from a single piece of wood. -->
-  <Bow_Short.description>TODO</Bow_Short.description>
+  <Bow_Short.description>Een simpele boog gemaakt uit één stuk hout.</Bow_Short.description>
   <!-- EN: limb -->
-  <Bow_Short.tools.limb.label>TODO</Bow_Short.tools.limb.label>
+  <Bow_Short.tools.limb.label>boog</Bow_Short.tools.limb.label>
   <!-- EN: short bow -->
-  <Bow_Short.verbs.Verb_Shoot.label>TODO</Bow_Short.verbs.Verb_Shoot.label>
+  <Bow_Short.verbs.Verb_Shoot.label>kleine boog</Bow_Short.verbs.Verb_Shoot.label>
   
   <!-- EN: pila -->
-  <Pila.label>TODO</Pila.label>
+  <Pila.label>pila</Pila.label>
   <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
-  <Pila.description>TODO</Pila.description>
+  <Pila.description>Pila zijn speren die geworpen worden. Het kost veel tijd om ze te gooien, maar één rake worp kan al zware schade aanrichten. Dit wapen stelt een bundel pila voor en kan keer op keer worden gegooid. Het enkelvoud van pila is pilum.</Pila.description>
   <!-- EN: shaft -->
-  <Pila.tools.shaft.label>TODO</Pila.tools.shaft.label>
+  <Pila.tools.shaft.label>schacht</Pila.tools.shaft.label>
   <!-- EN: point -->
-  <Pila.tools.point.label>TODO</Pila.tools.point.label>
+  <Pila.tools.point.label>punt</Pila.tools.point.label>
   <!-- EN: pila -->
-  <Pila.verbs.Verb_Shoot.label>TODO</Pila.verbs.Verb_Shoot.label>
+  <Pila.verbs.Verb_Shoot.label>pila</Pila.verbs.Verb_Shoot.label>
   
   <!-- EN: pilum -->
-  <Pilum_Thrown.label>TODO</Pilum_Thrown.label>
+  <Pilum_Thrown.label>pilum</Pilum_Thrown.label>
   
 </LanguageData>

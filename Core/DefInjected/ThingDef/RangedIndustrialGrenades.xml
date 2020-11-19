@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: EMP grenade -->
-  <Proj_GrenadeEMP.label>TODO</Proj_GrenadeEMP.label>
+  <Proj_GrenadeEMP.label>EMP handgranaat</Proj_GrenadeEMP.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadeFrag.label>TODO</Proj_GrenadeFrag.label>
+  <Proj_GrenadeFrag.label>handgranaat</Proj_GrenadeFrag.label>
   
   <!-- EN: molotov cocktail -->
-  <Proj_GrenadeMolotov.label>TODO</Proj_GrenadeMolotov.label>
+  <Proj_GrenadeMolotov.label>molotovcocktail</Proj_GrenadeMolotov.label>
   
   <!-- EN: EMP grenades -->
-  <Weapon_GrenadeEMP.label>TODO</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.label>EMP handgranaten</Weapon_GrenadeEMP.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
-  <Weapon_GrenadeEMP.description>TODO</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.description>Granaten die elektromagnetische pulsen veroorzaken. De pulsen beschadigen elektronische apparatuur.</Weapon_GrenadeEMP.description>
   <!-- EN: throw EMP grenade -->
-  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>TODO</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>EMP handgranaten</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
   
   <!-- EN: frag grenades -->
-  <Weapon_GrenadeFrag.label>TODO</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.label>handgranaten</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
-  <Weapon_GrenadeFrag.description>TODO</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.description>Ouderwetse handgranaten. Ze kunnen over een korte afstand worden gegooid, waarna ze exploderen en alles en iedereen in de buurt beschadigen.</Weapon_GrenadeFrag.description>
   <!-- EN: throw frag grenade -->
-  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>TODO</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>handgranaten</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   
   <!-- EN: molotov cocktails -->
-  <Weapon_GrenadeMolotov.label>TODO</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.label>molotovcocktails</Weapon_GrenadeMolotov.label>
   <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
-  <Weapon_GrenadeMolotov.description>TODO</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.description>Glazen flessen gevuld met brandbare vloeistof, met een brandende doek in de nek. Een favoriet wapen van hooligans en wanhopige krijgers waar dan ook.</Weapon_GrenadeMolotov.description>
   <!-- EN: throw molotov -->
-  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>TODO</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>molotovcocktails</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
   
 </LanguageData>

@@ -57,9 +57,9 @@
   <!-- EN: Can tend now -->
   <CanTendNow>Kan nu worden behandeld</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>Behandeling vervalt in {0}</TreatmentExpiresIn>
+  <TreatmentExpiresIn>Behandeling vervalt over {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Volgende behandeling in {0}</NextTendIn>
+  <NextTendIn>Volgende behandeling over {0}</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>Behandelkwaliteit</TendQuality>
   <!-- EN: no {0} -->
@@ -127,7 +127,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Vooruitgang gestopt, wachten op bevruchting</ProgressStoppedUntilFertilized>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>nodig {0} op niveau {2}, heeft {1}</SkillTooLow>
+  <SkillTooLow>{0} op niveau {2} vereist, heeft {1}</SkillTooLow>
   <!-- EN: Freezing -->
   <Freezing>Bevriezen</Freezing>
   <!-- EN: Overheating -->
@@ -153,11 +153,11 @@
   <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>Brandstof</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>Stel het doelbrandstofniveau in op {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Stel het gewenste brandstofniveau in op {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Stel het doelbrandstofniveau in op {0}\nMaximale afstand: {1} tegels </SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Stel het gewenste brandstofniveau in op {0}\nMaximale afstand: {1} tegels </SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>Doelbrandstofniveau: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Gewenste brandstofniveau: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>vijanden</Enemies>
   <!-- EN: time passed -->
@@ -173,7 +173,7 @@
   <!-- EN: using 1 bedroll -->
   <UsingBedroll>gebruikt 1 slaapzak</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>gebruikt {0} slaapzakken</UsingBedrolls>
+  <UsingBedrolls>{0} slaapzakken in gebruik</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>Geschatte tijd tot bestemming: {0} dagen</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
@@ -223,7 +223,7 @@
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>Ideale gistingstemperatuur</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} vermenigvuldigingsfactor: {1}</DrugEffectMultiplier>
+  <DrugEffectMultiplier>Effectiviteit {0}: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>Bezoekt {0}</CaravanVisiting>
   <!-- EN: Entering {0}. -->
@@ -235,7 +235,7 @@
   <!-- EN: Trading with {0} -->
   <CaravanTrading>Handelend met {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Beschadigd doordat het gedragen werd door een lijk. </WasWornByCorpse>
+  <WasWornByCorpse>Besmet doordat het gedragen werd door een lijk. </WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>B</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -249,7 +249,7 @@
   <!-- EN: {0} until enemies arrive -->
   <CaravanDetectedRaidCountdown>{0} tot de vijanden arriveren</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>Vijandige versterking arriveert in dit gebied in {0}.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Vijandige versterking arriveert in dit gebied over {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Kamer</Room>
   <!-- EN: Beauty here -->
@@ -353,7 +353,7 @@
   <!-- EN: Reason -->
   <Reason>Reden</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>Relaties met {0}</RelationsWith>
+  <RelationsWith>Relatie met {0}</RelationsWith>
   <!-- EN: captured by {0} -->
   <capturedBy>gevangen door {0}</capturedBy>
   <!-- EN: your caravan -->
@@ -369,15 +369,15 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} met {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>Je kunt dit de komende {0} dagen niet opnieuw binnen gaan.</EnterCooldown>
+  <EnterCooldown>Het is de komende {0} te gevaarlijk om opnieuw binnen gaan.</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>Karavaan </Caravan>
+  <Caravan>Karavaan</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>er kan daar gevaar zijn</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
   <PreciousLumpHostileThreat>De scanner vindt activiteit rond de klomp, waarschijnlijk vijandig.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>brok van {0}</PreciousLumpLabel>
+  <PreciousLumpLabel>partij {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>geen actief onderzoeksproject</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
@@ -413,9 +413,9 @@
   <!-- EN: Quest -->
   <Quest>Opdracht</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>Veroorzaakt aanvallen elke {0}</BringsRaidsEvery>
+  <BringsRaidsEvery>Veroorzaakt aanvallen om de {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>Genereert {0} elke {1}</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>Genereert {0} om de {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>Bladersterfte radius</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
@@ -431,7 +431,7 @@
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Produceert over {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} bouw klaar over {1}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>Constructie {0} klaar over {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
   <MechAssemblyNextType>Zal maken</MechAssemblyNextType>
   <!-- EN: produced -->
@@ -465,7 +465,7 @@
   <!-- EN: low psyfocus -->
   <LowPsyfocus>Lage psyfocus</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>nog {0}</DurationLeft>
+  <DurationLeft>{0} resterend</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>Een van</AnyOf>
   <!-- EN: Goodwill -->
@@ -513,7 +513,7 @@
   <!-- EN: Recruit failed!\n{0} chance -->
   <TextMote_RecruitFail>Rekrutering mislukt!\n{0} kans</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>Weerstand\n{0} tot {1}</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>Weerstand\nvan {0} naar {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Temmen is mislukt\n{0} kans</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
@@ -527,7 +527,7 @@
   <!-- EN: Construction\nbotched -->
   <TextMote_ConstructionFail>Constructie\nmislukt</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>Ontwijken</TextMote_Dodge>
+  <TextMote_Dodge>Ontweken</TextMote_Dodge>
   <!-- EN: Immune -->
   <TextMote_Immune>Immuun</TextMote_Immune>
   <!-- EN: {0} tended -->
@@ -605,53 +605,53 @@
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>transporteren.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>Slaapt.</ReportSleeping>
+  <ReportSleeping>slaapt.</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>Rust uit.</ReportResting>
+  <ReportResting>rust uit.</ReportResting>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>kijken naar de zonsopgang.</WatchingSunrise>
+  <WatchingSunrise>naar de zonsopgang aan het kijken.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>kijken naar de wolken.</CloudWatching>
+  <CloudWatching>naar de wolken aan het kijken.</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>kijken naar de zonsondergang.</WatchingSunset>
+  <WatchingSunset>naar de zonsondergang aan het kijken.</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>sterrenkijken.</Stargazing>
+  <Stargazing>naar de sterren aan het kijken.</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>kijken naar de verduistering.</WatchingEclipse>
+  <WatchingEclipse>naar de verduistering aan het kijken.</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>kijken naar het poollicht.</WatchingAurora>
+  <WatchingAurora>naar de aurora aan het kijken.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>gebruikt {0} tot {1}.</UsingVerb>
+  <UsingVerb>{0} op {1} aan het toepassen.</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>gebruikt {0}.</UsingVerbNoTarget>
+  <UsingVerbNoTarget>{0} aan het gebruiken.</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>gebied</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>hurken.</ReportCowering>
+  <ReportCowering>aan het hurken.</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>staan.</ReportStanding>
+  <ReportStanding>aan het staan.</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>brand blussen.</ReportExtinguishingFire>
+  <ReportExtinguishingFire>brand aan het blussen.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>blust brand van {TARGET_label}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>brand van {TARGET_label} aan het blussen.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>lijk opgraven.</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>lijk aan het opgraven.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Bijwonen van de huwelijksceremonie </LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Huwelijksceremonie aan het bijwonen</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>Feest bijwonen</LordReportAttendingParty>
+  <LordReportAttendingParty>Feest aan het bijwonen</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>Concert bijwonen</LordReportAttendingConcert>
+  <LordReportAttendingConcert>Concert aan het bijwonen</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>Concert organiseren</LordReportHoldingConcert>
+  <LordReportHoldingConcert>Concert aan het organiseren</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>Speech geven</LordReportGivingSpeech>
+  <LordReportGivingSpeech>Speech aan het geven</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>Luisterend naar {ORGANIZER_labelShort}'s speech</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Naar {ORGANIZER_labelShort}'s speech aan het luisteren</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Karavaan vormen</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Karavaan aan het vormen</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -661,7 +661,7 @@
   <!-- EN: Weapon -->
   <ShootReportWeapon>Wapen</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>Het donker</Darkness>
+  <Darkness>Duisternis</Darkness>
   <!-- EN: Target lying down -->
   <TargetProne>Kwetsbaarheid doel</TargetProne>
   <!-- EN: Target size -->
@@ -713,7 +713,7 @@
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} van {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
@@ -739,11 +739,11 @@
   <!-- EN: In shock due to pain -->
   <PainShock>In shock door pijn</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>pijnschok</PainShockShort>
+  <PainShockShort>Pijnshock</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>Arbeidsongeschikt</Incapacitated>
+  <Incapacitated>Hulpeloos</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>Vastgebonden (langzamer)</InRestraints>
+  <InRestraints>Geketend (langzamer)</InRestraints>
   <!-- EN: Carrying -->
   <Carrying>Dragend</Carrying>
   <!-- EN: Affected by: -->
@@ -765,7 +765,7 @@
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
   <HostilityReponseTip>Verander hoe deze persoon zal reageren op vijanden in de buurt wanneer deze niet militair is opgesteld.</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>Huidige modus </HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>Huidige modus</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
@@ -793,9 +793,9 @@
   <!-- EN: Current power use -->
   <PowerConsumptionMode>Huidig stroomverbruik</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>Hoog</PowerConsumptionHigh>
+  <PowerConsumptionHigh>hoog</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>Laag</PowerConsumptionLow>
+  <PowerConsumptionLow>laag</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
@@ -883,7 +883,7 @@
   <!-- EN: Clear all -->
   <ClearAll>Alles wissen</ClearAll>
   <!-- EN: Allow all -->
-  <AllowAll>Laat alles toe</AllowAll>
+  <AllowAll>Alles toelaten</AllowAll>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
@@ -1047,9 +1047,9 @@
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>Onvoltooid {0}</UnfinishedItem>
+  <UnfinishedItem>{0} (Onvoltooid)</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>Onvoltooid {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>{0} {1} (Onvoltooid)</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->

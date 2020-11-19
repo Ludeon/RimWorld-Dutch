@@ -14,7 +14,7 @@
   <CarryDownedPawnToExit.reportString>TargetA aan het dragen.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>TargetA naar een Cryptoslaapbed aan het tillen.</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>TargetA naar een cryptoslaapbed aan het tillen.</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>TargetA aan het schoonmaken.</Clean.reportString>
@@ -68,7 +68,7 @@
   <Milk.reportString>TargetA aan het melken.</Milk.reportString>
   
   <!-- EN: digging at TargetA. -->
-  <Mine.reportString>TargetA aan het delfen.</Mine.reportString>
+  <Mine.reportString>TargetA aan het delven.</Mine.reportString>
   
   <!-- EN: drilling at TargetA. -->
   <OperateDeepDrill.reportString>aan het graven bij TargetA.</OperateDeepDrill.reportString>
@@ -80,7 +80,7 @@
   <PlaceNoCostFrame.reportString>TargetA aan het opbouwen.</PlaceNoCostFrame.reportString>
   
   <!-- EN: attempting to recruit TargetA. -->
-  <PrisonerAttemptRecruit.reportString>aan het proberen TargetA te recruteren.</PrisonerAttemptRecruit.reportString>
+  <PrisonerAttemptRecruit.reportString>aan het proberen TargetA te rekruteren.</PrisonerAttemptRecruit.reportString>
   
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>TargetA aan het executeren.</PrisonerExecution.reportString>
@@ -89,7 +89,7 @@
   <ReleasePrisoner.reportString>TargetA aan het vrijlaten.</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
-  <RemoveFloor.reportString>de vloer aan het afbrekene.</RemoveFloor.reportString>
+  <RemoveFloor.reportString>de vloer aan het afbreken.</RemoveFloor.reportString>
   
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>een dak aan het afbreken.</RemoveRoof.reportString>

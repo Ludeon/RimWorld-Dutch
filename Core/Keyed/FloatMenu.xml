@@ -385,7 +385,7 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>Prioritiseer {1} {0}</PrioritizeGeneric>
+  <PrioritizeGeneric>Prioritiseer {0} {1}</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>Laat vallen aan de rand</DropAtEdge>
@@ -404,9 +404,9 @@
   <NotInterruptibleLower>niet onderbreekbaar</NotInterruptibleLower>
   
   <!-- EN: Add a new waypoint here -->
-  <AddWaypoint>Voeg hier een nieuw tussenpunt toe</AddWaypoint>
+  <AddWaypoint>Voeg hier een nieuw routepunt toe</AddWaypoint>
   <!-- EN: Remove this waypoint -->
-  <RemoveWaypoint>Verwijder dit tussenpunt</RemoveWaypoint>
+  <RemoveWaypoint>Verwijder dit routepunt</RemoveWaypoint>
 
   <!-- EN: Cancel all designations -->
   <RemoveAllDesignations>Alle aanwijzingen annuleren</RemoveAllDesignations>

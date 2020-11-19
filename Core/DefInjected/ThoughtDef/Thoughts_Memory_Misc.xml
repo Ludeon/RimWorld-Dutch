@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <AteWithoutTable.label>Van de grond gegeten</AteWithoutTable.label>
-  <AteWithoutTable.description>Ik heb van de grond moeten eten. Kunnen we geen tafel pakken?</AteWithoutTable.description>
   <!-- EN: ate without table -->
-  <AteWithoutTable.stages.ate_without_table.label>TODO</AteWithoutTable.stages.ate_without_table.label>
+  <AteWithoutTable.stages.ate_without_table.label>Zonder tafel gegeten</AteWithoutTable.stages.ate_without_table.label>
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
-  <AteWithoutTable.stages.ate_without_table.description>TODO</AteWithoutTable.stages.ate_without_table.description>
+  <AteWithoutTable.stages.ate_without_table.description>Ik heb van de grond moeten eten. Kunnen we geen tafel pakken?</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
@@ -18,10 +16,8 @@
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>TODO</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
-  <Catharsis.label>catharsis</Catharsis.label>
-  <Catharsis.description>Wat gebeurde er zojuist... Zo ben ik normaal gesproken niet. Ik weet dat ik beter ben dat dit.</Catharsis.description>
   <!-- EN: catharsis -->
-  <Catharsis.stages.catharsis.label>TODO</Catharsis.stages.catharsis.label>
+  <Catharsis.stages.catharsis.label>catharsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>TODO</Catharsis.stages.catharsis.description>
   
@@ -83,8 +79,6 @@
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>TODO</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
-  <KnowPrisonerSold.label>Een gevangene is verkocht</KnowPrisonerSold.label>
-  <KnowPrisonerSold.description>Onze kolonie heeft een gevangene verkocht. Die gedachte is zorgwekkend.</KnowPrisonerSold.description>
   <!-- EN: prisoner sold -->
   <KnowPrisonerSold.stages.prisoner_sold.label>Een gevangene is verkocht</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
@@ -95,15 +89,11 @@
   <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
   <MyOrganHarvested.stages.my_organ_harvested.description>TODO</MyOrganHarvested.stages.my_organ_harvested.description>
   
-  <NewColonyHope.label>Nieuwe-kolonie-hoop</NewColonyHope.label>
-  <NewColonyHope.description>Ik wen langzaam aan onze situatie, maar het is nog steeds vreemd. Ik hoop dat het zal werken...</NewColonyHope.description>
   <!-- EN: initial hope -->
   <NewColonyHope.stages.initial_hope.label>Nieuwe-kolonie-hoop</NewColonyHope.stages.initial_hope.label>
   <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
   <NewColonyHope.stages.initial_hope.description>Ik wen langzaam aan onze situatie, maar het is nog steeds vreemd. Ik hoop dat het zal werken...</NewColonyHope.stages.initial_hope.description>
   
-  <NewColonyOptimism.label>Nieuwe-kolonie-optimisme</NewColonyOptimism.label>
-  <NewColonyOptimism.description>We zijn hier nu geland. Het is een lastige situatie, maar ik ben blij dat we een nieuwe kolonie hebben kunnen stichten.</NewColonyOptimism.description>
   <!-- EN: initial optimism -->
   <NewColonyOptimism.stages.initial_optimism.label>Nieuwe-kolonie-optimisme</NewColonyOptimism.stages.initial_optimism.label>
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
@@ -114,15 +104,11 @@
   <!-- EN: A cute animal nuzzled me. -->
   <Nuzzled.stages.nuzzled.description>TODO</Nuzzled.stages.nuzzled.description>
   
-  <ObservedLayingCorpse.label>Lijk gezien</ObservedLayingCorpse.label>
-  <ObservedLayingCorpse.description>Ik heb een lijk op de grond zien liggen.</ObservedLayingCorpse.description>
   <!-- EN: observed corpse -->
   <ObservedLayingCorpse.stages.observed_corpse.label>Lijk gezien</ObservedLayingCorpse.stages.observed_corpse.label>
   <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
   <ObservedLayingCorpse.stages.observed_corpse.description>Ik heb een lijk op de grond zien liggen. Het was verontrustend.</ObservedLayingCorpse.stages.observed_corpse.description>
   
-  <ObservedLayingRottingCorpse.label>Rottend lijk gezien</ObservedLayingRottingCorpse.label>
-  <ObservedLayingRottingCorpse.description>Ik heb een rottend lijk op de grond zien liggen. Het was akelig.</ObservedLayingRottingCorpse.description>
   <!-- EN: observed rotting corpse -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>Rottend lijk gezien</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
@@ -158,8 +144,6 @@
   <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
   <SleepDisturbed.stages.disturbed_sleep.description>TODO</SleepDisturbed.stages.disturbed_sleep.description>
   
-  <SleptInCold.label>In de kou geslapen</SleptInCold.label>
-  <SleptInCold.description>Ik heb in de kou geslapen. We hebben echt verwarming nodig</SleptInCold.description>
   <!-- EN: slept in the cold -->
   <SleptInCold.stages.slept_in_the_cold.label>In de kou geslapen</SleptInCold.stages.slept_in_the_cold.label>
   <!-- EN: I had to sleep in the cold. We really need some heaters. -->
@@ -170,15 +154,11 @@
   <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
   <SleptInHeat.stages.slept_in_the_heat.description>TODO</SleptInHeat.stages.slept_in_the_heat.description>
   
-  <SleptOnGround.label>Op de grond geslapen</SleptOnGround.label>
-  <SleptOnGround.description>Ik heb als een dier op de grond geslapen.</SleptOnGround.description>
   <!-- EN: slept on ground -->
   <SleptOnGround.stages.slept_on_ground.label>Op de grond geslapen</SleptOnGround.stages.slept_on_ground.label>
   <!-- EN: I had to sleep on the ground like an animal. -->
   <SleptOnGround.stages.slept_on_ground.description>Ik heb als een dier op de grond geslapen.</SleptOnGround.stages.slept_on_ground.description>
   
-  <SleptOutside.label>Buiten geslapen</SleptOutside.label>
-  <SleptOutside.description>Ik heb buiten geslapen zonder bescherming van de omgeving.</SleptOutside.description>
   <!-- EN: slept outside -->
   <SleptOutside.stages.slept_outside.label>Buiten geslapen</SleptOutside.stages.slept_outside.label>
   <!-- EN: I had to sleep outdoors without any protection from the elements. -->
@@ -189,15 +169,11 @@
   <!-- EN: I'm soaking wet. -->
   <SoakingWet.stages.soaking_wet.description>TODO</SoakingWet.stages.soaking_wet.description>
   
-  <WasImprisoned.label>Was gevangengenomen</WasImprisoned.label>
-  <WasImprisoned.description>Ik ben een tijdje gevangengenomen als een opgesloten dier.</WasImprisoned.description>
   <!-- EN: was imprisoned -->
   <WasImprisoned.stages.was_imprisoned.label>Was gevangengenomen</WasImprisoned.stages.was_imprisoned.label>
   <!-- EN: The colony had me in jail for a while, like a caged animal. -->
   <WasImprisoned.stages.was_imprisoned.description>Ik ben een tijdje gevangengenomen als een opgesloten dier.</WasImprisoned.stages.was_imprisoned.description>
   
-  <WitnessedDeathAlly.label>Zag bondgenoot sterven</WitnessedDeathAlly.label>
-  <WitnessedDeathAlly.description>Ik heb een bondgenoot zien sterven. Het ene moment leefde hij nog, het andere was hij dood.</WitnessedDeathAlly.description>
   <!-- EN: witnessed ally's death -->
   <WitnessedDeathAlly.stages.witnessed_allys_death.label>Zag bondgenoot sterven</WitnessedDeathAlly.stages.witnessed_allys_death.label>
   <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->

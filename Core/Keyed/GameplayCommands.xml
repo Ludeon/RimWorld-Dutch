@@ -18,9 +18,9 @@
   <CommandTogglePowerDesc>Stroom in-/uitschakelen.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>Stroom in-/uitschakelen toewijzen</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Stroom in-/\nuitschakelen</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>Wijs dit ding aan om de stroom in/uit te schakelen. Er zal snel een kolonist komen om de schakelaar te bedienen.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Wijs dit ding aan om de stroom in-/uit te schakelen. Er zal binnenkort een kolonist komen om de schakelaar te bedienen.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Opnieuw aansluiten</CommandTryReconnectLabel>
@@ -480,11 +480,11 @@
   <!-- EN: Rest -->
   <CommandPauseCaravan>Rust</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>Begin te rusten. Dit heeft de volgende voordelen: \n\n  - Mensen kunnen sociaal met elkaar omgaan\n  - Veevoerwinning {0} keer sneller\n  - Zichtbaarheid vermenigvuldigd met {1}</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>Begin te rusten. Dit heeft de volgende voordelen: \n\n  - Mensen kunnen sociaal met elkaar omgaan\n  - Foerage gaat {0} keer sneller\n  - Zichtbaarheid vermenigvuldigd met {1}</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>Laat zien wat wilt kopen </CommandShowSellableItems>
+  <CommandShowSellableItems>Toon wat bereid is te kopen</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
   <CommandShowSellableItemsDesc>Toon alles wat deze handelaar wil kopen.</CommandShowSellableItemsDesc>
 

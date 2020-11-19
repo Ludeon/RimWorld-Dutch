@@ -15,10 +15,10 @@
   <CaravanMeeting.label>karavaantreffen</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>hinderlaag door mensenjagers</ManhunterAmbush.label>
+  <ManhunterAmbush.label>hinderlaag door klopjagers</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>Karavaan in hinderlaag (mensenjagers)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>Karavaan in hinderlaag (klopjagers)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>Scaria-geïnfecteerde mensenjagers {1} hebben {0} in een hinderlaag gelokt!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>Scaria-geïnfecteerde klopjagers {1} hebben {0} in een hinderlaag gelokt!</ManhunterAmbush.letterText>
   
 </LanguageData>

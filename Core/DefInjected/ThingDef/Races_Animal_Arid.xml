@@ -24,7 +24,7 @@
   <Gazelle.tools.head.label>kop</Gazelle.tools.head.label>
   
   <!-- EN: iguana -->
-  <Iguana.label>iguaan</Iguana.label>
+  <Iguana.label>leguaan</Iguana.label>
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
   <Iguana.description>Deze grote hagedissen eten normaal alleen planten. Als ze worden gestoord maken zijn harde huid en scherpe klauwen hem een gevaarlijke tegenstander.\n\nRustende iguanen houden hun hoofd omhoog, waardoor ze er 'trots' uitzien. Ze zijn echter niet trots, ze proberen gewoon roofdieren te zien aankomen voordat ze worden opgegeten.</Iguana.description>
   <!-- EN: left claw -->
@@ -39,10 +39,10 @@
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
   <Muffalo.description>Een groot herbivorisch kuddedier dat afstamt van de buffel en zich heeft aangepast voor zowel koude als warme klimaten. Wanneer ze razend zijn kunnen muffels dodelijk zijn, temme muffels zijn vriendelijk en kunnen worden gebruikt als lastdier.\n\nNiemand weet waarom ze blauw zijn - het zou een vroege genetische modificatie kunnen zijn die nooit is teruggedraaid.</Muffalo.description>
   <!-- EN: head -->
-  <Muffalo.tools.head.label>TODO</Muffalo.tools.head.label>
+  <Muffalo.tools.head.label>kop</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
-  <Muffalo.tools.left_hoof.label>TODO</Muffalo.tools.left_hoof.label>
+  <Muffalo.tools.left_hoof.label>linkerhoef</Muffalo.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Muffalo.tools.right_hoof.label>kop</Muffalo.tools.right_hoof.label>
+  <Muffalo.tools.right_hoof.label>rechterhoef</Muffalo.tools.right_hoof.label>
   
 </LanguageData>

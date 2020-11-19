@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: grizzly bear -->
-  <Bear_Grizzly.label>TODO</Bear_Grizzly.label>
+  <Bear_Grizzly.label>grizzly beer</Bear_Grizzly.label>
   <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Grizzly.description>TODO</Bear_Grizzly.description>
+  <Bear_Grizzly.description>Een enorm omnivoor zoogdier dat is aangepast aan koude klimaten. De dikke vetlaag en vacht van de beren houden ze warm in de winter.\n\nHoewel hun gebruikelijke dieet bestaat uit vis, bessen, honing en weggevangen vlees, zijn grizzly's in staat om hun enorme kracht en dodelijke klauwen te gebruiken om levende prooien te doden. Ze zijn verrassend snel voor zulke logge wezens.</Bear_Grizzly.description>
   <!-- EN: bear meat -->
-  <Bear_Grizzly.race.meatLabel>TODO</Bear_Grizzly.race.meatLabel>
+  <Bear_Grizzly.race.meatLabel>berenvlees</Bear_Grizzly.race.meatLabel>
   <!-- EN: left claw -->
-  <Bear_Grizzly.tools.left_claw.label>TODO</Bear_Grizzly.tools.left_claw.label>
+  <Bear_Grizzly.tools.left_claw.label>linkerklauw</Bear_Grizzly.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Bear_Grizzly.tools.right_claw.label>TODO</Bear_Grizzly.tools.right_claw.label>
+  <Bear_Grizzly.tools.right_claw.label>rechterklauw</Bear_Grizzly.tools.right_claw.label>
   <!-- EN: head -->
-  <Bear_Grizzly.tools.head.label>TODO</Bear_Grizzly.tools.head.label>
+  <Bear_Grizzly.tools.head.label>kop</Bear_Grizzly.tools.head.label>
   
   <!-- EN: polar bear -->
-  <Bear_Polar.label>TODO</Bear_Polar.label>
+  <Bear_Polar.label>ijsbeer</Bear_Polar.label>
   <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Polar.description>TODO</Bear_Polar.description>
+  <Bear_Polar.description>Een grote witte beer die is aangepast aan bevroren klimaten. Hun dikke vetlaag en vacht houden ze warm in de winter.\n\nHoewel hun gebruikelijke dieet bestaat uit vis en afgevangen vlees, kunnen ijsberen ook hun enorme kracht en dodelijke klauwen gebruiken om levende prooien te doden. Ze zijn verrassend snel voor zulke logge wezens.</Bear_Polar.description>
   <!-- EN: left claw -->
-  <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
+  <Bear_Polar.tools.left_claw.label>linkerklauw</Bear_Polar.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Bear_Polar.tools.right_claw.label>TODO</Bear_Polar.tools.right_claw.label>
+  <Bear_Polar.tools.right_claw.label>rechterklauw</Bear_Polar.tools.right_claw.label>
   <!-- EN: head -->
-  <Bear_Polar.tools.head.label>TODO</Bear_Polar.tools.head.label>
+  <Bear_Polar.tools.head.label>kop</Bear_Polar.tools.head.label>
   
 </LanguageData>

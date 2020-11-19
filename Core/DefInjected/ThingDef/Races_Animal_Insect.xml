@@ -2,32 +2,32 @@
 <LanguageData>
   
   <!-- EN: megascarab -->
-  <Megascarab.label>TODO</Megascarab.label>
+  <Megascarab.label>megakever</Megascarab.label>
   <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
-  <Megascarab.description>TODO</Megascarab.description>
+  <Megascarab.description>Een grote, genetisch gemanipuleerde kever. Ooit was het de arbeider in een kunstmatig ecosysteem van insectoïden, ontworpen om mechanoïde-invasies te bestrijden, maar nu wordt het vaak gezien zonder zijn dodelijkere insectoïde neven. Toch maken zijn omvang en harde schaal hem gevaarlijk als hij aanvalt. Het is een eusociaal wezen en kan zich niet individueel voortplanten.</Megascarab.description>
   <!-- EN: mandibles -->
-  <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
+  <Megascarab.tools.mandibles.label>kaken</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
-  <Megascarab.tools.head.label>TODO</Megascarab.tools.head.label>
+  <Megascarab.tools.head.label>kop</Megascarab.tools.head.label>
   
   <!-- EN: megaspider -->
-  <Megaspider.label>TODO</Megaspider.label>
+  <Megaspider.label>megaspin</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
-  <Megaspider.description>TODO</Megaspider.description>
+  <Megaspider.description>Megaspinnen zijn geen echte spinnen. Het zijn genetisch gemanipuleerde gigantische insectoïden ontworpen voor zwaar werk en gevechten ter grootte van een beer. Hun dikke, chitineuze pantser maakt het moeilijk om ze te doden, en van dichtbij zijn ze dodelijk vanwege hun lange ripper-messen. Ze zijn echter vrij traag op open terrein.</Megaspider.description>
   <!-- EN: insect meat -->
-  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
+  <Megaspider.race.meatLabel>insectenvlees</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
-  <Megaspider.tools.head_claw.label>TODO</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head_claw.label>kopklauw</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
-  <Megaspider.tools.head.label>TODO</Megaspider.tools.head.label>
+  <Megaspider.tools.head.label>kop</Megaspider.tools.head.label>
   
   <!-- EN: spelopede -->
-  <Spelopede.label>TODO</Spelopede.label>
+  <Spelopede.label>spelopeed</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
-  <Spelopede.description>TODO</Spelopede.description>
+  <Spelopede.description>Een middelgrote genetisch gemanipuleerd insectoïde ter grootte van een schaap. De spelopeed is de middelste kaste van een nest. Het neemt de meeste werktaken op zich en vecht met zijn graafklauwen. Het is gevaarlijk tijdens gevechten, maar traag op open terrein.</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>TODO</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>graafklauw</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
-  <Spelopede.tools.head.label>TODO</Spelopede.tools.head.label>
+  <Spelopede.tools.head.label>kop</Spelopede.tools.head.label>
   
 </LanguageData>

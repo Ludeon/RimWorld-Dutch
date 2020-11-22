@@ -317,7 +317,7 @@
   <CannotOpen>Kan {0_label} niet openen</CannotOpen>
   
   <!-- EN: Enter {0} -->
-  <EnterMap>Treedt {0} binnen</EnterMap>
+  <EnterMap>Treed {0} binnen</EnterMap>
   <!-- EN: Visit {0} -->
   <VisitSettlement>Bezoek {0}</VisitSettlement>
   <!-- EN: Visit {0} -->
@@ -411,9 +411,9 @@
   <!-- EN: Cancel all designations -->
   <RemoveAllDesignations>Alle aanwijzingen annuleren</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>Alles aanwijzen </DesignateAll>
+  <DesignateAll>Alles aanwijzen</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>{0} beïnvloed </CountToDesignate>
+  <CountToDesignate>{0} beïnvloed</CountToDesignate>
   <!-- EN: Forbid all items -->
   <ForbidAllItems>Alle items verbieden</ForbidAllItems>
   <!-- EN: Unforbid all items -->

@@ -4,36 +4,36 @@
   <!-- EN: cochlear implant -->
   <CochlearImplant.label>binnenoorimplantaat</CochlearImplant.label>
   <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
-  <CochlearImplant.description>TODO</CochlearImplant.description>
+  <CochlearImplant.description>Een implantaat dat het normale gehoor vervangt. Een externe microfoon zendt een geluidssignaal naar elektroden die rond de gehoorzenuwen van het binnenoor zijn gewikkeld. De elektroden stimuleren de zenuwen in overeenstemming met het geluid, waardoor een gevoel van gehoor ontstaat. Het is niet zo goed als een natuurlijk oor, maar het is veel beter dan doof zijn.</CochlearImplant.description>
   
   <!-- EN: joywire -->
-  <Joywire.label>geluksdraad</Joywire.label>
+  <Joywire.label>genotsdraad</Joywire.label>
   <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
-  <Joywire.description>TODO</Joywire.description>
+  <Joywire.description>Een hersenimplantaat dat de pleziercentra van de hersenen stimuleert. Hoewel het de stemming van een gebruiker drastisch verbetert, maakt de deken van genot het moeilijk om je op de werkelijkheid te concentreren. Genotsdraden zijn op veel werelden illegaal en staan erom bekend hele culturen te hebben vernietigd.</Joywire.description>
   
   <!-- EN: painstopper -->
   <Painstopper.label>pijnstopper</Painstopper.label>
   <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
-  <Painstopper.description>TODO</Painstopper.description>
+  <Painstopper.description>Een hersenimplantaat dat nociceptie ofwel pijnsensatie remt. Hoewel het de gebruiker in staat stelt meer te bereiken, heeft pijn wel degelijk een doel. Als je het niet voelt, kun je heel gemakkelijk heel erg gewond raken.</Painstopper.description>
   
   <!-- EN: power claw -->
   <PowerClaw.label>powerklauw</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainlyness slows down movement slightly. -->
-  <PowerClaw.description>TODO</PowerClaw.description>
+  <PowerClaw.description>Een gevechtsgerichte handvervanging bestaande uit een mechanische hand met een haakklauw aan elke vinger. Het snijdt diep, en het is sterk genoeg om een schedel te vermorzelen zoals een hand een ei vermorzelt. De klauwen kunnen worden ingetrokken, waardoor deze net zo nuttig is als een natuurlijke hand voor niet-gevechtstaken, maar omdat het een zwaar geval is vertraagt het de beweging enigszins.</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>armprothese</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
-  <SimpleProstheticArm.description>TODO</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>Een armprothese. Hoewel een neurale interface ontbreekt, maakt de complexe opstelling van de interne gewrichten het mogelijk om de natuurlijke beweging behoorlijk overtuigend na te bootsen. Toch is het inferieur aan een echte arm.</SimpleProstheticArm.description>
   
   <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>kunsthart</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
-  <SimpleProstheticHeart.description>TODO</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>Een hartprothese. Het bevat een elektromotor die het bloed soepel door het lichaam pompt. Gebruikers melden vaak dat ze zich moe voelen, maar het is beter dan het alternatief.</SimpleProstheticHeart.description>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>beenprothese</SimpleProstheticLeg.label>
   <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>TODO</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>Een beenprothese. Hoewel een neurale interface ontbreekt, maakt de complexe opstelling van de interne gewrichten het mogelijk om de natuurlijke beweging behoorlijk overtuigend na te bootsen. Toch is het inferieur aan een echt been.</SimpleProstheticLeg.description>
   
 </LanguageData>

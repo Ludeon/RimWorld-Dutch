@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: yayo -->
-  <Yayo.label>TODO</Yayo.label>
+  <Yayo.label>yayo</Yayo.label>
   <!-- EN: A refined powdery preparation of the psychite drug. When snorted, it produces a rapid euphoric high, dramatically reduces the user's need for rest, and suppresses pain. Like all forms of psychite, it is addictive, though it is not as addictive as the cruder flake.\n\nBecause of its high cost and refined appearance, many cultures associate yayo with degenerate wealth. Whether in the throneroom or the boardroom, many hare-brained policy schemes have been developed during yayo-fueled binge parties. -->
-  <Yayo.description>TODO</Yayo.description>
+  <Yayo.description>Een verfijnd poederachtig preparaat van psychiet. Bij het snuiven produceert het een snelle euforische high, vermindert het de behoefte aan rust drastisch en onderdrukt het pijn. Zoals alle vormen van psychiet is het verslavend, hoewel het niet zo verslavend is als de grovere vlok.\n\nVanwege zijn hoge kosten en verfijnde uiterlijk associëren veel culturen yayo met decadente rijkdom. Of het nu in de troonzaal of in de directiekamer was, er zijn vele stompzinnige beleidsplannen ontwikkeld tijdens excessieve yayo-feesten.</Yayo.description>
   <!-- EN: Snort {0} -->
-  <Yayo.ingestible.ingestCommandString>TODO</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestCommandString>Snuif {0}</Yayo.ingestible.ingestCommandString>
   <!-- EN: Snorting {0}. -->
-  <Yayo.ingestible.ingestReportString>TODO</Yayo.ingestible.ingestReportString>
+  <Yayo.ingestible.ingestReportString>{0} aan het snuiven</Yayo.ingestible.ingestReportString>
   
 </LanguageData>

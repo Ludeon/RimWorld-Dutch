@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: heart -->
-  <Heart.label>TODO</Heart.label>
+  <Heart.label>hart</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>TODO</Heart.description>
+  <Heart.description>Een biologisch menselijk hart. Pompt bloed rond het lichaam.</Heart.description>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
+  <Kidney.label>nier</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>TODO</Kidney.description>
+  <Kidney.description>Een biologische menselijke nier. Filtert en verwijdert afvalproducten uit het bloed.</Kidney.description>
   
   <!-- EN: liver -->
-  <Liver.label>TODO</Liver.label>
+  <Liver.label>lever</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>TODO</Liver.description>
+  <Liver.description>Een biologische menselijke lever. Speelt een belangrijke rol bij de stofwisseling.</Liver.description>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
+  <Lung.label>long</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>TODO</Lung.description>
+  <Lung.description>Een biologische menselijke long. Een paar hiervan vormen de kern van het menselijke ademhalingssysteem.</Lung.description>
   
 </LanguageData>

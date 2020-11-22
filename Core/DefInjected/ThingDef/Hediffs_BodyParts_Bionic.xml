@@ -2,46 +2,46 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>TODO</BionicArm.label>
+  <BionicArm.label>bionische arm</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>TODO</BionicArm.description>
+  <BionicArm.description>Een geavanceerde kunstarm. Geluidgedempte mini-servo's leveren veel kracht, terwijl de biogel-zenuw-link voor uitstekende controle zorgt. Dankzij een roosterstof-genezingssysteem kan het herstellen van schade. Het is in bijna elk opzicht beter dan een biologische arm.</BionicArm.description>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>bionisch oor</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>Een geavanceerd kunstoor. Een verzameling onzichtbare subdermale microfoons vangen geluid op en zenden het naar een biogel-zenuw-interface die rechtstreeks in verbinding staat met de gehoorzenuw. Het is gevoelig genoeg om een kat te horen voordat je hem ziet, kan niet worden beschadigd door hard geluid en stemt zichzelf automatisch af om betekenisvolle geluiden op te pikken in lawaaierige omgevingen.</BionicEar.description>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>TODO</BionicEye.label>
+  <BionicEye.label>bionisch oog</BionicEye.label>
   <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>TODO</BionicEye.description>
+  <BionicEye.description>Een geavanceerd kunstmatig oog. Met zijn biogel-zenuwverbinding, interne signaalvoorprocessor en breedspectrumsensoren is het in bijna elk opzicht beter dan een biologisch oog. Dankzij een systeem voor het genezen van roosterstof kan het herstellen van schade.</BionicEye.description>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>bionisch hart</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>TODO</BionicHeart.description>
+  <BionicHeart.description>Een geavanceerd kunsthart. Het heeft synthetische spiervezels voor een realistische hartslag, plus een krachtige pomp voor snelle circulatie tijdens hoge stress. Het is in bijna elk opzicht beter dan een biologisch hart.</BionicHeart.description>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>TODO</BionicLeg.label>
+  <BionicLeg.label>bionisch been</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>TODO</BionicLeg.description>
+  <BionicLeg.description>Een geavanceerd kunstbeen. Met zijn biogel-zenuw-link, krachtige mini-servo's en roosterstof-genezingssysteem is het in bijna elk opzicht beter dan een biologisch been.</BionicLeg.description>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>bionische ruggengraat</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>TODO</BionicSpine.description>
+  <BionicSpine.description>Een geavanceerde kunstmatige ruggengraat. Een biogel-zenuwbundel loopt door een gearticuleerde kunststofkern, omgeven door een roosterstof-genezingssysteem. Het evenaart de prestaties van een biologische wervelkolom.</BionicSpine.description>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>bionische maag</BionicStomach.label>
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>TODO</BionicStomach.description>
+  <BionicStomach.description>Een geavanceerde kunstmatige maag. Een set sensoren en chemische synthesizers verteren efficiënt bijna elk energiedragend voedingsmiddel. Een geïntegreerd roosterstof-genezingssysteem herstelt automatisch alle schade veroorzaakt door de krachtige zuren. Het is in bijna elk opzicht beter dan een biologische maag.</BionicStomach.description>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>doodssoplosser</DeathAcidifier.label>
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>Een implantaat om het gebruik van buitgemaakte apparatuur door de vijand te voorkomen. Bij het overlijden van de gebruiker komen er krachtige chemicaliën vrij die uitrusting oplossen in contact met het lichaam van de gebruiker. Het schaadt anderen niet.</DeathAcidifier.description>
   
   <!-- EN: Mote -->
-  <Mote_AcidCloud.label>TODO</Mote_AcidCloud.label>
+  <Mote_AcidCloud.label>Deeltje</Mote_AcidCloud.label>
   
 </LanguageData>

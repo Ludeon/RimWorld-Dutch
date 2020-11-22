@@ -3,7 +3,7 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>hitpoints </HitPointsBasic>
+  <HitPointsBasic>hitpoints</HitPointsBasic>
   <!-- EN: Work left -->
   <WorkLeft>Resterend werk</WorkLeft>
   <!-- EN: Contents -->
@@ -13,9 +13,9 @@
   <!-- EN: For prisoner use -->
   <ForPrisonerUse>Voor gebruik door gedetineerden</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>In de gevangeniscel: Voor gebruik door gedetineerden </InPrisonCell>
+  <InPrisonCell>In de gevangeniscel: Voor gebruik door gedetineerden</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>Voor kolonistengebruik </ForColonistUse>
+  <ForColonistUse>Voor kolonistengebruik</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>Ziekenbed</MedicalBed>
   <!-- EN: Owner -->
@@ -33,9 +33,9 @@
   <!-- EN: Dead for {0} -->
   <DeadTime>Dood sinds {0}</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>Loopsnelheid {0}</WalkSpeed>
+  <WalkSpeed>loopsnelheid {0}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>Vruchtb.</FertShort>
+  <FertShort>vruchtb.</FertShort>
   <!-- EN: dying -->
   <DyingLower>stervende</DyingLower>
   <!-- EN: Filth on feet: -->
@@ -137,11 +137,11 @@
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Ontbrekende lichaamsdelen</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Reproduceert in </HiveReproducesIn>
+  <HiveReproducesIn>Reproduceert over</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
   <DormantHiveNotReproducing>Slapend: Niet aan het reproduceren.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>Volgende {0} in</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Volgende {0} over</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
   <NextSpawnedResourceIn>Volgende grondstof over</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
@@ -155,7 +155,7 @@
   <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>Stel het gewenste brandstofniveau in op {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Stel het gewenste brandstofniveau in op {0}\nMaximale afstand: {1} tegels </SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Stel het gewenste brandstofniveau in op {0}\nMaximale afstand: {1} tegels</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>Gewenste brandstofniveau: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
@@ -175,9 +175,9 @@
   <!-- EN: using {0} bedrolls -->
   <UsingBedrolls>{0} slaapzakken in gebruik</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>Geschatte tijd tot bestemming: {0} dagen</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Geschatte tijd tot aankomst: {0} dagen</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>Geschatte dagen tot aankomst: {0} </CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Geschatte reistijd: {0} dagen</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Kan niet bewegen: Te veel gewicht.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
@@ -197,7 +197,7 @@
   <!-- EN: {0} animals -->
   <CaravanAnimalsCount>{0} dieren</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>1 gevangene </CaravanPrisoner>
+  <CaravanPrisoner>1 gevangene</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
   <CaravanPrisonersCount>{0} gevangenen</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
@@ -229,13 +229,13 @@
   <!-- EN: Entering {0}. -->
   <CaravanEntering>Treedt {0} binnen</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>Valt {0} aan </CaravanAttacking>
+  <CaravanAttacking>Valt {0} aan</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Geschenken aanbieden aan {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0} -->
-  <CaravanTrading>Handelend met {0}</CaravanTrading>
+  <CaravanTrading>Handelt met {0}</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Besmet doordat het gedragen werd door een lijk. </WasWornByCorpse>
+  <WasWornByCorpse>Besmet doordat het gedragen werd door een lijk.</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>B</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -275,7 +275,7 @@
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Niet genoeg brandstof</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} van {1} </SettlementTrader>
+  <SettlementTrader>{0} van {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
   <RoomSurgerySuccessChanceFactor>Succeskansvermenigvuldigingsfactor voor chirurgie door kamer</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
@@ -441,7 +441,7 @@
   <!-- EN: {0} killed -->
   <PawnsKilled>{0} gedood</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>{0} verstuurd, zal terugkeren over {1} </PawnsLent>
+  <PawnsLent>{0} verstuurd, zal terugkeren over {1}</PawnsLent>
   <!-- EN: Dormant -->
   <DormantCompInactive>In slaapstand</DormantCompInactive>
   <!-- EN: Sealed -->
@@ -847,7 +847,7 @@
   <!-- EN: Resting -->
   <PlantResting>rustend</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Niet-ideale temperatuur. Temperatuurgroei factor: {0}% </OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>Niet-ideale temperatuur. Temperatuurgroei factor: {0}%</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>Niet-ideale temperatuur. Niet groeiend</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
@@ -981,7 +981,7 @@
   <!-- EN: Must be placed on drillable resources. -->
   <MustPlaceOnDrillable>Moet op boorbare grondstoffen worden geplaatst.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>Kan niet naast vallen worden geplaatst. </CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>Kan niet naast vallen worden geplaatst.</CannotPlaceAdjacentTrap>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1035,9 +1035,9 @@
 
   <!-- Minification -->
   <!-- EN: Installed -->
-  <Installed>Geïnstalleerd </Installed>
+  <Installed>Geïnstalleerd</Installed>
   <!-- EN: Not installed -->
-  <NotInstalled>Niet geïnstalleerd </NotInstalled>
+  <NotInstalled>Niet geïnstalleerd</NotInstalled>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -1067,7 +1067,7 @@
   <!-- EN: on edge -->
   <Mood_OnEdge>op het randje</Mood_OnEdge>
   <!-- EN: stressed -->
-  <Mood_Stressed>gestrest </Mood_Stressed>
+  <Mood_Stressed>gestrest</Mood_Stressed>
   <!-- EN: neutral -->
   <Mood_Neutral>neutraal</Mood_Neutral>
   <!-- EN: content -->
@@ -1145,7 +1145,7 @@
   <!-- EN: Burning -->
   <ActivityIconBurning>Branden</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>Een karavaan vormen </ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>Een karavaan vormen</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
@@ -1207,7 +1207,7 @@
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToWaypoint>Geschatte reistijd: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>Geschatte reistijd (vanaf vorig routepunt): {0} </EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>Geschatte reistijd (vanaf vorig routepunt): {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToTile>Geschatte reistijd: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
@@ -1245,7 +1245,7 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Neurale warmte: {0} / {1}\nAftelratio: {2} / s ({3}s tot nul) </PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Neurale warmte: {0} / {1}\nAftelratio: {2} / s ({3}s tot nul)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>Neurale warmte neemt toe na het uitvoeren van een psycast. Het overschrijden van de normale limiet kan tot een inzinking leiden van meerdere dagen.\n\nNeurale warmte wordt over tijd uitgestraald en koelt af. Dit proces kan worden versneld door eltex kleding te dragen of door pijn te ervaren.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
@@ -1261,7 +1261,7 @@
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>een {0_age}-jarige {0_title} genaamd {0_nameDef} zal arriveren in een transportcapsule {0_relationInfoInParentheses} </Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>een {0_age}-jarige {0_title} genaamd {0_nameDef} zal arriveren in een transportcapsule {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_WalkIn>een {0_age}-jarige {0_title} genaamd {0_nameDef} zal arriveren en zich bij je aansluiten {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->

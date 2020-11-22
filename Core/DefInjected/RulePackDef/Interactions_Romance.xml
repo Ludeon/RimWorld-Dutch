@@ -28,9 +28,12 @@
     <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
   -->
   <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
-    <li>sent->[RECIPIENT_nameDef] voelde zich aangetrokken en is nu [INITIATOR_nameDef]'s lief.</li>
-    <li>sent->[RECIPIENT_nameDef] reageerde positief en is nu [INITIATOR_nameDef]'s lief.</li>
-    <li>sent->[RECIPIENT_nameDef] werd opgewonden en stemde in om [INITIATOR_nameDef]'s lief te worden.</li>
+    <li>sent(RECIPIENT_gender==Male)->[RECIPIENT_nameDef] voelde zich aangetrokken en is nu [INITIATOR_nameDef]'s minnaar.</li>
+    <li>sent(RECIPIENT_gender==Female)->[RECIPIENT_nameDef] voelde zich aangetrokken en is nu [INITIATOR_nameDef]'s minnares.</li>
+    <li>sent(RECIPIENT_gender==Male)->[RECIPIENT_nameDef] reageerde positief en is nu [INITIATOR_nameDef]'s minnaar.</li>
+    <li>sent(RECIPIENT_gender==Female)->[RECIPIENT_nameDef] reageerde positief en is nu [INITIATOR_nameDef]'s minnares.</li>
+    <li>sent(RECIPIENT_gender==Male)->[RECIPIENT_nameDef] werd opgewonden en stemde in om [INITIATOR_nameDef]'s minnaar te worden.</li>
+    <li>sent(RECIPIENT_gender==Female)->[RECIPIENT_nameDef] werd opgewonden en stemde in om [INITIATOR_nameDef]'s minnares te worden.</li>
   </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:

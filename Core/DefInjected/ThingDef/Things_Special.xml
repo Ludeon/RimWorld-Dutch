@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: drop pod -->
-  <ActiveDropPod.label>TODO</ActiveDropPod.label>
+  <ActiveDropPod.label>transportcapsule</ActiveDropPod.label>
   
   <!-- EN: fire -->
-  <Fire.label>TODO</Fire.label>
+  <Fire.label>vuur</Fire.label>
   
   <!-- EN: spark -->
-  <Spark.label>TODO</Spark.label>
+  <Spark.label>vonk</Spark.label>
   
 </LanguageData>

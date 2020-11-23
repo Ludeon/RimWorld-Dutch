@@ -47,18 +47,16 @@
   <AteInsectMeatDirect.stages.ate_insect_meat.description>Ik heb grijs, slijmerig insectenvlees gegeten. Het was, vrij zeker, het vreselijkste wat ik ooit geproefd heb.</AteInsectMeatDirect.stages.ate_insect_meat.description>
   
   <!-- EN: ate kibble -->
-  <AteKibble.stages.ate_kibble.label>brokjes gegeten</AteKibble.stages.ate_kibble.label>
+  <AteKibble.stages.ate_kibble.label>dierenvoer gegeten</AteKibble.stages.ate_kibble.label>
   <!-- EN: I had to eat animal kibble. It's like I don't get to be human any more. -->
-  <AteKibble.stages.ate_kibble.description>Ik heb dierenbrokjes moeten eten. Het is alsof ik nauwelijks nog een mens ben.</AteKibble.stages.ate_kibble.description>
+  <AteKibble.stages.ate_kibble.description>Ik heb dierenvoer moeten eten. Het is alsof ik nauwelijks nog een mens ben.</AteKibble.stages.ate_kibble.description>
   
-  <AteLavishMeal.label>Heeft een luxe maatlijd gegeten</AteLavishMeal.label>
   <AteLavishMeal.description>Deze royale maaltijd was zó lekker. Het voedt mijn lichaam en mijn ziel.</AteLavishMeal.description>
   <!-- EN: ate lavish meal -->
   <AteLavishMeal.stages.ate_lavish_meal.label>at luxe maaltijd</AteLavishMeal.stages.ate_lavish_meal.label>
   <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
   <AteLavishMeal.stages.ate_lavish_meal.description>Deze luxe maaltijd was fantastisch. Het voedde mijn lichaam en ziel.</AteLavishMeal.stages.ate_lavish_meal.description>
   
-  <AteRawFood.label>Heeft rauw voedsel gegeten</AteRawFood.label>
   <AteRawFood.description>Ik heb rauw voedsel gegeten. Kunnen we het niet koken, of op z'n minst tot voedingspasta verwerken?</AteRawFood.description>
   <!-- EN: ate raw food -->
   <AteRawFood.stages.ate_raw_food.label>at rauw voedsel</AteRawFood.stages.ate_raw_food.label>

@@ -699,9 +699,9 @@
   <!-- EN: thought disabled by -->
   <ThoughtNullifiedBy>gedachte tegengehouden door</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Begint te verlopen in: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>Begint te verlopen over: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Stopt te verlopen in: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>Volledig verlopen over: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Drempel van extreme zenuwinzinking</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->

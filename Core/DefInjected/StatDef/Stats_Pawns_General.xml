@@ -29,7 +29,7 @@
   <!-- EN: global learning factor -->
   <GlobalLearningFactor.label>Globale leerfactor</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
-  <GlobalLearningFactor.description>Globale leereffectiviteit van een persoon.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.description>Een vermenigvuldigingsfactor op de leersnelheid van alle vaardigheden.</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
   <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
@@ -54,7 +54,7 @@
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>Zenuwinzinkinsdrempel</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>Zo lang de stemming van een persoon boven dit getal ligt, is er geen kans op een zenuwinzinking bij deze persoon.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>Zo lang de stemming van een persoon onder dit getal ligt, is er een kans op een zenuwinzinking bij deze persoon.\n\nDe ernst van de inzinking hangt af van hoe ver ze onder de drempel zijn.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>TODO</MinimumHandlingSkill.label>
@@ -64,7 +64,7 @@
   <!-- EN: move speed -->
   <MoveSpeed.label>Bewegingssnelheid</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
-  <MoveSpeed.description>De snelheid waarmee een persoon zich voortbeweegt door de wereld. Uitgedrukt in cellen per seconde</MoveSpeed.description>
+  <MoveSpeed.description>De bewegingssnelheid uitgedrukt in cellen per seconde</MoveSpeed.description>
   <!-- EN: {0} c/s -->
   <MoveSpeed.formatString>TODO</MoveSpeed.formatString>
   
@@ -76,7 +76,7 @@
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>Psychische gevoeligheid</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
-  <PsychicSensitivity.description>Gevoeligere mensen  lijden meer onder negatieve psychische effecten, en profiteren meer van positieve effecten. Hogere psychische gevoeligheid verhoogt ook de neurale warmtelimiet.</PsychicSensitivity.description>
+  <PsychicSensitivity.description>Gevoeligere mensen lijden meer onder negatieve psychische effecten, en profiteren meer van positieve effecten. Hogere psychische gevoeligheid verhoogt ook de neurale warmtelimiet.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>TODO</RestRateMultiplier.label>

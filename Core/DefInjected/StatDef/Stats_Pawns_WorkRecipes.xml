@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: butchery efficiency -->
-  <ButcheryFleshEfficiency.label>Slachteffectiviteit</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>slachteffectiviteit</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
   <ButcheryFleshEfficiency.description>Een verveelvoudiger van de hoeveelheid vlees die een persoon produceert.</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
-  <ButcheryFleshSpeed.label>Slachtsnelheid</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.label>slachtsnelheid</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
   <ButcheryFleshSpeed.description>De snelheid waarmee een persoon een wezen kan slachten.</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>Mechanoide-afbreekeffectiviteit</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>mechanoïde-afbreekeffectiviteit</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>Een verveelvoudiger van de hoeveelheid metaal die een persoon produceert als hij/zij een mechanoide afbreekt.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>De hoeveelheid materiaal die wordt geproduceerd wanneer deze persoon een dode mechanoïde afbreekt\n\nDe werkelijke hoeveelheid is ook gerelateerd aan de grootte van de mechanoïde.</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
-  <ButcheryMechanoidSpeed.label>Mechanoide-afbreeksnelheid</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>mechanoide-afbreeksnelheid</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
   <ButcheryMechanoidSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon een mechanoide kan afbreken.</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
-  <CookSpeed.label>Kooksnelheid</CookSpeed.label>
+  <CookSpeed.label>kooksnelheid</CookSpeed.label>
   <!-- EN: The speed at which this person cooks meals. -->
   <CookSpeed.description>De snelheid waarmee een persoon iets kan koken.</CookSpeed.description>
   
@@ -49,7 +49,7 @@
   <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
-  <SmeltingSpeed.label>Smeltsnelheid</SmeltingSpeed.label>
+  <SmeltingSpeed.label>smeltsnelheid</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>De snelheid waarmee een persoon sintel omsmelt in metaal.</SmeltingSpeed.description>
   

@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: wake-up -->
-  <WakeUp.label>TODO</WakeUp.label>
+  <WakeUp.label>oppepper</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
-  <WakeUp.description>TODO</WakeUp.description>
+  <WakeUp.description>Een synthetisch stimulerend middel. Een oppepper komt tegemoet aan de behoefte van de gebruiker aan rust, waardoor ze langer kunnen werken zonder moe te worden. Psycasters die een oppepper innemen halen meer psyfocus uit meditatie dan ze anders zouden doen. Als je het inneemt loop je echter het risico een verslaving te ontwikkelen.\n\nIn de meest competitieve universiteiten en bedrijven van veel werelden worden hoogpresteerders soms 'peppies' genoemd vanwege de associatie met dit medicijn.</WakeUp.description>
   <!-- EN: Take {0} -->
-  <WakeUp.ingestible.ingestCommandString>TODO</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestCommandString>Neem {0} in</WakeUp.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <WakeUp.ingestible.ingestReportString>TODO</WakeUp.ingestible.ingestReportString>
+  <WakeUp.ingestible.ingestReportString>{0} aan het innemen.</WakeUp.ingestible.ingestReportString>
   
 </LanguageData>

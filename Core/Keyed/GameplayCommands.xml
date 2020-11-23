@@ -47,7 +47,7 @@
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Schieten toegestaan</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>Schieten toestaan in/uitschakelen.\n\nWanneer uitgeschakeld, zal dit personage niet automatisch op doelwitten schieten. Dit heeft geen invloed op aanvallen van dichtbij.</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>Schieten toestaan in/uitschakelen.\n\nWanneer uitgeschakeld, zal dit personage niet automatisch op doelwitten schieten. Dit heeft geen invloed op melee aanvallen.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Verwijder geprioritiseerd werk</CommandClearPrioritizedWork>
@@ -218,9 +218,9 @@
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>Creëer een groeizone rond dit gebouw die precies overeenkomt met de vorm van de lichtstraal van de lamp.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Creëer een kweekzone rond dit gebouw die precies overeenkomt met de vorm van de lichtstraal van de lamp.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
-  <CommandSunLampMakeGrowingZoneLabel>Maak een groeizone aan</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneLabel>Maak een kweekzone aan</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
@@ -244,9 +244,9 @@
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
-  <CommandMeleeAttack>Aanval van dichtbij</CommandMeleeAttack>
+  <CommandMeleeAttack>Melee aanval</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>Beveel geselecteerde kolonisten om het aangewezen doelwit van dichtbij aan te vallen met alleen vuisten en handwapens.</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>Beveel geselecteerde kolonisten om het aangewezen doelwit in melee aan te vallen met alleen vuisten en handwapens.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->

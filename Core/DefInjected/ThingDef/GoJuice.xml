@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: go-juice -->
-  <GoJuice.label>TODO</GoJuice.label>
+  <GoJuice.label>go-sap</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities. For psycasters, the drug also instantly increases psyfocus without meditation.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
-  <GoJuice.description>TODO</GoJuice.description>
+  <GoJuice.description>Een synthetisch prestatieverhogend medicijn ontwikkeld voor ruimte-mariniers tijdens de vroege dagen van de interplanetaire oorlogsvoering. Go-sap blokkeert pijn, verhoogt de bewegingssnelheid en verbetert de slag- en schietvaardigheid van de gebruiker. Voor psycasters verhoogt het medicijn ook onmiddellijk psyfocus zonder meditatie.\n\nDe militaire chemici die het hebben gemaakt hebben de verslavende werking ervan nooit kunnen verwijderen. Sommigen zagen dit als een keerzijde; anderen zagen het als een voordeel.</GoJuice.description>
   <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>TODO</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestCommandString>Injecteer {0}</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>TODO</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>{0} aan het injecteren.</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>

@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: rest effectiveness -->
-  <BedRestEffectiveness.label>Uitrusteffectiviteit</BedRestEffectiveness.label>
+  <BedRestEffectiveness.label>effectiviteit slaap</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
   <BedRestEffectiveness.description>Hoe effectief het uitrusten in dit bed is.</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
-  <DoorOpenSpeed.label>Opensnelheid</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>opensnelheid</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
   <DoorOpenSpeed.description>De snelheid waarmee de deur zich opent.</DoorOpenSpeed.description>
   
@@ -61,7 +61,7 @@
   <WorkTableWorkSpeedFactor.description>TODO</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
-  <WorkToBuild.label>Vereiste arbeid</WorkToBuild.label>
+  <WorkToBuild.label>vereiste arbeid</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
   <WorkToBuild.description>De vereiste arbeid om dit af te maken.</WorkToBuild.description>
   

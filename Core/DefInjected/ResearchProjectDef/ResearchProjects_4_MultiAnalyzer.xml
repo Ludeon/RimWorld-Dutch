@@ -46,7 +46,7 @@
   <ReconArmor.description>Maak een verkennersharnas, een licht harnas gebruikt door verkenners die bescherming nodig hebben die hun bewegingsvrijheid niet beperkt. Let op: vereist geavanceerde componenten.</ReconArmor.description>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>Uraniumkanon</SniperTurret.label>
+  <SniperTurret.label>uraniumkanon</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
   <SniperTurret.description>Produceer automatische kanonnen die in staat zijn bepantsering te doorbreken. Het schiet stukken uranium die door plastaal scheuren alsof het papier is, maar minder effectief zijn op korte afstand.</SniperTurret.description>
   

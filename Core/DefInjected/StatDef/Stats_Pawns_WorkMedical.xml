@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: medical operation speed -->
-  <MedicalOperationSpeed.label>Medische operatiesnelheid</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.label>medische operatiesnelheid</MedicalOperationSpeed.label>
   <!-- EN: The speed at which the character performs medical operations. -->
   <MedicalOperationSpeed.description>de snelheid, waarmee een persoon een operatie uitvoert.</MedicalOperationSpeed.description>
   

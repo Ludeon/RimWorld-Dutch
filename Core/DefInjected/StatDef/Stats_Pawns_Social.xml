@@ -7,9 +7,9 @@
   <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
   
   <!-- EN: negotiation ability -->
-  <NegotiationAbility.label>Cadeau-impact</NegotiationAbility.label>
+  <NegotiationAbility.label>onderhandelingsvermogen</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>De impact die het geven van een kado door een persoon heeft op de ontvangende.</NegotiationAbility.description>
+  <NegotiationAbility.description>Hoe effectief deze persoon is als onderhandelaar.\n\nDit heeft invloed op de snelheid waarmee gevangenen worden gerekruteerd, de impact op de factierelaties bij het geven van geschenken en het resultaat van vredesbesprekingen.</NegotiationAbility.description>
   
   <!-- EN: beauty -->
   <PawnBeauty.label>TODO</PawnBeauty.label>
@@ -17,7 +17,7 @@
   <PawnBeauty.description>TODO</PawnBeauty.description>
   
   <!-- EN: social impact -->
-  <SocialImpact.label>Sociale impact</SocialImpact.label>
+  <SocialImpact.label>sociale impact</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
   <SocialImpact.description>Het effect dat een persoon uitoefent op anderen als hij met hen in gesprek is.</SocialImpact.description>
   
@@ -27,9 +27,9 @@
   <TameAnimalChance.description>TODO</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
-  <TradePriceImprovement.label>Handelsprijsverbetering</TradePriceImprovement.label>
+  <TradePriceImprovement.label>handelsprijsverbetering</TradePriceImprovement.label>
   <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
-  <TradePriceImprovement.description>Het percentage waarmee de handelaar zijn inkoop- en verkoopprijs aanpast als er met een persoon gehandelt wordt.</TradePriceImprovement.description>
+  <TradePriceImprovement.description>Wanneer deze persoon optreedt als handelaar, worden de aan- en verkoopprijzen met dit percentage verbeterd.</TradePriceImprovement.description>
   
   <!-- EN: train animal chance -->
   <TrainAnimalChance.label>TODO</TrainAnimalChance.label>

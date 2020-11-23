@@ -1,37 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <MoodOffsetDepressive.label>Depressief</MoodOffsetDepressive.label>
-  <MoodOffsetDepressive.description>Natuurlijke bonus van de eigenschap Depressief.</MoodOffsetDepressive.description>
   <!-- EN: depressive -->
   <MoodOffsetDepressive.stages.depressive.label>depressief</MoodOffsetDepressive.stages.depressive.label>
   <!-- EN: Natural penalty from 'depressive' trait. -->
-  <MoodOffsetDepressive.stages.depressive.description>Natuurlijke malus van de 'depressie' eigenschap</MoodOffsetDepressive.stages.depressive.description>
+  <MoodOffsetDepressive.stages.depressive.description>Natuurlijke malus van de eigenschap 'depressief'</MoodOffsetDepressive.stages.depressive.description>
   
-  <MoodOffsetOptimist.label>Optimist</MoodOffsetOptimist.label>
-  <MoodOffsetOptimist.description>Natuurlijke bonus van de eigenschap Optimist.</MoodOffsetOptimist.description>
-  <!-- EN: optimist -->
+s  <!-- EN: optimist -->
   <MoodOffsetOptimist.stages.optimist.label>optimist</MoodOffsetOptimist.stages.optimist.label>
   <!-- EN: Natural bonus from 'optimist' trait. -->
-  <MoodOffsetOptimist.stages.optimist.description>Natuurlijke bonus van de 'optimist' eigenschap</MoodOffsetOptimist.stages.optimist.description>
+  <MoodOffsetOptimist.stages.optimist.description>Natuurlijke bonus van de eigenschap 'optimist'</MoodOffsetOptimist.stages.optimist.description>
   
-  <MoodOffsetPessimist.label>Pessimist</MoodOffsetPessimist.label>
-  <MoodOffsetPessimist.description>Natuurlijke bonus van de eigenschap Pessimist.</MoodOffsetPessimist.description>
   <!-- EN: pessimist -->
   <MoodOffsetPessimist.stages.pessimist.label>pessimist</MoodOffsetPessimist.stages.pessimist.label>
   <!-- EN: Natural penalty from 'pessimist' trait. -->
-  <MoodOffsetPessimist.stages.pessimist.description>Natuurlijke malus van de 'pessimist' eigenschap</MoodOffsetPessimist.stages.pessimist.description>
+  <MoodOffsetPessimist.stages.pessimist.description>Natuurlijke malus van de eigenschap 'pessimist'</MoodOffsetPessimist.stages.pessimist.description>
   
-  <MoodOffsetSanguine.label>Sanguinistisch</MoodOffsetSanguine.label>
-  <MoodOffsetSanguine.description>Natuurlijke bonus van de eigenschap Sanguinistisch.</MoodOffsetSanguine.description>
   <!-- EN: sanguine -->
   <MoodOffsetSanguine.stages.sanguine.label>hoopvol</MoodOffsetSanguine.stages.sanguine.label>
   <!-- EN: Natural bonus from 'sanguine' trait. -->
-  <MoodOffsetSanguine.stages.sanguine.description>Natuurlijke bonus van de 'hoopvol' eigenschap</MoodOffsetSanguine.stages.sanguine.description>
+  <MoodOffsetSanguine.stages.sanguine.description>Natuurlijke bonus van de eigenschap 'hoopvol'</MoodOffsetSanguine.stages.sanguine.description>
   
   <!-- EN: Tortured artist -->
-  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>gemartelde kunstenaar</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>getergde kunstenaar</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
   <!-- EN: Natural penalty from 'tortured artist' trait. -->
-  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>Natuurlijke malus van de 'gemartelde kunstenaar' eigenschap.</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>Natuurlijke malus van de eigenschap 'getergde kunstenaar'.</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
   
 </LanguageData>

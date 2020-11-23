@@ -62,7 +62,7 @@
   <Pemmican.description>Maak pemmikan, een mix van gedroogd of gerookt vlees en planten die lang houdbaar zijn. Uitstekend om mee te reizen.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
-  <PenoxycylineProduction.label>Penoxycyline productie</PenoxycylineProduction.label>
+  <PenoxycylineProduction.label>penoxycyline productie</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>Produceer penoxycyline, een preventief medicijn om de pest, malaria en andere ziektes te voorkomen voordat ze beginnen.</PenoxycylineProduction.description>
   
@@ -102,8 +102,8 @@
   <TreeSowing.description>Verbouw de lokale bomen op je akkers.</TreeSowing.description>
   
   <!-- EN: wake-up production -->
-  <WakeUpProduction.label>wake-up productie</WakeUpProduction.label>
+  <WakeUpProduction.label>oppepper productie</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
-  <WakeUpProduction.description>Produceer wake-up, een werk-verbeterende drug die slaap vervangt.</WakeUpProduction.description>
+  <WakeUpProduction.description>Produceer oppeppers, een werk-verbeterende drug die slaap vervangt.</WakeUpProduction.description>
   
 </LanguageData>

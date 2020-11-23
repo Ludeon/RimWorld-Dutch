@@ -79,7 +79,7 @@
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>Stel in welke plant moet worden gekweekt</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Je kunt instellen wat er in een groeizone gekweekt moet worden. Je kunt zelfs bomen kweken!\n\nSelecteer de groeizone, open het tabblad Groeien en klik op de knop 'planten'.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>Je kunt instellen wat er in een kweekzone gekweekt moet worden. Je kunt zelfs bomen kweken!\n\nSelecteer de kweekzone, open het tabblad Groeien en klik op de knop 'planten'.</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Schildriemen</ShieldBelts.label>

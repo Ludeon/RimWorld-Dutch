@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: make kibble -->
-  <Make_Kibble.label>maak brokken</Make_Kibble.label>
+  <Make_Kibble.label>maak dierenvoer</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
-  <Make_Kibble.description>Make dieren brokken van rauw vlees en plantdelen</Make_Kibble.description>
+  <Make_Kibble.description>Maak dierenvoer van rauw vlees en plantaardige ingrediënten.</Make_Kibble.description>
   <!-- EN: Making kibble. -->
-  <Make_Kibble.jobString>Brokken maken.</Make_Kibble.jobString>
+  <Make_Kibble.jobString>Dierenvoer aan het maken.</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
   <Make_Pemmican.label>maak pemmikan</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_Pemmican.description>Pemmikan is een combinatie van vlees en plantdelen. Het smaakt niet geweldig maar blijft erg lang goed zonder koeling.</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
-  <Make_Pemmican.jobString>Pemmikan maken.</Make_Pemmican.jobString>
+  <Make_Pemmican.jobString>Pemmikan aan het maken.</Make_Pemmican.jobString>
   
   <!-- EN: make pemmican x4 -->
   <Make_PemmicanBulk.label>Maak pemmikan x4</Make_PemmicanBulk.label>
   <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_PemmicanBulk.description>Maak pemmikan in bulk, en gepreserveerde combinatie van vlees en plantaardig voedsel. Het smaakt niet geweldig, maar blijft erg lang goed zonder koeling.</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->
-  <Make_PemmicanBulk.jobString>Maak pemmikan in bulk.</Make_PemmicanBulk.jobString>
+  <Make_PemmicanBulk.jobString>Pemmikan in bulk aan het maken.</Make_PemmicanBulk.jobString>
   
 </LanguageData>

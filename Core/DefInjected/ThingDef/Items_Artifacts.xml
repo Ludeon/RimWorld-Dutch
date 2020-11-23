@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: psychic animal pulser -->
-  <PsychicAnimalPulser.label>TODO</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.label>psychische dierenpulser</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
-  <PsychicAnimalPulser.description>TODO</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>Een eenmalige breedgolf psychisch wapen. De psychische puls vult lagere geesten met angstaanjagende beelden, waardoor alle dieren in de regio tot een klopjachtwoede worden gedreven. Dieren die momenteel onder jouw controle staan, worden niet beïnvloed.</PsychicAnimalPulser.description>
   <!-- EN: Activate -->
-  <PsychicAnimalPulser.comps.CompUsable.useLabel>TODO</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>Activeer</PsychicAnimalPulser.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
-  <PsychicSoothePulser.label>TODO</PsychicSoothePulser.label>
+  <PsychicSoothePulser.label>psychische kalmtepulser</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>TODO</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>Een eenmalige breedgolf psychische effector. De psychische puls veroorzaakt bevredigende perceptuele verstoringen, waardoor iedereen in de regio een tijdelijke stemmingsverbetering krijgt.</PsychicSoothePulser.description>
   <!-- EN: Activate -->
-  <PsychicSoothePulser.comps.CompUsable.useLabel>TODO</PsychicSoothePulser.comps.CompUsable.useLabel>
+  <PsychicSoothePulser.comps.CompUsable.useLabel>Activeer</PsychicSoothePulser.comps.CompUsable.useLabel>
   
 </LanguageData>

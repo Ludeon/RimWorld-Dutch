@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>Schoonheid</Beauty.label>
+  <Beauty.label>schoonheid</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>Hoe fijn het is om een object te zien en in de buurt te hebben.</Beauty.description>
   
@@ -24,7 +24,7 @@
   <DeteriorationRate.formatString>TODO</DeteriorationRate.formatString>
   
   <!-- EN: flammability -->
-  <Flammability.label>Brandbaarheid</Flammability.label>
+  <Flammability.label>brandbaarheid</Flammability.label>
   <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
   <Flammability.description>Hoe makkelijk een voorwerp in brand vliegt en hoe snel het verbrandt.</Flammability.description>
   
@@ -36,7 +36,7 @@
   <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
-  <MarketValue.label>Marktwaarde</MarketValue.label>
+  <MarketValue.label>marktwaarde</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>De marktwaarde van een object.</MarketValue.description>
   

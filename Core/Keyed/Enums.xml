@@ -57,7 +57,7 @@
   <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>sterke drank</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>brokken</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>dierenvoer</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->

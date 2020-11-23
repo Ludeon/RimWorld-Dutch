@@ -74,17 +74,17 @@
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Vriendschappelijk vuur</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>Geallieerden die dicht bij elkaar staan, kunnen elkaar geen kwaad doen.\n\nZo kun je bijvoorbeeld een zwaardvechter direct voor een schutter plaatsen. De schutter schiet over de schouder van zijn vriend.\n\nOp deze manier kunt u vechters en schutters goed combineren.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Geallieerden die dicht bij elkaar staan, kunnen elkaar geen kwaad doen.\n\nZo kun je bijvoorbeeld een zwaardvechter direct voor een schutter plaatsen. De schutter schiet over de schouder van zijn vriend.\n\nOp deze manier kun je vechters en schutters goed combineren.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>Meer handelaren verkrijgen</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>Er komen meer koopvaardijkaravanen bij je langs als je met meer bondgenootschappen hebt.\n\nAls je geen bondgenoten hebt, komen er nooit karavanen op bezoek!\n\nJe kunt ook bondgenoten betalen om handelskaravanen te sturen door ze te bellen op de communicatieconsole.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>Er komen meer handelskaravanen bij je langs als je meer bondgenootschappen hebt.\n\nAls je geen bondgenoten hebt, komen er nooit karavanen op bezoek!\n\nJe kunt ook bondgenoten betalen om handelskaravanen te sturen door ze te bellen met het communicatiepaneel.</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
-  <GrowingFood.label>Groeizones</GrowingFood.label>
+  <GrowingFood.label>kweekzones</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>Om voedsel te verbouwen, plaatst je GROEIZONES via het bouwmenu.\n\nZe kunnen alleen op vruchtbare grond worden geplaatst.</GrowingFood.helpText>
+  <GrowingFood.helpText>Om voedsel te verbouwen, plaatst je kweekzoneS via het bouwmenu.\n\nZe kunnen alleen op vruchtbare grond worden geplaatst.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
   <HistoryTab.label>Tabblad Geschiedenis</HistoryTab.label>
@@ -149,7 +149,7 @@
   <!-- EN: Stockpiles -->
   <Stockpiles.label>Voorraden</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>Je kolonisten moeten de items ergens opslaan. Definieer een OPSLAGPLAATS waar je items kunt opslaan.\n\nOm dit te doen, opent je linksonder het BOUWmenu, klik je op 'Zone/gebied' en selecteer je de knop 'Opslagzone'.</Stockpiles.helpText>
+  <Stockpiles.helpText>Je kolonisten moeten de items ergens opslaan. Definieer een OPSLAGPLAATS waar je items kunt opslaan.\n\nOm dit te doen, opent je linksonder het BOUWmenu, klik je op 'Zone' en selecteer je de knop 'Opslagzone'.</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
   <StorageTab.label>Tabblad Opslag</StorageTab.label>

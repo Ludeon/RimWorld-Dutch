@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: signal action - ambush -->
-  <SignalAction_Ambush.label>TODO</SignalAction_Ambush.label>
+  <SignalAction_Ambush.label>signaalactie - verrassingsaanval</SignalAction_Ambush.label>
   
   <!-- EN: signal action - letter -->
-  <SignalAction_Letter.label>TODO</SignalAction_Letter.label>
+  <SignalAction_Letter.label>signaalactie - brief</SignalAction_Letter.label>
   
 </LanguageData>

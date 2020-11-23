@@ -26,7 +26,7 @@
   <!-- EN: colonist organ-harvested -->
   <KnowColonistExecuted.stages.colonist_organharvested.label>organen geoogst van kolonist</KnowColonistExecuted.stages.colonist_organharvested.label>
   <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
-  <KnowColonistExecuted.stages.colonist_organharvested.description>Een kolonist is overledenm omdat iemand lichaamsdelen van hem afnam. Het is vreselijk.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>Een kolonist is overleden omdat iemand lichaamsdelen van hem afnam. Het is vreselijk.</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
   <KnowGuestExecuted.stages.justified_execution.label>gerechtvaardigd executie</KnowGuestExecuted.stages.justified_execution.label>
@@ -123,12 +123,12 @@
   <!-- EN: my nephew {0} died -->
   <MyNephewDied.stages.my_nephew_died.label>mijn neefje {0} is overleden</MyNephewDied.stages.my_nephew_died.label>
   <!-- EN: My nephew died. Such a wonderful child. -->
-  <MyNephewDied.stages.my_nephew_died.description>Mijn neefje is overleden. Wat een heerlijk kind.</MyNephewDied.stages.my_nephew_died.description>
+  <MyNephewDied.stages.my_nephew_died.description>Mijn neefje is overleden. Het was zo'n geweldig kind.</MyNephewDied.stages.my_nephew_died.description>
   
   <!-- EN: my niece {0} died -->
   <MyNieceDied.stages.my_niece_died.label>mijn nichtje {0} is overleden</MyNieceDied.stages.my_niece_died.label>
   <!-- EN: My niece died. Such a wonderful child. -->
-  <MyNieceDied.stages.my_niece_died.description>Mijn nichtje is overleden. Wat een heerlijk kind.</MyNieceDied.stages.my_niece_died.description>
+  <MyNieceDied.stages.my_niece_died.description>Mijn nichtje is overleden. Het was zo'n geweldig kind.</MyNieceDied.stages.my_niece_died.description>
   
   <!-- EN: my sister {0} died -->
   <MySisterDied.stages.my_sister_died.label>mijn zus {0} is overleden</MySisterDied.stages.my_sister_died.label>

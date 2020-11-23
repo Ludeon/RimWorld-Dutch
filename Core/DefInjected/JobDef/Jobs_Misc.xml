@@ -5,7 +5,7 @@
   <ApplyTechprint.reportString>TargetB aan het toepassen.</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>TargetA met de hand aan het aanvallen.</AttackMelee.reportString>
+  <AttackMelee.reportString>TargetA in melee aan het aanvallen.</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
   <AttackStatic.reportString>TargetA aan het aanvallen.</AttackStatic.reportString>

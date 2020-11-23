@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: kibble -->
-  <Kibble.label>TODO</Kibble.label>
+  <Kibble.label>dierenvoer</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>TODO</Kibble.description>
+  <Kibble.description>Diervoeder gemaakt van gemengd vlees en plantaardige ingrediënten. Mensen kunnen het eten, maar ze lusten het absoluut niet.</Kibble.description>
   
   <!-- EN: fine meal -->
-  <MealFine.label>TODO</MealFine.label>
+  <MealFine.label>lekkere maaltijd</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>TODO</MealFine.description>
+  <MealFine.description>Een complex gerecht dat met zorg is samengesteld uit verschillende ingrediënten.</MealFine.description>
   
   <!-- EN: lavish meal -->
-  <MealLavish.label>TODO</MealLavish.label>
+  <MealLavish.label>luxe maaltijd</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>TODO</MealLavish.description>
+  <MealLavish.description>Deze maaltijd is een meesterwerk van de culinaire kunsten en voedt lichaam, geest en ziel.</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
   <MealNutrientPaste.label>voedingspasta maaltijd</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
+  <MealNutrientPaste.description>Een synthetisch mengsel van eiwitten, koolhydraten en vitamines, aminozuren en mineralen. Het bevat alles wat het lichaam nodig heeft, en is absoluut walgelijk.</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
-  <MealSimple.label>TODO</MealSimple.label>
+  <MealSimple.label>eenvoudige maaltijd</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>TODO</MealSimple.description>
+  <MealSimple.description>Een eenvoudige maaltijd, snel bereid uit één hoofdingrediënt.</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
-  <MealSurvivalPack.label>Overlevingsmaaltijdpakket</MealSurvivalPack.label>
+  <MealSurvivalPack.label>overlevingsmaaltijdpakket</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
   <MealSurvivalPack.description>Een maaltijd van hoge kwaliteit, geconserveerd voor het gebruik in survival situaties. Alhoewel het nooit zal verroten, kan de verpakking vergaan als het buiten wordt opgeslagen. Uitstekend geschikt om mee op reis te nemen.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>pemmikan</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Een geconserveerde puree van vet en plantaardig voedsel. Smaakt flets, maar niet aanstootgevend. Het gaat erg lang mee zonder koeling. Goed als proviand op reis.</Pemmican.description>
   
 </LanguageData>

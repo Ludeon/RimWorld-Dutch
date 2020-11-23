@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>Richttijd</AimingDelayFactor.label>
+  <AimingDelayFactor.label>miktijd</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>Hoelang het richten duurt, voordat er geschoten wordt.</AimingDelayFactor.description>
+  <AimingDelayFactor.description>Hoelang het mikken duurt, voordat er geschoten wordt.</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
   <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
@@ -27,9 +27,9 @@
   <MeleeDPS.description>TODO</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>Trefwaarschijnlijkheid in een vuistgevecht</MeleeHitChance.label>
+  <MeleeHitChance.label>trefwaarschijnlijkheid in een melee-gevecht</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>De basiswaarschijnlijkheid iets te raken in een vuistgevecht.</MeleeHitChance.description>
+  <MeleeHitChance.description>De kans om een doelwit te raken in een meleegevecht.\n\nHet doelwit kan de aanval nog steeds ontwijken, zelfs als hij normaliter zou hebben geraakt.</MeleeHitChance.description>
   
   <!-- EN: trap spring chance -->
   <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>

@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: beer -->
-  <Beer.label>TODO</Beer.label>
+  <Beer.label>bier</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>TODO</Beer.description>
+  <Beer.description>De eerste drank, behalve dan water, die door de mensheid werd gedronken. Bier kan goed smaken, maar het belangrijkste effect is bedwelming. Overmatig gebruik kan leiden tot blackouts en, na verloop van tijd, tot verslaving.</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>TODO</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>TODO</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>{0} aan het drinken.</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
-  <Beer.tools.bottle.label>TODO</Beer.tools.bottle.label>
+  <Beer.tools.bottle.label>fles</Beer.tools.bottle.label>
   <!-- EN: neck -->
-  <Beer.tools.neck.label>TODO</Beer.tools.neck.label>
+  <Beer.tools.neck.label>hals</Beer.tools.neck.label>
   
   <!-- EN: wort -->
-  <Wort.label>TODO</Wort.label>
+  <Wort.label>wort</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>TODO</Wort.description>
+  <Wort.description>Ongegist bier. Deze stof moet in een gistvat gisten voordat het drinkbaar bier wordt.</Wort.description>
   
 </LanguageData>

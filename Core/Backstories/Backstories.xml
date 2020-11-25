@@ -4,9 +4,9 @@
 	<!-- Tribal_Child -->
 	<AbandonedChild23>
 		<!-- EN: abandoned child -->
-		<title>Achtergelaten kind</title>
+		<title>achtergelaten kind</title>
 		<!-- EN: abandoned -->
-		<titleShort>Achtergelaten</titleShort>
+		<titleShort>achtergelaten</titleShort>
 		<!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
 		<desc>[PAWN_nameDef] werd ziekelijk geboren. In de veronderstelling dat [PAWN_pronoun] de stam alleen maar zou belasten, lieten [PAWN_possessive] ouders [PAWN_objective] over aan het lot. Op de een of andere manier overleefde [PAWN_pronoun].</desc>
 	</AbandonedChild23>
@@ -14,1687 +14,1698 @@
 	<!-- Offworld_Nonspecific_Adult -->
 	<Actor72>
 		<!-- EN: actor -->
-		<title>Acteur</title>
+		<title>acteur</title>
+		<titleFemale>actrice</titleFemale>
 		<!-- EN: actor -->
-		<titleShort>Acteur</titleShort>
+		<titleShort>acteur</titleShort>
+		<titleShortFemale>actrice</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] travelled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
-		<desc>[PAWN_nameDef] reisde met een gezelschap van acteurs naar [PAWN_possessive] thuiswereld en speelde overal in volgepakte theaters en liefdevol publiek. [PAWN_pronoun] was een perfectionist, en maakte [PAWN_possessive] eigen rekwisieten en kostuums in plaats van die te gebruiken die [PAWN_pronoun] werden gegeven.</desc>
+		<desc>[PAWN_nameDef] reisde in een gezelschap van acteurs en speelde overal in volgepakte theaters voor liefdevol publiek. [PAWN_pronoun] was een perfectionist, en maakte [PAWN_possessive] eigen rekwisieten en kostuums in plaats van die te gebruiken die [PAWN_pronoun] werden gegeven.</desc>
 	</Actor72>
 
 	<!-- Offworld_Specific_Child -->
 	<ApocalypseSurvivor23>
 		<!-- EN: apocalypse survivor -->
-		<title>TODO</title>
+		<title>overlevende van de apocalyps</title>
 		<!-- EN: survivor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>overlevende</titleShort>
 		<!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to to survive. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren in een tijd van onrust op [PAWN_possessive] thuiswereld, toen de klimaatverandering massale hongersnood en overstromingen dreigde te veroorzaken. Terwijl [PAWN_pronoun] opgroeide verslechterde de situatie - miljarden stierven en vreedzame staten vervielen in anarchie. [PAWN_nameDef] en [PAWN_possessive] ouders deden wat ze moesten doen om te overleven.</desc>
 	</ApocalypseSurvivor23>
 
 	<!-- Tribal_Adult -->
 	<Archer25>
 		<!-- EN: archer -->
-		<title>TODO</title>
+		<title>boogschutter</title>
 		<!-- EN: archer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>boogschutter</titleShort>
 		<!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] vocht voor de [PAWN_possessive] stam. [PAWN_pronoun] is gespecialiseerd in het gebruik van bogen, pila en andere afstandswapens.</desc>
 	</Archer25>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<Architect28>
 		<!-- EN: architect -->
-		<title>TODO</title>
+		<title>architect</title>
 		<!-- EN: architect -->
-		<titleShort>TODO</titleShort>
+		<titleShort>architect</titleShort>
 		<!-- EN: [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] heeft gebouwen ontworpen en gebouwd. Op [PAWN_possessive] glitterwereld home werden de meeste technische aspecten van architectuur afgehandeld door een AI. Dit stelde [PAWN_objective] in staat om de artistieke grenzen van het ambacht te verleggen, maar het betekende ook dat [PAWN_pronoun] nooit [PAWN_possessive] handen vuil hoefde te maken op bouwplaatsen.</desc>
 	</Architect28>
 
 	<!-- ImperialFighter_Adult -->
 	<Artilleryman28>
 		<!-- EN: artilleryman -->
-		<title>TODO</title>
+		<title>artillerist</title>
 		<!-- EN: artillerywoman -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>artillerist</titleFemale>
 		<!-- EN: artilleer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>artillerist</titleShort>
 		<!-- EN: [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] laadde granaten en richtte artillerie om de vijanden van [PAWN_possessive] leger van ver te beschieten.</desc>
 	</Artilleryman28>
 
 	<!-- ImperialRoyal_Adult -->
 	<ArtsPatron54>
 		<!-- EN: arts patron -->
-		<title>TODO</title>
+		<title>kunstpatron</title>
 		<!-- EN: patron -->
-		<titleShort>TODO</titleShort>
+		<titleShort>patron</titleShort>
 		<!-- EN: [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] beheerde de investeringen van [PAWN_possessive] familie in de kunsten.\n\n[PAWN_pronoun] koos artiesten uit om financieel te steunen en werkte met hen samen om de kunst te produceren die [PAWN_possessive] familie, de keizerlijke kerk en het rijk zelf het meest zouden verheerlijken.</desc>
 	</ArtsPatron54>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<AsceticPriest84>
 		<!-- EN: ascetic priest -->
-		<title>TODO</title>
+		<title>ascetische priester</title>
+		<titleFemale>ascetische priesteres</titleFemale>
 		<!-- EN: priest -->
-		<titleShort>TODO</titleShort>
+		<titleShort>priester</titleShort>
+		<titleShortFemale>priesteres</titleShortFemale>
 		<!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-		<desc>TODO</desc>
+		<desc>Na een gelofte van stilte te hebben afgelegd, sloot [PAWN_nameDef] zich aan bij een klooster om [PAWN_possessive] dagen in stille contemplatie door te brengen.\n\n[PAWN_pronoun] vond geluk door groenten te verbouwen in de tuin en kaas te maken in de kloosterkelders.</desc>
 	</AsceticPriest84>
 
 	<!-- Pirate_Adult -->
 	<Assassin20>
 		<!-- EN: assassin -->
-		<title>TODO</title>
+		<title>sluipmoordenaar</title>
 		<!-- EN: assassin -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sluipmoordenaar</titleShort>
 		<!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een professionele huurmoordenaar. [PAWN_pronoun] was koud en berekenend, en verdiende goed. In deze branche was een totaal gebrek aan empathie een pluspunt.</desc>
 	</Assassin20>
 
 	<!-- ImperialCommon_Adult -->
 	<Assembler69>
 		<!-- EN: assembler -->
-		<title>TODO</title>
+		<title>monteur</title>
 		<!-- EN: assembler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>monteur</titleShort>
 		<!-- EN: [PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte aan assemblagelijnen in de fabriek en stelde producten samen met behulp van robots.</desc>
 	</Assembler69>
 
 	<!-- ImperialCommon_Adult -->
 	<BalletDancer81>
 		<!-- EN: ballet dancer -->
-		<title>TODO</title>
+		<title>balletdanser</title>
 		<!-- EN: dancer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>danser</titleShort>
 		<!-- EN: ballerina -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>ballerina</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een {PAWN_gender ? danser : ballerina} in een traditionele balletgroep. [PAWN_pronoun] beheerste de oude bewegingen en vermaakte duizenden mensen.</desc>
 	</BalletDancer81>
 
 	<!-- Tribal_Adult -->
 	<Banished68>
 		<!-- EN: banished -->
-		<title>TODO</title>
+		<title>balling</title>
 		<!-- EN: banished -->
-		<titleShort>TODO</titleShort>
+		<titleShort>balling</titleShort>
 		<!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
-		<desc>TODO</desc>
+		<desc>De stam van [PAWN_nameDef] heeft [PAWN_objective] verbannen na een bloedig dispuut. [PAWN_pronoun] leefde lange tijd alleen in de wildernis.</desc>
 	</Banished68>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Bartender62>
 		<!-- EN: bartender -->
-		<title>TODO</title>
+		<title>bartender</title>
 		<!-- EN: barkeep -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bartender</titleShort>
 		<!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte als bartender in een louche tent. Het werk bestond uit het mixen van drankjes, het toepassen van diplomatie, en het inslaan van hersenpannen.</desc>
 	</Bartender62>
 
 	<!-- ImperialRoyal_Adult -->
 	<Beastmaster67>
 		<!-- EN: beastmaster -->
-		<title>TODO</title>
+		<title>dierentemmer</title>
 		<!-- EN: beastmaster -->
-		<titleShort>TODO</titleShort>
+		<titleShort>dierentemmer</titleShort>
 		<!-- EN: [PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.\n\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did. -->
-		<desc>TODO</desc>
+		<desc>Het gezin van [PAWN_nameDef] had meer kinderen dan ze de titels hadden om over te erven. Omdat [PAWN_pronoun] een lage rang had in de geboortevolgorde, kreeg [PAWN_nameDef] de eretitel van dierentemmer.\n\n[PAWN_nameDef] beheerde de uitgebreide menagerie van de familie. Hoewel [PAWN_pronoun] nooit hands-on met de beesten werkte, bouwde [PAWN_pronoun] een band met hen op. Weinig anderen waardeerden [PAWN_objective] zoals zij dat deden.</desc>
 	</Beastmaster67>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<BiosphereManager95>
 		<!-- EN: biosphere manager -->
-		<title>TODO</title>
+		<title>biosfeermanager</title>
 		<!-- EN: botanist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>botanist</titleShort>
 		<!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] leefde op een vreedzame glitterwereld waar al het ondergeschikte werk werd gedaan door robots, terwijl mensen zich wijdden aan vrije tijd. [PAWN_pronoun] beheerde het planten- en dierenleven van een uitgestrekt park, waar de burgers de natuurlijke schoonheid kwamen bewonderen.</desc>
 	</BiosphereManager95>
 
 	<!-- Offworld_Medieval_Adult -->
 	<Blacksmith72>
 		<!-- EN: blacksmith -->
-		<title>TODO</title>
+		<title>smid</title>
 		<!-- EN: blacksmith -->
-		<titleShort>TODO</titleShort>
+		<titleShort>smid</titleShort>
 		<!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-		<desc>TODO</desc>
+		<desc>Als smid op een middeleeuwse wereld verdiende [PAWN_nameDef] een reputatie met de hoge kwaliteit van [PAWN_possessive] werk. [PAWN_pronoun] was ook niet slecht in het gebruik van [PAWN_pronoun] gesmede zwaarden.</desc>
 	</Blacksmith72>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Bodyguard58>
 		<!-- EN: bodyguard -->
-		<title>TODO</title>
+		<title>bodyguard</title>
 		<!-- EN: bodyguard -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bodyguard</titleShort>
 		<!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] beschermde degenen die [PAWN_objective] betaalde. [PAWN_pronoun] verwierf vaardigheid in veel verschillende gevechtsvormen, en stond bekend om [PAWN_possessive] meedogenloosheid tegen degenen die [PAWN_objective] verkeerd lagen.</desc>
 	</Bodyguard58>
 
 	<!-- Tribal_Child -->
 	<Bookworm19>
 		<!-- EN: bookworm -->
-		<title>TODO</title>
+		<title>boekenwurm</title>
 		<!-- EN: bookworm -->
-		<titleShort>TODO</titleShort>
+		<titleShort>boekenwurm</titleShort>
 		<!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
-		<desc>TODO</desc>
+		<desc>In plaats van om te gaan met de andere kinderen, verkoos [PAWN_nameDef] zich te verdiepen in de literatuur. [PAWN_pronoun] leerde zichzelf al op jonge leeftijd lezen met boeken die waren gekocht van passerende handelaren.</desc>
 	</Bookworm19>
 
 	<!-- Tribal_Adult -->
 	<Brave88>
 		<!-- EN: brave -->
-		<title>TODO</title>
+		<title>krijger</title>
 		<!-- EN: brave -->
-		<titleShort>TODO</titleShort>
+		<titleShort>krijger</titleShort>
 		<!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] hanteerde ikwa's, bijlen, knuppels en andere wapens tijdens gevechten voor [PAWN_possessive] stam.</desc>
 	</Brave88>
 
 	<!-- ImperialFighter_Adult -->
 	<BrokenSoldier29>
 		<!-- EN: broken soldier -->
-		<title>TODO</title>
+		<title>gebroken soldaat</title>
 		<!-- EN: soldier -->
-		<titleShort>TODO</titleShort>
+		<titleShort>soldaat</titleShort>
 		<!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_pronoun] was een sterke soldaat in een lange opvolgingsoorlog. In [PAWN_possessive] laatste gevecht werd [PAWN_possessive] eenheid opgeofferd om een terugtocht te dekken. [PAWN_nameDef] zag [PAWN_possessive] kameraden sterven en was de enige overlevende.\n\nDe ervaring brak [PAWN_objective] van binnen, waardoor [PAWN_pronoun] nu de mentale strategieën ontbeert om [PAWN_possessive] emoties te matigen.\n\n[PAWN_nameDef] leerde tekenen in het ziekenhuis.</desc>
 	</BrokenSoldier29>
 
 	<!-- Tribal_Child -->
 	<BuddingArtist44>
 		<!-- EN: budding artist -->
-		<title>TODO</title>
+		<title>artiest in de dop</title>
 		<!-- EN: artist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>artiest</titleShort>
 		<!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had een talent voor kunst. Handelaren en verzamelaars uit veel verschillende samenlevingen waren bereid [PAWN_possessive] creaties te kopen.</desc>
 	</BuddingArtist44>
 
 	<!-- ImperialCommon_Adult -->
 	<Builder96>
 		<!-- EN: builder -->
-		<title>TODO</title>
+		<title>bouwvakker</title>
 		<!-- EN: builder -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bouwvakker</titleShort>
 		<!-- EN: [PAWN_nameDef] worked on construction sites, building everyday structures according to [PAWN_possessive] boss' instructions. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte op bouwplaatsen en bouwde alledaagse constructies volgens de instructies van [PAWN_possessive] baas.</desc>
 	</Builder96>
 
 	<!-- Tribal_Child -->
 	<Bully70>
 		<!-- EN: bully -->
-		<title>TODO</title>
+		<title>pestkop</title>
 		<!-- EN: bully -->
-		<titleShort>TODO</titleShort>
+		<titleShort>pestkop</titleShort>
 		<!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] kwelde andere kinderen voor de lol. Om [PAWN_objective] bezig te houden, wees een ouderling op jonge leeftijd [PAWN_objective] toe aan een jachtgezelschap.</desc>
 	</Bully70>
 
 	<!-- Tribal_Adult -->
 	<Carver1>
 		<!-- EN: carver -->
-		<title>TODO</title>
+		<title>houtsnijder</title>
 		<!-- EN: carver -->
-		<titleShort>TODO</titleShort>
+		<titleShort>houtsnijder</titleShort>
 		<!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] sneed kunstwerken voor [PAWN_possessive] stam uit hout, steen en af en toe meer exotische materialen. Het werk werd soms verkocht en soms gehouden om nederzettingen te verfraaien en een focus te bieden voor rituelen.</desc>
 	</Carver1>
 
 	<!-- Offworld_Specific_Adult -->
 	<Castaway57>
 		<!-- EN: castaway -->
-		<title>TODO</title>
+		<title>schipbreukeling</title>
 		<!-- EN: castaway -->
-		<titleShort>TODO</titleShort>
+		<titleShort>schipbreukeling</titleShort>
 		<!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was de enige overlevende van een schipcrash op een onbewoonde dierenwereld. Jarenlang, totdat [PAWN_possessive] werd gered, schraapte [PAWN_pronoun] een bestaan samen uit alles wat [PAWN_pronoun] maar kon vinden.\n\n[PAWN_possessive] overlevingsvaardigheden werden vlijmscherp, maar na zo lang alleen te zijn geweest zijn [PAWN_possessive] gespreksvaardigheden ernstig verminderd.</desc>
 	</Castaway57>
 
 	<!-- Tribal_Child -->
 	<CaveChild30>
 		<!-- EN: cave child -->
-		<title>TODO</title>
+		<title>grottenkind</title>
 		<!-- EN: cave child -->
-		<titleShort>TODO</titleShort>
+		<titleShort>grottenkind</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in een groot en ingewikkeld grottencomplex dat zich tot diep in een berghelling uitstrekte. [PAWN_pronoun] hielp de volwassenen de diepe grotten te onderhouden en te verbeteren.</desc>
 	</CaveChild30>
 
 	<!-- Offworld_Specific_Adult -->
 	<CaveworldIlluminator23>
 		<!-- EN: caveworld illuminator -->
-		<title>TODO</title>
+		<title>grottenwereld verlichter</title>
 		<!-- EN: illuminator -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verlichter</titleShort>
 		<!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]’s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
-		<desc>TODO</desc>
+		<desc>Onder tunnelbewoners worden degenen met een visie zo sterk als die van [PAWN_nameDef] vereerd als wijzen. [PAWN_pronoun] zou de weg wijzen, plaatsen waar moest worden gegraven markeren met lichtgevende schimmel en anderen waarschuwen voor dreigend gevaar.</desc>
 	</CaveworldIlluminator23>
 
 	<!-- Offworld_Specific_Child -->
 	<CaveworldTender20>
 		<!-- EN: caveworld tender -->
-		<title>TODO</title>
+		<title>grottenwereld beheerder</title>
 		<!-- EN: cave kid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>grottenkind</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up in cave complex deep beneath the surface of an inhospitable world. [PAWN_pronoun] worked with the other children tending the tribe’s fungus crops. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in grottencomplex diep onder het oppervlak van een onherbergzame wereld. [PAWN_pronoun] werkte samen met de andere kinderen om de schimmelgewassen van de stam te beheren.</desc>
 	</CaveworldTender20>
 
 	<!-- Offworld_Specific_Child -->
 	<CaveworldTunneler48>
 		<!-- EN: caveworld tunneler -->
-		<title>TODO</title>
+		<title>grottenwereld tunnelgraver</title>
 		<!-- EN: tunneler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>tunnelgraver</titleShort>
 		<!-- EN: [PAWN_nameDef] worked as a digger in the massive underground cave complex.\n\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can almost navigate caves by smell. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte als een tunnelgraver in een enorm ondergronds grottencomplex.\n\n[PAWN_pronoun] kent rots zo goed dat [PAWN_pronoun] haast op geur door grotten kan navigeren.</desc>
 	</CaveworldTunneler48>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<CharityWorker36>
 		<!-- EN: charity worker -->
-		<title>TODO</title>
+		<title>vrijwilligerswerker</title>
 		<!-- EN: altruist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>altruïst</titleShort>
 		<!-- EN: Glitterworlds are havens of safety and comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore nearby planets where people suffered in poverty. [PAWN_pronoun] spent [PAWN_possessive] working life appealing for donations and supporting those in need. -->
-		<desc>TODO</desc>
+		<desc>Glitterwerelden zijn enclaves van veiligheid en comfort voor degenen die het geluk hebben er te wonen, maar [PAWN_nameDef] kon de nabijgelegen planeten, waar mensen in armoede leden, niet negeren. [PAWN_pronoun] bracht [PAWN_possessive] werkend leven door met het ophalen van donaties en het ondersteunen van mensen in nood.</desc>
 	</CharityWorker36>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Chef52>
 		<!-- EN: chef -->
-		<title>TODO</title>
+		<title>chef</title>
 		<!-- EN: chef -->
-		<titleShort>TODO</titleShort>
+		<titleShort>chef</titleShort>
 		<!-- EN: [PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] runde een eersteklas restaurant. [PAWN_pronoun] werd beroemd onder de klandizie door [PAWN_possessive] creatieve culinaire specialiteiten, en berucht onder het keukenpersoneel vanwege [PAWN_possessive] open minachting voor handmatig werk.</desc>
 	</Chef52>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<ChildSpy47>
 		<!-- EN: child spy -->
-		<title>TODO</title>
+		<title>kindspion</title>
 		<!-- EN: spy -->
-		<titleShort>TODO</titleShort>
+		<titleShort>spion</titleShort>
 		<!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
-		<desc>TODO</desc>
+		<desc>Kinderen worden verondersteld onschuldig te zijn, wat hen tot uitstekende spionnen maakt. [PAWN_nameDef] werd getraind in de kunst van het infiltreren toen [PAWN_pronoun] nog maar een klein kind was.\n\n[PAWN_possessive] jaren undercover gaven [PAWN_objective] ervaring met sociale manipulatie en leugens, maar [PAWN_pronoun] heeft nooit een normale opleiding gehad.</desc>
 	</ChildSpy47>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<ChildStar74>
 		<!-- EN: child star -->
-		<title>TODO</title>
+		<title>kind-ster</title>
 		<!-- EN: star -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ster</titleShort>
 		<!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was in [PAWN_possessive] thuiswereld bekend als kindacteur in films en tv-shows. [PAWN_possessive] roem bracht [PAWN_objective] in contact met veel verschillende soorten mensen, maar stond ook [PAWN_possessive] onderwijs in de weg.</desc>
 	</ChildStar74>
 
 	<!-- ImperialCommon_Adult -->
 	<ChurchPsychic98>
 		<!-- EN: church psychic -->
-		<title>TODO</title>
+		<title>kerkbegaafde</title>
 		<!-- EN: psychic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>begaafde</titleShort>
 		<!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een paranormaal begaafd persoon in de paranormale school van de keizerlijke kerk.\n\n [PAWN_nameDef] trainde [PAWN_possessieve] geest om de collectieve emoties en indrukken van de mensen te kunnen voelen. Het was een manier om de geest van het rijk zelf waar te nemen. Het was ook een manier om ketterse gedachtentrends uit te roeien.</desc>
 	</ChurchPsychic98>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<CivilServant2>
 		<!-- EN: civil servant -->
-		<title>TODO</title>
+		<title>ambtenaar</title>
 		<!-- EN: bureaucrat -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bureaucraat</titleShort>
 		<!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte als een laaggeplaatste bestuurder voor een stervende overheidsbureaucratie. [PAWN_pronoun] is het meest thuis met het invullen van ingewikkeld papierwerk en het bedrijven van kantoorpolitiek.</desc>
 	</CivilServant2>
 
 	<!-- Offworld_Specific_Adult -->
 	<ColonySettler53>
 		<!-- EN: colony settler -->
-		<title>TODO</title>
+		<title>kolonist</title>
 		<!-- EN: settler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kolonist</titleShort>
 		<!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een kolonist op een nieuwe kolonie-wereld.\n\nZo'n leven vereist een manusje-van-alles bij elementaire praktische taken.</desc>
 	</ColonySettler53>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<ComaChild57>
 		<!-- EN: coma child -->
-		<title>TODO</title>
+		<title>comakind</title>
 		<!-- EN: coma child -->
-		<titleShort>TODO</titleShort>
+		<titleShort>comakind</titleShort>
 		<!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
-		<desc>TODO</desc>
+		<desc>Door een kinderongeval raakte [PAWN_nameDef] in coma. [PAWN_pronoun] werd pas wakker toen [PAWN_pronoun] in [PAWN_possessive] late tienerjaren was. [PAWN_possessive] lichaam is nooit hersteld van de jaren van inactiviteit, maar mensen hebben de neiging medelijden met [PAWN_objective] te hebben wanneer ze het [PAWN_possessive] verhaal horen.</desc>
 	</ComaChild57>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<ConArtist80>
 		<!-- EN: con artist -->
-		<title>TODO</title>
+		<title>oplichter</title>
 		<!-- EN: con artist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>oplichter</titleShort>
 		<!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] heeft nooit iets gecreëerd in [PAWN_possessive] leven. [PAWN_pronoun] bleek echter een natuurlijke aanleg te hebben om anderen ertoe te brengen [PAWN_objective] te geven wat zij hadden gecreëerd.</desc>
 	</ConArtist80>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<ConceptualArtist39>
 		<!-- EN: conceptual artist -->
-		<title>TODO</title>
+		<title>conceptueel kunstenaar</title>
 		<!-- EN: artist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kunstenaar</titleShort>
 		<!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was bekend in kunstkringen op [PAWN_possessive] thuiswereld om [PAWN_possessive] unieke en creatieve conceptuele kunstwerken.\n\nNiemand wist precies wat [PAWN_pronoun] probeerde over te brengen, maar [PAWN_possessive] stukken werden zeer gewaardeerd door verzamelaars.</desc>
 	</ConceptualArtist39>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<ConstructionEngineer32>
 		<!-- EN: construction engineer -->
-		<title>TODO</title>
+		<title>bouwkundig ingenieur</title>
 		<!-- EN: builder -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bouwvakker</titleShort>
 		<!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een bouwvakker. [PAWN_pronoun] leidde een team dat alles bouwde, van kantoorblokken tot kathedralen.\n\n[PAWN_possessive] drukke baan, gepaard met de talrijke fastfoodrestaurants in de buurt zorgden ervoor dat [PAWN_pronoun] nooit voor zichzelf hoefde koken.</desc>
 	</ConstructionEngineer32>
 
 	<!-- Offworld_Medieval_Child -->
 	<ConventChild16>
 		<!-- EN: convent child -->
-		<title>TODO</title>
+		<title>kloosterkind</title>
 		<!-- EN: illicit -->
-		<titleShort>TODO</titleShort>
+		<titleShort>onwettig</titleShort>
 		<!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by nuns in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical. -->
-		<desc>TODO</desc>
+		<desc>Een kind geboren uit een onwettige affaire. [PAWN_nameDef] werd opgekocht door nonnen in een middeleeuws klooster. [PAWN_pronoun] leerde de waarde van hard werken en onderwerping, maar leerde ook dat technologie ketters is.</desc>
 	</ConventChild16>
 
 	<!-- ImperialCommon_Adult -->
 	<CorporateDrone10>
 		<!-- EN: corporate drone -->
-		<title>TODO</title>
+		<title>loonslaaf</title>
 		<!-- EN: drone -->
-		<titleShort>TODO</titleShort>
+		<titleShort>loonslaaf</titleShort>
 		<!-- EN: [PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.\n\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte in een heel groot kantorencomplex samen met duizenden andere geschikte loonslaven.\n\nHet werk zelf bestond uit eindeloze organisatorische sleur en zinloze vergaderingen, onderbroken door af en toe een prestatiebeoordeling.</desc>
 	</CorporateDrone10>
 
 	<!-- ImperialCommon_Adult -->
 	<CorporateFixer36>
 		<!-- EN: corporate fixer -->
-		<title>TODO</title>
+		<title>zakelijke fixer</title>
 		<!-- EN: fixer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>fixer</titleShort>
 		<!-- EN: [PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.\n\nWhile violence was unusual, [PAWN_nameDef] stayed prepared for anything. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een fixer voor een energiebedrijf. [PAWN_possessive] werk vereiste dat [PAWN_pronoun] wist wanneer [PAWN_pronoun] moest duwen, wanneer [PAWN_pronoun] moest trekken, wanneer [PAWN_pronoun] moest terugvallen en wanneer [PAWN_pronoun] moest toeslaan. De baan paste bij [PAWN_possessive] natuurlijk gebrek aan empathie.\n\nHoewel geweld ongebruikelijk was, bleef [PAWN_nameDef] overal op voorbereid.</desc>
 	</CorporateFixer36>
 
 	<!-- ImperialCommon_Adult -->
 	<CorporateManager76>
 		<!-- EN: corporate manager -->
-		<title>TODO</title>
+		<title>zakelijk manager</title>
 		<!-- EN: manager -->
-		<titleShort>TODO</titleShort>
+		<titleShort>manager</titleShort>
 		<!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte in een enorm open kantoor, en zorgde ervoor dat het [PAWN_possessive] toegewezen team van arbeiders zo veel mogelijk aan het werk bleef.\n\nDe baan was intens politiek. Om vooruit te komen leerde [PAWN_nameDef] hoe dingen te regelen, zodat [PAWN_pronoun] de eer kon opstrijken voor andermans werk.</desc>
 	</CorporateManager76>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Counselor26>
 		<!-- EN: counselor -->
-		<title>TODO</title>
+		<title>psycholoog</title>
 		<!-- EN: counselor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>psycholoog</titleShort>
 		<!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
-		<desc>TODO</desc>
+		<desc>Een verschrikkelijk trauma toen [PAWN_nameDef] een jonge volwassene was, zorgde ervoor dat [PAWN_pronoun] een ernstige eetstoornis kreeg. Met counseling leerde [PAWN_pronoun] een gezondere relatie met voedsel te hebben en besloot [PAWN_pronoun] nieuwe vaardigheden te gebruiken om anderen te helpen hun emotionele problemen te overwinnen.</desc>
 	</Counselor26>
 
 	<!-- ImperialRoyal_Child -->
 	<CountryLordling92>
 		<!-- EN: country lordling -->
-		<title>TODO</title>
+		<title>jonkheer</title>
 		<!-- EN: country lady -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>jonkvrouw</titleFemale>
 		<!-- EN: field lord -->
-		<titleShort>TODO</titleShort>
+		<titleShort>landsheer</titleShort>
 		<!-- EN: field lady -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>landsvrouwe</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] grew up in a noble family's manor in the outer country. [PAWN_possessive] early years were full of lessons in horseback riding, politics, and religion.\n\n[PAWN_nameDef] and [PAWN_possessive] friends found many ways to break the rules and have fun in the fields and forests. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in het landhuis van een adellijke familie in het buitenland. [PAWN_possessive] vroege jaren bestonden grotendeels uit lessen in paardrijden, politiek en religie.\n\n [PAWN_nameDef] en [PAWN_possessive] vrienden bedachten veel manieren om de regels te overtreden en plezier te hebben in de velden en bossen.</desc>
 	</CountryLordling92>
 
 	<!-- Tribal_Child -->
 	<CrashBaby32>
 		<!-- EN: crash baby -->
-		<title>TODO</title>
+		<title>crashkind</title>
 		<!-- EN: crashbaby -->
-		<titleShort>TODO</titleShort>
+		<titleShort>crashkind</titleShort>
 		<!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
-		<desc>TODO</desc>
+		<desc>Als baby was [PAWN_nameDef] de enige overlevende van een dodelijke crash van een ruimtevaartuig. Een passerende stam ontdekte [PAWN_objective] in het wrak en adopteerde [PAWN_objective].</desc>
 	</CrashBaby32>
 
 	<!-- ImperialCommon_Adult -->
 	<CropFarmer17>
 		<!-- EN: crop farmer -->
-		<title>TODO</title>
+		<title>akkerbouwer</title>
 		<!-- EN: farmer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>boer</titleShort>
 		<!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] runde een akkerbouwbedrijf. [PAWN_pronoun] analyseerde de bodem, landbouwwerktuigen, weerpatronen en prijstrends om het planten en oogsten van enorme akkers te optimaliseren.</desc>
 	</CropFarmer17>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<CultChild3>
 		<!-- EN: cult child -->
-		<title>TODO</title>
+		<title>sektekind</title>
 		<!-- EN: cult kid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sektekind</titleShort>
 		<!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren in een machtige sekte die geavanceerde technologie vermeed en geloofde dat alle ziekten genezen konden worden door de ziel te reinigen door middel van heilige kunst.\n\nNadat [PAWN_pronoun] [PAWN_possessive] eerste glimp van de buitenwereld had gekregen, besloot [PAWN_pronoun] weg te rennen.</desc>
 	</CultChild3>
 
 	<!-- Offworld_Specific_Adult -->
 	<DeepSpaceMiner3>
 		<!-- EN: deep space miner -->
-		<title>TODO</title>
+		<title>ruimtemijnwerker</title>
 		<!-- EN: miner -->
-		<titleShort>TODO</titleShort>
+		<titleShort>mijnwerker</titleShort>
 		<!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] deed het zweterige, groezelige werk om metaal uit asteroïden te winnen op een boorplatform in de ruimte. [PAWN_pronoun] gebruikte dagelijks [PAWN_possessive] praktische industriële vaardigheden - en was ook niet slecht in een cafégevecht.</desc>
 	</DeepSpaceMiner3>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Defector78>
 		<!-- EN: defector -->
-		<title>TODO</title>
+		<title>overloper</title>
 		<!-- EN: defector -->
-		<titleShort>TODO</titleShort>
+		<titleShort>overloper</titleShort>
 		<!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
-		<desc>TODO</desc>
+		<desc>Vroeg in [PAWN_possessive] volwassen leven besloot [PAWN_nameDef] de verstikkende dictatuur waar [PAWN_pronoun] leefde te verlaten. [PAWN_possessive] afvalligheid werd niet goed ontvangen, en agenten werden [PAWN_objective] aan gezonden.\n\n[PAWN_pronoun] was jaren op de vlucht en behandelde [PAWN_possessive] eigen wonden zodat geen enkele arts [PAWN_objective] kon verraden. De beproeving maakte [PAWN_objective] bitter en wantrouwend.</desc>
 	</Defector78>
 
 	<!-- ImperialFighter_Child -->
 	<Delinquent13>
 		<!-- EN: delinquent -->
-		<title>TODO</title>
+		<title>delinquent</title>
 		<!-- EN: delinquent -->
-		<titleShort>TODO</titleShort>
+		<titleShort>delinquent</titleShort>
 		<!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood behind bars. Following an unsuccessful escape attempt, [PAWN_pronoun] was pressed into the military. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht het grootste deel van [PAWN_possessive] jeugd achter de tralies door. Na een mislukte ontsnappingspoging werd [PAWN_pronoun] gedwongen in militaire dienst te gaan.</desc>
 	</Delinquent13>
 
 	<!-- ImperialFighter_Adult -->
 	<Demolitionist39>
 		<!-- EN: demolitionist -->
-		<title>TODO</title>
+		<title>explosieven-expert</title>
 		<!-- EN: demolitionist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>explosieven-expert</titleShort>
 		<!-- EN: [PAWN_nameDef] manufactured and planted explosives used to breach enemy defenses. Dealing with explosives every day taught [PAWN_objective] to keep a level head and steady hand. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] vervaardigde en plantte explosieven die werden gebruikt om de verdediging van de vijand te doorbreken. De dagelijkse omgang met explosieven leerde [PAWN_objective] om het hoofd koel te houden met een vaste hand.</desc>
 	</Demolitionist39>
 
 	<!-- ImperialFighter_Adult -->
 	<Deserter65>
 		<!-- EN: deserter -->
-		<title>TODO</title>
+		<title>deserteur</title>
 		<!-- EN: deserter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>deserteur</titleShort>
 		<!-- EN: After countless battles for a cause [PAWN_pronoun] did not believe in, [PAWN_nameDef] threw down [PAWN_possessive] arms and deserted. [PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted. -->
-		<desc>TODO</desc>
+		<desc>Na talloze veldslagen voor een doel waar [PAWN_pronoun] niet in geloofde, wierp [PAWN_nameDef] [PAWN_possessive] wapens neer en deserteerde. [PAWN_nameDef] leefde in isolatie, opgejaagd door degenen die [PAWN_pronoun] had verlaten.</desc>
 	</Deserter65>
 
 	<!-- Tribal_Adult -->
 	<Digger66>
 		<!-- EN: digger -->
-		<title>TODO</title>
+		<title>graver</title>
 		<!-- EN: digger -->
-		<titleShort>TODO</titleShort>
+		<titleShort>graver</titleShort>
 		<!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] hieuw leefruimtes uit en dolf mineralen uit de flanken van heuvels en bergen. [PAWN_pronoun] leerde zich thuis te voelen door rotsen verplaatsen en grotwanden te stutten.</desc>
 	</Digger66>
 
 	<!-- ImperialFighter_Adult -->
 	<DisgracedOfficer19>
 		<!-- EN: disgraced officer -->
-		<title>TODO</title>
+		<title>onteerde officier</title>
 		<!-- EN: officer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>officier</titleShort>
 		<!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.\n\nWhen [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nameDef] fled to a bunker and hid. [PAWN_pronoun] was demoted and never escaped the disgrace. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een officier in een keizerlijk bataljon. [PAWN_pronoun] ontwikkelde [PAWN_possessive] sociale en gevechtsvaardigheden om [PAWN_possessive] werk goed te kunnen doen en werd gerespecteerd door de manschappen.\n\nToen [PAWN_possessive] eenheid voor het eerst onder direct vuur werd genomen, vluchtte [PAWN_nameDef] naar een bunker en verborg zich. [PAWN_pronoun] werd gedegradeerd en ontsnapte nooit aan de schande.</desc>
 	</DisgracedOfficer19>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Drifter67>
 		<!-- EN: drifter -->
-		<title>TODO</title>
+		<title>zwerver</title>
 		<!-- EN: drifter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>zwerver</titleShort>
 		<!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] travelled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] heeft nooit geweten wat te doen met [PAWN_possessive] leven. [PAWN_pronoun] reisde vaak en nam tijdelijke baantjes waar [PAWN_pronoun] ze kon vinden.\n\n[PAWN_pronoun] werkte ook af en toe aan een roman waarvan [PAWN_pronoun] wist dat het een bestseller zou worden - zodra [PAWN_pronoun] een uitgever kon vinden die geïnteresseerd was.</desc>
 	</Drifter67>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<EscapedConvict90>
 		<!-- EN: escaped convict -->
-		<title>TODO</title>
+		<title>ontsnapte gevangene</title>
 		<!-- EN: escapee -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ontsnapte</titleShort>
 		<!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] ontkent betrokkenheid bij de misdaden die leidden tot [PAWN_possessive] opsluiting in een wrede strafkolonie. [PAWN_pronoun] ontsnapte door een tunnel onder de omheining door te graven met aangepast bestek.</desc>
 	</EscapedConvict90>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Evangelist39>
 		<!-- EN: evangelist -->
-		<title>TODO</title>
+		<title>evangelist</title>
 		<!-- EN: evangelist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>evangelist</titleShort>
 		<!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
-		<desc>TODO</desc>
+		<desc>Als jongere ervoer [PAWN_nameDef] een religieuze ontwaking. [PAWN_pronoun] besloot de rest van [PAWN_possessive] leven door te brengen met het verspreiden van het woord van [PAWN_possessive] godheid, de schoonheid van zijn cultuur en diens ongebruikelijke medische traditie.</desc>
 	</Evangelist39>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<ExplosivesExpert26>
 		<!-- EN: explosives expert -->
-		<title>TODO</title>
+		<title>explosieven-expert</title>
 		<!-- EN: blaster -->
-		<titleShort>TODO</titleShort>
+		<titleShort>knaller</titleShort>
 		<!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een explosieveningenieur die in mijnen werkte. [PAWN_pronoun] nam [PAWN_possessive] taak zeer serieus en was goed bekend met de technische details - zo erg zelfs dat [PAWN_pronoun] weigerde zichzelf te vernederen door te helpen met het opruimen nadat [PAWN_possessive] zorgvuldig berekende explosie was voltooid .</desc>
 	</ExplosivesExpert26>
 
 	<!-- Offworld_Specific_Adult -->
 	<FactoryWorker58>
 		<!-- EN: factory worker -->
-		<title>TODO</title>
+		<title>fabrieksarbeider</title>
 		<!-- EN: worker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>arbeider</titleShort>
 		<!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] deed ongeschoold werk in een industriële fabriek. [PAWN_possessive] baan betekende ook dat [PAWN_pronoun] de zorg had voor de muilezels en paarden die de goederen vervoerden.</desc>
 	</FactoryWorker58>
 
 	<!-- ImperialFighter_Adult -->
 	<Firebomber51>
 		<!-- EN: firebomber -->
-		<title>TODO</title>
+		<title>brandbommenwerper</title>
 		<!-- EN: firebomber -->
-		<titleShort>TODO</titleShort>
+		<titleShort>brandbommenwerper</titleShort>
 		<!-- EN: [PAWN_nameDef] piloted a small fighter-bomber design specialized in spreading incendiary gel on flammable targets.\n\nConditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bestuurde een kleine jachtbommenwerper die gespecialiseerd was in het verspreiden van brand-gel op brandbare doelen.\n\nGeconditioneerd om te genieten van de aanblik van een oplichtend doel, ontwikkelde [PAWN_pronoun] een voorliefde voor vuur in al zijn vormen - voor oorlog, koken en zelfs voor het dichtschroeien van wonden in het ziekenhuis.</desc>
 	</Firebomber51>
 
 	<!-- Tribal_Child -->
 	<FireKeeper44>
 		<!-- EN: fire keeper -->
-		<title>TODO</title>
+		<title>vuurwaker</title>
 		<!-- EN: firekeep -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vuurwaker</titleShort>
 		<!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was verantwoordelijk voor het aan de gang houden van het vuur van de stam. [PAWN_pronoun] nam deze verantwoordelijkheid zeer serieus.</desc>
 	</FireKeeper44>
 
 	<!-- Tribal_Adult -->
 	<Framer37>
 		<!-- EN: framer -->
-		<title>TODO</title>
+		<title>huttenmaker</title>
 		<!-- EN: framer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>huttenmaker</titleShort>
 		<!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was verantwoordelijk voor het opzetten van structuren voor [PAWN_possessive] stamgenoten om in te leven. Dit omvatte zowel tijdelijke structuren voor nomadische reizen als permanente nederzettingen. Het verzamelen van bouwmaterialen uit het lokale plantenleven was een onderdeel van het werk.</desc>
 	</Framer37>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<FrightenedChild43>
 		<!-- EN: frightened child -->
-		<title>TODO</title>
+		<title>bang kind</title>
 		<!-- EN: scared -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bang kind</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
-		<desc>TODO</desc>
+		<desc>NL: [PAWN_nameDef] groeide op met een waslijst aan fobieën en neurosen. [PAWN_pronoun] vreesde onder andere doktoren en door voedsel overgedragen ziekteverwekkers.\n\nDaardoor leerde [PAWN_pronoun] voor zichzelf te koken en zichzelf te verzorgen, maar veel van [PAWN_possessive] fobieën achtervolgen [PAWN_objective] nog altijd.</desc>
 	</FrightenedChild43>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Gardener99>
 		<!-- EN: gardener -->
-		<title>TODO</title>
+		<title>hovenier</title>
 		<!-- EN: gardener -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hovenier</titleShort>
 		<!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte in het landhuis van een machtige familie en verzorgde de weelderige tuinen als onderdeel van een team van bedienden.</desc>
 	</Gardener99>
 
 	<!-- Tribal_Adult -->
 	<Gatherer70>
 		<!-- EN: gatherer -->
-		<title>TODO</title>
+		<title>verzamelaar</title>
 		<!-- EN: gatherer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verzamelaar</titleShort>
 		<!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
-		<desc>TODO</desc>
+		<desc>Door [PAWN_possessive] kennis van planten, wortels en bessen te gebruiken, kon [PAWN_nameDef] voedsel vinden in zelfs de meest kale landschappen. [PAWN_pronoun] bleef uit de buurt van dieren.</desc>
 	</Gatherer70>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Geologist66>
 		<!-- EN: geologist -->
-		<title>TODO</title>
+		<title>geoloog</title>
 		<!-- EN: geologist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>geoloog</titleShort>
 		<!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte samen met mijnwerkers en grotgravers om gesteentes en natuurlijke formaties te identificeren.\n\nTijdens [PAWN_possessive] jaren onder de grond deed [PAWN_pronoun] ook ervaring op met het repareren van boormachines en andere technische uitrusting.</desc>
 	</Geologist66>
 
 	<!-- Pirate_Adult -->
 	<Gigolo30>
 		<!-- EN: gigolo -->
-		<title>TODO</title>
+		<title>gigolo</title>
 		<!-- EN: gigolo -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>gigolo</titleFemale>
 		<!-- EN: courtesean -->
-		<titleShort>TODO</titleShort>
+		<titleShort>prostituee</titleShort>
 		<!-- EN: courtesean -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>prostituee</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd lichamelijk gebruikt door honderden klanten in bordelen op verschillende planeten. [PAWN_pronoun] leerde een aantal mentale vaardigheden en een speciaal soort straatwijsheid.</desc>
 	</Gigolo30>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<GlitterworldEmpath26>
 		<!-- EN: glitterworld empath -->
-		<title>TODO</title>
+		<title>glitterwereld empaat</title>
 		<!-- EN: empath -->
-		<titleShort>TODO</titleShort>
+		<titleShort>empaat</titleShort>
 		<!-- EN: [PAWN_nameDef] had an amazing ability to relate to others and mediate conflict. [PAWN_pronoun] was selected to train as an empath. The training intensified [PAWN_possessive] natural abilities, but [PAWN_pronoun] became unable to harm others. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had een verbazingwekkend vermogen om met anderen om te gaan en in conflicten te bemiddelen. [PAWN_pronoun] werd geselecteerd om te trainen als empaat. De training intensiveerde [PAWN_possessive] natuurlijke vermogens, maar [PAWN_pronoun] niet langer schade toe brengen aan anderen.</desc>
 	</GlitterworldEmpath26>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<GlitterworldOfficer60>
 		<!-- EN: glitterworld officer -->
-		<title>TODO</title>
+		<title>glitterwereld officier</title>
 		<!-- EN: officer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>officier</titleShort>
 		<!-- EN: Though glitterworlds are peaceful places, they often remain prepared for war. [PAWN_nameDef]'s unit rarely saw any real action.\n\nThough [PAWN_pronoun] pursued [PAWN_possessive] artistic hobbies, [PAWN_possessive] subordinates preferred to entertain themselves by brawling, so [PAWN_nameDef] got good at breaking up fights. -->
-		<desc>TODO</desc>
+		<desc>Hoewel glitterwerelden vredige oorden zijn, blijven ze vaak voorbereid op oorlog. De eenheid van [PAWN_nameDef] zag zelden echte actie.\n\nHoewel [PAWN_pronoun] artistieke hobby's nastreefde, gaven [PAWN_possessive] ondergeschikten er de voorkeur aan zich te vermaken door te vechten, dus [PAWN_nameDef] werd er goed in om bij zulke gevechten in te grijpen.</desc>
 	</GlitterworldOfficer60>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<GlitterworldSurgeon15>
 		<!-- EN: glitterworld surgeon -->
-		<title>TODO</title>
+		<title>glitterwereld chirurg</title>
 		<!-- EN: surgeon -->
-		<titleShort>TODO</titleShort>
+		<titleShort>chirurg</titleShort>
 		<!-- EN: [PAWN_nameDef] worked as a surgeon on a world mostly free of disease and human suffering.\n\n[PAWN_possessive] job mostly involved elaborate and creative cosmetic surgeries. [PAWN_pronoun] has a good understanding of human biology, but never had to remove a cancer — or a bullet. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte als chirurg op een wereld die grotendeels vrij was van ziekten en menselijk lijden.\n\n[PAWN_possessive] baan bestond voornamelijk uit uitgebreide en creatieve cosmetische operaties. [PAWN_pronoun] heeft een goed begrip van de menselijke biologie, maar hoefde nooit een kanker - of een kogel - te verwijderen.</desc>
 	</GlitterworldSurgeon15>
 
 	<!-- ImperialCommon_Adult -->
 	<HeadButler50>
 		<!-- EN: head butler -->
-		<title>TODO</title>
+		<title>hoofdbutler</title>
 		<!-- EN: butler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>butler</titleShort>
 		<!-- EN: [PAWN_nameDef] was the head servant in a royal house.\n\n[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was de hoofddienaar in een koninklijk huis.\n\n[PAWN_pronoun] zorgde ervoor dat de wil van de heer werd uitgevoerd, zelfs voordat de heer wist wat hij wilde.</desc>
 	</HeadButler50>
 
 	<!-- Tribal_Adult -->
 	<Healer0>
 		<!-- EN: healer -->
-		<title>TODO</title>
+		<title>genezer</title>
 		<!-- EN: healer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>genezer</titleShort>
 		<!-- EN: After [PAWN_possessive] tribe’s elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
-		<desc>TODO</desc>
+		<desc>Toen de oude genezer van [PAWN_possessive] stam werd gedood bij een inval, nam [PAWN_nameDef] de rol op zich. [PAWN_pronoun] bracht [PAWN_possessive] dagen door met het verzamelen van kruiden en minerale verbindingen uit de nabije omgeving om te gebruiken in verrassend effectieve remedies.</desc>
 	</Healer0>
 
 	<!-- Tribal_Adult -->
 	<HearthTender66>
 		<!-- EN: hearth tender -->
-		<title>TODO</title>
+		<title>zorger</title>
 		<!-- EN: tender -->
-		<titleShort>TODO</titleShort>
+		<titleShort>zorger</titleShort>
 		<!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
-		<desc>TODO</desc>
+		<desc>Terwijl de anderen aan het jagen en foerageren waren, bleef [PAWN_nameDef] thuis om te koken en voor de kinderen en zieken te zorgen.</desc>
 	</HearthTender66>
 
 	<!-- Offworld_Medieval_Adult -->
 	<Herbalist54>
 		<!-- EN: herbalist -->
-		<title>TODO</title>
+		<title>kruidkundige</title>
 		<!-- EN: herbalist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kruidkundige</titleShort>
 		<!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] woonde in het bos bij een dorp. Hoewel veel van de dorpelingen [PAWN_objective] vreesden, kwamen zieke dorpelingen naar [PAWN_objective] om zalven en kompressen te kopen die gemaakt waren van de kruiden die in [PAWN_possessive] tuin groeiden. [PAWN_pronoun] hielp hen graag - maar wel voor een prijs.</desc>
 	</Herbalist54>
 
 	<!-- Tribal_Child -->
 	<Herder19>
 		<!-- EN: herder -->
-		<title>TODO</title>
+		<title>herder</title>
 		<!-- EN: herder -->
-		<titleShort>TODO</titleShort>
+		<titleShort>herder</titleShort>
 		<!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] verzorgde de muffalokuddes, beschermde ze tegen roofdieren en behandelde zieke dieren. Het was rustig werk, maar [PAWN_pronoun] genoot ervan om verwijderd te zijn van mensen.</desc>
 	</Herder19>
 
 	<!-- Outsider_Adult -->
 	<Hermit82>
 		<!-- EN: hermit -->
-		<title>TODO</title>
+		<title>kluizenaar</title>
 		<!-- EN: hermit -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kluizenaar</titleShort>
 		<!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
-		<desc>TODO</desc>
+		<desc>Uitgeput door de stress van sociale interactie, verliet [PAWN_nameDef] [PAWN_possessive] drukke stad om een eenvoudig leven in de wildernis te leiden. Daar bracht [PAWN_pronoun] [PAWN_possessive] dagen alleen door, verzorgde [PAWN_pronoun] [PAWN_possessive] tuin en maakte de eenvoudige gereedschappen die [PAWN_pronoun] nodig had om te overleven.</desc>
 	</Hermit82>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Housemate8>
 		<!-- EN: housemate -->
-		<title>TODO</title>
+		<title>huisman</title>
 		<!-- EN: housewife -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>huisvrouw</titleFemale>
 		<!-- EN: housemate -->
-		<titleShort>TODO</titleShort>
+		<titleShort>huisman</titleShort>
 		<!-- EN: housewife -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>huisvrouw</titleShortFemale>
 		<!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
-		<desc>TODO</desc>
+		<desc>Als volwassene hield [PAWN_nameDef] het huishouden en zorgde voor de kinderen terwijl [PAWN_possessive] echtgenoot werkte.</desc>
 	</Housemate8>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<HouseServant63>
 		<!-- EN: house servant -->
-		<title>TODO</title>
+		<title>huisknecht</title>
 		<!-- EN: servant -->
-		<titleShort>TODO</titleShort>
+		<titleShort>knecht</titleShort>
 		<!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een huisknecht voor rijke huiseigenaren.\n\n[PAWN_pronoun] leerde de keukens en kelders van [PAWN_possessive] herenhuis goed kennen, maar deed nooit werk buiten.</desc>
 	</HouseServant63>
 
 	<!-- ImperialCommon_Adult -->
 	<HouseServant86>
 		<!-- EN: house servant -->
-		<title>TODO</title>
+		<title>huisknecht</title>
 		<!-- EN: servant -->
-		<titleShort>TODO</titleShort>
+		<titleShort>knecht</titleShort>
 		<!-- EN: [PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een lage bediende in een koninklijk huis.\n\n[PAWN_pronoun] maakte kamers schoon en verplaatste spullen zoals aangegeven door het hoger geplaatste personeel, en probeerde onzichtbaar te blijven voor de heren en dames van het huis.</desc>
 	</HouseServant86>
 
 	<!-- Offworld_Specific_Adult -->
 	<HumanComputer83>
 		<!-- EN: human computer -->
-		<title>TODO</title>
+		<title>menselijke computer</title>
 		<!-- EN: computer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>computer</titleShort>
 		<!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bleek een uitstekend geheugen te hebben en een gave voor het uitvoeren van complexe berekeningen in [PAWN_possessive] hoofd. Een dictator uit de industriële wereld besloot [PAWN_nameDef] in te zetten om de financiën en uitgaven van de staat bij te houden.</desc>
 	</HumanComputer83>
 
 	<!-- Tribal_Adult -->
 	<Hunter74>
 		<!-- EN: hunter -->
-		<title>TODO</title>
+		<title>jager</title>
 		<!-- EN: hunter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>jager</titleShort>
 		<!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] speurde naar dieren, nam ze gevangen en doodde ze voor hun vlees en leer.\n\n[PAWN_nameDef] gebruikte zowel afstandswapens als slagwapens. Soms jaagde [PAWN_pronoun] samen met [PAWN_possessive] dieren.</desc>
 	</Hunter74>
 
 	<!-- Pirate_Adult -->
 	<IllegalShipwright76>
 		<!-- EN: illegal shipwright -->
-		<title>TODO</title>
+		<title>illegale scheepsbouwer</title>
 		<!-- EN: shipwright -->
-		<titleShort>TODO</titleShort>
+		<titleShort>scheepsbouwer</titleShort>
 		<!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
-		<desc>TODO</desc>
+		<desc>Er is een wet die zegt dat je geen grasers met een terawatt bereik op een vrachtschip mag monteren. Helemaal als je ze verbergt onder iets dat op een communicatieschotel lijkt, voor een beter hinderlaagpotentieel. [PAWN_nameDef] ontdekte dat er echter veel geld te verdienen valt van hen die niet geïnteresseerd zijn in deze wetten.</desc>
 	</IllegalShipwright76>
 
 	<!-- ImperialCommon_Adult -->
 	<ImperialInquisitor53>
 		<!-- EN: imperial inquisitor -->
-		<title>TODO</title>
+		<title>keizerlijke inquisiteur</title>
 		<!-- EN: inquisitor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>inquisiteur</titleShort>
 		<!-- EN: inquisitress -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>inquisiteur</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.\n\n[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een inquisiteur in de anti-ketterieschool van de keizerlijke kerk.\n\n[PAWN_nameDef] speurde naar onorthodoxe gedachten waar die maar konden worden gevonden - in kunst, muziek, code, en zelfs privégesprekken. Wanneer hij afwijkend gedrag ontdekte, stelde [PAWN_pronoun] het bloot om de bestraffing van het collectief te veroorzaken. En [PAWN_pronoun] kon de afwijking altijd vinden, als [PAWN_pronoun] maar goed genoeg zocht.</desc>
 	</ImperialInquisitor53>
 
 	<!-- ImperialCommon_Adult -->
 	<ImperialPriest24>
 		<!-- EN: imperial priest -->
-		<title>TODO</title>
+		<title>keizerlijke priester</title>
 		<!-- EN: priest -->
-		<titleShort>TODO</titleShort>
+		<titleShort>priester</titleShort>
 		<!-- EN: priestess -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>priesteres</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was a priest in the imperial church.\n\n[PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een {PAWN_gender ? priester : priesteres} in de keizerlijke kerk.\n\n[PAWN_pronoun] besteedde de helft [PAWN_possessive] tijd aan het bestuderen van boeken om de relatie tussen Gods aspecten en de facetten van [PAWN_possessive] samenleving te begrijpen. De andere helft was besteed aan het prediken van het kwaad van luiheid en drank.</desc>
 	</ImperialPriest24>
 
 	<!-- Offworld_Specific_Child -->
 	<IndustrialOrphan13>
 		<!-- EN: industrial orphan -->
-		<title>TODO</title>
+		<title>industriële wees</title>
 		<!-- EN: orphan -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wees</titleShort>
 		<!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] heeft [PAWN_possessive] ouders nooit gekend. [PAWN_possessive] vroegste herinneringen waren van sleur in de mijnen en werkhuizen van de [PAWN_possessive] industriële wereld.\n\nDaarom heeft [PAWN_pronoun] nooit een goede opleiding genoten.</desc>
 	</IndustrialOrphan13>
 
 	<!-- ImperialFighter_Adult -->
 	<InfantryEngineer46>
 		<!-- EN: infantry engineer -->
-		<title>TODO</title>
+		<title>infanterie technicus</title>
 		<!-- EN: engineer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>technicus</titleShort>
 		<!-- EN: Despite being in an infantry battalion, [PAWN_nameDef] rarely fired a gun. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels. -->
-		<desc>TODO</desc>
+		<desc>Ondanks dat hij in een infanteriebataljon zat, vuurde [PAWN_nameDef] zelden een pistool af. [PAWN_possessive] specialiteit was de snelle constructie van verdedigingswerken, vallen, verdedigingsinstallaties en ondermijnende tunnels.</desc>
 	</InfantryEngineer46>
 
 	<!-- ImperialFighter_Adult -->
 	<InfantryMedic6>
 		<!-- EN: infantry medic -->
-		<title>TODO</title>
+		<title>infanterie hospik</title>
 		<!-- EN: medic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hospik</titleShort>
 		<!-- EN: [PAWN_nameDef] treated the combat wounds of [PAWN_possessive] fallen comrades. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] behandelde de wonden van [PAWN_possessive] gevallen kameraden.</desc>
 	</InfantryMedic6>
 
 	<!-- ImperialFighter_Adult -->
 	<InfantryOfficer49>
 		<!-- EN: infantry officer -->
-		<title>TODO</title>
+		<title>infanterie officier</title>
 		<!-- EN: officer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>officier</titleShort>
 		<!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een officier in een keizerlijk bataljon. [PAWN_pronoun] ontwikkelde [PAWN_possessive] sociale en gevechtsvaardigheden om [PAWN_possessive] werk goed te kunnen doen en werd gerespecteerd door de manschappen.</desc>
 	</InfantryOfficer49>
 
 	<!-- ImperialFighter_Adult -->
 	<IntelligenceAgent21>
 		<!-- EN: intelligence agent -->
-		<title>TODO</title>
+		<title>inlichtingen agent</title>
 		<!-- EN: intel -->
-		<titleShort>TODO</titleShort>
+		<titleShort>inlichtingen</titleShort>
 		<!-- EN: [PAWN_nameDef] was a high-ranking counterintelligence agent tasked with thwarting enemy spies. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een hooggeplaatste contra-agent die de taak had vijandelijke spionnen te dwarsbomen.</desc>
 	</IntelligenceAgent21>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Inventor6>
 		<!-- EN: inventor -->
-		<title>TODO</title>
+		<title>uitvinder</title>
 		<!-- EN: inventor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>uitvinder</titleShort>
 		<!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
-		<desc>TODO</desc>
+		<desc>Op [PAWN_possessive] thuiswereld werkte [PAWN_nameDef] als een redelijk succesvolle uitvinder. [PAWN_pronoun] heeft verschillende kleine technologieën ontwikkeld.</desc>
 	</Inventor6>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Jailbird40>
 		<!-- EN: jailbird -->
-		<title>TODO</title>
+		<title>gedetineerde</title>
 		<!-- EN: jailbird -->
-		<titleShort>TODO</titleShort>
+		<titleShort>gedetineerde</titleShort>
 		<!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht het grootste deel van [PAWN_possessive] leven door in gevangenissen, waar [PAWN_pronoun] in de keukens aan het werk werd gezet. [PAWN_pronoun] had de gewoonte om deel te nemen aan gevechten en ontwikkelde een agressieve manier van spreken.</desc>
 	</Jailbird40>
 
 	<!-- Offworld_Specific_Adult -->
 	<JoywireArtist8>
 		<!-- EN: joywire artist -->
-		<title>TODO</title>
+		<title>genotsdraad artiest</title>
 		<!-- EN: joywirer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>genotsbedrader</titleShort>
 		<!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte in een urbwereld-lab en ontwikkelde geavanceerde genotsdraad-software om het gebruikersplezier te maximaliseren.\n\nToen de lokale overheid strenge beperkingen oplegde aan de productie van genotsdraden, begon [PAWN_pronoun] met de verkoop van [PAWN_possessive] producten op de zwarte markt.</desc>
 	</JoywireArtist8>
 
 	<!-- ImperialRoyal_Adult -->
 	<Landworker98>
 		<!-- EN: landworker -->
-		<title>TODO</title>
+		<title>landsknecht</title>
 		<!-- EN: landworker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>landsknecht</titleShort>
 		<!-- EN: [PAWN_nameDef] held the position of landworker in [PAWN_possessive] royal house. [PAWN_pronoun] managed the family's lands and all the resources on them - both agricultural and mineral.\n\nThough [PAWN_pronoun] would never work the machines [PAWN_objective]self, managing these enterprises required learning the methods of farming and mining in detail. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bekleedde de functie van landarbeider in [PAWN_possessive] koninklijk huis. [PAWN_pronoun] beheerde het land van de familie en alle grondstoffen van dien - zowel plantaardig als mineraal.\n\nHoewel [PAWN_pronoun] nooit zelf met de machines zelf werkte, moest [PAWN_pronoun] het beheer van deze bedrijven de methoden van landbouw en mijnbouw in detail leren.</desc>
 	</Landworker98>
 
 	<!-- ImperialFighter_Adult -->
 	<LineInfanteer20>
 		<!-- EN: line infanteer -->
-		<title>TODO</title>
+		<title>linie infanterist</title>
 		<!-- EN: infanteer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>infanterist</titleShort>
 		<!-- EN: [PAWN_nameDef] was an ordinary infanteer in an imperial battalion.\n\nConscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een gewone infanterist in een keizerlijk bataljon.\n\n[PAWN_nameDef] werd op jonge leeftijd geronseld om mankracht toe te voegen aan het leger, en leerde daar de goed genoeg vechten om [PAWN_possessive] officieren tevreden te stellen. [PAWN_pronoun] heeft echter nooit genoeg begrepen wat er rond [PAWN_objective] gebeurde om er echt in te kunnen geloven.</desc>
 	</LineInfanteer20>
 
 	<!-- ImperialCommon_Adult -->
 	<LivestockFarmer8>
 		<!-- EN: livestock farmer -->
-		<title>TODO</title>
+		<title>veehouder</title>
 		<!-- EN: farmer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>boer</titleShort>
 		<!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] runde een veehouderij. [PAWN_pronoun] analyseerde diergenetica, voersoorten, geboorte- en slachtmethoden en prijstrends om het grootbrengen van grote kuddes dieren te optimaliseren.</desc>
 	</LivestockFarmer8>
 
 	<!-- Tribal_Adult -->
 	<Logger16>
 		<!-- EN: logger -->
-		<title>TODO</title>
+		<title>houthakker</title>
 		<!-- EN: logger -->
-		<titleShort>TODO</titleShort>
+		<titleShort>houthakker</titleShort>
 		<!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] hakte bomen om en sleepte het hout terug naar de stam. [PAWN_pronoun] hanteerde [PAWN_possessive] bijl met de finesse van een artiest en de kracht van een aanvallende muffalo.</desc>
 	</Logger16>
 
 	<!-- Tribal_Adult -->
 	<Loner61>
 		<!-- EN: loner -->
-		<title>TODO</title>
+		<title>eenling</title>
 		<!-- EN: loner -->
-		<titleShort>TODO</titleShort>
+		<titleShort>eenling</titleShort>
 		<!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] hield nooit van de stamraad of de jaarlijkse festivals. [PAWN_pronoun] gaf de voorkeur aan de open vlakte en het fluiten van de wind door de rotsen.\n\n[PAWN_pronoun] bezocht van tijd tot tijd de [PAWN_possessive] stam, maar zorgde meestal voor zichzelf met behulp van [PAWN_possessive] eigen overlevingsvaardigheden.</desc>
 	</Loner61>
 
 	<!-- Tribal_Adult -->
 	<LoreKeeper51>
 		<!-- EN: lore keeper -->
-		<title>TODO</title>
+		<title>overleveraar</title>
 		<!-- EN: keeper -->
-		<titleShort>TODO</titleShort>
+		<titleShort>overleveraar</titleShort>
 		<!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een telg in een lange lijn van overleveraars van [PAWN_possessive] stam. Elke avond rond het vuur gaf [PAWN_pronoun] oude kennis en nuttige wijsheid door via verhalen.</desc>
 	</LoreKeeper51>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<LowWageWorker7>
 		<!-- EN: low-wage worker -->
-		<title>TODO</title>
+		<title>goedkope arbeidskracht</title>
 		<!-- EN: grunt -->
-		<titleShort>TODO</titleShort>
+		<titleShort>arbeider</titleShort>
 		<!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had verschillende losse baantjes om [PAWN_possessive] gezin te ondersteunen en verwierf een aantal praktische basisvaardigheden.</desc>
 	</LowWageWorker7>
 
 	<!-- ImperialFighter_Adult -->
 	<LoyalJanissary59>
 		<!-- EN: loyal janissary -->
-		<title>TODO</title>
+		<title>trouwe janitsaar</title>
 		<!-- EN: janissary -->
-		<titleShort>TODO</titleShort>
+		<titleShort>janitsaar</titleShort>
 		<!-- EN: [PAWN_nameDef] was a janissary in a great lord's army. Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een janitsaar in het leger van een grote heer. Meer nog dan de andere troepen voelde [PAWN_pronoun] een plichtsbesef, en de inspanning die [PAWN_pronoun] deed om zijn [PAWN_possessive] plicht te vervullen stond centraal in [PAWN_possessive] leven.</desc>
 	</LoyalJanissary59>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<MachineCollector55>
 		<!-- EN: machine collector -->
-		<title>TODO</title>
+		<title>machineverzamelaar</title>
 		<!-- EN: collector -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verzamelaar</titleShort>
 		<!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was geobsedeerd door oude machines en geheimzinnige technologische voorwerpen. [PAWN_pronoun] kocht ze overal waar [PAWN_pronoun] maar kon, en vond het heerlijk om ze uit elkaar te halen om er achter te komen hoe ze werkten.\n\n [PAWN_pronoun] had de gewoonte om over [PAWN_possessive] verzameling te blijven praten lang nadat de mensen om [PAWN_objective] heen waren gestopt met luisteren.</desc>
 	</MachineCollector55>
 
 	<!-- ImperialFighter_Child -->
 	<Machinist56>
 		<!-- EN: machinist -->
-		<title>TODO</title>
+		<title>machinist</title>
 		<!-- EN: machinist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>machinist</titleShort>
 		<!-- EN: [PAWN_nameDef] had a knack for machinery. [PAWN_pronoun] supplemented [PAWN_possessive] family's income by repairing and modifying black market weapons. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had een talent voor machines. [PAWN_pronoun] vulde het inkomen van [PAWN_possessive] gezin aan door wapens van de zwarte markt te repareren en aan te passen.</desc>
 	</Machinist56>
 
 	<!-- Offworld_Specific_Adult -->
 	<MafiaBoss17>
 		<!-- EN: mafia boss -->
-		<title>TODO</title>
+		<title>mafiabaas</title>
 		<!-- EN: boss -->
-		<titleShort>TODO</titleShort>
+		<titleShort>baas</titleShort>
 		<!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een hooggeplaatst lid van een misdaadsyndicaat op een urbwereld.\n\n[PAWN_pronoun] kocht ambtenaren om, handhaafde de loyaliteit van [PAWN_possessive] ondergeschikten en inde achterstallige betalingen - met alle mogelijke middelen.</desc>
 	</MafiaBoss17>
 
 	<!-- ImperialCommon_Adult -->
 	<Mailman2>
 		<!-- EN: mailman -->
-		<title>TODO</title>
+		<title>postbode</title>
 		<!-- EN: mail carrier -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>postbode</titleFemale>
 		<!-- EN: mailman -->
-		<titleShort>TODO</titleShort>
+		<titleShort>postbode</titleShort>
 		<!-- EN: mailwoman -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>postbode</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.\n\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bezorgde post op [PAWN_possessive] toegewezen routes. Soms werd [PAWN_pronoun] zelfs gestuurd om speciale pakketten te bezorgen bij stijlvolle kantoren of herenhuizen.\n\n[PAWN_nameDef] werd zo behoorlijk goed in het vermijden en afweren van boze honden.</desc>
 	</Mailman2>
 
 	<!-- Tribal_Adult -->
 	<Malingerer28>
 		<!-- EN: malingerer -->
-		<title>TODO</title>
+		<title>luiaard</title>
 		<!-- EN: malingerer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>luiaard</titleShort>
 		<!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] veinsde vaak ziekte om [PAWN_possessive] verantwoordelijkheden te ontlopen. Terwijl hij in de ziekenhut lag te rusten, vertelde [PAWN_pronoun] verhalen aan de kinderen.</desc>
 	</Malingerer28>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Mathematician6>
 		<!-- EN: mathematician -->
-		<title>TODO</title>
+		<title>wiskundige</title>
 		<!-- EN: math prof -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wiskundige</titleShort>
 		<!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] deed wiskundig onderzoek aan een universiteit.\n\n[PAWN_pronoun] besteedde een groot deel van [PAWN_possessive] vrije tijd aan schietsimulaties, hoewel [PAWN_pronoun] vaak door andere spelers belachelijk werd gemaakt omdat [PAWN_pronoun] totaal niet kon mikken.</desc>
 	</Mathematician6>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<MedicalAssistant12>
 		<!-- EN: medical assistant -->
-		<title>TODO</title>
+		<title>medisch assistent</title>
 		<!-- EN: medic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>medicus</titleShort>
 		<!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren tijdens een catastrofale oorlog waarin beide partijen brandwapens gebruikten. [PAWN_pronoun] groeide op met het helpen van [PAWN_possessive] ouders in een ziekenboeg, en behandelde een eindeloze stroom gruwelijke brandwonden op de slagvelden. Dit bezorgde [PAWN_objective] een levenslange angst voor vuur.</desc>
 	</MedicalAssistant12>
 
 	<!-- Offworld_Medieval_Adult -->
 	<MedievalDoctor40>
 		<!-- EN: medieval doctor -->
-		<title>TODO</title>
+		<title>middeleeuwse dokter</title>
 		<!-- EN: quack -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kwakzalver</titleShort>
 		<!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte als dokter op een middeleeuwse planeet. [PAWN_pronoun] is ervan overtuigd dat de meeste aandoeningen kunnen worden genezen met een beetje aderlating.\n\n[PAWN_pronoun] was ook een volleerd anesthesist en ontwikkelde een speciale techniek waarbij de patiënt een zware klap op het hoofd kreeg.</desc>
 	</MedievalDoctor40>
 
 	<!-- Offworld_Medieval_Adult -->
 	<MedievalFarmOaf58>
 		<!-- EN: medieval farm oaf -->
-		<title>TODO</title>
+		<title>middeleeuwse boerenkluns</title>
 		<!-- EN: oaf -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kluns</titleShort>
 		<!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
-		<desc>TODO</desc>
+		<desc>Frezen, schoffelen, ossenkarren leiden, kruiwagens duwen. Sloten graven, zaden planten, de oogst voorspellen.\n\nMiddeleeuwse boeren zijn niet opgeleid in de gebruikelijke zin, maar ze weten veel over het kweken van planten zonder technologie. Dat gezegd hebbende, laat zo'n leven iemand in wezen niet in staat deel te nemen aan intellectuele, technologiegedreven activiteiten.</desc>
 	</MedievalFarmOaf58>
 
 	<!-- Offworld_Medieval_Adult -->
 	<MedievalLord57>
 		<!-- EN: medieval lord -->
-		<title>TODO</title>
+		<title>middeleeuwse heer</title>
+		<titleFemale>middeleeuwse dame</titleFemale>
 		<!-- EN: noble -->
-		<titleShort>TODO</titleShort>
+		<titleShort>nobele</titleShort>
 		<!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een {PAWN_gender ? heer : dame} op een pre-industriële planeet. [PAWN_pronoun] ging naar feesten, leidde [PAWN_possessive] ondergeschikten en leerde zelfs zwaardvechten.\n\n[PAWN_possessive] zachte handen hielden al die tijd nooit een werktuig vast. [PAWN_pronoun] beschouwt handmatige arbeid als minderwaardig.</desc>
 	</MedievalLord57>
 
 	<!-- Offworld_Medieval_Child -->
 	<MedievalLordling19>
 		<!-- EN: medieval lordling -->
-		<title>TODO</title>
+		<title>middeleeuwse jonkheer</title>
 		<!-- EN: medieval lady -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>middeleeuwse jonkvrouw</titleFemale>
 		<!-- EN: lordling -->
-		<titleShort>TODO</titleShort>
+		<titleShort>jonkheer</titleShort>
 		<!-- EN: lady -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>jonkvrouw</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een kleine {PAWN_gender ? edelman : edelvrouw} in een oud koninkrijk op een middeleeuwse wereld. [PAWN_pronoun] groeide op in een landhuis gemaakt van steen, bediend door lagere klassen.\n\nZo'n leven leert een mens geen technische vaardigheden en wekt een levenslange afkeer van handenarbeid - maar [PAWN_nameDef] leerde al vroeg de fijne kneepjes van sociale manipulatie.</desc>
 	</MedievalLordling19>
 
 	<!-- Offworld_Medieval_Adult -->
 	<MedievalMinstrel95>
 		<!-- EN: medieval minstrel -->
-		<title>TODO</title>
+		<title>middeleeuwse minstreel</title>
 		<!-- EN: minstrel -->
-		<titleShort>TODO</titleShort>
+		<titleShort>minstreel</titleShort>
 		<!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een reizende entertainer op een middeleeuwse wereld.\n\n[PAWN_pronoun] vertelde overal verhalen en zong liedjes, en is in staat om zichzelf te beschermen tegen gevaren onderweg. [PAWN_pronoun] was echter altijd opvallend afwezig als er hard werk moest worden verricht.</desc>
 	</MedievalMinstrel95>
 
 	<!-- Offworld_Medieval_Adult -->
 	<MedievalSailor97>
 		<!-- EN: medieval sailor -->
-		<title>TODO</title>
+		<title>middeleeuwse zeevaarder</title>
 		<!-- EN: sailor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>zeevaarder</titleShort>
 		<!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] verkende de oceanen op een houten schip, op zoek naar planten en dieren uit exotische oorden, en vocht af en toe tegen piraten. [PAWN_pronoun] hield zo veel van de zee dat [PAWN_pronoun] weigerde om alles behalve het absolute minimum aan werk op het land te doen, uitgezonderd de verkoop van de schatten die [PAWN_pronoun] had verzameld.</desc>
 	</MedievalSailor97>
 
 	<!-- Offworld_Medieval_Child -->
 	<MedievalSlave49>
 		<!-- EN: medieval slave -->
-		<title>TODO</title>
+		<title>middeleeuwse slaaf</title>
+		<titleFemale>middeleeuwse slavin</titleFemale>
 		<!-- EN: slave -->
-		<titleShort>TODO</titleShort>
+		<titleShort>slaaf</titleShort>
+		<titleShortFemale>slavin</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op met het trekken van karren en het graven van gaten op een middeleeuwse wereld. Eenvoudige handarbeid is [PAWN_possessive] oudste metgezel - dat en de zweep van de meester.\n\n[PAWN_pronoun] leerde pas lezen toen [PAWN_pronoun] negen was.</desc>
 	</MedievalSlave49>
 
 	<!-- ImperialCommon_Adult -->
 	<MenagerieKeeper1>
 		<!-- EN: menagerie keeper -->
-		<title>TODO</title>
+		<title>dierenhouder</title>
 		<!-- EN: zookeeper -->
-		<titleShort>TODO</titleShort>
+		<titleShort>dierenhouder</titleShort>
 		<!-- EN: [PAWN_nameDef] managed the royal menagerie of a powerful family at their estate.\n\n[PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] beheerde de koninklijke menagerie van een machtige familie op hun landgoed.\n\nTijdens [PAWN_pronoun] werk voerde [PAWN_nameDef] olifanten, kalmeerde [PAWN_pronoun] leeuwen en trainde [PAWN_pronoun] vogels om hun verenkleed te laten zien aan bezoekers met een titel.</desc>
 	</MenagerieKeeper1>
 
 	<!-- Offworld_Medieval_Adult -->
 	<MessageCarrier77>
 		<!-- EN: message carrier -->
-		<title>TODO</title>
+		<title>bode</title>
 		<!-- EN: messenger -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bode</titleShort>
 		<!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
-		<desc>TODO</desc>
+		<desc>Op een middeleeuwse wereld is de snelste manier om een bericht te sturen, het aan iemand op een paard te geven en te hopen dat ze de reis overleven. [PAWN_nameDef] was dat iemand.</desc>
 	</MessageCarrier77>
 
 	<!-- ImperialFighter_Child -->
 	<MilitaryCadet46>
 		<!-- EN: military cadet -->
-		<title>TODO</title>
+		<title>militaire kadet</title>
 		<!-- EN: cadet -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kadet</titleShort>
 		<!-- EN: [PAWN_nameDef] was levied from [PAWN_possessive] family at a young age to become a soldier. [PAWN_pronoun] lived in barracks with other military kids, learning about duty, weapons, pain, and victory.\n\nThe trainers sometimes let the kids escape the base to enjoy the wider world. They wanted soldiers who can think independently. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd op jonge leeftijd uit de familie van [PAWN_possessive] gerekruteerd om soldaat te worden. [PAWN_pronoun] woonde in barakken met andere militaire kinderen en leerde over plicht, wapens, pijn en overwinning.\n\nDe trainers lieten de kinderen soms ontsnappen uit de basis om te genieten van de wijdere wereld. Ze wilden soldaten die onafhankelijk kunnen denken.</desc>
 	</MilitaryCadet46>
 
 	<!-- ImperialFighter_Adult -->
 	<MilitaryChaplain10>
 		<!-- EN: military chaplain -->
-		<title>TODO</title>
+		<title>militaire kapelaan</title>
 		<!-- EN: chaplain -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kapelaan</titleShort>
 		<!-- EN: [PAWN_nameDef] stayed with the troops in training and in combat, administering to the dying and reinforcing the faith of the living.\n\nLike all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective]self. However, [PAWN_pronoun] acted as a medic and treated the wounded. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] stond de troepen in training en in de strijd bij, om voor de stervenden te bidden en het geloof van de levenden te versterken.\n\nNet als alle keizerlijke kapelanen, zwoer [PAWN_pronoun] om nooit tegen zichzelf te vechten. [PAWN_pronoun] trad echter wel op als medicus en behandelde de gewonden.</desc>
 	</MilitaryChaplain10>
 
 	<!-- ImperialFighter_Adult -->
 	<MilitaryCommissar71>
 		<!-- EN: military commissar -->
-		<title>TODO</title>
+		<title>militair commissaris</title>
 		<!-- EN: commissar -->
-		<titleShort>TODO</titleShort>
+		<titleShort>commissaris</titleShort>
 		<!-- EN: [PAWN_nameDef] was an internal spymaster in an imperial army battalion. [PAWN_pronoun] made sure that the men were loyal, and did not fall back unless ordered. This made [PAWN_objective] unpopular, but [PAWN_pronoun] gained great skill at detecting the slightest dishonesty. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een interne meesterspion in een keizerlijk legerbataljon. [PAWN_pronoun] zorgde ervoor dat de mannen loyaal waren en niet zonder orders de aftocht bliezen. Dit maakte [PAWN_objective] onpopulair, maar [PAWN_pronoun] kreeg grote vaardigheid in het ontdekken van zelfs de geringste oneerlijkheid.</desc>
 	</MilitaryCommissar71>
 
 	<!-- ImperialFighter_Adult -->
 	<MilitaryCook18>
 		<!-- EN: military cook -->
-		<title>TODO</title>
+		<title>militaire kok</title>
 		<!-- EN: army cook -->
-		<titleShort>TODO</titleShort>
+		<titleShort>legerkok</titleShort>
 		<!-- EN: They say an army marches on its stomach. [PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.\n\nThe job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops. -->
-		<desc>TODO</desc>
+		<desc>Ze zeggen dat een leger op zijn maag marcheert. Het was de taak van [PAWN_nameDef] om het voer voor te bereiden om [PAWN_possessive] eenheid aan het marcheren te houden, ongeacht de omstandigheden.\n\nDe taak vereiste dat [PAWN_objective] aandacht schonk aan zowel de voedingsbehoeften als de psychologische behoeften van de troepen.</desc>
 	</MilitaryCook18>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Model99>
 		<!-- EN: model -->
-		<title>TODO</title>
+		<title>model</title>
 		<!-- EN: model -->
-		<titleShort>TODO</titleShort>
+		<titleShort>model</titleShort>
 		<!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een kleding- en sieradenmodel voor adverteerders, en werd ook gebruikt als een fysieke blauwdruk voor personages in virtual reality-simulaties.</desc>
 	</Model99>
 
 	<!-- Tribal_Adult -->
 	<MuffaloShaman95>
 		<!-- EN: muffalo shaman -->
-		<title>TODO</title>
+		<title>muffalo sjamaan</title>
 		<!-- EN: shaman -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sjamaan</titleShort>
 		<!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
-		<desc>TODO</desc>
+		<desc>Vanwege [PAWN_possessive] stille wijsheid en grote kracht werd [PAWN_nameDef] de spirituele gids voor [PAWN_possessive] stam. [PAWN_pronoun] had een speciale band met de grote geest van de muffalo.</desc>
 	</MuffaloShaman95>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<MusicalKid86>
 		<!-- EN: musical kid -->
-		<title>TODO</title>
+		<title>muzikaal kind</title>
 		<!-- EN: musician -->
-		<titleShort>TODO</titleShort>
+		<titleShort>musicus</titleShort>
 		<!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
-		<desc>TODO</desc>
+		<desc>Als kind had [PAWN_nameDef] talent voor het bespelen van muziekinstrumenten en zingen. [PAWN_pronoun] kreeg een professionele training en hield ervan om op te treden in recitals en concerten, hoewel de overvloedige lof die [PAWN_pronoun] ontving [PAWN_objective] een beetje egocentrisch maakte.</desc>
 	</MusicalKid86>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<Mute34>
 		<!-- EN: mute -->
-		<title>TODO</title>
+		<title>stom</title>
 		<!-- EN: mute -->
-		<titleShort>TODO</titleShort>
+		<titleShort>stom</titleShort>
 		<!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd sterk beïnvloed door een traumatische gebeurtenis in het begin van [PAWN_possessive] leven. Jarenlang weigerde [PAWN_pronoun] om met mensen te praten, en speelde liever met de vele huisdieren van [PAWN_possessive] huishouden.</desc>
 	</Mute34>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<NavyScientist52>
 		<!-- EN: navy scientist -->
-		<title>TODO</title>
+		<title>marine wetenschapper</title>
 		<!-- EN: scientist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wetenschapper</titleShort>
 		<!-- EN: Interstellar warfare is won by technology, so glitterworld navies are always on the peak of modern research. Even better, they have first access to archotechnological artifacts because they find them in space.\n\n[PAWN_nameDef] worked in a navy lab. -->
-		<desc>TODO</desc>
+		<desc>Interstellaire oorlogen worden gewonnen door technologie, dus glitterwereld-marines lopen altijd voorop op het gebied van modern onderzoek. Sterker nog, ze hebben als eerste toegang tot archotechnologische artefacten omdat ze die in de ruimte vinden.\n\n[PAWN_nameDef] werkte in een lab van zo'n marine.</desc>
 	</NavyScientist52>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<Novelist7>
 		<!-- EN: novelist -->
-		<title>TODO</title>
+		<title>schrijver</title>
 		<!-- EN: novelist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>schrijver</titleShort>
 		<!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and never did a day's manual labour in [PAWN_possessive] life. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] leefde op een glitterwereld en schreef enorm succesvolle romans. [PAWN_pronoun] leefde een zorgeloze levensstijl, bracht [PAWN_possessive] dagen door met schrijven en [PAWN_possessive] nachten met feesten - en deed nooit een dag zwaar werk in [PAWN_possessive] leven.</desc>
 	</Novelist7>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Nurse61>
 		<!-- EN: nurse -->
-		<title>TODO</title>
+		<title>verpleger</title>
+		<titleFemale>verpleegster</titleFemale>
 		<!-- EN: nurse -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verpleger</titleShort>
+		<titleShortFemale>verpleegster</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werkte in een ziekenhuis en deed routinewerk zoals verbanden verwisselen en temperaturen opnemen.\n\nHet was een drukke baan, maar [PAWN_pronoun] kon altijd tijd vrijmaken voor een praatje met een patiënt.</desc>
 	</Nurse61>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<OrganFarm67>
 		<!-- EN: organ farm -->
-		<title>TODO</title>
+		<title>orgaanfarm</title>
 		<!-- EN: organ farm -->
-		<titleShort>TODO</titleShort>
+		<titleShort>orgaanfarm</titleShort>
 		<!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in een illegale ondergrondse organenkwekerij. Organische implantaten voor gewonde huurlingen werden in [PAWN_possessive] lichaam gekweekt. Hoewel [PAWN_possessive] kindertijd [PAWN_objective] nog altijd kwelt, heeft het [PAWN_objective] ook een uniek inzicht in de menselijke biologie gegeven.</desc>
 	</OrganFarm67>
 
 	<!-- ImperialCommon_Adult -->
 	<OrnamentMaker56>
 		<!-- EN: ornament maker -->
-		<title>TODO</title>
+		<title>ornament-maker</title>
 		<!-- EN: ornamenter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ornament-maker</titleShort>
 		<!-- EN: [PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] vervaardigde horloges, medailles, bewerkte sieraden en andere complexe curiosa voor koninklijke beschermheren.</desc>
 	</OrnamentMaker56>
 
 	<!-- ImperialRoyal_Child -->
 	<PamperedLordling37>
 		<!-- EN: pampered lordling -->
-		<title>TODO</title>
+		<title>verwende jonkheer</title>
 		<!-- EN: pampered princess -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>verwende prinses</titleFemale>
 		<!-- EN: pampered -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verwend</titleShort>
 		<!-- EN: [PAWN_nameDef]'s parents did not want another heir. Fearing a succession fight, they decided to neutralize [PAWN_objective] early.\n\nThey pampered [PAWN_nameDef] from birth, preventing [PAWN_objective] from developing the grit or knowledge necessary to be a threat to their favored son. [PAWN_nameDef] learned little more than how to manipulate the royal staff to get more food. -->
-		<desc>TODO</desc>
+		<desc>De ouders van [PAWN_nameDef] wilden niet nog een erfgenaam. Uit angst voor een successieconflict, besloten ze [PAWN_objective] vroegtijdig te neutraliseren.\n\nZe vertroetelden [PAWN_nameDef] vanaf [PAWN_possessive] geboorte, waardoor [PAWN_objective] niet de kennis kon ontwikkelen die nodig was om een bedreiging te vormen voor hun favoriete zoon. [PAWN_nameDef] leerde weinig meer dan hoe [PAWN_pronoun] de koninklijke staf kon manipuleren om meer eten te krijgen.</desc>
 	</PamperedLordling37>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Paramedic45>
 		<!-- EN: paramedic -->
-		<title>TODO</title>
+		<title>paramedicus</title>
 		<!-- EN: paramedic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>paramedicus</titleShort>
 		<!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
-		<desc>TODO</desc>
+		<desc>Het was de taak van [PAWN_nameDef] om snel te reageren op medische noodgevallen. [PAWN_pronoun] is gewend om met ernstige verwondingen om te gaan met slechts beperkte medische voorraden.\n\n[PAWN_pronoun] behandelde in de loop der jaren zoveel schotwonden dat [PAWN_pronoun] zich zelfs bij het zien van een pistool slecht op [PAWN_possessive] gemak voelde.</desc>
 	</Paramedic45>
 
 	<!-- ImperialFighter_Adult -->
 	<PiousSoldier67>
 		<!-- EN: pious soldier -->
-		<title>TODO</title>
+		<title>vrome soldaat</title>
 		<!-- EN: pious soldier -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vrome soldaat</titleShort>
 		<!-- EN: When not training or combat, [PAWN_nameDef] was often at the chaplain's side. [PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion. -->
-		<desc>TODO</desc>
+		<desc>Wanneer hij niet trainde of vocht, stond [PAWN_nameDef] vaak aan de zijde van de kapelaan. [PAWN_pronoun] wijdde [PAWN_possessive] leven aan het dienen van zowel [PAWN_possessive] heer als [PAWN_possessive] religie.</desc>
 	</PiousSoldier67>
 
 	<!-- Pirate_Adult -->
 	<PitBrawler76>
 		<!-- EN: pit brawler -->
-		<title>TODO</title>
+		<title>putvechter</title>
 		<!-- EN: brawler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vechtersbaas</titleShort>
 		<!-- EN: [PAWN_nameDef] was nine years old when [PAWN_pronoun] got in [PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was negen jaar oud toen [PAWN_pronoun] in [PAWN_possessive] gevecht terecht kwam. [PAWN_pronoun] won, maar belangrijker was het plezier van [PAWN_possessive] publiek. Putgevechten bleken een lucratieve carrière te zijn voor degenen die het konden overleven. En het was zelfs grotendeels legaal.</desc>
 	</PitBrawler76>
 
 	<!-- ImperialCommon_Adult -->
 	<PlanetaryMiner64>
 		<!-- EN: planetary miner -->
-		<title>TODO</title>
+		<title>planetair mijnwerker</title>
 		<!-- EN: miner -->
-		<titleShort>TODO</titleShort>
+		<titleShort>mijnwerker</titleShort>
 		<!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een mijningenieur voor een groot planetair mijnbouwbedrijf. [PAWN_pronoun] werk hield [PAWN_objective] weken achtereen onder de grond, en [PAWN_pronoun] begon de duisternis te waarderen.</desc>
 	</PlanetaryMiner64>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Policeman45>
 		<!-- EN: policeman -->
-		<title>TODO</title>
+		<title>politieman</title>
 		<!-- EN: policewoman -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>politievrouw</titleFemale>
 		<!-- EN: policeman -->
-		<titleShort>TODO</titleShort>
+		<titleShort>politieman</titleShort>
 		<!-- EN: policewoman -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>politievrouw</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bewaarde de vrede als officier bij een gemeentelijke politie.\n\n[PAWN_pronoun] werd getraind in de-escalatie, fysieke controle, schieten en andere politievaardigheden.</desc>
 	</Policeman45>
 
 	<!-- ImperialFighter_Child -->
 	<PoliticalCaptive7>
 		<!-- EN: political captive -->
-		<title>TODO</title>
+		<title>politiek gevangene</title>
 		<!-- EN: captive -->
-		<titleShort>TODO</titleShort>
+		<titleShort>gevangene</titleShort>
 		<!-- EN: [PAWN_nameDef] was kidnapped by a rival family and held for ransom. To pass the time in captivity, [PAWN_pronoun] read books and practiced martial arts. [PAWN_nameDef] had few opportunities to develop [PAWN_possessive] social skills. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd ontvoerd door een rivaliserende familie en vastgehouden voor losgeld. Om de tijd in gevangenschap te doden, las [PAWN_pronoun] boeken en beoefende vechtsporten. [PAWN_nameDef] had weinig kansen om [PAWN_possessive] sociale vaardigheden te ontwikkelen.</desc>
 	</PoliticalCaptive7>
 
 	<!-- ImperialFighter_Adult -->
 	<Propagandist86>
 		<!-- EN: propagandist -->
-		<title>TODO</title>
+		<title>propagandist</title>
 		<!-- EN: propagandist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>propagandist</titleShort>
 		<!-- EN: [PAWN_nameDef] was a skilled artist and military propagandist. [PAWN_pronoun] created works of art depicting [PAWN_possessive] lords and armies fovourably. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een bekwaam kunstenaar en militaire propagandist. [PAWN_pronoun] creëerde kunstwerken met afbeeldingen die [PAWN_possessive] heren en legers in een goed daglicht stelden.</desc>
 	</Propagandist86>
 
 	<!-- Offworld_Specific_Adult -->
 	<PsychiatricPatient94>
 		<!-- EN: psychiatric patient -->
-		<title>TODO</title>
+		<title>psychiatrisch patiënt</title>
 		<!-- EN: patient -->
-		<titleShort>TODO</titleShort>
+		<titleShort>patiënt</titleShort>
 		<!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht het grootste deel van [PAWN_possessive] volwassen leven door in een gekkenhuis. [PAWN_possessive] industriële thuiswereld had een slecht begrip van psychische aandoeningen, en [PAWN_pronoun] werd meer als een dier dan als een persoon behandeld.\n\nHoewel [PAWN_pronoun] uiteindelijk herstelde en werd vrijgelaten, dempte [PAWN_possessive] ervaring veel van [PAWN_possessive] basisvaardigheden voor het leven.</desc>
 	</PsychiatricPatient94>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<Pyromaniac18>
 		<!-- EN: pyromaniac -->
-		<title>TODO</title>
+		<title>pyromaan</title>
 		<!-- EN: pyro -->
-		<titleShort>TODO</titleShort>
+		<titleShort>pyromaan</titleShort>
 		<!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
-		<desc>TODO</desc>
+		<desc>Van jongs af aan had [PAWN_nameDef] een ongezonde fascinatie voor vuur. [PAWN_pronoun] stak afvalhopen in brand en raakte in vervoering door de vlammen. [PAWN_pronoun] stak af en toe zichzelf in brand zonder er erg in te hebben.\n\nOp een dag, terwijl hij roekeloos met lucifers speelde, brandde [PAWN_pronoun] [PAWN_possessive] eigen huis af.</desc>
 	</Pyromaniac18>
 
 	<!-- Offworld_Nonspecific_Adult -->
 	<Rancher43>
 		<!-- EN: rancher -->
-		<title>TODO</title>
+		<title>rancher</title>
 		<!-- EN: rancher -->
-		<titleShort>TODO</titleShort>
+		<titleShort>rancher</titleShort>
 		<!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bezat en exploiteerde een succesvolle ranch waar [PAWN_pronoun] dieren fokte voor vlees en wol.\n\n[PAWN_pronoun] weigerde ook maar enige domme arbeid te verrichten als [PAWN_pronoun] iemand anders kon betalen om dat voor [PAWN_objective] te doen.</desc>
 	</Rancher43>
 
 	<!-- Tribal_Child -->
 	<ReclusiveChild81>
 		<!-- EN: reclusive child -->
-		<title>TODO</title>
+		<title>teruggetrokken kind</title>
 		<!-- EN: reclusive -->
-		<titleShort>TODO</titleShort>
+		<titleShort>teruggetrokken</titleShort>
 		<!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] leerde pas praten toen [PAWN_pronoun] bijna vijf jaar oud was. Zelfs toen gaf [PAWN_pronoun] er de voorkeur aan om op zichzelf te blijven.\n\nTot ergernis van [PAWN_possessive] verzorgers maakte [PAWN_pronoun] er een gewoonte van om weken achtereen in de wildernis rond te dwalen.</desc>
 	</ReclusiveChild81>
 
 	<!-- ImperialFighter_Adult -->
 	<ReconSniper89>
 		<!-- EN: recon sniper -->
-		<title>TODO</title>
+		<title>verkennend sluipschutter</title>
 		<!-- EN: sniper -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sluipschutter</titleShort>
 		<!-- EN: [PAWN_nameDef] was a professional military sniper. [PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een professionele militaire sluipschutter. [PAWN_pronoun] was getraind om snel onverwachte schietposities te bereiken, belangrijke doelen te schieten en dan te ontsnappen voordat de vijand [PAWN_possessive] locatie konden bepalen.</desc>
 	</ReconSniper89>
 
 	<!-- ImperialRoyal_Adult -->
 	<Regent9>
 		<!-- EN: regent -->
-		<title>TODO</title>
+		<title>regent</title>
 		<!-- EN: regent -->
-		<titleShort>TODO</titleShort>
+		<titleShort>regent</titleShort>
 		<!-- EN: When [PAWN_nameDef]'s family's ally was killed, and his young son inherited his throne, [PAWN_nameDef] was appointed as regent to rule in the child's stead.\n\n[PAWN_pronoun] oversaw diverse matters of house and title, from finances to war to greedy relatives intent on usurping the throne. [PAWN_nameDef] himself never abused [PAWN_possessive] position. -->
-		<desc>TODO</desc>
+		<desc>Toen een bondgenoot van de familie van [PAWN_nameDef] werd vermoord en zijn jonge zoon zijn troon erfde, werd [PAWN_nameDef] aangesteld als regent om in de plaats van het kind te regeren.\n\n[PAWN_pronoun] hield toezicht op diverse zaken aangaande huis en titel, zoals financiën, oorlogvoering, en hebzuchtige familieleden die de troon wilden veroveren. [PAWN_nameDef] zelf heeft nooit [PAWN_possessive] positie misbruikt.</desc>
 	</Regent9>
 
 	<!-- ImperialFighter_Child -->
 	<RichKid61>
 		<!-- EN: rich kid -->
-		<title>TODO</title>
+		<title>rijk kind</title>
 		<!-- EN: rich kid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>rijk kind</titleShort>
 		<!-- EN: [PAWN_nameDef] came from a wealthy and influential bloodline. [PAWN_possessive] expensive education included lessons on dueling, leadership, and military strategy. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een telg uit een rijke en invloedrijke bloedlijn. [PAWN_possessive] dure opleiding omvatte lessen over duelleren, leiderschap en militaire strategie.</desc>
 	</RichKid61>
 
 	<!-- ImperialCommon_Child -->
 	<RoyalBastard3>
 		<!-- EN: royal bastard -->
-		<title>TODO</title>
+		<title>koninklijke bastaard</title>
 		<!-- EN: bastard -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bastaard</titleShort>
 		<!-- EN: [PAWN_nameDef] the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was het kind van een heer en een prostituee.\n\n[PAWN_possessive] vader's lijn was veilig en zijn bezit sterk. Niemand kwam ooit naar [PAWN_nameDef] om een aanspraak op de titel te steunen. [PAWN_pronoun] verdiende [PAWN_possessive] brood met het schoonmaken van het bordeel, maar vond altijd dat [PAWN_pronoun] veel meer verdiende.</desc>
 	</RoyalBastard3>
 
 	<!-- ImperialCommon_Adult -->
 	<RoyalCook18>
 		<!-- EN: royal cook -->
-		<title>TODO</title>
+		<title>koninklijke kok</title>
 		<!-- EN: cook -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kok</titleShort>
 		<!-- EN: [PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.\n\nOnly the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] maakte maaltijden voor [PAWN_possessive] aristocratische beschermheren.\n\nAlleen het beste eten was goed genoeg, dus [PAWN_nameDef] had een kleine tuin op het terrein van het landhuis om de meest verse kruiden en groenten te krijgen. [PAWN_pronoun] werd verliefd op het eten zelf.</desc>
 	</RoyalCook18>
 
 	<!-- ImperialFighter_Adult -->
 	<RoyalGuard51>
 		<!-- EN: royal guard -->
-		<title>TODO</title>
+		<title>koninklijke garde</title>
 		<!-- EN: guard -->
-		<titleShort>TODO</titleShort>
+		<titleShort>garde</titleShort>
 		<!-- EN: [PAWN_nameDef] guarded the personal palace of a powerful lord.\n\nWhile violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bewaakte het persoonlijke paleis van een machtige heer.\n\nHoewel geweld zeldzaam was, waren er altijd intriges binnen het paleis. Het werk van [PAWN_nameDef] leerde [PAWN_pronoun] om zowel woorden als wapens te hanteren.</desc>
 	</RoyalGuard51>
 
 	<!-- ImperialCommon_Adult -->
 	<RoyalMasseuse43>
 		<!-- EN: royal masseuse -->
-		<title>TODO</title>
+		<title>koninklijke masseur</title>
+		<titleFemale>koninklijke masseuse</titleFemale>
 		<!-- EN: masseuse -->
-		<titleShort>TODO</titleShort>
+		<titleShort>masseur</titleShort>
+		<titleShortFemale>masseuse</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.\n\n[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een {PAWN_gender ? masseur : masseuse} voor een uitgebreid koningshuis. [PAWN_pronoun] bediende veel leden van de koninklijke familie en hun gasten.\n\n[PAWN_nameDef] bood af en toe iets extra's aan, als de heer of dame in de stemming was. Om vooruitgang te boeken in deze branche, moest men beschikken over verfijnde sociale vaardigheden.</desc>
 	</RoyalMasseuse43>
 
 	<!-- Tribal_Child -->
 	<Scavenger22>
 		<!-- EN: scavenger -->
-		<title>TODO</title>
+		<title>speurder</title>
 		<!-- EN: scavenger -->
-		<titleShort>TODO</titleShort>
+		<titleShort>speurder</titleShort>
 		<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht [PAWN_possessive] jeugd door buiten de grotten om door wrakken en ruïnes naar schatten te graven. [PAWN_possessive] natuurlijke nieuwsgierigheid bracht [PAWN_objective] in de problemen, maar het leverde ook veel interessante vondsten op.</desc>
 	</Scavenger22>
 
 	<!-- Offworld_Specific_Child -->
 	<Scout44>
 		<!-- EN: scout -->
-		<title>TODO</title>
+		<title>verkenner</title>
 		<!-- EN: scout -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verkenner</titleShort>
 		<!-- EN: Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
-		<desc>TODO</desc>
+		<desc>Als kind van de beheerders van een rimwereld kolonie nam [PAWN_nameDef] deel aan een jongerenprogramma dat militaire verkenningsvaardigheden bijbracht.\n\n[PAWN_pronoun] leerde te overleven in de wildernis, te gehoorzamen en geen vragen te stellen.</desc>
 	</Scout44>
 
 	<!-- Tribal_Adult -->
 	<Scout59>
 		<!-- EN: scout -->
-		<title>TODO</title>
+		<title>verkenner</title>
 		<!-- EN: scout -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verkenner</titleShort>
 		<!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
-		<desc>TODO</desc>
+		<desc>Vanaf het moment dat [PAWN_possessive] stam contact maakte met lokale buitenlanders, heeft [PAWN_nameDef] [PAWN_possessive] diensten als gids aangeboden. Veelvuldig contact met oude technologie maakte [PAWN_objective] vertrouwd met de verloren machines.</desc>
 	</Scout59>
 
 	<!-- Offworld_Glitterworld_Adult -->
 	<Sculptor63>
 		<!-- EN: sculptor -->
-		<title>TODO</title>
+		<title>beeldhouwer</title>
 		<!-- EN: sculptor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>beeldhouwer</titleShort>
 		<!-- EN: [PAWN_nameDef] started off sculpting person-sized chunks of stone, but [PAWN_pronoun] soon began to think bigger. With the help of mining robots, [PAWN_pronoun] learned how to carve huge monuments out of cliffsides. Soon the nature parks of the glitterworld where [PAWN_pronoun] lived were full of giant rock figures. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] begon met het beeldhouwen van stukken steen ter grootte van een mens, maar al snel begon [PAWN_pronoun] groter te denken. Met behulp van mijnbouwrobots leerde [PAWN_pronoun] hoe je enorme monumenten uit kliffen kon hakken. Al snel zaten de natuurparken van de glitterwereld waar [PAWN_pronoun] woonde vol met gigantische rotsfiguren.</desc>
 	</Sculptor63>
 
 	<!-- ImperialCommon_Child -->
 	<ServingBoy97>
 		<!-- EN: serving boy -->
-		<title>TODO</title>
+		<title>dienaar</title>
 		<!-- EN: serving girl -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>dienstmeisje</titleFemale>
 		<!-- EN: house boy -->
-		<titleShort>TODO</titleShort>
+		<titleShort>dienaar</titleShort>
 		<!-- EN: house girl -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>dienstmeisje</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was the child of house servants, and was trained to carry on the family duty.\n\n[PAWN_pronoun] carried things and polished silverware, but was never allowed into the lords' part of the house. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was het kind van huisbedienden en werd opgeleid om de familieplichten uit te voeren.\n\n[PAWN_pronoun] droeg dingen en poetste het zilverwerk, maar mocht nooit het deel van het huis waar de heren verbleven binnen.</desc>
 	</ServingBoy97>
 
 	<!-- Offworld_Specific_Child -->
 	<ShelterChild50>
 		<!-- EN: shelter child -->
-		<title>TODO</title>
+		<title>bunkerkind</title>
 		<!-- EN: shelterkid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>bunkerkind</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in een schuilplaats diep onder een giftige wereld. [PAWN_pronoun] kreeg een uitgebreide opleiding, maar had nooit de gelegenheid om lichamelijk werk te doen.</desc>
 	</ShelterChild50>
 
 	<!-- Offworld_Specific_Adult -->
 	<Sheriff52>
 		<!-- EN: sheriff -->
-		<title>TODO</title>
+		<title>sheriff</title>
 		<!-- EN: sheriff -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sheriff</titleShort>
 		<!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was de wetshandhaver in een geïsoleerde industriestad. [PAWN_pronoun] hield zich bezig met kleine criminaliteit, geschillenbeslechting en af en toe een dronken vuurgevecht.</desc>
 	</Sheriff52>
 
 	<!-- ImperialRoyal_Child -->
 	<ShipboundLordling12>
 		<!-- EN: shipbound lordling -->
-		<title>TODO</title>
+		<title>scheepsjonkheer</title>
 		<!-- EN: shipbound lady -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>scheepsjonkvrouw</titleFemale>
 		<!-- EN: ship lord -->
-		<titleShort>TODO</titleShort>
+		<titleShort>scheepsheer</titleShort>
 		<!-- EN: ship lady -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>scheepsvrouwe</titleShortFemale>
 		<!-- EN: [PAWN_nameDef]'s family held their power base on a grand, ancient starship. Born and raised on the ship, [PAWN_nameDef] learned all about the rigors of shipboard life, and the politics and methods of interstellar battle and orbital invasion.\n\n[PAWN_pronoun] learned to feel most at home with strong walls close on all sides and the gentle hiss of atmosphere regulators. -->
-		<desc>TODO</desc>
+		<desc>De familie van [PAWN_nameDef] hield hun machtsbasis op een groots, oud ruimteschip. Geboren en getogen op het schip, leerde [PAWN_nameDef] alles over de ontberingen van het leven aan boord, en de politiek en methoden van interstellaire strijd en orbitale invasie.\n\n[PAWN_pronoun] leerde zich het meest thuis te voelen omringd door sterke muren en het zachte gesis van luchtregelaars.</desc>
 	</ShipboundLordling12>
 
 	<!-- ImperialFighter_Child -->
 	<ShipBoy89>
 		<!-- EN: ship boy -->
-		<title>TODO</title>
+		<title>scheepsjongen</title>
 		<!-- EN: ship girl -->
-		<titleFemale>TODO</titleFemale>
+		<titleFemale>scheepsmeisje</titleFemale>
 		<!-- EN: ship boy -->
-		<titleShort>TODO</titleShort>
+		<titleShort>scheepsjongen</titleShort>
 		<!-- EN: ship girl -->
-		<titleShortFemale>TODO</titleShortFemale>
+		<titleShortFemale>scheepsmeisje</titleShortFemale>
 		<!-- EN: [PAWN_nameDef] was born to low-ranked servants on an ancient starship. The ship's machine persona was like a third parent to [PAWN_objective], and the parts crafting crew [PAWN_pronoun] worked for was like a second family.\n\n[PAWN_nameDef] rarely saw plants or animals, and still finds them unnerving to touch. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren uit laaggeplaatste dienaren op een oud ruimteschip. De machinepersoonlijkheid van het schip was als een derde ouder van [PAWN_objective], en de bemanning waarvoor [PAWN_pronoun] werkte als een tweede familie.\n\n[PAWN_nameDef] zag zelden planten of dieren en vindt ze nog steeds zenuwslopend om aan te raken.</desc>
 	</ShipBoy89>
 
 	<!-- ImperialFighter_Adult -->
 	<Shipcracker37>
 		<!-- EN: shipcracker -->
-		<title>TODO</title>
+		<title>schipkraker</title>
 		<!-- EN: shipcracker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>schipkraker</titleShort>
 		<!-- EN: [PAWN_nameDef]'s role was to launch through the vacuum of space, land on the enemy ship's hull, punch holes to the interior, and conquer it in room-to-room combat. [PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.\n\n[PAWN_pronoun] also developed a taste for the drugs [PAWN_pronoun] used to cope with the overwhelming stress. -->
-		<desc>TODO</desc>
+		<desc>De rol van [PAWN_nameDef] was om door het vacuüm van de ruimte te worden gelanceerd, op de romp van het vijandelijke schip te landen, gaten door de romp te slaan en het schip te veroveren in gevechten van compartiment tot compartiment. [PAWN_pronoun] werd erg goed in het hanteren van zware katafractwapens die door zowel staal als vlees konden snijden.\n\n[PAWN_pronoun] ontwikkelde ook een voorliefde voor de drugs die [PAWN_pronoun] gebruikte om de overweldigende stress het hoofd te bieden.</desc>
 	</Shipcracker37>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<ShopKid36>
 		<!-- EN: shop kid -->
-		<title>TODO</title>
+		<title>winkelkind</title>
 		<!-- EN: shopkid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>winkelkind</titleShort>
 		<!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
-		<desc>TODO</desc>
+		<desc>De moeder van [PAWN_nameDef] was vaak ziek, en het was aan [PAWN_objective] om de winkel te runnen, aangezien die hun enige bron van inkomsten was. [PAWN_pronoun] leerde een beetje over de exotische artefacten die [PAWN_pronoun] verkocht, en veel over de kunst van de deal.</desc>
 	</ShopKid36>
 
 	<!-- Offworld_Nonspecific_Child -->
 	<SicklyChild55>
 		<!-- EN: sickly child -->
-		<title>TODO</title>
+		<title>ziekelijk kind</title>
 		<!-- EN: patient -->
-		<titleShort>TODO</titleShort>
+		<titleShort>patiënt</titleShort>
 		<!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
-		<desc>TODO</desc>
+		<desc>Als kind leed [PAWN_nameDef] aan een zeldzame ziekte. Omdat [PAWN_pronoun] in het ziekenhuis in quarantaine was geplaatst, had [PAWN_pronoun] minimaal menselijk contact en kreeg weinig lichaamsbeweging. In de steriele ziekenhuisomgeving raakte [PAWN_pronoun] echter zeer vertrouwd met wetenschap en geneeskunde.</desc>
 	</SicklyChild55>
 
 	<!-- ImperialFighter_Child -->
 	<SoldiersKid55>
 		<!-- EN: soldier's kid -->
-		<title>TODO</title>
+		<title>soldatenkind</title>
 		<!-- EN: soldier kid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>soldatenkind</titleShort>
 		<!-- EN: [PAWN_nameDef] was raised on the ancient starship where [PAWN_possessive] parents were stationed. [PAWN_pronoun] learned the basics of firearm operations and maintenance from the soldiers on board. [PAWN_nameDef] became accustomed to a strict routine and frequent discipline. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op het oude ruimteschip waar [PAWN_possessive] ouders waren gestationeerd. De soldaten aan boord leerden [PAWN_objective] de basisprincipes van vuurwapenoperaties en -onderhoud. [PAWN_nameDef] raakte gewend aan een strikte routine en regelmatige discipline.</desc>
 	</SoldiersKid55>
 
 	<!-- Tribal_Child -->
 	<SoleSurvivor21>
 		<!-- EN: sole survivor -->
-		<title>TODO</title>
+		<title>enkele overlevende</title>
 		<!-- EN: survivor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>overlevende</titleShort>
 		<!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
-		<desc>TODO</desc>
+		<desc>De hele stam van [PAWN_nameDef] werd weggevaagd tijdens een inval. Hoewel [PAWN_pronoun] door een andere groep werd geadopteerd, had [PAWN_pronoun] emotionele littekens en bleef hij liever in de buurt van huis om te koken en gewassen te verzorgen.</desc>
 	</SoleSurvivor21>
 
 	<!-- Pirate_Adult -->
 	<SpaceMarine16>
 		<!-- EN: space marine -->
-		<title>TODO</title>
+		<title>ruimtemarinier</title>
 		<!-- EN: marine -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinier</titleShort>
 		<!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een krijger bij een keizerlijke marine. [PAWN_possessive] taak was om vijandelijke sterrenschepen te enteren, de bemanning neer te schieten en het schip intact te veroveren. En [PAWN_pronoun] was er goed in.</desc>
 	</SpaceMarine16>
 
 	<!-- Pirate_Adult -->
@@ -2128,7 +2139,7 @@
 		<!-- EN: counselor -->
 		<titleShort>Adviseur</titleShort>
 		<!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
-		<desc>Nadat [PAWN_nameDef] hersteld was van een vreugdewierverslaving, koos het voor een geweldloze manier van leven en beloofde het anderen te helpen.\n\nOp reis tussen gemeenschappen gebruikte [PAWN_pronoun] medicijnen, kunst en ambachten om anderen te helpen die met hun eigen verslavingen worstelden.</desc>
+		<desc>Nadat [PAWN_nameDef] hersteld was van een genotsdraad-verslaving, koos [PAWN_pronoun] voor een geweldloze manier van leven en beloofde het anderen te helpen.\n\nOp reis tussen gemeenschappen gebruikte [PAWN_pronoun] medicijnen, kunst en ambachten om anderen te helpen die met hun eigen verslavingen worstelden.</desc>
 	</AddictionCounsel60>
 
 	<!-- Pan "Pan" Sunbin, Male, Adulthood -->
@@ -7944,21 +7955,21 @@
 	<!-- Fauna "Furr" Wells, Female, Childhood -->
 	<OrphanedAcrobat84>
 		<!-- EN: Orphaned acrobat -->
-		<title>Verweesde acrobaat</title>
+		<title>verweesde acrobaat</title>
 		<!-- EN: Acrobat -->
-		<titleShort>Acrobaat</titleShort>
+		<titleShort>acrobaat</titleShort>
 		<!-- EN: Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end.  -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren als een rustig weeskind op een urbwereld. Later werd [PAWN_pronoun] uitgenodigd om zich aan te sluiten bij een rondreizend circus. [PAWN_possessive] kleine omvang en oplettende aard stelden [PAWN_nameDef] in staat een bekende acrobaat te worden.\n\nHelaas brachten [PAWN_possessive] gewelddadige neigingen [PAWN_possessive] acrobatische carrière vroegtijdig tot een einde.</desc>
 	</OrphanedAcrobat84>
 
 	<!-- Fauna "Furr" Wells, Female, Adulthood -->
 	<MercenaryCaptain56>
 		<!-- EN: Mercenary captain -->
-		<title>Huurlingenkapitein</title>
+		<title>huurling-kapitein</title>
 		<!-- EN: Captain -->
-		<titleShort>Kapitein</titleShort>
+		<titleShort>kapitein</titleShort>
 		<!-- EN: [PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. \n -->
-		<desc>TODO</desc>
+		<desc>[PAWN_pronoun] maakte deel uit van de bemanning van een huurlingenschip. Gedisciplineerd en zelfverzekerd klom [PAWN_nameDef] snel door de gelederen en kreeg hij vrienden.\n\nIn [PAWN_possessive] tijd als huurling-kapitein stond [PAWN_pronoun] bekend als gezellig en kalm - mogelijk dankzij de genotsdraden.</desc>
 	</MercenaryCaptain56>
 
 	<!-- UNUSED -->

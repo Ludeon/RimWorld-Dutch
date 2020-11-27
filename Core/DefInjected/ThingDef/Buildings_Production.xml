@@ -17,7 +17,7 @@
   <ButcherSpot.description>Een plek waar dieren worden geslacht. Vanwege het gebrek aan gereedschap zal de slacht slechts 70% van het vlees en leer uit elk wezen opleveren.</ButcherSpot.description>
   
   <!-- EN: crafting spot -->
-  <CraftingSpot.label>handwerk-\nplaats</CraftingSpot.label>
+  <CraftingSpot.label>handwerk plaats</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
   <CraftingSpot.description>Een plek waar eenvoudige voorwerpen zoals messen en bogen worden vervaardigd. Het werk hier duurt lang vanwege het gebrek aan gereedschap.</CraftingSpot.description>
   
@@ -27,7 +27,7 @@
   <DeepDrill.description>Een diepteboor die diep onder de oppervlakte graaft naar grondstoffen. Gebruik een dieptescanner om de grondstoffen te vinden. Deze diepteboor zal rotsblokken produceren als er geen grondstoffen beschikbaar zijn. Kan vrij verplaatst worden.</DeepDrill.description>
   
   <!-- EN: drug lab -->
-  <DrugLab.label>druglabora-\ntorium</DrugLab.label>
+  <DrugLab.label>drug laboratorium</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
   <DrugLab.description>Een werktafel uitgerust met flessen, branders en meetinstrumenten waarmee verschillende soorten drugs kunnen worden gemaakt.</DrugLab.description>
   
@@ -57,7 +57,7 @@
   <ElectricTailoringBench.description>Een werktafel met een naaimachine waaraan vlotjes kleren kunnen worden gemaakt. Zonder elektriciteit kan er op 50% snelheid nog steeds worden gewerkt.</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
-  <FabricationBench.label>fabricatie-\ntafel</FabricationBench.label>
+  <FabricationBench.label>fabricatie tafel</FabricationBench.label>
   <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
   <FabricationBench.description>Een werktafel uitgerust met geavanceerd gereedschap waarmee technologische hoogstandjes uit eenvoudigere materialen kunnen worden vervaardigd.</FabricationBench.description>
   
@@ -67,7 +67,7 @@
   <FermentingBarrel.description>Een vat waarin ruwe wort tot bier kan worden vergist.</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
-  <FueledSmithy.label>hout-\ngestookte smidse</FueledSmithy.label>
+  <FueledSmithy.label>hout gestookte smidse</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
   <FueledSmithy.description>Een houtgestookte werktafel waar niet-mechanische wapens en gereedschappen kunnen worden gesmeed.</FueledSmithy.description>
   
@@ -82,7 +82,7 @@
   <HandTailoringBench.description>Een werktafel waaraan met de hand kleren kunnen worden gemaakt. Werkt 50% langzamer dan een electrische naaitafel.</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
-  <HiTechResearchBench.label>hi-tech onderzoeks-\ntafel</HiTechResearchBench.label>
+  <HiTechResearchBench.label>hi-tech onderzoekstafel</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
   <HiTechResearchBench.description>Een technologisch hoogwaardige onderzoekstafel met computers en elektronische meetapparatuur. Onderzoek aan deze tafel gaat sneller, en meer geavanceerde onderwerpen kunnen worden onderzocht.</HiTechResearchBench.description>
   
@@ -97,12 +97,12 @@
   <HydroponicsBasin.description>Een kunstmatig kweekbed waarin planten kunnen worden gekweekt. De voedingspompen moeten continu draaien; planten zullen sterven als de stroom uit valt.</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
-  <NutrientPasteDispenser.label>voedings-\npasta machine</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>voedingspasta machine</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
   <NutrientPasteDispenser.description>Een automaat die eetbare voedingspasta levert, uit organische voedingsstoffen die in aanliggende hoppers zijn opgeslagen. Het heeft per maaltijd minder ingredienten en tijd nodig dan welke andere bereidingswijze dan ook - maar niemand lust voedingspasta. Accepteert rauw voedsel, maar geen plantmateriaal zoals hooi.</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
-  <SimpleResearchBench.label>eenvoudige onderzoeks-\ntafel</SimpleResearchBench.label>
+  <SimpleResearchBench.label>eenvoudige onderzoekstafel</SimpleResearchBench.label>
   <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
   <SimpleResearchBench.description>Een eenvoudige tafel met pen, papier en eenvoudige meetinstrumenten. Onderzoekers werken hier om nieuwe dingen uit te vinden.</SimpleResearchBench.description>
   
@@ -122,7 +122,7 @@
   <TableSculpting.description>Een werktafel waaraan kunst kan worden gemaakt.</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
-  <TableStonecutter.label>steenhouw-\ntafel</TableStonecutter.label>
+  <TableStonecutter.label>steenhouw tafel</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
   <TableStonecutter.description>Een werktafel met zagen en beitels waaraan rotsblokken tot bruikbare stenen kunnen worden verwerkt.</TableStonecutter.description>
   

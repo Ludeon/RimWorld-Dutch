@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal bed -->
-  <AnimalBed.label>dieren-\nmand</AnimalBed.label>
+  <AnimalBed.label>dieren mand</AnimalBed.label>
   <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
   <AnimalBed.description>Een zacht mandje waar dieren kunnen slapen. Elk dier past er in.</AnimalBed.description>
   
@@ -32,7 +32,7 @@
   <Bedroll.description>Een eenvoudig bed dat op de grond ligt. Normaal gesproken is het gemaakt van stof of leer, meestal met een voering aan de binnenkant. Het is licht en kan opgerold worden voor transport, maar het slaapt niet zo lekker als in een echt bed. Slaapzakken kunnen door karavanen worden gebruikt voor overnachtingen onderweg.</Bedroll.description>
   
   <!-- EN: double bedroll -->
-  <BedrollDouble.label>twee-\npersoons slaapzak</BedrollDouble.label>
+  <BedrollDouble.label>twee persoons slaapzak</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <BedrollDouble.description>Een eenvoudig bed voor twee personen dat op de grond ligt. Normaal gesproken is het gemaakt van stof of leer, meestal met een voering aan de binnenkant. Het is licht en kan opgerold worden voor transport, maar het slaapt niet zo lekker als in een echt bed. Slaapzakken kunnen door karavanen worden gebruikt voor overnachtingen onderweg.</BedrollDouble.description>
   
@@ -42,12 +42,12 @@
   <DiningChair.description>Een comfortabele en aantrekkelijke stoel. Kan worden gebruikt bij tafels, werktafels en elders.</DiningChair.description>
   
   <!-- EN: double bed -->
-  <DoubleBed.label>twee-\npersoons bed</DoubleBed.label>
+  <DoubleBed.label>twee persoons bed</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
   <DoubleBed.description>Een eenvoudig en breed bed voor twee personen.</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>twee-\npersoons slaapplaats</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>twee persoons slaapplaats</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
   <DoubleSleepingSpot.description>Wijst een plek aan op de grond waar twee personen samen moeten slapen. Niet comfortabel.</DoubleSleepingSpot.description>
   
@@ -77,7 +77,7 @@
   <RoyalBed.description>Een luxueus verguld bed dat een koning waardig is. Het is zo comfortabel en mooi dat het praktisch kunst is. Tweepersoons.</RoyalBed.description>
   
   <!-- EN: shelf -->
-  <Shelf.label>planken-\nkast</Shelf.label>
+  <Shelf.label>planken kast</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
   <Shelf.description>Een plankenkast waar van alles in kan worden opgeborgen. Spullen doe hier zijn opgeslagen hebben geen effect op de schoonheid van een kamer en blijven goed bewaard, ook buitenshuis.</Shelf.description>
   

@@ -7,12 +7,12 @@
   <Battery.description>Slaat elektriciteit op voor later gebruik. Opgeladen batterijen exploderen wanneer blootgesteld aan regen of brand.</Battery.description>
   
   <!-- EN: chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>brandstof-\ngestookte generator</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.label>brandstof gestookte generator</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
   <ChemfuelPoweredGenerator.description>Produceert stroom door chemische brandstof te verstoken. Moet om de zoveel tijd met de hand worden bijgevuld.</ChemfuelPoweredGenerator.description>
   
   <!-- EN: geothermal generator -->
-  <GeothermalGenerator.label>geo-\nthermische generator</GeothermalGenerator.label>
+  <GeothermalGenerator.label>geothermische generator</GeothermalGenerator.label>
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
   <GeothermalGenerator.description>Produceert stroom uit geothermische stoomgeisers. Moet op een stoomgeiser worden geplaatst.</GeothermalGenerator.description>
   
@@ -32,7 +32,7 @@
   <SolarGenerator.description>Produceert stroom uit zonlicht. Werkt niet in het donker of in kunstmatig licht.</SolarGenerator.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>waterkracht-\ncentrale</WatermillGenerator.label>
+  <WatermillGenerator.label>waterkracht centrale</WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
   <WatermillGenerator.description>Produceert stroom uit een rivier. Moet met het waterrad in stromend water worden geplaatst. Als waterkrachtcentrales te dicht op elkaar staan zal turbulentie voor een verminderde stroomopbrengst zorgen.</WatermillGenerator.description>
   
@@ -47,7 +47,7 @@
   <WindTurbine.description>Een elektrische generator op windkracht. Vereist een groot vrij gebied zowel voor als achter de generator voor optimale luchtstroming.</WindTurbine.description>
   
   <!-- EN: wood-fired generator -->
-  <WoodFiredGenerator.label>hout-\ngestookte generator</WoodFiredGenerator.label>
+  <WoodFiredGenerator.label>hout gestookte generator</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
   <WoodFiredGenerator.description>Produceert stroom door hout te verstoken. Moet om de zoveel tijd met de hand worden bijgevuld.</WoodFiredGenerator.description>
   

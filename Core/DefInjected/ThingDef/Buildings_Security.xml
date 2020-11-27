@@ -12,7 +12,7 @@
   <Sandbags.description>Zakken vol zand of aarde waarachter dekking kan worden gezocht. Zandzakken zijn lelijk, maar bieden meer dekking dan andere lage objecten.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>Antikorrel kernkop</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>antikorrel kernkop</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_AntigrainWarhead.description>Een kernkop die functioneert op antimaterie. Hij is verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de kernkop verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_AntigrainWarhead.description>
   
@@ -22,7 +22,7 @@
   <TrapIED_EMP.description>Twee EMP granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
-  <TrapIED_Firefoam.label>Blusschuim bermbom</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.label>blusschuim bermbom</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Firefoam.description>Twee blusschuim granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Firefoam.description>
   
@@ -32,12 +32,12 @@
   <TrapIED_HighExplosive.description>Twee explosieve granaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>brand-\nbermbom</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>brand bermbom</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Twee brandgranaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
-  <TrapIED_Smoke.label>rook-\nbermbom</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>rook bermbom</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Smoke.description>Twee rookgranaten verbonden aan een ontstekingsmechanisme dat af gaat op aanraking of wanneer geraakt door een kogel. Omdat de bom verborgen moet blijven in het terrein kan hij niet naast andere vallen worden geplaatst. Kalme dieren kunnen hem ontwijken.</TrapIED_Smoke.description>
   

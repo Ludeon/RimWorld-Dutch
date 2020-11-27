@@ -7,7 +7,7 @@
   <Ship_Beam.description>Een structurele balk waaromheen de rest van het ruimteschip kan worden gebouwd. Biedt de nodige bedrading en pijpen voor communicatie, stroom en het transport van materialen.</Ship_Beam.description>
   
   <!-- EN: ship computer core -->
-  <Ship_ComputerCore.label>scheeps-\ncomputer</Ship_ComputerCore.label>
+  <Ship_ComputerCore.label>centrale computer</Ship_ComputerCore.label>
   <!-- EN: A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight. -->
   <Ship_ComputerCore.description>Een centrale computer waarin een machinepersoonlijkheid huist die het ruimteschip door welke moeilijkheden dan ook kan loodsen op een tocht van vele decennia.</Ship_ComputerCore.description>
   
@@ -27,7 +27,7 @@
   <Ship_Reactor.description>Voorziet een schip van stroom tijdens de tocht tussen de sterren. Moet voor vertrek worden opgestart, een proces dat lang duurt en hoogstwaarschijnlijk overvallers aan zal trekken.</Ship_Reactor.description>
   
   <!-- EN: sensor cluster -->
-  <Ship_SensorCluster.label>Sensoren-\ncluster</Ship_SensorCluster.label>
+  <Ship_SensorCluster.label>Sensoren cluster</Ship_SensorCluster.label>
   <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
   <Ship_SensorCluster.description>Een module met sensoren met meerder functies. Kan in de ruimte onder andere scannen en communiceren, gevaren detecteren, en deze om de tuin leiden of blokkeren.</Ship_SensorCluster.description>
   

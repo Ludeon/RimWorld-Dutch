@@ -39,7 +39,7 @@
   <!-- EN: goodwill -->
   <goodwill>relatie</goodwill>
   <!-- EN: Neutral -->
-  <Neutral>neutraal</Neutral>
+  <Neutral>Neutraal</Neutral>
   <!-- EN: Death -->
   <Death>Dood</Death>
 
@@ -68,7 +68,7 @@
   <RecruitFail>{0} heeft {1} niet kunnen recruteren (kans: {2}).</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. Als {PAWN_nameDef} overlijdt, zal {RELATIVE_labelShort} lijden aan langdurige rouw. Als u er echter in slaagt {PAWN_nameDef} te redden, zal {RELATIVE_labelShort} lange tijd zeer gelukkig zijn.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. Als {PAWN_nameDef} overlijdt, zal {RELATIVE_labelShort} lijden aan langdurige rouw. Als je er echter in slaagt {PAWN_nameDef} te redden, zal {RELATIVE_labelShort} lange tijd zeer gelukkig zijn.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
   <LetterLabelBirthday>Verjaardag</LetterLabelBirthday>
@@ -192,7 +192,7 @@
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
   <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} heeft een relatie met een kolonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} heeft een relatie met een van uw gevangenen. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} heeft een relatie met een van je gevangenen. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
@@ -214,7 +214,7 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>Afgewezen huwelijksaanzoek</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>Op een gegeven moment in de komende dagen of quadrums, zullen ze hun huwelijksceremonie hebben en alle kolonisten uitnodigen. Overweeg het plaatsen van een huwelijksplek als u wilt controleren waar de ceremonie plaatsvindt.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>Op een gegeven moment in de komende dagen of quadrums, zullen ze hun huwelijksceremonie hebben en alle kolonisten uitnodigen. Overweeg het plaatsen van een trouwplek als je wilt controleren waar de ceremonie plaatsvindt.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
   <LetterAcceptedProposal_NameChange>{PAWN_label} zal de achternaam {1} aannemen.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
@@ -302,7 +302,7 @@
   <!-- EN: Distant resource scanned -->
   <LetterLabelFoundPreciousLump>Kostbare mineralen gevonden</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Met behulp van uw langeafstandsscanner heeft {WORKER_labelShort} een klomp {0} in de buurt gevonden.\n\nHelaas zal het niet lang blijven bestaan - anderen zullen het als eerste in {1} dagen ontginnen als wij dat niet doen.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Met behulp van je langeafstandsscanner heeft {WORKER_labelShort} een klomp {0} in de buurt gevonden.\n\nHelaas zal het niet lang blijven bestaan - anderen zullen het als eerste in {1} dagen ontginnen als wij dat niet doen.\n\n{2}.</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
@@ -320,7 +320,7 @@
   <!-- EN: Peace talks disaster -->
   <LetterLabelPeaceTalks_Disaster>Vredesbesprekingen rampzalig</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>De besprekingen waren een ramp. De afgevaardigden kwamen nauwelijks voorbij hun eerste groeten voordat de discussie uiteenviel in beledigingen en beschuldigingen.\n\nNadat uw karavaan vroegtijdig vertrok, haalde {0} uit {1} het in en viel aan!\n\nRelaties met {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>De besprekingen waren een ramp. De afgevaardigden kwamen nauwelijks voorbij hun eerste groeten voordat de discussie uiteenviel in beledigingen en beschuldigingen.\n\nNadat je karavaan vroegtijdig vertrok, haalde {0} uit {1} het in en viel aan!\n\nRelaties met {1}: {2}.</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
   <LetterLabelPeaceTalks_Backfire>Vredesbesprekingen averechts verlopen</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
@@ -336,9 +336,9 @@
   <!-- EN: Peace talks triumph -->
   <LetterLabelPeaceTalks_Triumph>Vredesgesprekken triomfantelijk</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>De gesprekken waren een grote triomf! De deelnemers waren snel met elkaar verbonden op persoonlijk vlak en konden elkaars perspectief op de moeilijkste kwesties van de dag echt zien.\n\nDe relaties met {0} zijn met {1} verbeterd.\n\nToen uw caravan vertrok, bood {0} u een geschenk aan:\n\n{2}</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>De gesprekken waren een grote triomf! De deelnemers waren snel met elkaar verbonden op persoonlijk vlak en konden elkaars perspectief op de moeilijkste kwesties van de dag echt zien.\n\nDe relaties met {0} zijn met {1} verbeterd.\n\nToen je caravan vertrok, bood {0} je een geschenk aan:\n\n{2}</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>{PAWN_labelShort}, uw onderhandelaar, heeft {1} sociale ervaring opgedaan.</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, je onderhandelaar, heeft {1} sociale ervaring opgedaan.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->

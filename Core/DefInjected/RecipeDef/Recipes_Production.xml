@@ -16,25 +16,25 @@
   <DestroyWeapon.jobString>Wapen aan het vernietigen.</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>smelt sintel.</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>brok staal smelten</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
-  <ExtractMetalFromSlag.description>Extraheer door middel van veel hitte en sterke electromagneten metaal uit sintel.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.description>Extraheer door middel van veel hitte en sterke electromagneten metaal uit brokken staal.</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>Sintel omsmelten in metaal.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>Brok staal aan het omsmelten.</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>win brandstof uit organische stoffen</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
   <Make_ChemfuelFromOrganics.description>Maak brandstof door biobrandstof uit organische voedingsstoffen te halen.</Make_ChemfuelFromOrganics.description>
   <!-- EN: Refining chemfuel from organics. -->
-  <Make_ChemfuelFromOrganics.jobString>Raffineert brandstof uit organische stoffen.</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.jobString>Brandstof uit organische stoffen aan het raffineren.</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
   <Make_ChemfuelFromWood.label>win brandstof uit hout</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
   <Make_ChemfuelFromWood.description>Maak brandstof door houtgas uit boomstammen te onttrekken.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
-  <Make_ChemfuelFromWood.jobString>Raffineert brandstof uit hout.</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.jobString>Brandstof uit hout aan het raffineren.</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
   <Make_ComponentIndustrial.label>maak component</Make_ComponentIndustrial.label>
@@ -55,7 +55,7 @@
   <!-- EN: Combine various types of leather to create weak patchleather. -->
   <Make_Patchleather.description>Naai verschillende soorten leer aan elkaar om een zwakker lappenleer te maken.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>Maakt lappenleer.</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Lappenleer aan het maken.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>maak elk stenen blok</Make_StoneBlocksAny.label>

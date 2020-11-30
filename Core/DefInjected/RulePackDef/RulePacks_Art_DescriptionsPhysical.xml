@@ -9,7 +9,7 @@
   <ArtDescription_Furniture.rulePack.rulesStrings>
     <li>physical_description_root->Dit meubelstuk is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Dit meubelstuk toont een [depiction] van [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Een gravure op dit meubelsteuk toont een [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Een gravure op dit meubelsteuk [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:
@@ -22,7 +22,7 @@
     <li>physical_description_root->De sarcofaag is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->De sarcofaag toont een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->De sarcofaag is gegvraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Een gravure op de sarcofaag toont een [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Een gravure op de sarcofaag [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -52,7 +52,7 @@
   <ArtDescription_WeaponGun.rulePack.rulesStrings>
     <li>physical_description_root->Dit wapen is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Dit wapen toont een [depiction] van [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Een gravure op dit wapen toont een [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Een gravure op dit wapen [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_WeaponGun.rulePack.rulesStrings>
   
   <!-- EN:
@@ -63,7 +63,7 @@
   <ArtDescription_WeaponMelee.rulePack.rulesStrings>
     <li>physical_description_root->Dit wapen is gegraveerd met een [depiction] van [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Dit wapen toont een [depiction] van [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->Een gravure op dit wapen toont een [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Een gravure op dit wapen [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_WeaponMelee.rulePack.rulesStrings>
   
 </LanguageData>

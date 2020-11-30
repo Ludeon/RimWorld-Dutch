@@ -34,8 +34,8 @@
     <li>image->[PAWN_nameFull] die een [Weapon] defensief gebruikt terwijl [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die terug vecht met [PAWN_possessive] [Weapon] terwijl [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die sterk staat als een huis terwijl [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] die een [AdjectiveBadassGendered] uitdrukking op zijn gezicht heeft, terwijl [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] die een [AdjectiveAngstyGendered] uitdrukking op zijn gezicht heeft, terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [AdjectiveBadassGendered] uitdrukking op [PAWN_objective] gezicht heeft, terwijl [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [AdjectiveAngstyGendered] uitdrukking op [PAWN_objective] gezicht heeft, terwijl [circumstance_group]</li>
     <li>circumstance_phrase->een horde vijanden dichterbij komt</li>
     <li>circumstance_phrase->de wagens defensief worden opgesteld</li>
     <li>circumstance_phrase->[PAWN_pronoun] de overwinning uitroept</li>

@@ -225,7 +225,7 @@
     <li>artextra_clause->de scène vindt plaats in een [Community] gebouwd bij een [TerrainFeature]</li>
     <li>artextra_clause->een [Character] [idles] [side_position]</li>
     <li>artextra_clause->een [pawn_adjGendered] [Character] [idles] [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [Character]s staan [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [CharacterPlural] staan [side_position]</li>
     <li>artextra_clause->[Quantity_adjphrase] [pawn_adjGendered] [Character]s staan [side_position]</li>
     <li>artextra_clause->een [Animal] [idles] [side_position]</li>
     <li>artextra_clause->als je je ogen dichtknijpt, zie je in de [compositionGendered] compositie van het beeld de beeltenis van [subimageany]</li>

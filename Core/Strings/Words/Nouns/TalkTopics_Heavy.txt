@@ -1,142 +1,128 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessless of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
-
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
-
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
-
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
-
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
-
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
-
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
-
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
-
-fate
-the fate of mankind
-the fate of the universe
-
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
-
-sexuality
-love
-romance
-sexual fetishes
-sexual morality
-masculinity
-femininity
-seduction
-sex
-animal sexuality
-
-self-replicating machines
-generation ships
-Von Neumann probes
-
-archotechnology
+﻿AI-persona's
+Von Neumann-sondes
+afwezige vrienden
+anarchie
+andere planeten
+angst
+angsten uit de kindertijd
+archotechnologie
 archotechs
-AI personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rim worlds
-core worlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+artistieke ambitie
+artistieke instincten
+autoritarisme
+buitenaards contact
+buitenaardse samenzweringen
+buitenaardse wezens
+computer technologie
+cryptoslaap
+cryptoslaap-graven
+cultuur
+cultuurschokken
+cultuurverschillen
+de Johnson-Tanaka motor
+de Ordo Historia
+de aard van emotie
+de aard van kennis
+de aarde
+de afwezigheid van aliens
+de beloningen van het leven
+de betekenis van het leven
+de bevrijding van de dood
+de dood
+de eeuwigheid
+de kindertijd
+de kunstgeschiedenis
+de leeftijd van het universum
+de maatschappij
+de markt
+de menselijke natuur
+de mensheid
+de moraliteit van armoede
+de moraliteit van rijkdom
+de onvermijdelijkheid van de dood
+de onvermijdelijkheid van lijden
+de politiek
+de regering
+de schaal van het universum
+de sterren
+de stress van het leven
+de teleurstelling van het leven
+de verspreiding van de mens door het universum
+de voorkeuren van de groep
+de vrijheid van meningsuiting
+de wet
+de willekeur van het leven
+deze planeet
+dierlijke seksualiteit
+dualisme
+een goed doel
+eer
+eerlijkheid
+epistemologie
+ervaringen uit de kindertijd
+etniciteit
+filantropie
+filosofie
+generatieschepen
+gerechtigheid
+geschiedenis
+het hebben van spijt in het leven
+het helpen van de armen
+het helpen van de onderdrukten
+het helpen van de zieken
+het leven
+het leven na de dood
+het liberalisme
+het lot
+het lot van de mensheid
+het lot van het universum
+het lot van het universum
+het zinloze van het leven
+hoop
+identiteit
+kannibalisme
+kernwerelden
+kinderen
+kinderliefdes
+kunst
+kunstbewegingen
+kunstmatige intelligentie
+levensdoelen
+levensherinneringen
+levensuitdagingen
+liefde
+luddisme
+machine intelligentie
+mannelijkheid
+mechanoïden
+menselijke esthetiek
+monisme
+moraliteit
+nachtmerries
+onrecht
+overleden dierbaren
+primitivisme
+realiteit
+rechten
+religie
+religieuze samenzweringen
+rimwerelden
+romantiek
+samenzweringen van de overheid
+seks
+seksualiteit
+seksuele fetisjen
+seksuele moraal
+sociale kwesties
+succes
+technologie
+terreur
+terrorisme
+tribalisme
+verleiding
+volwassenheid
+vrijheid
+vrouwelijkheid
+waarheid
+wapentechnologie
+zelfreplicerende machines

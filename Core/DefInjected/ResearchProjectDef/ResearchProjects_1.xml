@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>Bierbrouwen</Brewing.label>
+  <Brewing.label>bierbrouwen</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
   <Brewing.description>Bouw een brouwerij en fermenteringsvaten om hop om te zetten in heerlijk helder bier.</Brewing.description>
   
@@ -37,7 +37,7 @@
   <DrugProduction.description>Bouw een druglaboratorium voor eenvoudige drugproductie. Meer onderzoek is nodig om specifieke drugs te maken.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>go-juice productie</GoJuiceProduction.label>
+  <GoJuiceProduction.label>go-sap productie</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
   <GoJuiceProduction.description>Produceer go-juice, een synthetische vecht-verbeterende drug waardoor vaardigheid in schieten, melee en beweging toeneemt en pijngevoel afneemt.</GoJuiceProduction.description>
   
@@ -49,7 +49,7 @@
   <!-- EN: long blades -->
   <LongBlades.label>lange lemmeten</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
-  <LongBlades.description>Maak langzwaarden en speren.</LongBlades.description>
+  <LongBlades.description>Maak zwaarden en speren.</LongBlades.description>
   
   <!-- EN: passive cooler -->
   <PassiveCooler.label>passieve koeler</PassiveCooler.label>

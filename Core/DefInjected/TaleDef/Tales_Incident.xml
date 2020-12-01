@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>aurora</Aurora.label>
   <!-- EN:
     <li>tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->the time polar lights shone over [PAWN_nameDef]'s [Community]</li>
@@ -23,10 +23,30 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
     <li>desc_sentence->There is no [Enemy] in sight.</li>
   -->
-  <Aurora.rulePack.rulesStrings>TODO</Aurora.rulePack.rulesStrings>
+  <Aurora.rulePack.rulesStrings>
+    <li>tale_noun->de nacht waarop een aurora verscheen boven [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->de nacht waarop het poollicht scheen boven [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die wordt verlicht door het licht van een aurora</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat wordt verlicht door het licht van een aurora</li>
+    <li>image->de hemel die in [Color] en [Color] is verlicht [circumstance_phrase]</li>
+    <li>image->een fantastisch patroon van [ColorAdjective] stralen [circumstance_phrase]</li>
+    <li>image->een netwerk van [ColorAdjective] lichten [circumstance_phrase]</li>
+    <li>image->[ColorAdjective] lichtbogen met [ColorAdjective] vlekken er in [circumstance_phrase]</li>
+    <li>image->dansende [ColorAdjective] lichten [circumstance_group]</li>
+    <li>circumstance_phrase->boven een [TerrainFeature]</li>
+    <li>circumstance_phrase->die een [TerrainFeature] verlichten</li>
+    <li>circumstance_phrase->die boven een [Community] hangen</li>
+    <li>circumstance_phrase->met aan weerskanten een [TerrainFeature] en een [TerrainFeature]</li>
+    <li>desc_sentence->Daar beneden speelt [PAWN_nameDef] [Game] met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt er naar met een verwonderde uitdrukking op [PAWN_possessive] gezicht.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken er beneden naar.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit bij een [TerrainFeature], en kijkt naar de hemel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] lopen vredig rond.</li>
+    <li>desc_sentence->Er is geen [Enemy] in zicht.</li>
+  </Aurora.rulePack.rulesStrings>
   
   <!-- EN: caravan ambushed -->
-  <CaravanAmbushedByHumanlike.label>TODO</CaravanAmbushedByHumanlike.label>
+  <CaravanAmbushedByHumanlike.label>karavaan overvallen</CaravanAmbushedByHumanlike.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
     <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
@@ -48,10 +68,30 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in fear.</li>
     <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
   -->
-  <CaravanAmbushedByHumanlike.rulePack.rulesStrings>TODO</CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+  <CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die wordt overvallen</li>
+    <li>image->[PAWN_nameFull] die zich verschuilt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een bondgenoot probeert te beschermen [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in de aanval gaat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die aan valt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die luid roept [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die rent [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die met een vijand worstelt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die zichzelf verdedigt [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en daarbij [PAWN_possessive] wapen gebruikt</li>
+    <li>circumstance_phrase->en daarbij zweet als een rund</li>
+    <li>desc_sentence->[Quantity_adjphrase] figuren komen in de verte achter een [TerrainFeature] vandaan.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] zijn in de verte te zien.</li>
+    <li>desc_sentence->[PAWN_nameDef] is praktisch omsingeld door [EnemyPlural].</li>
+    <li>desc_sentence->[PAWN_nameDef] wordt tegengehouden door een [Enemy].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten uit angst het gevecht.</li>
+    <li>desc_sentence->In de verte kijkt een [PersonJob] toe.</li>
+  </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
   
   <!-- EN: caravan ambushed by manhunter -->
-  <CaravanAmbushedByManhunter.label>TODO</CaravanAmbushedByManhunter.label>
+  <CaravanAmbushedByManhunter.label>karavaan overvallen door klopjager</CaravanAmbushedByManhunter.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
     <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
@@ -71,10 +111,32 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in fear.</li>
     <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
   -->
-  <CaravanAmbushedByManhunter.rulePack.rulesStrings>TODO</CaravanAmbushedByManhunter.rulePack.rulesStrings>
+  <CaravanAmbushedByManhunter.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die wordt overvallen</li>
+    <li>image->[PAWN_nameFull] die zich verschuilt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een bondgenoot probeert te beschermen [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in de aanval gaat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die aan valt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die luid roept [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die rent [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en daarbij [PAWN_possessive] wapen gebruikt</li>
+    <li>circumstance_phrase->en daarbij zweet als een rund</li>
+    <li>circumstance_phrase(p=0.2)->en onder de [GoreGendered]</li>
+    <li>circumstance_phrase(p=0.6)->en onder het [GoreNeuter]</li>
+    <li>circumstance_phrase(p=0.2)->en onder de [GorePlural]</li>
+    <li>desc_sentence->[Quantity_adjphrase] dieren komen in de verte achter een [TerrainFeature] vandaan.</li>
+    <li>desc_sentence(p=0.2)->De grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->De grond zit onder de [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->De grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->De grond is vertrapt en zit vol [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten uit angst het gevecht.</li>
+    <li>desc_sentence->In de verte kijkt een [PersonJob] toe.</li>
+  </CaravanAmbushedByManhunter.rulePack.rulesStrings>
   
   <!-- EN: caravan demand -->
-  <CaravanDemand.label>TODO</CaravanDemand.label>
+  <CaravanDemand.label>karavaan eis</CaravanDemand.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan receiving a demand</li>
     <li>tale_noun->[PAWN_nameDef]'s caravan being threatened</li>
@@ -99,10 +161,33 @@
     <li>action->waiting for a decision</li>
     <li>action->taunting [PAWN_nameDef]</li>
   -->
-  <CaravanDemand.rulePack.rulesStrings>TODO</CaravanDemand.rulePack.rulesStrings>
+  <CaravanDemand.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die een eis ontvangt</li>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die wordt bedreigd</li>
+    <li>image->[PAWN_nameFull] die zich verschuilt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die luid roept [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die denkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die kwaad kijkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die wordt bedreigd door een [PersonJob], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [Weapon] vast houdt [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een [AdjectiveBadassGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] door [EnemyPlural] wordt bedreigd</li>
+    <li>desc_sentence->[PAWN_nameDef] is praktisch omsingeld door [EnemyPlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] zijn in de buurt, [action].</li>
+    <li>desc_sentence->De zon gaat onder achter een [TerrainFeature].</li>
+    <li>desc_sentence->De zon gaat op van achter een [TerrainFeature].</li>
+    <li>desc_sentence->In de verte kijkt een [PersonJob] toe.</li>
+    <li>action->en scherpen hun wapens aan</li>
+    <li>action->op de uitkijk voor gevaar</li>
+    <li>action->en houden gijzelaars vast</li>
+    <li>action->in afwachting van een besluit</li>
+    <li>action->en dagen [PAWN_nameDef] uit</li>
+  </CaravanDemand.rulePack.rulesStrings>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>TODO</CaravanMeeting.label>
+  <CaravanMeeting.label>karavaan ontmoeting</CaravanMeeting.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan being met by others</li>
     <li>image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group]</li>
@@ -128,10 +213,34 @@
     <li>event->rekindling old friendships</li>
     <li>event->talking hesitantly</li>
   -->
-  <CaravanMeeting.rulePack.rulesStrings>TODO</CaravanMeeting.rulePack.rulesStrings>
+  <CaravanMeeting.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s karavaan die andere reizigers ontmoet</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] een [PersonJob] begroet [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] een [PersonJob] bekijkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] naar een [PersonJob] roept [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] naar een [PersonJob] toe loopt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] rustig praat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] luid roept [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die[verbOptional] [Game] speelt met een [PersonJob] [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>verbOptional-> al [VerbFriendly]</li>
+    <li>verbOptional(p=2)-></li>
+    <li>desc_sentence(p=2)->[Quantity_adjphrase] [PersonJobPlural] [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] omringen de groep.</li>
+    <li>desc_sentence->De zon gaat onder achter een [TerrainFeature].</li>
+    <li>desc_sentence->De zon gaat op van achter een [TerrainFeature].</li>
+    <li>desc_sentence->In de verte kijkt een [PersonJob] toe.</li>
+    <li>event->houden een feestje</li>
+    <li>event->eten een gezamelijke maaltijd</li>
+    <li>event->bespreken recente gebeurtenissen</li>
+    <li>event->halen oude vriendschappen aan</li>
+    <li>event->spreken aarzelend</li>
+  </CaravanMeeting.rulePack.rulesStrings>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>TODO</Eclipse.label>
+  <Eclipse.label>eclips</Eclipse.label>
   <!-- EN:
     <li>tale_noun->an eclipse over [PAWN_nameDef]'s [Community]</li>
     <li>image->an unnaturally dark sky, [circumstance_phrase]</li>
@@ -149,10 +258,27 @@
     <li>desc_sentence->A [Community] of spectators watches the sky peacefully.</li>
     <li>desc_sentence->There is no [Enemy] in sight.</li>
   -->
-  <Eclipse.rulePack.rulesStrings>TODO</Eclipse.rulePack.rulesStrings>
+  <Eclipse.rulePack.rulesStrings>
+    <li>tale_noun->een eclips boven [PAWN_nameDef]'s [Community]</li>
+    <li>image->een ongebruikelijk donkere hemel. [circumstance_phrase]</li>
+    <li>image->een schemerige lucht. [circumstance_phrase]</li>
+    <li>image->een maan die omringd wordt door een vage ring zonlicht. [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [AnimalPlural] die onrustig rondlopen in de duisternis. [circumstance_phrase]</li>
+    <li>circumstance_phrase->De lucht is stil en rustig</li>
+    <li>circumstance_phrase(p=0.78)->De duisternis verhult een nabije [TerrainFeatureGendered]</li>
+    <li>circumstance_phrase(p=0.22)->De duisternis verhult een nabij [TerrainFeatureNeuter]</li>
+    <li>circumstance_phrase->De duisternis verhult [Quantity_adjphrase] nabije [TerrainFeaturePlural]</li>
+    <li>circumstance_phrase->De sterren zijn zichtbaar</li>
+    <li>desc_sentence->Daar beneden speelt [PAWN_nameDef] [Game] met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt er naar met een verwonderde uitdrukking op [PAWN_possessive] gezicht.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken er beneden naar.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit bij een [TerrainFeature], en kijkt naar de hemel.</li>
+    <li>desc_sentence->Een [Community] vol toeschouwers kijkt vredig naar de hemel.</li>
+    <li>desc_sentence->Er is geen [Enemy] in zicht.</li>
+  </Eclipse.rulePack.rulesStrings>
   
   <!-- EN: journey offer -->
-  <EndGame_ShipEscape.label>TODO</EndGame_ShipEscape.label>
+  <EndGame_ShipEscape.label>reisaanbod</EndGame_ShipEscape.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] receiving a message from an old friend</li>
     <li>tale_noun->an opportunity arriving for [PAWN_nameDef]'s [Community]</li>
@@ -182,10 +308,38 @@
     <li>desc_sentence->A [Community] is visible in the far distance.</li>
     <li>desc_sentence->A spaceship is visible in the far distance.</li>
   -->
-  <EndGame_ShipEscape.rulePack.rulesStrings>TODO</EndGame_ShipEscape.rulePack.rulesStrings>
+  <EndGame_ShipEscape.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een bericht van een oude vriend ontvangt</li>
+    <li>tale_noun->een buitenkans die zich voordoet voor [PAWN_nameDef]'s [Community]</li>
+    <li>image->[PAWN_nameDef] die een brief openmaakt die door [delivery_method] is bezorgd. [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] die een datakristal gebruikt die door [delivery_method] is bezorgd. [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] die een rol perkament openrolt die door [delivery_method] is bezorgd. [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] die een radiobericht ontvangt via [transmission_source]. [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] die een bericht ontvangt via [transmission_source]. [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] die afstemt op een bericht van [transmission_source]. [circumstance_group]</li>
+    <li>delivery_method->een [Animal]</li>
+    <li>delivery_method->een [PersonJob]</li>
+    <li>delivery_method->[Quantity_adjphrase] [AnimalPlural]</li>
+    <li>transmission_source->een zelden gebruikte frequentie</li>
+    <li>transmission_source->een antieke zender</li>
+    <li>transmission_source->een zwak signaal</li>
+    <li>transmission_source->een lange-afstand signaal</li>
+    <li>transmission_source->een mysterieus signaal</li>
+    <li>circumstance_phrase->[PAWN_pronoun] staat alleen in de buurt van een [TerrainFeature]</li>
+    <li>circumstance_phrase->[PAWN_pronoun] is een [TerrainFeature] in kaart aan het brengen</li>
+    <li>circumstance_phrase->[PAWN_pronoun] is een akkerland aan het onderhouden</li>
+    <li>circumstance_phrase->Een [Animal] loopt voorbij</li>
+    <li>circumstance_phrase->[PAWN_pronoun] is [Game] aan het spelen</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] lopen in de buurt, zonder ergens erg in te hebben.</li>
+    <li>desc_sentence->[PAWN_pronoun] leest al [VerbFriendly] het bericht.</li>
+    <li>desc_sentence->Een spectrale [PersonJob] kijkt toe vanuit de wolken.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit bij een [TerrainFeature].</li>
+    <li>desc_sentence->Een [Community] is in de verte te zien.</li>
+    <li>desc_sentence->Een ruimteschip is in de verte te zien.</li>
+  </EndGame_ShipEscape.rulePack.rulesStrings>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>flitsstorm</Flashstorm.label>
   <!-- EN:
     <li>tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by a deadly flashstorm</li>
@@ -208,10 +362,32 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
     <li>desc_sentence->All animal life has left the area.</li>
   -->
-  <Flashstorm.rulePack.rulesStrings>TODO</Flashstorm.rulePack.rulesStrings>
+  <Flashstorm.rulePack.rulesStrings>
+    <li>tale_noun->een flitsstorm die [PAWN_nameDef]'s [Community] bedreigt</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die door een dodelijke flitsstorm wordt bedreigd</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat door een dodelijke flitsstorm wordt bedreigd</li>
+    <li>image->[Quantity_adjphrase] inslaande bliksemschichten [circumstance_phrase]</li>
+    <li>image->[behavior] muur van vuur [circumstance_phrase]</li>
+    <li>image->[behavior] muur van [AdjectiveColor] vlammen [circumstance_phrase]</li>
+    <li>image->[behavior] wolk van as en rook [circumstance_phrase]</li>
+    <li>image->[behavior] golf van vlammen [circumstance_phrase]</li>
+    <li>behavior->een</li>
+    <li>behavior->een naderende</li>
+    <li>behavior->een aanstormende</li>
+    <li>circumstance_phrase->die op een [Community] af komt</li>
+    <li>circumstance_phrase->met daarboven een intimiderende wolk</li>
+    <li>circumstance_phrase->die bijna een [TerrainFeature] opslokt</li>
+    <li>circumstance_phrase->die bijna [Quantity_adjphrase] [TerrainFeaturePlural] opslokt</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt zichtbaar beangstigd toe.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt toe met ontzag op [PAWN_possessive] gezicht.</li>
+    <li>desc_sentence->[PAWN_nameDef] coördineert de tegenmaatregelen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] treffen snel voorbereidingen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->Alle dieren hebben het gebied verlaten.</li>
+  </Flashstorm.rulePack.rulesStrings>
   
   <!-- EN: infestation -->
-  <Infestation.label>TODO</Infestation.label>
+  <Infestation.label>plaag</Infestation.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects</li>
     <li>image->a swarm of beetles [circumstance_phrase]</li>
@@ -234,10 +410,34 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
     <li>desc_sentence->All animal life has left the area.</li>
   -->
-  <Infestation.rulePack.rulesStrings>TODO</Infestation.rulePack.rulesStrings>
+  <Infestation.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s [CommunityGendered] die wordt geplaagd door enorme insecten</li>
+    <li>tale_noun->[PAWN_nameDef]'s [CommunityNeuter] dat wordt geplaagd door enorme insecten</li>
+    <li>image->een zwerm kevers [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] megaspinnen [circumstance_phrase]</li>
+    <li>image->een overweldigende golf [AdjectiveColor] insecten [circumstance_phrase]</li>
+    <li>image->een dikke wolk zwarte spikkels [circumstance_phrase]</li>
+    <li>circumstance_phrase->die over een [TerrainFeature] naderen</li>
+    <li>circumstance_phrase->die een [Community] volledig omringen</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [PersonJobPlural] aanvallen</li>
+    <li>circumstance_phrase->die uit de grond kruipen</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [AnimalPlural] afslachten</li>
+    <li>desc_sentence->[PAWN_nameDef] organiseert verzet.</li>
+    <li>desc_sentence->[PAWN_nameDef] houdt een [Weapon] vast ter verdediging.</li>
+    <li>desc_sentence->[PAWN_nameDef] ligt gewond op de grond.</li>
+    <li>desc_sentence->[PAWN_nameDef] vecht terug met [PAWN_possessive] [Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveBadassGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->de grond zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->Alle dieren hebben het gebied verlaten.</li>
+  </Infestation.rulePack.rulesStrings>
   
   <!-- EN: manhunter pack -->
-  <ManhunterPack.label>TODO</ManhunterPack.label>
+  <ManhunterPack.label>klopjagers</ManhunterPack.label>
   <!-- EN:
     <li>tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals</li>
@@ -265,10 +465,41 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
-  <ManhunterPack.rulePack.rulesStrings>TODO</ManhunterPack.rulePack.rulesStrings>
+  <ManhunterPack.rulePack.rulesStrings>
+    <li>tale_noun->klopjagers die [PAWN_nameDef]'s [Community] bedreigen</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die wordt aangevallen door dolgedraaide dieren</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat wordt aangevallen door dolgedraaide dieren</li>
+    <li>image->een kudde [AnimalPlural] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [AnimalPlural] [circumstance_phrase]</li>
+    <li>image->een [AdjectiveLargeGendered] [Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] duistere figuren [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] duistere viervoeters [circumstance_phrase]</li>
+    <li>circumstance_phrase->die over een [TerrainFeature] naderen</li>
+    <li>circumstance_phrase->die een [Community] volledig omringen</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [PersonJobPlural] aanvallen</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [AnimalPlural] afslachten</li>
+    <li>circumstance_phrase->die vervuld zijn van [hate_emotion]</li>
+    <li>circumstance_phrase(p=0.2)->die onder de [GoreGendered] zitten</li>
+    <li>circumstance_phrase(p=0.6)->die onder het [GoreNeuter] zitten</li>
+    <li>circumstance_phrase(p=0.2)->die onder de [GorePlural] zitten</li>
+    <li>hate_emotion->haat</li>
+    <li>hate_emotion->woede</li>
+    <li>hate_emotion->venijn</li>
+    <li>desc_sentence->[PAWN_nameDef] organiseert verzet.</li>
+    <li>desc_sentence->[PAWN_nameDef] houdt een [Weapon] vast ter verdediging.</li>
+    <li>desc_sentence->[PAWN_nameDef] ligt gewond op de grond.</li>
+    <li>desc_sentence->[PAWN_nameDef] vecht terug met [PAWN_possessive] [Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveBadassGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->de grond zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+  </ManhunterPack.rulePack.rulesStrings>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
+  <MeteoriteImpact.label>meteoriet inslag</MeteoriteImpact.label>
   <!-- EN:
     <li>tale_noun->a meteorite falling near [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->a meteorite impacting near [PAWN_nameDef]'s [Community]</li>
@@ -294,10 +525,34 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
     <li>desc_sentence->The surroundings are muted and dull.</li>
   -->
-  <MeteoriteImpact.rulePack.rulesStrings>TODO</MeteoriteImpact.rulePack.rulesStrings>
+  <MeteoriteImpact.rulePack.rulesStrings>
+    <li>tale_noun->een meteoriet die neervalt in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->een meteoriet die inslaat in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>image->een [AdjectiveLargeNeuter] rotsblok waar [AdjectiveColor] vlammen uit komen [airborne_circumstance]</li>
+    <li>image->een fel gloeiende vlek [airborne_circumstance]</li>
+    <li>image->een [AdjectiveLargeGendered] [AdjectiveColor] vuurbal [airborne_circumstance]</li>
+    <li>airborne_circumstance->die door de hemel schiet</li>
+    <li>airborne_circumstance->die op de grond valt in een wolk van as</li>
+    <li>airborne_circumstance->die steen en puin afwerpt tijdens zijn vlucht</li>
+    <li>image->een [AdjectiveLargeGendered] monoliet, [ground_circumstance]</li>
+    <li>image->een [AdjectiveLargeGendered] [AdjectiveColor] verschroeide steen, [ground_circumstance]</li>
+    <li>image->een [AdjectiveColor] rotspilaar, [ground_circumstance]</li>
+    <li>ground_circumstance->omringd door rook en as</li>
+    <li>ground_circumstance->rokend van de hitte</li>
+    <li>ground_circumstance->omringd door gesmolten puin</li>
+    <li>ground_circumstance->half begraven in de grond</li>
+    <li>ground_circumstance->gelegen in een gespleten krater</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt verrast toe.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt opgewonden toe.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt geschokt toe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] figuren komen uit een nabijgelegen [TerrainFeature] tevoorschijn.</li>
+    <li>desc_sentence->[Quantity_adjphrase] figuren brengen hun gereedschap in gereedheid.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rennen onrustig in het rond.</li>
+    <li>desc_sentence->de omgeving is grijs en grauw.</li>
+  </MeteoriteImpact.rulePack.rulesStrings>
   
   <!-- EN: raid -->
-  <Raid.label>TODO</Raid.label>
+  <Raid.label>overval</Raid.label>
   <!-- EN:
     <li>tale_noun->an raid on [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
@@ -329,10 +584,44 @@
     <li>defender_circumstance->raising a fist in defiance</li>
     <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
   -->
-  <Raid.rulePack.rulesStrings>TODO</Raid.rulePack.rulesStrings>
+  <Raid.rulePack.rulesStrings>
+    <li>tale_noun->een overval op [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->een aanval op [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die wordt aangevallen door [EnemyPlural]</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat wordt aangevallen door [EnemyPlural]</li>
+    <li>image->een groep van [Quantity_adjphrase] [EnemyPlural] [circumstance_phrase]</li>
+    <li>image->een leger [circumstance_phrase]</li>
+    <li>image->een overmacht [circumstance_phrase]</li>
+    <li>image->een binnenvallende macht [circumstance_phrase]</li>
+    <li>image->een groep stilistische [AdjectiveColor] vlaggen [circumstance_phrase]</li>
+    <li>image->een enorme [EnemyGendered] [circumstance_phrase]</li>
+    <!--li>image->een enorm [EnemyNeuter] [circumstance_phrase]</li-->
+    <li>circumstance_phrase->die over een [TerrainFeature] nadert</li>
+    <li>circumstance_phrase->die een [Community] volledig omringt</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [PersonJobPlural] aanvalt</li>
+    <li>circumstance_phrase->die de overwinning uitschreeuwt</li>
+    <li>circumstance_phrase->gewapend met [WeaponPlural]</li>
+    <li>circumstance_phrase->bedekt met [Gore]</li>
+    <li>desc_sentence->[PAWN_nameDef] organiseert verzet [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] hanteert [Weapon] ter verdediging [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] ligt gewond op de grond.</li>
+    <li>desc_sentence->[PAWN_nameDef] vecht terug met [PAWN_possessive] [Weapon] [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] is zo groot als een heel gebouw, [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveBadassGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->de grond zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+    <li>defender_circumstance->en schreeuwt triomfantelijk</li>
+    <li>defender_circumstance->en geeft [Color] licht</li>
+    <li>defender_circumstance->met [PAWN_possessive] vuist in de lucht</li>
+    <li>defender_circumstance->en balt [PAWN_possessive] spieren</li>
+  </Raid.rulePack.rulesStrings>
   
   <!-- EN: ship part crash -->
-  <ShipPartCrash.label>TODO</ShipPartCrash.label>
+  <ShipPartCrash.label>scheepsdeel crash</ShipPartCrash.label>
   <!-- EN:
     <li>tale_noun->an ancient ship part crashing near [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->an ancient ship part landing near [PAWN_nameDef]'s [Community]</li>
@@ -365,10 +654,46 @@
     <li>defender_circumstance->raising a fist in defiance</li>
     <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
   -->
-  <ShipPartCrash.rulePack.rulesStrings>TODO</ShipPartCrash.rulePack.rulesStrings>
+  <ShipPartCrash.rulePack.rulesStrings>
+    <li>tale_noun->een antiek scheepsdeel dat neerstort in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->een antiek scheepsdeel dat landt in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->een beschadigd scheepsdeel dat landt in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>image->een zwerm [MechanoidPlural] [circumstance_phrase]</li>
+    <li>image->een leger [MechanoidPlural] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [MechanoidPlural] [circumstance_phrase]</li>
+    <li>image->een [AdjectiveLargeGendered] [MechanoidGendered] [circumstance_phrase]</li>
+    <!--li>image->een [AdjectiveLargeNeuter] [MechanoidNeuter] [circumstance_phrase]</li-->
+    <li>image->[Quantity_adjphrase] [Mechanoid] silhouetten [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [MechanoidPlural] met [Color] lichtgevende sensoren [circumstance_phrase]</li>
+    <li>circumstance_phrase->die over een [TerrainFeature] nadert</li>
+    <li>circumstance_phrase->die een [Community] volledig omringt</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [PersonJobPlural] aanvalt</li>
+    <li>circumstance_phrase->die [Quantity_adjphrase] [AnimalPlural] afslachten</li>
+    <li>circumstance_phrase(p=0.2)->die onder de [GoreGendered] zitten</li>
+    <li>circumstance_phrase(p=0.6)->die onder het [GoreNeuter] zitten</li>
+    <li>circumstance_phrase(p=0.2)->die onder de [GorePlural] zitten</li>
+    <li>circumstance_phrase->die gedeukt zijn en vonken afgeven</li>
+    <li>desc_sentence->[PAWN_nameDef] organiseert verzet [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] hanteert [Weapon] ter verdediging [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] ligt gewond op de grond.</li>
+    <li>desc_sentence->[PAWN_nameDef] vecht terug met [PAWN_possessive] [Weapon] [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] is zo groot als een heel gebouw, [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveBadassGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] heeft een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->de grond zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->de grond zit onder de [GorePlural].</li>
+    <li>desc_sentence->The zit onder de metaalresten.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+    <li>defender_circumstance->en schreeuwt triomfantelijk</li>
+    <li>defender_circumstance->en geeft [Color] licht</li>
+    <li>defender_circumstance->met [PAWN_possessive] vuist in de lucht</li>
+    <li>defender_circumstance->en balt [PAWN_possessive] spieren</li>
+  </ShipPartCrash.rulePack.rulesStrings>
   
   <!-- EN: tornado -->
-  <Tornado.label>TODO</Tornado.label>
+  <Tornado.label>tornado</Tornado.label>
   <!-- EN:
     <li>tale_noun->a tornado that touched down near [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by tornado</li>
@@ -391,10 +716,32 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
     <li>desc_sentence->All animal life has left the area.</li>
   -->
-  <Tornado.rulePack.rulesStrings>TODO</Tornado.rulePack.rulesStrings>
+  <Tornado.rulePack.rulesStrings>
+    <li>tale_noun->een tornado die aan land is gekomen in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die bedreigt wordt door een tornado</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat bedreigt wordt door een tornado</li>
+    <li>image->[behavior] kolom van ronddraaiende lucht [circumstance_phrase]</li>
+    <li>image->[behavior] tornado [circumstance_phrase]</li>
+    <li>image->[behavior] orkaan [circumstance_phrase]</li>
+    <li>image->[behavior] [AdjectiveColor] wolkenformatie [circumstance_phrase]</li>
+    <li>behavior->een naderende</li>
+    <li>behavior->een aanstormende</li>
+    <li>behavior->een zich snel verplaatsende</li>
+    <li>behavior->een wervelende</li>
+    <li>circumstance_phrase->die puin met zich mee sleept</li>
+    <li>circumstance_phrase->die over een [TerrainFeature] trekt</li>
+    <li>circumstance_phrase->die een [TerrainFeature] verhult</li>
+    <li>circumstance_phrase->die een [TerrainFeature] opslokt</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt zichtbaar beangstigd toe.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt toe met ontzag op [PAWN_possessive] gezicht.</li>
+    <li>desc_sentence->[PAWN_nameDef] coördineert de tegenmaatregelen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] treffen snel voorbereidingen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->Alle dieren hebben het gebied verlaten.</li>
+  </Tornado.rulePack.rulesStrings>
   
   <!-- EN: tornado -->
-  <TornadoFromItem.label>TODO</TornadoFromItem.label>
+  <TornadoFromItem.label>tornado</TornadoFromItem.label>
   <!-- EN:
     <li>tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community]</li>
     <li>tale_noun->[COLONIST_nameDef]'s [Community] menaced by a tornado</li>
@@ -419,10 +766,34 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
     <li>desc_sentence->All animal life has left the area.</li>
   -->
-  <TornadoFromItem.rulePack.rulesStrings>TODO</TornadoFromItem.rulePack.rulesStrings>
+  <TornadoFromItem.rulePack.rulesStrings>
+    <li>tale_noun->een tornado die aan land is gekomen in de buurt van [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die bedreigt wordt door een tornado</li>
+    <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat bedreigt wordt door een tornado</li>
+    <li>image->[behavior] kolom van ronddraaiende lucht [circumstance_phrase]</li>
+    <li>image->[behavior] tornado [circumstance_phrase]</li>
+    <li>image->[behavior] orkaan [circumstance_phrase]</li>
+    <li>image->[behavior] [AdjectiveColor] wolkenformatie [circumstance_phrase]</li>
+    <li>behavior->een naderende</li>
+    <li>behavior->een aanstormende</li>
+    <li>behavior->een zich snel verplaatsende</li>
+    <li>behavior->een wervelende</li>
+    <li>circumstance_phrase->die puin met zich mee sleept</li>
+    <li>circumstance_phrase->die over een [TerrainFeature] trekt</li>
+    <li>circumstance_phrase->die een [TerrainFeature] verhult</li>
+    <li>circumstance_phrase->die een [TerrainFeature] opslokt</li>
+    <li>desc_sentence->[COLONIST_nameDef] kijkt zichtbaar beangstigd toe.</li>
+    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] kijkt toe met ontzag op [COLONIST_possessive] gezicht.</li>
+    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] kijkt toe met ontzag op [ATTACKER_possessive] gezicht.</li>
+    <li>desc_sentence->[COLONIST_nameDef] coördineert de tegenmaatregelen.</li>
+    <li>desc_sentence->[ATTACKER_nameDef] lacht het uit van plezier.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] treffen snel voorbereidingen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten het gebied.</li>
+    <li>desc_sentence->Alle dieren hebben het gebied verlaten.</li>
+  </TornadoFromItem.rulePack.rulesStrings>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>giftige neerslag</ToxicFallout.label>
   <!-- EN:
     <li>tale_noun->fallout settling over [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->the atmosphere near [PAWN_nameDef]'s [Community] becoming toxic</li>
@@ -443,10 +814,29 @@
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
   -->
-  <ToxicFallout.rulePack.rulesStrings>TODO</ToxicFallout.rulePack.rulesStrings>
+  <ToxicFallout.rulePack.rulesStrings>
+    <li>tale_noun->neerslag die neerdaalt op [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->de atmosfeer rond [PAWN_nameDef]'s [Community] die wordt vergiftigd</li>
+    <li>image->een onheilspellende lucht, [circumstance_group]</li>
+    <li>image->de lucht die verstikkend wordt, [circumstance_group]</li>
+    <li>image->de grond die zachtjes licht geeft, [circumstance_group]</li>
+    <li>image->velden vol dode planten [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] graven [circumstance_group]</li>
+    <li>circumstance_phrase->zonder enig teken van leven in de buurt</li>
+    <li>circumstance_phrase->bedekt met een dun laagje lichtgevend stof</li>
+    <li>circumstance_phrase->dusdanig afgebeeld dat het doet denken aan botten</li>
+    <li>circumstance_phrase->in afwachting van het einde van het gif</li>
+    <li>desc_sentence->[PAWN_nameDef] ligt op de grond, [PAWN_possessive] lichaam op ongebruikelijke wijze gebogen.</li>
+    <li>desc_sentence->[PAWN_nameDef] schuilt bij een [TerrainFeature] en kijkt naar buiten met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt geschokt toe.</li>
+    <li>desc_sentence->[PAWN_nameDef] rust stilletjes uit met een zweetlaag op [PAWN_possessive] gezicht.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dode [AnimalPlural] liggen op de grond.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stervende [AnimalPlural] liggen op de grond.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rennen vertwijfeld rond.</li>
+  </ToxicFallout.rulePack.rulesStrings>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>vulkanische winter</VolcanicWinter.label>
   <!-- EN:
     <li>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</li>
     <li>image->a dark and cold sky, [circumstance_group]</li>
@@ -465,6 +855,24 @@
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
   -->
-  <VolcanicWinter.rulePack.rulesStrings>TODO</VolcanicWinter.rulePack.rulesStrings>
+  <VolcanicWinter.rulePack.rulesStrings>
+    <li>tale_noun->een vulkanische winter die begint bij [PAWN_nameDef]'s [Community]</li>
+    <li>image->een donkere en koude hemel, [circumstance_group]</li>
+    <li>image->de lucht die gevuld wordt door as, [circumstance_group]</li>
+    <li>image(p=0.78)->een ijzige, kale [TerrainFeatureGendered], [circumstance_group]</li>
+    <li>image(p=0.22)->een ijzig, kaal [TerrainFeatureNeuter], [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] velden vol planten bedekt met as, [circumstance_group]</li>
+    <li>circumstance_phrase->zonder enig teken van leven in de buurt</li>
+    <li>circumstance_phrase->amper verlicht door zwakke lichtstralen</li>
+    <li>circumstance_phrase->verlicht door een schraal blauw licht</li>
+    <li>desc_sentence->[PAWN_nameDef] zit tegen een vuur aan gekropen.</li>
+    <li>desc_sentence->Om warm te blijven draagt [PAWN_nameDef] [Quantity_adjphrase] [ApparelPlural].</li>
+    <li>desc_sentence->[PAWN_nameDef] zit in de buurt, zichtbaar vermoeid door de beproeving.</li>
+    <li>desc_sentence->[PAWN_nameDef] schuilt bij een [TerrainFeature] en kijkt naar buiten met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] hongerige [AnimalPlural] omringen het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] rillende [AnimalPlural] omringen het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stervende [AnimalPlural] liggen op de grond.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rennen vertwijfeld rond.</li>
+  </VolcanicWinter.rulePack.rulesStrings>
   
 </LanguageData>

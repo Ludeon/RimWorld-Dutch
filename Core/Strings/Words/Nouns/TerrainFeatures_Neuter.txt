@@ -1,0 +1,10 @@
+﻿bekken
+grasland
+meer
+moeras
+plateau
+ravijn
+slijk
+struikgewas
+veld
+woud

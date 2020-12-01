@@ -42,7 +42,7 @@
   <Firefoam.description>Maak blusschuimknallers. Deze zullen automatisch een brandwerend schuim om zich heen verspreiden wanneer er vuur in de buurt komt.</Firefoam.description>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>flakharnas</FlakArmor.label>
+  <FlakArmor.label>flakkleding</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
   <FlakArmor.description>Maak kleding met ingenaaide metalen bescherming tegen kogels en explosies. Deze kleding is zwaar en beperkt de bewegingssnelheid licht.</FlakArmor.description>
   

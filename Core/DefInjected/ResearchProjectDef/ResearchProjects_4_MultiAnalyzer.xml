@@ -36,9 +36,9 @@
   <MultiAnalyzer.description>Bouw multi-analysators om onderzoekssnelheid te verbeteren, en een hoger niveau onderzoeksprojecten te starten.</MultiAnalyzer.description>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>marineharnas</PoweredArmor.label>
+  <PoweredArmor.label>marinierspantser</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>Maak een marineharnas, normaal gebruikt door high-tech schoktroepen. Let op: vereist geavanceerde componenten.</PoweredArmor.description>
+  <PoweredArmor.description>Maak een marinierspantser, normaal gebruikt door high-tech aanvalstroepen. Let op: vereist geavanceerde componenten.</PoweredArmor.description>
   
   <!-- EN: recon armor -->
   <ReconArmor.label>verkennersharnas</ReconArmor.label>

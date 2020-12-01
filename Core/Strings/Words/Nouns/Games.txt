@@ -1,8 +1,8 @@
 ﻿poker
-chess
-cards
+het schaakspel
+een kaartspel
 backgammon
-dice
-craps
+een dobbelspel
+yahtzee
 roulette
 blackjack

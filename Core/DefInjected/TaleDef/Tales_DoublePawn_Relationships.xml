@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: became lover -->
-  <BecameLover.label>TODO</BecameLover.label>
+  <BecameLover.label>nieuw stelletje</BecameLover.label>
   <!-- EN:
     <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
     <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
@@ -20,10 +20,26 @@
     <li>desc_sentence->[PURSUER_nameDef] is a near-mirror image of [ACCEPTER_nameDef].</li>
     <li>desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] aggressively.</li>
   -->
-  <BecameLover.rulePack.rulesStrings>TODO</BecameLover.rulePack.rulesStrings>
+  <BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->[PURSUER_nameDef] en [ACCEPTER_nameDef] die een relatie aangaan</li>
+    <li>image->[PURSUER_nameFull] die zoete woordjes in [ACCEPTER_nameFull]'s oor fluistert, [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] die [ACCEPTER_nameFull] bij de hand neemt en naar bed leidt, [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] in bed stoeit met [ACCEPTER_nameFull], [circumstance_group]</li>
+    <li>image->[PURSUER_nameFull] een diepe kus geeft aan [ACCEPTER_nameFull], [circumstance_group]</li>
+    <li>circumstance_phrase->in een onrealistisch groot bed</li>
+    <li>circumstance_phrase->tussen de lakens</li>
+    <li>circumstance_phrase->zonder dat er kleren te bekennen zijn</li>
+    <li>circumstance_phrase->terwijl ze beiden onder het zweet zitten</li>
+    <li>desc_sentence->[PURSUER_nameDef] kruipt tegen [ACCEPTER_nameDef] aan.</li>
+    <li>desc_sentence->[PURSUER_nameDef] kijkt [ACCEPTER_nameDef] diep in de ogen.</li>
+    <li>desc_sentence->[PURSUER_nameDef] blaast lucht richting [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is stilistisch verbonden met [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] is bijna een perfect spiegelbeeld van [ACCEPTER_nameDef].</li>
+    <li>desc_sentence->[PURSUER_nameDef] betast [ACCEPTER_nameDef] op agressieve wijze.</li>
+  </BecameLover.rulePack.rulesStrings>
   
   <!-- EN: bond developed -->
-  <BondedWithAnimal.label>TODO</BondedWithAnimal.label>
+  <BondedWithAnimal.label>band gecreëerd</BondedWithAnimal.label>
   <!-- EN:
     <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
     <li>image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]</li>
@@ -37,10 +53,22 @@
     <li>desc_sentence->[ANIMAL_nameDef] stands tall and looks noble.</li>
     <li>desc_sentence->[ANIMAL_nameDef] is responding positively.</li>
   -->
-  <BondedWithAnimal.rulePack.rulesStrings>TODO</BondedWithAnimal.rulePack.rulesStrings>
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->de totstandkoming van de band tussen [HUMAN_nameDef] en [ANIMAL_nameDef]</li>
+    <li>image->[HUMAN_nameFull] die een band krijgt met [ANIMAL_nameFull], [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] die een diepe band vormt met [ANIMAL_nameFull], [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] die zich beseft dat [HUMAN_possessive] echt van [ANIMAL_nameFull] houdt, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl andere dieren toekijken</li>
+    <li>circumstance_phrase->en daarbij in [ANIMAL_nameDef]'s ogen kijkt</li>
+    <li>circumstance_phrase->met een tevreden gevoel</li>
+    <li>desc_sentence->[ANIMAL_nameDef] kruit tegen [HUMAN_nameDef] aan.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] oogt slaperig en dronken door liefde.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] staat fier en nobel overeind.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] reageert positief.</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
   
   <!-- EN: breakup -->
-  <Breakup.label>TODO</Breakup.label>
+  <Breakup.label>relatie verbroken</Breakup.label>
   <!-- EN:
     <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
     <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>
@@ -57,10 +85,25 @@
     <li>desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering heap.</li>
     <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
   -->
-  <Breakup.rulePack.rulesStrings>TODO</Breakup.rulePack.rulesStrings>
+  <Breakup.rulePack.rulesStrings>
+    <li>tale_noun->het uit elkaar gaan van [DUMPER_nameDef] en [REJECTED_nameDef]</li>
+    <li>image->[DUMPER_nameFull] die [REJECTED_nameFull] vraagt te gaan zitten voor een onprettig gesprek, [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] die een eindje van [REJECTED_nameFull] verwijderd staat, [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] die [REJECTED_nameFull] uit bed duwt, [circumstance_group]</li>
+    <li>image->[DUMPER_nameFull] die een omarming van [REJECTED_nameFull] weigert, [circumstance_group]</li>
+    <li>circumstance_phrase->in een moment van diepe droef</li>
+    <li>circumstance_phrase->terwijl anderen ongemakkelijk toekijken</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>desc_sentence->[REJECTED_nameDef] barst in tranen uit.</li>
+    <li>desc_sentence->[REJECTED_nameDef] kijkt uit de hoogte terug maar huilt tegelijkertijd.</li>
+    <li>desc_sentence->[REJECTED_nameDef] is zo geschokt dat [REJECTED_possessive] gezicht geen uitdrukking vertoont.</li>
+    <li>desc_sentence->[DUMPER_nameDef] is stilistisch verwijderd van [REJECTED_nameDef].</li>
+    <li>desc_sentence->[REJECTED_nameDef] ligt als een hoopje ellende op de vloer.</li>
+    <li>desc_sentence->[REJECTED_nameDef] gebaart boos richting [DUMPER_nameDef].</li>
+  </Breakup.rulePack.rulesStrings>
   
   <!-- EN: marriage -->
-  <Marriage.label>TODO</Marriage.label>
+  <Marriage.label>trouwerij</Marriage.label>
   <!-- EN:
     <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>
     <li>image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]</li>
@@ -77,6 +120,21 @@
     <li>desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of [SPOUSE2_nameDef].</li>
     <li>desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively.</li>
   -->
-  <Marriage.rulePack.rulesStrings>TODO</Marriage.rulePack.rulesStrings>
+  <Marriage.rulePack.rulesStrings>
+    <li>tale_noun->de bruiloft van [SPOUSE1_nameDef] en [SPOUSE2_nameDef]</li>
+    <li>image->[SPOUSE1_nameFull] die trouwt met [SPOUSE2_nameFull], [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] die [SPOUSE1_possessive] trouwbelofte doet aan [SPOUSE2_nameFull], [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] die naar het altaar loopt met [SPOUSE2_nameFull], [circumstance_group]</li>
+    <li>image->[SPOUSE1_nameFull] en [SPOUSE2_nameFull] die elkaars handen vast houden tijdens een bruiloft, [circumstance_group]</li>
+    <li>circumstance_phrase->tijdens een plechtige ceremonie</li>
+    <li>circumstance_phrase->en beiden lachen van vreugde</li>
+    <li>circumstance_phrase->terwijl anderen plechtig toekijken</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] kruipt tegen [SPOUSE2_nameDef] aan.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] kijkt [SPOUSE2_nameDef] diep in de ogen.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] blaast lucht in de richting van [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is stilistisch verbonden met [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] is bijna een perfect spiegelbeeld van [SPOUSE2_nameDef].</li>
+    <li>desc_sentence->[SPOUSE1_nameDef] betast [SPOUSE2_nameDef] op agressieve wijze.</li>
+  </Marriage.rulePack.rulesStrings>
   
 </LanguageData>

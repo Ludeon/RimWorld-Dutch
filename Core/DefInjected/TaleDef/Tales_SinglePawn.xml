@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: raw humanlike meat eaten -->
-  <AteRawHumanlikeMeat.label>TODO</AteRawHumanlikeMeat.label>
+  <AteRawHumanlikeMeat.label>menselijk vlees gegeten</AteRawHumanlikeMeat.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s eating of human meat</li>
     <li>image->[PAWN_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
@@ -29,13 +29,38 @@
     <li>desc_sentence->The meat is glistening and appears very succulent.</li>
     <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
   -->
-  <AteRawHumanlikeMeat.rulePack.rulesStrings>TODO</AteRawHumanlikeMeat.rulePack.rulesStrings>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die menselijk vlees eet</li>
+    <li>image->[PAWN_nameFull] die het vlees van een andere mensachtige [eats] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die het vlees van een menselijke arm [eats] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die vlees van een mensachtige [eats] [circumstance_group]</li>
+    <li>eats->eet</li>
+    <li>eats->tot zich neemt</li>
+    <li>eats->kauwt</li>
+    <li>eats->in [PAWN_possessive] mond stopt</li>
+    <li>eats->consumeert</li>
+    <li>eats->doorslikt</li>
+    <li>eats->kannibaliseert</li>
+    <li>circumstance_phrase->op vastberaden wijze</li>
+    <li>circumstance_phrase->zonder enige schaamte</li>
+    <li>circumstance_phrase->met een beschaamde gelaatsuitdrukking</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>circumstance_phrase->vol overgave</li>
+    <li>circumstance_phrase->op gedreven wijze, alsof [PAWN_possessive] leven er van af hangt</li>
+    <li>desc_sentence->[PAWN_nameDef]'s gezicht zit onder het bloed en andere vloeistoffen.</li>
+    <li>desc_sentence->[PAWN_nameDef] likt [PAWN_possessive] vingers af.</li>
+    <li>desc_sentence->[PAWN_nameDef] is aan de voorkant bedekt met bloed en stukjes vlees.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit in het midden van een grote plas bloed.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt naar iemand anders met duistere intenties.</li>
+    <li>desc_sentence->Het vlees glanst en ziet er erg sappig uit.</li>
+    <li>desc_sentence->Het vlees is over [PAWN_nameDef]'s hele lichaam heen gemorst.</li>
+  </AteRawHumanlikeMeat.rulePack.rulesStrings>
   
   <!-- EN: humanlike corpse butchered -->
-  <ButcheredHumanlikeCorpse.label>TODO</ButcheredHumanlikeCorpse.label>
+  <ButcheredHumanlikeCorpse.label>menselijk lijk geslacht</ButcheredHumanlikeCorpse.label>
   
   <!-- EN: art crafted -->
-  <CraftedArt.label>TODO</CraftedArt.label>
+  <CraftedArt.label>kunst gemaakt</CraftedArt.label>
   <!-- EN:
     <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
     <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
@@ -63,10 +88,36 @@
     <li>title_sentence->[THING_definite] is emblazoned with its title: [THING_title]</li>
     <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
   -->
-  <CraftedArt.rulePack.rulesStrings>TODO</CraftedArt.rulePack.rulesStrings>
+  <CraftedArt.rulePack.rulesStrings>
+    <li>tale_noun->het moment waarop [PAWN_nameDef] [THING_indefinite] maakte</li>
+    <li>image->[PAWN_nameFull] die [THING_indefinite] maakt [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] die het werk aan [PAWN_possessive] [THING_indefinite] afrondt [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] die werkt aan [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] die [THING_indefinite] creëert [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>circumstance_phrase->in opperste concentratie</li>
+    <li>circumstance_phrase->met een voldane uitdrukking op [PAWN_possessive] gezicht</li>
+    <li>circumstance_phrase->aan [PAWN_possessive] werktafel</li>
+    <li>circumstance_phrase->op zeer intense wijze</li>
+    <li>desc_sentence->Gereedschap ligt her en der verspreid.</li>
+    <li>desc_sentence->[PAWN_pronoun] is geschramd en gebutst van al het werk.</li>
+    <li>desc_sentence->[PAWN_pronoun] zweet als een rund.</li>
+    <li>desc_sentence->De werkplaats is goed georganiseerd, alle gereedschappen liggen op hun plek.</li>
+    <li>desc_sentence->[PAWN_pronoun] is op overdreven manier weergegeven om zo machtiger over te komen.</li>
+    <li>desc_sentence->De omvang van [THING_definite] is overdreven om het belang ervan te benadrukken.</li>
+    <li>desc_sentence->[THING_definite] is omringd door een artistiek licht. Het lijkt bijna heilig.</li>
+    <li>desc_sentence->[PAWN_nameDef] staat meer op de achtergrond om [PAWN_possessive] nieuwe creatie te benadrukken.</li>
+    <li>desc_sentence->[Quantity_adjphrase] toeschouwers omringen [PAWN_objective].</li>
+    <li>desc_sentence->Een groep mensen juicht op de achtergrond.</li>
+    <li>quality_sentence->De kwaliteit van [THING_definite] lijkt [THING_quality]</li>
+    <li>quality_sentence->De kwaliteit van [THING_definite] is [THING_quality]</li>
+    <li>quality_sentence->De kwaliteit van [PAWN_nameDef]'s werk is [THING_quality]</li>
+    <li>title_sentence->[PAWN_nameDef]'s naam voor [THING_definite] staat er onder geschreven: [THING_title]</li>
+    <li>title_sentence->De naam van [THING_definite] staat er in grote letters op: [THING_title]</li>
+    <li>title_sentence->De naam van [THING_definite], [THING_title], hangt op de achtergrond</li>
+  </CraftedArt.rulePack.rulesStrings>
   
   <!-- EN: drunk -->
-  <Drunk.label>TODO</Drunk.label>
+  <Drunk.label>dronken</Drunk.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s extreme drunkenness</li>
     <li>tale_noun->[PAWN_nameDef] getting extremely drunk</li>
@@ -99,10 +150,41 @@
     <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
-  <Drunk.rulePack.rulesStrings>TODO</Drunk.rulePack.rulesStrings>
+  <Drunk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s volstrekte bezopenheid</li>
+    <li>tale_noun->[PAWN_nameDef] die straalbelazerd raakt</li>
+    <li>image->[PAWN_nameFull] die dronken in het rond zwalkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PAWN_possessive] hoofd achterover gooit en drank naar binnen laat lopen [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] gretig flessen vol drank verzamelt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die zwaar drinkt [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij [PAWN_possessive] omgeving uit het oog verliest</li>
+    <li>circumstance_phrase->in een dronken roes</li>
+    <li>circumstance_phrase->en daarbij [PAWN_possessive] eigen bestaan in twijfel trekt</li>
+    <li>circumstance_phrase->met tranen in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->en daarbij grinnikt als een debiel</li>
+    <li>circumstance_phrase->en tegelijk snikt</li>
+    <li>circumstance_phrase->en er daarbij pathetisch uit ziet</li>
+    <li>circumstance_phrase->en kwaad naar de mensen om [PAWN_objective] heen kijkt</li>
+    <li>circumstance_phrase->en iemand in de buurt brutaal aan kijkt</li>
+    <li>circumstance_phrase->en zich probeert uit te kleden</li>
+    <li>circumstance_phrase->met een vinger in [PAWN_possessive] mond</li>
+    <li>circumstance_phrase->en probeert om niet over te geven</li>
+    <li>circumstance_phrase->zonder enige zorg in [PAWN_possessive] hoofd</li>
+    <li>circumstance_phrase->met een begerige glans in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->en daarbij de spoken uit [PAWN_possessive] verleden tegenkomt</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt zich niet te beseffen wat er om [PAWN_objective] heen gebeurt.</li>
+    <li>desc_sentence->[PAWN_possessive] gezicht lijkt opgezet te zijn.</li>
+    <li>desc_sentence->[PAWN_pronoun] is bijna bewusteloos, en [PAWN_possessive] tong hangt kwijlend uit [PAWN_possessive] mond.</li>
+    <li>desc_sentence->[PAWN_pronoun] oogt tegelijkertijd blij en bedroefd.</li>
+    <li>desc_sentence->Er zitten vlekken aan de voorkant van [PAWN_possessive] kleren.</li>
+    <li>desc_sentence->Er ligt een spoor van lege flessen achter [PAWN_objective].</li>
+    <li>desc_sentence->Er zit iets wits op [PAWN_possessive] broek.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft blijkbaar een schoen verloren.</li>
+    <li>desc_sentence->[PAWN_possessive] haar zit volkomen in de war.</li>
+  </Drunk.rulePack.rulesStrings>
   
   <!-- EN: research project finished -->
-  <FinishedResearchProject.label>TODO</FinishedResearchProject.label>
+  <FinishedResearchProject.label>onderzoeksproject voltooid</FinishedResearchProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
     <li>image->[PAWN_nameFull] working on [PROJECT_label] research project [circumstance_group]</li>
@@ -117,10 +199,23 @@
     <li>desc_sentence->[PAWN_nameDef] is completely surrounded by an array of tools and apparatuses.</li>
     <li>desc_sentence->[PAWN_nameDef] is staring at [PAWN_possessive] discovery with a sense of wonder.</li>
   -->
-  <FinishedResearchProject.rulePack.rulesStrings>TODO</FinishedResearchProject.rulePack.rulesStrings>
+  <FinishedResearchProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die het onderzoek naar [PROJECT_label] afrondt</li>
+    <li>image->[PAWN_nameFull] die werkt aan het onderzoek naar [PROJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die de geheimen van [PROJECT_label] bestudeert, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PROJECT_label] aan het uitvinden is, [circumstance_group]</li>
+    <li>circumstance_phrase->op zeer intense wijze</li>
+    <li>circumstance_phrase->alleen gezeten aan [PAWN_possessive] onderzoekstafel</li>
+    <li>circumstance_phrase->en daarbij vellen papier in [PAWN_possessive] hand houdt</li>
+    <li>circumstance_phrase->en daarbij opgetogen en gefascineerd oogt</li>
+    <li>desc_sentence->[PAWN_nameDef] zweet als een rund.</li>
+    <li>desc_sentence->Het werk ziet er buitengewoon complex uit.</li>
+    <li>desc_sentence->[PAWN_nameDef] wordt volledig omringd door een verzameling gereedschappen en apparaten.</li>
+    <li>desc_sentence->[PAWN_nameDef] staart vol verwondering naar [PAWN_possessive] ontdekking.</li>
+  </FinishedResearchProject.rulePack.rulesStrings>
   
   <!-- EN: landed in pod -->
-  <LandedInPod.label>TODO</LandedInPod.label>
+  <LandedInPod.label>in capsule geland</LandedInPod.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s landing in a drop pod</li>
     <li>image->[PAWN_nameFull] landing in a drop pod [circumstance_group]</li>
@@ -144,10 +239,32 @@
     <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
-  <LandedInPod.rulePack.rulesStrings>TODO</LandedInPod.rulePack.rulesStrings>
+  <LandedInPod.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s landing in een transportcapsule</li>
+    <li>image->[PAWN_nameFull] die in een transportcapsule landt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die de grond bereikt in een transportcapsule [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], wiens transportcapsule tegen de grond smakt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die aan boord is van een transportcapsule [circumstance_group]</li>
+    <li>circumstance_phrase->met op de achtergrond een [TerrainFeature]</li>
+    <li>circumstance_phrase->met ongelooflijke kracht</li>
+    <li>circumstance_phrase->in een pluim van stof en gruis</li>
+    <li>circumstance_phrase->terwijl de remraketten op dramatische wijze branden</li>
+    <li>circumstance_phrase->tijdens een precisielanding</li>
+    <li>desc_sentence->[PAWN_pronoun] concentreert zich intens op de besturing.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft [PAWN_possessive] ogen gesloten en ziet er angstig uit.</li>
+    <li>desc_sentence->[PAWN_pronoun] is bewusteloos, en [PAWN_possessive] tong hangt kwijlend uit [PAWN_possessive] mond.</li>
+    <li>desc_sentence->[PAWN_pronoun] lacht gespannen maar vrolijk.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft blijkbaar geen idee waar [PAWN_pronoun] mee bezig is.</li>
+    <li>desc_sentence->[PAWN_pronoun] zit vast in een harnas met [PAWN_possessive] ogen dicht, volstrekt hulpeloos.</li>
+    <li>desc_sentence->Een lange vlam likt over de achterkant van de capsule.</li>
+    <li>desc_sentence->Niet ver weg kijkt een [Animal] verschrokken omhoog.</li>
+    <li>desc_sentence->Een [Animal] rent angstig weg van de klap.</li>
+    <li>desc_sentence->Er is een [TerrainFeature] zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt van grote afstand toe.</li>
+  </LandedInPod.rulePack.rulesStrings>
   
   <!-- EN: berserk rage -->
-  <MentalStateBerserk.label>TODO</MentalStateBerserk.label>
+  <MentalStateBerserk.label>razende woede</MentalStateBerserk.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] going berserk</li>
     <li>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</li>
@@ -173,10 +290,34 @@
     <li>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</li>
     <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
   -->
-  <MentalStateBerserk.rulePack.rulesStrings>TODO</MentalStateBerserk.rulePack.rulesStrings>
+  <MentalStateBerserk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die in razende woede ontsteekt</li>
+    <li>image->[PAWN_nameFull] die in razende woede ontsteekt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die volkomen door het lint gaat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die voortstrompelt met een psychotische uitdrukking op [PAWN_possessive] gezicht [circumstance_group]</li>
+    <li>circumstance_phrase->en zich probeert uit te kleden</li>
+    <li>circumstance_phrase->schijnbaar zonder enige reden</li>
+    <li>circumstance_phrase->terwijl anderen zich angstig verschuilen</li>
+    <li>circumstance_phrase->terwijl een vriend vlucht</li>
+    <li>circumstance_phrase->uit pure stress</li>
+    <li>circumstance_phrase->als een laatste stap</li>
+    <li>desc_sentence->[PAWN_pronoun] beeft van onbeheersbare woede.</li>
+    <li>desc_sentence->[PAWN_pronoun] laat [PAWN_possessive] tanden in een dodelijke grom zien.</li>
+    <li>desc_sentence->[PAWN_possessive] ogen zijn doodse poelen van waanzin.</li>
+    <li>desc_sentence->Spuug vliegt in het rond uit [PAWN_possessive] mond terwijl [PAWN_pronoun] woedend brult.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft een deel van [PAWN_possessive] kleren verloren.</li>
+    <li>desc_sentence->[PAWN_pronoun] grimast van ellende.</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt manisch te lachen.</li>
+    <li>desc_sentence->[PAWN_pronoun] is afgebeeld met het grommende gezicht van een [Animal].</li>
+    <li>desc_sentence->[AnimalPlural] omringen symbolisch [PAWN_possessive] hoofd.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft een moordlustige glans in [PAWN_possessive] ogen.</li>
+    <li>desc_sentence->[PAWN_possessive] hele lichaam lijkt van haat te beven.</li>
+    <li>desc_sentence->[PAWN_possessive] gelaat is gezet in een uitdrukking van verwrongen sereniteit.</li>
+    <li>desc_sentence->Een enkele traan rolt over [PAWN_possessive] gezicht.</li>
+  </MentalStateBerserk.rulePack.rulesStrings>
   
   <!-- EN: gave up -->
-  <MentalStateGaveUp.label>TODO</MentalStateGaveUp.label>
+  <MentalStateGaveUp.label>opgegeven</MentalStateGaveUp.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] giving up in despair</li>
     <li>image->[PAWN_nameFull] finally giving up under stress [circumstance_group]</li>
@@ -198,10 +339,30 @@
     <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
-  <MentalStateGaveUp.rulePack.rulesStrings>TODO</MentalStateGaveUp.rulePack.rulesStrings>
+  <MentalStateGaveUp.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die in wanhoop opgeeft</li>
+    <li>image->[PAWN_nameFull] die eindelijk opgeeft door de stress [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die erbarmelijk snikt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die rondstrompelt met een verslagen uitdrukking op [PAWN_possessive] gezicht [circumstance_group]</li>
+    <li>circumstance_phrase->en zich probeert uit te kleden</li>
+    <li>circumstance_phrase->schijnbaar zonder enige reden</li>
+    <li>circumstance_phrase->terwijl anderen hun medeleven betuigen</li>
+    <li>circumstance_phrase->terwijl een vriend huilt</li>
+    <li>circumstance_phrase->uit pure stress</li>
+    <li>circumstance_phrase->als een laatste stap</li>
+    <li>desc_sentence->Tranen rollen over [PAWN_possessive] wangen.</li>
+    <li>desc_sentence->[PAWN_pronoun] lacht vanuit de diepte van [PAWN_possessive] depressie.</li>
+    <li>desc_sentence->[PAWN_nameDef] kijkt omhoog, alsof [PAWN_pronoun] smeekt om hulp van boven.</li>
+    <li>desc_sentence->[PAWN_pronoun] probeert [PAWN_possessive] eigen kleren kapot te rukken.</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt zich niet te beseffen wat er om [PAWN_objective] heen gebeurt.</li>
+    <li>desc_sentence->[PAWN_pronoun] oogt tegelijkertijd blij en bedroefd.</li>
+    <li>desc_sentence->Er zitten vlekken aan de voorkant van [PAWN_possessive] kleren.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft blijkbaar een schoen verloren.</li>
+    <li>desc_sentence->[PAWN_possessive] haar zit volkomen in de war.</li>
+  </MentalStateGaveUp.rulePack.rulesStrings>
   
   <!-- EN: struck mineable -->
-  <StruckMineable.label>TODO</StruckMineable.label>
+  <StruckMineable.label>ader ontdekt</StruckMineable.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] striking [THING_label]</li>
     <li>image->[PAWN_nameFull] striking [THING_label] [circumstance_group]</li>
@@ -218,10 +379,24 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
-  <StruckMineable.rulePack.rulesStrings>TODO</StruckMineable.rulePack.rulesStrings>
+  <StruckMineable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die [THING_label] vindt</li>
+    <li>image->[PAWN_nameFull] die [THING_label] vindt [circumstance_group]</li>
+    <li>circumstance_phrase->tijdens het delven</li>
+    <li>circumstance_phrase->tijdens het graven</li>
+    <li>circumstance_phrase->tijdens het graven van een tunnel</li>
+    <li>circumstance_phrase->en daardoor verrast kijkt</li>
+    <li>circumstance_phrase->en daar tevreden bij kijkt</li>
+    <li>desc_sentence->[PAWN_nameDef] veegt het zweet van [PAWN_possessive] voorhoofd.</li>
+    <li>desc_sentence->[PAWN_nameDef] is uitzinnig van vreugde.</li>
+    <li>desc_sentence->[PAWN_nameDef] doet een high-five met een vriend.</li>
+    <li>desc_sentence->[PAWN_nameDef] schreeuwt het uit van geluk.</li>
+    <li>desc_sentence->[PAWN_nameDef] lacht zich een ongeluk.</li>
+    <li>desc_sentence(p=2)->[PAWN_nameDef] is vies en bezweet van het werk.</li>
+  </StruckMineable.rulePack.rulesStrings>
   
   <!-- EN: vomited -->
-  <Vomited.label>TODO</Vomited.label>
+  <Vomited.label>overgegeven</Vomited.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
     <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
@@ -241,10 +416,28 @@
     <li>desc_sentence->[PAWN_pronoun] is surrounded by an artistically rendered halo of filth.</li>
     <li>desc_sentence->A [Animal] is eating from the trail of vomit in the background.</li>
   -->
-  <Vomited.rulePack.rulesStrings>TODO</Vomited.rulePack.rulesStrings>
+  <Vomited.rulePack.rulesStrings>
+    <li>tale_noun->het moment dat [PAWN_nameDef] overgaf</li>
+    <li>image->[PAWN_nameFull] die braaksel over de grond sproeit [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een zuur gezicht trekt terwijl [PAWN_pronoun] onder het braaksel zit [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die dubbelgevouwen op de vloer overgeeft [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die op [PAWN_possessive] knieën zit en op de grond overgeeft [circumstance_group]</li>
+    <li>circumstance_phrase->en daar gepijnigd bij kijkt</li>
+    <li>circumstance_phrase->in diepe schaamte</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt zich niet te beseffen wat er om [PAWN_objective] heen gebeurt.</li>
+    <li>desc_sentence->[PAWN_possessive] gezicht lijkt opgezet te zijn.</li>
+    <li>desc_sentence->[PAWN_pronoun] is bijna bewusteloos, en [PAWN_possessive] tong hangt kwijlend uit [PAWN_possessive] mond.</li>
+    <li>desc_sentence->[PAWN_pronoun] geeft hevige stuiptrekkingen.</li>
+    <li>desc_sentence->[PAWN_pronoun] ziet er beschaamd uit.</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt te proberen te lachen, ondanks de situatie.</li>
+    <li>desc_sentence->[PAWN_pronoun] ziet er leeggelopen uit, alsof [PAWN_pronoun] helemaal leeg is na het overgeven.</li>
+    <li>desc_sentence->[PAWN_pronoun] wordt omringd door een artistiek weergegeven halo van vuil.</li>
+    <li>desc_sentence->Een [Animal] eet van het spoor van braaksel op de achtergrond.</li>
+  </Vomited.rulePack.rulesStrings>
   
   <!-- EN: walked naked -->
-  <WalkedNaked.label>TODO</WalkedNaked.label>
+  <WalkedNaked.label>naakt rondgelopen</WalkedNaked.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] walking around naked</li>
     <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
@@ -270,10 +463,34 @@
     <li>desc_sentence->[PAWN_nameDef] is breathing heavily for no obvious reason.</li>
     <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
   -->
-  <WalkedNaked.rulePack.rulesStrings>TODO</WalkedNaked.rulePack.rulesStrings>
+  <WalkedNaked.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die naakt rondloopt</li>
+    <li>image->[PAWN_nameFull] die in een staat van pure natuur [nude_action] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in [PAWN_possessive] nakie [nude_action] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [nude_action], naakt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die zonder kleren aan [nude_action] [circumstance_group]</li>
+    <li>nude_action->een dansje doet</li>
+    <li>nude_action->huppelt</li>
+    <li>nude_action->rollebolt</li>
+    <li>nude_action->loopt</li>
+    <li>nude_action->[PAWN_possessive] waren ten toon stelt</li>
+    <li>nude_action->met [PAWN_possessive] heupen wiegt</li>
+    <li>nude_action->op [PAWN_possessive] tenen loopt</li>
+    <li>nude_action->paradeert</li>
+    <li>nude_action->het gebied overziet</li>
+    <li>circumstance_phrase->op vastberaden wijze</li>
+    <li>circumstance_phrase->zonder enige schaamte</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>circumstance_phrase->schijnbaar zonder enige reden</li>
+    <li>circumstance_phrase->terwijl dieren verward toekijken</li>
+    <li>desc_sentence->[PAWN_nameDef] is zichtbaar opgewonden.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit onder een onbekende vloeistof.</li>
+    <li>desc_sentence->[PAWN_nameDef] hijgt zonder duidelijke reden.</li>
+    <li>desc_sentence->[PAWN_nameDef] betast een struik.</li>
+  </WalkedNaked.rulePack.rulesStrings>
   
   <!-- EN: on fire -->
-  <WasOnFire.label>TODO</WasOnFire.label>
+  <WasOnFire.label>in brand</WasOnFire.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] catching fire</li>
     <li>image->[PAWN_nameFull] frantically beating out a fire attached to [PAWN_possessive] body [circumstance_group]</li>
@@ -294,6 +511,25 @@
     <li>desc_sentence->A plume of smoke is rising off [PAWN_objective].</li>
     <li>desc_sentence->[PAWN_pronoun] is rendered artistically in a corpse-like way.</li>
   -->
-  <WasOnFire.rulePack.rulesStrings>TODO</WasOnFire.rulePack.rulesStrings>
+  <WasOnFire.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die vlam vat</li>
+    <li>image->[PAWN_nameFull] die naarstig vlammen uitslaat op [PAWN_possessive] lichaam [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die omringd is door vlammen [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die knielt met de handen boven het hoofd in een poging de vlammen op [PAWN_possessive] lichaam uit te slaan, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die brandend over de grond rolt [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>circumstance_phrase->en daarbij bijna naakt is</li>
+    <li>circumstance_phrase->met een duidelijk doel voor ogen</li>
+    <li>desc_sentence->[PAWN_possessive] vel verschroeit zienderogen.</li>
+    <li>desc_sentence->[PAWN_possessive] ogen zijn wijd open in paniek.</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt amper bij bewustzijn te zijn; [PAWN_possessive] ogen zijn levenloos.</li>
+    <li>desc_sentence->[PAWN_possessive] mond is open in een noodkreet.</li>
+    <li>desc_sentence->de vlammen staan op het punt [PAWN_pronoun] hoofd op te slokken.</li>
+    <li>desc_sentence->een symbolische halo van vuur omringt [PAWN_pronoun] gezicht.</li>
+    <li>desc_sentence->[PAWN_pronoun] lacht manisch.</li>
+    <li>desc_sentence->[PAWN_pronoun] lijkt zichzelf te verliezen.</li>
+    <li>desc_sentence->Een rookpluim stijgt van [PAWN_objective] op.</li>
+    <li>desc_sentence->[PAWN_pronoun] is artistiek weergegeven als een lijk.</li>
+  </WasOnFire.rulePack.rulesStrings>
   
 </LanguageData>

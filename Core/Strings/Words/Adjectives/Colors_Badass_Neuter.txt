@@ -1,10 +1,7 @@
-﻿
-
-rood
+﻿rood
 zwart
 grauw
 as
-
 donker
 schaduw
 nacht

@@ -29,9 +29,9 @@
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] zat naast [RECIPIENT_nameDef] en praatte in [INITIATOR_objective]zelf over [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] zat naast [RECIPIENT_nameDef] en praatte voor zich uit over [TalkTopicAny].</li>
     <li>r_logentry->[INITIATOR_nameDef] naderde [RECIPIENT_nameDef] terwijl [INIITIATOR_pronoun] tegen [INITIATOR_objective]zelf fluisterde over [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef] kwam dichtbij [RECIPIENT_nameDef] terwijl [INITIATOR_pronoun] in [INITIATOR_objective]zelf praate over [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kwam dichtbij [RECIPIENT_nameDef] terwijl [INITIATOR_pronoun] in [INITIATOR_objective]zelf praatte over [TalkTopicAny].</li>
     <li>tamed->maakte kalmerende geluiden naar</li>
     <li>tamed->maakte langzame, vriendelijke gebaren naar</li>
     <li>tamed->maakte sussende geluiden naar</li>
@@ -81,10 +81,10 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] wreef [INITIATOR_possessive] neus tegen [RECIPIENT_nameDef]'s [rubbedpart].</li>
-    <li>nuzzled(p=2)->neuzelde tegen</li>
-    <li>nuzzled->kroop aan tegen</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] wreef [nuzzleadverb] [INITIATOR_possessive] neus tegen [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->neuzelde [nuzzleadverb] tegen</li>
+    <li>nuzzled->kroop [nuzzleadverb] aan tegen</li>
     <li>nuzzleadverb(p=4)-></li>
     <li>nuzzleadverb->zachtjes</li>
     <li>nuzzleadverb->bemoedigend</li>
@@ -162,9 +162,9 @@
     <li>r_logentry->[INITIATOR_nameDef] [trained].</li>
     <li>trained(p=2)->[tried] [RECIPIENT_nameDef] te trainen</li>
     <li>trained->[tried] [RECIPIENT_nameDef] een nieuw trucje aan te leren</li>
-    <li>trained->[tried] [RECIPIENT_nameDef] te straffen</li>
-    <li>trained->[tried] [RECIPIENT_nameDef] te instruëren</li>
-    <li>trained->[tried] [RECIPIENT_nameDef] te belonen om een vaardigheid te leren</li>
+    <li>trained->[tried] [RECIPIENT_nameDef] discipline te leren</li>
+    <li>trained->[tried] [RECIPIENT_nameDef] te instrueren</li>
+    <li>trained->[tried] door bemoediging [RECIPIENT_nameDef] een vaardigheid te leren</li>
     <li>trained->demonstreerde een vaardigheid aan [RECIPIENT_nameDef]</li>
     <li>trained->beloonde een nieuwe reactie bij [RECIPIENT_nameDef]</li>
     <li>tried->probeerde</li>

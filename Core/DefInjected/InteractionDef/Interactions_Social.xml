@@ -136,13 +136,12 @@
     <li>complimented->prees</li>
     <li>complimented->erkende</li>
     <li>complimented->loofde</li>
-    <li>complimented->applauded</li>
-    <li>complimented->vierde</li>
-    <li>complimented->saluteerde</li>
+    <li>complimented->bejubelde</li>
+    <li>complimented->toonde respect voor</li>
     <li>complimented->sprak vriendelijke woorden over</li>
     <li>complimented->verheerlijkte</li>
     <li>complimented->bood [INITIATOR_possessive] welgemeende complimenten aan over</li>
-    <li>complimented->drukte in woorden zijn waardering uit</li>
+    <li>complimented->drukte in woorden [INITIATOR_possessive] waardering uit</li>
     <li>complimented->waardeerde</li>
     <li>complimented->zei iets positiefs over</li>
   </KindWords.logRulesInitiator.rulesStrings>
@@ -167,7 +166,7 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target] [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
     <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
     <li>madefunof->dreef de spot met</li>

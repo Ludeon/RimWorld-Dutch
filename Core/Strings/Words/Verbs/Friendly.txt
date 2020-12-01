@@ -1,9 +1,9 @@
-laughing
-smiling
-chuckling
-grinning
-beaming
-resting
-looking amused
-looking happy
-looking pleased
+lachend
+glimlachend
+grinnikend
+grijnzend
+stralend
+rustend
+geamuseerd ogend
+blij ogend
+tevreden ogend

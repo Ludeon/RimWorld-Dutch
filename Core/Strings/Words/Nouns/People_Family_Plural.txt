@@ -1,0 +1,10 @@
+﻿vaders
+moeders
+zoons
+dochters
+broers
+zussen
+ooms
+tantes
+neven
+nichten

@@ -1,0 +1,10 @@
+﻿vader
+moeder
+zoon
+dochter
+broer
+zus
+oom
+tante
+neef
+nicht

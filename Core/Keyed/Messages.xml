@@ -174,7 +174,7 @@
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{EATEN_labelShort} is opgegeten door {PREDATOR}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{PREY_labelShort} wordt aangevallen door {PREDATOR}! </MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} wordt aangevallen door {PREDATOR}!</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Een bijenkorf heeft zichzelf gereproduceerd.</MessageHiveReproduced>
@@ -195,7 +195,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort} en {PAWN2_labelShort} beginnen hun huwelijksceremonie!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>De huwelijksceremonie voor {PAWN1_labelShort} en {PAWN2_labelShort} is afgeblazen. </MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>De huwelijksceremonie voor {PAWN1_labelShort} en {PAWN2_labelShort} is afgeblazen.</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
   <MessageNewlyMarried>{PAWN1_labelShort} en {PAWN2_labelShort} zijn getrouwd. Kolonisten vieren nu de gelegenheid.</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
@@ -263,7 +263,7 @@
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
   <MessagePlantDiedOfRot_LeftUnharvested>{0} is afgestorven aan rotting als gevolg van dat het niet geoogst is.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>{0} is afgestorven door blootstelling aan licht. </MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} is afgestorven door blootstelling aan licht.</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>{0} is afgestorven door rotting.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
@@ -314,7 +314,7 @@
   <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Je transportcapsules zijn gearriveerd.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>Je transportcapsules zijn gearriveerd, maar omdat er geen kolonisten aanwezig waren, is de inhoud verloren gegaan. </MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>Je transportcapsules zijn gearriveerd, maar omdat er geen kolonisten aanwezig waren, is de inhoud verloren gegaan.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
   <MessageTransportPodsArrivedAndAddedToCaravan>Je transportcapsules zijn aangekomen. De inhoud is toegevoegd aan {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   
@@ -368,7 +368,7 @@
   <MessageYouHaveToReformCaravanNow>Je moet de karavaan nu hervormen. Iedereen die achterblijft zal in de steek gelaten worden.</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <MessageDefendersAttacking>{0} van {1} vallen je {2} aan. </MessageDefendersAttacking>
+  <MessageDefendersAttacking>{0} van {1} vallen je {2} aan.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
   <MessageMechanoidsAssembled>Mechanoïden zijn geassembleerd en zullen hun cluster verdedigen.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
@@ -386,12 +386,12 @@
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
   <MessageCantAddWaypointBecauseUnreachable>Het is niet mogelijk om deze tegel te bereiken vanaf het laatste routepunt.</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>Je kunt niet meer dan {0} routepunten toevoegen. </MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>Je kunt niet meer dan {0} routepunten toevoegen.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>Je kunt dit routepunt niet verwijderen.</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Geen van je bewakers is in staat tot geweld. De executie wordt niet uitgevoerd. </MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Geen van je bewakers is in staat tot geweld. De executie wordt niet uitgevoerd.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
   <MessageSiteCountdownBecauseNoMoreEnemies>Je hebt alle vijanden verslagen. In {0} wordt de karavaan automatisch hervormd.</MessageSiteCountdownBecauseNoMoreEnemies>
@@ -461,7 +461,7 @@
   <!-- EN: attacked {1_labelShort} -->
   <GoodwillChangedReason_AttackedPawn>{1_labelShort} aangevallen</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>gebruikte {ITEM_labelShort} op {TARGET_labelShort} </GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>gebruikte {ITEM_labelShort} op {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <!-- EN: used {0} on {1} -->
   <GoodwillChangedReason_UsedAbility>gebruikte {0} op {1}</GoodwillChangedReason_UsedAbility>
   <!-- EN: harvested {0} -->
@@ -485,7 +485,7 @@
   <!-- EN: attacked a caravan -->
   <GoodwillChangedReason_AttackedCaravan>een karavaan aangevallen</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>natuurlijke neiging om na verloop van tijd {0} te bereiken </GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_NaturallyOverTime>natuurlijke neiging om na verloop van tijd {0} te bereiken</GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
   <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} verliet de kaart gezond</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
@@ -541,9 +541,9 @@
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
   <MessageBillValidationIncludeZoneDeleted>{1}'s "{0}" kan niet langer items in verwijderde opslag {2} tellen.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>{1}'s "{0}" kan niet langer items in onbeschikbare opslag {2} tellen. </MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>{1}'s "{0}" kan niet langer items in onbeschikbare opslag {2} tellen.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
-  <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" kan niet langer alle producten leveren aan opslag {2}. </MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" kan niet langer alle producten leveren aan opslag {2}.</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>Door een gebrek aan temmen is {1_labelShort} weer in de vrije natuur teruggekeerd.</MessageAnimalReturnedWild>
@@ -557,7 +557,7 @@
   <MessageCaravanArrivalActionNoLongerValid>{0} kon zijn bestemming niet bereiken</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <MessageEnterCooldownBlocksEntering>Je kunt niet nogmaals binnenkomen voor {0} dagen. </MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>Je kunt hier de komende {0} niet nogmaals heen voor.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
   <MessagePermitCooldownFinished>{0_labelShort} kan nu vrijelijk gebruik maken van "{1}".</MessagePermitCooldownFinished>

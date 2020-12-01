@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: collapse dodged -->
-  <CollapseDodged.label>TODO</CollapseDodged.label>
+  <CollapseDodged.label>instorting ontweken</CollapseDodged.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] dodging a cave-in</li>
     <li>tale_noun->[PAWN_nameDef] nearly crushed by falling objects</li>
@@ -18,10 +18,24 @@
     <li>desc_sentence->[PAWN_pronoun] is scratched and bleeding.</li>
     <li>desc_sentence->[PAWN_pronoun] has lost [PAWN_possessive] balance.</li>
   -->
-  <CollapseDodged.rulePack.rulesStrings>TODO</CollapseDodged.rulePack.rulesStrings>
+  <CollapseDodged.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een instorting ontwijkt</li>
+    <li>tale_noun->[PAWN_nameDef] die bijna verpletterd wordt door vallende voorwerpen</li>
+    <li>image->[PAWN_nameFull] die wegspringt van instortend puin, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die ternauwernood een instorting weet te ontwijken, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een instortend plafond ontwijkt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die aan de dood door een vallend plafond ontsnapt, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl er een enorme wolk van stof en puin opstijgt</li>
+    <li>circumstance_phrase->terwijl alles wordt bedolven door puin</li>
+    <li>circumstance_phrase->te midden van een enorme dreun</li>
+    <li>desc_sentence->[PAWN_pronoun] zweet van de inspanning.</li>
+    <li>desc_sentence->[PAWN_pronoun] oogt doodsbenauwd.</li>
+    <li>desc_sentence->[PAWN_pronoun] zit onder de schrammen en bloedt.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft [PAWN_possessive] evenwicht verloren.</li>
+  </CollapseDodged.rulePack.rulesStrings>
   
   <!-- EN: launched ship -->
-  <LaunchedShip.label>TODO</LaunchedShip.label>
+  <LaunchedShip.label>schip gelanceerd</LaunchedShip.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] escaping the planet</li>
     <li>tale_noun->[PAWN_nameDef] taking off in a spaceship</li>
@@ -45,10 +59,32 @@
     <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
-  <LaunchedShip.rulePack.rulesStrings>TODO</LaunchedShip.rulePack.rulesStrings>
+  <LaunchedShip.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die de planeet ontvlucht</li>
+    <li>tale_noun->[PAWN_nameDef] die in een ruimteschip vertrekt</li>
+    <li>image->[PAWN_nameFull] die richting de sterren wordt gelanceerd, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die de hemel in schiet, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die naar de ontsnappingssnelheid versnelt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een raket bestuurt, [circumstance_group]</li>
+    <li>circumstance_phrase->met op de achtergrond een [TerrainFeature]</li>
+    <li>circumstance_phrase->met ongelooflijke kracht</li>
+    <li>circumstance_phrase->in een pluim van stof en gruis</li>
+    <li>circumstance_phrase->terwijl raketmotoren op dramatische manier branden</li>
+    <li>circumstance_phrase->in een nauwkeurige lancering</li>
+    <li>desc_sentence->[PAWN_pronoun] concentreert zich intens op de besturing.</li>
+    <li>desc_sentence->[PAWN_pronoun] heeft [PAWN_possessive] ogen gesloten en ziet er zelfverzekerd uit.</li>
+    <li>desc_sentence->[PAWN_pronoun] slaapt, en [PAWN_possessive] ogen zijn vreedzaam gesloten.</li>
+    <li>desc_sentence->[PAWN_pronoun] lacht gespannen maar vrolijk.</li>
+    <li>desc_sentence->[PAWN_pronoun] ziet er uit alsof [PAWN_pronoun] de situatie volkomen beheerst.</li>
+    <li>desc_sentence->Een lange vlam likt over de achterkant van het schip.</li>
+    <li>desc_sentence->Niet ver weg kijkt een [Animal] verschrokken omhoog.</li>
+    <li>desc_sentence->Een [Animal] rent angstig weg van de lancering.</li>
+    <li>desc_sentence->Er is een [TerrainFeature] zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt van grote afstand toe.</li>
+  </LaunchedShip.rulePack.rulesStrings>
   
   <!-- EN: social fight -->
-  <SocialFight.label>TODO</SocialFight.label>
+  <SocialFight.label>sociaal gevecht</SocialFight.label>
   <!-- EN:
     <li>tale_noun->[INITIATOR_nameDef] [fight_name_present] [RESPONDER_nameDef]</li>
     <li>image->[INITIATOR_nameFull] insulting [RESPONDER_nameFull] [circumstance_group]</li>
@@ -82,6 +118,40 @@
     <li>target->[INITIATOR_nameDef]</li>
     <li>target->[RESPONDER_nameDef]</li>
   -->
-  <SocialFight.rulePack.rulesStrings>TODO</SocialFight.rulePack.rulesStrings>
+  <SocialFight.rulePack.rulesStrings>
+    <li>tale_noun->[INITIATOR_nameDef] die [RESPONDER_nameDef] [fight_name_present]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] beledigt, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] uitdaagt, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] bedreigt, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] intimideert, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] aanvalt, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die met [RESPONDER_nameFull] vecht, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] slaat, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die [RESPONDER_nameFull] schopt, [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] die terugdeinst van [RESPONDER_nameFull], [circumstance_group]</li>
+    <li>fight_name_present->aanvalt</li>
+    <li>fight_name_present->aanvliegt</li>
+    <li>fight_name_present->bevecht</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] beledigt</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] uitdaagt</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] bedreigt</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] intimideert</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] aanvalt</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] met [INITIATOR_objective] vecht</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] slaat</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] [INITIATOR_objective] schopt</li>
+    <li>circumstance_phrase->terwijl [RESPONDER_nameDef] van [INITIATOR_objective] terugdeinst</li>
+    <li>desc_sentence->[target] heeft duidelijk geen greintje spijt.</li>
+    <li>desc_sentence->[target] is dolgedraaid van woede.</li>
+    <li>desc_sentence->[target] toont geen emotie.</li>
+    <li>desc_sentence(p=0.2)->[target] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[target] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[target] zit onder de [GorePlural].</li>
+    <li>desc_sentence->[target] schreeuwt furieus.</li>
+    <li>desc_sentence->[target] is zichtbaar gewond.</li>
+    <li>desc_sentence->[target]'s ogen geven [Color] licht.</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+  </SocialFight.rulePack.rulesStrings>
   
 </LanguageData>

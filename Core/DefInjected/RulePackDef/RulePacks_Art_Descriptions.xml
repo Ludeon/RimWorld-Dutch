@@ -202,23 +202,23 @@
   -->
   <ArtDescriptionUtility_Global.rulePack.rulesStrings>
     <li>style_group->[artextra_clause]. [style_clause].</li>
-    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause_cont].</li>
     <li>style_group->[style_clause].</li>
     <li>style_group->[artextra_clause].</li>
     <li>style_group-></li>
     <li>artconjunction(p=6)-></li>
     <li>artconjunction->als een interessant contrast,</li>
-    <li>artconjunction->rondt het werk af,</li>
-    <li>artconjunction->en daarbij nog,</li>
-    <li>artconjunction->opmerkelijk,</li>
-    <li>artconjunction->provocatief,</li>
+    <li>artconjunction->ter afronding</li>
+    <li>artconjunction->en daarbij nog</li>
+    <li>artconjunction->opmerkelijk genoeg</li>
+    <li>artconjunction->bij wijze van provocatie</li>
     <li>artconjunction->ongebruikelijk, voor dit type werk,</li>
     <li>artconjunction->alhoewel weinigen het zouden verwachten,</li>
-    <li>artconjunction->daarnaast,</li>
+    <li>artconjunction->tevens</li>
     <li>artextra_clause->het beeld wordt omringd door [subimageplural]</li>
-    <li>artextra_clause->aan het eind van het beeld zijn [subimageplural]</li>
+    <li>artextra_clause->aan het rand van het beeld zijn [subimageplural] te zien</li>
     <li>artextra_clause->er is [subimagesingle] [side_position]</li>
-    <li>artextra_clause->de onderwerpen zijn voor [subimageany]</li>
+    <li>artextra_clause->de onderwerpen zijn afgebeeld voor [subimageany]</li>
     <li>artextra_clause->het onderste deel van het beeld wordt gedomineerd door [subimageany]</li>
     <li>artextra_clause->de scène vindt plaats in het midden van een [Community]</li>
     <li>artextra_clause->de scène vindt plaats aan de rand van een [Community]</li>
@@ -226,21 +226,39 @@
     <li>artextra_clause->een [Character] [idles] [side_position]</li>
     <li>artextra_clause->een [pawn_adjGendered] [Character] [idles] [side_position]</li>
     <li>artextra_clause->[Quantity_adjphrase] [CharacterPlural] staan [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [pawn_adjGendered] [Character]s staan [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [pawn_adjGendered] [CharacterPlural] staan [side_position]</li>
     <li>artextra_clause->een [Animal] [idles] [side_position]</li>
     <li>artextra_clause->als je je ogen dichtknijpt, zie je in de [compositionGendered] compositie van het beeld de beeltenis van [subimageany]</li>
     <li>artextra_clause->het [emotional_expressionGendered] hoofd van een [pawn_adjGendered] [PersonJob] waakt over alles</li>
     <li>artextra_clause->een [pawn_adjGendered] [PersonJob] waakt [emotional_expressionNeuter] over alles</li>
     <li>artextra_clause->het hoofd van een [pawn_adjGendered] [PersonJob] waakt over alles</li>
     <li>artextra_clause->het hele beeld wordt uitgebeeld door een nauwkeurige plaatsing van [subimageplural]</li>
+    <li>artextra_clause_cont->wordt het beeld omringd door [subimageplural]</li>
+    <li>artextra_clause_cont->zijn aan het rand van het beeld [subimageplural] te zien</li>
+    <li>artextra_clause_cont->is er [subimagesingle] [side_position]</li>
+    <li>artextra_clause_cont->zijn de onderwerpen afgebeeld voor [subimageany]</li>
+    <li>artextra_clause_cont->wordt het onderste deel van het beeld gedomineerd door [subimageany]</li>
+    <li>artextra_clause_cont->vindt de scène plaats in het midden van een [Community]</li>
+    <li>artextra_clause_cont->vindt de scène plaats aan de rand van een [Community]</li>
+    <li>artextra_clause_cont->vindt de scène plaats in een [Community] gebouwd bij een [TerrainFeature]</li>
+    <li>artextra_clause_cont->[idles] een [Character] [side_position]</li>
+    <li>artextra_clause_cont->[idles] een [pawn_adjGendered] [Character] [side_position]</li>
+    <li>artextra_clause_cont->staan [Quantity_adjphrase] [CharacterPlural] [side_position]</li>
+    <li>artextra_clause_cont->staan [Quantity_adjphrase] [pawn_adjGendered] [CharacterPlural] [side_position]</li>
+    <li>artextra_clause_cont->[idles] een [Animal] [side_position]</li>
+    <li>artextra_clause_cont->zie je als je je ogen dichtknijpt in de [compositionGendered] compositie van het beeld de beeltenis van [subimageany]</li>
+    <li>artextra_clause_cont->waakt het [emotional_expressionGendered] hoofd van een [pawn_adjGendered] [PersonJob] over alles</li>
+    <li>artextra_clause_cont->waakt een [pawn_adjGendered] [PersonJob] [emotional_expressionNeuter] over alles</li>
+    <li>artextra_clause_cont->waakt het hoofd van een [pawn_adjGendered] [PersonJob] over alles</li>
+    <li>artextra_clause_cont->wordt het hele beeld uitgebeeld door een nauwkeurige plaatsing van [subimageplural]</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
     <li>subimagesingle(p=4)->een [Character]</li>
     <li>subimagesingle->een [TerrainFeature]</li>
     <li>subimagesingle->een [Community]</li>
-    <li>subimagesingle->een [TreeType]boom</li>
+    <li>subimagesingle->een [TreeType]</li>
     <li>subimagesingle->een [Vegetable]</li>
-    <li>subimagesingle->een [AnimalGroup] van [AnimalPlural]</li>
+    <li>subimagesingle->een [AnimalGroup] [AnimalPlural]</li>
     <li>subimageplural(p=3)->[Quantity_adjphrase] [CharacterPlural]</li>
     <li>subimageplural->[Quantity_adjphrase] [VegetablePlural]</li>
     <li>subimageplural->[Quantity_adjphrase] [ShapePlural]</li>
@@ -324,15 +342,15 @@
     <li>style_clause->het werk is gekleurd in tinten van [Color] en [Color]</li>
     <li>style_clause->bijna elke vorm in het beeld lijkt een [compositionNeuter]</li>
     <li>symbolizes->symboliseert</li>
-    <li>symbolizes->lijkt te symboliseren</li>
+    <li>symbolizes->is een symbool van</li>
     <li>symbolizes->vertegenwoordigt</li>
-    <li>symbolizes->lijkt te vertegenwoordigen</li>
-    <li>symbolizes->lijkt uit te drukken</li>
+    <li>symbolizes->is blijkbaar een representatie van</li>
+    <li>symbolizes->is blijkbaar een uitdrukking van</li>
     <li>symbolizes->herinnert de kijker aan</li>
     <li>symbolizes->deelt de emotie van</li>
-    <li>symbolizes->laat de kijker denken aan</li>
+    <li>symbolizes->doet de kijker denken aan</li>
     <li>symbolizes->vertegenwoordigt de gedachten van de artiest over</li>
-    <li>symbolizes->suggereert het concept</li>
+    <li>symbolizes->suggereert het concept van</li>
     <li>depicts->verbeeldt</li>
     <li>depicts->toont</li>
     <li>depicts->portretteert</li>

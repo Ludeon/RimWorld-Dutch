@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: person captured -->
-  <Captured.label>TODO</Captured.label>
+  <Captured.label>persoon gevangen genomen</Captured.label>
   <!-- EN:
     <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
@@ -28,13 +28,37 @@
     <li>desc_sentence->[CAPTURER_nameDef] is laughing as tears well up in [PRISONER_nameDef]'s eyes.</li>
     <li>desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason.</li>
   -->
-  <Captured.rulePack.rulesStrings>TODO</Captured.rulePack.rulesStrings>
+  <Captured.rulePack.rulesStrings>
+    <li>tale_noun->[CAPTURER_nameDef] die [PRISONER_nameDef] gevangen neemt</li>
+    <li>tale_noun->[PRISONER_nameDef] die gevangen wordt genomen door [CAPTURER_nameDef]</li>
+    <li>tale_noun->de gevangenname van [PRISONER_nameDef]</li>
+    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull] gevangen neemt, [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull]'s handen vastbindt, [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull] een mep geeft terwijl [CAPTURER_pronoun] [PRISONER_objective] gevangen neemt, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [PRISONER_pronoun] op de grond ligt te kronkelen</li>
+    <li>circumstance_phrase->terwijl [PRISONER_pronoun] van pijn krom buigt</li>
+    <li>circumstance_phrase->met professionele handigheid</li>
+    <li>circumstance_phrase->op ruwe en amateuristische wijze</li>
+    <li>circumstance_phrase->en daarbij duidelijk buitensporig geweld gebruikt</li>
+    <li>circumstance_phrase->en daar duidelijk plezier in heeft</li>
+    <li>circumstance_phrase->met een dominante grijns op [CAPTURER_possessive] gezicht</li>
+    <li>desc_sentence->[CAPTURER_nameDef] kijkt [PRISONER_nameDef] op dominante wijze in de ogen.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is gewond en lijkt pijn te lijden.</li>
+    <li>desc_sentence->[PRISONER_nameDef] berust kennelijk in [PRISONER_possessive] lot.</li>
+    <li>desc_sentence->[PRISONER_nameDef] trekt een furieuze grimas.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] geeft [PRISONER_nameDef] een klap om [PRISONER_objective] tot rust te brengen.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] draait aan [PRISONER_nameDef]'s oor.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] heeft [PRISONER_nameDef] in een houdgreep.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] spuugt in [PRISONER_nameDef]'s gezicht.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] lacht terwijl tranen in [PRISONER_nameDef]'s ogen opwellen.</li>
+    <li>desc_sentence->[CAPTURER_nameDef] geeft [PRISONER_nameDef] een schop, onduidelijk is waarom.</li>
+  </Captured.rulePack.rulesStrings>
   
   <!-- EN: defeated hostile leader -->
-  <DefeatedHostileFactionLeader.label>TODO</DefeatedHostileFactionLeader.label>
+  <DefeatedHostileFactionLeader.label>vijandige leider verslagen</DefeatedHostileFactionLeader.label>
   
   <!-- EN: surgery performed -->
-  <DidSurgery.label>TODO</DidSurgery.label>
+  <DidSurgery.label>operatie uitgevoerd</DidSurgery.label>
   <!-- EN:
     <li>tale_noun->[SURGEON_nameDef] operating on [PATIENT_nameDef]</li>
     <li>tale_noun->[SURGEON_nameDef] performing a medical operation on [PATIENT_nameDef]</li>
@@ -51,10 +75,25 @@
     <li>desc_sentence->[SURGEON_nameDef] has blood smeared on [SURGEON_possessive] face.</li>
     <li>desc_sentence->[PATIENT_nameDef] is shaking and writhing.</li>
   -->
-  <DidSurgery.rulePack.rulesStrings>TODO</DidSurgery.rulePack.rulesStrings>
+  <DidSurgery.rulePack.rulesStrings>
+    <li>tale_noun->[SURGEON_nameDef] die [PATIENT_nameDef] opereert</li>
+    <li>tale_noun->[SURGEON_nameDef] die een medische operatie op [PATIENT_nameDef] uitvoert</li>
+    <li>tale_noun->[PATIENT_nameDef]'s medische operatie</li>
+    <li>image->[SURGEON_nameFull] die [PATIENT_nameFull] met een anesthesie in slaap brengt, [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] die tot zijn ellebogen in [PATIENT_nameFull] zit tijdens een operatie, [circumstance_group]</li>
+    <li>image->[SURGEON_nameFull] die [PATIENT_nameFull] opensnijdt tijdens een operatie, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [PATIENT_pronoun] beeft van angst</li>
+    <li>circumstance_phrase->terwijl [SURGEON_nameDef] in een plas bloed staat</li>
+    <li>circumstance_phrase->omringd door angstaanjagende medische gereedschappen</li>
+    <li>circumstance_phrase->met geïmproviseerd maar effectief gereedschap</li>
+    <li>desc_sentence->[SURGEON_nameDef] zweet als een rund.</li>
+    <li>desc_sentence->[SURGEON_nameDef] lijkt zich compleet op het werk te concentreren.</li>
+    <li>desc_sentence->Er zit bloed aan [SURGEON_nameDef]'s gezicht.</li>
+    <li>desc_sentence->[PATIENT_nameDef] schudt en beeft.</li>
+  </DidSurgery.rulePack.rulesStrings>
   
   <!-- EN: prisoner executed -->
-  <ExecutedPrisoner.label>TODO</ExecutedPrisoner.label>
+  <ExecutedPrisoner.label>gevangene geëxecuteerd</ExecutedPrisoner.label>
   <!-- EN:
     <li>tale_noun->[executioner] executing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being executed by [EXECUTIONER_nameDef]</li>
@@ -84,10 +123,38 @@
     <li>desc_sentence->[PRISONER_nameDef] has closed [PRISONER_possessive] eyes, seeming to pray to a higher power.</li>
     <li>desc_sentence->[PRISONER_nameDef] looks defiant.</li>
   -->
-  <ExecutedPrisoner.rulePack.rulesStrings>TODO</ExecutedPrisoner.rulePack.rulesStrings>
+  <ExecutedPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[EXECUTIONER_nameDef] die [PRISONER_nameDef] executeert</li>
+    <li>tale_noun->[PRISONER_nameDef] die wordt geëxecuteerd door [EXECUTIONER_nameDef]</li>
+    <li>tale_noun->de executie van [PRISONER_nameDef]</li>
+    <li>image->[EXECUTIONER_nameFull] die [PRISONER_nameFull] executeert, [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] die [PRISONER_nameFull] ter dood brengt, [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] op het punt staat [PRISONER_nameFull] te executeren, [circumstance_group]</li>
+    <li>image->[EXECUTIONER_nameFull] die een cel binnengaat om [PRISONER_nameFull] te executeren, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [PRISONER_pronoun] op de grond ligt te kronkelen</li>
+    <li>circumstance_phrase->terwijl [PRISONER_pronoun] van pijn krom buigt</li>
+    <li>circumstance_phrase->terwijl [PRISONER_pronoun] het uit schreeuwt van angst</li>
+    <li>circumstance_phrase->met professionele handigheid</li>
+    <li>circumstance_phrase->op ruwe en amateuristische wijze</li>
+    <li>circumstance_phrase->en daarbij duidelijk buitensporig geweld gebruikt</li>
+    <li>circumstance_phrase->en daar duidelijk plezier in heeft</li>
+    <li>circumstance_phrase->met een dominante grijns op [EXECUTIONER_possessive] gezicht</li>
+    <li>circumstance_phrase->met tranen op [EXECUTIONER_possessive] gezicht</li>
+    <li>circumstance_phrase->met een volstrekt onverstoorbare uitdrukking [EXECUTIONER_possessive] gezicht</li>
+    <li>circumstance_phrase->en daar onnodig veel pijn toebrengt</li>
+    <li>circumstance_phrase->en daarbij aan andere dingen denkt</li>
+    <li>circumstance_phrase->omwille van het grotere belang</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] zweet als een rund.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef] kwijlt een beetje.</li>
+    <li>desc_sentence->Er zit bloed aan [EXECUTIONER_nameDef]'s gezicht.</li>
+    <li>desc_sentence->[PRISONER_nameDef] schudt en beeft.</li>
+    <li>desc_sentence->[PRISONER_nameDef] lijkt alle moed te hebben opgegeven.</li>
+    <li>desc_sentence->[PRISONER_nameDef] houdt [PRISONER_possessive] ogen dicht, en lijkt tot een hogere macht te bidden.</li>
+    <li>desc_sentence->[PRISONER_nameDef] houdt zich recht.</li>
+  </ExecutedPrisoner.rulePack.rulesStrings>
   
   <!-- EN: animal hunted -->
-  <Hunted.label>TODO</Hunted.label>
+  <Hunted.label>dier ten prooi gevallen</Hunted.label>
   <!-- EN:
     <li>tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef]</li>
     <li>tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef]</li>
@@ -102,10 +169,23 @@
     <li>desc_sentence->[HUNTER_nameDef] is gripping [HUNTER_possessive] weapon tightly.</li>
     <li>desc_sentence->[PREY_nameDef] is looking around as though [PREY_pronoun] senses that something is wrong.</li>
   -->
-  <Hunted.rulePack.rulesStrings>TODO</Hunted.rulePack.rulesStrings>
+  <Hunted.rulePack.rulesStrings>
+    <li>tale_noun->[HUNTER_nameDef] die op [PREY_nameDef] jaagt</li>
+    <li>tale_noun->[PREY_nameDef] die ten prooi valt aan [HUNTER_nameDef]</li>
+    <li>tale_noun->[HUNTER_nameDef]'s succesvolle jacht</li>
+    <li>image->[PREY_nameFull] die ten prooi valt aan [HUNTER_nameFull], [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] die van een afstandje [PREY_nameFull] besluitp, [circumstance_group]</li>
+    <li>image->[HUNTER_nameFull] die op [PREY_nameFull] jaagt, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [PREY_nameDef] zich ontspant</li>
+    <li>circumstance_phrase->terwijl [PREY_nameDef] op weg is</li>
+    <li>circumstance_phrase->terwijl [PREY_nameDef] aan het eten is</li>
+    <li>desc_sentence->[PREY_nameDef] heeft niks in de gaten.</li>
+    <li>desc_sentence->[HUNTER_nameDef] houdt [HUNTER_possessive] wapen stevig vast.</li>
+    <li>desc_sentence->[PREY_nameDef] kijkt om zich heen alsof [PREY_pronoun] weet dat er iets niet pluis is.</li>
+  </Hunted.rulePack.rulesStrings>
   
   <!-- EN: colonist kidnapped -->
-  <KidnappedColonist.label>TODO</KidnappedColonist.label>
+  <KidnappedColonist.label>kolonist ontvoerd</KidnappedColonist.label>
   <!-- EN:
     <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
     <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
@@ -127,10 +207,30 @@
     <li>desc_sentence->[VICTIM_nameDef] looks broken and exhausted.</li>
     <li>desc_sentence->[VICTIM_nameDef] appears to be badly wounded.</li>
   -->
-  <KidnappedColonist.rulePack.rulesStrings>TODO</KidnappedColonist.rulePack.rulesStrings>
+  <KidnappedColonist.rulePack.rulesStrings>
+    <li>tale_noun->[KIDNAPPER_nameDef] die [VICTIM_nameDef] ontvoert</li>
+    <li>tale_noun->[VICTIM_nameDef] die wordt ontvoerd door [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->de ontvoering van [VICTIM_nameDef]</li>
+    <li>image->[KIDNAPPER_nameFull] die [VICTIM_nameFull] meeneemt naar [KIDNAPPER_factionName], [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] van [KIDNAPPER_factionName] die [VICTIM_nameFull] ontvoert, [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] die [VICTIM_nameFull] ontvoert, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [VICTIM_pronoun] van pijn krombuigt</li>
+    <li>circumstance_phrase->met professionele handigheid</li>
+    <li>circumstance_phrase->op ruwe en amateuristische wijze</li>
+    <li>circumstance_phrase->en daarbij duidelijk buitensporig geweld gebruikt</li>
+    <li>circumstance_phrase->en daar duidelijk plezier in heeft</li>
+    <li>circumstance_phrase->met een dominante grijns op [KIDNAPPER_possessive] gezicht</li>
+    <li>circumstance_phrase->terwijl [KIDNAPPER_possessive] onder de troep en viezigheid zit</li>
+    <li>desc_sentence->[VICTIM_nameDef] lijkt alle moed te hebben opgegeven.</li>
+    <li>desc_sentence->[VICTIM_nameDef] houdt [VICTIM_possessive] ogen dicht, en lijkt tot een hogere macht te bidden.</li>
+    <li>desc_sentence->[VICTIM_nameDef] houdt zich recht.</li>
+    <li>desc_sentence->[VICTIM_nameDef] schreeuwt in woede en angst.</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt gebroken en uitgeput.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is kennelijk zwaar gewond.</li>
+  </KidnappedColonist.rulePack.rulesStrings>
   
   <!-- EN: death -->
-  <KilledBy.label>TODO</KilledBy.label>
+  <KilledBy.label>sterfgeval</KilledBy.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
     <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
@@ -159,16 +259,43 @@
     <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
-  <KilledBy.rulePack.rulesStrings>TODO</KilledBy.rulePack.rulesStrings>
+  <KilledBy.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] doodt</li>
+    <li>tale_noun->[VICTIM_nameDef] die door [KILLER_nameDef] wordt gedood</li>
+    <li>tale_noun->de dood van [VICTIM_nameDef] door [KILLER_nameDef]'s toedoen</li>
+    <li>tale_noun->de dood van [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] die door [KILLER_nameFull] wordt gedood, [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull] doodt, [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull]'s leven beëindigt, [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] die op brute wijze [VICTIM_nameFull] vermoordt, [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] die wordt gedood, [circumstance_group]</li>
+    <li>circumstance_phrase->blijkbaar zonder enige spijt</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->in ontstoken woede</li>
+    <li>circumstance_phrase->met snelle, efficiënte bewegingen</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>circumstance_phrase->omdat dat nou eenmaal noodzakelijk is</li>
+    <li>circumstance_phrase->op halfslachtige, oneerbare wijze</li>
+    <li>desc_sentence->De zon gaat onder in de achtergrond als een symbool van de gebeurtenissen</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s lichaam ligt in een poel van bloed.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen zijn op realistische wijze levenloos afgebeeld.</li>
+    <li>desc_sentence->[KILLER_nameDef] laat [KILLER_possessive] tanden zien.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+  </KilledBy.rulePack.rulesStrings>
   
   <!-- EN: colonist killed -->
-  <KilledColonist.label>TODO</KilledColonist.label>
+  <KilledColonist.label>kolonist gedood</KilledColonist.label>
   
   <!-- EN: colony animal killed -->
-  <KilledColonyAnimal.label>TODO</KilledColonyAnimal.label>
+  <KilledColonyAnimal.label>dier gedood</KilledColonyAnimal.label>
   
   <!-- EN: person recruited -->
-  <Recruited.label>TODO</Recruited.label>
+  <Recruited.label>persoon gerekruteerd</Recruited.label>
   <!-- EN:
     <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
     <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
@@ -186,10 +313,26 @@
     <li>desc_sentence->[JOINER_nameDef] looks relieved.</li>
     <li>desc_sentence->[JOINER_nameDef] looks hopeful.</li>
   -->
-  <Recruited.rulePack.rulesStrings>TODO</Recruited.rulePack.rulesStrings>
+  <Recruited.rulePack.rulesStrings>
+    <li>tale_noun->[RECRUITER_nameDef] die [JOINER_nameDef] rekruteert</li>
+    <li>tale_noun->[JOINER_nameDef] die door [RECRUITER_nameDef] wordt gerekruteerd</li>
+    <li>tale_noun->de rekrutering van [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] die [JOINER_nameFull] rekruteert, [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] die [JOINER_nameFull] verwelkomt op het moment dat [JOINER_pronoun] een kolonist wordt, [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] die op overtuigende wijze tot [JOINER_nameFull] spreekt, [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij duidelijk oprecht is</li>
+    <li>circumstance_phrase->met een stevige handdruk</li>
+    <li>circumstance_phrase->terwijl iedereen lacht</li>
+    <li>circumstance_phrase->terwijl de hele kolonie toekijkt</li>
+    <li>circumstance_phrase->in een cel</li>
+    <li>desc_sentence->[JOINER_nameDef] knikt vol begrip.</li>
+    <li>desc_sentence->[JOINER_nameDef] glimlacht en maakt oogcontact.</li>
+    <li>desc_sentence->[JOINER_nameDef] ziet er opgelucht uit.</li>
+    <li>desc_sentence->[JOINER_nameDef] ziet er hoopvol uit.</li>
+  </Recruited.rulePack.rulesStrings>
   
   <!-- EN: prisoner sold -->
-  <SoldPrisoner.label>TODO</SoldPrisoner.label>
+  <SoldPrisoner.label>gevangene verkocht</SoldPrisoner.label>
   <!-- EN:
     <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
     <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
@@ -212,10 +355,31 @@
     <li>desc_sentence->[SELLER_nameDef] is thrusting the chains of [PRISONER_nameDef] into [TRADER_nameDef]'s hands.</li>
     <li>desc_sentence->An air of hopelessness pervades the situation.</li>
   -->
-  <SoldPrisoner.rulePack.rulesStrings>TODO</SoldPrisoner.rulePack.rulesStrings>
+  <SoldPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->de verkoop van [PRISONER_nameDef] aan een handelaar</li>
+    <li>tale_noun->[SELLER_nameDef] die [PRISONER_nameDef] als slaaf verkoopt</li>
+    <li>tale_noun->[PRISONER_nameDef] die als slaaf wordt verkocht aan [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] die [PRISONER_nameFull] van [SELLER_nameFull] koopt, [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] die [PRISONER_nameFull] aan [TRADER_nameFull] verkoopt, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl de andere kolonisten afkeurend toekijken</li>
+    <li>circumstance_phrase->terwijl [SELLER_nameDef] [TRADER_possessive] geld telt</li>
+    <li>circumstance_phrase->terwijl [PRISONER_nameDef] klagelijk kermt</li>
+    <li>circumstance_phrase->tot [PRISONER_nameDef]'s ongenoegen</li>
+    <li>desc_sentence->[TRADER_nameDef] lacht kwaadaardig.</li>
+    <li>desc_sentence->[SELLER_nameDef] lacht manisch.</li>
+    <li>desc_sentence->[SELLER_nameDef] overhandigt schoorvoetend [PRISONER_nameDef] aan de handelaar.</li>
+    <li>desc_sentence->[PRISONER_nameDef] staart uitdagend naar [PRISONER_possessive] nieuwe eigenaar.</li>
+    <li>desc_sentence->[TRADER_nameDef] sleep [PRISONER_nameDef] weg aan [PRISONER_possessive] ketting.</li>
+    <li>desc_sentence->[PRISONER_nameDef] staart naar [SELLER_nameDef], broedend op wraak.</li>
+    <li>desc_sentence->[PRISONER_nameDef] huilt.</li>
+    <li>desc_sentence->[PRISONER_nameDef] spuugt in [SELLER_nameDef]'s gezicht.</li>
+    <li>desc_sentence->[PRISONER_nameDef] zakt de grond in.</li>
+    <li>desc_sentence->[SELLER_nameDef] duwt de ketting van [PRISONER_nameDef] in [TRADER_nameDef]'s handen.</li>
+    <li>desc_sentence->De hele situatie komt hopeloos over.</li>
+  </SoldPrisoner.rulePack.rulesStrings>
   
   <!-- EN: animal tamed -->
-  <TamedAnimal.label>TODO</TamedAnimal.label>
+  <TamedAnimal.label>dier getemd</TamedAnimal.label>
   <!-- EN:
     <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
     <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
@@ -233,10 +397,25 @@
     <li>desc_sentence->[ANIMAL_nameDef] appears fascinated.</li>
     <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
   -->
-  <TamedAnimal.rulePack.rulesStrings>TODO</TamedAnimal.rulePack.rulesStrings>
+  <TamedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->de temming van [ANIMAL_nameDef] door [TAMER_nameDef]</li>
+    <li>tale_noun->[TAMER_nameDef]'s temming van [ANIMAL_nameDef]</li>
+    <li>image->[TAMER_nameFull] die [ANIMAL_nameFull] temt, [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] die een handjevol voedsel aan [ANIMAL_nameFull] geeft, [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] die naar [ANIMAL_nameFull] fluistert, [circumstance_group]</li>
+    <li>circumstance_phrase->op zorgvuldige wijze</li>
+    <li>circumstance_phrase->met een glimlach</li>
+    <li>circumstance_phrase->uitgeput maar tevreden</li>
+    <li>desc_sentence->[ANIMAL_nameDef] gromt op agressieve wijze.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] oogt slaperig en dronken door liefde.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] lijkt in een hypnotische staat te verkeren.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] oogt angstig maar geïnteresseerd.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] ziet er gefascineerd uit.</li>
+    <li>desc_sentence->[TAMER_nameDef] projecteert een krachtig gevoel van liefde naar [ANIMAL_nameDef].</li>
+  </TamedAnimal.rulePack.rulesStrings>
   
   <!-- EN: traded with someone -->
-  <TradedWith.label>TODO</TradedWith.label>
+  <TradedWith.label>met iemand gehandeld</TradedWith.label>
   <!-- EN:
     <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
     <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
@@ -252,10 +431,24 @@
     <li>desc_sentence->[SELLER_nameDef] is counting [SELLER_possessive] money.</li>
     <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
   -->
-  <TradedWith.rulePack.rulesStrings>TODO</TradedWith.rulePack.rulesStrings>
+  <TradedWith.rulePack.rulesStrings>
+    <li>tale_noun->een transactie tussen [SELLER_nameFull] en [BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] die spullen van [SELLER_nameFull] koopt, [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] die spullen aan [BUYER_nameFull] verkoopt, [circumstance_group]</li>
+    <li>circumstance_phrase->uit hebzucht</li>
+    <li>circumstance_phrase->terwijl [SELLER_nameDef] naar [BUYER_shortNameDef] grijnst</li>
+    <li>desc_sentence->[BUYER_nameDef] bekijkt wat [SELLER_nameDef] verkoopt.</li>
+    <li>desc_sentence->[SELLER_nameDef] overweegt een artikel.</li>
+    <li>desc_sentence->[SELLER_nameDef] begint af te dingen.</li>
+    <li>desc_sentence->[BUYER_nameDef] ruziet met [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] en [BUYER_nameDef] bereiken een overeenstemming over de prijs.</li>
+    <li>desc_sentence->[BUYER_nameDef] betaalt voor het artikel.</li>
+    <li>desc_sentence->[SELLER_nameDef] telt [SELLER_possessive] geld.</li>
+    <li>desc_sentence->[BUYER_nameDef] pakt [BUYER_possessive] goederen.</li>
+  </TradedWith.rulePack.rulesStrings>
   
   <!-- EN: animal trained -->
-  <TrainedAnimal.label>TODO</TrainedAnimal.label>
+  <TrainedAnimal.label>dier getraind</TrainedAnimal.label>
   <!-- EN:
     <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
     <li>tale_noun->the training of [ANIMAL_nameDef]</li>
@@ -290,6 +483,39 @@
     <li>desc_sentence->[TRAINER_nameDef] is depicted with [quantity] arms.</li>
     <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
   -->
-  <TrainedAnimal.rulePack.rulesStrings>TODO</TrainedAnimal.rulePack.rulesStrings>
+  <TrainedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[TRAINER_nameDef] die [ANIMAL_nameDef] traint</li>
+    <li>tale_noun->de training van [ANIMAL_nameDef]</li>
+    <li>tale_noun->de training van [ANIMAL_nameDef] door [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] die [ANIMAL_nameFull] [train_syn] in [TRAINABLE_label], [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] die [TRAINABLE_label] aan [ANIMAL_nameFull] leert, [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] die [TRAINABLE_label] met [ANIMAL_nameFull] oefent, [circumstance_group]</li>
+    <li>train_syn->traint</li>
+    <li>train_syn->instrueert</li>
+    <li>train_syn->coacht</li>
+    <li>train_syn->indoctrineert</li>
+    <li>train_syn->onderwijst</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>circumstance_phrase->terwijl wilde [AnimalPlural] afkeurend toekijken</li>
+    <li>circumstance_phrase->terwijl [ANIMAL_nameDef] terugdenkt aan de simpele tijd dat [ANIMAL_pronoun] een wild dier was.</li>
+    <li>circumstance_phrase->terwijl [TRAINER_nameDef] nadenkt over wat [TRAINER_pronoun] zal eten met de lunch</li>
+    <li>circumstance_phrase->terwijl de andere kolonisten echt werk doen</li>
+    <li>desc_sentence->[TRAINER_nameDef] toont genot.</li>
+    <li>desc_sentence->[TRAINER_nameDef] lacht.</li>
+    <li>desc_sentence->[TRAINER_nameDef] ziet er verveeld uit.</li>
+    <li>desc_sentence->[TRAINER_nameDef] schudt op bedreigende wijze [TRAINER_possessive] vuist.</li>
+    <li>desc_sentence->[TRAINER_nameDef] fronst [TRAINER_possessive] wenkbrauwen in concentratie.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] kijkt verward.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] heeft een wapen in [ANIMAL_possessive] bek.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] puft door de inspanning.</li>
+    <li>desc_sentence->[TRAINER_nameDef] schudt gefrustreerd [TRAINER_possessive] hoofd.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] beeft in angst.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] lijkt te veranderen in een [Vegetable].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] wordt afgebeeld als een stapel zware gereedschappen.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is half [Color] en half [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is bedekt met schubben.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is afgebeeld met [quantity] armen.</li>
+    <li>desc_sentence->[TRAINER_nameDef] verandert in [ANIMAL_ShortDefinite].</li>
+  </TrainedAnimal.rulePack.rulesStrings>
   
 </LanguageData>

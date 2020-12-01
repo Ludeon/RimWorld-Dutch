@@ -70,14 +70,20 @@
     <li>Character(p=15)->[CharacterNeuter]</li>
     <li>Animal(p=162)->[AnimalGendered]</li>
     <li>Animal(p=15)->[AnimalNeuter]</li>
+    <li>AnimalBadass(p=63)->[AnimalsBadassGendered]</li>
+    <li>AnimalBadass(p=6)->[AnimalsBadassNeuter]</li>
     <li>Vegetable(p=18)->[VegetableGendered]</li>
     <li>Vegetable(p=0)->[VegetableNeuter]</li>
     <li>Enemy(p=18)->[EnemyGendered]</li>
     <li>Enemy(p=0)->[EnemyNeuter]</li>
     <li>PersonAlly(p=11)->[PersonAllyGendered]</li>
     <li>PersonAlly(p=1)->[PersonAllyNeuter]</li>
+    <li>PersonFamily(p=10)->[PersonFamilyGendered]</li>
+    <li>PersonFamily(p=0)->[PersonFamilyNeuter]</li>
     <li>PersonJob(p=61)->[PersonJobGendered]</li>
     <li>PersonJob(p=0)->[PersonJobNeuter]</li>
+    <li>PersonBadass(p=52)->PersonBadassGendered</li>
+    <li>PersonBadass(p=0)->PersonBadassNeuter</li>
     <li>Mechanoid(p=14)->[MechanoidGendered]</li>
     <li>Mechanoid(p=0)->[MechanoidNeuter]</li>
     <li>Weapon(p=45)->[WeaponGendered]</li>
@@ -95,8 +101,8 @@
     <li>Quantity_adjphrase->negen</li>
     <li>Quantity_adjphrase->tien</li>
     <li>Quantity_adjphrase->meerdere</li>
-    <li>Quantity_adjphrase->een groep</li>
-    <li>Quantity_adjphrase->een grote groep</li>
+    <li>Quantity_adjphrase->enkele</li>
+    <li>Quantity_adjphrase->massa's</li>
     <li>Quantity_adjphrase->tientallen</li>
     <li>Quantity_adjphrase->honderden</li>
     <li>Quantity_adjphrase->duizend</li>
@@ -132,19 +138,33 @@
     <li>ConceptAny->[ConceptPositive]</li>
     <li>ConceptAny->[ConceptBadass]</li>
     <li>ConceptAny->[ConceptAngsty]</li>
-    <li>PersonalCharacteristic(p=0.15)->genitaliën</li>
-    <li>PersonalCharacteristic(p=0.15)->schaamhaar</li>
-    <li>PersonalCharacteristic(p=0.15)->lichaamshaar</li>
-    <li>PersonalCharacteristic(p=0.15)->toiletgewoonten</li>
-    <li>PersonalCharacteristic(p=0.15)->seksuele vaardigheden</li>
-    <li>PersonalCharacteristic(p=0.15)->seksuele voorkeuren</li>
-    <li>PersonalCharacteristic(p=0.15)->seksuele ervaring</li>
+    <li>PersonalCharacteristic(p=13)->seksuele ervaring</li>
+    <li>PersonalCharacteristic(p=13)->schaamhaar</li>
+    <li>PersonalCharacteristic(p=13)->lichaamshaar</li>
+    <li>PersonalCharacteristic(p=13)->toiletgewoonten</li>
+    <li>PersonalCharacteristic(p=13)->seksuele vaardigheden</li>
+    <li>PersonalCharacteristic(p=13)->seksuele voorkeuren</li>
+    <li>PersonalCharacteristic(p=13)->genitaliën</li>
+    <li>PersonalCharacteristic(p=49)->[PersonalCharacteristicGendered]</li>
+    <li>PersonalCharacteristic(p=19)->[PersonalCharacteristicNeuter]</li>
+    <li>PersonalCharacteristic(p=24)->[PersonalCharacteristicPlural]</li>
+    <li>TerrainFeature(p=36)->[TerrainFeatureGendered]</li>
+    <li>TerrainFeature(p=10)->[TerrainFeatureNeuter]</li>
+    <li>NaturalObject(p=22)->[NaturalObjectGendered]</li>
+    <li>NaturalObject(p=6)->[NaturalObjectNeuter]</li>
+    <li>Apparel(p=17)->[ApparelGendered]</li>
+    <li>Apparel(p=6)->[ApparelNeuter]</li>
+    <li>Community(p=5)->[CommunityGendered]</li>
+    <li>Community(p=4)->[CommunityNeuter]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <TalkTopicsUtility.rulePack.rulesFiles>
     <li>AnimalGendered->Words/Nouns/Animals_Gendered</li>
     <li>AnimalNeuter->Words/Nouns/Animals_Neuter</li>
     <li>AnimalPlural->Words/Nouns/Animals_Plural</li>
+    <li>AnimalBadassGendered->Words/Nouns/Animals_Badass_Gendered</li>
+    <li>AnimalBadassNeuter->Words/Nouns/Animals_Badass_Neuter</li>
+    <li>AnimalBadassPlural->Words/Nouns/Animals_Badass_Plural</li>
     <li>VegetableGendered->Words/Nouns/Vegetables_Gendered</li>
     <li>VegetableNeuter->Words/Nouns/Vegetables_Neuter</li>
     <li>VegetablePlural->Words/Nouns/Vegetables_Plural</li>
@@ -157,6 +177,12 @@
     <li>PersonJobGendered->Words/Nouns/People_Jobs_Gendered</li>
     <li>PersonJobNeuter->Words/Nouns/People_Jobs_Neuter</li>
     <li>PersonJobPlural->Words/Nouns/People_Jobs_Plural</li>
+    <li>PersonFamilyGendered->Words/Nouns/People_Family_Gendered</li>
+    <li>PersonFamilyNeuter->Words/Nouns/People_Family_Neuter</li>
+    <li>PersonFamilyPlural->Words/Nouns/People_Family_Plural</li>
+    <li>PersonBadassGendered->Words/Nouns/People_Badass_Gendered</li>
+    <li>PersonBadassNeuter->Words/Nouns/People_Badass_Neuter</li>
+    <li>PersonBadassPlural->Words/Nouns/People_Badass_Plural</li>
     <li>MechanoidGendered->Words/Nouns/Mechanoid_Gendered</li>
     <li>MechanoidNeuter->Words/Nouns/Mechanoid_Neuter</li>
     <li>MechanoidPlural->Words/Nouns/Mechanoid_Plural</li>
@@ -166,8 +192,10 @@
     <li>GoreGendered->Words/Nouns/Gore_Gendered</li>
     <li>GoreNeuter->Words/Nouns/Gore_Neuter</li>
     <li>GorePlural->Words/Nouns/Gore_Plural</li>
-    <li>Color->Words/Adjective/Colors_Neuter</li>
+    <li>Color->Words/Adjectives/Colors_Neuter</li>
     <li>AdjectiveColor->Words/Adjectives/Colors_Gendered</li>
+    <li>ColorBadass->Words/Adjectives/Colors_Badass_Neuter</li>
+    <li>AdjectiveColorBadass->Words/Adjectives/Colors_Badass_Gendered</li>
     <li>AdjectiveLargeGendered->Words/Adjectives/Large_Gendered</li>
     <li>AdjectiveLargeNeuter->Words/Adjectives/Large_Neuter</li>
     <li>AdjectiveBadassGendered->Words/Adjectives/Badass_Gendered</li>
@@ -178,6 +206,21 @@
     <li>AdjectiveFriendlyNeuter->Words/Adjectives/Friendly_Neuter</li>
     <li>AdjectiveNaturalGendered->Words/Adjectives/Natural_Gendered</li>
     <li>AdjectiveNaturalNeuter->Words/Adjectives/Natural_Neuter</li>
+    <li>PersonalCharacteristicGendered->Words/Nouns/PersonalCharacteristics_Gendered</li>
+    <li>PersonalCharacteristicNeuter->Words/Nouns/PersonalCharacteristics_Neuter</li>
+    <li>PersonalCharacteristicPlural->Words/Nouns/PersonalCharacteristics_Plural</li>
+    <li>TerrainFeatureGendered->Words/Nouns/TerrainFeatures_Gendered</li>
+    <li>TerrainFeatureNeuter->Words/Nouns/TerrainFeatures_Neuter</li>
+    <li>TerrainFeaturePlural->Words/Nouns/TerrainFeatures_Plural</li>
+    <li>NaturalObjectGendered->Words/Nouns/NaturalObject_Gendered</li>
+    <li>NaturalObjectNeuter->Words/Nouns/NaturalObject_Neuter</li>
+    <li>NaturalObjectPlural->Words/Nouns/NaturalObject_Plural</li>
+    <li>ApparelGendered->Words/Nouns/Apparel_Gendered</li>
+    <li>ApparelNeuter->Words/Nouns/Apparel_Neuter</li>
+    <li>ApparelPlural->Words/Nouns/Apparel_Plural</li>
+    <li>CommunityGendered->Words/Nouns/Communities_Gendered</li>
+    <li>CommunityNeuter->Words/Nouns/Communities_Neuter</li>
+    <li>CommunityPlural->Words/Nouns/Communities_Plural</li>
     <!-- DEFAULTS BELOW-->
     <li>talktopicheavyfile->Words/Nouns/TalkTopics_Heavy</li>
     <li>talktopiclightfile->Words/Nouns/TalkTopics_Light</li>
@@ -187,25 +230,14 @@
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
     <li>SylG->WordParts/Syllables_Galician</li>
-    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
     <li>Game->Words/Nouns/Games</li>
-    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
     <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
-    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
-    <li>NaturalObject->Words/Nouns/NaturalObject</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>
-    <li>PersonJob->Words/Nouns/People_Jobs</li>
-    <li>PersonFamily->Words/Nouns/People_Family</li>
-    <li>PersonBadass->Words/Nouns/People_Badass</li>
-    <li>Apparel->Words/Nouns/Apparel</li>
-    <li>Mechanoid->Words/Nouns/Mechanoid</li>
     <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
     <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
-    <li>Community->Words/Nouns/Communities</li>
     <li>BodyPart->Words/Nouns/Bodyparts</li>
     <li>VerbFriendly->Words/Verbs/Friendly</li>
-    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
   </TalkTopicsUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>
@@ -254,32 +286,32 @@
     <li>TalkTopicHeavy(p=0.08)->de verbinding tussen [talktopicheavyfile] en [talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->de relatie van [talktopicheavyfile] met [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
-    <li>TalkTopicLight->[Vegetable]s</li>
-    <li>TalkTopicLight->eet [Vegetable]s</li>
-    <li>TalkTopicLight->kookt met [Vegetable]s</li>
+    <li>TalkTopicLight->[VegetablePlural]</li>
+    <li>TalkTopicLight->het eten van [VegetablePlural]</li>
+    <li>TalkTopicLight->het koken met [VegetablePlural]</li>
     <li>TalkTopicLight->[Game]</li>
-    <li>TalkTopicLight->speelt [Game]</li>
-    <li>TalkTopicLight->oefent [Game]</li>
-    <li>TalkTopicLight->leert [Game]</li>
-    <li>TalkTopicLight->[Animal]s</li>
-    <li>TalkTopicLight->traint [Animal]</li>
-    <li>TalkTopicLight->temt [Animal]</li>
-    <li>TalkTopicLight->vercht [Animal]</li>
-    <li>TalkTopicLight->gestoorde [Animal]</li>
-    <li>TalkTopicLight->[Weapon]s</li>
-    <li>TalkTopicLight->gebruikt [Weapon]</li>
-    <li>TalkTopicLight->oefent met [Weapon]</li>
-    <li>TalkTopicLight->[TerrainFeature]</li>
-    <li>TalkTopicLight->[NaturalObject]</li>
-    <li>TalkTopicLight->[TreeType] bomen</li>
-    <li>TalkTopicLight->[PersonJob]</li>
-    <li>TalkTopicLight->vriendelijke [PersonJob]</li>
-    <li>TalkTopicLight->vijandige [PersonJob]</li>
-    <li>TalkTopicLight->[Enemy]</li>
-    <li>TalkTopicLight->vecht met [Enemy]</li>
-    <li>TalkTopicLight->[Apparel]</li>
-    <li>TalkTopicLight->draagt [Apparel]</li>
-    <li>TalkTopicLight->maakt [Apparel]</li>
+    <li>TalkTopicLight->het spelen van [Game]</li>
+    <li>TalkTopicLight->het oefenen in [Game]</li>
+    <li>TalkTopicLight->het leren van [Game]</li>
+    <li>TalkTopicLight->[AnimalPlural]</li>
+    <li>TalkTopicLight->het trainen van [AnimalPlural]</li>
+    <li>TalkTopicLight->het temmen van [AnimalPlural]</li>
+    <li>TalkTopicLight->het vechten tegen [AnimalPlural]</li>
+    <li>TalkTopicLight->gestoorde [AnimalPlural]</li>
+    <li>TalkTopicLight->[WeaponPlural]</li>
+    <li>TalkTopicLight->het gebruik van [WeaponPlural]</li>
+    <li>TalkTopicLight->het oefenen met [WeaponPlural]</li>
+    <li>TalkTopicLight->[TerrainFeaturePlural]</li>
+    <li>TalkTopicLight->[NaturalObjectPlural]</li>
+    <li>TalkTopicLight->een [TreeType]</li>
+    <li>TalkTopicLight->[PersonJobPlural]</li>
+    <li>TalkTopicLight->vriendelijke [PersonJobPlural]</li>
+    <li>TalkTopicLight->vijandige [PersonJobPlural]</li>
+    <li>TalkTopicLight->[EnemyPlural]</li>
+    <li>TalkTopicLight->het vechten tegen [EnemyPlural]</li>
+    <li>TalkTopicLight->[ApparelPlural]</li>
+    <li>TalkTopicLight->het dragen van [ApparelPlural]</li>
+    <li>TalkTopicLight->het maken van [ApparelPlural]</li>
     <li>talktopicheavyfile(p=0.15)->seks</li>
     <li>talktopicheavyfile(p=0.15)->verleiding</li>
     <li>talktopicheavyfile(p=0.15)->dierlijke seksualiteit</li>

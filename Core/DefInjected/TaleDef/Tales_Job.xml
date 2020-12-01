@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: attended party -->
-  <AttendedParty.label>TODO</AttendedParty.label>
+  <AttendedParty.label>feest bijgewoond</AttendedParty.label>
   <!-- EN:
     <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s party</li>
     <li>tale_noun->[ATTENDER_nameDef] relaxing with [ORGANIZER_nameDef] at a party</li>
@@ -20,10 +20,26 @@
     <li>desc_sentence->The area is decorated with [Color] and [Color].</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
   -->
-  <AttendedParty.rulePack.rulesStrings>TODO</AttendedParty.rulePack.rulesStrings>
+  <AttendedParty.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] die [ORGANIZER_nameDef]'s feest bijwoont</li>
+    <li>tale_noun->[ATTENDER_nameDef] die met [ORGANIZER_nameDef] ontspant tijdens een feest</li>
+    <li>image->[ATTENDER_nameFull] die een gesprek voert met [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] die een drankje krijg van [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] die kletst met [ORGANIZER_nameFull] [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] die [ATTENDER_nameFull] verwelkomt [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] die [ATTENDER_nameFull] aan een vriend voorstelt [circumstance_group]</li>
+    <li>circumstance_phrase->met een brede lach</li>
+    <li>circumstance_phrase->met een lach</li>
+    <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] glimlach</li>
+    <li>circumstance_phrase->en het daarbij uitschatert</li>
+    <li>circumstance_phrase->op [AdjectiveFriendlyGendered] wijze</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] hebben zich in het gesprek gemengd.</li>
+    <li>desc_sentence->de omgeving is [Color] en [Color] versierd.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] spelen in de buurt.</li>
+  </AttendedParty.rulePack.rulesStrings>
   
   <!-- EN: built snowman -->
-  <BuiltSnowman.label>TODO</BuiltSnowman.label>
+  <BuiltSnowman.label>sneeuwpop gemaakt</BuiltSnowman.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] building a snowman</li>
     <li>tale_noun->[PAWN_nameDef] playing in the snow</li>
@@ -40,10 +56,27 @@
     <li>desc_sentence->A field of [Vegetable]s is barely visible through the snow.</li>
     <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
   -->
-  <BuiltSnowman.rulePack.rulesStrings>TODO</BuiltSnowman.rulePack.rulesStrings>
+  <BuiltSnowman.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een sneeuwpop maakt</li>
+    <li>tale_noun->[PAWN_nameDef] die in de sneeuw speelt</li>
+    <li>image->[PAWN_nameFull] die een sneeuwbal rolt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een enorme sneeuwbal over de grond rolt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een menselijk gezicht maakt van [VegetablePlural] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in de sneeuw ligt [circumstance_group]</li>
+    <li>circumstance_phrase->en is gehuld in [Quantity_adjphrase] parka's</li>
+    <li>circumstance_phrase->en door een lichte sneeuwstorm wordt verhuld</li>
+    <li>circumstance_phrase->terwijl [PAWN_possessive] vrienden een fort bouwen</li>
+    <li>circumstance_phrase->terwijl [PAWN_possessive] vrienden een familie sneeuwpoppen bouwen</li>
+    <li>desc_sentence->Een [AdjectiveColor] aurora schijnt op de achtergrond.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwde [CommunityGendered] te zien.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwd [CommunityNeuter] te zien.</li>
+    <li>desc_sentence->Een veld [VegetablePlural] is nog net te zien onder de sneeuw.</li>
+    <li>desc_sentence(p=0.78)->Een besneeuwde [TerrainFeatureGendered] is zichtbaar in de verte.</li>
+    <li>desc_sentence(p=0.22)->Een besneeuwd [TerrainFeatureNeuter] is zichtbaar in de verte.</li>
+  </BuiltSnowman.rulePack.rulesStrings>
   
   <!-- EN: buried corpse -->
-  <BuriedCorpse.label>TODO</BuriedCorpse.label>
+  <BuriedCorpse.label>lijk begraven</BuriedCorpse.label>
   <!-- EN:
     <li>tale_noun->[DIGGER_nameDef] burying [CORPSE_nameDef]</li>
     <li>tale_noun->[DIGGER_nameDef] laying [CORPSE_nameDef] to rest</li>
@@ -65,10 +98,31 @@
     <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [DIGGER_nameDef], wearing a [AdjectiveAngsty] expression.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
-  <BuriedCorpse.rulePack.rulesStrings>TODO</BuriedCorpse.rulePack.rulesStrings>
+  <BuriedCorpse.rulePack.rulesStrings>
+    <li>tale_noun->[DIGGER_nameDef] die [CORPSE_nameDef] begraaft</li>
+    <li>tale_noun->[DIGGER_nameDef] die [CORPSE_nameDef] te ruste legt</li>
+    <li>image->[DIGGER_nameFull] die voor [CORPSE_nameFull]'s graf staat [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] die bij [CORPSE_nameFull]'s graf zit [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] die tegen [CORPSE_nameFull]'s graf aan leunt [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] die iets op [CORPSE_nameFull]'s graf schrijft [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] die op [CORPSE_nameFull]'s tekent [circumstance_group]</li>
+    <li>image->[DIGGER_nameFull] die [CORPSE_nameFull]'s lichaam in een graf plaatst [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en in gedachten is verzonken</li>
+    <li>circumstance_phrase->al starend naar een [TerrainFeature] in de verte</li>
+    <li>circumstance_phrase->en daarbij zachtjes naar de gedenksteen praat</li>
+    <li>desc_sentence->Een [AdjectiveColor] aurora schijnt op de achtergrond.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwde [CommunityGendered] te zien.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwd [CommunityNeuter] te zien.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] aanschouwt het tafereel met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] staat naast [DIGGER_nameDef], met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] aanschouwt het tafereel met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] staat naast [DIGGER_nameDef], met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten naast het tafereel.</li>
+  </BuriedCorpse.rulePack.rulesStrings>
   
   <!-- EN: completed long construction project -->
-  <CompletedLongConstructionProject.label>TODO</CompletedLongConstructionProject.label>
+  <CompletedLongConstructionProject.label>lang bouwproject afgerond</CompletedLongConstructionProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]</li>
@@ -86,10 +140,30 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the [OBJECT_label].</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
-  <CompletedLongConstructionProject.rulePack.rulesStrings>TODO</CompletedLongConstructionProject.rulePack.rulesStrings>
+  <CompletedLongConstructionProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die het werk afrond aan een [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] die een [OBJECT_label] bouwt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een [OBJECT_label] in elkaar zet [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die het oppervlak van een [OBJECT_label] poetst [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PAWN_possessive] naam in een [OBJECT_label] graveert [circumstance_group]</li>
+    <li>circumstance_phrase->met een glans in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] het zweet van [PAWN_possessive] gezicht veegt</li>
+    <li>circumstance_phrase->en daarbij onder het vuil zit</li>
+    <li>circumstance_phrase->met een trotse glimlach</li>
+    <li>circumstance_phrase->met een tevreden uitdrukking op [PAWN_possessive] gezicht</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->De [OBJECT_label] lijkt boven [PAWN_nameDef] uit te steken.</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->De [OBJECT_label] geeft een zacht [Color] licht.</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->De [OBJECT_label] is zeer gedetailleerd.</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->Het [OBJECT_label] lijkt boven [PAWN_nameDef] uit te steken.</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->Het [OBJECT_label] geeft een zacht [Color] licht.</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->Het [OBJECT_label] is zeer gedetailleerd.</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->[Quantity_adjphrase] [PersonJobPlural] kijken met ontzag naar de [OBJECT_label].</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->[Quantity_adjphrase] [PersonJobPlural] kijken met ontzag naar het [OBJECT_label].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken vol ontzag toe.</li>
+  </CompletedLongConstructionProject.rulePack.rulesStrings>
   
   <!-- EN: completed long crafting project -->
-  <CompletedLongCraftingProject.label>TODO</CompletedLongCraftingProject.label>
+  <CompletedLongCraftingProject.label>lang werkproject afgerond</CompletedLongCraftingProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
@@ -107,10 +181,29 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the device.</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
-  <CompletedLongCraftingProject.rulePack.rulesStrings>TODO</CompletedLongCraftingProject.rulePack.rulesStrings>
+  <CompletedLongCraftingProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die het werk afrond aan een [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] die een [OBJECT_label] in elkaar zet [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die het oppervlak van een [OBJECT_label] poetst [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die details aanbrengt aan een [OBJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PAWN_possessive] naam in een [OBJECT_label] graveert [circumstance_group]</li>
+    <li>circumstance_phrase->met een glans in [PAWN_possessive] ogen</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] het zweet van [PAWN_possessive] gezicht veegt</li>
+    <li>circumstance_phrase->en daarbij onder het vuil zit</li>
+    <li>circumstance_phrase->met een trotse glimlach</li>
+    <li>circumstance_phrase->met een tevreden uitdrukking op [PAWN_possessive] gezicht</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->De [OBJECT_label] geeft een zacht [Color] licht.</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->De [OBJECT_label] is zeer gedetailleerd.</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->Het [OBJECT_label] geeft een zacht [Color] licht.</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->Het [OBJECT_label] is zeer gedetailleerd.</li>
+    <li>desc_sentence(OBJECT_gender!=Neuter)->[PAWN_nameDef] houdt schijnbaar moeiteloos de [OBJECT_label] omhoog.</li>
+    <li>desc_sentence(OBJECT_gender==Neuter)->[PAWN_nameDef] houdt schijnbaar moeiteloos het [OBJECT_label] omhoog.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken met ontzag naar het apparaat.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken vol ontzag toe.</li>
+  </CompletedLongCraftingProject.rulePack.rulesStrings>
   
   <!-- EN: entered cryptosleep -->
-  <EnteredCryptosleep.label>TODO</EnteredCryptosleep.label>
+  <EnteredCryptosleep.label>in cryptoslaap gegaan</EnteredCryptosleep.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] entering cryptosleep</li>
     <li>image->[PAWN_nameFull] lying down inside a cryptosleep casket [circumstance_group]</li>
@@ -128,10 +221,26 @@
     <li>desc_sentence->A [Color] aurora shines in the background.</li>
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
-  <EnteredCryptosleep.rulePack.rulesStrings>TODO</EnteredCryptosleep.rulePack.rulesStrings>
+  <EnteredCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die in cryptoslaap gaat</li>
+    <li>image->[PAWN_nameFull] die in een cryptoslaapcapsule gaat liggen [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een cryptoslaapcapsule opent [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die zichzelf in een cryptoslaapcapsule verzegelt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die door de wand van een cryptoslaapcapsule kijkt naar de wereld die [PAWN_pronoun] op het punt staat te verlaten [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en daarbij in gedachten is verzonken</li>
+    <li>circumstance_phrase->en naar een [TerrainFeature] in de verte kijkt</li>
+    <li>circumstance_phrase->en daarbij zacht in zichzelf praat</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten naast het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] naderen het gebied.</li>
+    <li>desc_sentence->[PAWN_nameDef] blaakt van vertrouwen.</li>
+    <li>desc_sentence->[PAWN_nameDef] is zichtbaar gewond.</li>
+    <li>desc_sentence->Een [AdjectiveColor] aurora schijnt op de achtergrond.</li>
+    <li>desc_sentence->[Quantity_adjphrase] gevulde cryptoslaapcapsules omringen het tafereel.</li>
+  </EnteredCryptosleep.rulePack.rulesStrings>
   
   <!-- EN: gained master skill -->
-  <GainedMasterSkillWithoutPassion.label>TODO</GainedMasterSkillWithoutPassion.label>
+  <GainedMasterSkillWithoutPassion.label>vaardigheid meester gemaakt</GainedMasterSkillWithoutPassion.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
     <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
@@ -150,10 +259,27 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
-  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>TODO</GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een meester wordt in het uitvoeren van [SKILL_label]-taken</li>
+    <li>image->[PAWN_nameFull] die [SKILL_label]-vaardigheden oefent [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een boek leest over [SKILL_label]-methoden [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die training krijgt in [SKILL_label]-vaardigheden [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die verwoed werkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een project afrondt [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij zweet als een rund</li>
+    <li>circumstance_phrase->en daar zichtbaar door vermoeid is</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een verveelde gelaatsuitdrukking</li>
+    <li>desc_sentence->Het tafereel wordt omringd door [Quantity_adjphrase] mislukte experimenten.</li>
+    <li>desc_sentence->Het tafereel wordt omringd door [Quantity_adjphrase] boeken.</li>
+    <li>desc_sentence->[PAWN_possessive] vaardigheid is zichtbaar in het werk.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobGendered] kijken vol bewondering toe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalGendered] kijken verwonderd toe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] geesten van oude meesters kijken van bovenaf toe.</li>
+  </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
   
   <!-- EN: gained master skill with passion -->
-  <GainedMasterSkillWithPassion.label>TODO</GainedMasterSkillWithPassion.label>
+  <GainedMasterSkillWithPassion.label>vaardigheid meester gemaakt met passie</GainedMasterSkillWithPassion.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
     <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
@@ -174,10 +300,29 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement.</li>
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
-  <GainedMasterSkillWithPassion.rulePack.rulesStrings>TODO</GainedMasterSkillWithPassion.rulePack.rulesStrings>
+  <GainedMasterSkillWithPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een meester wordt in het uitvoeren van [SKILL_label]-taken</li>
+    <li>image->[PAWN_nameFull] die [SKILL_label]-vaardigheden oefent [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een boek leest over [SKILL_label]-methoden [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die training krijgt in [SKILL_label]-vaardigheden [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die verwoed werkt [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een project afrondt [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een verblijde gelaatsuitdrukking</li>
+    <li>circumstance_phrase->al [VerbFriendly]</li>
+    <li>circumstance_phrase->met een uitroep van vreugde</li>
+    <li>circumstance_phrase->en daarbij zweet als een rund</li>
+    <li>circumstance_phrase->en daar zichtbaar door vermoeid is</li>
+    <li>desc_sentence->Het tafereel wordt omringd door [Quantity_adjphrase] mislukte experimenten.</li>
+    <li>desc_sentence->Het tafereel wordt omringd door [Quantity_adjphrase] boeken.</li>
+    <li>desc_sentence->[PAWN_possessive] vaardigheid is zichtbaar in het werk.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobGendered] kijken vol bewondering toe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalGendered] kijken verwonderd toe.</li>
+    <li>desc_sentence->[Quantity_adjphrase] geesten van oude meesters kijken van bovenaf toe.</li>
+  </GainedMasterSkillWithPassion.rulePack.rulesStrings>
   
   <!-- EN: increased menagerie -->
-  <IncreasedMenagerie.label>TODO</IncreasedMenagerie.label>
+  <IncreasedMenagerie.label>menagerie uitgebreid</IncreasedMenagerie.label>
   <!-- EN:
     <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
@@ -195,10 +340,26 @@
     <li>desc_sentence->The scene is packed with [Animal]s and [Animal]s.</li>
     <li>desc_sentence->A line of uncountable [Animal]s waits to be tamed by [HUMAN_nameDef].</li>
   -->
-  <IncreasedMenagerie.rulePack.rulesStrings>TODO</IncreasedMenagerie.rulePack.rulesStrings>
+  <IncreasedMenagerie.rulePack.rulesStrings>
+    <li>tale_noun(p=3)->[HUMAN_nameDef] die alweer een nieuw dier toevoegt aan [HUMAN_possessive] groeiende [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] die wordt gevolgd door [AnimalGroup]</li>
+    <li>tale_noun->[HUMAN_nameDef] die [ANIMAL_nameDef] temt</li>
+    <li>image->[HUMAN_nameFull] die [ANIMAL_nameFull] temt, [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] die een beetje voer aanbiedt aan [ANIMAL_nameFull], [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] die naar [ANIMAL_nameFull] fluistert, [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] die [ANIMAL_nameFull] kalmeert, [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij kalm en voorzichtig te werk gaat</li>
+    <li>circumstance_phrase->met een glimlach</li>
+    <li>circumstance_phrase->en daarbij uitgeput maar gelukkig oogt</li>
+    <li>circumstance_phrase->met op de achtergrond een [AnimalGroup]</li>
+    <li>desc_sentence->[HUMAN_nameDef] wordt omringd door ontelbaar veel [AnimalPlural].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] beweegt richting een [AnimalGroup] van het zelfde soort dieren.</li>
+    <li>desc_sentence->Het tafereel is vergeven van [AnimalPlural] en [AnimalPlural].</li>
+    <li>desc_sentence->Een lijn ontelbare [AnimalPlural] wacht om door [HUMAN_nameDef] te worden getemd.</li>
+  </IncreasedMenagerie.rulePack.rulesStrings>
   
   <!-- EN: meditated -->
-  <Meditated.label>TODO</Meditated.label>
+  <Meditated.label>gemediteerd</Meditated.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] meditating</li>
     <li>image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]</li>
@@ -215,10 +376,25 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
-  <Meditated.rulePack.rulesStrings>TODO</Meditated.rulePack.rulesStrings>
+  <Meditated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die mediteert</li>
+    <li>image->[PAWN_nameFull] die onder een [TreeType] zit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in rust zit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in de verte staart, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PAWN_possessive] ogen sluit, [circumstance_group]</li>
+    <li>circumstance_phrase->en sereniteit uitstraalt</li>
+    <li>circumstance_phrase->met een vredige glimlach</li>
+    <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] glimlach</li>
+    <li>circumstance_phrase->en daarbij zachtjes licht geeft</li>
+    <li>circumstance_phrase->en daarbij wordt omringd door [AdjectiveColor] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken naar [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] wordt omringd door [Quantity_adjphrase] [AnimalPlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten vredig.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] hebben groot ontzag voor het tafereel.</li>
+  </Meditated.rulePack.rulesStrings>
   
   <!-- EN: mined valuable -->
-  <MinedValuable.label>TODO</MinedValuable.label>
+  <MinedValuable.label>waardevol voorwerp gedolven</MinedValuable.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] mining a rich vein of [MATERIAL_label]</li>
     <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
@@ -238,10 +414,29 @@
     <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
-  <MinedValuable.rulePack.rulesStrings>TODO</MinedValuable.rulePack.rulesStrings>
+  <MinedValuable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een rijke ader van [MATERIAL_label] delft</li>
+    <li>image->[PAWN_nameFull] die bij een muur van [MATERIAL_label] werkt met mijnbouwgereedschap, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een brok [MATERIAL_label] omhooghoudt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die uitrust tegen een muur van [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een team kompels organiseert bij een ader [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die voorzichtig een rijke ader [MATERIAL_label] inspecteert, [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij zweet als een rund</li>
+    <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->met een trotse glimlach</li>
+    <li>circumstance_phrase->met een tevreden uitdrukking op [PAWN_possessive] gezicht</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] helpen mee.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] zijn in het gebied aanwezig.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] wander the area.</li>
+    <li>desc_sentence->Er is een [Community] op de achtergrond te zien.</li>
+    <li>desc_sentence->Er zijn nog [Quantity_adjphrase] andere aders zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->Een [TerrainFeature] is zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->[PAWN_nameDef] zit onder het zweet en het vuil door al het werk.</li>
+  </MinedValuable.rulePack.rulesStrings>
   
   <!-- EN: played game -->
-  <PlayedGame.label>TODO</PlayedGame.label>
+  <PlayedGame.label>spel gespeeld</PlayedGame.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] relaxing at a [OBJECT_label]</li>
     <li>tale_noun->[PAWN_nameDef] playing games at a [OBJECT_label]</li>
@@ -268,10 +463,35 @@
     <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
   -->
-  <PlayedGame.rulePack.rulesStrings>TODO</PlayedGame.rulePack.rulesStrings>
+  <PlayedGame.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die bij een [OBJECT_label] ontspant</li>
+    <li>tale_noun->[PAWN_nameDef] die bij een [OBJECT_label] een spel speelt</li>
+    <li>tale_noun->[PAWN_nameDef] die zichzelf vermaakt met een [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] die in een stoel zit te wachten, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die bij een [OBJECT_label] zit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die naast een [OBJECT_label] zit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die aan de winnende hand is bij een [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die aan het verliezen is bij een [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->en erg gespannen is</li>
+    <li>circumstance_phrase->[PAWN_possessive] postuur los en ontspannen</li>
+    <li>circumstance_phrase->en nadenkt over [PAWN_possessive] volgende zet</li>
+    <li>circumstance_phrase->terwijl [PAWN_pronoun] over [PAWN_possessive] polsen wrijft</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en oogt daarbij [AdjectiveAngstyNeuter]</li>
+    <li>desc_sentence->Een [AdjectiveColor] aurora schijnt op de achtergrond.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwde [CommunityGendered] te zien.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwd [CommunityNeuter] te zien.</li>
+    <li>desc_sentence->Een [TerrainFeature] is zichtbaar in de verte.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] spelen ook.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] spelen nabij.</li>
+    <li>desc_sentence->[PAWN_nameDef] wordt omringd door een [AdjectiveColor] aura.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s gelaatsuitdrukking is overdreven.</li>
+    <li>desc_sentence->[PAWN_nameDef] is groter dan het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] zitten gebogen na hun verlies.</li>
+  </PlayedGame.rulePack.rulesStrings>
   
   <!-- EN: prayed -->
-  <Prayed.label>TODO</Prayed.label>
+  <Prayed.label>gebeden</Prayed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] praying</li>
     <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
@@ -289,10 +509,26 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
-  <Prayed.rulePack.rulesStrings>TODO</Prayed.rulePack.rulesStrings>
+  <Prayed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die bidt</li>
+    <li>tale_noun->[PAWN_nameDef] die tot een hogere macht bidt</li>
+    <li>image->[PAWN_nameFull] die in de verte staart, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PAWN_possessive] ogen sluit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die [PAWN_possessive] handen vouwt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die naar de hemel kijkt, [circumstance_group]</li>
+    <li>circumstance_phrase->en sereniteit uitstraalt</li>
+    <li>circumstance_phrase->en zachtjes fluistert</li>
+    <li>circumstance_phrase->met een hoopvolle gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en daarbij zachtjes licht geeft</li>
+    <li>circumstance_phrase->en daarbij wordt omringd door [AdjectiveColor] aura</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken naar [PAWN_pronoun].</li>
+    <li>desc_sentence->[PAWN_pronoun] wordt omringd door [Quantity_adjphrase] [AnimalPlural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten vredig.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] hebben groot ontzag voor het tafereel.</li>
+  </Prayed.rulePack.rulesStrings>
   
   <!-- EN: put into cryptosleep -->
-  <PutIntoCryptosleep.label>TODO</PutIntoCryptosleep.label>
+  <PutIntoCryptosleep.label>in cryptoslaap gebracht</PutIntoCryptosleep.label>
   <!-- EN:
     <li>tale_noun->[CARRIER_nameDef] putting [SLEEPER_nameDef] into cryptosleep</li>
     <li>image->[CARRIER_nameFull] placing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
@@ -310,10 +546,26 @@
     <li>desc_sentence->[SLEEPER_nameDef] looks exhausted.</li>
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
-  <PutIntoCryptosleep.rulePack.rulesStrings>TODO</PutIntoCryptosleep.rulePack.rulesStrings>
+  <PutIntoCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[CARRIER_nameDef] die [SLEEPER_nameDef] in cryptoslaap brengt</li>
+    <li>image->[CARRIER_nameFull] die [SLEEPER_nameDef] in een cryptoslaapcapsule plaatst, [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] die een lege cryptoslaapcapsule opent en tegelijkertijd [SLEEPER_nameDef] vasthoudt, [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] die een cryptoslaapcapsule verzegelt met daarin [SLEEPER_nameDef], [circumstance_group]</li>
+    <li>image->[CARRIER_nameFull] die wegloopt terwijl [SLEEPER_nameDef] door de wand van een cryptoslaapcapsule kijkt, [circumstance_group]</li>
+    <li>circumstance_phrase(p=3)->met een [AdjectiveAnyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en daarbij in gedachten is verzonken</li>
+    <li>circumstance_phrase->en naar een [TerrainFeature] in de verte tuurt</li>
+    <li>circumstance_phrase->en er bestaat duidelijk spanning tussen de twee</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten in de buurt van het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] naderen het gebied.</li>
+    <li>desc_sentence->[CARRIER_nameDef] blaakt van vastberadenheid.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] is zichtbaar gewond.</li>
+    <li>desc_sentence->[SLEEPER_nameDef] oogt uitgeput.</li>
+    <li>desc_sentence->[Quantity_adjphrase] gevulde cryptoslaapcapsules omringen het tafereel.</li>
+  </PutIntoCryptosleep.rulePack.rulesStrings>
   
   <!-- EN: stripped -->
-  <Stripped.label>TODO</Stripped.label>
+  <Stripped.label>gestript</Stripped.label>
   <!-- EN:
     <li>tale_noun->[TAKER_nameDef] stripping [STRIPPED_nameDef]</li>
     <li>image->[TAKER_nameFull] disrobing [STRIPPED_nameFull] in public [circumstance_group]</li>
@@ -331,10 +583,26 @@
     <li>desc_sentence->[STRIPPED_nameDef] is fondling a shrub.</li>
     <li>desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression.</li>
   -->
-  <Stripped.rulePack.rulesStrings>TODO</Stripped.rulePack.rulesStrings>
+  <Stripped.rulePack.rulesStrings>
+    <li>tale_noun->[TAKER_nameDef] die [STRIPPED_nameDef] stript</li>
+    <li>image->[TAKER_nameFull] die [STRIPPED_nameFull] publiekelijk ontkleedt, [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] die de kleren van [STRIPPED_nameFull] verwijdert, [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] die een stapel [ApparelPlural] vast houdt naast een volkomen naakte [STRIPPED_nameFull], [circumstance_group]</li>
+    <li>image->[TAKER_nameFull] die geduldig wacht tot [STRIPPED_nameFull] [STRIPPED_possessive] kleren heeft uitgetrokken, [circumstance_group]</li>
+    <li>circumstance_phrase->met een doel voor ogen</li>
+    <li>circumstance_phrase->zonder enige schaamte</li>
+    <li>circumstance_phrase->terwijl anderen toekijken</li>
+    <li>circumstance_phrase->blijkbaar zonder reden</li>
+    <li>circumstance_phrase->terwijl dieren verward toekijken</li>
+    <li>desc_sentence->[STRIPPED_nameDef] is zichtbaar opgewonden</li>
+    <li>desc_sentence->[STRIPPED_nameDef] zit onder een onbekende vloeistof.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] hijgt zonder duidelijke reden.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] betast een struik.</li>
+    <li>desc_sentence->[STRIPPED_nameDef] heeft een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+  </Stripped.rulePack.rulesStrings>
   
   <!-- EN: visited grave -->
-  <VisitedGrave.label>TODO</VisitedGrave.label>
+  <VisitedGrave.label>graf bezocht</VisitedGrave.label>
   <!-- EN:
     <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
     <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>
@@ -355,6 +623,26 @@
     <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveAngsty] expression.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
-  <VisitedGrave.rulePack.rulesStrings>TODO</VisitedGrave.rulePack.rulesStrings>
+  <VisitedGrave.rulePack.rulesStrings>
+    <li>tale_noun->[VISITOR_nameDef] die het graf van [CORPSE_nameDef] bezoekt</li>
+    <li>tale_noun->[VISITOR_nameDef] die [CORPSE_nameDef]'s graf bezoekt</li>
+    <li>image->[VISITOR_nameFull] die voor [CORPSE_nameFull]'s graf staat [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] die bij [CORPSE_nameFull]'s graf zit [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] die tegen [CORPSE_nameFull]'s graf aan leunt [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] die de tekst op [CORPSE_nameFull]'s graf leest [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] die de tekening op [CORPSE_nameFull]'s bekijkt [circumstance_group]</li>
+    <li>circumstance_phrase->met een [AdjectiveAngstyGendered] gelaatsuitdrukking</li>
+    <li>circumstance_phrase->en in gedachten is verzonken</li>
+    <li>circumstance_phrase->al starend naar een [TerrainFeature] in de verte</li>
+    <li>circumstance_phrase->en daarbij zachtjes naar de gedenksteen praat</li>
+    <li>desc_sentence->Een [AdjectiveColor] aurora schijnt op de achtergrond.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwde [CommunityGendered] te zien.</li>
+    <li>desc_sentence(p=0.5)->In de verte is een besneeuwd [CommunityNeuter] te zien.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] aanschouwt het tafereel met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] staat naast [VISITOR_nameDef], met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] aanschouwt het tafereel met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->Een spectrale afbeelding van [CORPSE_nameDef] staat naast [VISITOR_nameDef], met een [AdjectiveAngstyGendered] gelaatsuitdrukking.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten naast het tafereel.</li>
+  </VisitedGrave.rulePack.rulesStrings>
   
 </LanguageData>

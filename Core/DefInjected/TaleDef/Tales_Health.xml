@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: downed -->
-  <Downed.label>TODO</Downed.label>
+  <Downed.label>neergehaald</Downed.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -40,10 +40,50 @@
     <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
-  <Downed.rulePack.rulesStrings>TODO</Downed.rulePack.rulesStrings>
+  <Downed.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] </li>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] met een [WEAPON_label]</li>
+    <li>tale_noun->het [wound_name_cont] van [VICTIM_nameDef] door [KILLER_nameDef]</li>
+    <li>tale_noun->het [wound_name_cont] van [VICTIM_nameDef] door middel van een [WEAPON_label]</li>
+    <li>tale_noun->het [wound_name_cont] van [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] die [wound_name_object] door [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die op brute wijze [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] die [wound_name_object] [with_weapon_optional]</li>
+    <li>wound_name_object->wordt neergehaald</li>
+    <li>wound_name_object->wordt verminkt</li>
+    <li>wound_name_object->bewusteloos wordt geslagen</li>
+    <li>wound_name_object->buiten gevecht wordt gesteld</li>
+    <li>wound_name_present->neerhaalt</li>
+    <li>wound_name_present->bezeert</li>
+    <li>wound_name_present->bewusteloos slaat</li>
+    <li>wound_name_present->buiten gevecht stelt</li>
+    <li>wound_name_cont->neerhalen</li>
+    <li>wound_name_cont->bezeren</li>
+    <li>wound_name_cont->bewusteloos slaan</li>
+    <li>wound_name_cont->buiten gevecht stellen</li>
+    <li>with_weapon_optional->met een [WEAPON_label], [circumstance_group]</li>
+    <li>with_weapon_optional->, [circumstance_group]</li>
+    <li>circumstance_phrase->blijkbaar zonder enige spijt</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->in ontstoken woede</li>
+    <li>circumstance_phrase->met snelle, efficiënte bewegingen</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>circumstance_phrase->omdat dat nou eenmaal noodzakelijk is</li>
+    <li>circumstance_phrase->op halfslachtige, oneerbare wijze</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef] kijkt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen zijn gesloten.</li>
+    <li>desc_sentence->[KILLER_nameDef] laat [KILLER_possessive] tanden zien.</li>
+    <li>desc_sentence->[KILLER_nameDef] oogt tevreden.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+  </Downed.rulePack.rulesStrings>
   
   <!-- EN: exhausted -->
-  <Exhausted.label>TODO</Exhausted.label>
+  <Exhausted.label>uitgeput</Exhausted.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] collapsing from exhaustion</li>
     <li>image->[PAWN_nameFull] collapsing on the ground [circumstance_group]</li>
@@ -61,10 +101,27 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s lie nearby in a similar state.</li>
     <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
   -->
-  <Exhausted.rulePack.rulesStrings>TODO</Exhausted.rulePack.rulesStrings>
+  <Exhausted.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die van uitputting omvalt</li>
+    <li>image->[PAWN_nameFull] die op de grond valt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die op de grond ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in bed ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die uitgeput in een stoel zit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die vredig slaapt, [circumstance_group]</li>
+    <li>circumstance_phrase->met de ogen gesloten</li>
+    <li>circumstance_phrase->en zichtbaar vermoeid is</li>
+    <li>circumstance_phrase->met zweet over het hele lichaam</li>
+    <li>circumstance_phrase->en niet de energie heeft om enige beweging te maken</li>
+    <li>desc_sentence->[PAWN_nameDef]'s meest recente project ligt in de buurt. Het is af.</li>
+    <li>desc_sentence->[PAWN_nameDef] bevind zich in een adembenemend bouwwerk.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ogen dankbaar voor [PAWN_nameDef]'s heldhaftige inspanning.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] liggen in de buurt in vergelijkbare staat.</li>
+    <li>desc_sentence(p=0.5)->Het tafereel speelt zich af in een nieuw gebouwde [CommunityGendered].</li>
+    <li>desc_sentence(p=0.5)->Het tafereel speelt zich af in een nieuw gebouwd [CommunityNeuter].</li>
+  </Exhausted.rulePack.rulesStrings>
   
   <!-- EN: gave birth -->
-  <GaveBirth.label>TODO</GaveBirth.label>
+  <GaveBirth.label>geboorte</GaveBirth.label>
   <!-- EN:
     <li>tale_noun->[MOTHER_nameDef] giving birth to [CHILD_nameDef]</li>
     <li>image->[MOTHER_nameFull] giving birth to [circumstance_group]</li>
@@ -83,10 +140,28 @@
     <li>desc_sentence->A [PersonJob]s watches from a distance.</li>
     <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
   -->
-  <GaveBirth.rulePack.rulesStrings>TODO</GaveBirth.rulePack.rulesStrings>
+  <GaveBirth.rulePack.rulesStrings>
+    <li>tale_noun->[MOTHER_nameDef] die [CHILD_nameDef] baart</li>
+    <li>image->de geboorte van [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] met [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] die in bed ligt naast [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] die uitgeput in een stoel zit met [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>baby->kind</li>
+    <li>baby->nageslacht</li>
+    <li>baby->baby</li>
+    <li>circumstance_phrase->[CHILD_nameFull], die huilt en onder het bloed zit</li>
+    <li>circumstance_phrase->[CHILD_nameFull], die zachtjes [Color] licht geeft</li>
+    <li>circumstance_phrase->[CHILD_nameFull], die nu al probeert zichzelf in beweging te trekken</li>
+    <li>circumstance_phrase->[CHILD_nameFull], die sereen in het rond kijkt</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] slapen vredig in de buurt.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] aanschouwen het tafereel.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt van een afstandje toe.</li>
+    <li>desc_sentence(p=0.5)->Het tafereel speelt zich af in een nieuw gebouwde [CommunityGendered].</li>
+    <li>desc_sentence(p=0.5)->Het tafereel speelt zich af in een nieuw gebouwd [CommunityNeuter].</li>
+  </GaveBirth.rulePack.rulesStrings>
   
   <!-- EN: heatstroke revealed -->
-  <HeatstrokeRevealed.label>TODO</HeatstrokeRevealed.label>
+  <HeatstrokeRevealed.label>hittegolf ontdekt</HeatstrokeRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] getting heatstroke</li>
     <li>tale_noun->[PAWN_nameDef] overheating</li>
@@ -107,10 +182,29 @@
     <li>desc_sentence->[Quantity_adjphrase] unmoving [Animal]s surround the scene.</li>
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
-  <HeatstrokeRevealed.rulePack.rulesStrings>TODO</HeatstrokeRevealed.rulePack.rulesStrings>
+  <HeatstrokeRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die een zonnesteek krijgt</li>
+    <li>tale_noun->[PAWN_nameDef] die oververhit raakt</li>
+    <li>image->[PAWN_nameFull] die door zand sjokt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die beschutting zoekt in de schaduw van een [TerrainFeature], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die naar water zoekt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die naar schaduw zoekt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die over een uitgedroogd landschap kruipt, [circumstance_group]</li>
+    <li>circumstance_phrase->met een rode, droge huid</li>
+    <li>circumstance_phrase->en zweet daarbij als een rund</li>
+    <li>circumstance_phrase->met droge, gespleten lippen</li>
+    <li>circumstance_phrase->en geeft daarbij over</li>
+    <li>desc_sentence->[Quantity_adjphrase] lijken van [AnimalPlural] liggen verspreid in het rond.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s kleren zitten vol gaten en scheuren.</li>
+    <li>desc_sentence->De brandende zon is op de achtergrond te zien.</li>
+    <li>desc_sentence->Het tafereel speelt zich af in een hete woestijn.</li>
+    <li>desc_sentence->Het tafereel lijkt zich af te spelen binnenshuis, in de buurt van een kachel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stilstaande [AnimalPlural] omringen het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stervende [AnimalPlural] liggen op de grond.</li>
+  </HeatstrokeRevealed.rulePack.rulesStrings>
   
   <!-- EN: hypothermia revealed -->
-  <HypothermiaRevealed.label>TODO</HypothermiaRevealed.label>
+  <HypothermiaRevealed.label>onderkoeling ontdekt</HypothermiaRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] getting hypothermia</li>
     <li>tale_noun->[PAWN_nameDef] freezing to death</li>
@@ -131,10 +225,30 @@
     <li>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</li>
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
-  <HypothermiaRevealed.rulePack.rulesStrings>TODO</HypothermiaRevealed.rulePack.rulesStrings>
+  <HypothermiaRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die onderkoeld raakt</li>
+    <li>tale_noun->[PAWN_nameDef] die doodvriest</li>
+    <li>image->[PAWN_nameFull] die door de sneeuw sjokt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die tegen een [TerrainFeature] aan zit gescholen, [circumstance_group]</li>
+    <li>image(p=0.74)->[PAWN_nameFull] die op zoek is naar een warme [ApparelGendered], [circumstance_group]</li>
+    <li>image(p=0.26)->[PAWN_nameFull] die op zoek is naar een warm [ApparelNeuter], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die bij een vuur hurkt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die vuur probeert te maken, [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [PAWN_possessive] gezicht langzaam blauw kleurt</li>
+    <li>circumstance_phrase->en daarbij hevig rilt</li>
+    <li>circumstance_phrase->en daarbij bedekt is met sneeuw en ijs</li>
+    <li>circumstance_phrase->[PAWN_possessive] adem zichtbaar in de koude lucht</li>
+    <li>desc_sentence->[Quantity_adjphrase] bevroren lijken van [AnimalPlural] omringen het tafereel.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s kleren zitten vol gaten en scheuren.</li>
+    <li>desc_sentence->Een koude, blauwe maan is zichtbaar op de achtergrond.</li>
+    <li>desc_sentence->Het tafereel speelt zich af onder een [TreeType] in een besneeuwd bos.</li>
+    <li>desc_sentence->Het tafereel lijkt zich af te spelen in een vrieskast.</li>
+    <li>desc_sentence->[Quantity_adjphrase] rillende [AnimalPlural] omringen het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stervende [AnimalPlural] liggen op de grond.</li>
+  </HypothermiaRevealed.rulePack.rulesStrings>
   
   <!-- EN: illness revealed -->
-  <IllnessRevealed.label>TODO</IllnessRevealed.label>
+  <IllnessRevealed.label>ziekte ontdekt</IllnessRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] being stricken with [ILLNESS_label]</li>
     <li>image->[PAWN_nameFull] staggering through a field [circumstance_group]</li>
@@ -156,10 +270,30 @@
     <li>desc_sentence->The scene takes place inside a [TreeType] forest.</li>
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
-  <IllnessRevealed.rulePack.rulesStrings>TODO</IllnessRevealed.rulePack.rulesStrings>
+  <IllnessRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] die [ILLNESS_label] heeft gevat</li>
+    <li>image->[PAWN_nameFull] die door een veld struikelt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die op de grond ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in bed ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in een ziekenhuisbed ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die uitgeput in een stoel zit, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die bij een vuur hurkt, [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij ontzettend zweet</li>
+    <li>circumstance_phrase->en daarbij ontzettend rilt</li>
+    <li>circumstance_phrase->en daarbij zowel zweet als rilt</li>
+    <li>circumstance_phrase->met droge, gespleten lippen</li>
+    <li>circumstance_phrase->en daarbij overgeeft</li>
+    <li>circumstance_phrase->en duidelijk uitslag heeft</li>
+    <li>circumstance_phrase->terwijl een dokter [PAWN_objective] verzorgt</li>
+    <li>desc_sentence->[Quantity_adjphrase] lijken van [AnimalPlural] liggen verspreid in het rond en zitten onder de vliegen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] verwrongen [ColorAdjective] [TerrainFeaturePlural] omringen het tafereel.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] hebben dezelfde ziekte gevat.</li>
+    <li>desc_sentence->Het tafereel speelt zich af onder een [TreeType] in een bos.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stervende [AnimalPlural] liggen op de grond.</li>
+  </IllnessRevealed.rulePack.rulesStrings>
   
   <!-- EN: killed -->
-  <KilledCapacity.label>TODO</KilledCapacity.label>
+  <KilledCapacity.label>gedood</KilledCapacity.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -191,10 +325,39 @@
     <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
-  <KilledCapacity.rulePack.rulesStrings>TODO</KilledCapacity.rulePack.rulesStrings>
+  <KilledCapacity.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] met een [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull]'s vermogen tot [CAPACITY_label] [cap_removal] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull] [wound_name_present] door [VICTIM_possessive] vermogen tot [CAPACITY_label] te [cap_removal_cont] [with_weapon_optional]</li>
+    <li>cap_removal->vernietigt</li>
+    <li>cap_removal->elimineert</li>
+    <li>cap_removal->beëindigt</li>
+    <li>cap_removal_cont->vernietigen</li>
+    <li>cap_removal_cont->elimineren</li>
+    <li>cap_removal_cont->beëindigen</li>
+    <li>wound_name_present->doodt</li>
+    <li>wound_name_present->executeert</li>
+    <li>wound_name_present->vermoordt</li>
+    <li>wound_name_present->elimineert</li>
+    <li>with_weapon_optional->met een [WEAPON_label], [circumstance_group]</li>
+    <li>with_weapon_optional->, [circumstance_group]</li>
+    <li>circumstance_phrase->blijkbaar zonder enige spijt</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->met snelle, efficiënte bewegingen</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen zijn gesloten.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+  </KilledCapacity.rulePack.rulesStrings>
   
   <!-- EN: killed at distance -->
-  <KilledLongRange.label>TODO</KilledLongRange.label>
+  <KilledLongRange.label>van een afstand gedood</KilledLongRange.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance with a [WEAPON_label]</li>
@@ -230,10 +393,45 @@
     <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
-  <KilledLongRange.rulePack.rulesStrings>TODO</KilledLongRange.rulePack.rulesStrings>
+  <KilledLongRange.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] van zeer lange afstand [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] van zeer lange afstand [wound_name_present] met een [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] die van lange afstand wordt [wound_name_perfect] of door [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] die van lange afstand wordt [wound_name_perfect] of door [KILLER_nameDef] met [KILLER_possessive] [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] die op [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die koelbloedig [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>wound_name_present->vermoordt</li>
+    <li>wound_name_present->doodt</li>
+    <li>wound_name_present->af slacht</li>
+    <li>wound_name_present->elimineert</li>
+    <li>wound_name_perfect->vermoord</li>
+    <li>wound_name_perfect->gedood</li>
+    <li>wound_name_perfect->afgeslacht</li>
+    <li>wound_name_perfect->geëlimineerd</li>
+    <li>with_weapon_optional->met een [WEAPON_label], [circumstance_group]</li>
+    <li>with_weapon_optional->, [circumstance_group]</li>
+    <li>circumstance_phrase->blijkbaar zonder enige spijt</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->van een lange afstand</li>
+    <li>circumstance_phrase->van grote hoogte</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>circumstance_phrase->op halfslachtige, oneerbare wijze</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen zijn gesloten.</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+  </KilledLongRange.rulePack.rulesStrings>
   
   <!-- EN: killed major threat -->
-  <KilledMajorThreat.label>TODO</KilledMajorThreat.label>
+  <KilledMajorThreat.label>grote bedreiging gedood</KilledMajorThreat.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -272,10 +470,54 @@
     <li>desc_sentence->[KILLER_nameDef] looks [AdjectiveBadass].</li>
     <li>desc_sentence->[KILLER_nameDef] is glowing with a heroic aura.</li>
   -->
-  <KilledMajorThreat.rulePack.rulesStrings>TODO</KilledMajorThreat.rulePack.rulesStrings>
+  <KilledMajorThreat.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] met een [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] die door [KILLER_nameDef] wordt [wound_name_perfect]</li>
+    <li>tale_noun->[VICTIM_nameDef] die door [KILLER_nameDef] wordt [wound_name_perfect] met een [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] die wordt [wound_name_perfect] door [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die op brute wijze [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] die wordt [wound_name_perfect] [with_weapon_optional]</li>
+    <li>wound_name_present->doodt</li>
+    <li>wound_name_present->verslaat</li>
+    <li>wound_name_present->overwint</li>
+    <li>wound_name_perfect->gedood</li>
+    <li>wound_name_perfect->verslagen</li>
+    <li>wound_name_perfect->overwonnen</li>
+    <li>with_weapon_optional->met een [WEAPON_label], [circumstance_group]</li>
+    <li>with_weapon_optional->, [circumstance_group]</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->met snelle, efficiënte bewegingen</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>circumstance_phrase->op heldhaftige manier</li>
+    <li>circumstance_phrase->met ongelooflijke kracht</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen zijn gesloten.</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] en [KILLER_nameDef] zitten beide onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] en [KILLER_nameDef] zitten beide onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] en [KILLER_nameDef] zitten beide onder de [GorePlural].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s lichaam torent boven [KILLER_nameDef] uit.</li>
+    <li>desc_sentence(p=0.78)->[VICTIM_nameDef]'s enorme lijk beslaat een hele [TerrainFeatureGendered].</li>
+    <li>desc_sentence(p=0.22)->[VICTIM_nameDef]'s enorme lijk beslaat een heel [TerrainFeatureNeuter].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen geven [Color] licht.</li>
+    <li>desc_sentence(p=0.2)->[KILLER_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[KILLER_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[KILLER_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence->[KILLER_nameDef] laat [KILLER_possessive] tanden zien.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er [AdjectiveBadassNeuter] uit.</li>
+    <li>desc_sentence->[KILLER_nameDef] gloeit met een heldhaftige aura.</li>
+  </KilledMajorThreat.rulePack.rulesStrings>
   
   <!-- EN: killed in melee -->
-  <KilledMelee.label>TODO</KilledMelee.label>
+  <KilledMelee.label>in melee gedood</KilledMelee.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in close combat</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in melee with a [WEAPON_label]</li>
@@ -314,10 +556,53 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
     <li>desc_sentence->[KILLER_nameDef] wears a feral expression.</li>
   -->
-  <KilledMelee.rulePack.rulesStrings>TODO</KilledMelee.rulePack.rulesStrings>
+  <KilledMelee.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] in een melee gevecht</li>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] in melee met een [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] die in melee wordt [wound_name_perfect] door [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] die in melee wordt [wound_name_perfect] door [KILLER_nameDef] met een [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] die [wound_name_perfect] wordt door [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] die [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] op brute manier [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] die [wound_name_perfect] wordt [with_weapon_optional]</li>
+    <li>wound_name_present->vermoordt</li>
+    <li>wound_name_present->doodt</li>
+    <li>wound_name_present->af slacht</li>
+    <li>wound_name_present->verminkt</li>
+    <li>wound_name_present->vermoord</li>
+    <li>wound_name_present->gedood</li>
+    <li>wound_name_present->afgeslacht</li>
+    <li>wound_name_present->verminkt</li>
+    <li>with_weapon_optional->met een [WEAPON_label], [circumstance_group]</li>
+    <li>with_weapon_optional->, [circumstance_group]</li>
+    <li>circumstance_phrase->blijkbaar zonder enige spijt</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->met snelle, efficiënte bewegingen</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>circumstance_phrase->op halfslachtige, oneerbare wijze</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s ogen zijn gesloten.</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] en [KILLER_nameDef] zitten beide onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] en [KILLER_nameDef] zitten beide onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] en [KILLER_nameDef] zitten beide onder de [GorePlural].</li>
+    <li>desc_sentence(p=0.2)->[KILLER_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[KILLER_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[KILLER_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence->[KILLER_nameDef] laat [KILLER_possessive] tanden zien.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+    <li>desc_sentence->[KILLER_nameDef] heeft een wilde gezichtsuitdrukking.</li>
+  </KilledMelee.rulePack.rulesStrings>
   
   <!-- EN: killed with mortar -->
-  <KilledMortar.label>TODO</KilledMortar.label>
+  <KilledMortar.label>gedood door mortier</KilledMortar.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar</li>
     <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery</li>
@@ -340,10 +625,33 @@
     <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
-  <KilledMortar.rulePack.rulesStrings>TODO</KilledMortar.rulePack.rulesStrings>
+  <KilledMortar.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] doodt met een mortier</li>
+    <li>tale_noun->[VICTIM_nameDef] die wordt gedood door [KILLER_nameDef]'s artillerie</li>
+    <li>image->[KILLER_nameFull] die zorgvuldig een loop richt, [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] die in de verte kijkt, [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] die op papier berekeningen doet, [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] die de windrichting bepaalt [circumstance_group]</li>
+    <li>circumstance_phrase->terwijl [VICTIM_nameFull] door een enorme explosie wordt opgeslokt</li>
+    <li>circumstance_phrase->terwijl mortiergranaten op [VICTIM_nameFull] neerdalen</li>
+    <li>circumstance_phrase->terwijl [VICTIM_nameFull] rondloopt, zich van geen kwaad bewust</li>
+    <li>circumstance_phrase->terwijl [VICTIM_nameFull] sprint</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt [AdjectiveAngsty].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence->[VICTIM_nameDef] wordt omringd door explosies.</li>
+    <li>desc_sentence->[VICTIM_nameDef] wordt omringd door kraters.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+  </KilledMortar.rulePack.rulesStrings>
   
   <!-- EN: toxicity revealed -->
-  <ToxicityRevealed.label>TODO</ToxicityRevealed.label>
+  <ToxicityRevealed.label>vergiftiging ontdekt</ToxicityRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s body becoming toxic</li>
     <li>tale_noun->[PAWN_nameDef] being poisoned by toxins</li>
@@ -366,10 +674,31 @@
     <li>desc_sentence->The scene takes place inside a twisted [TreeType] forest.</li>
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
-  <ToxicityRevealed.rulePack.rulesStrings>TODO</ToxicityRevealed.rulePack.rulesStrings>
+  <ToxicityRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]'s lichaam dat vergiftigd wordt</li>
+    <li>tale_noun->[PAWN_nameDef] die wordt vergiftigd</li>
+    <li>image->[PAWN_nameFull] die door een veld struikelt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die op de grond ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die in bed ligt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die bij een vuur hurkt, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die vuur probeert te maken, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die gedachteloos [PAWN_possessive] kleren uittrekt, [circumstance_group]</li>
+    <li>circumstance_phrase->en daarbij ontzettend zweet</li>
+    <li>circumstance_phrase->en daarbij ontzettend rilt</li>
+    <li>circumstance_phrase->en daarbij zowel zweet als rilt</li>
+    <li>circumstance_phrase->met droge, gespleten lippen</li>
+    <li>circumstance_phrase->en daarbij overgeeft</li>
+    <li>circumstance_phrase->en duidelijk uitslag heeft</li>
+    <li>desc_sentence->[Quantity_adjphrase] vervormde lijken van [AnimalPlural] liggen verspreid in het rond.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s kleren vallen uit elkaar.</li>
+    <li>desc_sentence->De lucht is een vies [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] vervormde [AdjectiveColor] [TerrainFeaturePlural] omringen het tafereel.</li>
+    <li>desc_sentence->Het tafereel speelt zich af onder een [TreeType] in een vervormd bos.</li>
+    <li>desc_sentence->[Quantity_adjphrase] stervende [AnimalPlural] liggen op de grond.</li>
+  </ToxicityRevealed.rulePack.rulesStrings>
   
   <!-- EN: wounded -->
-  <Wounded.label>TODO</Wounded.label>
+  <Wounded.label>gewond</Wounded.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -412,6 +741,47 @@
     <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
-  <Wounded.rulePack.rulesStrings>TODO</Wounded.rulePack.rulesStrings>
+  <Wounded.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef] die [VICTIM_nameDef] [wound_name_present] met een [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] die wordt [wound_name_perfect] door [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] die wordt [wound_name_perfect] door middel van een [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] die wordt [wound_name_perfect]</li>
+    <li>image->[VICTIM_nameFull] die wordt [wound_name_perfect] door [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] op brute wijze [VICTIM_nameFull] [wound_name_present] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] die wordt [wound_name_perfect] [with_weapon_optional]</li>
+    <li>wound_name_present->verwondt</li>
+    <li>wound_name_present->bezeert</li>
+    <li>wound_name_present->letsel toebrengt</li>
+    <li>wound_name_present->aanvliegt</li>
+    <li>wound_name_present->aanvalt</li>
+    <li>wound_name_perfect->verwond</li>
+    <li>wound_name_perfect->bezeerd</li>
+    <li>wound_name_perfect->aangevlogen</li>
+    <li>wound_name_perfect->aangevallen</li>
+    <li>with_weapon_optional->met een [WEAPON_label], [circumstance_group]</li>
+    <li>with_weapon_optional->, [circumstance_group]</li>
+    <li>circumstance_phrase->blijkbaar zonder enige spijt</li>
+    <li>circumstance_phrase->in koelen bloede</li>
+    <li>circumstance_phrase->in ontstoken woede</li>
+    <li>circumstance_phrase->met snelle, efficiënte bewegingen</li>
+    <li>circumstance_phrase->zonder enige blijk van emotie</li>
+    <li>circumstance_phrase->omdat dat nou eenmaal noodzakelijk is</li>
+    <li>circumstance_phrase->op halfslachtige, oneerbare wijze</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] kijken toe.</li>
+    <li>desc_sentence->Een [PersonJob] kijkt [side_position] in stilte toe.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s lichaam ligt in een poel van bloed.</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GoreGendered].</li>
+    <li>desc_sentence(p=0.6)->[VICTIM_nameDef] zit onder het [GoreNeuter].</li>
+    <li>desc_sentence(p=0.2)->[VICTIM_nameDef] zit onder de [GorePlural].</li>
+    <li>desc_sentence->[VICTIM_nameDef] oogt [AdjectiveAngsty].</li>
+    <li>desc_sentence(p=2)->[VICTIM_nameDef] grimast van de pijn.</li>
+    <li>desc_sentence->[KILLER_nameDef] laat [KILLER_possessive] tanden zien.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er tevreden uit.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich onprettig voelt over wat [KILLER_pronoun] aan het doen is.</li>
+    <li>desc_sentence->Het lijkt alsof [KILLER_nameDef] zich tevreden voelt over de situatie.</li>
+    <li>desc_sentence->[KILLER_nameDef] ziet er triomfant uit.</li>
+  </Wounded.rulePack.rulesStrings>
   
 </LanguageData>

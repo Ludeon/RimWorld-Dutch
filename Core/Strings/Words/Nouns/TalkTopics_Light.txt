@@ -1,73 +1,67 @@
-the weather
-
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
-
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
-
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
-eating
-swimming
-sports
-beaches
-
-animals
-cute animals
-fat animals
-pets
-
-pet peeves
-life's annoyances
-laundry
-sweating
-
-hauling
-cleaning
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
-pemmican
-horseshoes
-recreation
-lovers
-lovin'
-healroot
-botched surgeries
-vomiting
-board games
-computer games
-television
+baarden
+ballonnen
+biljart
+bitter voedsel
+bordspellen
+braken
+comfortabel meubilair
+computerspellen
+cornflakes
+de ergernissen van het leven
+dieren
+dikke dieren
+dikke mensen
+dronken worden
+dronkenschap
+eetgewoontes
+eten zonder tafels
+favoriete kapsels
+feesten
+fijne maaltijden
+geliefden
+gezichtshaar
+hartig voedsel
+heelkruid
+het avondeten
+het bedrijven van de liefde
+het eten van voedsel
+het ontbijt
+het weer
+hoefijzers
+huisdieren
+irritaties over huisdieren
+kapsels
+kinderspellen
+klusjes
+korte mensen
+kotsen
+lange mensen
+lievelingskleren
+lunchtijd
+make-up
+mislukte operaties
+mode
+mooie mensen
+pemmikan
 poker
-billiards
-spaceships
-xenohumans
+recreatie
+royale maaltijden
+ruimteschepen
+schattige dieren
+schoonmaak
+slechte gewoonten
+slepen
+spellen
+sport
+stranden
+televisie
+vakanties
+verjaardagen
+vermaak
+voedsel
+wasgoed
+xeno-mensen
+zoet voedsel
+zoute voedingsmiddelen
+zweet
+zwemmen

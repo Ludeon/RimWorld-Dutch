@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Arrest success chance -->
-  <ArrestSuccessChance.label>TODO</ArrestSuccessChance.label>
+  <ArrestSuccessChance.label>succeskans arrestatie</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
-  <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
+  <ArrestSuccessChance.description>Hoe effectief deze persoon is in het arresteren van mensen. Dit heeft invloed op de kans dat deze persoon zonder weerstand iemand kan arresteren.</ArrestSuccessChance.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>onderhandelingsvermogen</NegotiationAbility.label>
@@ -12,9 +12,9 @@
   <NegotiationAbility.description>Hoe effectief deze persoon is als onderhandelaar.\n\nDit heeft invloed op de snelheid waarmee gevangenen worden gerekruteerd, de impact op de factierelaties bij het geven van geschenken en het resultaat van vredesbesprekingen.</NegotiationAbility.description>
   
   <!-- EN: beauty -->
-  <PawnBeauty.label>TODO</PawnBeauty.label>
+  <PawnBeauty.label>schoonheid</PawnBeauty.label>
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
-  <PawnBeauty.description>TODO</PawnBeauty.description>
+  <PawnBeauty.description>Hoe fysiek aantrekkelijk deze persoon is. Dit heeft invloed op sociale interacties.</PawnBeauty.description>
   
   <!-- EN: social impact -->
   <SocialImpact.label>sociale impact</SocialImpact.label>
@@ -22,9 +22,9 @@
   <SocialImpact.description>Het effect dat een persoon uitoefent op anderen als hij met hen in gesprek is.</SocialImpact.description>
   
   <!-- EN: tame animal chance -->
-  <TameAnimalChance.label>TODO</TameAnimalChance.label>
+  <TameAnimalChance.label>temkans dieren</TameAnimalChance.label>
   <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
-  <TameAnimalChance.description>TODO</TameAnimalChance.description>
+  <TameAnimalChance.description>De basiskans per poging dat deze persoon met succes een dier zal temmen.\n\nDe werkelijke kans wordt ook beïnvloed door de wildheid van het dier.\nEen mislukte poging kan een aanval tot gevolg hebben, vooral bij meer kwaadaardige dieren.</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
   <TradePriceImprovement.label>handelsprijsverbetering</TradePriceImprovement.label>
@@ -32,8 +32,8 @@
   <TradePriceImprovement.description>Wanneer deze persoon optreedt als handelaar, worden de aan- en verkoopprijzen met dit percentage verbeterd.</TradePriceImprovement.description>
   
   <!-- EN: train animal chance -->
-  <TrainAnimalChance.label>TODO</TrainAnimalChance.label>
+  <TrainAnimalChance.label>trainkans dieren</TrainAnimalChance.label>
   <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
-  <TrainAnimalChance.description>TODO</TrainAnimalChance.description>
+  <TrainAnimalChance.description>De basiskans per poging dat deze persoon vooruitgang boekt bij het trainen van een dier.\n\nDe werkelijke kans op een bepaalde poging hangt ook af van de wildheid van het dier, of het een band heeft met de trainer, enzovoort.</TrainAnimalChance.description>
   
 </LanguageData>

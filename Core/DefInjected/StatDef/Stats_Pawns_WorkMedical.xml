@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: medical operation speed -->
-  <MedicalOperationSpeed.label>medische operatiesnelheid</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.label>snelheid medische operaties</MedicalOperationSpeed.label>
   <!-- EN: The speed at which the character performs medical operations. -->
   <MedicalOperationSpeed.description>de snelheid, waarmee een persoon een operatie uitvoert.</MedicalOperationSpeed.description>
   
   <!-- EN: medical surgery success chance -->
-  <MedicalSurgerySuccessChance.label>TODO</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.label>succeskans medische operaties</MedicalSurgerySuccessChance.label>
   <!-- EN: The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation. -->
-  <MedicalSurgerySuccessChance.description>TODO</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.description>De basiskans dat een personage zal slagen bij het uitvoeren van een medische operatie.\n\nDe werkelijke kans op succes wordt ook beïnvloed door factoren zoals faciliteiten, reinheid van de kamer, gebruikte medicijnen, de moeilijkheidsgraad van de operatie en inspiraties.\n\nHoe hoog deze stat ook is, er is altijd een kleine kans op mislukking bij elke operatie.</MedicalSurgerySuccessChance.description>
   
   <!-- EN: medical tend quality -->
-  <MedicalTendQuality.label>TODO</MedicalTendQuality.label>
+  <MedicalTendQuality.label>kwaliteit medische verzorging</MedicalTendQuality.label>
   <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
-  <MedicalTendQuality.description>TODO</MedicalTendQuality.description>
+  <MedicalTendQuality.description>De basiskwaliteit van verzorging die wordt gegeven bij het verzorgen van wonden en ziekten.\n\nDe feitelijke kwaliteit van de verzorging wordt ook beïnvloed door factoren als gebruikte medicijnen, faciliteiten, puur geluk, enzovoort.</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
-  <MedicalTendSpeed.label>TODO</MedicalTendSpeed.label>
+  <MedicalTendSpeed.label>snelheid medische verzorging</MedicalTendSpeed.label>
   <!-- EN: Speed at which the character tends to wounds and illnesses. -->
-  <MedicalTendSpeed.description>TODO</MedicalTendSpeed.description>
+  <MedicalTendSpeed.description>De snelheid waarmee het personage wonden en ziekten verzorgt.</MedicalTendSpeed.description>
   
 </LanguageData>

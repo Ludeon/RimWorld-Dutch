@@ -2,35 +2,35 @@
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
-  <AccuracyLong.label>TODO</AccuracyLong.label>
+  <AccuracyLong.label>nauwkeurigheid (lang)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyLong.description>TODO</AccuracyLong.description>
+  <AccuracyLong.description>De nauwkeurigheid van het wapen op een afstand van 40 cellen of meer.\n\nDe kans dat een schot raakt wordt ook beïnvloed door andere factoren.</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
-  <AccuracyMedium.label>TODO</AccuracyMedium.label>
+  <AccuracyMedium.label>nauwkeurigheid (middel)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyMedium.description>TODO</AccuracyMedium.description>
+  <AccuracyMedium.description>De nauwkeurigheid van het wapen op een afstand van 25 cellen.\n\nDe kans dat een schot raakt wordt ook beïnvloed door andere factoren.</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
-  <AccuracyShort.label>TODO</AccuracyShort.label>
+  <AccuracyShort.label>nauwkeurigheid (kort)</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyShort.description>TODO</AccuracyShort.description>
+  <AccuracyShort.description>De nauwkeurigheid van het wapen op een afstand van 12 cellen.\n\nDe kans dat een schot raakt wordt ook beïnvloed door andere factoren.</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
-  <AccuracyTouch.label>TODO</AccuracyTouch.label>
+  <AccuracyTouch.label>nauwkeurigheid (nabij)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyTouch.description>TODO</AccuracyTouch.description>
+  <AccuracyTouch.description>De nauwkeurigheid van het wapen op een afstand van 3 cellen of minder.\n\nDe kans dat een schot raakt wordt ook beïnvloed door andere factoren.</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
-  <RangedWeapon_Cooldown.label>TODO</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.label>vertraging afstandswapen</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
-  <RangedWeapon_Cooldown.description>TODO</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.description>Hoe lang het duurt om te herstellen na het afvuren van dit wapen.</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->
-  <RangedWeapon_Cooldown.formatString>TODO</RangedWeapon_Cooldown.formatString>
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
   
   <!-- EN: damage multiplier -->
-  <RangedWeapon_DamageMultiplier.label>TODO</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.label>vermenigvuldigingsfactor schade</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
-  <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
+  <RangedWeapon_DamageMultiplier.description>Een vermenigvuldiger op schade van projectielen die met dit wapen worden afgevuurd.</RangedWeapon_DamageMultiplier.description>
   
 </LanguageData>

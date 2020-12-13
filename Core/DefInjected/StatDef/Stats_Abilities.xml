@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: casting time -->
-  <Ability_CastingTime.label>TODO</Ability_CastingTime.label>
+  <Ability_CastingTime.label>benodigde tijd</Ability_CastingTime.label>
   <!-- EN: How long it takes to perform this ability. -->
-  <Ability_CastingTime.description>TODO</Ability_CastingTime.description>
+  <Ability_CastingTime.description>Hoe lang het duurt om deze kracht te gebruiken.</Ability_CastingTime.description>
   <!-- EN: {0} s -->
-  <Ability_CastingTime.formatString>TODO</Ability_CastingTime.formatString>
+  <Ability_CastingTime.formatString>{0} s</Ability_CastingTime.formatString>
   
   <!-- EN: detection chance -->
-  <Ability_DetectChancePerEntropy.label>TODO</Ability_DetectChancePerEntropy.label>
+  <Ability_DetectChancePerEntropy.label>ontdekkingskans</Ability_DetectChancePerEntropy.label>
   <!-- EN: The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
-  <Ability_DetectChancePerEntropy.description>TODO</Ability_DetectChancePerEntropy.description>
+  <Ability_DetectChancePerEntropy.description>De kans dat deze paranormale kracht wordt ontdekt wanneer deze wordt gebruikt.\n\nSommige facties proberen wetten af te dwingen die sommige krachten beperken tot degenen die specifieke titels bezitten. Wanneer je een kracht gebruikt, bestaat de kans dat het paranormale kenmerk op afstand wordt gedetecteerd, wat leidt tot diplomatieke gevolgen.</Ability_DetectChancePerEntropy.description>
   
   <!-- EN: duration -->
-  <Ability_Duration.label>TODO</Ability_Duration.label>
+  <Ability_Duration.label>duur</Ability_Duration.label>
   <!-- EN: How long the effects of this ability last. -->
-  <Ability_Duration.description>TODO</Ability_Duration.description>
+  <Ability_Duration.description>Hoe lang het effect van deze kracht duurt.</Ability_Duration.description>
   <!-- EN: {0} s -->
-  <Ability_Duration.formatString>TODO</Ability_Duration.formatString>
+  <Ability_Duration.formatString>{0} s</Ability_Duration.formatString>
   
   <!-- EN: effect radius -->
-  <Ability_EffectRadius.label>TODO</Ability_EffectRadius.label>
+  <Ability_EffectRadius.label>effect bereik</Ability_EffectRadius.label>
   <!-- EN: The radius of the area of effect of this ability. -->
-  <Ability_EffectRadius.description>TODO</Ability_EffectRadius.description>
+  <Ability_EffectRadius.description>De straal van het effect van deze kracht.</Ability_EffectRadius.description>
   
   <!-- EN: neural heat gain -->
-  <Ability_EntropyGain.label>TODO</Ability_EntropyGain.label>
+  <Ability_EntropyGain.label>opbouw neurale warmte</Ability_EntropyGain.label>
   <!-- EN: How much neural heat will be added as a result of performing this ability. -->
-  <Ability_EntropyGain.description>TODO</Ability_EntropyGain.description>
+  <Ability_EntropyGain.description>Hoeveel neurale warmte wordt opgebouwd als gevolg van het gebruik van deze kracht.</Ability_EntropyGain.description>
   
   <!-- EN: goodwill impact -->
-  <Ability_GoodwillImpact.label>TODO</Ability_GoodwillImpact.label>
+  <Ability_GoodwillImpact.label>weerslag op relatie</Ability_GoodwillImpact.label>
   <!-- EN: How casting this ability on someone will impact relations with their faction. -->
-  <Ability_GoodwillImpact.description>TODO</Ability_GoodwillImpact.description>
+  <Ability_GoodwillImpact.description>Hoe het gebruik van deze kracht op iemand invloed heeft op de relaties met hun factie.</Ability_GoodwillImpact.description>
   
   <!-- EN: psyfocus cost -->
-  <Ability_PsyfocusCost.label>TODO</Ability_PsyfocusCost.label>
+  <Ability_PsyfocusCost.label>benodigde psyfocus</Ability_PsyfocusCost.label>
   <!-- EN: How much psyfocus must be spent to perform this ability. -->
-  <Ability_PsyfocusCost.description>TODO</Ability_PsyfocusCost.description>
+  <Ability_PsyfocusCost.description>Hoeveel psyfocus nodig is om deze kracht te gebruiken.</Ability_PsyfocusCost.description>
   
   <!-- EN: range -->
-  <Ability_Range.label>TODO</Ability_Range.label>
+  <Ability_Range.label>bereik</Ability_Range.label>
   <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
-  <Ability_Range.description>TODO</Ability_Range.description>
+  <Ability_Range.description>De maximale afstand tot een doelwit van deze vaardigheid, of tot het midden van de doellocatie.</Ability_Range.description>
   
   <!-- EN: psylink level -->
-  <Ability_RequiredPsylink.label>TODO</Ability_RequiredPsylink.label>
+  <Ability_RequiredPsylink.label>psylink-niveau</Ability_RequiredPsylink.label>
   <!-- EN: The minimum psylink level required to use this ability. -->
-  <Ability_RequiredPsylink.description>TODO</Ability_RequiredPsylink.description>
+  <Ability_RequiredPsylink.description>Het minimum psylink-niveau dat nodig is om deze kracht te gebruiken.</Ability_RequiredPsylink.description>
   
 </LanguageData>

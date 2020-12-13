@@ -4,65 +4,65 @@
   <!-- EN: rest effectiveness -->
   <BedRestEffectiveness.label>effectiviteit slaap</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>Hoe effectief het uitrusten in dit bed is.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>Hoe snel mensen die hierop slapen rust opbouwen.</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>opensnelheid</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>De snelheid waarmee de deur zich opent.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>De snelheid waarmee de deur opengaat wanneer er geen stroom is.\n\nTrage deuren vertragen iedereen die ze gebruikt.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
-  <ImmunityGainSpeedFactor.label>TODO</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.label>factor op snelheid immuniteitsopbouw</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
-  <ImmunityGainSpeedFactor.description>TODO</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.description>De immuniteitsopbouw wordt vermenigvuldigd met deze waarde.</ImmunityGainSpeedFactor.description>
   
   <!-- EN: recreation power -->
-  <JoyGainFactor.label>TODO</JoyGainFactor.label>
+  <JoyGainFactor.label>recreatieve waarde</JoyGainFactor.label>
   <!-- EN: How effectively this item entertains people and fulfills the need for recreation. -->
-  <JoyGainFactor.description>TODO</JoyGainFactor.description>
+  <JoyGainFactor.description>Hoe effectief dit item mensen vermaakt en voorziet in hun behoefte aan recreatie.</JoyGainFactor.description>
   
   <!-- EN: medical tend quality offset -->
-  <MedicalTendQualityOffset.label>TODO</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.label>compensatie medische verzorging</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
-  <MedicalTendQualityOffset.description>TODO</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.description>De medische kwaliteit wordt gecompenseerd met deze waarde.</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>TODO</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>factor op onderzoekssnelheid</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
-  <ResearchSpeedFactor.description>TODO</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.description>De snelheid waarmee mensen onderzoek doen wordt vermenigvuldigd met deze waarde.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
-  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>TODO</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>kamer reinheid</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: surgery success chance factor -->
-  <SurgerySuccessChanceFactor.label>TODO</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>factor op succeskans operaties</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>TODO</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>Een vermenigvuldiger van de kans dat een operatie zal slagen wanneer deze hier wordt uitgevoerd.\n\nDe kansen op succes van een operatie worden ook beïnvloed door vele andere factoren, waaronder de vaardigheid van de chirurg en de gebruikte medicijnen.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
-  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>TODO</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>kamer reinheid</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
-  <TrapMeleeDamage.label>TODO</TrapMeleeDamage.label>
+  <TrapMeleeDamage.label>val melee schade</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>TODO</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>Hoeveel schade deze val gemiddeld aanricht.\n\nDe werkelijke schade zal per geval willekeurig variëren.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>TODO</TrapSpringChance.label>
+  <TrapSpringChance.label>val activeringskans</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>TODO</TrapSpringChance.description>
+  <TrapSpringChance.description>De kans dat de val wordt geactiveerd als een onwetend wezen eroverheen beweegt.</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
-  <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.label>factor op werkefficiëntie</WorkTableEfficiencyFactor.label>
   <!-- EN: Work efficiency is multiplied by this value. -->
-  <WorkTableEfficiencyFactor.description>TODO</WorkTableEfficiencyFactor.description>
+  <WorkTableEfficiencyFactor.description>Werkefficiëntie wordt vermenigvuldigd met deze waarde.</WorkTableEfficiencyFactor.description>
   
   <!-- EN: work speed factor -->
-  <WorkTableWorkSpeedFactor.label>TODO</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.label>factor op werksnelheid</WorkTableWorkSpeedFactor.label>
   <!-- EN: Work speed is multiplied by this value. -->
-  <WorkTableWorkSpeedFactor.description>TODO</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.description>Werksnelheid wordt vermenigvuldigd met deze waarde.</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
   <WorkToBuild.label>vereiste arbeid</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>De vereiste arbeid om dit af te maken.</WorkToBuild.description>
+  <WorkToBuild.description>De basis hoeveelheid werk die nodig is om een gebouw te bouwen, zodra alle materialen zijn verzameld.</WorkToBuild.description>
   
 </LanguageData>

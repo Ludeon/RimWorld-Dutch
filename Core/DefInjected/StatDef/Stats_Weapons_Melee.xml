@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: detection chance -->
-  <Bladelink_DetectionChance.label>TODO</Bladelink_DetectionChance.label>
+  <Bladelink_DetectionChance.label>ontdekkingskans</Bladelink_DetectionChance.label>
   <!-- EN: The likelihood of the bladelink implant being detected each time it is used to attack in combat.\n\nSome factions try to enforce laws restricting the use of the bladelink to those holding specific titles. Using the bladelink emits a psychic signature which has a chance of being detected at a distance. If it is used illegally and detected, there will be diplomatic consequences. -->
-  <Bladelink_DetectionChance.description>TODO</Bladelink_DetectionChance.description>
+  <Bladelink_DetectionChance.description>De kans dat het bladelink-implantaat wordt gedetecteerd elke keer dat het wordt gebruikt om aan te vallen in een gevecht.\n\nSommige facties proberen wetten af te dwingen die het gebruik van de bladelink beperken tot degenen die specifieke titels bezitten. Het gebruik van de bladelink geeft een psychisch kenmerk af dat een kans heeft om op afstand te worden gedetecteerd. Als het illegaal wordt gebruikt en ontdekt, heeft dat diplomatieke gevolgen.</Bladelink_DetectionChance.description>
   
   <!-- EN: blunt damage -->
-  <BluntDamageMultiplier.label>TODO</BluntDamageMultiplier.label>
+  <BluntDamageMultiplier.label>stompe schade</BluntDamageMultiplier.label>
   <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
-  <BluntDamageMultiplier.description>TODO</BluntDamageMultiplier.description>
+  <BluntDamageMultiplier.description>Een vermenigvuldiger voor stompe schade van wapens gemaakt van dit materiaal.</BluntDamageMultiplier.description>
   
   <!-- EN: melee armor penetration -->
-  <MeleeWeapon_AverageArmorPenetration.label>TODO</MeleeWeapon_AverageArmorPenetration.label>
+  <MeleeWeapon_AverageArmorPenetration.label>melee pantserpenetratie</MeleeWeapon_AverageArmorPenetration.label>
   <!-- EN: Average armor penetration in melee combat. -->
-  <MeleeWeapon_AverageArmorPenetration.description>TODO</MeleeWeapon_AverageArmorPenetration.description>
+  <MeleeWeapon_AverageArmorPenetration.description>De gemiddelde pantserpenetratie in een melee gevecht.</MeleeWeapon_AverageArmorPenetration.description>
   
   <!-- EN: melee damage per second -->
-  <MeleeWeapon_AverageDPS.label>TODO</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.label>melee schade per seconde</MeleeWeapon_AverageDPS.label>
   <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
-  <MeleeWeapon_AverageDPS.description>TODO</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_AverageDPS.description>Gemiddelde schade die per seconde wordt aangericht in melee-gevechten, als alle aanvallen raken.</MeleeWeapon_AverageDPS.description>
   
   <!-- EN: melee cooldown -->
-  <MeleeWeapon_CooldownMultiplier.label>TODO</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_CooldownMultiplier.label>melee vertraging</MeleeWeapon_CooldownMultiplier.label>
   <!-- EN: A multiplier on attack delay for weapons made of this material. -->
-  <MeleeWeapon_CooldownMultiplier.description>TODO</MeleeWeapon_CooldownMultiplier.description>
+  <MeleeWeapon_CooldownMultiplier.description>Een vermenigvuldiger op de aanvalsvertraging van wapens gemaakt van dit materiaal.</MeleeWeapon_CooldownMultiplier.description>
   
   <!-- EN: melee damage multiplier -->
-  <MeleeWeapon_DamageMultiplier.label>TODO</MeleeWeapon_DamageMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.label>melee schade vermenigvuldigingsfactor</MeleeWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to melee combat. -->
-  <MeleeWeapon_DamageMultiplier.description>TODO</MeleeWeapon_DamageMultiplier.description>
+  <MeleeWeapon_DamageMultiplier.description>Een vermenigvuldiger op schade in melee-gevechten.</MeleeWeapon_DamageMultiplier.description>
   
   <!-- EN: sharp damage -->
-  <SharpDamageMultiplier.label>TODO</SharpDamageMultiplier.label>
+  <SharpDamageMultiplier.label>scherpe schade</SharpDamageMultiplier.label>
   <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
-  <SharpDamageMultiplier.description>TODO</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.description>Een vermenigvuldiger op schade door scherpe aanvallen voor wapens gemaakt van dit materiaal.</SharpDamageMultiplier.description>
   
 </LanguageData>

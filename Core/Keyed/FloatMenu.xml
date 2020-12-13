@@ -206,11 +206,11 @@
   <MinSkill>min. vaardigheid</MinSkill>
   
   <!-- EN: Equip {0} -->
-  <Equip>{0} uitrusten</Equip>
+  <Equip>Uitrusten met {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
   <EquipWarningBrawler>(vechtersbaas zal ongelukkig zijn)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
-  <CannotEquip>Kan {0} niet uitrusten</CannotEquip>
+  <CannotEquip>Kan niet worden uitgerust met {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
   <CannotManThing>Kan {1_labelShort} niet bemannen</CannotManThing>
   
@@ -283,7 +283,7 @@
   <!-- EN: Strip {1_label} -->
   <Strip>Strip {1_label}</Strip>
   <!-- EN: Cannot strip {1_label} -->
-  <CannotStrip>Kan {1_label} niet strippen </CannotStrip>
+  <CannotStrip>Kan {1_label} niet strippen</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>Kan {1_label} niet laten vallen</CannotDrop>
   <!-- EN: temporary faction member -->
@@ -369,7 +369,7 @@
   <WillNever>zal nooit {0}</WillNever>
 
   <!-- EN: Cannot prioritize: not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>Kan geen prioriteit geven: niet toegewezen aan {0} </CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Kan geen prioriteit geven: niet toegewezen aan {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>niet toegewezen</NotAssigned>
 
@@ -388,18 +388,18 @@
   <PrioritizeGeneric>Prioritiseer {0} {1}</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
-  <DropAtEdge>Laat vallen aan de rand</DropAtEdge>
+  <DropAtEdge>Aan de rand landen</DropAtEdge>
   <!-- EN: Drop in center -->
-  <DropInCenter>In centrum laten vallen</DropInCenter>
+  <DropInCenter>In centrum landen</DropInCenter>
   <!-- EN: Attack {0} -->
   <AttackShuttle>Val {0} aan</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
-  <AttackAndDropAtEdge>Val {0} aan: Laat vallen aan de rand</AttackAndDropAtEdge>
+  <AttackAndDropAtEdge>Val {0} aan: Aan de rand landen</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
-  <AttackAndDropInCenter>Val {0} aan: In centrum laten vallen</AttackAndDropInCenter>
+  <AttackAndDropInCenter>Val {0} aan: In centrum landen</AttackAndDropInCenter>
   
   <!-- EN: vomiting -->
-  <VomitingLower>overgeven</VomitingLower>
+  <VomitingLower>aan het overgeven</VomitingLower>
   <!-- EN: not interruptible -->
   <NotInterruptibleLower>niet onderbreekbaar</NotInterruptibleLower>
   

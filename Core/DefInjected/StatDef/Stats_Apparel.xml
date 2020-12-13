@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: Armor - Blunt -->
-  <ArmorRating_Blunt.label>TODO</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.label>Bescherming - Stomp</ArmorRating_Blunt.label>
   <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Blunt.description>TODO</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.description>De bescherming die wordt geboden tegen stompe schade zoals vuisten, knuppels, explosies en vallende stenen.\n\nBij het oplopen van schade wordt de penetratiewaarde van de aanval eerst van deze bepantsering afgetrokken.\n\nDe resterende bepantsering wordt vervolgens vergeleken met een willekeurig getal tussen 0 en 100.\n\n    - Als het willekeurige getal kleiner is dan de helft van de bepantsering, wordt de schade geheel teniet gedaan.\n    - Als het willekeurige getal groter is dan de helft van de bepantsering, maar niet groter dan de bepantsering, wordt de schade gehalveerd en veranderd in stomp.\n    - Als het willekeurige getal groter is dan de bepantsering, heeft het bepantsering geen effect.\n\nBijvoorbeeld: bij een bepantsering van 90% tegen een aanval met 10% penetratie is er sprake van 40% kans om de aanval volledig af te weren, en 40% kans om de schade te beperken.\n\nElke laag bepantsering wordt apart behandeld, van buiten naar binnen.</ArmorRating_Blunt.description>
   <!-- EN: Armor - Blunt (armor stat) -->
-  <ArmorRating_Blunt.labelForFullStatList>TODO</ArmorRating_Blunt.labelForFullStatList>
+  <ArmorRating_Blunt.labelForFullStatList>Bescherming - Stomp (bepantsering)</ArmorRating_Blunt.labelForFullStatList>
   
   <!-- EN: Armor - Heat -->
-  <ArmorRating_Heat.label>TODO</ArmorRating_Heat.label>
+  <ArmorRating_Heat.label>Bescherming - Hitte</ArmorRating_Heat.label>
   <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Heat.description>TODO</ArmorRating_Heat.description>
+  <ArmorRating_Heat.description>De bescherming die wordt geboden tegen temperatuur gerelateerde schade zoals brandwonden.\n\nBij het oplopen van schade wordt de penetratiewaarde van de aanval eerst van deze bepantsering afgetrokken.\n\nDe resterende bepantsering wordt vervolgens vergeleken met een willekeurig getal tussen 0 en 100.\n\n    - Als het willekeurige getal kleiner is dan de helft van de bepantsering, wordt de schade geheel teniet gedaan.\n    - Als het willekeurige getal groter is dan de helft van de bepantsering, maar niet groter dan de bepantsering, wordt de schade gehalveerd en veranderd in stomp.\n    - Als het willekeurige getal groter is dan de bepantsering, heeft het bepantsering geen effect.\n\nBijvoorbeeld: bij een bepantsering van 90% tegen een aanval met 10% penetratie is er sprake van 40% kans om de aanval volledig af te weren, en 40% kans om de schade te beperken.\n\nElke laag bepantsering wordt apart behandeld, van buiten naar binnen.</ArmorRating_Heat.description>
   <!-- EN: Armor - Heat (armor stat) -->
-  <ArmorRating_Heat.labelForFullStatList>TODO</ArmorRating_Heat.labelForFullStatList>
+  <ArmorRating_Heat.labelForFullStatList>Bescherming - Hitte (bepantsering)</ArmorRating_Heat.labelForFullStatList>
   
   <!-- EN: Armor - Sharp -->
-  <ArmorRating_Sharp.label>TODO</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.label>Bescherming - Scherp</ArmorRating_Sharp.label>
   <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Sharp.description>TODO</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.description>De bescherming die wordt geboden tegen scherpe schade zoals kogels, messteken en beten.\n\nBij het oplopen van schade wordt de penetratiewaarde van de aanval eerst van deze bepantsering afgetrokken.\n\nDe resterende bepantsering wordt vervolgens vergeleken met een willekeurig getal tussen 0 en 100.\n\n    - Als het willekeurige getal kleiner is dan de helft van de bepantsering, wordt de schade geheel teniet gedaan.\n    - Als het willekeurige getal groter is dan de helft van de bepantsering, maar niet groter dan de bepantsering, wordt de schade gehalveerd en veranderd in stomp.\n    - Als het willekeurige getal groter is dan de bepantsering, heeft het bepantsering geen effect.\n\nBijvoorbeeld: bij een bepantsering van 90% tegen een aanval met 10% penetratie is er sprake van 40% kans om de aanval volledig af te weren, en 40% kans om de schade te beperken.\n\nElke laag bepantsering wordt apart behandeld, van buiten naar binnen.</ArmorRating_Sharp.description>
   <!-- EN: Armor - Sharp (armor stat) -->
-  <ArmorRating_Sharp.labelForFullStatList>TODO</ArmorRating_Sharp.labelForFullStatList>
+  <ArmorRating_Sharp.labelForFullStatList>Bescherming - Scherp (bepantsering)</ArmorRating_Sharp.labelForFullStatList>
   
   <!-- EN: Shield max energy -->
-  <EnergyShieldEnergyMax.label>TODO</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.label>Maximum energieniveau schild</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield belt can have at one time.\n\nMore energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>TODO</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>De maximale energie die een schildriem kan hebben.\n\nMeer energie absorbeert meer schade.</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->
-  <EnergyShieldRechargeRate.label>TODO</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.label>Herstelsnelheid schild</EnergyShieldRechargeRate.label>
   <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
-  <EnergyShieldRechargeRate.description>TODO</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.description>De snelheid waarmee een schild energie herwint, zolang het niet kapot is.</EnergyShieldRechargeRate.description>
   <!-- EN: {0}/s -->
-  <EnergyShieldRechargeRate.formatString>TODO</EnergyShieldRechargeRate.formatString>
+  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
   
   <!-- EN: equip delay -->
-  <EquipDelay.label>TODO</EquipDelay.label>
+  <EquipDelay.label>vertraging bij uitrusting</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
-  <EquipDelay.description>TODO</EquipDelay.description>
+  <EquipDelay.description>De tijd die nodig is om dit item uit te rusten en uit te rusten.</EquipDelay.description>
   <!-- EN: {0} s -->
-  <EquipDelay.formatString>TODO</EquipDelay.formatString>
+  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
-  <Insulation_Cold.label>TODO</Insulation_Cold.label>
+  <Insulation_Cold.label>Isolatie - Kou</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>TODO</Insulation_Cold.description>
+  <Insulation_Cold.description>In hoeverre deze kleding de minimale comfortabele temperatuur van een drager verbetert.\n\nMet hogere waarden kan men overleven bij koudere temperaturen.</Insulation_Cold.description>
   <!-- EN: Insulation - Cold (armor stat) -->
-  <Insulation_Cold.labelForFullStatList>TODO</Insulation_Cold.labelForFullStatList>
+  <Insulation_Cold.labelForFullStatList>Isolatie - Kou (bepantsering)</Insulation_Cold.labelForFullStatList>
   
   <!-- EN: Insulation - Heat -->
-  <Insulation_Heat.label>TODO</Insulation_Heat.label>
+  <Insulation_Heat.label>Isolatie - Warmte</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>TODO</Insulation_Heat.description>
+  <Insulation_Heat.description>In hoeverre deze kleding de maximale comfortabele temperatuur van een drager verbetert.\n\nMet hogere waarden kan men overleven bij warmere temperaturen.</Insulation_Heat.description>
   <!-- EN: Insulation - Heat (armor stat) -->
-  <Insulation_Heat.labelForFullStatList>TODO</Insulation_Heat.labelForFullStatList>
+  <Insulation_Heat.labelForFullStatList>Isolatie - Warmte (bepantsering)</Insulation_Heat.labelForFullStatList>
   
   <!-- EN: Smokepop pack radius -->
-  <SmokepopBeltRadius.label>Rookriem radius</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.label>Rookriem bereik</SmokepopBeltRadius.label>
   <!-- EN: The area obscured when a smokepop pack detonates. -->
   <SmokepopBeltRadius.description>Het gebied dat bedekt wordt met rook wanneer de rookriem afgaat.</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
   <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
-  <StuffEffectMultiplierArmor.label>TODO</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>Bepantsering - Vermenigvuldigingsfactor materiaal</StuffEffectMultiplierArmor.label>
   
   <!-- EN: Insulation - Cold - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Cold.label>TODO</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Isolatie - Kou - Vermenigvuldigingsfactor materiaal</StuffEffectMultiplierInsulation_Cold.label>
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Heat.label>TODO</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Isolatie - Warmte - Vermenigvuldigingsfactor materiaal</StuffEffectMultiplierInsulation_Heat.label>
   
 </LanguageData>

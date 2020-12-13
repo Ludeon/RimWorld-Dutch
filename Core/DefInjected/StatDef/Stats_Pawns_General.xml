@@ -2,90 +2,90 @@
 <LanguageData>
   
   <!-- EN: carrying capacity -->
-  <CarryingCapacity.label>TODO</CarryingCapacity.label>
+  <CarryingCapacity.label>draagvermogen</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>TODO</CarryingCapacity.description>
+  <CarryingCapacity.description>De hoeveelheid spullen die dit wezen kan dragen in zijn handen, mond of andere manipulatoren.\n\nDit staat los van de mogelijkheid om vracht te vervoeren op lange reizen over de wereld.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
-  <ComfyTemperatureMax.label>TODO</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>Maximum comfortabele temperatuur</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
-  <ComfyTemperatureMax.description>TODO</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.description>Boven deze temperatuur zullen karakters ongelukkig zijn.\n\nAanzienlijk boven deze temperatuur zullen ze een zonnesteek ontwikkelen, en uiteindelijk sterven.</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
-  <ComfyTemperatureMin.label>TODO</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.label>Minimum comfortabele temperatuur</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
-  <ComfyTemperatureMin.description>TODO</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.description>Onder deze temperatuur zullen karakters ongelukkig zijn.\n\nAanzienlijk onder deze temperatuur zullen ze onderkoeling en bevriezing ontwikkelen, en uiteindelijk sterven.</ComfyTemperatureMin.description>
   
   <!-- EN: eating speed -->
-  <EatingSpeed.label>TODO</EatingSpeed.label>
+  <EatingSpeed.label>eetsnelheid</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
-  <EatingSpeed.description>TODO</EatingSpeed.description>
+  <EatingSpeed.description>Een vermenigvuldigingsfactor op de eetsnelheid.</EatingSpeed.description>
   
   <!-- EN: foraged food amount -->
-  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.label>hoeveelheid gefoerageerd voedsel</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
-  <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>De hoeveelheid voeding die deze persoon automatisch per dag foerageert als hij in een karavaan reist.</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
-  <GlobalLearningFactor.label>Globale leerfactor</GlobalLearningFactor.label>
+  <GlobalLearningFactor.label>globale leerfactor</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>Een vermenigvuldigingsfactor op de leersnelheid van alle vaardigheden.</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <HungerRateMultiplier.label>honger vermenigvuldigingsfactor</HungerRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  <HungerRateMultiplier.description>Een vermenigvuldigingsfactor op de snelheid waarmee een wezen honger krijgt.</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
-  <ImmunityGainSpeed.label>TODO</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.label>opbouwsnelheid immuniteit</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
-  <ImmunityGainSpeed.description>TODO</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.description>De snelheid waarmee dit personage immuniteit tegen ziekten opbouwt.\n\nAls dit te langzaam is, sterft het personage aan een ziekte voordat het immuniteit ontwikkelt.</ImmunityGainSpeed.description>
   
   <!-- EN: leather amount -->
-  <LeatherAmount.label>TODO</LeatherAmount.label>
+  <LeatherAmount.label>hoeveelheid leer</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>TODO</LeatherAmount.description>
+  <LeatherAmount.description>De hoeveelheid leer die de slacht van dit wezen oplevert.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
-  <MeatAmount.label>TODO</MeatAmount.label>
+  <MeatAmount.label>hoeveelheid vlees</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>TODO</MeatAmount.description>
+  <MeatAmount.description>De hoeveelheid vlees die wordt geproduceerd bij het slachten van dit wezen.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
-  <MentalBreakThreshold.label>Zenuwinzinkinsdrempel</MentalBreakThreshold.label>
+  <MentalBreakThreshold.label>zenuwinzinkinsdrempel</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
   <MentalBreakThreshold.description>Zo lang de stemming van een persoon onder dit getal ligt, is er een kans op een zenuwinzinking bij deze persoon.\n\nDe ernst van de inzinking hangt af van hoe ver ze onder de drempel zijn.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
-  <MinimumHandlingSkill.label>TODO</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.label>minimum dierenvaardigheid</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
-  <MinimumHandlingSkill.description>TODO</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.description>Dit wezen kan niet worden getemd, getraind of bestuurd door iemand met minder dan deze vaardigheid in dieren.</MinimumHandlingSkill.description>
   
   <!-- EN: move speed -->
-  <MoveSpeed.label>Bewegingssnelheid</MoveSpeed.label>
+  <MoveSpeed.label>bewegingssnelheid</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
   <MoveSpeed.description>De bewegingssnelheid uitgedrukt in cellen per seconde</MoveSpeed.description>
   <!-- EN: {0} c/s -->
-  <MoveSpeed.formatString>TODO</MoveSpeed.formatString>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
   
   <!-- EN: pain shock threshold -->
-  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <PainShockThreshold.label>pijnshock drempel</PainShockThreshold.label>
   <!-- EN: The pain level at which this creature is downed from pain. -->
-  <PainShockThreshold.description>TODO</PainShockThreshold.description>
+  <PainShockThreshold.description>Het pijnniveau waarop dit wezen van pijn in elkaar zakt.</PainShockThreshold.description>
   
   <!-- EN: psychic sensitivity -->
-  <PsychicSensitivity.label>Psychische gevoeligheid</PsychicSensitivity.label>
+  <PsychicSensitivity.label>psychische gevoeligheid</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
   <PsychicSensitivity.description>Gevoeligere mensen lijden meer onder negatieve psychische effecten, en profiteren meer van positieve effecten. Hogere psychische gevoeligheid verhoogt ook de neurale warmtelimiet.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <RestRateMultiplier.label>vermenigvuldigingsfactor rust</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
-  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  <RestRateMultiplier.description>Een vermenigvuldiger voor hoe snel een wezen rust tijdens het slapen.</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>TODO</ToxicSensitivity.label>
+  <ToxicSensitivity.label>gevoeligheid voor gif</ToxicSensitivity.label>
   <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>TODO</ToxicSensitivity.description>
+  <ToxicSensitivity.description>Vermenigvuldiger op de impact van giftige ophoping in dit wezen.</ToxicSensitivity.description>
   
 </LanguageData>

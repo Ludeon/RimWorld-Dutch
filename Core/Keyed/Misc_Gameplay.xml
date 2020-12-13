@@ -603,11 +603,11 @@
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>Stransporteert {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>transporteren.</ReportHaulingUnknown>
+  <ReportHaulingUnknown>aan het slepen.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>slaapt.</ReportSleeping>
+  <ReportSleeping>aan het slapen.</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>rust uit.</ReportResting>
+  <ReportResting>aan het rusten.</ReportResting>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>naar de zonsopgang aan het kijken.</WatchingSunrise>
   <!-- EN: cloudwatching. -->

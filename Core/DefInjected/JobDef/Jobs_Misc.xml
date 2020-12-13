@@ -32,13 +32,13 @@
   <ClearSnow.reportString>sneeuw aan het scheppen.</ClearSnow.reportString>
   
   <!-- EN: dropping TargetA. -->
-  <DropEquipment.reportString>TargetA laten vallen.</DropEquipment.reportString>
+  <DropEquipment.reportString>TargetA aan het laten vallen.</DropEquipment.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>cryptoslaapcapsule in aan het gaan.</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>TargetA betreden.</EnterTransporter.reportString>
+  <EnterTransporter.reportString>TargetA aan het betreden.</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
   <Equip.reportString>zich met TargetA aan het uitrusten.</Equip.reportString>
@@ -80,22 +80,22 @@
   <GotoWander.reportString>aan het wandelen.</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>TargetA slepen.</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>TargetA aan het slepen.</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToTransporter.reportString>TargetA slepen.</HaulToTransporter.reportString>
+  <HaulToTransporter.reportString>TargetA aan het slepen.</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>TargetA aan het aansteken.</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>TargetA overtuigen te ontsnappen.</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>TargetA aan het overtuigen te ontsnappen.</InducePrisonerToEscape.reportString>
   
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>TargetA aan het eten.</Ingest.reportString>
   
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>TargetA beledigen.</Insult.reportString>
+  <Insult.reportString>TargetA aan het beledigen.</Insult.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>aan het liggen.</LayDown.reportString>
@@ -107,7 +107,7 @@
   <ManTurret.reportString>afweergeschut aan het bedienen.</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>TargetA helpen.</OfferHelp.reportString>
+  <OfferHelp.reportString>TargetA aan het helpen.</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>TargetA aan het openen.</Open.reportString>
@@ -122,25 +122,25 @@
   <Refuel.reportString>TargetA aan het bijvullen.</Refuel.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>TargetA bijtanken.</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>TargetA aan het bijtanken.</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>TargetA herladen.</Reload.reportString>
+  <Reload.reportString>TargetA aan het herladen.</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>TargetA aan het uittrekken.</RemoveApparel.reportString>
   
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>TargetA herrijzen.</Resurrect.reportString>
+  <Resurrect.reportString>TargetA aan het doen herrijzen.</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
   <SocialFight.reportString>met TargetA aan het vechten.</SocialFight.reportString>
   
   <!-- EN: stripping TargetA. -->
-  <Strip.reportString>Trekt TargetA uit.</Strip.reportString>
+  <Strip.reportString>TargetA's kleren aan het uittrekken.</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>bier tappen uit TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>bier aan het tappen uit TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>TargetA aan het pakken.</TakeInventory.reportString>
@@ -152,10 +152,10 @@
   <TriggerFirefoamPopper.reportString>een blusschuimknaller aan het activeren.</TriggerFirefoamPopper.reportString>
   
   <!-- EN: unloading TargetA. -->
-  <UnloadInventory.reportString>TargetA uitladen.</UnloadInventory.reportString>
+  <UnloadInventory.reportString>TargetA aan het uitladen.</UnloadInventory.reportString>
   
   <!-- EN: unloading inventory. -->
-  <UnloadYourInventory.reportString>inventaris leegmaken.</UnloadYourInventory.reportString>
+  <UnloadYourInventory.reportString>inventaris aan het leegmaken.</UnloadYourInventory.reportString>
   
   <!-- EN: activating artifact. -->
   <UseArtifact.reportString>artefact aan het activeren.</UseArtifact.reportString>

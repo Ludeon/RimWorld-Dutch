@@ -7,24 +7,24 @@
   <AimingDelayFactor.description>Hoelang het mikken duurt, voordat er geschoten wordt.</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
-  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
+  <IncomingDamageFactor.label>factor op inkomende schade</IncomingDamageFactor.label>
   <!-- EN: A multiplier on all incoming damage. -->
-  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
+  <IncomingDamageFactor.description>Een vermenigvuldiger voor alle inkomende schade.</IncomingDamageFactor.description>
   
   <!-- EN: melee armor penetration -->
-  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.label>melee pantserpenetratie</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>Gemiddelde pantserpenetratie van alle aanvallen in melee-gevechten.\n\nDeze stat neemt het momenteel gebruikte wapen in acht.</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
-  <MeleeDodgeChance.label>TODO</MeleeDodgeChance.label>
+  <MeleeDodgeChance.label>melee ontwijkkans</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
-  <MeleeDodgeChance.description>TODO</MeleeDodgeChance.description>
+  <MeleeDodgeChance.description>Kans om een melee-aanval te ontwijken die anders zou hebben geraakt.\n\nPersonages ontwijken niet tijdens het richten of afvuren van een afstandswapen.</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
-  <MeleeDPS.label>TODO</MeleeDPS.label>
+  <MeleeDPS.label>melee schade per seconde</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>TODO</MeleeDPS.description>
+  <MeleeDPS.description>Gemiddelde schade per seconde in melee-gevechten.\n\nDeze stat houdt geen rekening met verdedigingen zoals ontwijken en bepantsering.</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>trefwaarschijnlijkheid in een melee-gevecht</MeleeHitChance.label>
@@ -32,15 +32,15 @@
   <MeleeHitChance.description>De kans om een doelwit te raken in een meleegevecht.\n\nHet doelwit kan de aanval nog steeds ontwijken, zelfs als hij normaliter zou hebben geraakt.</MeleeHitChance.description>
   
   <!-- EN: trap spring chance -->
-  <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
+  <PawnTrapSpringChance.label>val activeringskans</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->
-  <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
+  <PawnTrapSpringChance.description>De kans dat een val wordt geactiveerd als dit personage het niet heeft opgemerkt.</PawnTrapSpringChance.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.label>nauwkeurigheid schieten</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.description>Basiskans om niet te missen per cel schootsafstand.\n\nDe kans om te raken wordt ook beïnvloed door vele andere factoren.\n\nEen verklaring voor de kans op een treffer voor elk schot kan worden gezien door een schutter te selecteren en met de muis over een doelwit te bewegen.</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
-  <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
+  <ShootingAccuracyPawn.labelForFullStatList>nauwkeurigheid schieten (mensen)</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

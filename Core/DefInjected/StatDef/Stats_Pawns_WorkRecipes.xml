@@ -4,7 +4,7 @@
   <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>slachteffectiviteit</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
-  <ButcheryFleshEfficiency.description>Een verveelvoudiger van de hoeveelheid vlees die een persoon produceert.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>Een vermenigvuldiger van de hoeveelheid vlees die een persoon produceert.</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>slachtsnelheid</ButcheryFleshSpeed.label>
@@ -19,7 +19,7 @@
   <!-- EN: mechanoid shredding speed -->
   <ButcheryMechanoidSpeed.label>mechanoide-afbreeksnelheid</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
-  <ButcheryMechanoidSpeed.description>Een verveelvoudiger van de snelheid waarmee een persoon een mechanoide kan afbreken.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>Een vermenigvuldiger van de snelheid waarmee een persoon een mechanoide kan afbreken.</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
   <CookSpeed.label>kooksnelheid</CookSpeed.label>
@@ -27,30 +27,30 @@
   <CookSpeed.description>De snelheid waarmee een persoon iets kan koken.</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
-  <DrugCookingSpeed.label>TODO</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>drug-kooksnelheid</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>TODO</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>De snelheid waarmee deze persoon bier en thee brouwt, of eenvoudige drugs zoals rookblad joints maakt.</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
-  <DrugSynthesisSpeed.label>TODO</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.label>drug synthesesnelheid</DrugSynthesisSpeed.label>
   <!-- EN: How fast this character synthesizes complex chemical drugs. -->
-  <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
+  <DrugSynthesisSpeed.description>Hoe snel dit personage complexe chemische drugs synthetiseert.</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
+  <FoodPoisonChance.label>kans op voedselvergiftiging</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
+  <FoodPoisonChance.description>De kans dat dit personage per ongeluk een gekookte maaltijd zal vergiftigen.\n\nIedereen die een vergiftigde maaltijd eet, zal tijdelijk verzwakt raken door pijn, zwakte en braken.</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
-  <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
+  <FoodPoisonChance.labelForFullStatList>kans op voedselvergiftiging (kans dat een maaltijd wordt vergiftigd)</FoodPoisonChance.labelForFullStatList>
   
   <!-- EN: general labor speed -->
-  <GeneralLaborSpeed.label>TODO</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.label>werksnelheid algemene taken</GeneralLaborSpeed.label>
   <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
-  <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
+  <GeneralLaborSpeed.description>De snelheid waarmee deze persoon algemene arbeid verricht, zoals het maken van steenblokken, het maken van chemische brandstof bij een raffinaderij, het verbranden van voorwerpen, het maken van kleding, het maken van kunst, het smeden van bepantsering en wapens of het smelten van staalbrokken. Deze stat is zowel van toepassing op activiteiten waarbij geen vaardigheid is betrokken, als op activiteiten waarbij de vaardigheid de kwaliteit van het product beïnvloedt in plaats van de productiesnelheid.</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>smeltsnelheid</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
-  <SmeltingSpeed.description>De snelheid waarmee een persoon een brok staal omsmelt.</SmeltingSpeed.description>
+  <SmeltingSpeed.description>De snelheid waarmee deze persoon dingen smelt.\n\nOmdat smelten domme arbeid is, wordt de smeltsnelheid niet beïnvloed door enige vaardigheid.</SmeltingSpeed.description>
   
 </LanguageData>

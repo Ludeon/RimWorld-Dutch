@@ -140,6 +140,6 @@
   <Uninstall.reportString>TargetA aan het deinstaleren.</Uninstall.reportString>
   
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>communicatie console aan het gebruiken.</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>communicatiepaneel aan het gebruiken.</UseCommsConsole.reportString>
   
 </LanguageData>

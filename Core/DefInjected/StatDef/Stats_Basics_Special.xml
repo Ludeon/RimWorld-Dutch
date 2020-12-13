@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeedFactor.label>TODO</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.label>bouwsnelheid</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
-  <ConstructionSpeedFactor.description>TODO</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.description>De bouwsnelheid van gebouwen die hiervan worden gemaakt wordt vermenigvuldigd met deze waarde.\n\nSommige materialen, zoals steen, zijn traag om mee te bouwen, terwijl andere, zoals hout, snel zijn.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
-  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.labelForFullStatList>bouwsnelheid (materiaalfactor)</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: medical potency -->
-  <MedicalPotency.label>TODO</MedicalPotency.label>
+  <MedicalPotency.label>medische potentie</MedicalPotency.label>
   <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
-  <MedicalPotency.description>TODO</MedicalPotency.description>
+  <MedicalPotency.description>Hoe effectief dit is wanneer het wordt gebruikt om wonden en ziekten te verzorgen of een operatie uit te voeren.\n\nEen hogere medische potentie verbetert de kwaliteit van de verzorging en werkt als een vermenigvuldiger voor de kans op succes tijdens de operatie.\nMedische potentie is slechts één factor die telt bij medische uitkomsten. Er zijn vele andere, waaronder de vaardigheid van de dokter, uitrusting, reinheid en puur geluk.</MedicalPotency.description>
   
   <!-- EN: medical tend quality maximum -->
-  <MedicalQualityMax.label>TODO</MedicalQualityMax.label>
+  <MedicalQualityMax.label>maximale medische verzorging</MedicalQualityMax.label>
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
-  <MedicalQualityMax.description>TODO</MedicalQualityMax.description>
+  <MedicalQualityMax.description>De maximale kwaliteit van medische verzorging die kan worden bereikt tijdens het gebruik hiervan.\n\nEen betere verzorgingskwaliteit stelt bekwame artsen in staat wonden zowel beter als betrouwbaarder te behandelen.</MedicalQualityMax.description>
   
   <!-- EN: meditation psyfocus bonus -->
-  <MeditationFocusStrength.label>TODO</MeditationFocusStrength.label>
+  <MeditationFocusStrength.label>bonus op psyfocus meditatie</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
-  <MeditationFocusStrength.description>TODO</MeditationFocusStrength.description>
+  <MeditationFocusStrength.description>De hoeveelheid extra psyfocus die iemand wint door tijdens meditatie op dit object te focussen, bovenop de basissnelheid van meditatie.\n\nVoor sommige objecten is dit aantal veranderlijk, afhankelijk van de omgeving en de persoon die mediteert.</MeditationFocusStrength.description>
   <!-- EN: {0} / day -->
-  <MeditationFocusStrength.formatString>TODO</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatString>{0} / dag</MeditationFocusStrength.formatString>
   <!-- EN: {0} / day -->
-  <MeditationFocusStrength.formatStringUnfinalized>TODO</MeditationFocusStrength.formatStringUnfinalized>
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / dag</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>TODO</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>psychische gevoeligheidscompensatie</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityOffset.description>TODO</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.description>Een compensatie toegepast op de psychische gevoeligheid van de gebruiker.</PsychicSensitivityOffset.description>
   
 </LanguageData>

@@ -107,11 +107,11 @@
   <DesignatorAreaSnowClearClearDesc>Verwijdert een sneeuwvrije zone. Kolonisten zullen niet langer proberen dit gebied sneeuwvrij te houden.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>Breid toegestane gebied uit</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Toegestane gebied uitbreiden</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc>Breid een toegestaan gebied uit.\n\nToegestane gebieden zijn gedefinieerde gebieden die u kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>Verwijderd toegestane gebied</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>toegestane gebied verwijderen</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorClearAreaAllowedDesc>Wis vakken uit een toegestaan gebied. Toegestane gebieden zijn gedefinieerde gebieden die u kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
@@ -134,7 +134,7 @@
   <DesignatorZoneDeleteDesc>Verwijder zones, zoals opslag- en afvalzones.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>Breid zone uit</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Zone uitbreiden</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
   <DesignatorClaim>Opeisen</DesignatorClaim>

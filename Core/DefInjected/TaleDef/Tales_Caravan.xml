@@ -179,9 +179,9 @@
     <li>circumstance_phrase->en is uitgerust om ontdekkingen te doen</li>
     <li>circumstance_phrase->met een enthousiaste blik in [PAWN_possessive] ogen</li>
     <li>circumstance_phrase->met een [AdjectiveAnyGendered] blik in [PAWN_possessive] ogen</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] de voorbereidingen gadeslaan.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] met de voorbereidingen helpen.</li>
-    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] terugdeinzen voor het tableau.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] slaan de voorbereidingen gade.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonAllyPlural] helpen met de voorbereidingen.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] deinzen terug van het spektakel.</li>
     <li>desc_sentence->Een [TerrainFeature] is zichtbaar op de achtergrond.</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken van een afstandje toe.</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] zijn vreedzaam aanwezig.</li>

@@ -206,7 +206,6 @@
     <li>style_group->[style_clause].</li>
     <li>style_group->[artextra_clause].</li>
     <li>style_group-></li>
-    <li>artconjunction(p=6)-></li>
     <li>artconjunction->als een interessant contrast,</li>
     <li>artconjunction->ter afronding</li>
     <li>artconjunction->en daarbij nog</li>
@@ -361,7 +360,7 @@
     <li>depiction->vertoning</li>
     <li>depiction->afbeelding</li>
     <li>depiction->gravering</li>
-    <li>depiction->tekening</li>
+    <li>depiction->beeltenis</li>
     <li>compositionGendered->driehoekige</li>
     <li>compositionGendered->rechthoekige</li>
     <li>compositionGendered->vierkante</li>

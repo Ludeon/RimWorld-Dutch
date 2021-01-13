@@ -122,7 +122,7 @@
   <CommandDeleteZoneDesc>Zone verwijderen.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
-  <CommandCopyZoneSettingsLabel>Kopieer instellingen</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsLabel>Instellingen kopiëren</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
   <CommandCopyZoneSettingsDesc>Kopieer de instellingen van deze zone naar het klembord zodat u ze op een andere zone kunt plakken.</CommandCopyZoneSettingsDesc>
 

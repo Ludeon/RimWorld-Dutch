@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: charge lance shot -->
-  <Bullet_ChargeLance.label>projectiel van een pulsgeladen lans</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>pulsgeladen projectiel</Bullet_ChargeLance.label>
   
   <!-- EN: charge shot -->
-  <Bullet_ChargeRifle.label>projectiel van een pulsgeladen geweer</Bullet_ChargeRifle.label>
+  <Bullet_ChargeRifle.label>pulsgeladen projectiel</Bullet_ChargeRifle.label>
   
   <!-- EN: charge lance -->
   <Gun_ChargeLance.label>pulsgeladen lans</Gun_ChargeLance.label>

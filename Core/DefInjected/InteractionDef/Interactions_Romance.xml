@@ -42,12 +42,12 @@
     <li>wooed->pursued</li>
     <li>wooed->charmed</li>
     <li>wooed->courted</li>
-    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [Personal_Characteristic]</li>
     <li>wootactic->telling a story about [TalkTopicAny]</li>
     <li>wootactic->telling a tale about [TalkTopicAny]</li>
     <li>wootactic->joking about [TalkTopicAny]</li>
     <li>wootactic->making an observation about [TalkTopicAny]</li>
-    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [Personal_Characteristic]</li>
     <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
     <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
     <li>boasting->boasting about</li>
@@ -104,12 +104,12 @@
     <li>wooed->joeg op</li>
     <li>wooed->charmeerde</li>
     <li>wooed->maakte het hof aan</li>
-    <li>wootactic(p=4)->[RECIPIENT_possessive] [PersonalCharacteristic] [complimenting]</li>
+    <li>wootactic(p=4)->[RECIPIENT_possessive] [Personal_Characteristic] [complimenting]</li>
     <li>wootactic->een verhaal te vertellen over [TalkTopicAny]</li>
     <li>wootactic->een sprookje te vertellen over [TalkTopicAny]</li>
     <li>wootactic->grappen te maken over [TalkTopicAny]</li>
     <li>wootactic->een opmerking te maken over [TalkTopicAny]</li>
-    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] eigen [PersonalCharacteristic]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] eigen [Personal_Characteristic]</li>
     <li>wootactic(p=0.8)->[RECIPIENT_objective] te vergelijken met een [romantic_adjGendered] [romantic_nounGendered]</li>
     <li>wootactic(p=0.8)->[RECIPIENT_objective] te beschrijven als een [romantic_adjGendered] [romantic_nounGendered]</li>
     <li>wootactic(p=0.2)->[RECIPIENT_objective] te vergelijken met een [romantic_adjNeuter] [romantic_nounNeuter]</li>

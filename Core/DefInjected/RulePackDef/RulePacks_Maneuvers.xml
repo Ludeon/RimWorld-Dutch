@@ -33,24 +33,62 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   -->
-  <Maneuver_Bite.rulePack.rulesStrings>TODO</Maneuver_Bite.rulePack.rulesStrings>
+  <Maneuver_Bite.rulePack.rulesStrings>
+    <li>damaged_inf->bijten</li>
+    <li>damaged_inf->kauwen</li>
+    <li>damaged_inf(p=0.5)->knagen</li>
+    <li>damaged_past->beet</li>
+    <li>damaged_past->kauwde</li>
+    <li>damaged_past->knaagde</li>
+    <li>damaged_past(deflected!=True)->rukte</li>
+    <li>damaged_present->biting</li>
+    <li>damaged_present->chomping</li>
+    <li>damaged_present->nipped</li>
+    <li>damaged_present->gnawing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en legde daarbij het vlees bloot</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->en legde daarbij de interne machinerie bloot</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een akelige scheur achter in de huid</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een akelige scheur achter in het metaal</li>
+    <li>destroyed_past->verscheurde</li>
+    <li>destroyed_past->vermorzelde</li>
+    <li>destroyed_past->beet</li>
+    <li>destroyed_present->tearing off</li>
+    <li>destroyed_present->ripping off</li>
+    <li>destroyed_present->biting off</li>
+    <li>destroyed_suffix->aan stukken</li>
+    <li>destroyed_suffix->aan stukjes</li>
+    <li>destroyed_suffix->aan hompen</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->aan flarden</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->aan repen</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->aan ongelijke repen</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->tot onherkenbare pulp</li>
+  </Maneuver_Bite.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] probeerde [TOOL_label] in [RECIPIENT_definite]'s ogen te gooien, maar [RECIPIENT_definite] ontweek het.</li>
+    <li>r_logentry->[INITIATOR_definite] probeerde [TOOL_label] in [RECIPIENT_definite]'s ogen te gooien, maar [RECIPIENT_definite] hield het tegen.</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] schopte [TOOL_label] in [RECIPIENT_definite]'s ogen.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] schopte een hoeveelheid [TOOL_label] in [RECIPIENT_definite]'s ogen.</li>
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] probeerde [TOOL_label] in [RECIPIENT_definite]'s ogen te schoppen, maar miste.</li>
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=2)->poke</li>
@@ -87,7 +125,39 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
-  <Maneuver_Poke.rulePack.rulesStrings>TODO</Maneuver_Poke.rulePack.rulesStrings>
+  <Maneuver_Poke.rulePack.rulesStrings>
+    <li>damaged_inf(p=2)->por</li>
+    <li>damaged_inf(p=2)->duw</li>
+    <li>damaged_inf->dauw</li>
+    <li>damaged_inf->steek</li>
+    <li>damaged_past(p=2)->Porde</li>
+    <li>damaged_past(p=2)->duwde</li>
+    <li>damaged_past->dauwde</li>
+    <li>damaged_past->stak</li>
+    <li>damaged_present(p=2)->poking</li>
+    <li>damaged_present(p=2)->jabbing</li>
+    <li>damaged_present->prodding</li>
+    <li>damaged_present->shoving</li>
+    <li>damaged_present->stabbing</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
+    <li>flavortext_consequence->leaving the area visibly deformed</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] off balance</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] to the side</li>
+    <li>destroyed_past->verbrijzelde</li>
+    <li>destroyed_past->vermorzelde</li>
+    <li>destroyed_past->vernietigde</li>
+    <li>destroyed_past->verpulverde</li>
+    <li>destroyed_past->brak</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
+    <li>destroyed_suffix->aan stukken</li>
+    <li>destroyed_suffix->aan stukjes</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->tot moes</li>
+    <li>destroyed_suffix->in gruzelementen</li>
+  </Maneuver_Poke.rulePack.rulesStrings>
   
   <!-- EN:
     <li>woundname->wound</li>
@@ -102,7 +172,19 @@
     <li>destroyed_suffix->[to] fragments</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</li>
   -->
-  <Maneuver_Scratch.rulePack.rulesStrings>TODO</Maneuver_Scratch.rulePack.rulesStrings>
+  <Maneuver_Scratch.rulePack.rulesStrings>
+    <li>woundname->wond</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en legde daarbij het vlees bloot</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->en legde daarbij de interne machinerie bloot</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een bloederige [woundname] achter</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->aan slordige flarden</li>
+    <li>destroyed_suffix->aan flarden</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->aan slordige stukken</li>
+    <li>destroyed_suffix->aan stukken</li>
+    <li>destroyed_suffix->aan gruzelementen</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->tot een hoopje vlees en bloed</li>
+  </Maneuver_Scratch.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->scratch</li>
@@ -128,7 +210,27 @@
     <li>destroyed_present->shredding</li>
     <li>destroyed_present->ripping</li>
   -->
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings>TODO</Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->krabben</li>
+    <li>damaged_inf(deflected!=True)->scheuren</li>
+    <li>damaged_inf->snijden</li>
+    <li>damaged_past(p=4)->krabte</li>
+    <li>damaged_past(deflected!=True)->scheurde</li>
+    <li>damaged_past->sneed</li>
+    <li>damaged_present->scratching</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present->cutting</li>
+    <li>destroyed_past->vermorzelde</li>
+    <li>destroyed_past->scheurde</li>
+    <li>destroyed_past->versnipperde</li>
+    <li>destroyed_past->rukte</li>
+    <li>destroyed_present->mauling</li>
+    <li>destroyed_present->lacerating</li>
+    <li>destroyed_present->tearing</li>
+    <li>destroyed_present->shredding</li>
+    <li>destroyed_present->ripping</li>
+  </Maneuver_Scratch_Damage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->slash</li>
@@ -169,7 +271,48 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
   -->
-  <Maneuver_Slash.rulePack.rulesStrings>TODO</Maneuver_Slash.rulePack.rulesStrings>
+  <Maneuver_Slash.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->slaan</li>
+    <li>damaged_inf->steken</li>
+    <li>damaged_inf->hakken</li>
+    <li>damaged_inf->snijden</li>
+    <li>damaged_inf(deflected!=True)->verwonden</li>
+    <li>damaged_past(p=4)->sloeg</li>
+    <li>damaged_past->stak</li>
+    <li>damaged_past->hakte</li>
+    <li>damaged_past->sneed</li>
+    <li>damaged_past(deflected!=True)->verwondde</li>
+    <li>damaged_pastperf(p=4)->geslagen</li>
+    <li>damaged_pastperf->gestoken</li>
+    <li>damaged_pastperf->gehakt</li>
+    <li>damaged_pastperf->gesneden</li>
+    <li>damaged_pastperf(deflected!=True)->verwond</li>
+    <li>damaged_present->slashing</li>
+    <li>damaged_present->cutting</li>
+    <li>damaged_present->slicing</li>
+    <li>damaged_present(deflected!=True)->gashing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>woundname->wond</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en legde daarbij het vlees bloot</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->en legde daarbij de interne machinerie bloot</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een akelige [woundname] achter</li>
+    <li>destroyed_past->spleet</li>
+    <li>destroyed_past->doorsneed</li>
+    <li>destroyed_past->halveerde</li>
+    <li>destroyed_past->deelde</li>
+    <li>destroyed_past->brak</li>
+    <li>destroyed_present->bisecting</li>
+    <li>destroyed_present->dividing</li>
+    <li>destroyed_present->halving</li>
+    <li>destroyed_present->separating</li>
+    <li>destroyed_present->splitting</li>
+    <li>destroyed_suffix->in nette stukjes</li>
+    <li>destroyed_suffix->met finesse</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->en legde daarbij de interne structuur bloot</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->perfect door het midden</li>
+  </Maneuver_Slash.rulePack.rulesStrings>
   
   <!-- EN:
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
@@ -181,7 +324,16 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
-  <Maneuver_Smash.rulePack.rulesStrings>TODO</Maneuver_Smash.rulePack.rulesStrings>
+  <Maneuver_Smash.rulePack.rulesStrings>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een enorme blauwe plek achter</li>
+    <li>flavortext_consequence->waarbij het doelwit duidelijk vervormd werd</li>
+    <li>flavortext_consequence->en duwde [RECIPIENT_objective] uit balans</li>
+    <li>flavortext_consequence->en duwde [RECIPIENT_objective] opzij</li>
+    <li>destroyed_suffix->aan stukken</li>
+    <li>destroyed_suffix->aan stukjes</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->tot moes</li>
+    <li>destroyed_suffix->aan gruzelementen</li>
+  </Maneuver_Smash.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf->hit</li>
@@ -206,7 +358,29 @@
     <li>destroyed_present->crushing</li>
     <li>destroyed_present->breaking</li>
   -->
-  <Maneuver_Smash_Damage.rulePack.rulesStrings>TODO</Maneuver_Smash_Damage.rulePack.rulesStrings>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings>
+    <li>damaged_inf->slaan</li>
+    <li>damaged_inf->stampen</li>
+    <li>damaged_inf->beuken</li>
+    <li>damaged_inf->rammen</li>
+    <li>damaged_inf->meppen</li>
+    <li>damaged_inf->rossen</li>
+    <li>damaged_past->sloeg</li>
+    <li>damaged_past->stampte</li>
+    <li>damaged_past->beukte</li>
+    <li>damaged_past->ramde</li>
+    <li>damaged_past->mepte</li>
+    <li>damaged_past->roste</li>
+    <li>damaged_present->smashing</li>
+    <li>damaged_present->bashing</li>
+    <li>damaged_present(deflected!=True)->bruising</li>
+    <li>destroyed_past->verbrijzelde</li>
+    <li>destroyed_past->vermorzelde</li>
+    <li>destroyed_past->brak</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->breaking</li>
+  </Maneuver_Smash_Damage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->stab</li>
@@ -240,6 +414,37 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</li>
   -->
-  <Maneuver_Stab.rulePack.rulesStrings>TODO</Maneuver_Stab.rulePack.rulesStrings>
+  <Maneuver_Stab.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->steken</li>
+    <li>damaged_inf->porren</li>
+    <li>damaged_inf(deflected!=True)->doorboren</li>
+    <li>damaged_inf(deflected!=True)->doorprikken</li>
+    <li>damaged_inf(deflected!=True)->spietsen</li>
+    <li>damaged_past(p=4)->stak</li>
+    <li>damaged_past->porde</li>
+    <li>damaged_past(deflected!=True)->doorboorde</li>
+    <li>damaged_past(deflected!=True)->doorprikte</li>
+    <li>damaged_past(deflected!=True)->spietste</li>
+    <li>damaged_present(deflected!=True)->piercing</li>
+    <li>damaged_present(deflected!=True)->puncturing</li>
+    <li>damaged_present(deflected!=True)->penetrating</li>
+    <li>damaged_present(deflected!=True)->skewering</li>
+    <li>woundname->gat</li>
+    <li>woundname->wond</li>
+    <li>woundname->kloof</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een bloedige [woundname] achter</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een gerafelde [woundname] achter</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een bloedende [woundname] achter</li>
+    <li>destroyed_past->spietste</li>
+    <li>destroyed_past->perforeerde</li>
+    <li>destroyed_past->doorboorde</li>
+    <li>destroyed_present->impaling</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->skewering</li>
+    <li>destroyed_suffix->van voor tot achter</li>
+    <li>destroyed_suffix->en liet een strak gat achter</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->waarna het interne vloeistoffen begon te lekken</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->waarna het onbekende vloeistoffen begon te lekken</li>
+  </Maneuver_Stab.rulePack.rulesStrings>
   
 </LanguageData>

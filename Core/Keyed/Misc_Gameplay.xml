@@ -291,7 +291,7 @@
   <!-- EN: {0} wants this destroyed. -->
   <QuestTargetDestroyInspectStringShort>{0} wil dit vernietigd zien.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>Vertrekt op de shuttle over {0}</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>Vertrekt met een shuttle over {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
   <ShuttleLeaveDelayInspectString>Vertrekt over {0}</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
@@ -469,15 +469,15 @@
   <!-- EN: Any of -->
   <AnyOf>Een van</AnyOf>
   <!-- EN: Goodwill -->
-  <Goodwill>relatie</Goodwill>
+  <Goodwill>Relatie</Goodwill>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>weerstand van {0_nameIndef} omlaag brengen</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>weerstand van {0_nameIndef} omlaag aan het brengen</JobReport_ReduceResistance>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
   <UserScanAbility>Scansnelheid gebruiker</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>Willekeurige vindinterval</ScanAverageInterval>
+  <ScanAverageInterval>Interval willekeurige vondst</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
   <ScanningProgressToGuaranteedFind>Voortgang tot een gegarandeerde vondst</ScanningProgressToGuaranteedFind>
   
@@ -491,11 +491,11 @@
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Bevat {0} / {1} bier.</ContainsBeer>
   <!-- EN: Fermented -->
-  <Fermented>Gefermenteerd</Fermented>
+  <Fermented>Vergist</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
   <FermentationProgress>Voortgang: {0} ({1} over)</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>Niet-ideale temperatuur. Fermentatiesnelheid: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Niet-ideale temperatuur. Vergistingssnelheid: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
@@ -515,7 +515,7 @@
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>Weerstand\nvan {0} naar {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>Temmen is mislukt\n{0} kans</TextMote_TameFail>
+  <TextMote_TameFail>Mislukte tempoging\n{0} kans</TextMote_TameFail>
   <!-- EN: Tamed!\n{0} chance -->
   <TextMote_TameSuccess>Getemd!\n{0} kans</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
@@ -535,9 +535,9 @@
   <!-- EN: level {0} -->
   <TextMote_SkillUp>niveau {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
-  <lowMood>laag humeur</lowMood>
+  <lowMood>lage stemming</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>Mening te laag</lowOpinion>
+  <lowOpinion>slechte opinie</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
@@ -553,13 +553,13 @@
   <!-- EN: Unrestricted -->
   <NoAreaAllowed>Onbeperkt</NoAreaAllowed>
   <!-- EN: New area -->
-  <NewArea>Nieuw gebied</NewArea>
+  <NewArea>Nieuwe zone</NewArea>
   <!-- EN: Invert -->
-  <InvertArea>Omkeren</InvertArea>
+  <InvertArea>Inverteren</InvertArea>
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Kan geen personages bevelen die je niet bestuurd.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Kan geen personages bevelen die je niet bestuurt.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{1_labelShort} is niet in staat tot geweld.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
@@ -577,7 +577,7 @@
   <!-- EN: Snow (medium) -->
   <SnowMedium>Sneeuw (gemiddeld)</SnowMedium>
   <!-- EN: Snow (thick) -->
-  <SnowThick>Zware sneeuw</SnowThick>
+  <SnowThick>Diepe sneeuw</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
@@ -591,7 +591,7 @@
   <!-- EN: roofed -->
   <Roofed>overdekt</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Huls geladen: {1_label}</ShellLoaded>
+  <ShellLoaded>Granaat geladen: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Niet geladen</ShellNotLoaded>
 
@@ -601,7 +601,7 @@
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>begraven van {THING_label} in {DESTINATION}</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>Stransporteert {1_label}.</ReportHauling>
+  <ReportHauling>{1_label} aan het slepen.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>aan het slepen.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -997,7 +997,7 @@
   <!-- EN: Contains -->
   <CasketContains>Bevat</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Waarschuwing! {PAWN_nameDef} is uw laatste vrije levende kolonist! Als je [PAWN_objective] in de capsule laat stappen, kan je mischien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
+  <CasketWarning>Waarschuwing! {PAWN_nameDef} is je laatste vrije levende kolonist! Als je [PAWN_objective] in de capsule laat stappen, kan je misschien niet meer verdergaan met spelen. Weet je zeker dat je door wilt gaan?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -1165,7 +1165,7 @@
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
   <DeepDrillExhausted>De grondstoffen van de diepboren zijn uitgeput, het werk aan de boor is automatisch verboden. Sta weer toe om te beginnen met het ontginnen van {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>De grondstoffen door diepboren zijn uitgeput.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>De grondstoffen onder de diepteboor zijn uitgeput.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
@@ -1268,7 +1268,7 @@
   <Reward_Pawn_Caravan>een {0_age}-jarige {0_title} genaamd {0_nameDef} zal zich bij je aansluiten {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>transportcapsules met de volgende inhoud zal arriveren (totale waarde {1}):\n{0}</Reward_Items>
+  <Reward_Items>transportcapsules met de volgende inhoud zullen arriveren (totale waarde {1}):\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
   <Reward_Items_Caravan>te ontvangen (totale waarde {1}):\n{0}</Reward_Items_Caravan>
@@ -1307,15 +1307,15 @@
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Verbonden met: {0}</BondedWith>
+  <BondedWith>Gebonden met: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>Nog niet verbonden</NotBonded>
+  <NotBonded>Nog niet gebonden</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>Verbonden met iemand anders</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>Gebonden aan iemand anders</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
   <BladelinkAlreadyBonded>(bestaande band)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>Een persoon kan met slechts één personawapen tegelijk een band hebben.\n\nOm {WEAPON_labelShort} te dragen en een verbinding te maken, moet {PAWN_nameDef}'s huidige wapen {BONDEDWEAPON_labelShort} eerst vernietigd worden.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>Een persoon kan met slechts één personawapen tegelijk een band hebben.\n\nOm {WEAPON_labelShort} te dragen en een band te maken, moet {PAWN_nameDef}'s huidige wapen {BONDEDWEAPON_labelShort} eerst vernietigd worden.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
   <BladelinkAlreadyBondedMessage>{PAWN_nameDef} heeft al een band met {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
 

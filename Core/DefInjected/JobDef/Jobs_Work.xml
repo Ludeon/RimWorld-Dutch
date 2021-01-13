@@ -53,10 +53,10 @@
   <HarvestDesignated.reportString>TargetA aan het oogsten.</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>TargetA naar een opslagplaats aan het tillen.</HaulToCell.reportString>
+  <HaulToCell.reportString>TargetA naar een opslagplaats aan het slepen.</HaulToCell.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToContainer.reportString>TargetA aan het dragen.</HaulToContainer.reportString>
+  <HaulToContainer.reportString>TargetA aan het slepen.</HaulToContainer.reportString>
   
   <!-- EN: hunting TargetA. -->
   <Hunt.reportString>op TargetA aan het jagen.</Hunt.reportString>

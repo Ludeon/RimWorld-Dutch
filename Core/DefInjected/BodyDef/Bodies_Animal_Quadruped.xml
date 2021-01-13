@@ -119,7 +119,7 @@
   <!-- EN: right ear -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>rechter oor</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left leg first claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>linksvoor, eerste klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
   <!-- EN: front left leg second claw -->
@@ -131,7 +131,7 @@
   <!-- EN: front left leg fifth claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>linksvoor, vijfde klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right leg first claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>rechtsvoor, eerste klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
   <!-- EN: front right leg second claw -->
@@ -143,7 +143,7 @@
   <!-- EN: front right leg fifth claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>rechtsvoor, vijfde klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left leg first claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>linksachter, eerste klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
   <!-- EN: rear left leg second claw -->
@@ -155,7 +155,7 @@
   <!-- EN: rear left leg fifth claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>linksachter, vijfde klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right leg first claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>rechtsachter, eerste klauw</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
   <!-- EN: rear right leg second claw -->
@@ -186,19 +186,19 @@
   <!-- EN: right ear -->
   <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>rechter oor</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left hoof -->
   <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>hoef linksvoor</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right hoof -->
   <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>hoef rechtsvoor</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left hoof -->
   <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>hoef linksachter</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>hoef rechtsachter</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
@@ -221,19 +221,19 @@
   <!-- EN: right ear -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>rechter oor</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left hoof -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>hoef linksvoor</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right hoof -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>hoef rechtsvoor</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left hoof -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>hoef linksachter</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>hoef rechtsachter</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
@@ -256,19 +256,19 @@
   <!-- EN: right ear -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>rechter oor</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left hoof -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>hoef linksvoor</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right hoof -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>hoef rechtsvoor</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left hoof -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>hoef linksachter</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>hoef rechtsachter</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
@@ -295,19 +295,19 @@
   <!-- EN: right tusk -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>rechter slagtand</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left hoof -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>hoef linksvoor</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right hoof -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>hoef rechtsvoor</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left hoof -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>hoef linksachter</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>hoef rechtsachter</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
@@ -334,19 +334,19 @@
   <!-- EN: right tusk -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>rechter slagtand</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left hoof -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>hoef linksvoor</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right hoof -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>hoef rechtsvoor</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left hoof -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>hoef linksachter</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>hoef rechtsachter</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
@@ -369,19 +369,19 @@
   <!-- EN: right ear -->
   <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>rechter oor</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left paw -->
   <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>linker voorpoot</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right paw -->
   <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>rechter voorpoot</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left paw -->
   <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>linker achterpoot</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right paw -->
   <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>rechter achterpoot</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
   
@@ -404,19 +404,19 @@
   <!-- EN: right ear -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>rechter oor</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>linker voorbeen</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>linker voorpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left paw -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>linker voorpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>rechter voorbeen</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>rechter voorpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right paw -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>rechter voorpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>linker achterbeen</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>linker achterpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left paw -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>linker achterpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right paw -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>rechter achterpoot</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
   
@@ -435,12 +435,12 @@
   <!-- EN: right eye -->
   <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>rechter oog</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
   <!-- EN: front left leg -->
-  <TurtleLike.corePart.parts.front_left_leg.customLabel>linker voorbeen</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>linker voorpoot</TurtleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <TurtleLike.corePart.parts.front_right_leg.customLabel>rechter voorbeen</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>rechter voorpoot</TurtleLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <TurtleLike.corePart.parts.rear_left_leg.customLabel>linker achterbeen</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>linker achterpoot</TurtleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <TurtleLike.corePart.parts.rear_right_leg.customLabel>rechter achterbeen</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>rechter achterpoot</TurtleLike.corePart.parts.rear_right_leg.customLabel>
   
 </LanguageData>

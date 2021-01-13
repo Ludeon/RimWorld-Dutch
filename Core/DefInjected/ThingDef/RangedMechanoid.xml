@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: charge blaster shot -->
-  <Bullet_ChargeBlasterHeavy.label>schot van een impulsgeladen wapen</Bullet_ChargeBlasterHeavy.label>
+  <Bullet_ChargeBlasterHeavy.label>pulsgeladen projectiel</Bullet_ChargeBlasterHeavy.label>
   
   <!-- EN: inferno cannon shell -->
-  <Bullet_InfernoCannon.label>projectiel van infernokanon</Bullet_InfernoCannon.label>
+  <Bullet_InfernoCannon.label>infernokanon projectiel</Bullet_InfernoCannon.label>
   
   <!-- EN: needle shot -->
   <Bullet_NeedleGun.label>naaldprojectiel</Bullet_NeedleGun.label>

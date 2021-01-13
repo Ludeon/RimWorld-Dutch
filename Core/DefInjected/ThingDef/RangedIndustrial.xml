@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: assault rifle bullet -->
-  <Bullet_AssaultRifle.label>kogel van aanvalsgeweer</Bullet_AssaultRifle.label>
+  <Bullet_AssaultRifle.label>aanvalsgeweer kogel</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>kogel van automatisch pistool</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>automatisch pistool kogel</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
-  <Bullet_BoltActionRifle.label>kogel van grendelgeweer</Bullet_BoltActionRifle.label>
+  <Bullet_BoltActionRifle.label>grendelgeweer kogel</Bullet_BoltActionRifle.label>
   
   <!-- EN: EMP launcher shell -->
   <Bullet_EMPLauncher.label>EMP granaat</Bullet_EMPLauncher.label>
   
   <!-- EN: heavy SMG bullet -->
-  <Bullet_HeavySMG.label>kogel uit zware SMG</Bullet_HeavySMG.label>
+  <Bullet_HeavySMG.label>zware SMG kogel</Bullet_HeavySMG.label>
   
   <!-- EN: incendiary bolt -->
   <Bullet_IncendiaryLauncher.label>vuurprojectiel</Bullet_IncendiaryLauncher.label>
   
   <!-- EN: LMG bullet -->
-  <Bullet_LMG.label>kogel uit LMG</Bullet_LMG.label>
+  <Bullet_LMG.label>LMG kogel</Bullet_LMG.label>
   
   <!-- EN: machine pistol bullet -->
-  <Bullet_MachinePistol.label>kogel uit machinepistool</Bullet_MachinePistol.label>
+  <Bullet_MachinePistol.label>machinepistool kogel</Bullet_MachinePistol.label>
   
   <!-- EN: minigun bullet -->
-  <Bullet_Minigun.label>kogel uit minigun</Bullet_Minigun.label>
+  <Bullet_Minigun.label>minigun kogel</Bullet_Minigun.label>
   
   <!-- EN: revolver bullet -->
-  <Bullet_Revolver.label>kogel uit revolver</Bullet_Revolver.label>
+  <Bullet_Revolver.label>revolver kogel</Bullet_Revolver.label>
   
   <!-- EN: shotgun blast -->
-  <Bullet_Shotgun.label>schot hagel</Bullet_Shotgun.label>
+  <Bullet_Shotgun.label>hagelschot</Bullet_Shotgun.label>
   
   <!-- EN: smoke launcher shell -->
   <Bullet_SmokeLauncher.label>rookgranaat</Bullet_SmokeLauncher.label>
   
   <!-- EN: sniper rifle bullet -->
-  <Bullet_SniperRifle.label>kogel uit sluipschuttersgeweer</Bullet_SniperRifle.label>
+  <Bullet_SniperRifle.label>sluipschuttersgeweer kogel</Bullet_SniperRifle.label>
   
   <!-- EN: assault rifle -->
   <Gun_AssaultRifle.label>aanvalsgeweer</Gun_AssaultRifle.label>

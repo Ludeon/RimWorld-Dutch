@@ -345,7 +345,7 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Kan {1} niet {0}.</CannotGenericWork>
+  <CannotGenericWork>Kan niet {0} {1}.</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Kan niet {0}</CannotGenericWorkCustom>
 

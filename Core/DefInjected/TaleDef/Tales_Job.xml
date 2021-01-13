@@ -141,7 +141,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongConstructionProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef] die het werk afrond aan een [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] die het werk afrondt aan een [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] die een [OBJECT_label] bouwt [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die een [OBJECT_label] in elkaar zet [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die het oppervlak van een [OBJECT_label] poetst [circumstance_group]</li>
@@ -182,7 +182,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongCraftingProject.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef] die het werk afrond aan een [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] die het werk afrondt aan een [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] die een [OBJECT_label] in elkaar zet [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die het oppervlak van een [OBJECT_label] poetst [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die details aanbrengt aan een [OBJECT_label] [circumstance_group]</li>
@@ -386,7 +386,7 @@
     <li>circumstance_phrase->met een vredige glimlach</li>
     <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] glimlach</li>
     <li>circumstance_phrase->en daarbij zachtjes licht geeft</li>
-    <li>circumstance_phrase->en daarbij wordt omringd door [AdjectiveColor] aura</li>
+    <li>circumstance_phrase->en daarbij wordt omringd door een [AdjectiveColor] aura</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken naar [PAWN_pronoun].</li>
     <li>desc_sentence->[PAWN_pronoun] wordt omringd door [Quantity_adjphrase] [AnimalPlural].</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten vredig.</li>

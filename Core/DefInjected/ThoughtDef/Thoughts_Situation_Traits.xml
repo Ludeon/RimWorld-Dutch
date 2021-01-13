@@ -101,12 +101,12 @@
   <MasochistPain.stages.masochist_in_mindshattering_pain.description>Ahhhh... Ben ik in de hemel?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
   
   <!-- EN: night owl in daytime -->
-  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>nachtuil overdag</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>nachtbraker overdag</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
   <!-- EN: I don't like working during the day. -->
   <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Ik vind het niet fijn om overdag te werken.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
   
   <!-- EN: night owl at night -->
-  <NightOwlDuringTheNight.stages.night_owl_at_night.label>nachtuil 's-nachts</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>nachtbraker bij nacht</NightOwlDuringTheNight.stages.night_owl_at_night.label>
   <!-- EN: I feel much better at night. -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>Ik voel me veel beter 's-nachts</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   

@@ -9,8 +9,8 @@
     <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [Personal_Characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [Personal_Characteristic].</li>
     <li>toldastoryabout(p=2)->told a story about</li>
     <li>toldastoryabout->told a funny story about</li>
     <li>toldastoryabout->told a heartfelt story about</li>
@@ -36,7 +36,7 @@
     <li>subject->the future</li>
     <li>subject->letting go</li>
     <li>subject(p=4)->[ConceptPositive]</li>
-    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [Personal_Characteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
@@ -45,8 +45,8 @@
     <li>r_logentry->[INITIATOR_nameDef] beschreef [subject] aan [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] moedigde [RECIPIENT_nameDef] aan om [talkabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] gaf [RECIPIENT_nameDef] de kans om [talkabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] toonde interesse in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] naar [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] toonde interesse in [RECIPIENT_nameDef]'s [Personal_Characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] naar [RECIPIENT_possessive] [Personal_Characteristic].</li>
     <li>toldastoryabout(p=2)->vertelde een verhaal over</li>
     <li>toldastoryabout->vertelde een grappig verhaal over</li>
     <li>toldastoryabout->vertelde een aangrijpend verhaal over</li>
@@ -72,7 +72,7 @@
     <li>subject->de toekomst</li>
     <li>subject->[RECIPIENT_possessive] verleden</li>
     <li>subject(p=4)->[ConceptPositive]</li>
-    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [Personal_Characteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
   

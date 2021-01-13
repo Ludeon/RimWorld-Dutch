@@ -15,7 +15,7 @@
     <li>scraped_past->skipped</li>
     <li>scraped_past->skated</li>
   -->
-  <Combat_DeflectIncludes.rulePack.rulesStrings>TODO</Combat_DeflectIncludes.rulePack.rulesStrings>
+  <Combat_DeflectIncludes.rulePack.rulesStrings/>
   
   <!-- EN:
     <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
@@ -62,7 +62,19 @@
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>TODO</Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+    <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] en [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+    <li>strikeAdv->op pijnlijke wijze</li>
+    <li>strikeAdv->op akelige wijze</li>
+    <li>strikeAdv->op brute wijze</li>
+    <li>strikeAdv->op gemene wijze</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->en liet een akelige wond achter</li>
+    <li>flavortext_consequence->en liet een diepe wond achter</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->waardoor [RECIPIENT] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->en bracht [RECIPIENT_objective] daarbij uit evenwicht</li>
+  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[action], [result].</li>
@@ -104,7 +116,40 @@
     <li>to->to</li>
     <li>to->into</li>
   -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings>TODO</Combat_MeleeIncludes.rulePack.rulesStrings>
+  <Combat_MeleeIncludes.rulePack.rulesStrings>
+    <li>r_logentry->[action], [result].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->een [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->een [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] en [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], en [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], en [recipient_part3_label]</li>
+    <li>destroyed(p=0.5)->vernietigde</li>
+    <li>destroyed(p=0.5)->vernielde</li>
+    <li>destroyed(p=0.5)->verwoestte</li>
+    <li>destroyed(p=0.5)->sloopte</li>
+    <li>wince(recipient_flesh==Normal)->een grimas trok</li>
+    <li>wince(recipient_flesh==Normal)->kreunde</li>
+    <li>wince(recipient_flesh==Normal)->zich verbeet</li>
+    <li>wince(recipient_flesh==Normal)->ineen kromp</li>
+    <li>wince(recipient_flesh!=Mechanoid)->schreeuwde</li>
+    <li>wince(recipient_flesh!=Mechanoid)->het uit riep</li>
+    <li>wince->terugdeinsde</li>
+    <li>wince->strompelde</li>
+    <li>painstate->van</li>
+    <li>painstate->door</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] de pijn</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] ontzetting</li>
+    <li>painevent(recipient_flesh==Normal)->van ellende</li>
+    <li>painevent->[painstate] de verwonding</li>
+  </Combat_MeleeIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
@@ -156,7 +201,46 @@
     <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
   -->
-  <Combat_SkillIncludes.rulePack.rulesStrings>TODO</Combat_SkillIncludes.rulePack.rulesStrings>
+  <Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>skillDescMelee->met [skillAdv] gebruik van [INITIATOR_possessive] [WEAPON_label]</li>
+    <li>skillDescMelee->met [skillAdv] gebruik van [implement]</li>
+    <li>skillAdv(INITIATOR_skill<=3)->incompetent</li>
+    <li>skillAdv(INITIATOR_skill<=3)->onhandig</li>
+    <li>skillAdv(INITIATOR_skill<=3)->wild</li>
+    <li>skillAdv(INITIATOR_skill<=3)->willekeurig</li>
+    <li>skillAdv(INITIATOR_skill<=3)->vervaarlijk</li>
+    <li>skillAdv(INITIATOR_skill<=4)->wanordelijk</li>
+    <li>skillAdv(INITIATOR_skill<=4)->onbekwaam</li>
+    <li>skillAdv(INITIATOR_skill<=5)->verschrikt</li>
+    <li>skillAdv(INITIATOR_skill<=5)->hortend en stotend</li>
+    <li>skillAdv(INITIATOR_skill<=5)->mal</li>
+    <li>skillAdv(INITIATOR_skill<=6)->aarzelend</li>
+    <li>skillAdv(INITIATOR_skill<=6)->schoorvoetend</li>
+    <li>skillAdv(INITIATOR_skill<=6)->langzaam</li>
+    <li>skillAdv(INITIATOR_skill<=6)->onzeker</li>
+    <li>skillAdv(INITIATOR_skill<=6)->onvakkundig</li>
+    <li>skillAdv(INITIATOR_skill<=6)->amateuristisch</li>
+    <li>skillAdv(INITIATOR_skill<=6)->schuw</li>
+    <li>skillAdv(INITIATOR_skill<=8)->enthousiast</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->vakkundig</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->bekwaam</li>
+    <li>skillAdv(INITIATOR_skill>=8)->professioneel</li>
+    <li>skillAdv(INITIATOR_skill>=8)->handig</li>
+    <li>skillAdv(INITIATOR_skill>=8)->zelfverzekerd</li>
+    <li>skillAdv(INITIATOR_skill>=8)->slim</li>
+    <li>skillAdv(INITIATOR_skill>=8)->vernuftig</li>
+    <li>skillAdv(INITIATOR_skill>=8)->vaardig</li>
+    <li>skillAdv(INITIATOR_skill>=10)->zeer bekwaam</li>
+    <li>skillAdv(INITIATOR_skill>=10)->vlotjes</li>
+    <li>skillAdv(INITIATOR_skill>=12)->nauwkeurig</li>
+    <li>skillAdv(INITIATOR_skill>=12)->precies</li>
+    <li>skillAdv(INITIATOR_skill>=14)->meesterlijk</li>
+    <li>skillAdv(INITIATOR_skill>=16)->artistiek</li>
+    <li>skillAdv(INITIATOR_skill>=16)->glansrijk</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->mechanisch</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->robotisch</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->direct</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
@@ -168,6 +252,15 @@
     <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</li>
     <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</li>
   -->
-  <Combat_WoundIncludes.rulePack.rulesStrings>TODO</Combat_WoundIncludes.rulePack.rulesStrings>
+  <Combat_WoundIncludes.rulePack.rulesStrings>
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] en [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], en [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], en [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] en [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], en [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], en [recipient_part_damaged3_label]</li>
+  </Combat_WoundIncludes.rulePack.rulesStrings>
   
 </LanguageData>

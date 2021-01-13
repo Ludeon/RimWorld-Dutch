@@ -15,7 +15,18 @@
     <li>scraped_past->skipped</li>
     <li>scraped_past->skated</li>
   -->
-  <Combat_DeflectIncludes.rulePack.rulesStrings/>
+  <Combat_DeflectIncludes.rulePack.rulesStrings>
+    <li>scraped_present->veegt</li>
+    <li>scraped_present->stuitert</li>
+    <li>scraped_present->graast</li>
+    <li>scraped_present->raakt aan</li>
+    <li>scraped_present->glijdt</li>
+    <li>scraped_past->veegde</li>
+    <li>scraped_past->stuiterde</li>
+    <li>scraped_past->graasde</li>
+    <li>scraped_past->raakte aan</li>
+    <li>scraped_past->gleed</li>
+  </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
@@ -204,39 +215,39 @@
   <Combat_SkillIncludes.rulePack.rulesStrings>
     <li>skillDescMelee->met [skillAdv] gebruik van [INITIATOR_possessive] [WEAPON_label]</li>
     <li>skillDescMelee->met [skillAdv] gebruik van [implement]</li>
-    <li>skillAdv(INITIATOR_skill<=3)->incompetent</li>
-    <li>skillAdv(INITIATOR_skill<=3)->onhandig</li>
-    <li>skillAdv(INITIATOR_skill<=3)->wild</li>
-    <li>skillAdv(INITIATOR_skill<=3)->willekeurig</li>
-    <li>skillAdv(INITIATOR_skill<=3)->vervaarlijk</li>
-    <li>skillAdv(INITIATOR_skill<=4)->wanordelijk</li>
-    <li>skillAdv(INITIATOR_skill<=4)->onbekwaam</li>
-    <li>skillAdv(INITIATOR_skill<=5)->verschrikt</li>
-    <li>skillAdv(INITIATOR_skill<=5)->hortend en stotend</li>
-    <li>skillAdv(INITIATOR_skill<=5)->mal</li>
-    <li>skillAdv(INITIATOR_skill<=6)->aarzelend</li>
-    <li>skillAdv(INITIATOR_skill<=6)->schoorvoetend</li>
-    <li>skillAdv(INITIATOR_skill<=6)->langzaam</li>
-    <li>skillAdv(INITIATOR_skill<=6)->onzeker</li>
-    <li>skillAdv(INITIATOR_skill<=6)->onvakkundig</li>
-    <li>skillAdv(INITIATOR_skill<=6)->amateuristisch</li>
-    <li>skillAdv(INITIATOR_skill<=6)->schuw</li>
-    <li>skillAdv(INITIATOR_skill<=8)->enthousiast</li>
-    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->vakkundig</li>
-    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->bekwaam</li>
-    <li>skillAdv(INITIATOR_skill>=8)->professioneel</li>
-    <li>skillAdv(INITIATOR_skill>=8)->handig</li>
-    <li>skillAdv(INITIATOR_skill>=8)->zelfverzekerd</li>
-    <li>skillAdv(INITIATOR_skill>=8)->slim</li>
-    <li>skillAdv(INITIATOR_skill>=8)->vernuftig</li>
-    <li>skillAdv(INITIATOR_skill>=8)->vaardig</li>
-    <li>skillAdv(INITIATOR_skill>=10)->zeer bekwaam</li>
-    <li>skillAdv(INITIATOR_skill>=10)->vlotjes</li>
-    <li>skillAdv(INITIATOR_skill>=12)->nauwkeurig</li>
-    <li>skillAdv(INITIATOR_skill>=12)->precies</li>
-    <li>skillAdv(INITIATOR_skill>=14)->meesterlijk</li>
-    <li>skillAdv(INITIATOR_skill>=16)->artistiek</li>
-    <li>skillAdv(INITIATOR_skill>=16)->glansrijk</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->incompetent</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->onhandig</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->wild</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->willekeurig</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->vervaarlijk</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)->wanordelijk</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)->onbekwaam</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->verschrikt</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->hortend en stotend</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->mal</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->aarzelend</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->schoorvoetend</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->langzaam</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->onzeker</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->onvakkundig</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->amateuristisch</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->schuw</li>
+    <li>skillAdv(INITIATOR_skill&lt;=8)->enthousiast</li>
+    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)->vakkundig</li>
+    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)->bekwaam</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)->professioneel</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)->handig</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)->zelfverzekerd</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)->slim</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)->vernuftig</li>
+    <li>skillAdv(INITIATOR_skill&gt;=8)->vaardig</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)->zeer bekwaam</li>
+    <li>skillAdv(INITIATOR_skill&gt;=10)->vlotjes</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)->nauwkeurig</li>
+    <li>skillAdv(INITIATOR_skill&gt;=12)->precies</li>
+    <li>skillAdv(INITIATOR_skill&gt;=14)->meesterlijk</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)->artistiek</li>
+    <li>skillAdv(INITIATOR_skill&gt;=16)->glansrijk</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->mechanisch</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->robotisch</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->direct</li>

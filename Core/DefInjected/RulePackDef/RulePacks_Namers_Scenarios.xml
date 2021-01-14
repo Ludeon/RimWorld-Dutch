@@ -15,6 +15,30 @@
     <li>r_name->[Color] [story]</li>
     <li>r_name->[story] [RomanNumeral]</li>
   -->
-  <NamerScenario.rulePack.rulesStrings>TODO</NamerScenario.rulePack.rulesStrings>
+  <NamerScenario.rulePack.rulesStrings>
+    <li>r_name->[story] [Trans] de [WeaponGendered]</li>
+    <li>r_name->[story] [Trans] het [WeaponNeuter]</li>
+    <li>r_name->[story] [Trans] de [AnimalGendered]</li>
+    <li>r_name->[story] [Trans] het [AnimalNeuter]</li>
+    <li>r_name->[story] [Trans] de [TerrainFeatureGendered]</li>
+    <li>r_name->[story] [Trans] het [TerrainFeatureNeuter]</li>
+    <li>r_name->[story] [Trans] [PersonJobPlural]</li>
+    <li>r_name->[story] [Trans] [ConceptAny]</li>
+    <li>r_name->[ConceptAny] [story]</li>
+    <li>r_name->[story] [Trans] een [Community]</li>
+    <li>r_name->Een [AdjectiveAny] [story]</li>
+    <li>r_name->[story] [Trans] [Game]</li>
+    <li>r_name->[story] in [Color] en [Color]</li>
+    <li>r_name->[ColorAdjective] [storyGendered]</li>
+    <li>r_name->[Color] [storyNeuter]</li>
+    <li>r_name->[story] [RomanNumeral]</li>
+  </NamerScenario.rulePack.rulesStrings>
+  
+  <NamerScenario.rulePack.rulesFiles>
+    <li>storyGendered->Words/Nouns/Stories_Gendered</li>
+    <li>storyNeuter->Words/Nouns/Stories_Neuter</li>
+    <li>story(p=58)->storyGendered</li>
+    <li>story(p=28)->storyNeuter</li>
+  </NamerScenario.rulePack.rulesFiles>
   
 </LanguageData>

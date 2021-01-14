@@ -112,15 +112,15 @@
   <Handling.verb>Verzorg dieren</Handling.verb>
   
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>Draag dingen naar hun bestemming.</Hauling.description>
+  <Hauling.description>Sleep dingen naar hun bestemming.</Hauling.description>
   <!-- EN: hauling -->
-  <Hauling.gerundLabel>dragen</Hauling.gerundLabel>
+  <Hauling.gerundLabel>slepen</Hauling.gerundLabel>
   <!-- EN: Haul -->
-  <Hauling.labelShort>Draag</Hauling.labelShort>
+  <Hauling.labelShort>Sleep</Hauling.labelShort>
   <!-- EN: Hauler -->
-  <Hauling.pawnLabel>Drager</Hauling.pawnLabel>
+  <Hauling.pawnLabel>Sleper</Hauling.pawnLabel>
   <!-- EN: Haul -->
-  <Hauling.verb>Draag</Hauling.verb>
+  <Hauling.verb>Sleep</Hauling.verb>
   
   <!-- EN: Kill animals which are designated to be hunted. -->
   <Hunting.description>Jaag op dieren die aangemerkt zijn om gejaagd te worden.</Hunting.description>

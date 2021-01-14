@@ -135,9 +135,14 @@
     <li>AdjectiveAnyNeuter->[AdjectiveNaturalNeuter]</li>
     <li>AdjectiveAny->[AdjectiveAnyGendered]</li>
     <li>AdjectiveAny->[AdjectiveAnyNeuter]</li>
-    <li>ConceptAny->[ConceptPositive]</li>
-    <li>ConceptAny->[ConceptBadass]</li>
-    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>ConceptAnyGendered(p=28)->[ConceptPositiveGendered]</li>
+    <li>ConceptAnyGendered(p=28)->[ConceptBadassGendered]</li>
+    <li>ConceptAnyGendered(p=33)->[ConceptAngstyGendered]</li>
+    <li>ConceptAnyNeuter(p=5)->[ConceptPositiveNeuter]</li>
+    <li>ConceptAnyNeuter(p=11)->[ConceptBadassNeuter]</li>
+    <li>ConceptAnyNeuter(p=4)->[ConceptAngstyNeuter]</li>
+    <li>ConceptAny(p=89)->[ConceptAnyGendered]</li>
+    <li>ConceptAny(p=20)->[ConceptAnyNeuter]</li>
     <li>PersonalCharacteristic(p=13)->seksuele ervaring</li>
     <li>PersonalCharacteristic(p=13)->schaamhaar</li>
     <li>PersonalCharacteristic(p=13)->lichaamshaar</li>
@@ -156,6 +161,8 @@
     <li>Apparel(p=6)->[ApparelNeuter]</li>
     <li>Community(p=5)->[CommunityGendered]</li>
     <li>Community(p=4)->[CommunityNeuter]</li>
+    <li>BodyPart(p=25)->[BodyPartGendered]</li>
+    <li>BodyPart(p=5)->[BodyPartNeuter]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <TalkTopicsUtility.rulePack.rulesFiles>
@@ -221,6 +228,14 @@
     <li>CommunityGendered->Words/Nouns/Communities_Gendered</li>
     <li>CommunityNeuter->Words/Nouns/Communities_Neuter</li>
     <li>CommunityPlural->Words/Nouns/Communities_Plural</li>
+    <li>ConceptPositiveGendered->Words/Nouns/Concepts_Positive_Gendered</li>
+    <li>ConceptPositiveNeuter->Words/Nouns/Concepts_Positive_Neuter</li>
+    <li>ConceptBadassGendered->Words/Nouns/Concepts_Badass_Gendered</li>
+    <li>ConceptBadassNeuter->Words/Nouns/Concepts_Badass_Neuter</li>
+    <li>ConceptAngstyGendered->Words/Nouns/Concepts_Angsty_Gendered</li>
+    <li>ConceptAngstyNeuter->Words/Nouns/Concepts_Angsty_Neuter</li>
+    <li>BodyPartGendered->Words/Nouns/Bodyparts_Gendered</li>
+    <li>BodyPartNeuter->Words/Nouns/Bodyparts_Neuter</li>
     <!-- DEFAULTS BELOW-->
     <li>talktopicheavyfile->Words/Nouns/TalkTopics_Heavy</li>
     <li>talktopiclightfile->Words/Nouns/TalkTopics_Light</li>
@@ -233,10 +248,6 @@
     <li>Game->Words/Nouns/Games</li>
     <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>
-    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
-    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
-    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
-    <li>BodyPart->Words/Nouns/Bodyparts</li>
     <li>VerbFriendly->Words/Verbs/Friendly</li>
   </TalkTopicsUtility.rulePack.rulesFiles>
   <!-- EN:

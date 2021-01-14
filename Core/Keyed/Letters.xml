@@ -75,7 +75,7 @@
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Het is vandaag {0}'s chronologische verjaardag! Biologisch gezien is {1} {3} jaar oud.\n\nChronologisch gezien is {1} net {2} geworden.\n\nMerk op dat aangezien mensen niet ouder worden in cryptoslaap, de chronologische verjaardag los staat van de biologische verjaardag.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>0_nameFull} heeft de biologische leeftijd van {1} bereikt.\n\nHelaas heeft {0_nameFull} door veroudering de volgende ziekten opgelopen:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} heeft de biologische leeftijd van {1} bereikt.\n\nHelaas heeft {0_nameFull} door veroudering de volgende ziekten opgelopen:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Ziekte</LetterLabelNewDisease>

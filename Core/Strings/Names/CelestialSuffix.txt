@@ -16,9 +16,4 @@ Meridiana
 Posterious
 Prior
 
-Major
-Minor
-Primary
-Secondary
-Tertiary
-Ultimate
+Ultima

@@ -1,18 +1,16 @@
-﻿Company
+﻿B.V.
 Partners
-Corporation
-Traders
-Industries
-Incorporated
-Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Transit Company
-Securities
-Solutions
+Handelaren
+Industrieën
+Reizigers
+Interplanetair
+Verzending
+Exportbedrijf
+Bedrijf importeren
+Transportbedrijf
+Vervoersbedrijf
+Effecten
+Oplossingen
 Consortium
-Interstellar
-Lubricants
+Interstellair
+Smeermiddelen

@@ -21,16 +21,23 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] met [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedaboutplural] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedaboutsingular] [TalkTopicLight] met [RECIPIENT_nameDef].</li>
     <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] tegen [RECIPIENT_nameDef].</li>
-    <li>talkedabout(p=4)->babbelden over</li>
-    <li>talkedabout->vertelden elkaar over</li>
-    <li>talkedabout->spraken over</li>
-    <li>talkedabout->kletsten over</li>
-    <li>talkedabout->praatten over</li>
-    <li>talkedabout->maakten grappen over</li>
-    <li>talkedabout->keuvelden over</li>
+    <li>talkedaboutsingular(p=4)->babbelde over</li>
+    <li>talkedaboutsingular->vertelde over</li>
+    <li>talkedaboutsingular->sprak over</li>
+    <li>talkedaboutsingular->kletste over</li>
+    <li>talkedaboutsingular->praatte over</li>
+    <li>talkedaboutsingular->maakte grappen over</li>
+    <li>talkedaboutsingular->keuvelde over</li>
+    <li>talkedaboutplural(p=4)->babbelden over</li>
+    <li>talkedaboutplural->vertelden elkaar over</li>
+    <li>talkedaboutplural->spraken over</li>
+    <li>talkedaboutplural->kletsten over</li>
+    <li>talkedaboutplural->praatten over</li>
+    <li>talkedaboutplural->maakten grappen over</li>
+    <li>talkedaboutplural->keuvelden over</li>
     <li>commentedabout->zei iets over</li>
     <li>commentedabout->deelde iets mee over</li>
     <li>commentedabout->maakte een opmerking over</li>
@@ -58,16 +65,25 @@
   <DeepTalk.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] met [RECIPIENT_nameDef].</li>
-    <li>talkedabout->deelden gedachten over</li>
-    <li>talkedabout->wisselden gedachten uit over</li>
-    <li>talkedabout->deelden ideëen over</li>
-    <li>talkedabout->deelden hun inzichten over</li>
-    <li>talkedabout->deelden hun overtuigingen over</li>
-    <li>talkedabout->bediscussiëerden</li>
-    <li>talkedabout->had een diep gesprek over</li>
-    <li>talkedabout->spraken zachtjes over</li>
-    <li>talkedabout->spraken diep over</li>
-    <li>talkedabout->hadden een moment van verbintenis over</li>
+    <li>talkedaboutsingular->deelde [INITIATOR_possessive] gedachten over</li>
+    <li>talkedaboutsingular->deelde [INITIATOR_possessive] ideëen over</li>
+    <li>talkedaboutsingular->deelde [INITIATOR_possessive] inzichten over</li>
+    <li>talkedaboutsingular->deelde [INITIATOR_possessive] overtuigingen over</li>
+    <li>talkedaboutsingular->bediscussieerde</li>
+    <li>talkedaboutsingular->had een diep gesprek over</li>
+    <li>talkedaboutsingular->sprak zachtjes over</li>
+    <li>talkedaboutsingular->sprak diep over</li>
+    <li>talkedaboutsingular->had een moment van verbintenis over</li>
+    <li>talkedaboutplural->deelden gedachten over</li>
+    <li>talkedaboutplural->wisselden gedachten uit over</li>
+    <li>talkedaboutplural->deelden ideeën over</li>
+    <li>talkedaboutplural->deelden hun inzichten over</li>
+    <li>talkedaboutplural->deelden hun overtuigingen over</li>
+    <li>talkedaboutplural->bediscussieerden</li>
+    <li>talkedaboutplural->hadden een diep gesprek over</li>
+    <li>talkedaboutplural->spraken zachtjes over</li>
+    <li>talkedaboutplural->spraken diep over</li>
+    <li>talkedaboutplural->hadden een moment van verbintenis over</li>
     <li>subject->[TalkTopicHeavy]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
   

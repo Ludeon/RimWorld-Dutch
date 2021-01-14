@@ -213,7 +213,7 @@
     <li>image->[PAWN_nameFull] die bij een muur van [MATERIAL_label] werkt met mijnbouwgereedschap, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die een brok [MATERIAL_label] omhooghoudt, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die uitrust tegen een muur van [MATERIAL_label], [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] die een team kompels organiseert bij een ader [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] die een team mijnwerkers organiseert bij een ader [MATERIAL_label], [circumstance_group]</li>
     <li>image->[PAWN_nameFull] die voorzichtig een rijke ader [MATERIAL_label] inspecteert, [circumstance_group]</li>
     <li>circumstance_phrase->terwijl [PAWN_pronoun] erg zweet</li>
     <li>circumstance_phrase->terwijl [PAWN_pronoun] een [AdjectiveFriendlyGendered] uitdrukking op [PAWN_possessive] gezicht heeft</li>

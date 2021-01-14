@@ -25,7 +25,29 @@
     <li>msyl->yoth</li>
     <li>msyl->lite</li>
   -->
-  <NamerFactionMechanoid.rulePack.rulesStrings>TODO</NamerFactionMechanoid.rulePack.rulesStrings>
+  <NamerFactionMechanoid.rulePack.rulesStrings>
+    <li>r_name->mech-nest [msyl][msyl]</li>
+    <li>msyl->nyar</li>
+    <li>msyl->alg</li>
+    <li>msyl->xan</li>
+    <li>msyl->zel</li>
+    <li>msyl->kil</li>
+    <li>msyl->len</li>
+    <li>msyl->lax</li>
+    <li>msyl->alph</li>
+    <li>msyl->ome</li>
+    <li>msyl->iri</li>
+    <li>msyl->slin</li>
+    <li>msyl->toth</li>
+    <li>msyl->arth</li>
+    <li>msyl->unth</li>
+    <li>msyl->ox</li>
+    <li>msyl->arm</li>
+    <li>msyl->murd</li>
+    <li>msyl->zen</li>
+    <li>msyl->yoth</li>
+    <li>msyl->lite</li>
+  </NamerFactionMechanoid.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[nearnameinitial]</li>
@@ -36,8 +58,26 @@
     <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
     <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
   -->
-  <NamerFactionOutlander.rulePack.rulesStrings>TODO</NamerFactionOutlander.rulePack.rulesStrings>
+  <NamerFactionOutlander.rulePack.rulesStrings>
+    <li>r_name(p=3)->[nearnameinitial]</li>
+    <li>r_name->De [nearnameinitial] [political_union_outlanderGendered]</li>
+    <li>r_name->Het [nearnameinitial] [political_union_outlanderNeuter]</li>
+    <li>r_name->De [nearnameinitial] [political_adjectiveGendered] [political_union_outlanderGendered]</li>
+    <li>r_name->Het [nearnameinitial] [political_adjectiveNeuter] [political_union_outlanderNeuter]</li>
+    <li>r_name->[political_union_outlander] van [nearnameinitial]</li>
+    <li>r_name->[political_adjectiveGendered] [political_union_outlanderGendered] van [nearnameinitial]</li>
+    <li>r_name->[political_adjectiveNeuter] [political_union_outlanderNeuter] van [nearnameinitial]</li>
+    <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
+    <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
+  </NamerFactionOutlander.rulePack.rulesStrings>
   
+  <NamerFactionOutlander.rulePack.rulesFiles>
+    <li>political_union_outlanderGendered->Words/Nouns/PoliticalUnions_Outlander_Gendered</li>
+    <li>political_union_outlanderNeuter->Words/Nouns/PoliticalUnions_Outlander_Neuter</li>
+    <li>political_adjectiveGendered->Words/Adjectives/PoliticalUnions_Gendered</li>
+    <li>political_adjectiveNeuter->Words/Adjectives/PoliticalUnions_Neuter</li>
+  </NamerFactionOutlander.rulePack.rulesFiles>
+
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
     <li>r_name->The [AnimalBadass] Men</li>
@@ -67,7 +107,48 @@
     <li>r_name->[Weapon] [groupname]</li>
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
-  <NamerFactionPirate.rulePack.rulesStrings>TODO</NamerFactionPirate.rulePack.rulesStrings>
+  <NamerFactionPirate.rulePack.rulesStrings>
+    <li>r_name->De [AnimalBadassPlural]</li>
+    <li>r_name(p=0.5)->De mannen van de [AnimalBadassGendered]</li>
+    <li>r_name(p=0.5)->De mannen van het [AnimalBadassNeuter]</li>
+    <li>r_name(p=0.5)->De [AnimalBadassPlural] van de [ConceptBadassGendered]</li>
+    <li>r_name(p=0.5)->De [AnimalBadassPlural] van het [ConceptBadassNeuter]</li>
+    <li>r_name(p=0.5)->De [PersonBadassPlural] van de [ConceptBadassGendered]</li>
+    <li>r_name(p=0.5)->De [PersonBadassPlural] van het [ConceptBadassNeuter]</li>
+    <li>r_name->De [EnemyPlural]</li>
+    <li>r_name(p=0.5)->De mannen van de [WeaponGendered]</li>
+    <li>r_name(p=0.5)->De mannen van het [WeaponNeuter]</li>
+    <li>r_name->De [WeaponPlural]</li>
+    <li>r_name->De [Weapon] [AnimalBadassPlural]</li>
+    <li>r_name->De [Weapon] [EnemyPlural]</li>
+    <li>r_name->De [ColorBadassAdjective] [WeaponPlural]</li>
+    <li>r_name->De [ColorBadassAdjective] [AnimalBadassPlural]</li>
+    <li>r_name->De [ColorBadassAdjective] [PersonBadassPlural]</li>
+    <li>r_name->De [ColorBadassAdjective] [EnemyPlural]</li>
+    <li>r_name(p=0.82)->De [PersonBadass] [groupnameGendered]</li>
+    <li>r_name(p=0.18)->Het [PersonBadass] [groupnameNeuter]</li>
+    <li>r_name->De [Enemy] [EnemyPlural]</li>
+    <li>r_name(p=0.82)->De [AdjectiveBadassGendered] [groupnameGendered]</li>
+    <li>r_name(p=0.18)->Het [AdjectiveBadassNeuter] [groupnameNeuter]</li>
+    <li>r_name->De [AdjectiveBadassGendered] [AnimalBadassPlural]</li>
+    <li>r_name->De [AdjectiveBadassGendered] [EnemyPlural]</li>
+    <li>r_name->De [AdjectiveBadassGendered] [PersonBadassPlural]</li>
+    <li>r_name(p=0.5)->De [PersonAllyPlural] van de [ConceptBadassGendered]</li>
+    <li>r_name(p=0.5)->De [PersonAllyPlural] van het [ConceptBadassNeuter]</li>
+    <li>r_name(p=0.4)->De eters van [Gore]</li>
+    <li>r_name->[NamePerson]'s [EnemyPlural]</li>
+    <li>r_name->[NamePerson]'s [AnimalBadassPlural]</li>
+    <li>r_name->[NamePerson]'s [WeaponPlural]</li>
+    <li>r_name(p=0.82)->De [Weapon] [groupnameGendered]</li>
+    <li>r_name(p=0.18)->Het [Weapon] [groupnameNeuter]</li>
+    <li>r_name(p=0.82)->De [ConceptBadass] [groupnameGendered]</li>
+    <li>r_name(p=0.18)->Het [ConceptBadass] [groupnameNeuter]</li>
+  </NamerFactionPirate.rulePack.rulesStrings>
+  
+  <NamerFactionPirate.rulePack.rulesFiles>
+    <li>groupnameGendered->Words/Nouns/GroupNames_Gendered</li>
+    <li>groupnameNeuter->Words/Nouns/GroupNames_Neuter</li>
+  </NamerFactionPirate.rulePack.rulesFiles>
   
   <!-- EN:
     <li>r_name->[WordTribal] [political_union_tribal]</li>
@@ -77,17 +158,40 @@
     <li>r_name->The [Color] [Animal] [WordTribal]</li>
     <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
   -->
-  <NamerFactionTribal.rulePack.rulesStrings>TODO</NamerFactionTribal.rulePack.rulesStrings>
+  <NamerFactionTribal.rulePack.rulesStrings>
+    <li>r_name->De [WordTribal] [political_union_tribalGendered]</li>
+    <li>r_name->Het [WordTribal] [political_union_tribalGendered]</li>
+    <li>r_name(p=0.5)->De [political_union_tribalGendered] van de [ColorAdjective] [TerrainFeatureGendered]</li>
+    <li>r_name(p=0.5)->De [political_union_tribalGendered] van het [ColorAdjective] [TerrainFeatureNeuter]</li>
+    <li>r_name(p=0.5)->Het [political_union_tribalNeuter] van de [ColorAdjective] [TerrainFeatureGendered]</li>
+    <li>r_name(p=0.5)->Het [political_union_tribalNeuter] van het [ColorAdjective] [TerrainFeatureNeuter]</li>
+    <li>r_name->De [political_union_tribalGendered] van [WordTribal]</li>
+    <li>r_name->Het [political_union_tribalNeuter] van [WordTribal]</li>
+    <li>r_name->De [ColorAdjective] [Animal] [WordTribal]</li>
+    <li>r_name(p=0.5)->De [political_union_tribalGendered] van de [TerrainFeatureGendered]</li>
+    <li>r_name(p=0.5)->De [political_union_tribalGendered] van het [TerrainFeatureNeuter]</li>
+    <li>r_name(p=0.5)->Het [political_union_tribalNeuter] van de [TerrainFeatureGendered]</li>
+    <li>r_name(p=0.5)->Het [political_union_tribalNeuter] van het [TerrainFeatureNeuter]</li>
+  </NamerFactionTribal.rulePack.rulesStrings>
+  
+  <NamerFactionTribal.rulePack.rulesFiles>
+    <li>political_union_tribalGendered->Words/Nouns/PoliticalUnions_Tribal_Gendered</li>
+    <li>political_union_tribalNeuter->Words/Nouns/PoliticalUnions_Tribal_Neuter</li>
+  </NamerFactionTribal.rulePack.rulesFiles>
   
   <!-- EN:
     <li>r_name->Colony</li>
   -->
-  <NamerInitialSettlementColony.rulePack.rulesStrings>TODO</NamerInitialSettlementColony.rulePack.rulesStrings>
+  <NamerInitialSettlementColony.rulePack.rulesStrings>
+    <li>r_name->Kolonie</li>
+  </NamerInitialSettlementColony.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->Village</li>
   -->
-  <NamerInitialSettlementTribe.rulePack.rulesStrings>TODO</NamerInitialSettlementTribe.rulePack.rulesStrings>
+  <NamerInitialSettlementTribe.rulePack.rulesStrings>
+    <li>r_name->Nederzetting</li>
+  </NamerInitialSettlementTribe.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>
@@ -141,7 +245,60 @@
     <li>townend->ron</li>
     <li>townend->well</li>
   -->
-  <NamerSettlementOutlander.rulePack.rulesStrings>TODO</NamerSettlementOutlander.rulePack.rulesStrings>
+  <NamerSettlementOutlander.rulePack.rulesStrings>
+    <li>r_name(p=12)->[townname_wordgen]</li>
+    <li>r_name(p=6)->[townname_fixed]</li>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_near]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun] [Community]</li>
+    <li>townname_combo->[topicalnoun]'s [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun]'s [Community]</li>
+    <li>townname_combo(p=2)->[concept_positive]'s [TerrainFeature]</li>
+    <li>townname_combo(p=2)->[concept_positive] [TerrainFeature]</li>
+    <li>townname_combo(p=2)->[concept_positive] [Community]</li>
+    <li>townname_combo(p=3)->[Character]'s [TerrainFeature]</li>
+    <li>townname_combo(p=3)->[Character]'s [Community]</li>
+    <li>townname_near(p=0.5)->[nearnameinitial] aan de [TerrainFeatureGendered]</li>
+    <li>townname_near(p=0.5)->[nearnameinitial] bij de [TerrainFeatureGendered]</li>
+    <li>townname_near(p=0.5)->[nearnameinitial] op de [TerrainFeatureGendered]</li>
+    <li>townname_near(p=0.5)->[nearnameinitial] aan het [TerrainFeatureNeuter]</li>
+    <li>townname_near(p=0.5)->[nearnameinitial] bij het [TerrainFeatureNeuter]</li>
+    <li>townname_near(p=0.5)->[nearnameinitial] op het [TerrainFeatureNeuter]</li>
+    <li>nearnameinitial->[townname_wordgen]</li>
+    <li>nearnameinitial->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townend]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+    <li>townname_wordgen->[TerrainFeature][townend]</li>
+    <li>townname_wordgen->[topicalnoun][townend]</li>
+    <li>townend->dorp</li>
+    <li>townend->stad</li>
+    <li>townend->veen</li>
+    <li>townend->zand</li>
+    <li>townend->ingen</li>
+    <li>townend->voort</li>
+    <li>townend->hoop</li>
+    <li>townend->ing</li>
+    <li>townend->sel</li>
+    <li>townend->meer</li>
+    <li>townend->heuvel</li>
+    <li>townend->koop</li>
+    <li>townend->vaart</li>
+    <li>townend->sloot</li>
+    <li>townend->diep</li>
+    <li>townend->pekela</li>
+    <li>townend->bergen</li>
+    <li>townend->tricht</li>
+    <li>townend->hage</li>
+    <li>townend->truida</li>
+    <li>townend->wolde</li>
+    <li>townend->laren</li>
+    <li>townend->mond</li>
+  </NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=4)->[townname_combo]</li>
@@ -185,7 +342,52 @@
     <li>townendevil->thard</li>
     <li>townendevil->thad</li>
   -->
-  <NamerSettlementPirate.rulePack.rulesStrings>TODO</NamerSettlementPirate.rulePack.rulesStrings>
+  <NamerSettlementPirate.rulePack.rulesStrings>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_combo->[geography] van de [AnimalBadassGendered]</li>
+    <li>townname_combo->[geography] van het [AnimalBadassNeuter]</li>
+    <li>townname_combo->[geography] van de [ConceptBadassGendered]</li>
+    <li>townname_combo->[geography] van het [ConceptBadassNeuter]</li>
+    <li>townname_combo(p=2)->[geography] van de [PersonBadassGendered]</li>
+    <li>townname_combo->[Enemy]'s [geography]</li>
+    <li>townname_combo->[Enemy] [geography]</li>
+    <li>townname_combo->[Weapon]'s [geography]</li>
+    <li>townname_combo->[Weapon] [geography]</li>
+    <li>townname_combo(p=0.5)->De [ColorBadassAdjective] [geographyGendered]</li>
+    <li>townname_combo(p=0.5)->Het [ColorBadassAdjective] [geographyNeuter]</li>
+    <li>geographyGendered(p=2)->[TerrainFeatureGendered]</li>
+    <li>geographyGendered->[CommunityGendered]</li>
+    <li>geographyNeuter(p=2)->[TerrainFeatureNeuter]</li>
+    <li>geographyNeuter->[CommunityNeuter]</li>
+    <li>geography->[geographyGendered]</li>
+    <li>geography->[geographyNeuter]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vix</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->teer</li>
+    <li>townendevil->snede</li>
+    <li>townendevil->hak</li>
+    <li>townendevil->oze</li>
+    <li>townendevil->ozel</li>
+    <li>townendevil->laart</li>
+    <li>townendevil->slot</li>
+    <li>townendevil->haard</li>
+    <li>townendevil->spleet</li>
+    <li>townendevil->stronk</li>
+    <li>townendevil->wond</li>
+    <li>townendevil->veeg</li>
+    <li>townendevil->warg</li>
+    <li>townendevil->wug</li>
+    <li>townendevil->dort</li>
+    <li>townendevil->dart</li>
+    <li>townendevil->dalt</li>
+  </NamerSettlementPirate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[WordTribal]</li>
@@ -193,6 +395,11 @@
     <li>r_name->[Color] [TerrainFeature]</li>
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
-  <NamerSettlementTribal.rulePack.rulesStrings>TODO</NamerSettlementTribal.rulePack.rulesStrings>
+  <NamerSettlementTribal.rulePack.rulesStrings>
+    <li>r_name(p=2)->[WordTribal]</li>
+    <li>r_name->[ColorAdjective] [WordTribal]</li>
+    <li>r_name->[ColorAdjective] [TerrainFeature]</li>
+    <li>r_name->[WordTribal] [TerrainFeature]</li>
+  </NamerSettlementTribal.rulePack.rulesStrings>
   
 </LanguageData>

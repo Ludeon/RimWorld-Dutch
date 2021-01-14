@@ -13,7 +13,7 @@
     <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] om een pauze.</li>
     <li>r_logentry->[INITIATOR_nameDef] vroeg [RECIPIENT_nameDef] om wat ademruimte.</li>
     <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] dat het zo niet langer gaat.</li>
-    <li>r_logentry->[INITIATOR_nameDef] vertelede [RECIPIENT_nameDef] dat ze misschien beter met andere mensen konden omgaan.</li>
+    <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] dat ze misschien beter met andere mensen konden omgaan.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->

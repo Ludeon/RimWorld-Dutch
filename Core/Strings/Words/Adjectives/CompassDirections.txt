@@ -7,7 +7,7 @@ zuidwest
 west
 noordwest 
 
-noorelijk
+noordelijk
 noordoostelijk
 oostelijk
 zuidoostelijk

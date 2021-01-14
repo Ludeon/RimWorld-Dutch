@@ -34,7 +34,13 @@
     <li>terrain_word->brush</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerAridShrubland.rulePack.rulesStrings>TODO</NamerAridShrubland.rulePack.rulesStrings>
+  <NamerAridShrubland.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->struikgewas</li>
+    <li>terrain_word(p=4)->kreupelhout</li>
+    <li>terrain_word(p=2)->plateau</li>
+    <li>terrain_word->woestijn</li>
+    <li>terrain_word->droogte</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
@@ -44,7 +50,14 @@
     <li>terrain_word->anchorage</li>
     <li>terrain_word->cove</li>
   -->
-  <NamerBay.rulePack.rulesStrings>TODO</NamerBay.rulePack.rulesStrings>
+  <NamerBay.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->golf van [narrative_name]</li>
+    <li>terrain_word(p=6)->baai</li>
+    <li>terrain_word->bocht</li>
+    <li>terrain_word->golf</li>
+    <li>terrain_word->ankergrond</li>
+    <li>terrain_word->inham</li>
+  </NamerBay.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -55,7 +68,14 @@
     <li>terrain_word->tangle</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerBorealForest.rulePack.rulesStrings>TODO</NamerBorealForest.rulePack.rulesStrings>
+  <NamerBorealForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->woud</li>
+    <li>terrain_word(p=3)->taiga</li>
+    <li>terrain_word->bossen</li>
+    <li>terrain_word->bos</li>
+    <li>terrain_word->bomengroep</li>
+    <li>terrain_word->pijnbos</li>
+  </NamerBorealForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
@@ -81,7 +101,43 @@
     <li>terrain_word->wasteland</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerDesert.rulePack.rulesStrings>TODO</NamerDesert.rulePack.rulesStrings>
+  <NamerDesert.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[desert_adjectiveNeuter] [narrative_nameNeuter]</li>
+    <li>r_name(p=0.2)->[desert_adjectiveGendered] [narrative_nameGendered]</li>
+    <li>desert_adjectiveGendered->platte</li>
+    <li>desert_adjectiveGendered->witte</li>
+    <li>desert_adjectiveGendered->eindeloze</li>
+    <li>desert_adjectiveGendered->harteloze</li>
+    <li>desert_adjectiveGendered->uitgedroogde</li>
+    <li>desert_adjectiveGendered->droge</li>
+    <li>desert_adjectiveGendered->lange</li>
+    <li>desert_adjectiveGendered->zongeblakerde</li>
+    <li>desert_adjectiveGendered->zonnige</li>
+    <li>desert_adjectiveGendered->stralende</li>
+    <li>desert_adjectiveGendered->hete</li>
+    <li>desert_adjectiveGendered->zweterige</li>
+    <li>desert_adjectiveGendered->zanderige</li>
+    <li>desert_adjectiveGendered->rotsachtige</li>
+    <li>desert_adjectiveNeuter->plat</li>
+    <li>desert_adjectiveNeuter->wit</li>
+    <li>desert_adjectiveNeuter->eindeloos</li>
+    <li>desert_adjectiveNeuter->harteloos</li>
+    <li>desert_adjectiveNeuter->uitgedroogd</li>
+    <li>desert_adjectiveNeuter->droog</li>
+    <li>desert_adjectiveNeuter->lang</li>
+    <li>desert_adjectiveNeuter->zongeblakerd</li>
+    <li>desert_adjectiveNeuter->zonnig</li>
+    <li>desert_adjectiveNeuter->stralend</li>
+    <li>desert_adjectiveNeuter->heet</li>
+    <li>desert_adjectiveNeuter->zweterig</li>
+    <li>desert_adjectiveNeuter->zanderig</li>
+    <li>desert_adjectiveNeuter->rotsachtig</li>
+    <li>terrain_word(p=6)->woestijn</li>
+    <li>terrain_word->plateau</li>
+    <li>terrain_word->vlakte</li>
+    <li>terrain_word->bekken</li>
+    <li>terrain_word->woestenij</li>
+  </NamerDesert.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -143,7 +199,17 @@
     <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
-  <NamerLake.rulePack.rulesStrings>TODO</NamerLake.rulePack.rulesStrings>
+  <NamerLake.rulePack.rulesStrings>
+    <li>r_name->[narrative_name] meer</li>
+    <li>terrain_word(p=6)->meer</li>
+    <li>terrain_word->zee</li>
+    <li>terrain_word->plas</li>
+    <li>terrain_word->bekken</li>
+    <li>terrain_word->reservoir</li>
+    <li>terrain_word(p=0.3)->poel</li>
+    <li>terrain_word(p=0.3)->lagune</li>
+    <li>terrain_word(p=0.3)->loch</li>
+  </NamerLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
@@ -153,7 +219,14 @@
     <li>terrain_word->hills</li>
     <li>terrain_word->cliffs</li>
   -->
-  <NamerMountainRange.rulePack.rulesStrings>TODO</NamerMountainRange.rulePack.rulesStrings>
+  <NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name] berg</li>
+    <li>terrain_word(p=5)->bergen</li>
+    <li>terrain_word(p=2)->gebergte</li>
+    <li>terrain_word->toppen</li>
+    <li>terrain_word->heuvels</li>
+    <li>terrain_word->kliffen</li>
+  </NamerMountainRange.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
@@ -174,7 +247,39 @@
     <li>terrain_word(p=3)->sea</li>
     <li>terrain_word->expanse</li>
   -->
-  <NamerOcean.rulePack.rulesStrings>TODO</NamerOcean.rulePack.rulesStrings>
+  <NamerOcean.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[ocean_adjectiveGendered] [narrative_nameGendered]</li>
+    <li>r_name(p=0.2)->[ocean_adjectiveNeuter] [narrative_nameNeuter]</li>
+    <li>ocean_adjectiveGendered->blauwe</li>
+    <li>ocean_adjectiveGendered->witte</li>
+    <li>ocean_adjectiveGendered->grijze</li>
+    <li>ocean_adjectiveGendered->heldere</li>
+    <li>ocean_adjectiveGendered->winderige</li>
+    <li>ocean_adjectiveGendered->stormachtige</li>
+    <li>ocean_adjectiveGendered->kalme</li>
+    <li>ocean_adjectiveGendered->brede</li>
+    <li>ocean_adjectiveGendered->eindeloze</li>
+    <li>ocean_adjectiveGendered->platte</li>
+    <li>ocean_adjectiveGendered->stille</li>
+    <li>ocean_adjectiveGendered->golvende</li>
+    <li>ocean_adjectiveGendered->bedaarde</li>
+    <li>ocean_adjectiveNeuter->blauw</li>
+    <li>ocean_adjectiveNeuter->wit</li>
+    <li>ocean_adjectiveNeuter->grijs</li>
+    <li>ocean_adjectiveNeuter->helder</li>
+    <li>ocean_adjectiveNeuter->winderig</li>
+    <li>ocean_adjectiveNeuter->stormachtig</li>
+    <li>ocean_adjectiveNeuter->kalm</li>
+    <li>ocean_adjectiveNeuter->breed</li>
+    <li>ocean_adjectiveNeuter->eindeloos</li>
+    <li>ocean_adjectiveNeuter->plat</li>
+    <li>ocean_adjectiveNeuter->stil</li>
+    <li>ocean_adjectiveNeuter->golvend</li>
+    <li>ocean_adjectiveNeuter->bedaard</li>
+    <li>terrain_word(p=6)->oceaan</li>
+    <li>terrain_word(p=3)->zee</li>
+    <li>terrain_word->vlakte</li>
+  </NamerOcean.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -185,7 +290,15 @@
     <li>terrain_word->headland</li>
     <li>terrain_word->horn</li>
   -->
-  <NamerPeninsula.rulePack.rulesStrings>TODO</NamerPeninsula.rulePack.rulesStrings>
+  <NamerPeninsula.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name]</li>
+    <li>r_name(p=0.2)->kaap [narrative_name]</li>
+    <li>terrain_word(p=5)->schiereiland</li>
+    <li>terrain_word(p=2)->hoek</li>
+    <li>terrain_word->kaap</li>
+    <li>terrain_word->kop</li>
+    <li>terrain_word->hoorn</li>
+  </NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->lake [narrative_name]</li>
@@ -193,7 +306,12 @@
     <li>terrain_word->ocean</li>
     <li>terrain_word->lake</li>
   -->
-  <NamerSea.rulePack.rulesStrings>TODO</NamerSea.rulePack.rulesStrings>
+  <NamerSea.rulePack.rulesStrings>
+    <li>r_name(p=0.1)->[narrative_name] meer</li>
+    <li>terrain_word(p=6)->zee</li>
+    <li>terrain_word->oceaan</li>
+    <li>terrain_word->meer</li>
+  </NamerSea.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->fen [narrative_name]</li>
@@ -215,7 +333,30 @@
     <li>terrain_word->marsh</li>
     <li>terrain_word->fen</li>
   -->
-  <NamerSwamp.rulePack.rulesStrings>TODO</NamerSwamp.rulePack.rulesStrings>
+  <NamerSwamp.rulePack.rulesStrings>
+    <li>r_name(p=0.1)->[narrative_name] moeras</li>
+    <li>r_name(p=0.3)->[swamp_adjectiveGendered] [narrative_nameGendered]</li>
+    <li>r_name(p=0.3)->[swamp_adjectiveNeuter] [narrative_nameNeuter]</li>
+    <li>swamp_adjectiveGendered->natte</li>
+    <li>swamp_adjectiveGendered->dampende</li>
+    <li>swamp_adjectiveGendered->verstikkende</li>
+    <li>swamp_adjectiveGendered->verrotte</li>
+    <li>swamp_adjectiveGendered->rottende</li>
+    <li>swamp_adjectiveGendered->overgroeide</li>
+    <li>swamp_adjectiveGendered->verstopte</li>
+    <li>swamp_adjectiveGendered->doornachtige</li>
+    <li>swamp_adjectiveNeuter->nat</li>
+    <li>swamp_adjectiveNeuter->dampend</li>
+    <li>swamp_adjectiveNeuter->verstikkend</li>
+    <li>swamp_adjectiveNeuter->verrot</li>
+    <li>swamp_adjectiveNeuter->rottend</li>
+    <li>swamp_adjectiveNeuter->overgroeid</li>
+    <li>swamp_adjectiveNeuter->verstopt</li>
+    <li>swamp_adjectiveNeuter->doornachtig</li>
+    <li>terrain_word(p=6)->moeras</li>
+    <li>terrain_word->bekken</li>
+    <li>terrain_word->drasland</li>
+  </NamerSwamp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
@@ -233,7 +374,31 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->tangle</li>
   -->
-  <NamerTropicalRainforest.rulePack.rulesStrings>TODO</NamerTropicalRainforest.rulePack.rulesStrings>
+  <NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[rainforest_adjectiveGendered] [narrative_nameGendered]</li>
+    <li>r_name(p=0.3)->[rainforest_adjectiveNeuter] [narrative_nameNeuter]</li>
+    <li>rainforest_adjectiveGendered->natte</li>
+    <li>rainforest_adjectiveGendered->dampende</li>
+    <li>rainforest_adjectiveGendered->verstikkende</li>
+    <li>rainforest_adjectiveGendered->verrotte</li>
+    <li>rainforest_adjectiveGendered->rottende</li>
+    <li>rainforest_adjectiveGendered->overgroeide</li>
+    <li>rainforest_adjectiveGendered->verstopte</li>
+    <li>rainforest_adjectiveGendered->doornachtige</li>
+    <li>rainforest_adjectiveNeuter->nat</li>
+    <li>rainforest_adjectiveNeuter->dampend</li>
+    <li>rainforest_adjectiveNeuter->verstikkend</li>
+    <li>rainforest_adjectiveNeuter->verrot</li>
+    <li>rainforest_adjectiveNeuter->rottend</li>
+    <li>rainforest_adjectiveNeuter->overgroeid</li>
+    <li>rainforest_adjectiveNeuter->verstopt</li>
+    <li>rainforest_adjectiveNeuter->doornachtig</li>
+    <li>terrain_word(p=6)->regenwoud</li>
+    <li>terrain_word(p=3)->jungle</li>
+    <li>terrain_word->woud</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->bos</li>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
@@ -249,7 +414,17 @@
     <li>terrain_word->prairie</li>
     <li>terrain_word->flats</li>
   -->
-  <NamerTundra.rulePack.rulesStrings>TODO</NamerTundra.rulePack.rulesStrings>
+  <NamerTundra.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->plateau</li>
+    <li>terrain_word(p=4)->droogvlakte</li>
+    <li>terrain_word(p=2)->taiga</li>
+    <li>terrain_word->scrub</li>
+    <li>terrain_word->struikgewas</li>
+    <li>terrain_word->kreupelhout</li>
+    <li>terrain_word->bosjes</li>
+    <li>terrain_word->vlakte</li>
+    <li>terrain_word->prairie</li>
+  </NamerTundra.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[narrative_name] [terrain_word]</li>
@@ -320,13 +495,21 @@
     <li>narrative_name->[Color][NaturalObject]</li>
     <li>narrative_name->[AdjectiveNaturalNeuter][BodyPart]</li>
     <li>narrative_name->[Animal]</li>
-    <li>narrative_name->[AdjectiveColor]</li>
     <li>narrative_name->[Color][Animal]</li>
     <li>narrative_name->[AdjectiveNaturalNeuter][Animal]</li>
     <li>narrative_name->[Animal][BodyPart]</li>
-    <li>narrative_name->[AdjectiveColor] [Animal]</li>
-    <li>narrative_name->[AdjectiveNaturalGendered] [Animal]</li>
-    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>narrative_nameGendered->[Color][NaturalObjectGendered]</li>
+    <li>narrative_nameGendered->[AdjectiveNaturalNeuter][BodyPartGendered]</li>
+    <li>narrative_nameGendered->[AnimalGendered]</li>
+    <li>narrative_nameGendered->[Color][AnimalGendered]</li>
+    <li>narrative_nameGendered->[AdjectiveNaturalNeuter][AnimalGendered]</li>
+    <li>narrative_nameGendered->[Animal][BodyPartGendered]</li>
+    <li>narrative_nameNeuter->[Color][NaturalObjectNeuter]</li>
+    <li>narrative_nameNeuter->[AdjectiveNaturalNeuter][BodyPartNeuter]</li>
+    <li>narrative_nameNeuter->[AnimalNeuter]</li>
+    <li>narrative_nameNeuter->[Color][AnimalNeuter]</li>
+    <li>narrative_nameNeuter->[AdjectiveNaturalNeuter][AnimalNeuter]</li>
+    <li>narrative_nameNeuter->[Animal][BodyPartNeuter]</li>
     <li>storyname(p=50)->[story_result] van [subject]</li>
     <li>storyname(p=2)->[BodyPart] van [subject]</li>
     <li>storyname->[Gore] van [subject]</li>

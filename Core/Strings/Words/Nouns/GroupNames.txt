@@ -1,17 +1,1 @@
-﻿bemanning
-bende
-club
-compagnie
-eenheid
-factie
-groep
-groepering
-leger
-maatschappij
-organisatie
-pak
-partij
-partners
-rij
-samenscholing
-team
+﻿//This file is meant to be empty, to prevent Rimworld from loading English words.

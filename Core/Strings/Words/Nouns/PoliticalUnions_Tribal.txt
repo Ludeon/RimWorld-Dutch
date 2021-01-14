@@ -1,16 +1,1 @@
-﻿//Common with outlanders
-union
-nation
-confederacy
-confederation
-alliance
-kin league
-covenant
-treaty
-pact
-coalition
-
-//Tribe specific
-kinship
-people
-tribe
+﻿//This file is meant to be empty, to prevent Rimworld from loading English words.

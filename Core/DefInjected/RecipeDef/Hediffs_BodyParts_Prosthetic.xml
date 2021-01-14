@@ -9,11 +9,11 @@
   <InstallCochlearImplant.jobString>Binnenoorimplantaat implanteren</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
-  <InstallJoywire.label>geluksdraad installeren</InstallJoywire.label>
+  <InstallJoywire.label>genotsdraad installeren</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>Installeert een geluksdraad.</InstallJoywire.description>
+  <InstallJoywire.description>Installeert een genotsdraad.</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>Geluksdraad installeren.</InstallJoywire.jobString>
+  <InstallJoywire.jobString>Genotsdraad installeren.</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
   <InstallPainstopper.label>pijnstopper installeren</InstallPainstopper.label>

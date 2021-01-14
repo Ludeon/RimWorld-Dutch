@@ -32,12 +32,12 @@
     <li>deflecting->glancing</li>
   -->
   <Combat_Deflect.rulePack.rulesStrings>
-    <li>r_logentry(p=0.5)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label] [deflected_result].</li>
-    <li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] [skillAdvMaybe] met [implement] [deflected_result].</li>
-    <li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] [skillAdvMaybe] [deflected_result].</li>
-    <li>r_logentry(p=0.1)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label] [deflected_result].</li>
-    <li>r_logentry(p=0.1)->[INITIATOR_definite] raakte [RECIPIENT_definite] met een [damaged_inf] van [implement] [deflected_result].</li>
-    <li>r_logentry(p=0.1)->[INITIATOR_definite] [skillAdvMaybe] gebruikte [implement] om [RECIPIENT_definite] te [damaged_inf] [deflected_result].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] [skillAdvMaybe] met [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] [skillAdvMaybe] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_label], [skillDescMelee], [damaged_past] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_label] raakte [RECIPIENT_label] met een [damaged_inf] van [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_label] [skillAdvMaybe] gebruikte [implement] om [RECIPIENT_label] te [damaged_inf] [deflected_result].</li>
     <li>skillAdvMaybe-></li>
     <li>skillAdvMaybe->[skillAdv]</li>
     <li>deflected_result->, maar [INITIATOR_possessive] [TOOL_label] [deflected]</li>
@@ -61,8 +61,8 @@
     <li>result->but the attack was cleverly avoided</li>
   -->
   <Combat_Dodge.rulePack.rulesStrings>
-    <li>r_logentry(p=0.5)->[RECIPIENT_definite] ontweek [skillAdvMaybe] [INITIATOR_definite]'s [damaged_inf] door [implement].</li>
-    <li>r_logentry(p=0.5)->[RECIPIENT_definite] ontweek [skillAdvMaybe] [INITIATOR_definite]'s [damaged_inf].</li>
+    <li>r_logentry(p=0.5)->[RECIPIENT_label] ontweek [skillAdvMaybe] [INITIATOR_label]'s [damaged_inf] door [implement].</li>
+    <li>r_logentry(p=0.5)->[RECIPIENT_label] ontweek [skillAdvMaybe] [INITIATOR_label]'s [damaged_inf].</li>
     <li>skillAdvMaybe-></li>
     <li>skillAdvMaybe->[skillAdv]</li>
     <li>result->maar [RECIPIENT_definite] sprong opzij</li>
@@ -93,26 +93,26 @@
     <li>action(p=0.3)->[INITIATOR_definite] used [implement] [skillAdv] to [damaged_inf] [RECIPIENT_definite]</li>
   -->
   <Combat_Hit.rulePack.rulesStrings>
-    <li>r_logentry(p=1.0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label] [strikeAdv].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label], [flavortext_consequence].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [strikeAdv] [RECIPIENT_definite] in [RECIPIENT_possessive] [recipient_part0_label].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [destroyed_suffix].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] met [implement].</li>
-    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] met [implement].</li>
-    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_definite] [damaged_past] [skillAdv] [RECIPIENT_definite] met [implement].</li>
+    <li>r_logentry(p=1.0)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label] [strikeAdv].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label], [skillDescMelee], [damaged_past] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label], [skillDescMelee], [damaged_past] [strikeAdv] [RECIPIENT_label] in [RECIPIENT_possessive] [recipient_part0_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] [destroyed_suffix].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] met [implement].</li>
+    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] met [implement].</li>
+    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_label] [damaged_past] [skillAdv] [RECIPIENT_label] met [implement].</li>
     <li>result(p=1,recipient_part_damaged_count==0)->en [destroyed_past] [RECIPIENT_possessive] [destroyed_targets]</li>
     <li>result(p=1,recipient_part_destroyed_count==0)->en [damaged_past] [RECIPIENT_possessive] [damaged_targets]</li>
     <li>result(p=1)->en [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets]</li>
-    <li>action(p=1.0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] met [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] raakte [RECIPIENT_definite] met een [damaged_inf] van [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], raakte [RECIPIENT_definite] met een [damaged_inf] van [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] gebruikte [INITIATOR_possessive] [implement] om [RECIPIENT_definite] te [damaged_inf]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] gebruikte [skillAdv] [INITIATOR_possessive] [implement] om [RECIPIENT_definite] te [damaged_inf]</li>
+    <li>action(p=1.0)->[INITIATOR_label] [damaged_past] [RECIPIENT_label] met [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [damaged_past] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label], [skillDescMelee], [damaged_past] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] raakte [RECIPIENT_label] met een [damaged_inf] van [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_label], [skillDescMelee], raakte [RECIPIENT_label] met een [damaged_inf] van [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_label] gebruikte [INITIATOR_possessive] [implement] om [RECIPIENT_label] te [damaged_inf]</li>
+    <li>action(p=0.3)->[INITIATOR_label] gebruikte [skillAdv] [INITIATOR_possessive] [implement] om [RECIPIENT_label] te [damaged_inf]</li>
   </Combat_Hit.rulePack.rulesStrings>
   
   <!-- EN:
@@ -135,11 +135,11 @@
     <li>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</li>
   -->
   <Combat_Miss.rulePack.rulesStrings>
-    <li>r_logentry(p=0.3)->[RECIPIENT_definite] ontweek [INITIATOR_definite]'s [WEAPON_label] [damaged_inf].</li>
-    <li>r_logentry(p=0.3)->[INITIATOR_definite] miste [RECIPIENT_definite] met een [damaged_inf] van [implement].</li>
-    <li>r_logentry(p=0.3)->[INITIATOR_definite] [failtype] tijdens een poging om [RECIPIENT_definite] te [damaged_inf] met [implement].</li>
-    <li>r_logentry(p=0.3)->[INITIATOR_definite] [failtype] toen [INITIATOR_pronoun] probeerde [RECIPIENT_definite] te [damaged_inf].</li>
-    <li>r_logentry(p=0.3)->[INITIATOR_definite] probeerde [skillAdvMaybe] om [RECIPIENT_definite] te [damaged_inf], maar [failtype].</li>
+    <li>r_logentry(p=0.3)->[RECIPIENT_label] ontweek [INITIATOR_label]'s [WEAPON_label] [damaged_inf].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] miste [RECIPIENT_label] met een [damaged_inf] van [implement].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] [failtype] tijdens een poging om [RECIPIENT_label] te [damaged_inf] met [implement].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] [failtype] toen [INITIATOR_pronoun] probeerde [RECIPIENT_label] te [damaged_inf].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] probeerde [skillAdvMaybe] om [RECIPIENT_label] te [damaged_inf], maar [failtype].</li>
     <li>skillAdvMaybe-></li>
     <li>skillAdvMaybe->[skillAdv]</li>
     <li>failtype(p=5)->miste</li>

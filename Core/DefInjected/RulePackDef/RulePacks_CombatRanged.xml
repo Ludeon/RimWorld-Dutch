@@ -34,28 +34,28 @@
     <li>fromof->of</li>
   -->
   <Combat_ExplosionImpact.rulePack.rulesStrings>
-    <li>prefix->De [blast] van [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
-    <li>prefix->De [blast] van [INITIATOR_definite]'s [WEAPON_label]</li>
-    <li>prefix->De [blast] van [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
-    <li>prefix->De [blast] van [INITIATOR_definite]'s [WEAPON_label]</li>
-    <li>prefix->[INITIATOR_definite]'s [blast]</li>
-    <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label] [blast]</li>
-    <li>prefix->[INITIATOR_definite]'s [WEAPON_label] [blast]</li>
-    <li>prefix->[INITIATOR_definite]'s [WEAPON_projectile_label]</li>
-    <li>prefix->[INITIATOR_definite]'s [WEAPON_label]</li>
-    <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
-    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [strikeAdv].</li>
-    <li>r_logentry->[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_definite]'s [damaged_targets] [strikeAdv].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [strikeAdv] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry->[RECIPIENT_definite] werd [damaged_pastperf] door [INITIATOR_definite].</li>
-    <li>r_logentry->[RECIPIENT_definite] werd [strikeAdv] [damaged_pastperf] door [INITIATOR_definite].</li>
-    <li>r_logentry->[RECIPIENT_definite] werd [damaged_pastperf].</li>
-    <li>r_logentry(p=0.001)->[RECIPIENT_definite] werd geraakt door een explosie.</li>
-    <li>r_logentry(p=0.001)->[RECIPIENT_definite] kwam terecht in een explosie.</li>
+    <li>prefix->De [blast] van [INITIATOR_label]'s [WEAPON_projectile_label]</li>
+    <li>prefix->De [blast] van [INITIATOR_label]'s [WEAPON_label]</li>
+    <li>prefix->De [blast] van [INITIATOR_label]'s [WEAPON_projectile_label]</li>
+    <li>prefix->De [blast] van [INITIATOR_label]'s [WEAPON_label]</li>
+    <li>prefix->[INITIATOR_label]'s [blast]</li>
+    <li>prefix->[INITIATOR_label]'s [WEAPON_projectile_label] [blast]</li>
+    <li>prefix->[INITIATOR_label]'s [WEAPON_label] [blast]</li>
+    <li>prefix->[INITIATOR_label]'s [WEAPON_projectile_label]</li>
+    <li>prefix->[INITIATOR_label]'s [WEAPON_label]</li>
+    <li>r_logentry->[prefix] [injured] [RECIPIENT_label].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] [strikeAdv].</li>
+    <li>r_logentry->[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets].</li>
+    <li>r_logentry->[prefix] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [RECIPIENT_label]'s [damaged_targets] [strikeAdv].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [strikeAdv] [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
+    <li>r_logentry->[RECIPIENT_label] werd [damaged_pastperf] door [INITIATOR_label].</li>
+    <li>r_logentry->[RECIPIENT_label] werd [strikeAdv] [damaged_pastperf] door [INITIATOR_label].</li>
+    <li>r_logentry->[RECIPIENT_label] werd [damaged_pastperf].</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_label] werd geraakt door een explosie.</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_label] kwam terecht in een explosie.</li>
     <li>blast->explosie</li>
     <li>blast->knal</li>
     <li>blast->schokgolf</li>
@@ -122,23 +122,23 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [destroyed_suffix].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] en [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], maar [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
-    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] werd [destroyed_pastperfect] door [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
-    <li>r_logentry->[RECIPIENT_definite]'s [destroyed_targets] werd [destroyed_pastperfect] [destroyed_suffix] door [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] en [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], maar [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s [damaged_targets] werd [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=3)->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=6)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], maar [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] raakte [RECIPIENT_definite] met een [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] raakte [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] en raakte [RECIPIENT_definite] met een [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] en raakte [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] raakte [RECIPIENT_definite] met een [WEAPON_projectile_label] die was bedoeld voor [ORIGINALTARGET_definite].</li>
+    <li>r_logentry->[INITIATOR_label]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_label]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] [destroyed_suffix].</li>
+    <li>r_logentry(p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label] en [destroyed_past] [RECIPIENT_label]'s [destroyed_targets].</li>
+    <li>r_logentry(p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label], maar [destroyed_past] [RECIPIENT_label]'s [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_label]'s [destroyed_targets] werd [destroyed_pastperfect] door [INITIATOR_label]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry->[RECIPIENT_label]'s [destroyed_targets] werd [destroyed_pastperfect] [destroyed_suffix] door [INITIATOR_label]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_label]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label] en [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label], maar [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_label]'s [damaged_targets] werd [damaged_past] by [INITIATOR_label]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=3)->[INITIATOR_label]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label], maar [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] raakte [RECIPIENT_label] met een [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label]'s [WEAPON_projectile_label] raakte [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [missed] [ORIGINALTARGET_label] en raakte [RECIPIENT_label] met een [WEAPON_projectile_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label] en raakte [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] raakte [RECIPIENT_label] met een [WEAPON_projectile_label] die was bedoeld voor [ORIGINALTARGET_label].</li>
     <li>weapon_projectile_label(p=0.05)->shot</li>
     <li>destroyed_past->verbrijzelde</li>
     <li>destroyed_past->verpulverde</li>
@@ -196,14 +196,14 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDeflect.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] en [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] werd [damaged_pastperfect] door [INITIATOR_definite]'s [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] raakte [RECIPIENT_definite][damaged_target_possessive_opt] met een [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] raakte [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] en raakte [RECIPIENT_definite][damaged_target_possessive_opt] met een [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] en raakte [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] raakte [RECIPIENT_definite][damaged_target_possessive_opt] met een [WEAPON_projectile_label] die bedoeld was voor [ORIGINALTARGET_definite] [deflected_result].</li>
+    <li>r_logentry->[INITIATOR_label]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_label][damaged_target] [deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label] en [damaged_past] [RECIPIENT_label][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_label][damaged_target_possessive_opt] werd [damaged_pastperfect] door [INITIATOR_label]'s [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] raakte [RECIPIENT_label][damaged_target_possessive_opt] met een [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label]'s [WEAPON_projectile_label] raakte [RECIPIENT_label][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] [missed] [ORIGINALTARGET_label] en raakte [RECIPIENT_label][damaged_target_possessive_opt] met een [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label] en raakte [RECIPIENT_label][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] raakte [RECIPIENT_label][damaged_target_possessive_opt] met een [WEAPON_projectile_label] die bedoeld was voor [ORIGINALTARGET_label] [deflected_result].</li>
     <li>weapon_projectile_label(p=0.05)->raakte</li>
     <li>damaged_target_possessive_opt-></li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [recipient_part_damaged0_label]</li>
@@ -249,12 +249,12 @@
     <li>verb_shot(p=0.2)->discharged</li>
   -->
   <Combat_RangedFire.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with [INITIATOR_possessive] [WEAPON_label].</li>
-    <li>r_logentry->[INITIATOR_definite] [shot] met [INITIATOR_possessive] [WEAPON_label] op [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] [shot] [aburst] met [INITIATOR_possessive] [WEAPON_label] op [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] [WEAPON_projectile_label].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] met [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>r_logentry->[INITIATOR_label] [shotat] [RECIPIENT_label] with [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>r_logentry->[INITIATOR_label] [shot] met [INITIATOR_possessive] [WEAPON_label] op [RECIPIENT_label].</li>
+    <li>r_logentry->[INITIATOR_label] [shotat] [RECIPIENT_label].</li>
+    <li>r_logentry->[INITIATOR_label] [shot] [aburst] met [INITIATOR_possessive] [WEAPON_label] op [RECIPIENT_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] [shot_a] [WEAPON_projectile_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] [shot] met [INITIATOR_possessive] [WEAPON_label].</li>
     <li>shot_a(p=2)->[verb_shot] een</li>
     <li>shot_a->[verb_shot] [skillAdv] een</li>
     <li>shot(p=2)->[verb_shot]</li>
@@ -302,10 +302,10 @@
     <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] naar [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] naar [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</li>
+    <li>r_logentry->[INITIATOR_label] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] naar [RECIPIENT_label].</li>
+    <li>r_logentry->[INITIATOR_label] [threw_a] [WEAPON_projectile_label] naar [RECIPIENT_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] [threw_a] [WEAPON_projectile_label].</li>
     <li>threw_a->[adverb_threw] [verb_threw] een</li>
     <li>threw_a(p=2)->[verb_threw] een</li>
     <li>threw(p=2)->[verb_threw]</li>
@@ -366,9 +366,9 @@
     <li>ducked->hid</li>
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed_pre].</li>
-    <li>r_logentry->[INITIATOR_definite] miste [ORIGINALTARGET_definite].</li>
-    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], waardoor [INITIATOR_definite]'s [WEAPON_projectile_label] [missed_post].</li>
+    <li>r_logentry->[INITIATOR_label]'s [WEAPON_projectile_label] [missed_pre].</li>
+    <li>r_logentry->[INITIATOR_label] miste [ORIGINALTARGET_label].</li>
+    <li>r_logentry->[ORIGINALTARGET_label] [avoidance], waardoor [INITIATOR_label]'s [WEAPON_projectile_label] [missed_post].</li>
     <li>missed_pre->miste</li>
     <li>missed_pre->miste ternauwernood</li>
     <li>missed_pre->miste ruim</li>
@@ -378,9 +378,9 @@
     <li>missed_pre->boorde zich de grond in</li>
     <li>missed_pre->ketste tegen de grond en ging verloren</li>
     <li>missed_pre->trok een geul door de grond</li>
-    <li>missed_pre(p=0.2)->vloog op millimeters afstand langs [ORIGINALTARGET_definite]</li>
-    <li>missed_pre->vloog op centimeters afstand langs [ORIGINALTARGET_definite]</li>
-    <li>missed_pre->vloog op minder dan een meter langs [ORIGINALTARGET_definite]</li>
+    <li>missed_pre(p=0.2)->vloog op millimeters afstand langs [ORIGINALTARGET_label]</li>
+    <li>missed_pre->vloog op centimeters afstand langs [ORIGINALTARGET_label]</li>
+    <li>missed_pre->vloog op minder dan een meter langs [ORIGINALTARGET_label]</li>
     <li>missed_pre->waaide van koers af</li>
     <li>missed_post->miste</li>
     <li>missed_post->ternauwernood miste</li>
@@ -391,9 +391,9 @@
     <li>missed_post->zich de grond in boorde</li>
     <li>missed_post->tegen de grond ketste en verloren ging</li>
     <li>missed_post->een geul door de grond trok</li>
-    <li>missed_post(p=0.2)->op millimeters afstand langs [ORIGINALTARGET_definite] vloog</li>
-    <li>missed_post->op centimeters afstand langs [ORIGINALTARGET_definite] vloog</li>
-    <li>missed_post->op minder dan een meter langs [ORIGINALTARGET_definite] vloog</li>
+    <li>missed_post(p=0.2)->op millimeters afstand langs [ORIGINALTARGET_label] vloog</li>
+    <li>missed_post->op centimeters afstand langs [ORIGINALTARGET_label] vloog</li>
+    <li>missed_post->op minder dan een meter langs [ORIGINALTARGET_label] vloog</li>
     <li>missed_post->van koers af waaide</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moved] opzij op [moment]</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] achter [COVER_definite]</li>

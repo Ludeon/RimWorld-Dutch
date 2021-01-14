@@ -16,16 +16,7 @@
     <li>scraped_past->skated</li>
   -->
   <Combat_DeflectIncludes.rulePack.rulesStrings>
-    <li>scraped_present->veegt</li>
-    <li>scraped_present->stuitert</li>
-    <li>scraped_present->graast</li>
-    <li>scraped_present->raakt aan</li>
-    <li>scraped_present->glijdt</li>
-    <li>scraped_past->veegde</li>
-    <li>scraped_past->stuiterde</li>
-    <li>scraped_past->graasde</li>
-    <li>scraped_past->raakte aan</li>
-    <li>scraped_past->gleed</li>
+    <!-- not used in Dutch translation -->
   </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:

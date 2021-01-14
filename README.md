@@ -4,7 +4,7 @@ This is the Dutch translation data for RimWorld.
 See this page for license info:
 http://ludeon.com/forums/index.php?topic=2933.0
 
-## Status 11-11-2020
+## Status 14-01-2021
 
 Current build version 1.2.2753
 
@@ -16,14 +16,14 @@ Translation report for Dutch
 - Def-injected translations load errors (0)
 - Backstories load errors (0)
 - Missing keyed translations (213)
-- Def-injected translations missing (6857)
-- Backstory translations missing (2313)
+- Def-injected translations missing (2605)
+- Backstory translations missing (1799)
 - Unnecessary def-injected translations (marked as NoTranslate) (0)
 - Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0)
 - Argument count mismatches (may or may not be incorrect) (0)
 - Unnecessary keyed translations (will never be used) (0)
-- Keyed translations matching English (maybe ok) (102)
-- Backstory translations matching English (maybe ok) (0)
+- Keyed translations matching English (maybe ok) (101)
+- Backstory translations matching English (maybe ok) (34)
 
 This is a long list (the report is over 10100 lines long). If you want to start helping you can do so, follow the steps in http://ludeon.com/forums/index.php?topic=2933.0
 Run the report tool once and it will give you pointers where to start exactly.

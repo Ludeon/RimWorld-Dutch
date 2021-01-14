@@ -149,7 +149,7 @@
   <!-- EN: Mining yield -->
   <Stat_MiningYield_Name>Opbrengst mijnbouw</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>Het maximale aantal voorwerpen dat bij het delven van dit materiaal wordt gewonnen. Het daadwerkelijke aantal hangt af van de vaardigheid van het kompel.</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>Het maximale aantal voorwerpen dat bij het delven van dit materiaal wordt gewonnen. Het daadwerkelijke aantal hangt af van de vaardigheid van de mijnwerker.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>Bronsoort</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->

@@ -373,18 +373,18 @@
   <HandlingFeedPatientAnimals.verb>voer</HandlingFeedPatientAnimals.verb>
   
   <!-- EN: haul corpses -->
-  <HaulCorpses.label>draag lijken</HaulCorpses.label>
+  <HaulCorpses.label>sleep lijken</HaulCorpses.label>
   <!-- EN: hauling -->
-  <HaulCorpses.gerund>dragen</HaulCorpses.gerund>
+  <HaulCorpses.gerund>slepen</HaulCorpses.gerund>
   <!-- EN: haul -->
-  <HaulCorpses.verb>draag</HaulCorpses.verb>
+  <HaulCorpses.verb>sleep</HaulCorpses.verb>
   
   <!-- EN: haul general things -->
-  <HaulGeneral.label>draag algemene dingen</HaulGeneral.label>
+  <HaulGeneral.label>sleep algemene dingen</HaulGeneral.label>
   <!-- EN: hauling -->
-  <HaulGeneral.gerund>dragen</HaulGeneral.gerund>
+  <HaulGeneral.gerund>slepen</HaulGeneral.gerund>
   <!-- EN: haul -->
-  <HaulGeneral.verb>draag</HaulGeneral.verb>
+  <HaulGeneral.verb>sleep</HaulGeneral.verb>
   
   <!-- EN: merge things -->
   <HaulMerge.label>voeg dingen samen</HaulMerge.label>

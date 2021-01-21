@@ -62,7 +62,7 @@
     <li>image(p=0.74)->een lege [ApparelGendered]</li>
     <li>image(p=0.26)->een leeg [ApparelNeuter]</li>
     <li>image->een [Shape]</li>
-    <li>image->een [Shape] surrounded by [ShapePlural]</li>
+    <li>image->een [Shape] omringd door [ShapePlural]</li>
     <li>image->een abstracte verbeelding van [ConceptAny]</li>
     <li>image->een [AdjectiveAnyGendered] abstracte vorm</li>
     <li>desc_pawn(p=12)-></li>

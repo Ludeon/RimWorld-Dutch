@@ -63,8 +63,8 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] met [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] en [RECIPIENT_nameDef] [talkedaboutplural] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedaboutsingular] [subject] met [RECIPIENT_nameDef].</li>
     <li>talkedaboutsingular->deelde [INITIATOR_possessive] gedachten over</li>
     <li>talkedaboutsingular->deelde [INITIATOR_possessive] ideëen over</li>
     <li>talkedaboutsingular->deelde [INITIATOR_possessive] inzichten over</li>

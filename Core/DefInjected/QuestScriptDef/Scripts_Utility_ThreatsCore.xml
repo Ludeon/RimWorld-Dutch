@@ -5,7 +5,7 @@
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
     <rulesStrings>
       <li>root(priority=1,sitePart==ClimateAdjuster)->een klimaataanpassingsmachine verandert daar de regionale temperatuur met [temperatureOffset]</li>
-      <li>root(priority=1,sitePart==PsychicDroner)->een psychische dreunmachine is daar actief en afgestemd op het [affectedGender] geslacht</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->een psychische zoemmachine is daar actief en afgestemd op het [affectedGender] geslacht</li>
       <li>root(priority=1,sitePart==PsychicSuppressor)->een psychische onderdrukmachine is daar actief en afgestemd op het [affectedGender] geslacht</li>
       <li>root(priority=1,sitePart==WeatherController)->een weermachine is daar actief en forceert het weer in de hele regio tot [weather_label]</li>
       <li>root(priority=1,sitePart==SmokeSpewer)->een rookmachine is daar actief en spuwt rook over de hele regio</li>

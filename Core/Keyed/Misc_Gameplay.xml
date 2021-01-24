@@ -121,7 +121,7 @@
   <!-- EN: Wool growth -->
   <WoolGrowth>Wolgroei</WoolGrowth>
   <!-- EN: Egg progress -->
-  <EggProgress>Voortgang Ei</EggProgress>
+  <EggProgress>Voortgang ei</EggProgress>
   <!-- EN: Fertilized -->
   <Fertilized>Bevrucht</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
@@ -493,7 +493,7 @@
   <!-- EN: Fermented -->
   <Fermented>Vergist</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Voortgang: {0} ({1} over)</FermentationProgress>
+  <FermentationProgress>Voortgang: {0} ({1} resterend)</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
   <FermentationBarrelOutOfIdealTemperature>Niet-ideale temperatuur. Vergistingssnelheid: {0}</FermentationBarrelOutOfIdealTemperature>
 

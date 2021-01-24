@@ -387,7 +387,7 @@
     <li>circumstance_phrase->met een [AdjectiveFriendlyGendered] glimlach</li>
     <li>circumstance_phrase->en daarbij zachtjes licht geeft</li>
     <li>circumstance_phrase->en daarbij wordt omringd door een [AdjectiveColor] aura</li>
-    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken naar [PAWN_pronoun].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken naar [PAWN_objective].</li>
     <li>desc_sentence->[PAWN_pronoun] wordt omringd door [Quantity_adjphrase] [AnimalPlural].</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] rusten vredig.</li>
     <li>desc_sentence->[Quantity_adjphrase] [EnemyPlural] hebben groot ontzag voor het tafereel.</li>

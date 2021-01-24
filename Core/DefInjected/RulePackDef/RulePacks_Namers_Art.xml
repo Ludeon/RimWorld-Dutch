@@ -50,8 +50,8 @@
     <li>maybe_adjective->[Color]</li>
   -->
   <NamerArtCommon.rulePack.rulesStrings>
-    <li>Artwork(p=26)->ArtworkGendered</li>
-    <li>Artwork(p=16)->ArtworkNeuter</li>
+    <li>Artwork(p=26)->[ArtworkGendered]</li>
+    <li>Artwork(p=16)->[ArtworkNeuter]</li>
     <li>r_art_name(p=8)->[Artwork] [Trans] [ConceptAny]</li>
     <li>r_art_name(p=4)->[maybe_a] [maybe_adjectiveGendered] [ArtworkGendered]</li>
     <li>r_art_name->[maybe_a] [maybe_adjectiveGendered] [ConceptAnyGendered]</li>

@@ -55,7 +55,7 @@
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
   <StatsReport_ReloadRemainingChargesMultipler>Vermenigvuldigingsfactor voor resterende {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>Vermenigvuldigingsfactor voor gemoedstoestand {0}</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>Vermenigvuldigingsfactor voor stemming {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
   <StatsReport_LightMultiplier>Vermenigvuldigingsfactor voor licht {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->

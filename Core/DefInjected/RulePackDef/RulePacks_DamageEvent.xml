@@ -19,7 +19,23 @@
     <li>destroyed_present->annihilating</li>
     <li>destroyed_present->breaking</li>
   -->
-  <DamageEvent_Ceiling.rulePack.rulesStrings>TODO</DamageEvent_Ceiling.rulePack.rulesStrings>
+  <DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>damage_source->het [roof] [collapsed] op</li>
+    <li>roof->dak</li>
+    <li>roof->plafond</li>
+    <li>collapsed->stortte</li>
+    <li>collapsed->viel</li>
+    <li>collapsed->kwam omlaag</li>
+    <li>damaged_past->geraakt</li>
+    <li>damaged_past->gebutst</li>
+    <li>damaged_past->gedeukt</li>
+    <li>damaged_past->gesneden</li>
+    <li>destroyed_past->verbrijzeld</li>
+    <li>destroyed_past->vermorzeld</li>
+    <li>destroyed_past->vernietigd</li>
+    <li>destroyed_past->verpulverd</li>
+    <li>destroyed_past->gebroken</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->[fire] burned</li>
@@ -38,7 +54,23 @@
     <li>destroyed_present->cooking</li>
     <li>destroyed_present->cremating</li>
   -->
-  <DamageEvent_Fire.rulePack.rulesStrings>TODO</DamageEvent_Fire.rulePack.rulesStrings>
+  <DamageEvent_Fire.rulePack.rulesStrings>
+    <li>damage_source->[fire] verbrandde</li>
+    <li>fire(p=3)->vuur</li>
+    <li>fire(p=3)->het vuur</li>
+    <li>fire(p=3)->de vlammen</li>
+    <li>fire->hitte</li>
+    <li>fire->een steekvlam</li>
+    <li>fire->een vuurzee</li>
+    <li>damaged_past->aandgebrand</li>
+    <li>damaged_past->geroosterd</li>
+    <li>damaged_past->verschroeid</li>
+    <li>damaged_past->geblakerd</li>
+    <li>destroyed_past->verast</li>
+    <li>destroyed_past->gebraden</li>
+    <li>destroyed_past->gekookt</li>
+    <li>destroyed_past->gecremeerd</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</li>
@@ -46,7 +78,12 @@
     <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   -->
-  <DamageEvent_Include.rulePack.rulesStrings>TODO</DamageEvent_Include.rulePack.rulesStrings>
+  <DamageEvent_Include.rulePack.rulesStrings>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], waarbij [RECIPIENT_possessive] [destroyed_targets] werd [destroyed_past] .</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], waarbij [RECIPIENT_possessive] [destroyed_targets] werd [destroyed_past] and [RECIPIENT_possessive] [damaged_targets] [damaged_past].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->The [sky] opened up on</li>
@@ -63,7 +100,21 @@
     <li>light->flame</li>
     <li>light(p=0.2)->incandescence</li>
   -->
-  <DamageEvent_PowerBeam.rulePack.rulesStrings>TODO</DamageEvent_PowerBeam.rulePack.rulesStrings>
+  <DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>damage_source(p=0.6)->De [sky] opende zich over</li>
+    <li>damage_source(p=0.3)->De [skys] opende zich over</li>
+    <li>damage_source->Een enorm krachtige straal [power] [damaged_past]</li>
+    <li>damage_source->Een kolom van [light] [damaged_past]</li>
+    <li>sky->lucht</li>
+    <li>skys->wolken</li>
+    <li>sky->hemel</li>
+    <li>power->kracht</li>
+    <li>power->energie</li>
+    <li>power->hitte</li>
+    <li>light->licht</li>
+    <li>light->hitte</li>
+    <li>light->vuur</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->A [spiraling] tornado [enveloped]</li>
@@ -76,7 +127,17 @@
     <li>enveloped->engulfed</li>
     <li>enveloped->surrounded</li>
   -->
-  <DamageEvent_Tornado.rulePack.rulesStrings>TODO</DamageEvent_Tornado.rulePack.rulesStrings>
+  <DamageEvent_Tornado.rulePack.rulesStrings>
+    <li>damage_source->Een [spiraling] tornado [enveloped]</li>
+    <li>destroyed_past(p=3)->afgerukt</li>
+    <li>spiraling->kolkende</li>
+    <li>spiraling->wervelende</li>
+    <li>spiraling->ronddraaiende</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->verzwolg</li>
+    <li>enveloped->overviel</li>
+    <li>enveloped->omringde</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->[spiketrap] stabbed</li>
@@ -96,6 +157,23 @@
     <li>destroyed_present->eviscerating</li>
     <li>destroyed_present->exploding</li>
   -->
-  <DamageEvent_TrapSpike.rulePack.rulesStrings>TODO</DamageEvent_TrapSpike.rulePack.rulesStrings>
+  <DamageEvent_TrapSpike.rulePack.rulesStrings>
+    <li>damage_source->[spiketrap] stak</li>
+    <li>damage_source->[spiketrap] raakte</li>
+    <li>damage_source->[spiketrap] klapte dicht over</li>
+    <li>spiketrap(p=3)->een stelekval</li>
+    <li>spiketrap(p=3)->de stekelval</li>
+    <li>spiketrap->stekels</li>
+    <li>spiketrap->een scherpe val</li>
+    <li>spiketrap->een stekelige val</li>
+    <li>damaged_past->geperforeerd</li>
+    <li>damaged_past->doorboord</li>
+    <li>damaged_past->gepenetreerd</li>
+    <li>damaged_past->doorstoken</li>
+    <li>destroyed_past->verscheurd</li>
+    <li>destroyed_past->versnipperd</li>
+    <li>destroyed_past->doorzeefd</li>
+    <li>destroyed_past->gespleten</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
   
 </LanguageData>

@@ -3,6 +3,11 @@
   
   <!-- EN: beauty -->
   <Beauty.label>schoonheid</Beauty.label>
+  <Beauty.scoreStages.hideous.label>weerzinwekkend</Beauty.scoreStages.hideous.label>
+  <Beauty.scoreStages.ugly.label>lelijk</Beauty.scoreStages.ugly.label>
+  <Beauty.scoreStages.neutral.label>neutraal</Beauty.scoreStages.neutral.label>
+  <Beauty.scoreStages.pretty.label>aardig</Beauty.scoreStages.pretty.label>
+  <Beauty.scoreStages.beatiful.label>mooi</Beauty.scoreStages.beatiful.label>
   <!-- EN: very beautiful -->
   <Beauty.scoreStages.very_beautiful.label>heel mooi</Beauty.scoreStages.very_beautiful.label>
   <!-- EN: extremely beautiful -->
@@ -15,7 +20,10 @@
   <!-- EN: very dirty -->
   <Cleanliness.scoreStages.very_dirty.label>heel vies</Cleanliness.scoreStages.very_dirty.label>
   <!-- EN: slightly dirty -->
+  <Cleanliness.scoreStages.dirty.label>vies</Cleanliness.scoreStages.dirty.label>
   <Cleanliness.scoreStages.slightly_dirty.label>een beetje vies</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.clean.label>schoon</Cleanliness.scoreStages.clean.label>
+  <Cleanliness.scoreStages.sterile.label>steriel</Cleanliness.scoreStages.sterile.label>
   
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>voedselvergiftigingskans</FoodPoisonChance.label>
@@ -24,11 +32,15 @@
   <GraveVisitingJoyGainFactor.label>grafbezoekrecreatiefactor</GraveVisitingJoyGainFactor.label>
   
   <!-- EN: impressiveness -->
-  <Impressiveness.label>indrukwekkendheid</Impressiveness.label>
+  <Impressiveness.label>waardering</Impressiveness.label>
+  <Impressiveness.scoreStages.awful.label>vreselijk</Impressiveness.scoreStages.awful.label>
+  <Impressiveness.scoreStages.dull.label>saai</Impressiveness.scoreStages.dull.label>
+  <Impressiveness.scoreStages.mediocre.label>matig</Impressiveness.scoreStages.mediocre.label>
+  <Impressiveness.scoreStages.decent.label>kan er mee door</Impressiveness.scoreStages.decent.label>
   <!-- EN: slightly impressive -->
-  <Impressiveness.scoreStages.slightly_impressive.label>licht indrukwekkend</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>ietsje indrukwekkend</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
-  <Impressiveness.scoreStages.somewhat_impressive.label>een beetje indrukwekkend</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>enigszins indrukwekkend</Impressiveness.scoreStages.somewhat_impressive.label>
   <!-- EN: very impressive -->
   <Impressiveness.scoreStages.very_impressive.label>indrukwekkend</Impressiveness.scoreStages.very_impressive.label>
   <!-- EN: extremely impressive -->
@@ -46,31 +58,37 @@
   
   <!-- EN: space -->
   <Space.label>ruimte</Space.label>
+  <Space.scoreStages.cramped.label>bekrompen</Space.scoreStages.cramped.label>
   <!-- EN: rather tight -->
-  <Space.scoreStages.rather_tight.label>claustrofobisch</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.rather_tight.label>krapjes</Space.scoreStages.rather_tight.label>
   <!-- EN: somewhat spacious -->
-  <Space.scoreStages.somewhat_spacious.label>een beetje ruimte</Space.scoreStages.somewhat_spacious.label>
+  <Space.scoreStages.averagesized.label>middelgroot</Space.scoreStages.averagesized.label>
+  <Space.scoreStages.somewhat_spacious.label>een beetje ruim</Space.scoreStages.somewhat_spacious.label>
   <!-- EN: quite spacious -->
-  <Space.scoreStages.quite_spacious.label>best ruimtelijk</Space.scoreStages.quite_spacious.label>
+  <Space.scoreStages.quite_spacious.label>best ruim</Space.scoreStages.quite_spacious.label>
   <!-- EN: very spacious -->
-  <Space.scoreStages.very_spacious.label>erg ruimtelijk</Space.scoreStages.very_spacious.label>
+  <Space.scoreStages.very_spacious.label>erg ruim</Space.scoreStages.very_spacious.label>
   <!-- EN: extremely spacious -->
-  <Space.scoreStages.extremely_spacious.label>enorm ruimtelijk</Space.scoreStages.extremely_spacious.label>
+  <Space.scoreStages.extremely_spacious.label>enorm ruim</Space.scoreStages.extremely_spacious.label>
   
   <!-- EN: surgery success chance cleanliness factor -->
   <SurgerySuccessChanceCleanlinessFactor.label>chirurgie succeskans door netheidsfactor</SurgerySuccessChanceCleanlinessFactor.label>
   
   <!-- EN: wealth -->
-  <Wealth.label>waarde</Wealth.label>
+  <Wealth.label>rijkdom</Wealth.label>
+  <Wealth.scoreStages.impoverished.label>armzalig</Wealth.scoreStages.impoverished.label>
   <!-- EN: somewhat poor -->
-  <Wealth.scoreStages.somewhat_poor.label>armzalig</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.somewhat_poor.label>redelijk arm</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.mediocre.label>matig</Wealth.scoreStages.mediocre.label>
   <!-- EN: somewhat rich -->
   <Wealth.scoreStages.somewhat_rich.label>een beetje rijk</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.rich.label>rijk</Wealth.scoreStages.rich.label>
   <!-- EN: very luxurious -->
-  <Wealth.scoreStages.very_luxurious.label>luxe</Wealth.scoreStages.very_luxurious.label>
+  <Wealth.scoreStages.luxurious.label>luxe</Wealth.scoreStages.luxurious.label>
+  <Wealth.scoreStages.very_luxurious.label>erg luxe</Wealth.scoreStages.very_luxurious.label>
   <!-- EN: extremely luxurious -->
-  <Wealth.scoreStages.extremely_luxurious.label>erg luxe</Wealth.scoreStages.extremely_luxurious.label>
+  <Wealth.scoreStages.extremely_luxurious.label>extreem luxe</Wealth.scoreStages.extremely_luxurious.label>
   <!-- EN: unbelievably luxurious -->
-  <Wealth.scoreStages.unbelievably_luxurious.label>enorm luxe</Wealth.scoreStages.unbelievably_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>ongelooflijk luxe</Wealth.scoreStages.unbelievably_luxurious.label>
   
 </LanguageData>

@@ -863,9 +863,9 @@
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>Frequentie</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>Alleen als de gemoedstoestand lager is dan</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>Alleen als de stemming lager is dan</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>Alleen als het recreatieniveau lager is dan</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Alleen als het plezierniveau lager is dan</JoyThresholdColumnLabel>
   <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>Opnemen in de inventarisatie</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
@@ -887,9 +887,9 @@
   <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>Hoe vaak de kolonisten mogen proberen deze drug in te nemen.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>De kolonisten zullen deze drug alleen gebruiken als hun gemoedstoestand onder deze drempel ligt.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>De kolonisten zullen deze drug alleen gebruiken als hun stemming onder deze drempel ligt.</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>De kolonisten zullen deze drug alleen gebruiken als hun recreatieniveau onder deze drempel ligt.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>De kolonisten zullen deze drug alleen gebruiken als hun plezierniveau onder deze drempel ligt.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>Een hoeveelheid van de drug om extra op te halen bij het verzamelen voor consumptie, om te voorkomen de drugsvoorraad elke keer weer te moet bezoeken.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->

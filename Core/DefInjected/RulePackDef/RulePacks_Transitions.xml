@@ -18,16 +18,16 @@
   <Transition_Died.rulePack.rulesStrings>
     <li>die(SUBJECT_flesh!=Mechanoid,p=2)->sterven</li>
     <li>die(SUBJECT_flesh!=Mechanoid)->vergaan</li>
-    <li>die(SUBJECT_flesh!=Mechanoid)->eindigen</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->omkomen</li>
     <li>die(SUBJECT_flesh==Mechanoid)->afsluiten</li>
-    <li>die(SUBJECT_flesh==Mechanoid)->stop met functioneren</li>
-    <li>die(SUBJECT_flesh==Mechanoid)->batterij raakt leeg</li>
-    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->gestorven</li>
-    <li>died(SUBJECT_flesh!=Mechanoid)->vergaan</li>
-    <li>died(SUBJECT_flesh!=Mechanoid)->beëindigd</li>
-    <li>died(SUBJECT_flesh==Mechanoid)->afgesloten</li>
-    <li>died(SUBJECT_flesh==Mechanoid)->gestopt met functioneren</li>
-    <li>died(SUBJECT_flesh==Mechanoid)->batterij is leeg</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->stoppen met functioneren</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->uitvallen</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->stierf</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->verging</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->kwam om</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->sloot af</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->stopte met functioneren</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->viel uit</li>
   </Transition_Died.rulePack.rulesStrings>
   
   <!-- EN:
@@ -60,18 +60,15 @@
     <li>everywhere->far and wide</li>
   -->
   <Transition_DiedExplosive.rulePack.rulesStrings>
-    <li>die(p=3)->ontploft [flavor]</li>
-    <li>die(p=3)->ontploft [flavorsuffix]</li>
-    <li>die->deed ontploffen [flavor]</li>
-    <li>die->deed ontploffen [flavorsuffix]</li>
-    <li>die->barstte [flavor]</li>
-    <li>die->barstte [flavorsuffix]</li>
-    <li>died(p=3)->ontplofte [flavor]</li>
-    <li>died->deed ontploffen [flavor]</li>
-    <li>died->barstte [flavor]</li>
+    <li>die(p=3)->[flavor] ontploffen</li>
+    <li>die(p=3)->[flavorsuffix] ontploffen</li>
+    <li>die->[flavor] uiteenspatten</li>
+    <li>die->[flavorsuffix] uiteenspatten</li>
+    <li>die(p=3)->ontplofte [flavor]</li>
+    <li>die->spatte [flavor] uiteen</li>
     <li>flavor(p=0.2)->in een chemische [fireball]</li>
-    <li>flavor->in een [Color] [fireball]</li>
-    <li>flavor->in een [AdjectiveLarge] [fireball]</li>
+    <li>flavor->in een [ColorAdjective] [fireball]</li>
+    <li>flavor->in een [AdjectiveLargeGendered] [fireball]</li>
     <li>flavor(p=4)->in een [fireball]</li>
     <li>flavor(p=4)-></li>
     <li>flavorsuffix->, [pieces] [everywhere] verspreid</li>
@@ -86,7 +83,7 @@
     <li>pieces->stukjes</li>
     <li>pieces->fragmenten</li>
     <li>everywhere->overal</li>
-    <li>everywhere->heinde en verre</li>
+    <li>everywhere->alom</li>
   </Transition_DiedExplosive.rulePack.rulesStrings>
   
   <!-- EN:
@@ -97,7 +94,14 @@
     <li>r_logentry->[SUBJECT_definite] [died].</li>
     <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
   -->
-  <Transition_DiedInclude.rulePack.rulesStrings>TODO</Transition_DiedInclude.rulePack.rulesStrings>
+  <Transition_DiedInclude.rulePack.rulesStrings>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] was verantwoordelijk voor het [die] van [SUBJECT_definite].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] was verantwoordelijk voor het [die] van [SUBJECT_definite].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
@@ -129,7 +133,36 @@
     <li>collapsedmeta->[collapsed]</li>
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
-  <Transition_Downed.rulePack.rulesStrings>TODO</Transition_Downed.rulePack.rulesStrings>
+  <Transition_Downed.rulePack.rulesStrings>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] was verantwoordelijk voor het [collapsemeta] van [SUBJECT_definite].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] was verantwoordelijk voor het [collapsemeta] van [SUBJECT_definite].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] deed [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] deed [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>collapse->ineenzakken</li>
+    <li>collapse->neervallen</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)->creperen</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->crashen</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->vastlopen</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->uitvallen</li>
+    <li>collapsed->zakte ineen</li>
+    <li>collapsed->viel neer</li>
+    <li>collapsed(SUBJECT_flesh!=Mechanoid)->crepeerde</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->crashte</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->liep vast</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->viel uit</li>
+    <li>helplessly->hulpeloos</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->buiten bewustzijn</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->zwak</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->zwakjes</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)->door een systeemfout</li>
+    <li>collapsemeta->[collapse]</li>
+    <li>collapsemeta(p=0.5)->[helplessly] [collapse]</li>
+    <li>collapsedmeta->[collapsed]</li>
+    <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
+  </Transition_Downed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>duetoa->due to</li>

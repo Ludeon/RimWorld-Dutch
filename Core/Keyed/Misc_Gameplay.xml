@@ -25,7 +25,7 @@
   <!-- EN: Assigned colonist -->
   <AssignedColonist>Toegewezen kolonist</AssignedColonist>
   <!-- EN: Died on the {0} -->
-  <DiedOn>Gestorven op de {0}</DiedOn>
+  <DiedOn>Gestorven op {0}</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>Niemand</Nobody>
   <!-- EN: Unowned -->
@@ -663,7 +663,7 @@
   <!-- EN: Darkness -->
   <Darkness>Duisternis</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>Kwetsbaarheid doel</TargetProne>
+  <TargetProne>Doel ligt op de grond</TargetProne>
   <!-- EN: Target size -->
   <TargetSize>Grootte doel</TargetSize>
   <!-- EN: Weather -->
@@ -683,11 +683,11 @@
   <!-- EN: Make {0}. -->
   <RecipeMakeDescription>Maak {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>Maken van {0}.</RecipeMakeJobString>
+  <RecipeMakeJobString>{0} aan het maken.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>administreren van {0}</RecipeAdminister>
+  <RecipeAdminister>{0} toedienen</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>{0} beheren.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>{0} aan het toedienen.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>geheelonthouder zal ongelukkig zijn</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->

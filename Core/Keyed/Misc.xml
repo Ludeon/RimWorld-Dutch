@@ -114,22 +114,22 @@
   <DeadLabel>{1_label} (dood)</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>ruwe {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>ruw {0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>Ruwe, natuurlijke {0} grond.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>Ruwe, natuurlijke bodem van {0}.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>Grof uitgehakte {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>grof uitgehakt {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Grof uitgehakte natuurlijke {0} floor.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>gladde {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>glad {0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Gladde, natuurlijke vloer van {0}</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra>(blauwdruk)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (blauwdruk)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (wordt gebouwd)</FrameLabelExtra>
+  <FrameLabelExtra> (in aanbouw)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Onafhankelijk</FactionUnaffiliated>
@@ -140,7 +140,7 @@
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{PAWN_labelShort}'s {1} </SomeonesRoom>
+  <SomeonesRoom>{PAWN_labelShort}'s {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{PAWN1_labelShort} en {PAWN2_labelShort}'s {2}</CouplesRoom>
   

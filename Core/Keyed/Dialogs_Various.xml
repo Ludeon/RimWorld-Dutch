@@ -485,7 +485,7 @@
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Schoten voor het opnieuw bewapenen</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>Hoeveel schoten deze geschutskoepel kan afvuren voordat hij opnieuw bewapend moet worden.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Hoeveel schoten dit afweergeschut kan afvuren voordat het opnieuw bewapend moet worden.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>Stroomverbruik</PowerConsumption>
   <!-- EN: Target -->

@@ -41,9 +41,9 @@
   <PoweredArmor.description>Maak een marinierspantser, normaal gebruikt door high-tech aanvalstroepen. Let op: vereist geavanceerde componenten.</PoweredArmor.description>
   
   <!-- EN: recon armor -->
-  <ReconArmor.label>verkennersharnas</ReconArmor.label>
+  <ReconArmor.label>verkenningspantser</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
-  <ReconArmor.description>Maak een verkennersharnas, een licht harnas gebruikt door verkenners die bescherming nodig hebben die hun bewegingsvrijheid niet beperkt. Let op: vereist geavanceerde componenten.</ReconArmor.description>
+  <ReconArmor.description>Maak een verkenningspantser, een licht pantser gebruikt door verkenners die bescherming nodig hebben die hun bewegingsvrijheid niet beperkt. Let op: vereist geavanceerde componenten.</ReconArmor.description>
   
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>uraniumkanon</SniperTurret.label>

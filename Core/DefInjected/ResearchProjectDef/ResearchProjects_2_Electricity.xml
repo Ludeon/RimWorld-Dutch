@@ -54,12 +54,12 @@
   <!-- EN: geothermal power -->
   <GeothermalPower.label>geothermische energie</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>Bouw geothermische generators op geysers, voor ononderbroken energieverzorging.</GeothermalPower.description>
+  <GeothermalPower.description>Bouw geothermische generators op geisers, voor een ononderbroken energievoorziening.</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>wapensmeden</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>Maak eenvoudige handmatig geladen wapens, zoals revolvers, pompjachtgeweren, grendelgeweren, en brandwerpers.</Gunsmithing.description>
+  <Gunsmithing.description>Maak eenvoudige handmatig geladen wapens, zoals revolvers, pomp shotguns, grendelgeweren, en brandwerpers.</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
   <GunTurrets.label>afweergeschut</GunTurrets.label>
@@ -79,7 +79,7 @@
   <!-- EN: machining -->
   <Machining.label>machinetafel</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
-  <Machining.description>Bouw machinetafels om wapens, granaten, flakharnassen kunt maken. En mechanoïden kunnen worden omgezet in bruikbaare grondstoffen.</Machining.description>
+  <Machining.description>Bouw machinetafels om wapens, granaten en flakbepantsering te maken, en om mechanoïden om te zetten in bruikbare grondstoffen.</Machining.description>
   
   <!-- EN: mortars -->
   <Mortars.label>mortieren</Mortars.label>
@@ -89,7 +89,7 @@
   <!-- EN: nutrient paste -->
   <NutrientPaste.label>voedingspasta</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
-  <NutrientPaste.description>Bouw voedingspasta machines die efficïent eetbare maaltijden kunne produceren van rauwe ingrediënten, zonder handmatige inspanning.</NutrientPaste.description>
+  <NutrientPaste.description>Bouw voedingspasta machines die efficiënt eetbare maaltijden kunne produceren van rauwe ingrediënten, zonder handmatige inspanning.</NutrientPaste.description>
   
   <!-- EN: packaged survival meal -->
   <PackagedSurvivalMeal.label>overlevingsmaaltijdpakket</PackagedSurvivalMeal.label>
@@ -114,12 +114,12 @@
   <!-- EN: sterile materials -->
   <SterileMaterials.label>steriel materiaal</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
-  <SterileMaterials.description>Maak steriele tegels om schone kamers te maken voor effectievere medische verzorging, onderzoek, en maaltijden koken.</SterileMaterials.description>
+  <SterileMaterials.description>Maak steriele tegels om schone kamers te maken voor effectievere medische verzorging, sneller onderzoek en betere hygiëne bij het koken.</SterileMaterials.description>
   
   <!-- EN: tube television -->
   <TubeTelevision.label>beeldbuistelevisie</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>Produceer beeldbuistelevisies om plezier op te bouwen tijdens het kijken.</TubeTelevision.description>
+  <TubeTelevision.description>Produceer beeldbuistelevisies voor recreatief gebruik.</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>watermolen</WatermillGenerator.label>

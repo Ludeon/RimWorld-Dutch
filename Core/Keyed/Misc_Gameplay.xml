@@ -825,11 +825,11 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Beschoten door {1_labelShort}</ShotBy>
+  <ShotBy>Trefkans van {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>Kan het doel niet raken.</CannotHit>
+  <CannotHit>Kan dit doel niet raken.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>Mensenjagerkans per treffer</ManhunterPerHit>
+  <ManhunterPerHit>Klopjagerkans per treffer</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->

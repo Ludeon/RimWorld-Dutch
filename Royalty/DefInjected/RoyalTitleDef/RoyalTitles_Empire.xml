@@ -2,68 +2,68 @@
 <LanguageData>
   
   <!-- EN: baron -->
-  <Baron.label>TODO</Baron.label>
+  <Baron.label>baron</Baron.label>
   <!-- EN: The title of baron is the lowest of the middle nobility. While lower titles focus on personal service at war or commerce under a lord, barons hold title as semi-independent rulers. Each baron is subordinate to his liege lord, but his obligations are mostly in supplying wealth and troops, and not in personal service.\n\nIn the Empire, a baron will typically own a city sector, mining colony, or similar outfit. At wartime, a baron may captain a capital ship in name, or control a regiment of troops. -->
-  <Baron.description>TODO</Baron.description>
+  <Baron.description>De titel "baron" is de laagste van de adellijke middenstand. Terwijl lagere titels zich richten op persoonlijke dienst in oorlog of handel onder een heer, zijn baronnen semi-onafhankelijke heersers. Elke baron is ondergeschikt aan zijn leenheer, maar zijn verplichtingen bestaan voornamelijk uit het leveren van rijkdom en troepen, en niet uit persoonlijke dienst.\n\nIn het rijk bezit een baron normaliter een stadssector, mijnkolonie of iets dergelijks. In oorlogstijd kan een baron in naam een gevechtsschip aanvoeren of een regiment troepen besturen.</Baron.description>
   <!-- EN: baroness -->
-  <Baron.labelFemale>TODO</Baron.labelFemale>
+  <Baron.labelFemale>barones</Baron.labelFemale>
   
   <!-- EN: consul -->
-  <Consul.label>TODO</Consul.label>
+  <Consul.label>consul</Consul.label>
   <!-- EN: The Imperial title of consul is a lower level of high nobility.\n\nIn the Empire, consuls control planets. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets. Some command from a super-capital ship or control space-based megastructures. -->
-  <Consul.description>TODO</Consul.description>
+  <Consul.description>De keizerlijke titel "consul" is een lager niveau van hoge adel.\n\nIn het rijk controleren consuls planeten. Tijdens een oorlog kan een consul gewoonlijk een leger ter grootte van meerdere divisies inzetten, ondersteund door verschillende vloten. Sommigen voeren het bevel vanaf een superschip of besturen megastructuren in de ruimte.</Consul.description>
   
   <!-- EN: count -->
-  <Count.label>TODO</Count.label>
+  <Count.label>graaf</Count.label>
   <!-- EN: The title of count is the middle rank of middle nobility.\n\nIn peacetime, counts hold title to a city or colony, and might have a small personal fleet, possibly including capital ships. -->
-  <Count.description>TODO</Count.description>
+  <Count.description>De titel "graaf" is de middelste rang van de adellijke middenstand.\n\nIn vredestijd hebben de graven zeggenschap over een stad of kolonie, en ze kunnen een kleine persoonlijke vloot hebben, mogelijk inclusief gevechtsschepen.</Count.description>
   <!-- EN: countess -->
-  <Count.labelFemale>TODO</Count.labelFemale>
+  <Count.labelFemale>gravin</Count.labelFemale>
   
   <!-- EN: duke -->
-  <Duke.label>TODO</Duke.label>
+  <Duke.label>hertog</Duke.label>
   <!-- EN: The Imperial title of duke is the highest of the middle nobility.\n\nIn the Empire, dukes control provinces, mega-cities, or moons. At war, a duke can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
-  <Duke.description>TODO</Duke.description>
+  <Duke.description>De keizerlijke titel "hertog" is de hoogste van de adellijke middenstand.\n\nIn het rijk beheren hertogen provincies, megasteden of manen. In oorlog kan een hertog een strijdmacht op divisieniveau inzetten, of een vloot met gevechtsschepen en tientallen ondersteuningsvaartuigen.</Duke.description>
   <!-- EN: duchess -->
-  <Duke.labelFemale>TODO</Duke.labelFemale>
+  <Duke.labelFemale>hertogin</Duke.labelFemale>
   
   <!-- EN: emperor -->
-  <Emperor.label>TODO</Emperor.label>
+  <Emperor.label>keizer</Emperor.label>
   <!-- EN: The Imperial title of emperor indicates sovereign dominion over the entire Empire, all its peoples, planets, and fleets. All other lords swear fealty to a high lord, while the Emperor swears fealty to no one. However, even the Emperor depends on the support of lower nobles to remain in power. -->
-  <Emperor.description>TODO</Emperor.description>
+  <Emperor.description>De keizerlijke titel "keizer" duidt op soevereine heerschappij over het hele rijk, al zijn volkeren, planeten en vloten. Alle andere heren zweren trouw aan een hogere heer, terwijl de keizer trouw zweert aan niemand. Maar zelfs de keizer is afhankelijk van de steun van lagere edelen om aan de macht te blijven.</Emperor.description>
   <!-- EN: empress -->
-  <Emperor.labelFemale>TODO</Emperor.labelFemale>
+  <Emperor.labelFemale>keizerin</Emperor.labelFemale>
   
   <!-- EN: acolyte -->
-  <Esquire.label>TODO</Esquire.label>
+  <Esquire.label>acoliet</Esquire.label>
   <!-- EN: The title of acolyte is the first title of noble duty, an encompasses a wide range of practical positions. Some acolytes are purely students, learning to lead troops, manage societies, or use psycasts in specialized schools. Others come from wealthy families and might own city buildings or farm complexes.\n\nDuring wartime, an acolyte might lead a platoon of troops, captain a small frigate, or serve their lord as an advisor.\n\nTheir low rank within the nobility makes them paradoxically less useful as diplomats than yeomen. Sending a low-ranked acolyte to a negotiation can itself be seen as an insult, whereas a non-noble yeoman negotiator is seen only as the mouthpiece of his lord. -->
-  <Esquire.description>TODO</Esquire.description>
+  <Esquire.description>De titel "acoliet" is de eerste titel van adellijke plicht, en omvat een breed scala aan praktische functies. Sommige acolieten zijn puur studenten, leren troepen te leiden, samenlevingen te beheren of paranormale krachten te gebruiken op gespecialiseerde scholen. Anderen komen uit rijke families en bezitten mogelijk stadsgebouwen of boerderijcomplexen.\n\nTijdens oorlogstijd kunnen acolieten een peloton troepen leiden, een klein fregat aanvoeren of hun heer dienen als adviseur.\n\nHun lage rang binnen de adel maakt ze paradoxaal genoeg minder nuttig als diplomaten dan rijksdienaars. Een laaggeplaatste acoliet naar een onderhandeling sturen kan op zichzelf als een belediging worden gezien, terwijl een niet-nobele onderhandelaar alleen wordt gezien als de spreekbuis van zijn heer.</Esquire.description>
   
   <!-- EN: freeholder -->
-  <Freeholder.label>TODO</Freeholder.label>
+  <Freeholder.label>bezitter</Freeholder.label>
   <!-- EN: The Imperial title of freeholder is used by the Empire to signifies a fully-respected individual. Most Imperial citizens earn it while young through volunteer work or military service. The title is also offered to outsiders who act with honor in the eyes of the Empire. -->
-  <Freeholder.description>TODO</Freeholder.description>
+  <Freeholder.description>De keizerlijke titel "bezitter" wordt door het rijk gebruikt om een volledig gerespecteerd persoon aan te duiden. De meeste keizerlijke burgers verdienen het terwijl ze jong zijn door vrijwilligerswerk of militaire dienst. De titel wordt ook aangeboden aan buitenstaanders die in de ogen van het rijk eervol handelen.</Freeholder.description>
   
   <!-- EN: knight -->
-  <Knight.label>TODO</Knight.label>
+  <Knight.label>ridder</Knight.label>
   <!-- EN: The title of knight is held by nobles who have largely passed their training, but who have not ascended to higher leadership roles. Many knights never advance further, and spend their lives as respected managers, advisors, or warriors.\n\nMost knights have some wealth, but a few remain quite poor while others may be very rich.\n\nIn peacetime, a knight may manage a factory complex, commercial district, or small farming region. In war, some knights lead troop companies and assault squadrons, while psychic-focused knights engage in espionage, sabotage, and battlefield psychic combat. -->
-  <Knight.description>TODO</Knight.description>
+  <Knight.description>De titel "ridder" wordt bekleed door edelen die hun opleiding grotendeels hebben afgerond, maar die niet zijn opgeklommen naar hogere leiderschapsrollen. Veel ridders komen nooit verder en brengen hun leven door als gerespecteerde managers, adviseurs of krijgers.\n\nDe meeste ridders hebben wat rijkdom, maar een paar blijven vrij arm, terwijl anderen heel rijk kunnen zijn.\n\nIn vredestijd kan een ridder een fabriekscomplex, een commercieel district of een kleine landbouwregio beheren. In oorlog leiden sommige ridders regimenten en aanvalseskaders, terwijl paranormaal begaafde ridders zich bezighouden met spionage, sabotage en paranormale gevechten op het slagveld.</Knight.description>
   <!-- EN: dame -->
-  <Knight.labelFemale>TODO</Knight.labelFemale>
+  <Knight.labelFemale>dame</Knight.labelFemale>
   
   <!-- EN: praetor -->
-  <Praetor.label>TODO</Praetor.label>
+  <Praetor.label>praetor</Praetor.label>
   <!-- EN: The title of praetor is a bridge between the service-oriented lower titles below and the power-holding nobility above.\n\nDuring peacetime, a prateor will usually manage a city district, asteroid sector, or agricultural region. During war, they take authority over the smallest combat units that fight independently - terrestrial troop cohorts, or space-borne destroyers or combat groups. -->
-  <Praetor.description>TODO</Praetor.description>
+  <Praetor.description>De titel van praetor is een brug tussen de servicegerichte lagere titels hieronder en de machthebbende adel hierboven. \ N \ nTijdens vredestijd beheert een prateor meestal een stadsdeel, asteroïdensector of landbouwgebied. Tijdens de oorlog nemen ze het gezag over de kleinste gevechtseenheden die onafhankelijk vechten: landtroepen, of door de ruimte gedragen torpedobootjagers of gevechtsgroepen.</Praetor.description>
   
   <!-- EN: stellarch -->
-  <Stellarch.label>TODO</Stellarch.label>
+  <Stellarch.label>stellarch</Stellarch.label>
   <!-- EN: The Imperial title of stellarch represents dominion over an entire star system.\n\nIn the Empire, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him. -->
-  <Stellarch.description>TODO</Stellarch.description>
+  <Stellarch.description>De keizerlijke titel "stellarch" vertegenwoordigt heerschappij over een heel sterrenstelsel.\n\nIn het rijk regeren stellarchen, aangezien de interstellaire reistijden jaren lang zijn, met een grote mate van onafhankelijkheid over hun stelsels. Ze zweren allemaal trouw aan de keizer, maar aangezien de keizer vele lichtjaren verwijderd kan zijn, kan een stellarch jaren of zelfs decennia zonder interactie met hem doorbrengen.</Stellarch.description>
   
   <!-- EN: yeoman -->
-  <Yeoman.label>TODO</Yeoman.label>
+  <Yeoman.label>rijksdienaar</Yeoman.label>
   <!-- EN: The Imperial title of yeoman is held by those who serve a noble lord in an important, specific way. While it is not a noble title, it does give the holder the right to use low-level psychic abilities.\n\nThis title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals. Many important people spend their entire lives as yeomen, seeking success outside the strictures of nobility. -->
-  <Yeoman.description>TODO</Yeoman.description>
+  <Yeoman.description>De keizerlijke titel "rijksdienaar" wordt gehouden door degenen die een nobele heer op een belangrijke, specifieke manier dienen. Hoewel het geen adellijke titel is, geeft het de houder wel het recht om paranormale gaven op laag niveau te gebruiken.\n\nDeze titel wordt vaak bekleed door hoge soldaten, piloten van gevechtsvoertuigen, spionnen, adviseurs, diplomaten, agenten van inlichtingendiensten en andere belangrijke individuen. Veel belangrijke mensen brengen hun hele leven als rijksdienaaren door, op zoek naar succes buiten de beperkingen van de adel.</Yeoman.description>
   
 </LanguageData>

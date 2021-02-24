@@ -420,7 +420,7 @@
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>Laad lanceergroep als groep {0}</CommandLoadTransporter>
+  <CommandLoadTransporter>Laad lanceergroep van {0}</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterDesc>Definieert de geselecteerde transporter(s) als een lanceergroep. Opent het laadvenster zodat u kunt beslissen wie en wat erin geladen moet worden.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->

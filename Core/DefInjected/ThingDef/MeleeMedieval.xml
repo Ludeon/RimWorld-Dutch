@@ -13,9 +13,9 @@
   <MeleeWeapon_Gladius.tools.edge.label>lemmet</MeleeWeapon_Gladius.tools.edge.label>
   
   <!-- EN: longsword -->
-  <MeleeWeapon_LongSword.label>langzwaard</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.label>zwaard</MeleeWeapon_LongSword.label>
   <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
-  <MeleeWeapon_LongSword.description>Het klassieke wapen van koningen, het langzwaard kan worden gebruikt om te slaan of steken.</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.description>Het klassieke wapen uit de middeleeuwen. Een zwaard kan worden gebruikt om te slaan of steken.</MeleeWeapon_LongSword.description>
   <!-- EN: handle -->
   <MeleeWeapon_LongSword.tools.handle.label>hilt</MeleeWeapon_LongSword.tools.handle.label>
   <!-- EN: point -->

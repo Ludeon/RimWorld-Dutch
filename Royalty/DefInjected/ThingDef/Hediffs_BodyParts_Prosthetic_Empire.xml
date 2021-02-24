@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: drill arm -->
-  <DrillArm.label>TODO</DrillArm.label>
+  <DrillArm.label>boorarm</DrillArm.label>
   <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <DrillArm.description>TODO</DrillArm.description>
+  <DrillArm.description>Een vervanging van een mechanische arm om de mijnbouw te versnellen. Het heeft een ingebouwde boorslang, waarmee de mijnwerker snel zwakke lijnen in de rots kan vinden en exploiteren. Het heeft ook een manipulator voor algemeen gebruik. Het is ietwat lomp, wat de beweging enigszins vertraagt.</DrillArm.description>
   
   <!-- EN: elbow blade -->
-  <ElbowBlade.label>TODO</ElbowBlade.label>
+  <ElbowBlade.label>elleboogsnijblad</ElbowBlade.label>
   <!-- EN: A razor-sharp blade that extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
-  <ElbowBlade.description>TODO</ElbowBlade.description>
+  <ElbowBlade.description>Een vlijmscherp mes dat naar believen kan worden uitgeschoven vanuit een verborgen opening aan het uiteinde van de ellepijp. Het verschijnt zonder waarschuwing en kan worden gebruikt voor verwoestende snij-aanvallen.</ElbowBlade.description>
   
   <!-- EN: field hand -->
-  <FieldHand.label>TODO</FieldHand.label>
+  <FieldHand.label>landbouwhand</FieldHand.label>
   <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <FieldHand.description>TODO</FieldHand.description>
+  <FieldHand.description>Deze mechanische handvervanger is gemaakt om de zaai- en oogsttaken van een boer te versnellen. Meerdere telescopische vingervormige uitsteeksels kunnen tegelijkertijd op verschillende punten op dezelfde plant oogsten of precies meerdere gaten tegelijk zaaien. Het heeft ook een manipulator voor algemeen gebruik. Het is ietwat lomp, wat de beweging enigszins vertraagt.</FieldHand.description>
   
   <!-- EN: hand talon -->
-  <HandTalon.label>TODO</HandTalon.label>
+  <HandTalon.label>hand klauw</HandTalon.label>
   <!-- EN: A razor-sharp talon which extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
-  <HandTalon.description>TODO</HandTalon.description>
+  <HandTalon.description>Een vlijmscherpe klauw die kan worden uitgeschoven vanuit een verborgen opening tussen de middel- en ringvinger. De klauw is langer dan de handpalm, maar wordt flexibel bij het intrekken, waardoor de gebruiker deze kan opkrullen en in de hand kan verbergen. Het kan snelle aanvallen uitvoeren, maar is slecht in het doordringen van bepantsering.</HandTalon.description>
   
   <!-- EN: knee spike -->
-  <KneeSpike.label>TODO</KneeSpike.label>
+  <KneeSpike.label>kniespies</KneeSpike.label>
   <!-- EN: A spike that extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
-  <KneeSpike.description>TODO</KneeSpike.description>
+  <KneeSpike.description>Een spies die naar believen kan worden uitgeschoven vanuit een verborgen opening aan de voorkant van de knie. Het verschijnt zonder waarschuwing en kan worden gebruikt voor verwoestende steekaanvallen die zelfs door dikke bepantsering heen dringen.</KneeSpike.description>
   
   <!-- EN: mindscrew -->
-  <Mindscrew.label>TODO</Mindscrew.label>
+  <Mindscrew.label>geestwurger</Mindscrew.label>
   <!-- EN: Inflicts continuous pain on the user. Mindscrews are used by some authorities as a long-term punishment. Some even install them voluntarily as a demonstration of ideological or religious devotion. -->
-  <Mindscrew.description>TODO</Mindscrew.description>
+  <Mindscrew.description>Veroorzaakt constante pijn bij de gebruiker. Geestwurgers worden door sommige autoriteiten gebruikt als een langdurige straf. Sommigen installeren ze zelfs vrijwillig als een demonstratie van ideologische of religieuze toewijding.</Mindscrew.description>
   
   <!-- EN: venom fangs -->
-  <VenomFangs.label>TODO</VenomFangs.label>
+  <VenomFangs.label>giftanden</VenomFangs.label>
   <!-- EN: A pair of injectors implanted through the canine teeth, connected to a venom pump. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
-  <VenomFangs.description>TODO</VenomFangs.description>
+  <VenomFangs.description>Een paar injectoren geïmplanteerd door de hoektanden, verbonden met een gifpomp. De gebruiker kan een vijand bijten, de injectoren verlengen en gif in het doelwit pompen.</VenomFangs.description>
   
   <!-- EN: venom talon -->
-  <VenomTalon.label>TODO</VenomTalon.label>
+  <VenomTalon.label>gifklauw</VenomTalon.label>
   <!-- EN: A retractable finger talon connected to a venom pump in the lower arm. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
-  <VenomTalon.description>TODO</VenomTalon.description>
+  <VenomTalon.description>Een intrekbare klauw in een vinger die is verbonden met een gifpomp in de onderarm. De gebruiker kan een vijand krabben terwijl hij gif in de wond spuit. De klauw is ontworpen om in de middelvinger te worden geïnstalleerd. Het is snel, maar slecht in het doordringen van bepantsering.</VenomTalon.description>
   
 </LanguageData>

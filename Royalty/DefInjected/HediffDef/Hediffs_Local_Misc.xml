@@ -7,7 +7,7 @@
   <Abasia.description>Een toestand waardoor de motor cortex van een patient beïnvloed wordt, waardoor lopen onmogelijk is.</Abasia.description>
   
   <!-- EN: blood rot -->
-  <BloodRot.label>Bloedrot</BloodRot.label>
+  <BloodRot.label>bloedrot</BloodRot.label>
   <!-- EN: A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death.\n\nThe body's immune system will clear blood rot eventually, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive. -->
   <BloodRot.description>Een langzaam groeiende bacteriële infectie. De bacteriën hebben weinig invloed op hun slachtoffer tijdens de groeifase, maar zodra het bloed verzadigd raakt zullen ze een gif uitscheiden dat direct tot de dood leidt. Het immuunsysteem zal bloedrot uiteindelijk op kunnen ruimen, dus de standaardbehandeling is het gebruik van normale medicijnen om de infectie te onderdrukken tot dat gebeurt. Op glitterwerelden kunnen dokters een injectie geven met nanobots om de infectie direct op te ruimen, maar dit heeft een prijs.</BloodRot.description>
   <!-- EN: minor -->

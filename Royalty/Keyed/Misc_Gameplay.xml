@@ -68,19 +68,19 @@
   <!-- EN: Per nearby animus stone {2}, nature shrine {1} (max {0}) -->
   <MeditationFocusPerAnimusStoneAndShrineAbstract>Per nabijgelegen animussteen {2}, natuurheiligdom {1} (max. {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
   <!-- EN: Per nearby animus stone {3}, nature shrine {2} ({0} / {1}) -->
-  <MeditationFocusPerAnimusStoneAndShrine>Per nabijgelegen animussteen {2}, natuurheiligdom {1} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerAnimusStoneAndShrine>Per nabijgelegen animussteen {3}, natuurheiligdom {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
   <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
   <MeditationFocusPerSculptureAbstract>Max. {1} per sculptuur in de buurt, afhankelijk van kwaliteit (max. {0})</MeditationFocusPerSculptureAbstract>
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
-  <MeditationFocusPerSculpture>Max. {1} per sculptuur in de buurt, afhankelijk van kwaliteit ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerSculpture>Max. {2} per sculptuur in de buurt, afhankelijk van kwaliteit ({0} / {1})</MeditationFocusPerSculpture>
   <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
   <MeditationFocusPerGraveAbstract>Per graf in de buurt {1} indien leeg, {2} voor menselijk lijk (maximaal {0})</MeditationFocusPerGraveAbstract>
   <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
-  <MeditationFocusPerGrave>Per graf in de buurt {1} indien leeg, {2} voor menselijk lijk ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerGrave>Per graf in de buurt {2} indien leeg, {3} voor menselijk lijk ({0} / {1})</MeditationFocusPerGrave>
   <!-- EN: {1} per nearby lit flame source (up to {0}) -->
   <MeditationFocusPerFlameAbstract>{1} per nabijgelegen brandende vlambron (maximaal {0})</MeditationFocusPerFlameAbstract>
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
-  <MeditationFocusPerFlame>{1} per nabijgelegen brandende vlambron ({0} / {1})</MeditationFocusPerFlame>
+  <MeditationFocusPerFlame>{2} per nabijgelegen brandende vlambron ({0} / {1})</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
   <PsyfocusPerDayOfMeditation>Psyfocus opbouwsnelheid: {0}/d</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
@@ -100,7 +100,7 @@
   <!-- EN: Ability ready: {0} -->
   <AbilityReadyLabel>Kracht beschikbaar: {0}</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>{0_nameDef} is klaar om {0} te gebruiken.</AbilityReadyText>
+  <AbilityReadyText>{0_nameDef} is klaar om {1} te gebruiken.</AbilityReadyText>
   
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
   <AbilitySpeechTooltip>Begin een toespraak vanaf de troon. {ORGANIZER_labelShort} gaat naar {ORGANIZER_possessive} troon en roept alle kolonisten op om daar naar een toespraak te luisteren. Als alles goed gaat, zullen luisteraars zich geïnspireerd voelen en respect krijgen voor {ORGANIZER_labelShort}. Als het slecht gaat, zal de toespraak sociale schade aanrichten. Het resultaat hangt af van de sociale vaardigheden van {ORGANIZER_labelShort}.</AbilitySpeechTooltip>

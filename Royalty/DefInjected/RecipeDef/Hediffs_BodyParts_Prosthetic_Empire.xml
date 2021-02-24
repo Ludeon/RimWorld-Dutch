@@ -2,94 +2,94 @@
 <LanguageData>
   
   <!-- EN: install drill arm -->
-  <InstallDrillArm.label>TODO</InstallDrillArm.label>
+  <InstallDrillArm.label>installeer boorarm</InstallDrillArm.label>
   <!-- EN: Install a drill arm. -->
-  <InstallDrillArm.description>TODO</InstallDrillArm.description>
+  <InstallDrillArm.description>Installeer een boorarm.</InstallDrillArm.description>
   <!-- EN: Installing drill arm. -->
-  <InstallDrillArm.jobString>TODO</InstallDrillArm.jobString>
+  <InstallDrillArm.jobString>Boorarm aan het installeren.</InstallDrillArm.jobString>
   
   <!-- EN: install elbow blade -->
-  <InstallElbowBlade.label>TODO</InstallElbowBlade.label>
+  <InstallElbowBlade.label>installeer elleboogsnijblad</InstallElbowBlade.label>
   <!-- EN: Install an elbow blade. -->
-  <InstallElbowBlade.description>TODO</InstallElbowBlade.description>
+  <InstallElbowBlade.description>Installeer een elleboogsnijblad.</InstallElbowBlade.description>
   <!-- EN: Installing elbow blade. -->
-  <InstallElbowBlade.jobString>TODO</InstallElbowBlade.jobString>
+  <InstallElbowBlade.jobString>Elleboogsnijblad aan het installeren.</InstallElbowBlade.jobString>
   
   <!-- EN: install field hand -->
-  <InstallFieldHand.label>TODO</InstallFieldHand.label>
+  <InstallFieldHand.label>installeer landbouwhand</InstallFieldHand.label>
   <!-- EN: Install a field hand. -->
-  <InstallFieldHand.description>TODO</InstallFieldHand.description>
+  <InstallFieldHand.description>Installeer een landbouwhand.</InstallFieldHand.description>
   <!-- EN: Installing field hand. -->
-  <InstallFieldHand.jobString>TODO</InstallFieldHand.jobString>
+  <InstallFieldHand.jobString>Landbouwhand aan het installeren.</InstallFieldHand.jobString>
   
   <!-- EN: install hand talon -->
-  <InstallHandTalon.label>TODO</InstallHandTalon.label>
+  <InstallHandTalon.label>installeer hand klauw</InstallHandTalon.label>
   <!-- EN: Install a hand talon. -->
-  <InstallHandTalon.description>TODO</InstallHandTalon.description>
+  <InstallHandTalon.description>Installeer een hand klauw.</InstallHandTalon.description>
   <!-- EN: Installing hand talon. -->
-  <InstallHandTalon.jobString>TODO</InstallHandTalon.jobString>
+  <InstallHandTalon.jobString>hand klauw aan het installeren.</InstallHandTalon.jobString>
   
   <!-- EN: install knee spike -->
-  <InstallKneeSpike.label>TODO</InstallKneeSpike.label>
+  <InstallKneeSpike.label>installeer kniespies</InstallKneeSpike.label>
   <!-- EN: Install a knee spike. -->
-  <InstallKneeSpike.description>TODO</InstallKneeSpike.description>
+  <InstallKneeSpike.description>Installeer een kniespies.</InstallKneeSpike.description>
   <!-- EN: Installing knee spike. -->
-  <InstallKneeSpike.jobString>TODO</InstallKneeSpike.jobString>
+  <InstallKneeSpike.jobString>Kniespies aan het installeren.</InstallKneeSpike.jobString>
   
   <!-- EN: install mindscrew -->
-  <InstallMindscrew.label>TODO</InstallMindscrew.label>
+  <InstallMindscrew.label>installeer geestwurger</InstallMindscrew.label>
   <!-- EN: Install a mindscrew. -->
-  <InstallMindscrew.description>TODO</InstallMindscrew.description>
+  <InstallMindscrew.description>Installeer een geestwurger.</InstallMindscrew.description>
   <!-- EN: Installing mindscrew. -->
-  <InstallMindscrew.jobString>TODO</InstallMindscrew.jobString>
+  <InstallMindscrew.jobString>Geestwurger aan het installeren.</InstallMindscrew.jobString>
   
   <!-- EN: install venom fangs -->
-  <InstallVenomFangs.label>TODO</InstallVenomFangs.label>
+  <InstallVenomFangs.label>installeer giftanden</InstallVenomFangs.label>
   <!-- EN: Install venom fangs. -->
-  <InstallVenomFangs.description>TODO</InstallVenomFangs.description>
+  <InstallVenomFangs.description>Installeer giftanden.</InstallVenomFangs.description>
   <!-- EN: Installing venom fangs. -->
-  <InstallVenomFangs.jobString>TODO</InstallVenomFangs.jobString>
+  <InstallVenomFangs.jobString>Giftanden aan het installeren.</InstallVenomFangs.jobString>
   
   <!-- EN: install venom talon -->
-  <InstallVenomTalon.label>TODO</InstallVenomTalon.label>
+  <InstallVenomTalon.label>installeer gifklauw</InstallVenomTalon.label>
   <!-- EN: Install a venom talon. -->
-  <InstallVenomTalon.description>TODO</InstallVenomTalon.description>
+  <InstallVenomTalon.description>Installeer een gifklauw.</InstallVenomTalon.description>
   <!-- EN: Installing venom talon. -->
-  <InstallVenomTalon.jobString>TODO</InstallVenomTalon.jobString>
+  <InstallVenomTalon.jobString>Gifklauw aan het verwijderen.</InstallVenomTalon.jobString>
   
   <!-- EN: remove elbow blade -->
-  <RemoveElbowBlade.label>TODO</RemoveElbowBlade.label>
+  <RemoveElbowBlade.label>verwijder elleboogsnijblad</RemoveElbowBlade.label>
   <!-- EN: Remove elbow blade. -->
-  <RemoveElbowBlade.description>TODO</RemoveElbowBlade.description>
+  <RemoveElbowBlade.description>Verwijder een elleboogsnijblad.</RemoveElbowBlade.description>
   <!-- EN: Removing elbow blade. -->
-  <RemoveElbowBlade.jobString>TODO</RemoveElbowBlade.jobString>
+  <RemoveElbowBlade.jobString>Elleboogsnijblad aan het verwijderen.</RemoveElbowBlade.jobString>
   
   <!-- EN: remove hand talon -->
-  <RemoveHandTalon.label>TODO</RemoveHandTalon.label>
+  <RemoveHandTalon.label>verwijder hand klauw</RemoveHandTalon.label>
   <!-- EN: Remove hand talon. -->
-  <RemoveHandTalon.description>TODO</RemoveHandTalon.description>
+  <RemoveHandTalon.description>Verwijder een hand klauw.</RemoveHandTalon.description>
   <!-- EN: Removing hand talon. -->
-  <RemoveHandTalon.jobString>TODO</RemoveHandTalon.jobString>
+  <RemoveHandTalon.jobString>hand klauw aan het verwijderen.</RemoveHandTalon.jobString>
   
   <!-- EN: remove knee spike -->
-  <RemoveKneeSpike.label>TODO</RemoveKneeSpike.label>
+  <RemoveKneeSpike.label>verwijder kniespies</RemoveKneeSpike.label>
   <!-- EN: Remove knee spike. -->
-  <RemoveKneeSpike.description>TODO</RemoveKneeSpike.description>
+  <RemoveKneeSpike.description>Verwijder een kniespies.</RemoveKneeSpike.description>
   <!-- EN: Removing knee spike. -->
-  <RemoveKneeSpike.jobString>TODO</RemoveKneeSpike.jobString>
+  <RemoveKneeSpike.jobString>Kniespies aan het verwijderen.</RemoveKneeSpike.jobString>
   
   <!-- EN: remove venom fangs -->
-  <RemoveVenomFangs.label>TODO</RemoveVenomFangs.label>
+  <RemoveVenomFangs.label>verwijder giftanden</RemoveVenomFangs.label>
   <!-- EN: Remove venom fangs. -->
-  <RemoveVenomFangs.description>TODO</RemoveVenomFangs.description>
+  <RemoveVenomFangs.description>Verwijder giftanden.</RemoveVenomFangs.description>
   <!-- EN: Removing venom fangs. -->
-  <RemoveVenomFangs.jobString>TODO</RemoveVenomFangs.jobString>
+  <RemoveVenomFangs.jobString>Giftanden aan het verwijderen.</RemoveVenomFangs.jobString>
   
   <!-- EN: remove venom talon -->
-  <RemoveVenomTalon.label>TODO</RemoveVenomTalon.label>
+  <RemoveVenomTalon.label>verwijder gifklauw</RemoveVenomTalon.label>
   <!-- EN: Remove venom talon. -->
-  <RemoveVenomTalon.description>TODO</RemoveVenomTalon.description>
+  <RemoveVenomTalon.description>Verwijder een gifklauw.</RemoveVenomTalon.description>
   <!-- EN: Removing venom talon. -->
-  <RemoveVenomTalon.jobString>TODO</RemoveVenomTalon.jobString>
+  <RemoveVenomTalon.jobString>Gifklauw aan het verwijderen.</RemoveVenomTalon.jobString>
   
 </LanguageData>

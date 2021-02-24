@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: Meditation desired psyfocus -->
-  <MeditationDesiredPsyfocus.label>TODO</MeditationDesiredPsyfocus.label>
+  <MeditationDesiredPsyfocus.label>Meditatie gewenste psyfocus</MeditationDesiredPsyfocus.label>
   <!-- EN: You can set a desired psyfocus level for each colonist. To do this, select a colonist with psylink, and click on their psyfocus bar.\n\nIf a colonist's psyfocus is below their desired level, they will meditate automatically during the "Anything" time assignment. -->
-  <MeditationDesiredPsyfocus.helpText>TODO</MeditationDesiredPsyfocus.helpText>
+  <MeditationDesiredPsyfocus.helpText>Je kunt voor elke kolonist een gewenst psyfocusniveau instellen. Om dit te doen, selecteer je een kolonist met psylink, en klik je op hun psyfocusbalk.\n\nAls de psyfocus van een kolonist onder het gewenste niveau is, zullen ze automatisch mediteren tijdens de "Alles" tijdtoewijzing.</MeditationDesiredPsyfocus.helpText>
   
   <!-- EN: Meditation schedule -->
-  <MeditationSchedule.label>TODO</MeditationSchedule.label>
+  <MeditationSchedule.label>Meditatieschema</MeditationSchedule.label>
   <!-- EN: You can assign your colonists to meditate on a specific schedule.\n\nOpen the SCHEDULE tab, select the 'Meditate' assignment and click-drag the times when you want someone to meditate. -->
-  <MeditationSchedule.helpText>TODO</MeditationSchedule.helpText>
+  <MeditationSchedule.helpText>Je kunt je kolonisten opdragen om volgens een specifiek schema te mediteren.\n\nOpen het tabblad SCHEMA, selecteer de opdracht 'Mediteer' en klik en sleep de tijden waarop je iemand wilt laten mediteren.</MeditationSchedule.helpText>
   
 </LanguageData>

@@ -2,220 +2,220 @@
 <LanguageData>
   
   <!-- EN: install aesthetic nose -->
-  <InstallAestheticNose.label>TODO</InstallAestheticNose.label>
+  <InstallAestheticNose.label>installeer esthetische neus</InstallAestheticNose.label>
   <!-- EN: Install an aesthetic nose. -->
-  <InstallAestheticNose.description>TODO</InstallAestheticNose.description>
+  <InstallAestheticNose.description>Installeer een esthetische neus.</InstallAestheticNose.description>
   <!-- EN: Installing aesthetic nose. -->
-  <InstallAestheticNose.jobString>TODO</InstallAestheticNose.jobString>
+  <InstallAestheticNose.jobString>Esthetische neus aan het installeren.</InstallAestheticNose.jobString>
   
   <!-- EN: install aesthetic shaper -->
-  <InstallAestheticShaper.label>TODO</InstallAestheticShaper.label>
+  <InstallAestheticShaper.label>installeer esthetische vormer</InstallAestheticShaper.label>
   <!-- EN: Install an aesthetic shaper. -->
-  <InstallAestheticShaper.description>TODO</InstallAestheticShaper.description>
+  <InstallAestheticShaper.description>Installeer een esthetische vormer.</InstallAestheticShaper.description>
   <!-- EN: Installing aesthetic shaper. -->
-  <InstallAestheticShaper.jobString>TODO</InstallAestheticShaper.jobString>
+  <InstallAestheticShaper.jobString>Esthetische vormer aan het installeren.</InstallAestheticShaper.jobString>
   
   <!-- EN: install armorskin gland -->
-  <InstallArmorskinGland.label>TODO</InstallArmorskinGland.label>
+  <InstallArmorskinGland.label>installeer pantserhuid klier</InstallArmorskinGland.label>
   <!-- EN: Install an armorskin gland. -->
-  <InstallArmorskinGland.description>TODO</InstallArmorskinGland.description>
+  <InstallArmorskinGland.description>Installeer een pantserhuid klier.</InstallArmorskinGland.description>
   <!-- EN: Installing armorskin gland. -->
-  <InstallArmorskinGland.jobString>TODO</InstallArmorskinGland.jobString>
+  <InstallArmorskinGland.jobString>Pantserhuid klier aan het installeren.</InstallArmorskinGland.jobString>
   
   <!-- EN: install circadian assistant -->
-  <InstallCircadianAssistant.label>TODO</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.label>installeer circadiane assistent</InstallCircadianAssistant.label>
   <!-- EN: Install a circadian assistant. -->
-  <InstallCircadianAssistant.description>TODO</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.description>Installeer een circadiane assistent.</InstallCircadianAssistant.description>
   <!-- EN: Installing circadian assistant. -->
-  <InstallCircadianAssistant.jobString>TODO</InstallCircadianAssistant.jobString>
+  <InstallCircadianAssistant.jobString>Circadiane assistent aan het installeren.</InstallCircadianAssistant.jobString>
   
   <!-- EN: install circadian half-cycler -->
-  <InstallCircadianHalfCycler.label>TODO</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.label>installeer circadiane cyclus-halveerder</InstallCircadianHalfCycler.label>
   <!-- EN: Install a circadian half-cycler. -->
-  <InstallCircadianHalfCycler.description>TODO</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.description>Installeer een circadiane cyclus-halveerder.</InstallCircadianHalfCycler.description>
   <!-- EN: Installing circadian half-cycler. -->
-  <InstallCircadianHalfCycler.jobString>TODO</InstallCircadianHalfCycler.jobString>
+  <InstallCircadianHalfCycler.jobString>Circadiane cyclus-halveerder aan het installeren.</InstallCircadianHalfCycler.jobString>
   
   <!-- EN: install coagulator -->
-  <InstallCoagulator.label>TODO</InstallCoagulator.label>
+  <InstallCoagulator.label>installeer coagulator</InstallCoagulator.label>
   <!-- EN: Install a coagulator. -->
-  <InstallCoagulator.description>TODO</InstallCoagulator.description>
+  <InstallCoagulator.description>Installeer een coagulator.</InstallCoagulator.description>
   <!-- EN: Installing coagulator. -->
-  <InstallCoagulator.jobString>TODO</InstallCoagulator.jobString>
+  <InstallCoagulator.jobString>Coagulator aan het installeren.</InstallCoagulator.jobString>
   
   <!-- EN: install detoxifier stomach -->
-  <InstallDetoxifierStomach.label>TODO</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.label>installeer ontgifter maag</InstallDetoxifierStomach.label>
   <!-- EN: Install a detoxifier stomach. -->
-  <InstallDetoxifierStomach.description>TODO</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.description>Installeer een ontgifter maag.</InstallDetoxifierStomach.description>
   <!-- EN: Installing detoxifier stomach. -->
-  <InstallDetoxifierStomach.jobString>TODO</InstallDetoxifierStomach.jobString>
+  <InstallDetoxifierStomach.jobString>Ontgifter maag aan het installeren.</InstallDetoxifierStomach.jobString>
   
   <!-- EN: install gastro-analyzer -->
-  <InstallGastroAnalyzer.label>TODO</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.label>installeer gastro-analysator</InstallGastroAnalyzer.label>
   <!-- EN: Install a gastro-analyzer. -->
-  <InstallGastroAnalyzer.description>TODO</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.description>Installeer een gastro-analysator.</InstallGastroAnalyzer.description>
   <!-- EN: Installing gastro-analyzer. -->
-  <InstallGastroAnalyzer.jobString>TODO</InstallGastroAnalyzer.jobString>
+  <InstallGastroAnalyzer.jobString>Gastro-analysator aan het installeren.</InstallGastroAnalyzer.jobString>
   
   <!-- EN: install healing enhancer -->
-  <InstallHealingEnhancer.label>TODO</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.label>installeer genezingsversterker</InstallHealingEnhancer.label>
   <!-- EN: Install a healing enhancer. -->
-  <InstallHealingEnhancer.description>TODO</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.description>Installeer een genezingsversterker.</InstallHealingEnhancer.description>
   <!-- EN: Installing healing enhancer. -->
-  <InstallHealingEnhancer.jobString>TODO</InstallHealingEnhancer.jobString>
+  <InstallHealingEnhancer.jobString>Genezingsversterker aan het installeren.</InstallHealingEnhancer.jobString>
   
   <!-- EN: install immunoenhancer -->
-  <InstallImmunoenhancer.label>TODO</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.label>installeer immunoversterker</InstallImmunoenhancer.label>
   <!-- EN: Install an immunoenhancer. -->
-  <InstallImmunoenhancer.description>TODO</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.description>Installeer een immunoversterker.</InstallImmunoenhancer.description>
   <!-- EN: Installing immunoenhancer. -->
-  <InstallImmunoenhancer.jobString>TODO</InstallImmunoenhancer.jobString>
+  <InstallImmunoenhancer.jobString>Immunoversterker aan het installeren.</InstallImmunoenhancer.jobString>
   
   <!-- EN: install learning assistant -->
-  <InstallLearningAssistant.label>TODO</InstallLearningAssistant.label>
+  <InstallLearningAssistant.label>installeer leerassistent</InstallLearningAssistant.label>
   <!-- EN: Install a learning assistant. -->
-  <InstallLearningAssistant.description>TODO</InstallLearningAssistant.description>
+  <InstallLearningAssistant.description>Installeer een leerassistent.</InstallLearningAssistant.description>
   <!-- EN: Installing learning assistant. -->
-  <InstallLearningAssistant.jobString>TODO</InstallLearningAssistant.jobString>
+  <InstallLearningAssistant.jobString>Leerassistent aan het installeren.</InstallLearningAssistant.jobString>
   
   <!-- EN: install love enhancer -->
-  <InstallLoveEnhancer.label>TODO</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.label>installeer liefdesverbeteraar</InstallLoveEnhancer.label>
   <!-- EN: Install a love enhancer. -->
-  <InstallLoveEnhancer.description>TODO</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.description>Installeer een liefdesverbeteraar.</InstallLoveEnhancer.description>
   <!-- EN: Installing love enhancer. -->
-  <InstallLoveEnhancer.jobString>TODO</InstallLoveEnhancer.jobString>
+  <InstallLoveEnhancer.jobString>Liefdesverbeteraar aan het installeren.</InstallLoveEnhancer.jobString>
   
   <!-- EN: install neurocalculator -->
-  <InstallNeurocalculator.label>TODO</InstallNeurocalculator.label>
+  <InstallNeurocalculator.label>installeer neurocalculator</InstallNeurocalculator.label>
   <!-- EN: Install a neurocalculator. -->
-  <InstallNeurocalculator.description>TODO</InstallNeurocalculator.description>
+  <InstallNeurocalculator.description>Installeer een neurocalculator.</InstallNeurocalculator.description>
   <!-- EN: Installing neurocalculator. -->
-  <InstallNeurocalculator.jobString>TODO</InstallNeurocalculator.jobString>
+  <InstallNeurocalculator.jobString>Neurocalculator aan het installeren.</InstallNeurocalculator.jobString>
   
   <!-- EN: install nuclear stomach -->
-  <InstallNuclearStomach.label>TODO</InstallNuclearStomach.label>
+  <InstallNuclearStomach.label>installeer nucleaire maag</InstallNuclearStomach.label>
   <!-- EN: Install a nuclear stomach. -->
-  <InstallNuclearStomach.description>TODO</InstallNuclearStomach.description>
+  <InstallNuclearStomach.description>Installeer een nucleaire maag.</InstallNuclearStomach.description>
   <!-- EN: Installing nuclear stomach. -->
-  <InstallNuclearStomach.jobString>TODO</InstallNuclearStomach.jobString>
+  <InstallNuclearStomach.jobString>Nucleaire maag aan het installeren.</InstallNuclearStomach.jobString>
   
   <!-- EN: install reprocessor stomach -->
-  <InstallReprocessorStomach.label>TODO</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.label>installeer herverwerker maag</InstallReprocessorStomach.label>
   <!-- EN: Install a reprocessor stomach. -->
-  <InstallReprocessorStomach.description>TODO</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.description>Installeer een herverwerker maag.</InstallReprocessorStomach.description>
   <!-- EN: Installing reprocessor stomach. -->
-  <InstallReprocessorStomach.jobString>TODO</InstallReprocessorStomach.jobString>
+  <InstallReprocessorStomach.jobString>Herverwerker maag aan het installeren.</InstallReprocessorStomach.jobString>
   
   <!-- EN: install stoneskin gland -->
-  <InstallStoneskinGland.label>TODO</InstallStoneskinGland.label>
+  <InstallStoneskinGland.label>installeer steenhuid klier</InstallStoneskinGland.label>
   <!-- EN: Install a stoneskin gland. -->
-  <InstallStoneskinGland.description>TODO</InstallStoneskinGland.description>
+  <InstallStoneskinGland.description>Installeer een steenhuid klier.</InstallStoneskinGland.description>
   <!-- EN: Installing stoneskin gland. -->
-  <InstallStoneskinGland.jobString>TODO</InstallStoneskinGland.jobString>
+  <InstallStoneskinGland.jobString>Steenhuid klier aan het installeren.</InstallStoneskinGland.jobString>
   
   <!-- EN: install toughskin gland -->
-  <InstallToughskinGland.label>TODO</InstallToughskinGland.label>
+  <InstallToughskinGland.label>installeer hardhuid klier</InstallToughskinGland.label>
   <!-- EN: Install a toughskin gland. -->
-  <InstallToughskinGland.description>TODO</InstallToughskinGland.description>
+  <InstallToughskinGland.description>Installeer een hardhuid klier.</InstallToughskinGland.description>
   <!-- EN: Installing toughskin gland. -->
-  <InstallToughskinGland.jobString>TODO</InstallToughskinGland.jobString>
+  <InstallToughskinGland.jobString>Hardhuid klier aan het verwijderen.</InstallToughskinGland.jobString>
   
   <!-- EN: remove aesthetic nose -->
-  <RemoveAestheticNose.label>TODO</RemoveAestheticNose.label>
+  <RemoveAestheticNose.label>verwijder esthetische neus</RemoveAestheticNose.label>
   <!-- EN: Remove aesthetic nose. -->
-  <RemoveAestheticNose.description>TODO</RemoveAestheticNose.description>
+  <RemoveAestheticNose.description>Verwijder een esthetische neus.</RemoveAestheticNose.description>
   <!-- EN: Removing aesthetic nose. -->
-  <RemoveAestheticNose.jobString>TODO</RemoveAestheticNose.jobString>
+  <RemoveAestheticNose.jobString>Esthetische neus aan het verwijderen.</RemoveAestheticNose.jobString>
   
   <!-- EN: remove aesthetic shaper -->
-  <RemoveAestheticShaper.label>TODO</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.label>verwijder esthetische vormer</RemoveAestheticShaper.label>
   <!-- EN: Remove aesthetic shaper. -->
-  <RemoveAestheticShaper.description>TODO</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.description>Verwijder een esthetische vormer.</RemoveAestheticShaper.description>
   <!-- EN: Removing aesthetic shaper. -->
-  <RemoveAestheticShaper.jobString>TODO</RemoveAestheticShaper.jobString>
+  <RemoveAestheticShaper.jobString>Esthetische vormer aan het verwijderen.</RemoveAestheticShaper.jobString>
   
   <!-- EN: remove armorskin gland -->
-  <RemoveArmorskinGland.label>TODO</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.label>verwijder pantserhuid klier</RemoveArmorskinGland.label>
   <!-- EN: Remove armorskin gland. -->
-  <RemoveArmorskinGland.description>TODO</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.description>Verwijder een pantserhuid klier.</RemoveArmorskinGland.description>
   <!-- EN: Removing armorskin gland. -->
-  <RemoveArmorskinGland.jobString>TODO</RemoveArmorskinGland.jobString>
+  <RemoveArmorskinGland.jobString>Pantserhuid klier aan het verwijderen.</RemoveArmorskinGland.jobString>
   
   <!-- EN: remove circadian assistant -->
-  <RemoveCircadianAssistant.label>TODO</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.label>verwijder circadiane assistent</RemoveCircadianAssistant.label>
   <!-- EN: Remove circadian assistant. -->
-  <RemoveCircadianAssistant.description>TODO</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.description>Verwijder een circadiane assistent.</RemoveCircadianAssistant.description>
   <!-- EN: Removing circadian assistant. -->
-  <RemoveCircadianAssistant.jobString>TODO</RemoveCircadianAssistant.jobString>
+  <RemoveCircadianAssistant.jobString>Circadiane assistent aan het verwijderen.</RemoveCircadianAssistant.jobString>
   
   <!-- EN: remove circadian half-cycler -->
-  <RemoveCircadianHalfCycler.label>TODO</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.label>verwijder circadiane cyclus-halveerder</RemoveCircadianHalfCycler.label>
   <!-- EN: Remove circadian half-cycler. -->
-  <RemoveCircadianHalfCycler.description>TODO</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.description>Verwijder een circadiane cyclus-halveerder.</RemoveCircadianHalfCycler.description>
   <!-- EN: Removing circadian half-cycler. -->
-  <RemoveCircadianHalfCycler.jobString>TODO</RemoveCircadianHalfCycler.jobString>
+  <RemoveCircadianHalfCycler.jobString>Circadiane cyclus-halveerder aan het verwijderen.</RemoveCircadianHalfCycler.jobString>
   
   <!-- EN: remove coagulator -->
-  <RemoveCoagulator.label>TODO</RemoveCoagulator.label>
+  <RemoveCoagulator.label>verwijder coagulator</RemoveCoagulator.label>
   <!-- EN: Remove coagulator. -->
-  <RemoveCoagulator.description>TODO</RemoveCoagulator.description>
+  <RemoveCoagulator.description>Verwijder een coagulator.</RemoveCoagulator.description>
   <!-- EN: Removing coagulator. -->
-  <RemoveCoagulator.jobString>TODO</RemoveCoagulator.jobString>
+  <RemoveCoagulator.jobString>Coagulator aan het verwijderen.</RemoveCoagulator.jobString>
   
   <!-- EN: remove gastro-analyzer -->
-  <RemoveGastroAnalyzer.label>TODO</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.label>verwijder gastro-analysator</RemoveGastroAnalyzer.label>
   <!-- EN: Remove gastro-analyzer. -->
-  <RemoveGastroAnalyzer.description>TODO</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.description>Verwijder een gastro-analysator.</RemoveGastroAnalyzer.description>
   <!-- EN: Removing gastro-analyzer. -->
-  <RemoveGastroAnalyzer.jobString>TODO</RemoveGastroAnalyzer.jobString>
+  <RemoveGastroAnalyzer.jobString>Gastro-analysator aan het verwijderen.</RemoveGastroAnalyzer.jobString>
   
   <!-- EN: remove healing enhancer -->
-  <RemoveHealingEnhancer.label>TODO</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.label>verwijder genezingsversterker</RemoveHealingEnhancer.label>
   <!-- EN: Remove healing enhancer. -->
-  <RemoveHealingEnhancer.description>TODO</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.description>Verwijder een genezingsversterker.</RemoveHealingEnhancer.description>
   <!-- EN: Removing healing enhancer. -->
-  <RemoveHealingEnhancer.jobString>TODO</RemoveHealingEnhancer.jobString>
+  <RemoveHealingEnhancer.jobString>Genezingsversterker aan het verwijderen.</RemoveHealingEnhancer.jobString>
   
   <!-- EN: remove immunoenhancer -->
-  <RemoveImmunoenhancer.label>TODO</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.label>verwijder immunoversterker</RemoveImmunoenhancer.label>
   <!-- EN: Remove immunoenhancer. -->
-  <RemoveImmunoenhancer.description>TODO</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.description>Verwijder een immunoversterker.</RemoveImmunoenhancer.description>
   <!-- EN: Removing immunoenhancer. -->
-  <RemoveImmunoenhancer.jobString>TODO</RemoveImmunoenhancer.jobString>
+  <RemoveImmunoenhancer.jobString>Immunoversterker aan het verwijderen.</RemoveImmunoenhancer.jobString>
   
   <!-- EN: remove learning assistant -->
-  <RemoveLearningAssistant.label>TODO</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.label>verwijder leerassistent</RemoveLearningAssistant.label>
   <!-- EN: Remove learning assistant. -->
-  <RemoveLearningAssistant.description>TODO</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.description>Verwijder een leerassistent.</RemoveLearningAssistant.description>
   <!-- EN: Removing learning assistant. -->
-  <RemoveLearningAssistant.jobString>TODO</RemoveLearningAssistant.jobString>
+  <RemoveLearningAssistant.jobString>Leerassistent aan het verwijderen.</RemoveLearningAssistant.jobString>
   
   <!-- EN: remove love enhancer -->
-  <RemoveLoveEnhancer.label>TODO</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.label>verwijder liefdesverbeteraar</RemoveLoveEnhancer.label>
   <!-- EN: Remove love enhancer. -->
-  <RemoveLoveEnhancer.description>TODO</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.description>Verwijder een liefdesverbeteraar.</RemoveLoveEnhancer.description>
   <!-- EN: Removing love enhancer. -->
-  <RemoveLoveEnhancer.jobString>TODO</RemoveLoveEnhancer.jobString>
+  <RemoveLoveEnhancer.jobString>Liefdesverbeteraar aan het verwijderen.</RemoveLoveEnhancer.jobString>
   
   <!-- EN: remove neurocalculator -->
-  <RemoveNeurocalculator.label>TODO</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.label>verwijder neurocalculator</RemoveNeurocalculator.label>
   <!-- EN: Remove neurocalculator. -->
-  <RemoveNeurocalculator.description>TODO</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.description>Verwijder een neurocalculator.</RemoveNeurocalculator.description>
   <!-- EN: Removing neurocalculator. -->
-  <RemoveNeurocalculator.jobString>TODO</RemoveNeurocalculator.jobString>
+  <RemoveNeurocalculator.jobString>Neurocalculator aan het verwijderen.</RemoveNeurocalculator.jobString>
   
   <!-- EN: remove stoneskin gland -->
-  <RemoveStoneskinGland.label>TODO</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.label>verwijder steenhuid klier</RemoveStoneskinGland.label>
   <!-- EN: Remove stoneskin gland. -->
-  <RemoveStoneskinGland.description>TODO</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.description>Verwijder een steenhuid klier.</RemoveStoneskinGland.description>
   <!-- EN: Removing stoneskin gland. -->
-  <RemoveStoneskinGland.jobString>TODO</RemoveStoneskinGland.jobString>
+  <RemoveStoneskinGland.jobString>Steenhuid klier aan het verwijderen.</RemoveStoneskinGland.jobString>
   
   <!-- EN: remove toughskin gland -->
-  <RemoveToughskinGland.label>TODO</RemoveToughskinGland.label>
+  <RemoveToughskinGland.label>verwijder hardhuid klier</RemoveToughskinGland.label>
   <!-- EN: Remove toughskin gland. -->
-  <RemoveToughskinGland.description>TODO</RemoveToughskinGland.description>
+  <RemoveToughskinGland.description>Verwijder een hardhuid klier.</RemoveToughskinGland.description>
   <!-- EN: Removing toughskin gland. -->
-  <RemoveToughskinGland.jobString>TODO</RemoveToughskinGland.jobString>
+  <RemoveToughskinGland.jobString>Hardhuid klier aan het verwijderen.</RemoveToughskinGland.jobString>
   
 </LanguageData>

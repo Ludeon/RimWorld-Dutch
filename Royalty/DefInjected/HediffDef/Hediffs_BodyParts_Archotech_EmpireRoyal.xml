@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: psychic harmonizer -->
-  <PsychicHarmonizer.label>TODO</PsychicHarmonizer.label>
+  <PsychicHarmonizer.label>psychische harmonisator</PsychicHarmonizer.label>
   <!-- EN: An installed psychic harmonizer implant. -->
-  <PsychicHarmonizer.description>TODO</PsychicHarmonizer.description>
+  <PsychicHarmonizer.description>Een geïnstalleerd psychisch harmonisatorimplantaat.</PsychicHarmonizer.description>
   <!-- EN: a psychic harmonizer -->
-  <PsychicHarmonizer.labelNoun>TODO</PsychicHarmonizer.labelNoun>
+  <PsychicHarmonizer.labelNoun>een psychisch harmonisatorimplantaat</PsychicHarmonizer.labelNoun>
   
   <!-- EN: psychic reader -->
-  <PsychicReader.label>TODO</PsychicReader.label>
+  <PsychicReader.label>psychische lezer</PsychicReader.label>
   <!-- EN: An installed psychic reader implant. -->
-  <PsychicReader.description>TODO</PsychicReader.description>
+  <PsychicReader.description>Een geïnstalleerde psychische lezer.</PsychicReader.description>
   <!-- EN: a psychic reader -->
-  <PsychicReader.labelNoun>TODO</PsychicReader.labelNoun>
+  <PsychicReader.labelNoun>een psychische lezer</PsychicReader.labelNoun>
   
   <!-- EN: psychic sensitizer -->
-  <PsychicSensitizer.label>TODO</PsychicSensitizer.label>
+  <PsychicSensitizer.label>psychische gevoeligheidsverhoger</PsychicSensitizer.label>
   <!-- EN: An installed psychic sensitizer implant. -->
-  <PsychicSensitizer.description>TODO</PsychicSensitizer.description>
+  <PsychicSensitizer.description>Een geïnstalleerde psychische gevoeligheidsverhoger.</PsychicSensitizer.description>
   <!-- EN: a psychic sensitizer -->
-  <PsychicSensitizer.labelNoun>TODO</PsychicSensitizer.labelNoun>
+  <PsychicSensitizer.labelNoun>een psychische gevoeligheidsverhoger</PsychicSensitizer.labelNoun>
   
 </LanguageData>

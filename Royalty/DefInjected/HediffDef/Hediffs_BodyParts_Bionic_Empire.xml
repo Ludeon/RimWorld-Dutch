@@ -2,122 +2,122 @@
 <LanguageData>
   
   <!-- EN: aesthetic nose -->
-  <AestheticNose.label>TODO</AestheticNose.label>
+  <AestheticNose.label>esthetische neus</AestheticNose.label>
   <!-- EN: An installed aesthetic nose. -->
-  <AestheticNose.description>TODO</AestheticNose.description>
+  <AestheticNose.description>Een geïnstalleerde esthetische neus.</AestheticNose.description>
   <!-- EN: an aesthetic nose -->
-  <AestheticNose.labelNoun>TODO</AestheticNose.labelNoun>
+  <AestheticNose.labelNoun>een esthetische neus</AestheticNose.labelNoun>
   
   <!-- EN: aesthetic shaper -->
-  <AestheticShaper.label>TODO</AestheticShaper.label>
+  <AestheticShaper.label>esthetische vormer</AestheticShaper.label>
   <!-- EN: An installed aesthetic shaper. -->
-  <AestheticShaper.description>TODO</AestheticShaper.description>
+  <AestheticShaper.description>Een geïnstalleerde esthetische vormer.</AestheticShaper.description>
   <!-- EN: an aesthetic shaper -->
-  <AestheticShaper.labelNoun>TODO</AestheticShaper.labelNoun>
+  <AestheticShaper.labelNoun>een esthetische vormer</AestheticShaper.labelNoun>
   
   <!-- EN: armorskin gland -->
-  <ArmorskinGland.label>TODO</ArmorskinGland.label>
+  <ArmorskinGland.label>pantserhuid klier</ArmorskinGland.label>
   <!-- EN: An installed armorskin gland. -->
-  <ArmorskinGland.description>TODO</ArmorskinGland.description>
+  <ArmorskinGland.description>Een geïnstalleerde pantserhuid klier.</ArmorskinGland.description>
   <!-- EN: a armorskin gland -->
-  <ArmorskinGland.labelNoun>TODO</ArmorskinGland.labelNoun>
+  <ArmorskinGland.labelNoun>een pantserhuid klier</ArmorskinGland.labelNoun>
   
   <!-- EN: circadian assistant -->
-  <CircadianAssistant.label>TODO</CircadianAssistant.label>
+  <CircadianAssistant.label>circadiane assistent</CircadianAssistant.label>
   <!-- EN: An installed circadian assistant. -->
-  <CircadianAssistant.description>TODO</CircadianAssistant.description>
+  <CircadianAssistant.description>Een geïnstalleerde circadiane assistent.</CircadianAssistant.description>
   <!-- EN: a circadian assistant -->
-  <CircadianAssistant.labelNoun>TODO</CircadianAssistant.labelNoun>
+  <CircadianAssistant.labelNoun>een circadiane assistent</CircadianAssistant.labelNoun>
   
   <!-- EN: circadian half-cycler -->
-  <CircadianHalfCycler.label>TODO</CircadianHalfCycler.label>
+  <CircadianHalfCycler.label>circadiane cyclus-halveerder</CircadianHalfCycler.label>
   <!-- EN: An installed circadian half-cycler. -->
-  <CircadianHalfCycler.description>TODO</CircadianHalfCycler.description>
+  <CircadianHalfCycler.description>Een geïnstalleerde circadiane cyclus-halveerder.</CircadianHalfCycler.description>
   <!-- EN: a circadian half-cycler -->
-  <CircadianHalfCycler.labelNoun>TODO</CircadianHalfCycler.labelNoun>
+  <CircadianHalfCycler.labelNoun>een circadiane cyclus-halveerder</CircadianHalfCycler.labelNoun>
   
   <!-- EN: coagulator -->
-  <Coagulator.label>TODO</Coagulator.label>
+  <Coagulator.label>coagulator</Coagulator.label>
   <!-- EN: An installed coagulator implant. -->
-  <Coagulator.description>TODO</Coagulator.description>
+  <Coagulator.description>Een geïnstalleerde coagulator.</Coagulator.description>
   <!-- EN: a coagulator -->
-  <Coagulator.labelNoun>TODO</Coagulator.labelNoun>
+  <Coagulator.labelNoun>een coagulator</Coagulator.labelNoun>
   
   <!-- EN: detoxifier stomach -->
-  <DetoxifierStomach.label>TODO</DetoxifierStomach.label>
+  <DetoxifierStomach.label>ontgifter maag</DetoxifierStomach.label>
   <!-- EN: An installed detoxifier stomach. -->
-  <DetoxifierStomach.description>TODO</DetoxifierStomach.description>
+  <DetoxifierStomach.description>Een geïnstalleerde ontgifter maag.</DetoxifierStomach.description>
   <!-- EN: a detoxifier stomach -->
-  <DetoxifierStomach.labelNoun>TODO</DetoxifierStomach.labelNoun>
+  <DetoxifierStomach.labelNoun>een ontgifter maag</DetoxifierStomach.labelNoun>
   
   <!-- EN: gastro-analyzer -->
-  <GastroAnalyzer.label>TODO</GastroAnalyzer.label>
+  <GastroAnalyzer.label>gastro-analysator</GastroAnalyzer.label>
   <!-- EN: An installed gastro-analyzer. -->
-  <GastroAnalyzer.description>TODO</GastroAnalyzer.description>
+  <GastroAnalyzer.description>Een geïnstalleerde gastro-analysator.</GastroAnalyzer.description>
   <!-- EN: a gastro-analyzer -->
-  <GastroAnalyzer.labelNoun>TODO</GastroAnalyzer.labelNoun>
+  <GastroAnalyzer.labelNoun>een gastro-analysator</GastroAnalyzer.labelNoun>
   
   <!-- EN: healing enhancer -->
-  <HealingEnhancer.label>TODO</HealingEnhancer.label>
+  <HealingEnhancer.label>genezingsversterker</HealingEnhancer.label>
   <!-- EN: An installed healing enhancer implant. -->
-  <HealingEnhancer.description>TODO</HealingEnhancer.description>
+  <HealingEnhancer.description>Een geïnstalleerde genezingsversterker.</HealingEnhancer.description>
   <!-- EN: a healing enhancer -->
-  <HealingEnhancer.labelNoun>TODO</HealingEnhancer.labelNoun>
+  <HealingEnhancer.labelNoun>een genezingsversterker</HealingEnhancer.labelNoun>
   
   <!-- EN: immunoenhancer -->
-  <Immunoenhancer.label>TODO</Immunoenhancer.label>
+  <Immunoenhancer.label>immunoversterker</Immunoenhancer.label>
   <!-- EN: An installed immunoenhancer. -->
-  <Immunoenhancer.description>TODO</Immunoenhancer.description>
+  <Immunoenhancer.description>Een geïnstalleerde immunoversterker.</Immunoenhancer.description>
   <!-- EN: an immunoenhancer -->
-  <Immunoenhancer.labelNoun>TODO</Immunoenhancer.labelNoun>
+  <Immunoenhancer.labelNoun>een immunoversterker</Immunoenhancer.labelNoun>
   
   <!-- EN: learning assistant -->
-  <LearningAssistant.label>TODO</LearningAssistant.label>
+  <LearningAssistant.label>leerassistent</LearningAssistant.label>
   <!-- EN: An installed learning assistant. -->
-  <LearningAssistant.description>TODO</LearningAssistant.description>
+  <LearningAssistant.description>Een geïnstalleerde leerassistent.</LearningAssistant.description>
   <!-- EN: a learning assistant -->
-  <LearningAssistant.labelNoun>TODO</LearningAssistant.labelNoun>
+  <LearningAssistant.labelNoun>een leerassistent</LearningAssistant.labelNoun>
   
   <!-- EN: love enhancer -->
-  <LoveEnhancer.label>TODO</LoveEnhancer.label>
+  <LoveEnhancer.label>liefdesverbeteraar</LoveEnhancer.label>
   <!-- EN: An installed love enhancer. -->
-  <LoveEnhancer.description>TODO</LoveEnhancer.description>
+  <LoveEnhancer.description>Een geïnstalleerde liefdesverbeteraar.</LoveEnhancer.description>
   <!-- EN: a love enhancer -->
-  <LoveEnhancer.labelNoun>TODO</LoveEnhancer.labelNoun>
+  <LoveEnhancer.labelNoun>een liefdesverbeteraar</LoveEnhancer.labelNoun>
   
   <!-- EN: neurocalculator -->
-  <Neurocalculator.label>TODO</Neurocalculator.label>
+  <Neurocalculator.label>neurocalculator</Neurocalculator.label>
   <!-- EN: An installed neurocalculator. -->
-  <Neurocalculator.description>TODO</Neurocalculator.description>
+  <Neurocalculator.description>Een geïnstalleerde neurocalculator.</Neurocalculator.description>
   <!-- EN: a neurocalculator -->
-  <Neurocalculator.labelNoun>TODO</Neurocalculator.labelNoun>
+  <Neurocalculator.labelNoun>een neurocalculator</Neurocalculator.labelNoun>
   
   <!-- EN: nuclear stomach -->
-  <NuclearStomach.label>TODO</NuclearStomach.label>
+  <NuclearStomach.label>nucleaire maag</NuclearStomach.label>
   <!-- EN: An installed nuclear stomach. -->
-  <NuclearStomach.description>TODO</NuclearStomach.description>
+  <NuclearStomach.description>Een geïnstalleerde nucleaire maag.</NuclearStomach.description>
   <!-- EN: a nuclear stomach -->
-  <NuclearStomach.labelNoun>TODO</NuclearStomach.labelNoun>
+  <NuclearStomach.labelNoun>een nucleaire maag</NuclearStomach.labelNoun>
   
   <!-- EN: reprocessor stomach -->
-  <ReprocessorStomach.label>TODO</ReprocessorStomach.label>
+  <ReprocessorStomach.label>herverwerker maag</ReprocessorStomach.label>
   <!-- EN: An installed reprocessor stomach. -->
-  <ReprocessorStomach.description>TODO</ReprocessorStomach.description>
+  <ReprocessorStomach.description>Een geïnstalleerde herverwerker maag.</ReprocessorStomach.description>
   <!-- EN: a reprocessor stomach -->
-  <ReprocessorStomach.labelNoun>TODO</ReprocessorStomach.labelNoun>
+  <ReprocessorStomach.labelNoun>een herverwerker maag</ReprocessorStomach.labelNoun>
   
   <!-- EN: stoneskin gland -->
-  <StoneskinGland.label>TODO</StoneskinGland.label>
+  <StoneskinGland.label>steenhuid klier</StoneskinGland.label>
   <!-- EN: An installed stoneskin gland. -->
-  <StoneskinGland.description>TODO</StoneskinGland.description>
+  <StoneskinGland.description>Een geïnstalleerde steenhuid klier.</StoneskinGland.description>
   <!-- EN: a stoneskin gland -->
-  <StoneskinGland.labelNoun>TODO</StoneskinGland.labelNoun>
+  <StoneskinGland.labelNoun>een steenhuid klier</StoneskinGland.labelNoun>
   
   <!-- EN: toughskin gland -->
-  <ToughskinGland.label>TODO</ToughskinGland.label>
+  <ToughskinGland.label>hardhuid klier</ToughskinGland.label>
   <!-- EN: An installed toughskin gland. -->
-  <ToughskinGland.description>TODO</ToughskinGland.description>
+  <ToughskinGland.description>Een geïnstalleerde hardhuid klier.</ToughskinGland.description>
   <!-- EN: a toughskin gland -->
-  <ToughskinGland.labelNoun>TODO</ToughskinGland.labelNoun>
+  <ToughskinGland.labelNoun>een hardhuid klier</ToughskinGland.labelNoun>
   
 </LanguageData>

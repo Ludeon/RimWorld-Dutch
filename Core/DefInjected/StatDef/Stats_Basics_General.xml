@@ -63,7 +63,7 @@
   <!-- EN: honor value -->
   <RoyalFavorValue.label>eerwaarde</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>De hoeveelheid eer die je handelaar verdient door dit aan een tollenaar te schenken.</RoyalFavorValue.description>
+  <RoyalFavorValue.description>De hoeveelheid eer die je handelaar verdient door dit aan een eerwaarder te schenken.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>vermenigvuldigingsfactor verkoop</SellPriceFactor.label>

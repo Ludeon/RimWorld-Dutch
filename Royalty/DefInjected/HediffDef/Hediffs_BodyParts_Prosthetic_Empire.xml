@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: drill arm -->
-  <DrillArm.label>TODO</DrillArm.label>
+  <DrillArm.label>boorarm</DrillArm.label>
   <!-- EN: An installed drill arm. -->
-  <DrillArm.description>TODO</DrillArm.description>
+  <DrillArm.description>Een geïnstalleerde boorarm.</DrillArm.description>
   <!-- EN: drill -->
-  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>TODO</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>boor</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
   <!-- EN: a drill arm -->
-  <DrillArm.labelNoun>TODO</DrillArm.labelNoun>
+  <DrillArm.labelNoun>een boorarm</DrillArm.labelNoun>
   
   <!-- EN: elbow blade -->
-  <ElbowBlade.label>TODO</ElbowBlade.label>
+  <ElbowBlade.label>elleboogsnijblad</ElbowBlade.label>
   <!-- EN: An installed elbow blade. -->
-  <ElbowBlade.description>TODO</ElbowBlade.description>
+  <ElbowBlade.description>Een geïnstalleerd elleboogsnijblad.</ElbowBlade.description>
   <!-- EN: blade -->
-  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>TODO</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>snijblad</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
   <!-- EN: an elbow blade -->
-  <ElbowBlade.labelNoun>TODO</ElbowBlade.labelNoun>
+  <ElbowBlade.labelNoun>een elleboogsnijblad</ElbowBlade.labelNoun>
   
   <!-- EN: field hand -->
-  <FieldHand.label>TODO</FieldHand.label>
+  <FieldHand.label>landbouwhand</FieldHand.label>
   <!-- EN: An installed field hand. -->
-  <FieldHand.description>TODO</FieldHand.description>
+  <FieldHand.description>Een geïnstalleerde landbouwhand.</FieldHand.description>
   <!-- EN: knuckle -->
-  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>TODO</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>knokkel</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
   <!-- EN: a field hand -->
-  <FieldHand.labelNoun>TODO</FieldHand.labelNoun>
+  <FieldHand.labelNoun>een landbouwhand</FieldHand.labelNoun>
   
   <!-- EN: hand talon -->
-  <HandTalon.label>TODO</HandTalon.label>
+  <HandTalon.label>hand klauw</HandTalon.label>
   <!-- EN: An installed hand talon. -->
-  <HandTalon.description>TODO</HandTalon.description>
+  <HandTalon.description>Een geïnstalleerde hand klauw.</HandTalon.description>
   <!-- EN: talon -->
-  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>TODO</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>klauw</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon -->
-  <HandTalon.labelNoun>TODO</HandTalon.labelNoun>
+  <HandTalon.labelNoun>een hand klauw</HandTalon.labelNoun>
   
   <!-- EN: knee spike -->
-  <KneeSpike.label>TODO</KneeSpike.label>
+  <KneeSpike.label>kniespies</KneeSpike.label>
   <!-- EN: An installed knee spike. -->
-  <KneeSpike.description>TODO</KneeSpike.description>
+  <KneeSpike.description>Een geïnstalleerde kniespies.</KneeSpike.description>
   <!-- EN: spike -->
-  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>TODO</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>stekel</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
   <!-- EN: a knee spike -->
-  <KneeSpike.labelNoun>TODO</KneeSpike.labelNoun>
+  <KneeSpike.labelNoun>een kniespies</KneeSpike.labelNoun>
   
   <!-- EN: mindscrew -->
-  <Mindscrew.label>TODO</Mindscrew.label>
+  <Mindscrew.label>geestwurger</Mindscrew.label>
   <!-- EN: An installed mindscrew. -->
-  <Mindscrew.description>TODO</Mindscrew.description>
+  <Mindscrew.description>Een geïnstalleerde geestwurger.</Mindscrew.description>
   <!-- EN: a mindscrew -->
-  <Mindscrew.labelNoun>TODO</Mindscrew.labelNoun>
+  <Mindscrew.labelNoun>een geestwurger</Mindscrew.labelNoun>
   
   <!-- EN: venom fangs -->
-  <VenomFangs.label>TODO</VenomFangs.label>
+  <VenomFangs.label>giftanden</VenomFangs.label>
   <!-- EN: An installed set of venom fangs. -->
-  <VenomFangs.description>TODO</VenomFangs.description>
+  <VenomFangs.description>Een geïnstalleerde set giftanden.</VenomFangs.description>
   <!-- EN: venom fangs -->
-  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>TODO</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>giftanden</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
   <!-- EN: a set of venom fangs -->
-  <VenomFangs.labelNoun>TODO</VenomFangs.labelNoun>
+  <VenomFangs.labelNoun>een set giftanden</VenomFangs.labelNoun>
   
   <!-- EN: venom talon -->
-  <VenomTalon.label>TODO</VenomTalon.label>
+  <VenomTalon.label>gifklauw</VenomTalon.label>
   <!-- EN: An installed venom talon. -->
-  <VenomTalon.description>TODO</VenomTalon.description>
+  <VenomTalon.description>Een geïnstalleerde gifklauw.</VenomTalon.description>
   <!-- EN: venom talon -->
-  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>TODO</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>gifklauw</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
   <!-- EN: a venom talon -->
-  <VenomTalon.labelNoun>TODO</VenomTalon.labelNoun>
+  <VenomTalon.labelNoun>een gifklauw</VenomTalon.labelNoun>
   
 </LanguageData>

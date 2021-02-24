@@ -570,13 +570,13 @@
   <!-- EN: Current -->
   <Current>Huidige</Current>
   <!-- EN: male -->
-  <Male>Mannelijk</Male>
+  <Male>mannelijk</Male>
   <!-- EN: female -->
-  <Female>Vrouwelijk</Female>
+  <Female>vrouwelijk</Female>
   <!-- EN: male -->
-  <MaleAnimal>Mannelijk</MaleAnimal>
+  <MaleAnimal>mannelijk</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>Vrouwelijk</FemaleAnimal>
+  <FemaleAnimal>vrouwelijk</FemaleAnimal>
   <!-- EN: Pain -->
   <Pain>Pijn</Pain>
   <!-- EN: Health -->

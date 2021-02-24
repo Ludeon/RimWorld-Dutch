@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: install psychic harmonizer -->
-  <InstallPsychicHarmonizer.label>TODO</InstallPsychicHarmonizer.label>
+  <InstallPsychicHarmonizer.label>installeer psychische harmonisator</InstallPsychicHarmonizer.label>
   <!-- EN: Install a psychic harmonizer. -->
-  <InstallPsychicHarmonizer.description>TODO</InstallPsychicHarmonizer.description>
+  <InstallPsychicHarmonizer.description>Installeer een psychische harmonisator.</InstallPsychicHarmonizer.description>
   <!-- EN: Installing psychic harmonizer. -->
-  <InstallPsychicHarmonizer.jobString>TODO</InstallPsychicHarmonizer.jobString>
+  <InstallPsychicHarmonizer.jobString>Psychische harmonisator aan het installeren.</InstallPsychicHarmonizer.jobString>
   
   <!-- EN: install psychic reader -->
-  <InstallPsychicReader.label>TODO</InstallPsychicReader.label>
+  <InstallPsychicReader.label>installeer psychische lezer</InstallPsychicReader.label>
   <!-- EN: Install a psychic reader. -->
-  <InstallPsychicReader.description>TODO</InstallPsychicReader.description>
+  <InstallPsychicReader.description>installeer een psychische lezer.</InstallPsychicReader.description>
   <!-- EN: Installing psychic reader. -->
-  <InstallPsychicReader.jobString>TODO</InstallPsychicReader.jobString>
+  <InstallPsychicReader.jobString>Psychische lezer aan het installeren.</InstallPsychicReader.jobString>
   
   <!-- EN: install psychic sensitizer -->
-  <InstallPsychicSensitizer.label>TODO</InstallPsychicSensitizer.label>
+  <InstallPsychicSensitizer.label>installeer psychische gevoeligheidsverhoger</InstallPsychicSensitizer.label>
   <!-- EN: Install a psychic sensitizer. -->
-  <InstallPsychicSensitizer.description>TODO</InstallPsychicSensitizer.description>
+  <InstallPsychicSensitizer.description>Installeer een psychische gevoeligheidsverhoger.</InstallPsychicSensitizer.description>
   <!-- EN: Installing psychic sensitizer. -->
-  <InstallPsychicSensitizer.jobString>TODO</InstallPsychicSensitizer.jobString>
+  <InstallPsychicSensitizer.jobString>psychische gevoeligheidsverhoger aan het installeren.</InstallPsychicSensitizer.jobString>
   
   <!-- EN: remove psychic harmonizer -->
-  <RemovePsychicHarmonizer.label>TODO</RemovePsychicHarmonizer.label>
+  <RemovePsychicHarmonizer.label>verwijder psychische harmonisator</RemovePsychicHarmonizer.label>
   <!-- EN: Remove psychic harmonizer. -->
-  <RemovePsychicHarmonizer.description>TODO</RemovePsychicHarmonizer.description>
+  <RemovePsychicHarmonizer.description>Verwijder een psychische harmonisator.</RemovePsychicHarmonizer.description>
   <!-- EN: Removing psychic harmonizer. -->
-  <RemovePsychicHarmonizer.jobString>TODO</RemovePsychicHarmonizer.jobString>
+  <RemovePsychicHarmonizer.jobString>Psychische harmonisator aan het verwijderen.</RemovePsychicHarmonizer.jobString>
   
   <!-- EN: remove psychic reader -->
-  <RemovePsychicReader.label>TODO</RemovePsychicReader.label>
+  <RemovePsychicReader.label>verwijder psychische lezer</RemovePsychicReader.label>
   <!-- EN: Remove psychic reader. -->
-  <RemovePsychicReader.description>TODO</RemovePsychicReader.description>
+  <RemovePsychicReader.description>Verwijder een psychische lezer.</RemovePsychicReader.description>
   <!-- EN: Removing psychic reader. -->
-  <RemovePsychicReader.jobString>TODO</RemovePsychicReader.jobString>
+  <RemovePsychicReader.jobString>Psychische lezer aan het verwijderen.</RemovePsychicReader.jobString>
   
   <!-- EN: remove psychic sensitizer -->
-  <RemovePsychicSensitizer.label>TODO</RemovePsychicSensitizer.label>
+  <RemovePsychicSensitizer.label>verwijder psychische gevoeligheidsverhoger</RemovePsychicSensitizer.label>
   <!-- EN: Remove psychic sensitizer. -->
-  <RemovePsychicSensitizer.description>TODO</RemovePsychicSensitizer.description>
+  <RemovePsychicSensitizer.description>Verwijder een psychische gevoeligheidsverhoger.</RemovePsychicSensitizer.description>
   <!-- EN: Removing psychic sensitizer. -->
-  <RemovePsychicSensitizer.jobString>TODO</RemovePsychicSensitizer.jobString>
+  <RemovePsychicSensitizer.jobString>Psychische gevoeligheidsverhoger aan het verwijderen.</RemovePsychicSensitizer.jobString>
   
 </LanguageData>

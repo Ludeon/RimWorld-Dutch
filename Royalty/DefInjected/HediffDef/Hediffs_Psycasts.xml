@@ -2,79 +2,79 @@
 <LanguageData>
   
   <!-- EN: entropy link -->
-  <EntropyLink.label>TODO</EntropyLink.label>
+  <EntropyLink.label>entropie link</EntropyLink.label>
   <!-- EN: A psychic link with another individual. Gain or loss of neural heat incurred by one will be shared equally between both. -->
-  <EntropyLink.description>TODO</EntropyLink.description>
+  <EntropyLink.description>Een psychische link met een ander individu. Winst of verlies van neurale warmte die door iemand wordt opgelopen, zal gelijkelijk over beide worden verdeeld.</EntropyLink.description>
   
   <!-- EN: joyfuzz -->
-  <Joyfuzz.label>TODO</Joyfuzz.label>
+  <Joyfuzz.label>vreugdewolk</Joyfuzz.label>
   <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
-  <Joyfuzz.description>TODO</Joyfuzz.description>
+  <Joyfuzz.description>Psychisch opgewekte gevoelens van warmte, comfort en acceptatie. Dit verbetert de stemming, maar het ontbreken van negatieve stimulatie veroorzaakt een milde verdoving en vermindert het bewustzijn.</Joyfuzz.description>
   
   <!-- EN: psylink -->
-  <PsychicAmplifier.label>TODO</PsychicAmplifier.label>
+  <PsychicAmplifier.label>psylink</PsychicAmplifier.label>
   <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psychic powers that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
-  <PsychicAmplifier.description>TODO</PsychicAmplifier.description>
+  <PsychicAmplifier.description>Een organische verbinding met een groter psychisch veld. Hierdoor kan een persoon specifieke psychische krachten gebruiken die hij heeft geleerd om de werkelijkheid te beïnvloeden op manieren die onmogelijk lijken.\n\nHogere niveaus van psylink maken het gebruik van meer krachten mogelijk. Ongeacht het psylink-niveau kan een persoon alleen specifieke krachten gebruiken die hij heeft geleerd.\n\nPsylink komt uit verschillende bronnen. Psylink neuroformer-apparaten voor eenmalig gebruik kunnen een psylink creëren. Inheemse volken weten ook hoe ze het moeten ontwikkelen door ritueel te verbinden met psychisch verbonden levensvormen.\n\nPsylink is een fysiek fenomeen in de hersenen dat slecht wordt begrepen door wetenschappers, niet in de laatste plaats omdat het zich actief lijkt te verbergen als het te nauw wordt bestudeerd. Een ding waar het meest het over eens is, is dat het mensen op de een of andere manier met archotechs verbindt en hun macht gebruikt, mogelijk via een soort van onderhandelings- of sympathiemechanisme.</PsychicAmplifier.description>
   
   <!-- EN: psychic anesthesia -->
-  <PsychicAnesthesia.label>TODO</PsychicAnesthesia.label>
+  <PsychicAnesthesia.label>psychische verdoving</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
-  <PsychicAnesthesia.description>TODO</PsychicAnesthesia.description>
+  <PsychicAnesthesia.description>Psychisch geïnduceerde ongevoeligheid voor pijn.</PsychicAnesthesia.description>
   
   <!-- EN: psychic blindness -->
-  <PsychicBlindness.label>TODO</PsychicBlindness.label>
+  <PsychicBlindness.label>psychische blindheid</PsychicBlindness.label>
   <!-- EN: Psychically-induced partial blindness. -->
-  <PsychicBlindness.description>TODO</PsychicBlindness.description>
+  <PsychicBlindness.description>Psychisch veroorzaakte gedeeltelijke blindheid.</PsychicBlindness.description>
   
   <!-- EN: psychic breakdown -->
-  <PsychicBreakdown.label>TODO</PsychicBreakdown.label>
+  <PsychicBreakdown.label>psychische instorting</PsychicBreakdown.label>
   <!-- EN: Deep psychic destabilization of the mind. Psychic breakdown last for days, causing mental disturbances of various kinds. It resolves itself with time. -->
-  <PsychicBreakdown.description>TODO</PsychicBreakdown.description>
+  <PsychicBreakdown.description>Diepe psychische destabilisatie van de geest. Psychische instorting duurt dagen en veroorzaakt verschillende soorten psychische stoornissen. Het lost zichzelf op met de tijd.</PsychicBreakdown.description>
   <!-- EN: minor -->
-  <PsychicBreakdown.stages.minor.label>TODO</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.minor.label>kleinschalig</PsychicBreakdown.stages.minor.label>
   <!-- EN: major -->
-  <PsychicBreakdown.stages.major.label>TODO</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.major.label>grootschalig</PsychicBreakdown.stages.major.label>
   <!-- EN: total -->
-  <PsychicBreakdown.stages.total.label>TODO</PsychicBreakdown.stages.total.label>
+  <PsychicBreakdown.stages.total.label>totaal</PsychicBreakdown.stages.total.label>
   
   <!-- EN: psychic burden -->
-  <PsychicBurden.label>TODO</PsychicBurden.label>
+  <PsychicBurden.label>psychische last</PsychicBurden.label>
   <!-- EN: Psychically-induced difficulty in locomotion. -->
-  <PsychicBurden.description>TODO</PsychicBurden.description>
+  <PsychicBurden.description>Psychisch veroorzaakte problemen bij het voortbewegen.</PsychicBurden.description>
   
   <!-- EN: neural heat -->
-  <PsychicEntropy.label>TODO</PsychicEntropy.label>
+  <PsychicEntropy.label>neurale warmte</PsychicEntropy.label>
   <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
-  <PsychicEntropy.description>TODO</PsychicEntropy.description>
+  <PsychicEntropy.description>Ondanks dat het 'warmte' wordt genoemd, is neurale warmte geen maatstaf voor temperatuur. Het verwijst naar een soort chaotische psychische energie in de geest die wordt opgebouwd bij het gebruik van paranormale krachten en verdwijnt in de loop van een paar seconden of minuten.\n\nAls de neurale warmte de normale grenzen overschrijdt, kan dit een tijdelijke psychische instorting veroorzaken en bewusteloosheid als gevolg van psychische shock. Deze omstandigheden veroorzaken geen permanente schade.</PsychicEntropy.description>
   <!-- EN: safe -->
-  <PsychicEntropy.stages.safe.label>TODO</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.safe.label>veilig</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
-  <PsychicEntropy.stages.overloaded.label>TODO</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.overloaded.label>overbelast</PsychicEntropy.stages.overloaded.label>
   <!-- EN: very overloaded -->
-  <PsychicEntropy.stages.very_overloaded.label>TODO</PsychicEntropy.stages.very_overloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>zwaar overbelast</PsychicEntropy.stages.very_overloaded.label>
   <!-- EN: extreme -->
-  <PsychicEntropy.stages.extreme.label>TODO</PsychicEntropy.stages.extreme.label>
+  <PsychicEntropy.stages.extreme.label>extreem</PsychicEntropy.stages.extreme.label>
   <!-- EN: overwhelming -->
-  <PsychicEntropy.stages.overwhelming.label>TODO</PsychicEntropy.stages.overwhelming.label>
+  <PsychicEntropy.stages.overwhelming.label>overweldigend</PsychicEntropy.stages.overwhelming.label>
   
   <!-- EN: psychic focus -->
-  <PsychicFocus.label>TODO</PsychicFocus.label>
+  <PsychicFocus.label>psychische focus </PsychicFocus.label>
   <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capactities. -->
-  <PsychicFocus.description>TODO</PsychicFocus.description>
+  <PsychicFocus.description>Psychisch geïnduceerde mentale focus, waardoor het gezichts-, gehoor- en bewegingsvermogen toeneemt.</PsychicFocus.description>
   
   <!-- EN: psychic invisibility -->
-  <PsychicInvisibility.label>TODO</PsychicInvisibility.label>
+  <PsychicInvisibility.label>psychische onzichtbaarheid</PsychicInvisibility.label>
   <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected. -->
-  <PsychicInvisibility.description>TODO</PsychicInvisibility.description>
+  <PsychicInvisibility.description>Psychisch veroorzaakte onzichtbaarheid. Dit heeft eigenlijk invloed op anderen in de buurt, waardoor hun hersenen de aanblik van deze persoon niet kunnen waarnemen, ook al worden de ogen niet aangetast.</PsychicInvisibility.description>
   
   <!-- EN: psychic love -->
-  <PsychicLove.label>TODO</PsychicLove.label>
+  <PsychicLove.label>psychische liefde</PsychicLove.label>
   <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
-  <PsychicLove.description>TODO</PsychicLove.description>
+  <PsychicLove.description>Psychisch opgewekt romantisch verlangen. Dit vergroot de mening van een persoon over iemand anders en vergroot de kans op romantische avances en huwelijksaanzoeken, terwijl de kans op een breuk kleiner wordt.</PsychicLove.description>
   
   <!-- EN: psychic vertigo -->
-  <PsychicVertigo.label>TODO</PsychicVertigo.label>
+  <PsychicVertigo.label>psychische duizeligheid</PsychicVertigo.label>
   <!-- EN: Psychically-induced loss of spatial orientation. This will cause flesh creatures to vomit. -->
-  <PsychicVertigo.description>TODO</PsychicVertigo.description>
+  <PsychicVertigo.description>Psychisch veroorzaakt verlies van ruimtelijke oriëntatie. Hierdoor zullen wezens van vlees overgeven.</PsychicVertigo.description>
   
 </LanguageData>

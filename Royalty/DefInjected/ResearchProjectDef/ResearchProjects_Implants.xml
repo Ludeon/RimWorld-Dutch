@@ -2,58 +2,58 @@
 <LanguageData>
   
   <!-- EN: artificial metabolism -->
-  <ArtificialMetabolism.label>TODO</ArtificialMetabolism.label>
+  <ArtificialMetabolism.label>kunstmatig metabolisme</ArtificialMetabolism.label>
   <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
-  <ArtificialMetabolism.description>TODO</ArtificialMetabolism.description>
+  <ArtificialMetabolism.description>Maak bionica die voedsel veiliger of efficiënter verwerken dan een biologische maag.</ArtificialMetabolism.description>
   
   <!-- EN: brain wiring -->
-  <BrainWiring.label>TODO</BrainWiring.label>
+  <BrainWiring.label>hersenbedrading</BrainWiring.label>
   <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
-  <BrainWiring.description>TODO</BrainWiring.description>
+  <BrainWiring.description>Maak hersenimplantaten die rauwe sensaties zoals vreugde of pijn opwekken of voorkomen.</BrainWiring.description>
   
   <!-- EN: circadian influence -->
-  <CircadianInfluence.label>TODO</CircadianInfluence.label>
+  <CircadianInfluence.label>circadiane invloed</CircadianInfluence.label>
   <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
-  <CircadianInfluence.description>TODO</CircadianInfluence.description>
+  <CircadianInfluence.description>Maak hersenimplantaten die het circadiane ritme chemisch manipuleren, waardoor de behoefte om te slapen wordt verminderd of veranderd.</CircadianInfluence.description>
   
   <!-- EN: compact weaponry -->
-  <CompactWeaponry.label>TODO</CompactWeaponry.label>
+  <CompactWeaponry.label>compacte wapens</CompactWeaponry.label>
   <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
-  <CompactWeaponry.description>TODO</CompactWeaponry.description>
+  <CompactWeaponry.description>Maak compacte, camoufleerbare bionische wapens die in verschillende lichaamsdelen kunnen worden ingebed.</CompactWeaponry.description>
   
   <!-- EN: flesh shaping -->
-  <FleshShaping.label>TODO</FleshShaping.label>
+  <FleshShaping.label>vleesvorming</FleshShaping.label>
   <!-- EN: Craft bionics which induce the reshaping or natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
-  <FleshShaping.description>TODO</FleshShaping.description>
+  <FleshShaping.description>Maak bionica die de hervorming van het natuurlijke vlees teweegbrengen, meestal met het oog op esthetische verbetering of persoonlijk genot.</FleshShaping.description>
   
   <!-- EN: healing factors -->
-  <HealingFactors.label>TODO</HealingFactors.label>
+  <HealingFactors.label>genezende factoren</HealingFactors.label>
   <!-- EN: Craft bionics that enhance natural healing processes. -->
-  <HealingFactors.description>TODO</HealingFactors.description>
+  <HealingFactors.description>Maak bionica die natuurlijke genezingsprocessen versterken.</HealingFactors.description>
   
   <!-- EN: molecular analysis -->
-  <MolecularAnalysis.label>TODO</MolecularAnalysis.label>
+  <MolecularAnalysis.label>moleculaire analyse</MolecularAnalysis.label>
   <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
-  <MolecularAnalysis.description>TODO</MolecularAnalysis.description>
+  <MolecularAnalysis.description>Maak bionica met moleculaire analysatoren om het immuunsysteem te ondersteunen of voedsel te analyseren.</MolecularAnalysis.description>
   
   <!-- EN: neural computation -->
-  <NeuralComputation.label>TODO</NeuralComputation.label>
+  <NeuralComputation.label>neurale berekening</NeuralComputation.label>
   <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
-  <NeuralComputation.description>TODO</NeuralComputation.description>
+  <NeuralComputation.description>Maak hersenimplantaten die helpen bij het denken en leren door gebruik te maken van een directe, oppervlakkige interface tussen een computer en de hersenen.</NeuralComputation.description>
   
   <!-- EN: skin hardening -->
-  <SkinHardening.label>TODO</SkinHardening.label>
+  <SkinHardening.label>huidverharding</SkinHardening.label>
   <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
-  <SkinHardening.description>TODO</SkinHardening.description>
+  <SkinHardening.description>Maak bionische implantaten die de natuurlijke huid harder maken en een pantser-achtig effect produceren.</SkinHardening.description>
   
   <!-- EN: specialized limbs -->
-  <SpecializedLimbs.label>TODO</SpecializedLimbs.label>
+  <SpecializedLimbs.label>gespecialiseerde ledematen</SpecializedLimbs.label>
   <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
-  <SpecializedLimbs.description>TODO</SpecializedLimbs.description>
+  <SpecializedLimbs.description>Maak gespecialiseerde bionische ledematen die zijn gebouwd voor specifieke doeleinden - zowel vechten als arbeid.</SpecializedLimbs.description>
   
   <!-- EN: poison synthesis -->
-  <VenomSynthesis.label>TODO</VenomSynthesis.label>
+  <VenomSynthesis.label>gifsynthese</VenomSynthesis.label>
   <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
-  <VenomSynthesis.description>TODO</VenomSynthesis.description>
+  <VenomSynthesis.description>Maak bionica die gif synthetiseren uit interne chemische reactoren voor gebruik bij het vergiftigen van vijanden tijdens gevechten.</VenomSynthesis.description>
   
 </LanguageData>

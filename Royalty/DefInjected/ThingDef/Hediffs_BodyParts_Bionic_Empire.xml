@@ -2,88 +2,88 @@
 <LanguageData>
   
   <!-- EN: aesthetic nose -->
-  <AestheticNose.label>TODO</AestheticNose.label>
+  <AestheticNose.label>esthetische neus</AestheticNose.label>
   <!-- EN: The nose is shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions. -->
-  <AestheticNose.description>TODO</AestheticNose.description>
+  <AestheticNose.description>De neus is gevormd naar de gewenste vorm van de gebruiker, voldoet aan de gangbare schoonheidsnormen en verbetert de fysieke indrukken.</AestheticNose.description>
   
   <!-- EN: aesthetic shaper -->
-  <AestheticShaper.label>TODO</AestheticShaper.label>
+  <AestheticShaper.label>esthetische vormer</AestheticShaper.label>
   <!-- EN: A sophisticated package of hormonal and mechanite influences shapes the muscles and fat on the body, adding non-functional aesthetic tissue where needed to achieve a desired appearance. This implant can be configured to form various body shapes according to the user's taste - or that of their partner. -->
-  <AestheticShaper.description>TODO</AestheticShaper.description>
+  <AestheticShaper.description>Een uitgekiend pakket van hormonale en mechanische invloeden vormt de spieren en het vet op het lichaam en voegt waar nodig niet-functioneel esthetisch weefsel toe om het gewenste uiterlijk te bereiken. Dit implantaat kan worden geconfigureerd om verschillende lichaamsvormen te vormen volgens de smaak van de gebruiker - of die van diens partner.</AestheticShaper.description>
   
   <!-- EN: armorskin gland -->
-  <ArmorskinGland.label>TODO</ArmorskinGland.label>
+  <ArmorskinGland.label>pantserhuid klier</ArmorskinGland.label>
   <!-- EN: This bionic gland releases chemicals and nanomachines that toughen the skin and add flexible subdermal keratin plates at strategic points. This makes the user more resistant to damage across their whole body. Unfortunately, these changes make the skin appear leathery, with wrinkles across the whole body and face, which is generally considered ugly. -->
-  <ArmorskinGland.description>TODO</ArmorskinGland.description>
+  <ArmorskinGland.description>Deze bionische klier geeft chemicaliën en nanomachines vrij die de huid harder maken en flexibele onderhuidse keratineplaten toevoegen op strategische punten. Dit maakt de gebruiker beter bestand tegen schade over het hele lichaam. Helaas zorgen deze veranderingen ervoor dat de huid er leerachtig uitziet, met rimpels over het hele lichaam en gezicht, wat over het algemeen als lelijk wordt beschouwd.</ArmorskinGland.description>
   
   <!-- EN: circadian assistant -->
-  <CircadianAssistant.label>TODO</CircadianAssistant.label>
+  <CircadianAssistant.label>circadiane assistent</CircadianAssistant.label>
   <!-- EN: An artificial gland. Produces chemicals and nanomachines that clear toxin buildup from the brain. -->
-  <CircadianAssistant.description>TODO</CircadianAssistant.description>
+  <CircadianAssistant.description>Een kunstmatige klier. Produceert chemicaliën en nanomachines die de opeenhoping van gifstoffen uit de hersenen verwijderen.</CircadianAssistant.description>
   
   <!-- EN: circadian half-cycler -->
-  <CircadianHalfCycler.label>TODO</CircadianHalfCycler.label>
+  <CircadianHalfCycler.label>circadiane cyclus-halveerder</CircadianHalfCycler.label>
   <!-- EN: A signal redirector which isolates half of the brain, allowing the other half to sleep while the user remains outwardly awake. By alternating brain halves, the user never needs to sleep. Unfortunately, two hemispheres are better than one - working with half a brain causes a reduction in consciousness. -->
-  <CircadianHalfCycler.description>TODO</CircadianHalfCycler.description>
+  <CircadianHalfCycler.description>Een signaalomvormer die de helft van de hersenen isoleert, waardoor de andere helft kan slapen terwijl de gebruiker uiterlijk wakker blijft. Door de hersenhelften af te wisselen, hoeft de gebruiker nooit te slapen. Helaas zijn twee hersenhelften beter dan één - werken met een half brein veroorzaakt een vermindering van het bewustzijn.</CircadianHalfCycler.description>
   
   <!-- EN: coagulator -->
-  <Coagulator.label>TODO</Coagulator.label>
+  <Coagulator.label>coagulator</Coagulator.label>
   <!-- EN: Releases coagulating factors in response to blood loss, reducing bleeding rates significantly. -->
-  <Coagulator.description>TODO</Coagulator.description>
+  <Coagulator.description>Geeft stollingsstoffen vrij als reactie op bloedverlies, waardoor het aantal bloedingen aanzienlijk wordt verminderd.</Coagulator.description>
   
   <!-- EN: detoxifier stomach -->
-  <DetoxifierStomach.label>TODO</DetoxifierStomach.label>
+  <DetoxifierStomach.label>ontgifter maag</DetoxifierStomach.label>
   <!-- EN: An artificial stomach replacement with a broad-spectrum toxin filter and neutralization system. It allows the user to eat almost anything without ever worrying about food poisoning. -->
-  <DetoxifierStomach.description>TODO</DetoxifierStomach.description>
+  <DetoxifierStomach.description>Een kunstmatige maagvervanging met een breed-spectrum toxinefilter en neutralisatiesysteem. Hierdoor kan de gebruiker bijna alles eten zonder zich ooit zorgen te maken over voedselvergiftiging.</DetoxifierStomach.description>
   
   <!-- EN: gastro-analyzer -->
-  <GastroAnalyzer.label>TODO</GastroAnalyzer.label>
+  <GastroAnalyzer.label>gastro-analysator</GastroAnalyzer.label>
   <!-- EN: This bionic nose implant enhances the sense of smell, with a focus towards food-related smells. A multi-layered ultrafine absorption mesh detects compounds in the air. A microprocessor formats the readings into an olfactory nerve signal to send to the brain through a nerve-link interface. The result is that the user can smell foods with a depth, richness, and precision unknown among unenhanced humans, allowing them to cook more effectively. The whole unit is small enough to be installed in the nose without affecting the user's appearance. -->
-  <GastroAnalyzer.description>TODO</GastroAnalyzer.description>
+  <GastroAnalyzer.description>Dit bionische neusimplantaat verbetert het reukvermogen, met een focus op voedselgerelateerde geuren. Een meerlagig ultrafijn absorptiegaas detecteert chemische stoffen in de lucht. Een microprocessor zet de metingen om in een reukzenuwsignaal dat via een zenuw-link-interface naar de hersenen wordt gestuurd. Het resultaat is dat de gebruiker voedsel kan ruiken met een diepte, rijkdom en precisie die onbekend is bij niet-versterkte mensen, waardoor ze effectiever kunnen koken. De hele eenheid is klein genoeg om in de neus te worden geïnstalleerd zonder het uiterlijk van de gebruiker te beïnvloeden.</GastroAnalyzer.description>
   
   <!-- EN: healing enhancer -->
-  <HealingEnhancer.label>TODO</HealingEnhancer.label>
+  <HealingEnhancer.label>genezingsversterker</HealingEnhancer.label>
   <!-- EN: Releases nanomachines and healing factors that speed up wound healing. This implant only helps with physical wounds, and does nothing to combat disease or other health problems. -->
-  <HealingEnhancer.description>TODO</HealingEnhancer.description>
+  <HealingEnhancer.description>Geeft nanomachines en genezende factoren vrij die wondgenezing versnellen. Dit implantaat helpt alleen bij lichamelijke wonden en doet niets om ziektes of andere gezondheidsproblemen te bestrijden.</HealingEnhancer.description>
   
   <!-- EN: immunoenhancer -->
-  <Immunoenhancer.label>TODO</Immunoenhancer.label>
+  <Immunoenhancer.label>immunoversterker</Immunoenhancer.label>
   <!-- EN: An analysis computer inspects the bloodstream, classifies pathogens, and rapidly prompts the body's natural immune system to respond to them faster than it could alone. This speeds immunity gain significantly. -->
-  <Immunoenhancer.description>TODO</Immunoenhancer.description>
+  <Immunoenhancer.description>Een analysecomputer inspecteert de bloedbaan, classificeert ziekteverwekkers en stimuleert snel het natuurlijke immuunsysteem van het lichaam om sneller te reageren dan het alleen zou kunnen. Dit versnelt de toename van immuniteit aanzienlijk.</Immunoenhancer.description>
   
   <!-- EN: learning assistant -->
-  <LearningAssistant.label>TODO</LearningAssistant.label>
+  <LearningAssistant.label>leerassistent</LearningAssistant.label>
   <!-- EN: A sensory recording system that replays important experiences during sleep, strengthening the formation of new memories. -->
-  <LearningAssistant.description>TODO</LearningAssistant.description>
+  <LearningAssistant.description>Een sensorisch opnamesysteem dat belangrijke ervaringen tijdens de slaap herhaalt, waardoor de vorming van nieuwe herinneringen wordt versterkt.</LearningAssistant.description>
   
   <!-- EN: love enhancer -->
-  <LoveEnhancer.label>TODO</LoveEnhancer.label>
+  <LoveEnhancer.label>liefdesverbeteraar</LoveEnhancer.label>
   <!-- EN: Humans have always tried to use every new technology to enhance sexual satisfaction. Bionics were no exception. This implant makes physical and chemical changes to the body which enhance the experience of lovin' for both partners - both physically and psychologically. The implant unit can adapt to enhance both men and women upon being implanted. -->
-  <LoveEnhancer.description>TODO</LoveEnhancer.description>
+  <LoveEnhancer.description>Mensen hebben altijd geprobeerd om elke nieuwe technologie te gebruiken om seksuele bevrediging te vergroten. Bionica waren geen uitzondering. Dit implantaat brengt fysieke en chemische veranderingen in het lichaam aan die de liefdesbelevenis voor beide partners versterken - zowel fysiek als psychologisch. De implantaateenheid kan worden aangepast voor zowel mannen als vrouwen.</LoveEnhancer.description>
   
   <!-- EN: neurocalculator -->
-  <Neurocalculator.label>TODO</Neurocalculator.label>
+  <Neurocalculator.label>neurocalculator</Neurocalculator.label>
   <!-- EN: A non-intelligent microcomputer controlled by a visual/tactile neural interface. It assists with memory and calculation, like a calculator and notepad embedded in the brain. -->
-  <Neurocalculator.description>TODO</Neurocalculator.description>
+  <Neurocalculator.description>Een niet-intelligente microcomputer die wordt bestuurd door een visuele / tactiele neurale interface. Het helpt bij het geheugen en met berekeningen, zoals een rekenmachine en een notitieblok in de hersenen.</Neurocalculator.description>
   
   <!-- EN: nuclear stomach -->
-  <NuclearStomach.label>TODO</NuclearStomach.label>
+  <NuclearStomach.label>nucleaire maag</NuclearStomach.label>
   <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artifical stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
-  <NuclearStomach.description>TODO</NuclearStomach.description>
+  <NuclearStomach.description>Een micro-kernreactor gecombineerd met complexe chemische synthese vervangt de behoefte van het lichaam aan voedselenergie. Voedsel is alleen nodig om het verloren materiaal uit het lichaam te vervangen, waardoor de behoefte van de gebruiker aanzienlijk wordt verminderd. Deze kunstmatige maag kan geen voedselvergiftiging krijgen. Er is echter weinig ruimte om de reactor af te schermen, waardoor de straling de kans op kanker vergroot.</NuclearStomach.description>
   
   <!-- EN: reprocessor stomach -->
-  <ReprocessorStomach.label>TODO</ReprocessorStomach.label>
+  <ReprocessorStomach.label>herverwerker maag</ReprocessorStomach.label>
   <!-- EN: An advanced chemical processing system breaks down nutrients the body could normally never use, leading to increased efficiency. -->
-  <ReprocessorStomach.description>TODO</ReprocessorStomach.description>
+  <ReprocessorStomach.description>Een geavanceerd chemisch verwerkingssysteem breekt voedingsstoffen af die het lichaam normaal nooit zou kunnen gebruiken, wat leidt tot een verhoogde efficiëntie.</ReprocessorStomach.description>
   
   <!-- EN: stoneskin gland -->
-  <StoneskinGland.label>TODO</StoneskinGland.label>
+  <StoneskinGland.label>steenhuid klier</StoneskinGland.label>
   <!-- EN: This bionic gland releases chemical and nanomachines that transform the user's skin into a built-in suit of armor. The whole epidermis thickens and hardens to resist burns, while jointed exterior keratin plates form everywhere they can - including the head and face. While it's very difficult to physically hurt someone using this implant, the plates and hard skin significantly reduces the user's physical attractiveness. -->
-  <StoneskinGland.description>TODO</StoneskinGland.description>
+  <StoneskinGland.description>Deze bionische klier maakt chemicaliën en nanomachines vrij die de huid van de gebruiker veranderen in een ingebouwd pantser. De hele epidermis wordt dikker en hardt om brandwonden te weerstaan, terwijl aan de buitenkant verbonden keratineplaten zich overal vormen - inclusief het hoofd en het gezicht. Hoewel het erg moeilijk is om iemand die dit implantaat gebruikt lichamelijk pijn te doen, verminderen de platen en harde huid de fysieke aantrekkelijkheid van de gebruiker aanzienlijk.</StoneskinGland.description>
   
   <!-- EN: toughskin gland -->
-  <ToughskinGland.label>TODO</ToughskinGland.label>
+  <ToughskinGland.label>hardhuid klier</ToughskinGland.label>
   <!-- EN: This bionic gland releases chemicals and nanomachines that toughen the skin, making it somewhat more resistant to damage. While it doesn't add as much protection as some other skin-hardening glands, the toughskin gland has the advantage of not noticeably altering the user's appearance. -->
-  <ToughskinGland.description>TODO</ToughskinGland.description>
+  <ToughskinGland.description>Deze bionische klier geeft chemicaliën en nanomachines vrij die de huid harder maken, waardoor deze wat beter bestand is tegen beschadiging. Hoewel het niet zoveel bescherming biedt als sommige andere huidversterkende klieren, heeft de hardhuid klier het voordeel dat het uiterlijk van de gebruiker niet merkbaar verandert.</ToughskinGland.description>
   
 </LanguageData>

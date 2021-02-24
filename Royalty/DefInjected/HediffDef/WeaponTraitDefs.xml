@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: psychic hunger -->
-  <HungerMaker.label>TODO</HungerMaker.label>
+  <HungerMaker.label>psychische honger</HungerMaker.label>
   <!-- EN: Hunger is increased by the psychic influence of a bonded weapon. -->
-  <HungerMaker.description>TODO</HungerMaker.description>
+  <HungerMaker.description>Honger wordt versterkt door de psychische invloed van een gebonden wapen.</HungerMaker.description>
   
   <!-- EN: assisted neural cooling -->
-  <NeuralHeatRecoveryGain.label>TODO</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>ondersteunde neurale koeling</NeuralHeatRecoveryGain.label>
   <!-- EN: Neural heat dissipation is improved by the psychic influence of a bonded weapon. -->
-  <NeuralHeatRecoveryGain.description>TODO</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.description>Neurale warmteafvoer wordt verbeterd door de psychische invloed van een gebonden wapen.</NeuralHeatRecoveryGain.description>
   
   <!-- EN: psychic painlessness -->
-  <NoPain.label>TODO</NoPain.label>
+  <NoPain.label>psychische pijnloosheid</NoPain.label>
   <!-- EN: Pain is disabled by the psychic influence of a wielded weapon. -->
-  <NoPain.description>TODO</NoPain.description>
+  <NoPain.description>Pijn wordt uitgeschakeld door de psychische invloed van een gehanteerd wapen.</NoPain.description>
   
   <!-- EN: psychic speed -->
-  <SpeedBoost.label>TODO</SpeedBoost.label>
+  <SpeedBoost.label>psychische snelheid</SpeedBoost.label>
   <!-- EN: Movement is sped up by the psychic influence of a wielded weapon. -->
-  <SpeedBoost.description>TODO</SpeedBoost.description>
+  <SpeedBoost.description>Beweging wordt versneld door de psychische invloed van een gehanteerd wapen.</SpeedBoost.description>
   
 </LanguageData>

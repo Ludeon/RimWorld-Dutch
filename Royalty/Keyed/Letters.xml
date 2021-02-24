@@ -3,181 +3,181 @@
 
   <!-- Royal titles -->
   <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
-  <LetterLabelLostRoyalTitle>TODO</LetterLabelLostRoyalTitle>
+  <LetterLabelLostRoyalTitle>Titel "{TITLE}" verloren: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
-  <LetterLabelGainedRoyalTitle>TODO</LetterLabelGainedRoyalTitle>
+  <LetterLabelGainedRoyalTitle>Titel "{TITLE}" verkregen: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
-  <PermitPointsAwarded>TODO</PermitPointsAwarded>
+  <PermitPointsAwarded>Toegekende vergunningspunten: {0}.</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
-  <LetterRoyalTitleApparelQualityRequirement>TODO</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelQualityRequirement>Deze titel vereist kleding van kwaliteit {1} of beter.</LetterRoyalTitleApparelQualityRequirement>
   <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
-  <LetterRoyalTitleApparelRequirement>TODO</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleApparelRequirement>Deze titel vereist kleding die past bij {PAWN_possessive} titel:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
-  <LetterRoyalTitleExpectation>TODO</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleExpectation>{PAWN_possessive} verwachtingen zullen nooit minder zijn dan {1}.</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>TODO</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>Omdat {PAWN_labelShort} {1} is, zal {PAWN_pronoun} eisen dat de privileges van deze titel volledig worden gerespecteerd. {PAWN_pronoun} kan weigeren om bepaalde soorten werk uit te voeren, eten van lage klasse te eten en zal decreten uitvaardigen.</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
-  <LetterGainedRoyalTitle>TODO</LetterGainedRoyalTitle>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} heeft de titel "{TITLE}" ontvangen van {FACTION_name}!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
-  <LetterLostRoyalTitle>TODO</LetterLostRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} heeft niet langer de titel "{TITLE}" van {FACTION_name}.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
-  <LetterLabelRewardsForNewTitle>TODO</LetterLabelRewardsForNewTitle>
+  <LetterLabelRewardsForNewTitle>Titelbeloningen</LetterLabelRewardsForNewTitle>
   <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
-  <LetterRewardsForNewTitle>TODO</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitle>Ter ere van {PAWN_labelShort} die promoveert naar de titel "{TITLE}", heeft {FACTION_name} {PAWN_objective} de volgende beloning(en) gestuurd:</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
-  <LetterRewardsForNewTitleDeliveryBase>TODO</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryBase>Beloningen zijn via transportcapsules naar je kolonie gekomen.</LetterRewardsForNewTitleDeliveryBase>
   <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
-  <LetterRewardsForNewTitleDeliveryDirect>TODO</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRewardsForNewTitleDeliveryDirect>Beloningen werden rechtstreeks afgeleverd in de inventaris van {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
-  <LetterRoyalTitlePermits>TODO</LetterRoyalTitlePermits>
+  <LetterRoyalTitlePermits>{PAWN_pronoun} heeft deze rechten:</LetterRoyalTitlePermits>
   <!-- EN: {PAWN_pronoun} lost these permissions: -->
-  <LetterRoyalTitleLostPermits>TODO</LetterRoyalTitleLostPermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} heeft deze rechten verloren:</LetterRoyalTitleLostPermits>
 
   <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
-  <LetterRoyalTitleDisabledWorkTag>TODO</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} is niet bereid om deze werktypes te doen:\n{1}</LetterRoyalTitleDisabledWorkTag>
 
   <!-- EN: {PAWN_pronoun} can now use this recreation: -->
-  <LetterRoyalTitleEnabledJoyKind>TODO</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} kan nu deze recreatie gebruiken:</LetterRoyalTitleEnabledJoyKind>
   <!-- EN: This title forbids using this recreation: -->
-  <LetterRoyalTitleDisabledJoyKind>TODO</LetterRoyalTitleDisabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>Deze titel verbiedt het gebruik van deze recreatie:</LetterRoyalTitleDisabledJoyKind>
 
   <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
-  <LetterRoyalTitleAllowedImplants>TODO</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} mag deze implantaten gebruiken: {1}</LetterRoyalTitleAllowedImplants>
   <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
-  <LetterRoyalTitleImplantsMustBeRemoved>TODO</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} mag deze implantaten niet meer gebruiken: {1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
-  <LetterRoyalTitleImplantGracePeriod>TODO</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleImplantGracePeriod>De implantaten moeten binnen een periode van vijf dagen worden verwijderd om diplomatieke gevolgen te vermijden.</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
-  <LetterRoyalTitleSpeechAbilityGained>TODO</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} kan nu toespraken houden vanaf de troon. Als het goed gaat, zullen luisteraars zich geïnspireerd voelen. Als het slecht gaat, zal de toespraak sociale schade aanrichten. Het resultaat hangt af van de sociale vaardigheden van {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
   <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
-  <LetterRoyalTitleThroneroomRequirements>TODO</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleThroneroomRequirements>Deze titel vereist een troonzaal die aan deze vereisten voldoet:{1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
-  <LetterRoyalTitleBedroomRequirements>TODO</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>Deze titel vereist een slaapkamer die aan deze vereisten voldoet:{1}</LetterRoyalTitleBedroomRequirements>
   <!-- EN: This title says that {PAWN_pronoun} should only eat these foods:{1} -->
-  <LetterRoyalTitleFoodRequirements>TODO</LetterRoyalTitleFoodRequirements>
+  <LetterRoyalTitleFoodRequirements>Deze titel stelt dat {PAWN_pronoun} alleen deze voedingsmiddelen zou moeten eten:{1}</LetterRoyalTitleFoodRequirements>
 
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
-  <LetterRoyalTitleRewardGranted>TODO</LetterRoyalTitleRewardGranted>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} ontvangt de volgende items via transportcapsule:{1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
-  <PeaceTalksRoyalFavorGain>TODO</PeaceTalksRoyalFavorGain>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} heeft {1} {FACTION_royalFavorLabel} gekregen van {FACTION_name}.</PeaceTalksRoyalFavorGain>
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
-  <LetterRoyalTitleHeir>TODO</LetterRoyalTitleHeir>
+  <LetterRoyalTitleHeir>Als {PAWN_pronoun} sterft, wordt deze titel geërfd door {HEIR_nameFull}.</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
-  <LetterRoyalTitleNoHeir>TODO</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleNoHeir>Als {PAWN_pronoun} sterft, zal niemand deze titel erven.</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
-  <LetterRoyalTitleHeirFactionWarning>TODO</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} is lid van {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
   <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
-  <LetterRoyalTitleChangingHeir>TODO</LetterRoyalTitleChangingHeir>
+  <LetterRoyalTitleChangingHeir>Een nieuwe erfgenaam kan worden gekozen door contact op te nemen met {FACTION_name} via een communicatiepaneel.</LetterRoyalTitleChangingHeir>
   <!-- EN: Heir lost -->
-  <LetterTitleHeirLostLabel>TODO</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLostLabel>Erfgenaam verloren</LetterTitleHeirLostLabel>
   <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
-  <LetterTitleHeirLost>TODO</LetterTitleHeirLost>
+  <LetterTitleHeirLost>{HEIR_nameFull} is overleden, waardoor {HOLDER_labelShort} geen erfgenaam heeft voor de titel ontvangen van {FACTION_name}. Je kunt contact opnemen met {FACTION_name} via een communicatiepaneel om een nieuwe erfgenaam aan te wijzen.</LetterTitleHeirLost>
   <!-- EN: The title of {TITLE} cannot be inherited. -->
-  <LetterRoyalTitleCantBeInherited>TODO</LetterRoyalTitleCantBeInherited>
+  <LetterRoyalTitleCantBeInherited>De titel van {TITLE} kan niet worden geërfd.</LetterRoyalTitleCantBeInherited>
 
 
   <!-- EN: Title inheritance -->
-  <LetterTitleInheritance>TODO</LetterTitleInheritance>
+  <LetterTitleInheritance>Overerving van titel</LetterTitleInheritance>
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
-  <LetterTitleInheritance_Base>TODO</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_Base>Omdat {PAWN_nameFull} is overleden, worden {PAWN_possessive} titels overgedragen aan {PAWN_possessive} erfgenamen.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
-  <LetterTitleInheritance_AsReplacement>TODO</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>{PAWN_possessive} titel "{TITLE}" is geërfd door {HEIR_nameFull}, in navolging van de successierechten van {FACTION_name}. Het zal {HEIR_possessive} titel "{REPLACEDTITLE}" vervangen na voltooiing van een schenkingsceremonie.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>TODO</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_NoEffectHigherTitle>{PAWN_possessive} titel "{TITLE}" zou zijn geërfd door {HEIR_nameFull}, in navolging van de successierechten van {FACTION_name}, maar {HEIR_pronoun} had al de titel "{HIGHERTITLE}".</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>TODO</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_WasInherited>{PAWN_possessive} titel "{TITLE}" wordt geërfd door {HEIR_nameFull} na voltooiing van een schenkingsceremonie, in navolging van de successierechten van {FACTION_name}.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
-  <LetterTitleInheritance_NoHeirFound>TODO</LetterTitleInheritance_NoHeirFound>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_possessive} titel "{TITLE}" is door niemand geërfd, aangezien {PAWN_pronoun} geen aangewezen erfgenaam had voor deze titel.</LetterTitleInheritance_NoHeirFound>
 
   <!-- Royal implant violations -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->
-  <LetterLawViolationDetectedLabel>TODO</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedLabel>Wetsovertreder: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
-  <LetterLawViolationDetectedForbiddenThingUse>TODO</LetterLawViolationDetectedForbiddenThingUse>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} heeft het illegale gebruik van {CULPRIT} door {PAWN_labelShort} gedetecteerd (detectiekans {CHANCE}).\n\nVolgens de wetten van {FACTION_name} mogen alleen degenen die de titel "{TITLE}" hebben {CULPRIT} gebruiken.\n\nAls straf zijn je factierelaties gedaald met {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>TODO</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} heeft {ORGANIZER_possessive} toespraak beëindigd.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>TODO</LetterTerribleSpeech>
+  <LetterTerribleSpeech>Het was echt gruwelijk - haperend, vol ongemakkelijke grappen en deprimerende verhalen.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>TODO</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>Het was niet erg inspirerend - niet origineel, langdradig en zonder enig gevoel voor passie.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>TODO</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>Het was bemoedigend en goed geleverd.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>TODO</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>Het was opmerkelijk inspirerend, vol intensiteit en gedrevenheid.</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>TODO</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>De volgende mensen waren bijzonder ontroerd door de toespraak en zijn nu geïnspireerd:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>TODO</LetterSpeechInspiration>
+  <LetterSpeechInspiration>Dankzij de opmerkelijke toespraak van {SPEAKER_nameIndef} heeft {PAWN_nameIndef} inspiratie opgedaan!</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>TODO</LetterSpeechInterrupted>
+  <LetterSpeechInterrupted>Omdat de toespraak werd onderbroken nadat slechts {0} was voltooid, was deze niet zo effectief.</LetterSpeechInterrupted>
   <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
+  <LetterSpeechCancelled>De toespraak van {ORGANIZER_bestRoyalTitleDef} is geannuleerd voordat deze minstens 50% was voltooid. Het had geen effect.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>TODO</LetterLabelSpeechCancelled>
+  <LetterLabelSpeechCancelled>Toespraak geannuleerd</LetterLabelSpeechCancelled>
 
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
-  <WildDecree>TODO</WildDecree>
+  <WildDecree>Wild decreet</WildDecree>
   <!-- EN: {0_nameIndef} issues decree -->
-  <LetterLabelRandomDecree>TODO</LetterLabelRandomDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} vaardigt een decreet uit</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>TODO</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef} heeft, in een poging om van {0_possessive} stress af te komen, een wild adellijk besluit uitgevaardigd en eist nu dat het wordt uitgevoerd.\nAls het niet op tijd wordt uitgevoerd, wordt {0_nameIndef} erg ongelukkig.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>TODO</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef} heeft, om de {0_possessive} titel "{0_bestRoyalTitleIndef}" te bevestigen, een decreet uitgevaardigd en eist nu dat dit wordt uitgevoerd.\nAls het niet op tijd wordt uitgevoerd, wordt {0_nameIndef} erg ongelukkig.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
-  <LetterDecree_Quest>TODO</LetterDecree_Quest>
+  <LetterDecree_Quest>Het decreet is getiteld "{0}".</LetterDecree_Quest>
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>TODO</LentColonistDied>  
+  <LentColonistDied>{PAWN_nameDef} was uitgeleend aan {FACTION}. Ze zullen binnenkort het lichaam van {PAWN_nameDef} retourneren.</LentColonistDied>  
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
-  <LetterLabelPsylinkLevelGained>TODO</LetterLabelPsylinkLevelGained>
+  <LetterLabelPsylinkLevelGained>Psylink ontvangen</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>TODO</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} heeft {USER_possessive} eerste psylink niveau behaald! {USER_pronoun} is nu een zogeheten psycaster.\n\nOm paranormale krachten te gebruiken, moet {USER_labelShort} psyfocus opbouwen door middel van meditatie. De effectiviteit van deze meditatie wordt vergroot als de persoon zich tijdens het mediteren op een specifiek object kan concentreren.\n\nVerschillende mensen kunnen zich op verschillende objecten concentreren. Dit hangt af van de achtergrondverhalen, eigenschappen en titels van de persoon. Bijvoorbeeld:\n\n- Psycasters met koninklijke titels mediteren op hun tronen.\n- Psycasters met een tribale jeugd mediteren bij animabomen en natuurheiligdommen.\n- Ascetische psycasters mediteren op blinde muren.\n- Psychopathische psycasters mediteren op graven, idealiter een graf met een geliefde erin.\n\nJe kunt iemands meditatiefocustypes zien door naar hun infokaart te kijken met de 'i'-knop.</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
-  <LetterPsylinkLevelGained_NotFirst>TODO</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} heeft een nieuw psylink niveau bereikt! {USER_pronoun} kan nu paranormale krachten van dat hogere niveau gebruiken, maar {USER_pronoun} moet ze eerst leren.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>TODO</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>Bij het behalen van het nieuwe psylink niveau leerde {USER_labelShort} automatisch deze paranormale krachten: {2}</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterPsychicInspiration>TODO</LetterPsychicInspiration>
+  <LetterPsychicInspiration>Dankzij de paranormale suggestie van {CASTER_nameIndef} heeft {PAWN_nameIndef} een inspiratie ervaren!</LetterPsychicInspiration>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->
-  <LetterJoinOfferLabel>TODO</LetterJoinOfferLabel>
+  <LetterJoinOfferLabel>Aanbod voor aansluiting: {PAWN_nameDef}</LetterJoinOfferLabel>
   <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
-  <LetterJoinOfferTitle>TODO</LetterJoinOfferTitle>
+  <LetterJoinOfferTitle>{PAWN_nameDef} wil lid worden van je factie.</LetterJoinOfferTitle>
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
-  <LetterJoinOfferText>TODO</LetterJoinOfferText>
+  <LetterJoinOfferText>{PAWN_nameDef} meent dat {PAWN_pronoun} gelukkig is in {MAP_definite}. {PAWN_pronoun} wenst zich permanent bij je aan te sluiten.</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>Accepteren</LetterJoinOfferAccept>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired>TODO</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>Schenkingsceremonie is verlopen</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired>TODO</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} kwam niet opdagen bij de ceremonie. Hij is daarom afgelast.</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
-  <LetterTextHonorAward_BanditCamp>TODO</LetterTextHonorAward_BanditCamp>
+  <LetterTextHonorAward_BanditCamp>Aan wie moet {0} worden toegeschreven voor het verslaan van het bandietenkamp?</LetterTextHonorAward_BanditCamp>
 
   <!-- Shuttle crash -->
   <!-- EN: Shuttle crashed -->
-  <LetterLabelShuttleCrashed>TODO</LetterLabelShuttleCrashed>
+  <LetterLabelShuttleCrashed>Shuttle gecrasht</LetterLabelShuttleCrashed>
   <!-- EN: A shuttle has crashed nearby -->
-  <LetterTextShuttleCrashed>TODO</LetterTextShuttleCrashed>
+  <LetterTextShuttleCrashed>Een shuttle is in de buurt gecrasht</LetterTextShuttleCrashed>
 
 </LanguageData>

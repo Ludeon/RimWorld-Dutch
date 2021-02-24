@@ -2,155 +2,155 @@
 <LanguageData>
   
   <!-- EN: beckon -->
-  <Beckon.label>TODO</Beckon.label>
+  <Beckon.label>wenk</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
-  <Beckon.description>TODO</Beckon.description>
+  <Beckon.description>Beveel het doelwit psychisch om de gebruiker te benaderen.</Beckon.description>
   
   <!-- EN: berserk -->
-  <Berserk.label>TODO</Berserk.label>
+  <Berserk.label>woestenij</Berserk.label>
   <!-- EN: Induce an angry psychosis in the target's mind, causing them to attack anyone nearby. -->
-  <Berserk.description>TODO</Berserk.description>
+  <Berserk.description>Wek een boze psychose op in de geest van het doelwit, waardoor ze iedereen in de buurt aanvallen.</Berserk.description>
   
   <!-- EN: berserk pulse -->
-  <BerserkPulse.label>TODO</BerserkPulse.label>
+  <BerserkPulse.label>puls van woestenij</BerserkPulse.label>
   <!-- EN: Generate an overwhelming rush of undirected rage in everyone near the target point. -->
-  <BerserkPulse.description>TODO</BerserkPulse.description>
+  <BerserkPulse.description>Wek een overweldigende golf van ongerichte woede op bij iedereen in de buurt van het mikpunt.</BerserkPulse.description>
   
   <!-- EN: blinding pulse -->
-  <BlindingPulse.label>TODO</BlindingPulse.label>
+  <BlindingPulse.label>verblindende puls</BlindingPulse.label>
   <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. -->
-  <BlindingPulse.description>TODO</BlindingPulse.description>
+  <BlindingPulse.description>Veroorzaak ruis in de visuele centra van de hersenen, waardoor het zicht van iedereen in de buurt van het doelpunt wordt verdoezeld.</BlindingPulse.description>
   
   <!-- EN: skipshield -->
-  <BulletShield.label>TODO</BulletShield.label>
+  <BulletShield.label>teleportatie schild</BulletShield.label>
   <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
-  <BulletShield.description>TODO</BulletShield.description>
+  <BulletShield.description>Genereer een bolvormig portaal dat alle inkomende en uitgaande projectielen op grondniveau naar een verre plaats stuurt. Mensen en items worden niet beïnvloed.</BulletShield.description>
   
   <!-- EN: burden -->
-  <Burden.label>TODO</Burden.label>
+  <Burden.label>last</Burden.label>
   <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
-  <Burden.description>TODO</Burden.description>
+  <Burden.description>Vertraag het doelwit voor een korte tijd door motorische activiteit in de hersenen te onderdrukken.</Burden.description>
   
   <!-- EN: chaos skip -->
-  <ChaosSkip.label>TODO</ChaosSkip.label>
+  <ChaosSkip.label>chaotische teleportatie</ChaosSkip.label>
   <!-- EN: Teleport the target to a random position near where he started. -->
-  <ChaosSkip.description>TODO</ChaosSkip.description>
+  <ChaosSkip.description>Teleporteer het doelwit naar een willekeurige positie in de buurt van waar hij begon.</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
-  <Chunkskip.label>TODO</Chunkskip.label>
+  <Chunkskip.label>teleporteer rotsblok</Chunkskip.label>
   <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
-  <Chunkskip.description>TODO</Chunkskip.description>
+  <Chunkskip.description>Teleporteer 5 brokken steen of staal om ze in de buurt van het mikpunt te verspreiden. Dit is handig om dekking te creëren tijdens offensieve operaties.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
-  <EntropyDump.label>TODO</EntropyDump.label>
+  <EntropyDump.label>neurale warmtedump</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
-  <EntropyDump.description>TODO</EntropyDump.description>
+  <EntropyDump.description>Gooi al je neurale warmte onmiddellijk in iemand anders. Als bijwerking zal het doelwit gedurende ongeveer een dag in een slopende maar niet-schadelijke coma vallen. Het doelwit moet de psychische invasie actief accepteren, dus alleen bewuste bondgenoten kunnen het doelwit worden.</EntropyDump.description>
   
   <!-- EN: farskip -->
-  <Farskip.label>TODO</Farskip.label>
+  <Farskip.label>teleportatie</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
-  <Farskip.description>TODO</Farskip.description>
+  <Farskip.description>Teleporteer de gebruiker, samen met degenen die naast hem staan, naar een bondgenoot op een verre locatie. Dit kan mensen ver over de hele planeet sturen, maar werkt alleen als er een gewillige bondgenoot aan de andere kant is om als navigatiebaken te dienen. De geteleporteerde mensen verschijnen altijd in de buurt van een willekeurige bondgenoot op de doellocatie.</Farskip.description>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>flitsstorm</Flashstorm.label>
   <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
-  <Flashstorm.description>TODO</Flashstorm.description>
+  <Flashstorm.description>Gebruik psychische portalen in de atmosfeer om een plaatselijke flitsstorm te genereren. De storm zal het gebied enige tijd met bliksem teisteren voordat hij verdwijnt.</Flashstorm.description>
   
   <!-- EN: focus -->
-  <Focus.label>TODO</Focus.label>
+  <Focus.label>focus</Focus.label>
   <!-- EN: Psychically focus the target's mind, boosting their sight, hearing and moving capacities. -->
-  <Focus.description>TODO</Focus.description>
+  <Focus.description>Richt de geest van het doelwit psychisch, waardoor hun zicht-, gehoor- en bewegingsvermogen wordt vergroot.</Focus.description>
   
   <!-- EN: invisibility -->
-  <Invisibility.label>TODO</Invisibility.label>
+  <Invisibility.label>onzichtbaarheid</Invisibility.label>
   <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
-  <Invisibility.description>TODO</Invisibility.description>
+  <Invisibility.description>Manipuleer psychisch de visuele centra van iedereen in de buurt, waardoor ze een bepaald individu korte tijd niet meer kunnen waarnemen.</Invisibility.description>
   
   <!-- EN: manhunter pulse -->
-  <ManhunterPulse.label>TODO</ManhunterPulse.label>
+  <ManhunterPulse.label>klopjacht puls</ManhunterPulse.label>
   <!-- EN: Drive nearby animals into a manhunting rage using a psychic pulse. -->
-  <ManhunterPulse.description>TODO</ManhunterPulse.description>
+  <ManhunterPulse.description>Drijf dieren in de buurt tot een klopjacht met behulp van een psychische pols.</ManhunterPulse.description>
   
   <!-- EN: mass chaos skip -->
-  <MassChaosSkip.label>TODO</MassChaosSkip.label>
+  <MassChaosSkip.label>massale chaotische teleportatie</MassChaosSkip.label>
   <!-- EN: Skip everyone near a target point to a random location nearby. -->
-  <MassChaosSkip.description>TODO</MassChaosSkip.description>
+  <MassChaosSkip.description>Teleporteer iedereen in de buurt van het mikpunt naar een willekeurige locatie in de buurt.</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
-  <Neuroquake.label>TODO</Neuroquake.label>
+  <Neuroquake.label>neurobeving</Neuroquake.label>
   <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of a safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
-  <Neuroquake.description>TODO</Neuroquake.description>
+  <Neuroquake.description>Vind een discontinuïteit in het psychische veld en ontvouw het, waarbij een enorme hoeveelheid psychische energie vrijkomt. Elk wezen op de kaart buiten een veilige cirkel rondom de gebruiker zal gewelddadig gek worden gemaakt. Het gebruik hiervan kost drie uur meditatie, en daarna zal de gebruiker in een driedaagse psychische coma terechtkomen. De verontrustende echo's van de neurobeving zullen iedereen binnen een straal van kilometers lang pijn doen, met diplomatieke gevolgen voor alle facties.</Neuroquake.description>
   <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
-  <Neuroquake.confirmationDialogText>TODO</Neuroquake.confirmationDialogText>
+  <Neuroquake.confirmationDialogText>Als je neurobeving gebruikt, zal iedereen in deze regio de echo voelen. Je zult relatie verliezen bij elke niet-vijandige factie.\n\nNeurobeving heeft drie uur nodig om te gebruiken en kan niet worden onderbroken. De gebruiker zal ook enkele dagen in een psychische coma vallen.\n\nIedereen op de kaart, behalve degenen die zich in een kleine cirkel rond de gebruiker bevinden, zal worden beïnvloed.\n\nWil je echt een neurobeving gebruiken?</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
-  <Painblock.label>TODO</Painblock.label>
+  <Painblock.label>pijnblokkade</Painblock.label>
   <!-- EN: Block pain pathways in the target's brain for a short time. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
-  <Painblock.description>TODO</Painblock.description>
+  <Painblock.description>Blokkeer de pijnpaden in de hersenen van het doelwit voor een korte tijd. Hierdoor kan een persoon bewegen en handelen, zelfs met ernstige verwondingen die hem normaal gesproken onbekwaam zouden maken.</Painblock.description>
   
   <!-- EN: skip -->
-  <Skip.label>TODO</Skip.label>
+  <Skip.label>periportatie</Skip.label>
   <!-- EN: Teleport the target to a desired position not too far from his starting point. -->
-  <Skip.description>TODO</Skip.description>
+  <Skip.description>Teleporteer het doelwit naar een gewenste positie niet ver van zijn startpunt.</Skip.description>
   
   <!-- EN: smokepop -->
-  <Smokepop.label>TODO</Smokepop.label>
+  <Smokepop.label>rookgordijn</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
-  <Smokepop.description>TODO</Smokepop.description>
+  <Smokepop.description>Teleporteer stofdeeltjes van onder het grondoppervlak om een dikke wolk te vormen. Dit vermindert de nauwkeurigheid van elk schot dat erdoorheen wordt afgevuurd en voorkomt dat afweergeschut doel kan vinden.</Smokepop.description>
   
   <!-- EN: solar pinhole -->
-  <SolarPinhole.label>TODO</SolarPinhole.label>
+  <SolarPinhole.label>solaire speldenprik</SolarPinhole.label>
   <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
-  <SolarPinhole.description>TODO</SolarPinhole.description>
+  <SolarPinhole.description>Genereer een microscopisch klein portaal dat is verbonden met de kern van een nabije ster. Zonnemateriaal lekt door de speldenprik in de ruimtetijd en verlicht en verwarmt de omgeving totdat het portaal sluit. Het licht is voldoende om bij te werken, maar niet genoeg om planten te laten groeien.</SolarPinhole.description>
   
   <!-- EN: throne speech -->
-  <Speech.label>TODO</Speech.label>
+  <Speech.label>troonrede</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
-  <Speech.description>TODO</Speech.description>
+  <Speech.description>Begin een toespraak vanaf de troon. Alle kolonisten zullen komen luisteren. Als het goed gaat, zullen luisteraars zich geïnspireerd voelen en respect krijgen voor de spreker. Als het slecht gaat, zal de toespraak sociale schade aanrichten. Het resultaat hangt af van de sociale vaardigheden van de spreker.</Speech.description>
   
   <!-- EN: stun -->
-  <Stun.label>TODO</Stun.label>
+  <Stun.label>verlamming</Stun.label>
   <!-- EN: Momentarily disrupt motor function in target's brain, preventing any movement. -->
-  <Stun.description>TODO</Stun.description>
+  <Stun.description>Verstoor tijdelijk de motorische functie in de hersenen van het doelwit, waardoor elke beweging wordt voorkomen.</Stun.description>
   
   <!-- EN: vertigo pulse -->
-  <VertigoPulse.label>TODO</VertigoPulse.label>
+  <VertigoPulse.label>duizeligheids puls</VertigoPulse.label>
   <!-- EN: Interfere with the spatial orientation sense of everyone near the target point, causing intermittent loss of balance. Flesh creatures will become extremely nauseous as well. -->
-  <VertigoPulse.description>TODO</VertigoPulse.description>
+  <VertigoPulse.description>Verstoort het ruimtelijke oriëntatiegevoel van iedereen in de buurt van het mikpunt, waardoor het evenwicht met tussenpozen verloren gaat. Wezens van vlees zullen ook extreem misselijk worden.</VertigoPulse.description>
   
   <!-- EN: wallraise -->
-  <Wallraise.label>TODO</Wallraise.label>
+  <Wallraise.label>wegversperring</Wallraise.label>
   <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. -->
-  <Wallraise.description>TODO</Wallraise.description>
+  <Wallraise.description>Vorm een tijdelijke muur door puin en grond van diep onder de grond omhoog te laten springen.</Wallraise.description>
   
   <!-- EN: waterskip -->
-  <Waterskip.label>TODO</Waterskip.label>
+  <Waterskip.label>water teleportatie</Waterskip.label>
   <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
-  <Waterskip.description>TODO</Waterskip.description>
+  <Waterskip.description>Dompel het doelgebied in water onder, en blus daarmee branden. Het water wordt archotechnologisch geteleporteerd uit verre watermassa's of uit grondwater.</Waterskip.description>
   
   <!-- EN: word of inspiration -->
-  <WordOfInspiration.label>TODO</WordOfInspiration.label>
+  <WordOfInspiration.label>woord van inspiratie</WordOfInspiration.label>
   <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
-  <WordOfInspiration.description>TODO</WordOfInspiration.description>
+  <WordOfInspiration.description>Spreek woorden die creativiteit aanmoedigen terwijl de geest van het doelwit psychisch wordt overladen met nieuwe ideeën. Het doelwit zal een willekeurige inspiratie ervaren die bij die persoon past.</WordOfInspiration.description>
   
   <!-- EN: word of joy -->
-  <WordOfJoy.label>TODO</WordOfJoy.label>
+  <WordOfJoy.label>woord van vreugde</WordOfJoy.label>
   <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
-  <WordOfJoy.description>TODO</WordOfJoy.description>
+  <WordOfJoy.description>Spreek blije, kalmerende woorden tegen iemand terwijl paranormale suggesties worden gebruikt om een lus van vreugde in zijn geest te implanteren. De lus zal ongemakkelijke gedachten en sensaties in het doelwit onderdrukken om de stemming te verbeteren. Dit heeft als bijwerking dat het gevoel en besluitvorming worden gedempt, wat het bewustzijn vermindert.</WordOfJoy.description>
   
   <!-- EN: word of love -->
-  <WordOfLove.label>TODO</WordOfLove.label>
+  <WordOfLove.label>woord van liefde</WordOfLove.label>
   <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
-  <WordOfLove.description>TODO</WordOfLove.description>
+  <WordOfLove.description>Spreek over iemands romantische deugden terwijl paranormale suggesties gebruikt worden om romantische verlangens in de luisteraar te implanteren. Dagenlang zal de luisteraar een psychisch geïnduceerde romantische aantrekkingskracht op de ander voelen. Dit vergroot de mening enorm en maakt het veel waarschijnlijker dat de luisteraar romantische avances en huwelijksaanzoeken zal proberen als de kans zich voordoet. Deze kracht kan worden gebruikt om twee andere mensen met elkaar te verbinden, liefde voor de gebruiker op te wekken of zichzelf te dwingen een ander lief te hebben.</WordOfLove.description>
   
   <!-- EN: word of serenity -->
-  <WordOfSerenity.label>TODO</WordOfSerenity.label>
+  <WordOfSerenity.label>woord van kalmte</WordOfSerenity.label>
   <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
-  <WordOfSerenity.description>TODO</WordOfSerenity.description>
+  <WordOfSerenity.description>Gebruik kalmerende woorden en paranormale suggesties om een inzinking bij een persoon of dier te beëindigen. Het doelwit zal in een korte psychische slaap vallen. De psyfocus kosten hangen af van de intensiteit van de inzinking van het doelwit.</WordOfSerenity.description>
   
   <!-- EN: word of trust -->
-  <WordOfTrust.label>TODO</WordOfTrust.label>
+  <WordOfTrust.label>woord van vertrouwen</WordOfTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him. -->
-  <WordOfTrust.description>TODO</WordOfTrust.description>
+  <WordOfTrust.description>Praat met een gevangene en gebruik paranormale suggestie om diens weerstand tegen rekrutering te verminderen. Dit kan de weerstand van een gevangene alleen maar verminderen, en kan hem niet rekruteren.</WordOfTrust.description>
   
 </LanguageData>

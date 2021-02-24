@@ -38,19 +38,19 @@
     <li>desc_pawn->covered in [Gore]</li>
   -->
   <TalelessImages.rulePack.rulesStrings>
-    <li>image(p=0.94)->een eenzame [CharacterGendered] [desc_pawn]</li>
-    <li>image(p=0.94)->een eenzame [CharacterGendered] [desc_pawn] bij een [TerrainFeature]</li>
-    <li>image(p=0.94)->een eenzame [CharacterGendered] [desc_pawn] bij een [Community]</li>
-    <li>image(p=0.06)->een eenzaam [CharacterNeuter] [desc_pawn]</li>
-    <li>image(p=0.06)->een eenzaam [CharacterNeuter] [desc_pawn] bij een [TerrainFeature]</li>
-    <li>image(p=0.06)->een eenzaam [CharacterNeuter] [desc_pawn] bij een [Community]</li>
-    <li>image->een [Character] [desc_pawn] omringd door [CharacterPlural]</li>
+    <li>image(p=0.94)->een eenzame [CharacterGendered] [desc_pawn_maybe]</li>
+    <li>image(p=0.94)->een eenzame [CharacterGendered] [desc_pawn_maybe] bij een [TerrainFeature]</li>
+    <li>image(p=0.94)->een eenzame [CharacterGendered] [desc_pawn_maybe] bij een [Community]</li>
+    <li>image(p=0.06)->een eenzaam [CharacterNeuter] [desc_pawn_maybe]</li>
+    <li>image(p=0.06)->een eenzaam [CharacterNeuter] [desc_pawn_maybe] bij een [TerrainFeature]</li>
+    <li>image(p=0.06)->een eenzaam [CharacterNeuter] [desc_pawn_maybe] bij een [Community]</li>
+    <li>image->een [Character] [desc_pawn_maybe] omringd door [CharacterPlural]</li>
     <li>image->[CharacterPlural] die [Game] spelen</li>
-    <li>image->een [Character] [desc_pawn] die [Game] speelt met [Quantity_adjphrase] [CharacterPlural]</li>
-    <li>image->een [Character] [desc_pawn] met een [Weapon] in de hand</li>
+    <li>image->een [Character] [desc_pawn] en [Game] speelt met [Quantity_adjphrase] [CharacterPlural]</li>
+    <li>image->een [Character] [desc_pawn_maybe] met een [Weapon] in de hand</li>
     <li>image->een [Character] [desc_pawn] en een [Vegetable] eet</li>
     <li>image->[Quantity_adjphrase] [PersonJobPlural] en [PersonJobPlural] die samen [VegetablePlural] eten</li>
-    <li>image->de lokale beroemdheid [NamePerson] [desc_pawn]</li>
+    <li>image->de lokale beroemdheid [NamePerson] [desc_pawn_maybe]</li>
     <li>image->een [Character] die een [Apparel] draagt en [desc_pawn]</li>
     <li>image->een [Community]</li>
     <li>image->een [TerrainFeature]</li>
@@ -65,7 +65,8 @@
     <li>image->een [Shape] omringd door [ShapePlural]</li>
     <li>image->een abstracte verbeelding van [ConceptAny]</li>
     <li>image->een [AdjectiveAnyGendered] abstracte vorm</li>
-    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn_maybe-></li>
+    <li>desc_pawn_maybe->desc_pawn</li>
     <li>desc_pawn->die door de lucht vliegt</li>
     <li>desc_pawn->die in de lucht zweeft</li>
     <li>desc_pawn->die naar links beweegt</li>

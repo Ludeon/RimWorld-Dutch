@@ -3,151 +3,151 @@
 
   <!-- Royalty and throne -->
   <!-- EN: Satisfies title -->
-  <ThroneMaxSatisfiedTitle>TODO</ThroneMaxSatisfiedTitle>
+  <ThroneMaxSatisfiedTitle>Geschikt voor titel</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
-  <ThroneRoomImpressivenessInfo>TODO</ThroneRoomImpressivenessInfo>
+  <ThroneRoomImpressivenessInfo>({0} indrukwekkendheid)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
-  <ThroneMustBePlacedInside>TODO</ThroneMustBePlacedInside>
+  <ThroneMustBePlacedInside>Troon moet binnenshuis worden geplaatst.</ThroneMustBePlacedInside>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
-  <MinimumRoyalTitleInspectString>TODO</MinimumRoyalTitleInspectString>
+  <MinimumRoyalTitleInspectString>Minimale titel ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
-  <RequiresTradePermission>TODO</RequiresTradePermission>
+  <RequiresTradePermission>Hier handelen vereist titel: {0}</RequiresTradePermission>
   <!-- EN: Personal bedroom (partner allowed) -->
-  <RequirementPersonalBedroom>TODO</RequirementPersonalBedroom>
+  <RequirementPersonalBedroom>Persoonlijke slaapkamer (partner toegestaan)</RequirementPersonalBedroom>
   
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
-  <PsycastNeurotrainerLabel>TODO</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
-  <PsycastNeurotrainerUseLabel>TODO</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerUseLabel>Gebruik psytrainer om paranormale kracht {0} te leren</PsycastNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>TODO</PsycastNeurotrainerDescription>
+  <PsycastNeurotrainerDescription>Een superdosis mechanieten voor eenmalig gebruik die een specifieke paranormale kracht traint.\n\nDe dosis wordt toegediend via de oogkas. Eenmaal vrijgelaten in de hersenen, vormen de mechanieten kennis van een specifieke kracht, waarbij ze zichzelf zo nodig in neuraal weefsel transformeren.</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
-  <AbilityNeurotrainerUsed>TODO</AbilityNeurotrainerUsed>
+  <AbilityNeurotrainerUsed>{USER_labelShort} gebruikte neurotrainer om de {1} kracht te leren.</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
-  <PsycastNeurotrainerNoPsylink>TODO</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerNoPsylink>Psylink vereist</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
-  <PsycastNeurotrainerAbilityAlreadyLearned>TODO</PsycastNeurotrainerAbilityAlreadyLearned>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} kent {1} al.</PsycastNeurotrainerAbilityAlreadyLearned>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor>TODO</Reward_RoyalFavor>
+  <Reward_RoyalFavor>degene die de missie heeft geaccepteerd, ontvangt {1} {0_royalFavorLabel} van {0_name}</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor_ChoosePawn>TODO</Reward_RoyalFavor_ChoosePawn>
+  <Reward_RoyalFavor_ChoosePawn>je kunt een van de deelnemende {2} kiezen om {1} {0_royalFavorLabel} van {0_name} te ontvangen</Reward_RoyalFavor_ChoosePawn>
   
   <!-- Ship landing beacons -->
   <!-- EN: Not usable -->
-  <NotUsable>TODO</NotUsable>
+  <NotUsable>Niet bruikbaar</NotUsable>
   <!-- EN: unpowered -->
-  <Unpowered>TODO</Unpowered>
+  <Unpowered>geen stroom</Unpowered>
   <!-- EN: blocked by roof -->
-  <BlockedByRoof>TODO</BlockedByRoof>
+  <BlockedByRoof>geblokkeerd door dak</BlockedByRoof>
   <!-- EN: Too close to other beacon -->
-  <TooCloseToOtherBeacon>TODO</TooCloseToOtherBeacon>
+  <TooCloseToOtherBeacon>Te dicht bij een ande baken</TooCloseToOtherBeacon>
   
   <!-- Meditation -->
   <!-- EN: Psyfocus -->
-  <Psyfocus>TODO</Psyfocus>
+  <Psyfocus>Psyfocus</Psyfocus>
   <!-- EN: Psyfocus -->
-  <PsyfocusLabelGizmo>TODO</PsyfocusLabelGizmo>
+  <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
   <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>TODO</PsyfocusDesc>
+  <PsyfocusDesc>Psyfocus is een speciaal soort mentale structurering die nodig is om paranormale krachten te gebruiken. Psyfocus verdwijnt in de loop van de tijd en moet worden opgebouwd door regelmatige meditatie. Het verliezen van alle psyfocus maakt dat iemand niet in staat is paranormale krachten te gebruiken, maar heeft geen andere gevolgen.\n\nEen grotere opbouw van psyfocus maakt het gebruik van krachten op een hoger niveau mogelijk, maar verhoogt ook de snelheid van het verval van psyfocus.</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
-  <PsyfocusLevelInfoRange>TODO</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
-  <PsyfocusLevelInfoPsycasts>TODO</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoPsycasts>Krachten tot niveau {0}.</PsyfocusLevelInfoPsycasts>
   <!-- EN: Psyfocus falls at {0} per day. -->
-  <PsyfocusLevelInfoFallRate>TODO</PsyfocusLevelInfoFallRate>
+  <PsyfocusLevelInfoFallRate>Psyfocus vervalt {0} per dag.</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
-  <UserMeditationFocusStrength>TODO</UserMeditationFocusStrength>
+  <UserMeditationFocusStrength>Meditatiefocussterkte voor {LASTUSER_labelShort}</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->
-  <MeditationFocusImpacted>TODO</MeditationFocusImpacted>
+  <MeditationFocusImpacted>Focuseffect beïnvloed door</MeditationFocusImpacted>
   <!-- EN: {1} per nearby animus stone (max {0}) -->
-  <MeditationFocusPerAnimusStoneAbstract>TODO</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStoneAbstract>{1} per nabijgelegen animussteen (max. {0})</MeditationFocusPerAnimusStoneAbstract>
   <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
-  <MeditationFocusPerAnimusStone>TODO</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStone>{2} per nabijgelegen animussteen ({0} / {1})</MeditationFocusPerAnimusStone>
   <!-- EN: Per nearby animus stone {2}, nature shrine {1} (max {0}) -->
-  <MeditationFocusPerAnimusStoneAndShrineAbstract>TODO</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>Per nabijgelegen animussteen {2}, natuurheiligdom {1} (max. {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
   <!-- EN: Per nearby animus stone {3}, nature shrine {2} ({0} / {1}) -->
-  <MeditationFocusPerAnimusStoneAndShrine>TODO</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerAnimusStoneAndShrine>Per nabijgelegen animussteen {2}, natuurheiligdom {1} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
   <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
-  <MeditationFocusPerSculptureAbstract>TODO</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculptureAbstract>Max. {1} per sculptuur in de buurt, afhankelijk van kwaliteit (max. {0})</MeditationFocusPerSculptureAbstract>
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
-  <MeditationFocusPerSculpture>TODO</MeditationFocusPerSculpture>
+  <MeditationFocusPerSculpture>Max. {1} per sculptuur in de buurt, afhankelijk van kwaliteit ({0} / {1})</MeditationFocusPerSculpture>
   <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
-  <MeditationFocusPerGraveAbstract>TODO</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGraveAbstract>Per graf in de buurt {1} indien leeg, {2} voor menselijk lijk (maximaal {0})</MeditationFocusPerGraveAbstract>
   <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
-  <MeditationFocusPerGrave>TODO</MeditationFocusPerGrave>
+  <MeditationFocusPerGrave>Per graf in de buurt {1} indien leeg, {2} voor menselijk lijk ({0} / {1})</MeditationFocusPerGrave>
   <!-- EN: {1} per nearby lit flame source (up to {0}) -->
-  <MeditationFocusPerFlameAbstract>TODO</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlameAbstract>{1} per nabijgelegen brandende vlambron (maximaal {0})</MeditationFocusPerFlameAbstract>
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
-  <MeditationFocusPerFlame>TODO</MeditationFocusPerFlame>
+  <MeditationFocusPerFlame>{1} per nabijgelegen brandende vlambron ({0} / {1})</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
-  <PsyfocusPerDayOfMeditation>TODO</PsyfocusPerDayOfMeditation>
+  <PsyfocusPerDayOfMeditation>Psyfocus opbouwsnelheid: {0}/d</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
-  <DesiredPsyfocus>TODO</DesiredPsyfocus>
+  <DesiredPsyfocus>Gewenste psyfocus</DesiredPsyfocus>
   <!-- EN: Click to set desired psyfocus. -->
-  <DesiredPsyfocusDesc>TODO</DesiredPsyfocusDesc>
+  <DesiredPsyfocusDesc>Klik om de gewenste psyfocus in te stellen.</DesiredPsyfocusDesc>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
-  <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
+  <AbilityDisabledUndrafted>wapen moet zijn getrokken.</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <AbilityOnCooldown>vermogen in cooldown. Het is beschikbaar over {0}.</AbilityOnCooldown>
   <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
+  <AbilityAlreadyQueued>kracht staat al in de wachtrij.</AbilityAlreadyQueued>
   <!-- EN: no heat to dump. -->
-  <AbilityNoEntropyToDump>TODO</AbilityNoEntropyToDump>
+  <AbilityNoEntropyToDump>geen warmte om te dumpen.</AbilityNoEntropyToDump>
   <!-- EN: Ability ready: {0} -->
-  <AbilityReadyLabel>TODO</AbilityReadyLabel>
+  <AbilityReadyLabel>Kracht beschikbaar: {0}</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>TODO</AbilityReadyText>
+  <AbilityReadyText>{0_nameDef} is klaar om {0} te gebruiken.</AbilityReadyText>
   
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>TODO</AbilitySpeechTooltip>
+  <AbilitySpeechTooltip>Begin een toespraak vanaf de troon. {ORGANIZER_labelShort} gaat naar {ORGANIZER_possessive} troon en roept alle kolonisten op om daar naar een toespraak te luisteren. Als alles goed gaat, zullen luisteraars zich geïnspireerd voelen en respect krijgen voor {ORGANIZER_labelShort}. Als het slecht gaat, zal de toespraak sociale schade aanrichten. Het resultaat hangt af van de sociale vaardigheden van {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
-  <AbilitySpeechDisabledNoThroneAssigned>TODO</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneAssigned>geen troon toegewezen</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
-  <AbilitySpeechDisabledNoThroneIsNotAccessible>TODO</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>troon is niet toegankelijk.</AbilitySpeechDisabledNoThroneIsNotAccessible>
   <!-- EN: throne not usable because it is undignified. -->
-  <AbilitySpeechDisabledNoThroneUndignified>TODO</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledNoThroneUndignified>troon niet bruikbaar omdat hij onwaardig is.</AbilitySpeechDisabledNoThroneUndignified>
   <!-- EN: already giving a speech. -->
-  <AbilitySpeechDisabledAlreadyGivingSpeech>TODO</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>geeft al een toespraak.</AbilitySpeechDisabledAlreadyGivingSpeech>
   <!-- EN: another gathering is in progress. -->
-  <AbilitySpeechDisabledAnotherGatheringInProgress>TODO</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechDisabledAnotherGatheringInProgress>een andere bijeenkomst is aan de gang.</AbilitySpeechDisabledAnotherGatheringInProgress>
   <!-- EN: Next speech ready in -->
-  <AbilitySpeechCooldown>TODO</AbilitySpeechCooldown>
+  <AbilitySpeechCooldown>Volgende toespraak gereed over</AbilitySpeechCooldown>
   <!-- EN: Outcome chances -->
-  <AbilitySpeechPossibleOutcomes>TODO</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechPossibleOutcomes>Uitkomstkansen</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
-  <AbilitySpeechStatInfo>TODO</AbilitySpeechStatInfo>
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort}'s {1} stat</AbilitySpeechStatInfo>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
-  <TotalMeditationToday>TODO</TotalMeditationToday>
+  <TotalMeditationToday>Totale meditatie vandaag: {0} (voortgangsfactor {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->
-  <ProgressToNextSubplant>TODO</ProgressToNextSubplant>
+  <ProgressToNextSubplant>voortgang {0}</ProgressToNextSubplant>
   <!-- EN: Begin linking ritual -->
-  <BeginLinkingRitualFloatMenu>TODO</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualFloatMenu>Begin met het verbindingsritueel</BeginLinkingRitualFloatMenu>
   <!-- EN: Need {0} {1} here (have {2}) -->
-  <BeginLinkingRitualNeedSubplants>TODO</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedSubplants>{0} {1} benodigd hier ({2} beschikbaar)</BeginLinkingRitualNeedSubplants>
   <!-- EN: Need {0} psylink focus type -->
-  <BeginLinkingRitualNeedFocus>TODO</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualNeedFocus>{0} psylink-focustype nodig</BeginLinkingRitualNeedFocus>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->
-  <BeginLinkingRitualNeedLinkSpot>TODO</BeginLinkingRitualNeedLinkSpot>
+  <BeginLinkingRitualNeedLinkSpot>Een vrije, bereikbare plek nodig binnen 3 tegels om te verbinden</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
-  <LetterLabelLinkingRitualCompleted>TODO</LetterLabelLinkingRitualCompleted>
+  <LetterLabelLinkingRitualCompleted>Verbindingsritueel voltooid</LetterLabelLinkingRitualCompleted>
   <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
-  <LetterTextLinkingRitualCompleted>TODO</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} heeft het verbindingsritueel met {LINKABLE_labelShort} voltooid.\n\n{PAWN_pronoun} heeft nu een verbeterde psylink, waardoor het gebruik van nieuwe paranormale krachten mogelijk is.</LetterTextLinkingRitualCompleted>
 
   <!-- EN: Land shuttle here -->
-  <LandHere>TODO</LandHere>
+  <LandHere>Land shuttle hier</LandHere>
   <!-- EN: Destination is out of range. -->
-  <MessageShuttleDestinationIsTooFar>TODO</MessageShuttleDestinationIsTooFar>
+  <MessageShuttleDestinationIsTooFar>Bestemming is buiten bereik.</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Do bestowing ceremony -->
-  <BeginCeremony>TODO</BeginCeremony>
+  <BeginCeremony>Voer schenkingsceremonie uit</BeginCeremony>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>De schenker is beledigd omdat de troonzaal van {PAWN_definite} niet voldoet aan de vereisten van de titel "{TITLE}". De uitreiking is geannuleerd.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
 
   <!-- EN: Not all required cargo is loaded yet! -->
-  <ShuttleRequiredItemsNotSatisfied>TODO</ShuttleRequiredItemsNotSatisfied>
+  <ShuttleRequiredItemsNotSatisfied>Nog niet alle benodigde lading is geladen!</ShuttleRequiredItemsNotSatisfied>
 </LanguageData>

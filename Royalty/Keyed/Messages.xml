@@ -7,35 +7,35 @@
   <!-- EN: blocked by {0_label}. -->
   <BlockedBy>geblokkeerd door {0_label}</BlockedBy>
   <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>TODO</MessageShuttleArrived>
+  <MessageShuttleArrived>De shuttle is aangekomen.</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
-  <MessageShuttleArrivedContentsLost>TODO</MessageShuttleArrivedContentsLost>
+  <MessageShuttleArrivedContentsLost>De shuttle arriveerde, maar aangezien er geen kolonisten in zaten, ging de inhoud verloren.</MessageShuttleArrivedContentsLost>
   <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>TODO</CannotCallShuttle>
+  <CannotCallShuttle>Kan shuttle niet oproepen</CannotCallShuttle>
 
   <!-- EN: Cannot land in undiscovered area. -->
-  <ShuttleCannotLand_Fogged>TODO</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Fogged>Kan niet landen in onontdekt gebied.</ShuttleCannotLand_Fogged>
   <!-- EN: Area must be walkable. -->
-  <ShuttleCannotLand_Unwalkable>TODO</ShuttleCannotLand_Unwalkable>
+  <ShuttleCannotLand_Unwalkable>Het gebied moet beloopbaar zijn.</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Warning: Anima tree has been marked for cutting. -->
   <MessageWarningCutAnimaTree>Waarschuwing: Er is een animaboom gemarkeerd om omgehakt te worden.</MessageWarningCutAnimaTree>
 
   <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
-  <MessageBestowerWaiting>TODO</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Selecteer {TARGET_definite} en klik met de rechtermuisknop op de schenker om de schenkingsceremonie te starten.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
-  <MessageBestowerUnreachable>TODO</MessageBestowerUnreachable>
+  <MessageBestowerUnreachable>Kan de schenker niet bereiken!</MessageBestowerUnreachable>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
-  <MessageBestowingSpotUnreachable>TODO</MessageBestowingSpotUnreachable>
+  <MessageBestowingSpotUnreachable>De schenker ergert zich aan de inmenging en heeft besloten te vertrekken.</MessageBestowingSpotUnreachable>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
-  <MessageBestowingCeremonyStarted>TODO</MessageBestowingCeremonyStarted>
+  <MessageBestowingCeremonyStarted>De schenkingsceremonie van {PAWN_definite} is begonnen.</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
-  <MessageMissionGetBackToShuttle>TODO</MessageMissionGetBackToShuttle>
+  <MessageMissionGetBackToShuttle>Je hebt de {FACTION_pawnsPlural} verslagen! Ga terug naar de shuttle om hem te lanceren.</MessageMissionGetBackToShuttle>
 
   <!-- EN: {FACTION_name} has dropped resources nearby. -->
-  <MessagePermitTransportDrop>TODO</MessagePermitTransportDrop>
+  <MessagePermitTransportDrop>{FACTION_name} heeft grondstoffen in de buurt gedropt.</MessagePermitTransportDrop>
   <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
-  <MessagePermitTransportDropCaravan>TODO</MessagePermitTransportDropCaravan>
+  <MessagePermitTransportDropCaravan>{FACTION_name} heeft grondstoffen gestuurd naar de caravan van {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
 
 </LanguageData>

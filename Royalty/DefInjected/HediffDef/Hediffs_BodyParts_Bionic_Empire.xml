@@ -30,11 +30,11 @@
   <CircadianAssistant.labelNoun>een circadiane assistent</CircadianAssistant.labelNoun>
   
   <!-- EN: circadian half-cycler -->
-  <CircadianHalfCycler.label>circadiane cyclus-halveerder</CircadianHalfCycler.label>
+  <CircadianHalfCycler.label>circadiane helft-schakelaar</CircadianHalfCycler.label>
   <!-- EN: An installed circadian half-cycler. -->
-  <CircadianHalfCycler.description>Een geïnstalleerde circadiane cyclus-halveerder.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.description>Een geïnstalleerde circadiane helft-schakelaar.</CircadianHalfCycler.description>
   <!-- EN: a circadian half-cycler -->
-  <CircadianHalfCycler.labelNoun>een circadiane cyclus-halveerder</CircadianHalfCycler.labelNoun>
+  <CircadianHalfCycler.labelNoun>een circadiane helft-schakelaar</CircadianHalfCycler.labelNoun>
   
   <!-- EN: coagulator -->
   <Coagulator.label>coagulator</Coagulator.label>

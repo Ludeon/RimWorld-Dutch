@@ -5,7 +5,10 @@
     <li>lodgersLabel->guest</li>
     <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
   -->
-  <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->gast</li>
+    <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
+  </Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
@@ -64,7 +67,65 @@
     <li>allyAllies(lodgersCountMinusOne==1)->ally</li>
     <li>allyAllies(lodgersCountMinusOne>=2)->allies</li>
   -->
-  <Hospitality_Joiners.questDescriptionRules.rulesStrings>TODO</Hospitality_Joiners.questDescriptionRules.rulesStrings>
+  <Hospitality_Joiners.questDescriptionRules.rulesStrings>
+    <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
+    <li>joinerEnding(priority=1)-></li>
+    <li>joinerEnding->Je kunt de [lodgersDef] op dezelfde manier aansturen als je eigen kolonisten.[specialNeedsExplanation]</li>
+    <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> Je moet wel zorgen dat je voldoet aan de koninklijke behoeften van [lodgersLabelPlural] zo die bestaan.</li>
+    <li>specialNeedsExplanation-></li>
+    <li>theirHisHer(lodgersCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(lodgersCount>=2)->hun</li>
+    <li>lodgersPronoun(lodgersCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(lodgersCount>=2)->zij</li>
+    <li>lodgersWasWere(lodgersCount==1)->was</li>
+    <li>lodgersWasWere(lodgersCount>=2)->waren</li>
+    <li>appreciateAppreciates(lodgersCount==1)->stelt</li>
+    <li>appreciateAppreciates(lodgersCount>=2)->stellen</li>
+    <li>goodwillForMood(goodwillRewardForMood==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] [appreciateAppreciates] een onderkomen van hoge kwaliteit op prijs. Je relatie met [asker_faction_name] zal toenemen als je [theirHisHer] algemene stemming boven de 50% houdt.</li>
+    <li>goodwillForMood-></li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->A [lodgers0_title] named [lodgers0_nameFull] wil dat je [lodgers0_objective] beschermt in [map_definite] gedurende [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] werd recentelijk betrapt [wrongAct]. Een groep [enemyFaction_pawnsPlural] is op zoek naar wraak en zal [lodgers0_objective] blijven belagen zolang [lodgers0_pronoun] bij je is. [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==false)-></li>
+    <li>wrongAct(p=0.5)->toen [lodgers0_pronoun] de [PersonalCharacteristicGendered] van [enemyFaction_leader_nameDef], [enemyFaction_leaderTitle] van [enemyFaction_name], beledigde</li>
+    <li>wrongAct(p=0.5)->toen [lodgers0_pronoun] het [PersonalCharacteristicNeuter] van [enemyFaction_leader_nameDef], [enemyFaction_leaderTitle] van [enemyFaction_name], beledigde</li>
+    <li>wrongAct->bij het stelen van vee van [enemyFaction_name]</li>
+    <li>wrongAct->bij het stelen van voedsel van [enemyFaction_name]</li>
+    <li>wrongAct->bij het stelen van spirituele voorwerpen van [enemyFaction_name]</li>
+    <li>wrongAct->toen [lodgers0_pronoun] de cryptoslaapcapsules van [enemyFaction_name] saboteerde</li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->Een groep van [lodgersCount] reizigers wil dat je ze onderdak biedt in [map_definite] gedurende [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nDeze reizigers waren onlangs uitgenodigd voor een belangrijke ceremonie van [enemyFaction_name], maar ze kwamen dronken opdagen en onteerden het ritueel. [enemyFaction_name] stuurt nu gevechtstroepen achter ze aan. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\nDe reizigers hebben onlangs [mechViolation], en zijn nu het doelwit van een mechanoïdenzwerm in de ruimte. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==false,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name] heeft een verzoek. [asker_possessive] vriend [lodgers0_nameFull] is geïnteresseerd in andere culturen, en [asker_pronoun] wil dat je [lodgers0_objective] onder brengt in [map_definite] gedurende [shuttleDelayTicks_duration]. [allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name] heeft een verzoek. [asker_possessive] vriend, een [lodgers0_age] jaar oude [lodgers0_title] genaamd [lodgers0_nameDef], werd betrapt toen [lodgers0_pronoun] beledigende dingen schreef over [enemyFaction_leader_nameFull]'s [PersonalCharacteristic]. [asker_nameDef] wil dat je [lodgers0_nameDef] gedurende [shuttleDelayTicks_duration] bewaakt, totdat [asker_pronoun] de gemoederen van [enemyFaction_name] tot bedaren kan brengen. Aangezien [enemyFaction_leader_nameDef] de [enemyFaction_leaderTitle] van [enemyFaction_name] is, zal [enemyFaction_leader_pronoun] groepen [enemyFaction_pawnsPlural] achter [lodgers0_nameDef] aan sturen.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==true,threatType==Raids,enemyFaction==Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name] heeft een verzoek. [asker_possessive] vriend, een [lodgers0_age] jaar oude [lodgers0_title] genaamd [lodgers0_nameDef], heeft onlangs [mechViolation]. [asker_nameDef] wil dat je [lodgers0_nameDef] gedurende [shuttleDelayTicks_duration] bewaakt, totdat [asker_pronoun] de mechanoïdenzwerm tot bedaren kan brengen.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==true,threatType==MechClusters,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name] heeft een verzoek. [asker_possessive] vrien, een [lodgers0_age] jaar oude [lodgers0_title] genaamd [lodgers0_nameDef], heeft onlangs [mechViolation]. [asker_nameDef] wil dat je [lodgers0_nameDef] gedurende [shuttleDelayTicks_duration] bewaakt.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==false,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft onlangs [lodgersCount] [asker_faction_pawnsPlural] uit een vijandige gevangenis bevrijd. [asker_pronoun] wil dat je ze in [map_definite] bewaakt totdat [asker_pronoun] een shuttle om ze op te halen kan sturen, over [shuttleDelayTicks_duration]. [allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft onlangs [lodgersCount] [asker_faction_pawnsPlural] uit de gevangenissen van [enemyFaction_name] bevrijd. [asker_nameDef] wil dat je ze in [map_definite] bewaakt totdat [asker_pronoun] een shuttle om ze op te halen kan sturen, over [shuttleDelayTicks_duration]. De [asker_faction_pawnsPlural] hebben geheime informatie over [secretInfo] van [enemyFaction_name], dus er wordt op ze gejaagd.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==true,threatType==Raids,enemyFaction==Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft onlangs [lodgersCount] [asker_faction_pawnsPlural] uit een cryptoslaapcomplex bevrijd. [asker_nameDef] wil dat je ze in [map_definite] bewaakt totdat [asker_pronoun] een shuttle om ze op te halen kan sturen, over [shuttleDelayTicks_duration]. De [asker_faction_pawnsPlural] zullen worden aangevallen door mechanoïden.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==true,threatType==MechClusters,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft onlangs [lodgersCount] [asker_faction_pawnsPlural] bevrijd uit een gevangenenhok van een mechanoïdenzwerm. [asker_nameDef] wil dat je ze in [map_definite] bewaakt totdat [asker_pronoun] een shuttle om ze op te halen kan sturen, over [shuttleDelayTicks_duration]. De mechs zijn op het spoor van hun voormalige gevangenen.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>secretInfo->de militaire slagkracht</li>
+    <li>secretInfo->de misdaden</li>
+    <li>secretInfo->het wapenonderzoek</li>
+    <li>secretInfo->de gevangenenkampen</li>
+    <li>secretInfo->de [enemyFaction_leaderTitle]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name], is op de vlucht vanwege een lastige politieke situatie en wil tijdelijk schuilen in [map_definite] gedurende [shuttleDelayTicks_duration]. [threatsInfo5][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[asker_nameDef]'s vijanden hebben [enemyFaction_name] ingehuurd om op [asker_objective] te jagen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]'s vijanden hebben mechanoïden zover gekregen dat ze op [asker_objective] jagen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[asker_nameDef]'s vijanden hebben een zwerm mechanoïden zover gekregen dat ze op [asker_objective] jagen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name], wil tijd doorbrengen in [map_definite] gedurende [shuttleDelayTicks_duration] met [lodgersCountMinusOne] [allyAllies] van [asker_possessive] hofhouding. [threatsInfo6][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->[asker_nameDef] en [asker_possessive] [allyAllies] zijn het doelwit van een moordcomplot en hebben een veilige plek nodig waar ze kunnen blijven totdat ze het complot kunnen ontmaskeren. [asker_nameDef]'s vijanden hebben [enemyFaction_name] ingehuurd om op [asker_objective] te jagen.\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->[asker_nameDef] en [asker_possessive] [allyAllies] zijn het doelwit van een moordcomplot en hebben een veilige plek nodig waar ze kunnen blijven totdat ze het complot kunnen ontmaskeren. [asker_nameDef]'s vijanden hebben [enemyFaction_name] ingehuurd om op [asker_objective] te jagen.\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->[asker_nameDef] en [asker_possessive] [allyAllies] zijn het doelwit van een moordcomplot en hebben een veilige plek nodig waar ze kunnen blijven totdat ze het complot kunnen ontmaskeren. [asker_nameDef]'s vijanden hebben mechanoïden zover gekregen dat ze op [asker_objective] jagen.\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==false)-></li>
+    <li>allyAllies(lodgersCountMinusOne==1)->bondgenoot</li>
+    <li>allyAllies(lodgersCountMinusOne>=2)->bondgenoten</li>
+  </Hospitality_Joiners.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->shelter for [lodgerIndef]</li>
     <li>questName->hospitality for [lodgerIndef]</li>
@@ -95,6 +156,35 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->nobles</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->aristocrats</li>
   -->
-  <Hospitality_Joiners.questNameRules.rulesStrings>TODO</Hospitality_Joiners.questNameRules.rulesStrings>
+  <Hospitality_Joiners.questNameRules.rulesStrings>
+    <li>questName->onderdak voor [lodgerIndef]</li>
+    <li>questName->gastvrijheid voor [lodgerIndef]</li>
+    <li>questName->[lodgerIndef] te gast</li>
+    <li>questName->hulp aan [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->bescherming voor [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->veiligstelling van [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->veiligheid voor [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] in gevaar</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] bedreigd</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] met vijanden</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] in het vizier</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount==1)->[lodgers0_label]</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount==1)->een [lodgers0_title]</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount>=2)->reizigers</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->[lodgers0_label]</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->een [lodgers0_title]</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->een vriend</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->een bondgenoot</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount>=2)->vrienden</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount>=2)->bondgenoten</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1,p=3)->een [asker_royalTitleInCurrentFaction]</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_label]</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->een koninklijke</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->een edele</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->een aristocraat</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->koninklijken</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->edellieden</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->aristocraten</li>
+  </Hospitality_Joiners.questNameRules.rulesStrings>
   
 </LanguageData>

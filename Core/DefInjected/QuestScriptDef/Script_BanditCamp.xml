@@ -25,13 +25,12 @@
     <li>bandit->Brigand</li>
   -->
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
-    <li>questName->[bandit] [camp]</li>
-    <li>questName->[bandit] [camp]</li>
-    <li>questName->[asker_nameDef] and the [camp]</li>
-    <li>camp->Kamp</li>
-    <li>camp->Nest</li>
-    <li>camp->Schuilplaats</li>
-    <li>camp->Kampement</li>
+    <li>questName->[camp] van de [bandit]</li>
+    <li>questName->[asker_nameDef] en [camp]</li>
+    <li>camp->het Kamp</li>
+    <li>camp->het Nest</li>
+    <li>camp->de Schuilplaats</li>
+    <li>camp->het Kampement</li>
     <li>bandit->Bandieten</li>
     <li>bandit->Rovers</li>
     <li>bandit->Vogelvrijen</li>

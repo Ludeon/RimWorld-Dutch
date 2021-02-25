@@ -30,11 +30,11 @@
   <InstallCircadianAssistant.jobString>Circadiane assistent aan het installeren.</InstallCircadianAssistant.jobString>
   
   <!-- EN: install circadian half-cycler -->
-  <InstallCircadianHalfCycler.label>installeer circadiane cyclus-halveerder</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.label>installeer circadiane helft-schakelaar</InstallCircadianHalfCycler.label>
   <!-- EN: Install a circadian half-cycler. -->
-  <InstallCircadianHalfCycler.description>Installeer een circadiane cyclus-halveerder.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.description>Installeer een circadiane helft-schakelaar.</InstallCircadianHalfCycler.description>
   <!-- EN: Installing circadian half-cycler. -->
-  <InstallCircadianHalfCycler.jobString>Circadiane cyclus-halveerder aan het installeren.</InstallCircadianHalfCycler.jobString>
+  <InstallCircadianHalfCycler.jobString>Circadiane helft-schakelaar aan het installeren.</InstallCircadianHalfCycler.jobString>
   
   <!-- EN: install coagulator -->
   <InstallCoagulator.label>installeer coagulator</InstallCoagulator.label>
@@ -149,11 +149,11 @@
   <RemoveCircadianAssistant.jobString>Circadiane assistent aan het verwijderen.</RemoveCircadianAssistant.jobString>
   
   <!-- EN: remove circadian half-cycler -->
-  <RemoveCircadianHalfCycler.label>verwijder circadiane cyclus-halveerder</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.label>verwijder circadiane helft-schakelaar</RemoveCircadianHalfCycler.label>
   <!-- EN: Remove circadian half-cycler. -->
-  <RemoveCircadianHalfCycler.description>Verwijder een circadiane cyclus-halveerder.</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.description>Verwijder een circadiane helft-schakelaar.</RemoveCircadianHalfCycler.description>
   <!-- EN: Removing circadian half-cycler. -->
-  <RemoveCircadianHalfCycler.jobString>Circadiane cyclus-halveerder aan het verwijderen.</RemoveCircadianHalfCycler.jobString>
+  <RemoveCircadianHalfCycler.jobString>Circadiane helft-schakelaar aan het verwijderen.</RemoveCircadianHalfCycler.jobString>
   
   <!-- EN: remove coagulator -->
   <RemoveCoagulator.label>verwijder coagulator</RemoveCoagulator.label>

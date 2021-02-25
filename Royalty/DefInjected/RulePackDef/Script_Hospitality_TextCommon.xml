@@ -49,6 +49,52 @@
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
-  <QuestHospitalityCommon.rulePack.rulesStrings>TODO</QuestHospitalityCommon.rulePack.rulesStrings>
+  <QuestHospitalityCommon.rulePack.rulesStrings>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->de [lodgersLabelPlural]</li>
+    <li>healthInfo-></li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo(lodgersCount==1)->[lodgers0_nameDef] lijdt aan paralytische abasie en moet in bed worden gehouden.</li>
+    <li>paralyzedInfo(lodgersCount==2)->[lodgersLabelPlural] lijden aan paralytische abasie en moeten in bed worden gehouden.</li>
+    <li>bloodRotInfo(lodgersCount==1)->[lodgers0_nameDef] heeft bloedrot en heeft dagelijks behandeling nodig. De ziekte kan worden vertraagd met hoogwaardige zorg en medicijnen, maar is over het algemeen niet geheel te genezen. Als de ziekte ernstig wordt, gaat [lodgers0_nameDef] dood, dus zorg ervoor dat je over de nodige medische voorzieningen beschikt.</li>
+    <li>bloodRotInfo(lodgersCount==2)->[lodgersLabelPlural] hebben bloedrot en hebben dagelijks behandeling nodig. De ziekte kan worden vertraagd met hoogwaardige zorg en medicijnen, maar is over het algemeen niet geheel te genezen. Als de ziekte ernstig wordt, gaan [lodgersLabelPlural] dood, dus zorg ervoor dat je over de nodige medische voorzieningen beschikt.</li>
+    <li>minMoodInfo-></li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\nje moet de stemming van [lodgersLabelSingOrPluralDef] boven de [lodgersMoodThreshold_percent] houden.</li>
+    <li>workInfo-></li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1,lodgersCount==1)->\n\n[lodgers0_nameDef] zal geen werk doen.</li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1,lodgersCount==2)->\n\nde [lodgersLabelPlural] zullen geen werk doen.</li>
+    <li>commonDescEnding->[helpersParagraph]</li>
+    <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->er zal (*Threat)een overval(/Threat) komen van ongeveer deze omvang:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->er zal (*Threat)een overval(/Threat) komen met sterkte [threatSize]x en ongeveer deze omvang:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->er zullen (*Threat)[threatCount] overvallen(/Threat) komen van ongeveer deze omvang:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->er zullen (*Threat)[threatCount] overvallen(/Threat) komen met sterkte [threatSize]x en ongeveer deze omvang:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)een mech cluster(/Threat) zal in de buurt neerstrijken.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)twee mech clusters(/Threat) zullen in de buurt neerstrijken.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)een mech cluster(/Threat) van omvang [threatSize]x zal in de buurt neerstrijken.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)twee mech clusters(/Threat) van omvang [threatSize]x zullen in de buurt neerstrijken.</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] heeft onlangs [mechViolation], en is het doelwit van een mechanoïdenzwerm in de ruimte.</li>
+    <li>threatsInfoMechClustersMultiPrisoners->De gevangenen hebben onlangs [mechViolation], en zijn het doelwit van een mechanoïdenzwerm in de ruimte.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] heeft onlangs [mechViolation], en is het doelwit van een mechanoïdenzwerm.</li>
+    <li>threatsInfoMechRaidsMultiHuman->Ze hebben onlangs [mechViolation], en zijn het doelwit van een mechanoïdenzwerm.</li>
+    <li>mechViolation->op een of andere manier een machinepersoonlijkheid boos gemaakt</li>
+    <li>mechViolation->een oude supercomputer terminal beschadigd</li>
+    <li>mechViolation->een kind dat onder belangstelling stond van een archotech vermoord</li>
+    <li>mechViolation->geprobeerd het controlepunt van een mechanoïde te hacken</li>
+    <li>mechViolation->geprobeerd iets uit een zeer oude opslagplaats te stelen</li>
+    <li>letterSubject->{SUBJECT_definite}</li>
+    <li>lodgersHasHave(lodgersCount==1)->heeft</li>
+    <li>lodgersHasHave(lodgersCount>=2)->hebben</li>
+    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount>=2)->hen</li>
+    <li>remainingWillNowLeave(lodgersCount==1)-></li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->De overgebleven [lodgersLabelPlural] zullen nu vertrekken. </li>
+    <li>failLetterEndingQuest->Je hebt de opdracht '[resolvedQuestName]' niet volbracht.</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nJe relatie met [asker_faction_name] is afgenomen met [goodwillPenalty].</li>
+  </QuestHospitalityCommon.rulePack.rulesStrings>
   
 </LanguageData>

@@ -60,12 +60,73 @@
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
     <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</li>
   -->
-  <Hospitality_Refugee.questContentRules.rulesStrings>TODO</Hospitality_Refugee.questContentRules.rulesStrings>
+  <Hospitality_Refugee.questContentRules.rulesStrings>
+    <li>lastOrNot(lodgerCount==1)-></li>
+    <li>lastOrNot(lodgerCount>=2)->laatste</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural] aangekomen</li>
+    <li>lodgersArriveLetterText(lodgerCount==1)->[asker_nameDef] is aangekomen. [asker_pronoun] zal gedurende [questDurationTicks_duration] bij je blijven zodat [asker_pronoun] weer op sterkte kan komen.</li>
+    <li>lodgersArriveLetterText(lodgerCount==2)->De [lodgersLabelPlural] zijn aangekomen. Ze zullen gedurende [questDurationTicks_duration] bij je blijven zodat ze weer op sterkte kunnen komen.</li>
+    <li>appalledButNoAction->De {PAWNSALIVECOUNT_multiple ? anderen zijn schijnbaar: laatste [lodgersLabel] is} hierdoor geschokt, maar {PAWNSALIVECOUNT_multiple ? zullen: zal} geen actie tegen je ondernemen.</li>
+    <li>othersWillNotAccept->De {PAWNSALIVECOUNT_multiple ? anderen zijn : laatste [lodgersLabel] is} niet bereid dit te accepteren</li>
+    <li>turnedViolent->[othersWillNotAccept], en {PAWNSALIVECOUNT_multiple ? hebben : heeft } zich tegen je gekeerd.</li>
+    <li>decidedToLeave->[othersWillNotAccept], en {PAWNSALIVECOUNT_multiple ? hebben : heeft } besloten te vertrekken.</li>
+    <li>whoAskedToStay->die had gevraagd om permanent te blijven</li>
+    <li>oneOfThe->een van de wanhopige [faction_pawnsPlural] die had gevraagd om permanent te blijven</li>
+    <li>questOver->De opdracht '[resolvedQuestName]' is ten einde.</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] is overleden.</li>
+    <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel] is dood: Boosheid</li>
+    <li>lodgerDiedMemoryThoughtLetterText->[letterIntroDeath]\n\n[appalledButNoAction]</li>
+    <li>lodgerDiedAttackPlayerLetterLabel->[lodgersLabel] is dood: Wraak</li>
+    <li>lodgerDiedAttackPlayerLetterText->[letterIntroDeath]\n\n[turnedViolent]</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] is dood: Vertrek</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>lodgersAllDiedLetterLabel->Opdracht mislukt</li>
+    <li>lodgersAllDiedLetterText->{SUBJECT_definite}, de [lastOrNot] wanhopige [faction_pawnSingular] [whoAskedToStay], is overleden.\n\n[questOver]</li>
+    <li>letterIntroArrested->Je arresteerde {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedMemoryThoughtLetterLabel->[lodgersLabel] gearresteerd: Boosheid</li>
+    <li>lodgerArrestedMemoryThoughtLetterText->[letterIntroArrested]\n\n[appalledButNoAction]</li>
+    <li>lodgerArrestedAttackPlayerLetterLabel->[lodgersLabel] gearresteerd: Wraak</li>
+    <li>lodgerArrestedAttackPlayerLetterText->[letterIntroArrested]\n\n[turnedViolent]</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] gearresteerd: Vertrek</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>lodgersAllArrestedLetterLabel->Opdracht mislukt</li>
+    <li>lodgersAllArrestedLetterText->Je arresteerde {SUBJECT_definite}, de [lastOrNot] wanhopige [faction_pawnSingular] [whoAskedToStay].\n\n[questOver]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe], werd door een operatie geschonden.</li>
+    <li>lodgerViolatedMemoryThoughtLetterLabel->[lodgersLabel] geschonden: Anger</li>
+    <li>lodgerViolatedMemoryThoughtLetterText->[letterIntroViolated]\n\n[appalledButNoAction]</li>
+    <li>lodgerViolatedAttackPlayerLetterLabel->[lodgersLabel] geschonden: Revenge</li>
+    <li>lodgerViolatedAttackPlayerLetterText->[letterIntroViolated]\n\n[turnedViolent]</li>
+    <li>lodgerViolatedLeaveMapLetterLabel->[lodgersLabel] geschonden: Departure</li>
+    <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>mutinyLetterLabel->Verraad</li>
+    <li>mutinyLetterText(lodgerCount==1)->[asker_nameDef] [whoAskedToStay] heeft zich tegen je gekeerd!\n\nHet lijkt er op dat [asker_pronoun] dit verraad al lang van tevoren had gepland.</li>
+    <li>mutinyLetterText(lodgerCount==2)->De [lodgersLabelPlural] [whoAskedToStay] hebben zich tegen je gekeerd!\n\nHet lijkt er op dat ze dit verraad al lang van tevoren hadden gepland.</li>
+    <li>areIs(lodgerCount==1)->is</li>
+    <li>areIs(lodgerCount>=2)->zijn</li>
+    <li>betrayalOfferLetterLabel->Voorstel voor verraad: [factionOpponent_nameDef]</li>
+    <li>betrayalOffserLetterText->[factionOpponent_nameDef], een [factionOpponent_faction_pawnSingular] van [factionOpponent_faction_name], heeft bericht gekregen dat [asker_nameDef] [otherLodgers] te gast [areIs] in [map_definite]. [factionOpponent_pronoun] is een vijand van [asker_nameDef] en wil dat [asker_objective] sterft.\n\n[factionOpponent_pronoun] zal je de volgende beloning sturen als je alle leden van [faction_name] doodt (totale waarde [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>betrayalOfferRewardLetterLabel->Beloning voor verraad: [factionOpponent_nameDef]</li>
+    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] had je een beloning beloofd als je [asker_nameDef] [otherMembers] zou doden. [factionOpponent_pronoun] heeft te horen gekregen dat je dit hebt gedaan en stuurt daarom een transportcapsule met het volgende (totale waarde [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>betrayalOfferFailedLetterLabel->Beloning voor verraad ingetrokken</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] heeft te horen gekregen dat een van de leden van [faction_name] niet langer in [map_definite] is. [factionOpponent_nameDef] wilde dat alle leden van [faction_name] zouden sterven, en heeft daarom [factionOpponent_possessive] aanbod ingetrokken.</li>
+    <li>otherLodgers(lodgerCount==1)-></li>
+    <li>otherLodgers(lodgerCount==2)->en nog een [lodgersLabel]</li>
+    <li>otherLodgers(lodgerCount>=3)->en een aantal [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-></li>
+    <li>otherMembers(lodgerCount>=2)-> en alle andere leden van [faction_name]</li>
+    <li>lodgersLeavingLetterLabel->Vertrek van [lodgersLabelSingularOrPlural]</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} bedankt je omdat je {FACTION_leaderObjective} in [map_definite] op hebt gevangen de laatste [questDurationTicks_duration]. {FACTION_leaderPronoun} vertrekt nu met {FACTION_leaderPossessive} mensen.\n\n{FACTION_leaderNameDef} zegt dat {FACTION_leaderPronoun} niet zal vergeten wat je voor {FACTION_leaderObjective} hebt gedaan.</li>
+  </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
     <li>lodgersLabelPlural->refugees</li>
   -->
-  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->vluchteling</li>
+    <li>lodgersLabelPlural->vluchtelingen</li>
+  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>offer(lodgerCount==1)->offers</li>
     <li>offer(lodgerCount>=2)->offer</li>
@@ -99,7 +160,36 @@
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
     <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   -->
-  <Hospitality_Refugee.questDescriptionRules.rulesStrings>TODO</Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <li>offer(lodgerCount==1)->biedt aan</li>
+    <li>offer(lodgerCount>=2)->bieden aan</li>
+    <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
+    <li>lodgersPronoun(lodgerCount>=2)->ze</li>
+    <li>lodgersObjective(lodgerCount==1)->[asker_objective]</li>
+    <li>lodgersObjective(lodgerCount>=2)->hen</li>
+    <li>lodgersPossessive(lodgerCount==1)->[asker_possessive]</li>
+    <li>lodgersPossessive(lodgerCount>=2)->hun</li>
+    <li>questDescription(lodgerCount==1)->[approachInfo] [claimInfo] [asker_nameDef] smeekt om onderdak in [map_definite] voor [questDurationTicks_duration] zodat [asker_pronoun] weer op sterkte kan komen.\n\nAls tegenprestatie biedt [asker_pronoun] aan gedurende die periode gratis te werken en te vechten.\n\n[joinInfo] Het is denkbaar dat [asker_objective] je op een later tijdstip beloont - maar het is onmogelijk om te weten wat [asker_possessive] werkelijke bedoelingen zijn.\n\n[travelerInfo] geen deel uit van enige factie. Je kunt er voor kiezen om [asker_objective] te doden, arresteren, verkopen of beroven van lichaamsdelen, zonder diplomatieke consequenties.</li>
+    <li>questDescription(lodgerCount==2)->[approachInfo] [claimInfo] [asker_nameDef] smeekt om onderdak in [map_definite] voor [questDurationTicks_duration] zodat ze weer op sterkte kunnen komen.\n\nAls tegenprestatie bieden ze aan gedurende die periode gratis te werken en te vechten.\n\n[joinInfo] Het is denkbaar dat ze je op een later tijdstip belonen - maar het is onmogelijk om te weten wat hun werkelijke bedoelingen zijn.\n\n[travelerInfo] geen deel uit van enige factie. Je kunt er voor kiezen om ze te doden, arresteren, verkopen of beroven van lichaamsdelen, zonder diplomatieke consequenties.</li>
+    <li>approachInfo(lodgerCount==1)->Een wanhopige [faction_pawnSingular] genaamd [asker_nameDef] komt deze kant op.</li>
+    <li>approachInfo(lodgerCount==2)->[asker_nameDef] en nog een andere wanhopige [faction_pawnSingular] komen deze kant op.</li>
+    <li>approachInfo(lodgerCount>=3)->[lodgerCount] wanhopige [faction_pawnsPlural] komen deze kant op. Hun leider heet [asker_nameDef].</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] beweert dat [asker_pronoun] [asker_possessive] huis in een recente aanslag heeft verloren.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] beweert onlangs uit cryptoslaap te zijn ontwaakt, alleen en zonder vrienden.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] beweert dat [asker_pronoun] uit [asker_possessive] huis is gejaagd door een wraakzuchtige ex-geliefde.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef] beweert te zijn verbannen na een ruzie met een dorpsleider.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze beweren hun huis te hebben verloren bij een recente aanslag.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze beweren te zijn ontsnapt aan een orgaanoogst-operatie.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze beweren dat ze zijn ontsnapt uit een slavenkaravaan.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze zeggen dat hun dorp is uithongerd vanwege een verloren oogst.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze zeggen dat een grote flitsstorm hun huis heeft platgebrand.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze zeggen dat hun karavaan in een hinderlaag terecht kwam en dat alles werd gestolen.</li>
+    <li>claimInfo(lodgerCount>=2)->Ze zeggen dat ze vanwege morele meningsverschillen uit hun stad zijn verbannen.</li>
+    <li>joinInfo(lodgerCount==1)->Als je [asker_objective] blij maakt, kan [asker_pronoun] aanbieden om zich bij je aan te sluiten.</li>
+    <li>joinInfo(lodgerCount>=2)->Als je ze gelukkig maakt, kunnen sommigen van hen aanbieden om zich bij je aan te sluiten.</li>
+    <li>travelerInfo(lodgerCount==1)->Deze [faction_pawnSingular] maakt</li>
+    <li>travelerInfo(lodgerCount>=2)->Deze [faction_pawnsPlural] maken</li>
+  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
     <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
@@ -132,20 +222,58 @@
     <li>lodgerPlural->nomads</li>
     <li>lodgerPlural->vagabonds</li>
   -->
-  <Hospitality_Refugee.questNameRules.rulesStrings>TODO</Hospitality_Refugee.questNameRules.rulesStrings>
+  <Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1)->[asker_nameDef] de [lodgerAdj]</li>
+    <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
+    <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerPlural]</li>
+    <li>athe->een</li>
+    <li>athe->de</li>
+    <li>lodgerAdj->uitgeputte</li>
+    <li>lodgerAdj->zielige</li>
+    <li>lodgerAdj->behoeftige</li>
+    <li>lodgerAdj->arme</li>
+    <li>lodgerAdj->wanhopige</li>
+    <li>lodgerAdj->droevige</li>
+    <li>lodgerAdj->stoffige</li>
+    <li>lodgerAdj->hopeloze</li>
+    <li>lodgerAdj->onbekende</li>
+    <li>lodgerAdj->troosteloze</li>
+    <li>lodgerAdj->eenzame</li>
+    <li>lodgerSingle->reiziger</li>
+    <li>lodgerSingle->vluchteling</li>
+    <li>lodgerSingle->zwerver</li>
+    <li>lodgerSingle->overlevende</li>
+    <li>lodgerSingle->nomade</li>
+    <li>lodgerSingle->vagebond</li>
+    <li>lodgerPlural->reizigers</li>
+    <li>lodgerPlural->vluchtelingen</li>
+    <li>lodgerPlural->zwervers</li>
+    <li>lodgerPlural->overlevenden</li>
+    <li>lodgerPlural->nomaden</li>
+    <li>lodgerPlural->vagebonden</li>
+  </Hospitality_Refugee.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>rewardLetterLabel->Hospitality reward</li>
     <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you helped [rewardGiver_objective] in desperate circumstances.\n\nSince then, [rewardGiver_pronoun] has gotten back on [rewardGiver_possessive] feet, and now [rewardGiver_pronoun] wants to reward you properly for your help. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
   -->
-  <RefugeeDelayedReward.questContentRules.rulesStrings>TODO</RefugeeDelayedReward.questContentRules.rulesStrings>
+  <RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Beloning voor gastvrijheid</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] heeft contact met je opgenomen. [rewardDelayTicks_duration] geleden hielp je [rewardGiver_objective] in wanhopige omstandigheden.\n\nSindsdien is [rewardGiver_pronoun] weer op [rewardGiver_possessive] voeten terecht gekomen en daarom wil [rewardGiver_pronoun] je nu op een passende manier belonen voor je hulp. [rewardGiver_pronoun] stuurt je het volgende via transportcapsule:\n\n[listOfRewards]</li>
+  </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>
   -->
-  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>TODO</RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>questDescription->een vertraagde beloning voor de opvang van vluchtelingen</li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Refugee delayed reward</li>
   -->
-  <RefugeeDelayedReward.questNameRules.rulesStrings>TODO</RefugeeDelayedReward.questNameRules.rulesStrings>
+  <RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>questName->Vertraagde beloning</li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
   
 </LanguageData>

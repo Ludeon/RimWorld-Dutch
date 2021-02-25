@@ -22,7 +22,7 @@
   <CircadianAssistant.description>Een kunstmatige klier. Produceert chemicaliën en nanomachines die de opeenhoping van gifstoffen uit de hersenen verwijderen.</CircadianAssistant.description>
   
   <!-- EN: circadian half-cycler -->
-  <CircadianHalfCycler.label>circadiane cyclus-halveerder</CircadianHalfCycler.label>
+  <CircadianHalfCycler.label>circadiane helft-schakelaar</CircadianHalfCycler.label>
   <!-- EN: A signal redirector which isolates half of the brain, allowing the other half to sleep while the user remains outwardly awake. By alternating brain halves, the user never needs to sleep. Unfortunately, two hemispheres are better than one - working with half a brain causes a reduction in consciousness. -->
   <CircadianHalfCycler.description>Een signaalomvormer die de helft van de hersenen isoleert, waardoor de andere helft kan slapen terwijl de gebruiker uiterlijk wakker blijft. Door de hersenhelften af te wisselen, hoeft de gebruiker nooit te slapen. Helaas zijn twee hersenhelften beter dan één - werken met een half brein veroorzaakt een vermindering van het bewustzijn.</CircadianHalfCycler.description>
   

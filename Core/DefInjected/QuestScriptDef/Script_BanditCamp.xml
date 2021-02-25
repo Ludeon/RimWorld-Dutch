@@ -27,18 +27,18 @@
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
     <li>questName->[camp] van de [bandit]</li>
     <li>questName->[asker_nameDef] en [camp]</li>
-    <li>camp->het Kamp</li>
-    <li>camp->het Nest</li>
-    <li>camp->de Schuilplaats</li>
-    <li>camp->het Kampement</li>
-    <li>bandit->Bandieten</li>
-    <li>bandit->Rovers</li>
-    <li>bandit->Vogelvrijen</li>
-    <li>bandit->Desperados</li>
-    <li>bandit->Vluchtelingen</li>
-    <li>bandit->Stropers</li>
-    <li>bandit->Plunderaars</li>
-    <li>bandit->Struikrovers</li>
+    <li>camp->het kamp</li>
+    <li>camp->het nest</li>
+    <li>camp->de schuilplaats</li>
+    <li>camp->het kampement</li>
+    <li>bandit->bandieten</li>
+    <li>bandit->rovers</li>
+    <li>bandit->vogelvrijen</li>
+    <li>bandit->desperados</li>
+    <li>bandit->vluchtelingen</li>
+    <li>bandit->stropers</li>
+    <li>bandit->plunderaars</li>
+    <li>bandit->struikrovers</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Opdracht verlopen: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>

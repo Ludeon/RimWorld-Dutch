@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: monosword -->
-  <MeleeWeapon_MonoSword.label>TODO</MeleeWeapon_MonoSword.label>
+  <MeleeWeapon_MonoSword.label>monozwaard</MeleeWeapon_MonoSword.label>
   <!-- EN: A crystal-metallic longsword infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease, and its light weight permits fast attacks. -->
-  <MeleeWeapon_MonoSword.description>TODO</MeleeWeapon_MonoSword.description>
+  <MeleeWeapon_MonoSword.description>Een kristal-metaalachtig zwaard doordrenkt met mechanieten die een monomoleculaire snijkant behouden. Het snijdt met gemak door zelfs dikke bepantsering, terwijl het lichte gewicht snelle aanvallen mogelijk maakt.</MeleeWeapon_MonoSword.description>
   <!-- EN: handle -->
-  <MeleeWeapon_MonoSword.tools.handle.label>TODO</MeleeWeapon_MonoSword.tools.handle.label>
+  <MeleeWeapon_MonoSword.tools.handle.label>handvat</MeleeWeapon_MonoSword.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_MonoSword.tools.point.label>TODO</MeleeWeapon_MonoSword.tools.point.label>
+  <MeleeWeapon_MonoSword.tools.point.label>punt</MeleeWeapon_MonoSword.tools.point.label>
   <!-- EN: edge -->
-  <MeleeWeapon_MonoSword.tools.edge.label>TODO</MeleeWeapon_MonoSword.tools.edge.label>
+  <MeleeWeapon_MonoSword.tools.edge.label>snede</MeleeWeapon_MonoSword.tools.edge.label>
   
   <!-- EN: plasmasword -->
-  <MeleeWeapon_PlasmaSword.label>TODO</MeleeWeapon_PlasmaSword.label>
+  <MeleeWeapon_PlasmaSword.label>plasmazwaard</MeleeWeapon_PlasmaSword.label>
   <!-- EN: A metal-cored sword with a cutting edge. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath. -->
-  <MeleeWeapon_PlasmaSword.description>TODO</MeleeWeapon_PlasmaSword.description>
+  <MeleeWeapon_PlasmaSword.description>Een zwaard met metalen kern en een snijkant. Plasma wordt om de kern gewikkeld en op zijn plaats gehouden door een energieveld. Doelen worden zowel gesneden door de metalen kern, als verbrand of ontstoken door de plasmamantel.</MeleeWeapon_PlasmaSword.description>
   <!-- EN: handle -->
-  <MeleeWeapon_PlasmaSword.tools.handle.label>TODO</MeleeWeapon_PlasmaSword.tools.handle.label>
+  <MeleeWeapon_PlasmaSword.tools.handle.label>handvat</MeleeWeapon_PlasmaSword.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_PlasmaSword.tools.point.label>TODO</MeleeWeapon_PlasmaSword.tools.point.label>
+  <MeleeWeapon_PlasmaSword.tools.point.label>punt</MeleeWeapon_PlasmaSword.tools.point.label>
   <!-- EN: edge -->
-  <MeleeWeapon_PlasmaSword.tools.edge.label>TODO</MeleeWeapon_PlasmaSword.tools.edge.label>
+  <MeleeWeapon_PlasmaSword.tools.edge.label>snede</MeleeWeapon_PlasmaSword.tools.edge.label>
   
   <!-- EN: zeushammer -->
-  <MeleeWeapon_Zeushammer.label>TODO</MeleeWeapon_Zeushammer.label>
+  <MeleeWeapon_Zeushammer.label>zeushamer</MeleeWeapon_Zeushammer.label>
   <!-- EN: A warhammer with an embedded EMP capacitor. Upon impact, it blasts the target with an EMP burst in addition to the physical damage. -->
-  <MeleeWeapon_Zeushammer.description>TODO</MeleeWeapon_Zeushammer.description>
+  <MeleeWeapon_Zeushammer.description>Een strijdhamer met een ingebouwde EMP-condensator. Bij elke klap beschiet het het doelwit met een electromagnetische puls, bovenop de fysieke schade.</MeleeWeapon_Zeushammer.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Zeushammer.tools.handle.label>TODO</MeleeWeapon_Zeushammer.tools.handle.label>
+  <MeleeWeapon_Zeushammer.tools.handle.label>handvat</MeleeWeapon_Zeushammer.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Zeushammer.tools.head.label>TODO</MeleeWeapon_Zeushammer.tools.head.label>
+  <MeleeWeapon_Zeushammer.tools.head.label>kop</MeleeWeapon_Zeushammer.tools.head.label>
   
 </LanguageData>

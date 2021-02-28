@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: orbital mech cluster targeter -->
-  <OrbitalTargeterMechCluster.label>TODO</OrbitalTargeterMechCluster.label>
+  <OrbitalTargeterMechCluster.label>mech cluster richter</OrbitalTargeterMechCluster.label>
   <!-- EN: An ancient military targeting device. It signals an orbital platform to drop a mechanoid combat cluster at the targeted point. The cluster may include any mixture of mechanoids and mech defense structures.\n\nThough they may have once had some allegiance to the ancient army that created this unit, any mechs dropped now will indiscriminately attack any human they see - including the one that summoned them.\n\nThe unit only contains one usage code, so it can only be used once. -->
-  <OrbitalTargeterMechCluster.description>TODO</OrbitalTargeterMechCluster.description>
+  <OrbitalTargeterMechCluster.description>Een oud militair richtapparaat. Het signaleert een orbitaal platform om een mechanoïde gevechtscluster op het beoogde punt te laten vallen. Het cluster kan een combinatie van mechanoïden en mechverdedigingsstructuren bevatten.\n\nHoewel ze ooit enige trouw hebben gehad aan het oude leger dat deze eenheid heeft gemaakt, zullen alle mechs die nu worden gedropt willekeurig elke mens aanvallen die ze zien, inclusief degene die ze heeft opgeroepen.\n\nHet apparaat bevat slechts één gebruikscode, dus het kan maar één keer worden gebruikt.</OrbitalTargeterMechCluster.description>
   <!-- EN: charge -->
-  <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>TODO</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
+  <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>aantal</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
   <!-- EN: orbital mech cluster targeter -->
-  <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>TODO</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
+  <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>mech cluster richter</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
   
 </LanguageData>

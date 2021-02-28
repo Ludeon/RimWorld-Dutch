@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: count-down activator -->
-  <ActivatorCountdown.label>TODO</ActivatorCountdown.label>
+  <ActivatorCountdown.label>aftel-activator</ActivatorCountdown.label>
   <!-- EN: A timed mechanoid activation unit. After counting down, it will wake nearby dormant mechanoids and structures. -->
-  <ActivatorCountdown.description>TODO</ActivatorCountdown.description>
+  <ActivatorCountdown.description>Een mechanoïde activeringseenheid met timer. Na het aftellen worden nabijgelegen slapende mechanoïden en structuren wakker.</ActivatorCountdown.description>
   
   <!-- EN: proximity activator -->
-  <ActivatorProximity.label>TODO</ActivatorProximity.label>
+  <ActivatorProximity.label>activatiesensor</ActivatorProximity.label>
   <!-- EN: A proximity alarm for dormant mechanoids. If it detects a human-like threat nearby, it will awaken any nearby dormant mechanoids or structures. -->
-  <ActivatorProximity.description>TODO</ActivatorProximity.description>
+  <ActivatorProximity.description>Een naderingsalarm voor slapende mechanoïden. Als het een mensachtige dreiging in de buurt detecteert, zal het alle nabijgelegen slapende mechanoïden of structuren wakker maken.</ActivatorProximity.description>
   
 </LanguageData>

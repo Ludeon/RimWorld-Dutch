@@ -2,217 +2,217 @@
 <LanguageData>
   
   <!-- EN: install aesthetic nose -->
-  <InstallAestheticNose.label>installeer esthetische neus</InstallAestheticNose.label>
+  <InstallAestheticNose.label>esthetische neus implanteren</InstallAestheticNose.label>
   <!-- EN: Install an aesthetic nose. -->
-  <InstallAestheticNose.description>Installeer een esthetische neus.</InstallAestheticNose.description>
+  <InstallAestheticNose.description>Implanteer een esthetische neus.</InstallAestheticNose.description>
   <!-- EN: Installing aesthetic nose. -->
   <InstallAestheticNose.jobString>Esthetische neus aan het installeren.</InstallAestheticNose.jobString>
   
   <!-- EN: install aesthetic shaper -->
-  <InstallAestheticShaper.label>installeer esthetische vormer</InstallAestheticShaper.label>
+  <InstallAestheticShaper.label>esthetische vormer implanteren</InstallAestheticShaper.label>
   <!-- EN: Install an aesthetic shaper. -->
-  <InstallAestheticShaper.description>Installeer een esthetische vormer.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.description>Implanteer een esthetische vormer.</InstallAestheticShaper.description>
   <!-- EN: Installing aesthetic shaper. -->
   <InstallAestheticShaper.jobString>Esthetische vormer aan het installeren.</InstallAestheticShaper.jobString>
   
   <!-- EN: install armorskin gland -->
-  <InstallArmorskinGland.label>installeer pantserhuid klier</InstallArmorskinGland.label>
+  <InstallArmorskinGland.label>pantserhuid klier implanteren</InstallArmorskinGland.label>
   <!-- EN: Install an armorskin gland. -->
-  <InstallArmorskinGland.description>Installeer een pantserhuid klier.</InstallArmorskinGland.description>
+  <InstallArmorskinGland.description>Implanteer een pantserhuid klier.</InstallArmorskinGland.description>
   <!-- EN: Installing armorskin gland. -->
   <InstallArmorskinGland.jobString>Pantserhuid klier aan het installeren.</InstallArmorskinGland.jobString>
   
   <!-- EN: install circadian assistant -->
-  <InstallCircadianAssistant.label>installeer circadiane assistent</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.label>circadiane assistent implanteren</InstallCircadianAssistant.label>
   <!-- EN: Install a circadian assistant. -->
-  <InstallCircadianAssistant.description>Installeer een circadiane assistent.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.description>Implanteer een circadiane assistent.</InstallCircadianAssistant.description>
   <!-- EN: Installing circadian assistant. -->
   <InstallCircadianAssistant.jobString>Circadiane assistent aan het installeren.</InstallCircadianAssistant.jobString>
   
   <!-- EN: install circadian half-cycler -->
-  <InstallCircadianHalfCycler.label>installeer circadiane helft-schakelaar</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.label>circadiane helft-schakelaar implanteren</InstallCircadianHalfCycler.label>
   <!-- EN: Install a circadian half-cycler. -->
-  <InstallCircadianHalfCycler.description>Installeer een circadiane helft-schakelaar.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.description>Implanteer een circadiane helft-schakelaar.</InstallCircadianHalfCycler.description>
   <!-- EN: Installing circadian half-cycler. -->
   <InstallCircadianHalfCycler.jobString>Circadiane helft-schakelaar aan het installeren.</InstallCircadianHalfCycler.jobString>
   
   <!-- EN: install coagulator -->
-  <InstallCoagulator.label>installeer coagulator</InstallCoagulator.label>
+  <InstallCoagulator.label>coagulator implanteren</InstallCoagulator.label>
   <!-- EN: Install a coagulator. -->
-  <InstallCoagulator.description>Installeer een coagulator.</InstallCoagulator.description>
+  <InstallCoagulator.description>Implanteer een coagulator.</InstallCoagulator.description>
   <!-- EN: Installing coagulator. -->
   <InstallCoagulator.jobString>Coagulator aan het installeren.</InstallCoagulator.jobString>
   
   <!-- EN: install detoxifier stomach -->
-  <InstallDetoxifierStomach.label>installeer ontgifter maag</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.label>ontgifter maag implanteren</InstallDetoxifierStomach.label>
   <!-- EN: Install a detoxifier stomach. -->
-  <InstallDetoxifierStomach.description>Installeer een ontgifter maag.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.description>Implanteer een ontgifter maag.</InstallDetoxifierStomach.description>
   <!-- EN: Installing detoxifier stomach. -->
   <InstallDetoxifierStomach.jobString>Ontgifter maag aan het installeren.</InstallDetoxifierStomach.jobString>
   
   <!-- EN: install gastro-analyzer -->
-  <InstallGastroAnalyzer.label>installeer gastro-analysator</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.label>gastro-analysator implanteren</InstallGastroAnalyzer.label>
   <!-- EN: Install a gastro-analyzer. -->
-  <InstallGastroAnalyzer.description>Installeer een gastro-analysator.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.description>Implanteer een gastro-analysator.</InstallGastroAnalyzer.description>
   <!-- EN: Installing gastro-analyzer. -->
   <InstallGastroAnalyzer.jobString>Gastro-analysator aan het installeren.</InstallGastroAnalyzer.jobString>
   
   <!-- EN: install healing enhancer -->
-  <InstallHealingEnhancer.label>installeer genezingsversterker</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.label>genezingsversterker implanteren</InstallHealingEnhancer.label>
   <!-- EN: Install a healing enhancer. -->
-  <InstallHealingEnhancer.description>Installeer een genezingsversterker.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.description>Implanteer een genezingsversterker.</InstallHealingEnhancer.description>
   <!-- EN: Installing healing enhancer. -->
   <InstallHealingEnhancer.jobString>Genezingsversterker aan het installeren.</InstallHealingEnhancer.jobString>
   
   <!-- EN: install immunoenhancer -->
-  <InstallImmunoenhancer.label>installeer immunoversterker</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.label>immunoversterker implanteren</InstallImmunoenhancer.label>
   <!-- EN: Install an immunoenhancer. -->
-  <InstallImmunoenhancer.description>Installeer een immunoversterker.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.description>Implanteer een immunoversterker.</InstallImmunoenhancer.description>
   <!-- EN: Installing immunoenhancer. -->
   <InstallImmunoenhancer.jobString>Immunoversterker aan het installeren.</InstallImmunoenhancer.jobString>
   
   <!-- EN: install learning assistant -->
-  <InstallLearningAssistant.label>installeer leerassistent</InstallLearningAssistant.label>
+  <InstallLearningAssistant.label>leerassistent implanteren</InstallLearningAssistant.label>
   <!-- EN: Install a learning assistant. -->
-  <InstallLearningAssistant.description>Installeer een leerassistent.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.description>Implanteer een leerassistent.</InstallLearningAssistant.description>
   <!-- EN: Installing learning assistant. -->
   <InstallLearningAssistant.jobString>Leerassistent aan het installeren.</InstallLearningAssistant.jobString>
   
   <!-- EN: install love enhancer -->
-  <InstallLoveEnhancer.label>installeer liefdesverbeteraar</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.label>liefdesverbeteraar implanteren</InstallLoveEnhancer.label>
   <!-- EN: Install a love enhancer. -->
-  <InstallLoveEnhancer.description>Installeer een liefdesverbeteraar.</InstallLoveEnhancer.description>
+  <InstallLovImplanteer eenhancer.description>Een liefdesverbeteraar.</InstallLoveEnhancer.description>
   <!-- EN: Installing love enhancer. -->
   <InstallLoveEnhancer.jobString>Liefdesverbeteraar aan het installeren.</InstallLoveEnhancer.jobString>
   
   <!-- EN: install neurocalculator -->
-  <InstallNeurocalculator.label>installeer neurocalculator</InstallNeurocalculator.label>
+  <InstallNeurocalculator.label>neurocalculator implanteren</InstallNeurocalculator.label>
   <!-- EN: Install a neurocalculator. -->
-  <InstallNeurocalculator.description>Installeer een neurocalculator.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.description>Implanteer een neurocalculator.</InstallNeurocalculator.description>
   <!-- EN: Installing neurocalculator. -->
   <InstallNeurocalculator.jobString>Neurocalculator aan het installeren.</InstallNeurocalculator.jobString>
   
   <!-- EN: install nuclear stomach -->
-  <InstallNuclearStomach.label>installeer nucleaire maag</InstallNuclearStomach.label>
+  <InstallNuclearStomach.label>nucleaire maag implanteren</InstallNuclearStomach.label>
   <!-- EN: Install a nuclear stomach. -->
-  <InstallNuclearStomach.description>Installeer een nucleaire maag.</InstallNuclearStomach.description>
+  <InstallNuclearStomach.description>Implanteer een nucleaire maag.</InstallNuclearStomach.description>
   <!-- EN: Installing nuclear stomach. -->
   <InstallNuclearStomach.jobString>Nucleaire maag aan het installeren.</InstallNuclearStomach.jobString>
   
   <!-- EN: install reprocessor stomach -->
-  <InstallReprocessorStomach.label>installeer herverwerker maag</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.label>herverwerker maag implanteren</InstallReprocessorStomach.label>
   <!-- EN: Install a reprocessor stomach. -->
-  <InstallReprocessorStomach.description>Installeer een herverwerker maag.</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.description>Implanteer een herverwerker maag.</InstallReprocessorStomach.description>
   <!-- EN: Installing reprocessor stomach. -->
   <InstallReprocessorStomach.jobString>Herverwerker maag aan het installeren.</InstallReprocessorStomach.jobString>
   
   <!-- EN: install stoneskin gland -->
-  <InstallStoneskinGland.label>installeer steenhuid klier</InstallStoneskinGland.label>
+  <InstallStoneskinGland.label>steenhuid klier implanteren</InstallStoneskinGland.label>
   <!-- EN: Install a stoneskin gland. -->
-  <InstallStoneskinGland.description>Installeer een steenhuid klier.</InstallStoneskinGland.description>
+  <InstallStoneskinGland.description>Implanteer een steenhuid klier.</InstallStoneskinGland.description>
   <!-- EN: Installing stoneskin gland. -->
   <InstallStoneskinGland.jobString>Steenhuid klier aan het installeren.</InstallStoneskinGland.jobString>
   
   <!-- EN: install toughskin gland -->
-  <InstallToughskinGland.label>installeer hardhuid klier</InstallToughskinGland.label>
+  <InstallToughskinGland.label>hardhuid klier implanteren</InstallToughskinGland.label>
   <!-- EN: Install a toughskin gland. -->
-  <InstallToughskinGland.description>Installeer een hardhuid klier.</InstallToughskinGland.description>
+  <InstallToughskinGland.description>Implanteer een hardhuid klier.</InstallToughskinGland.description>
   <!-- EN: Installing toughskin gland. -->
   <InstallToughskinGland.jobString>Hardhuid klier aan het verwijderen.</InstallToughskinGland.jobString>
   
   <!-- EN: remove aesthetic nose -->
-  <RemoveAestheticNose.label>verwijder esthetische neus</RemoveAestheticNose.label>
+  <RemoveAestheticNose.label>esthetische neus verwijderen</RemoveAestheticNose.label>
   <!-- EN: Remove aesthetic nose. -->
   <RemoveAestheticNose.description>Verwijder een esthetische neus.</RemoveAestheticNose.description>
   <!-- EN: Removing aesthetic nose. -->
   <RemoveAestheticNose.jobString>Esthetische neus aan het verwijderen.</RemoveAestheticNose.jobString>
   
   <!-- EN: remove aesthetic shaper -->
-  <RemoveAestheticShaper.label>verwijder esthetische vormer</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.label>esthetische vormer verwijderen</RemoveAestheticShaper.label>
   <!-- EN: Remove aesthetic shaper. -->
   <RemoveAestheticShaper.description>Verwijder een esthetische vormer.</RemoveAestheticShaper.description>
   <!-- EN: Removing aesthetic shaper. -->
   <RemoveAestheticShaper.jobString>Esthetische vormer aan het verwijderen.</RemoveAestheticShaper.jobString>
   
   <!-- EN: remove armorskin gland -->
-  <RemoveArmorskinGland.label>verwijder pantserhuid klier</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.label>pantserhuid klier verwijderen</RemoveArmorskinGland.label>
   <!-- EN: Remove armorskin gland. -->
   <RemoveArmorskinGland.description>Verwijder een pantserhuid klier.</RemoveArmorskinGland.description>
   <!-- EN: Removing armorskin gland. -->
   <RemoveArmorskinGland.jobString>Pantserhuid klier aan het verwijderen.</RemoveArmorskinGland.jobString>
   
   <!-- EN: remove circadian assistant -->
-  <RemoveCircadianAssistant.label>verwijder circadiane assistent</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.label>circadiane assistent verwijderen</RemoveCircadianAssistant.label>
   <!-- EN: Remove circadian assistant. -->
   <RemoveCircadianAssistant.description>Verwijder een circadiane assistent.</RemoveCircadianAssistant.description>
   <!-- EN: Removing circadian assistant. -->
   <RemoveCircadianAssistant.jobString>Circadiane assistent aan het verwijderen.</RemoveCircadianAssistant.jobString>
   
   <!-- EN: remove circadian half-cycler -->
-  <RemoveCircadianHalfCycler.label>verwijder circadiane helft-schakelaar</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.label>circadiane helft-schakelaar verwijderen</RemoveCircadianHalfCycler.label>
   <!-- EN: Remove circadian half-cycler. -->
   <RemoveCircadianHalfCycler.description>Verwijder een circadiane helft-schakelaar.</RemoveCircadianHalfCycler.description>
   <!-- EN: Removing circadian half-cycler. -->
   <RemoveCircadianHalfCycler.jobString>Circadiane helft-schakelaar aan het verwijderen.</RemoveCircadianHalfCycler.jobString>
   
   <!-- EN: remove coagulator -->
-  <RemoveCoagulator.label>verwijder coagulator</RemoveCoagulator.label>
+  <RemoveCoagulator.label>coagulator verwijderen</RemoveCoagulator.label>
   <!-- EN: Remove coagulator. -->
   <RemoveCoagulator.description>Verwijder een coagulator.</RemoveCoagulator.description>
   <!-- EN: Removing coagulator. -->
   <RemoveCoagulator.jobString>Coagulator aan het verwijderen.</RemoveCoagulator.jobString>
   
   <!-- EN: remove gastro-analyzer -->
-  <RemoveGastroAnalyzer.label>verwijder gastro-analysator</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.label>gastro-analysator verwijderen</RemoveGastroAnalyzer.label>
   <!-- EN: Remove gastro-analyzer. -->
   <RemoveGastroAnalyzer.description>Verwijder een gastro-analysator.</RemoveGastroAnalyzer.description>
   <!-- EN: Removing gastro-analyzer. -->
   <RemoveGastroAnalyzer.jobString>Gastro-analysator aan het verwijderen.</RemoveGastroAnalyzer.jobString>
   
   <!-- EN: remove healing enhancer -->
-  <RemoveHealingEnhancer.label>verwijder genezingsversterker</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.label>genezingsversterker verwijderen</RemoveHealingEnhancer.label>
   <!-- EN: Remove healing enhancer. -->
   <RemoveHealingEnhancer.description>Verwijder een genezingsversterker.</RemoveHealingEnhancer.description>
   <!-- EN: Removing healing enhancer. -->
   <RemoveHealingEnhancer.jobString>Genezingsversterker aan het verwijderen.</RemoveHealingEnhancer.jobString>
   
   <!-- EN: remove immunoenhancer -->
-  <RemoveImmunoenhancer.label>verwijder immunoversterker</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.label>immunoversterker verwijderen</RemoveImmunoenhancer.label>
   <!-- EN: Remove immunoenhancer. -->
   <RemoveImmunoenhancer.description>Verwijder een immunoversterker.</RemoveImmunoenhancer.description>
   <!-- EN: Removing immunoenhancer. -->
   <RemoveImmunoenhancer.jobString>Immunoversterker aan het verwijderen.</RemoveImmunoenhancer.jobString>
   
   <!-- EN: remove learning assistant -->
-  <RemoveLearningAssistant.label>verwijder leerassistent</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.label>leerassistent verwijderen</RemoveLearningAssistant.label>
   <!-- EN: Remove learning assistant. -->
   <RemoveLearningAssistant.description>Verwijder een leerassistent.</RemoveLearningAssistant.description>
   <!-- EN: Removing learning assistant. -->
   <RemoveLearningAssistant.jobString>Leerassistent aan het verwijderen.</RemoveLearningAssistant.jobString>
   
   <!-- EN: remove love enhancer -->
-  <RemoveLoveEnhancer.label>verwijder liefdesverbeteraar</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.label>liefdesverbeteraar verwijderen</RemoveLoveEnhancer.label>
   <!-- EN: Remove love enhancer. -->
   <RemoveLoveEnhancer.description>Verwijder een liefdesverbeteraar.</RemoveLoveEnhancer.description>
   <!-- EN: Removing love enhancer. -->
   <RemoveLoveEnhancer.jobString>Liefdesverbeteraar aan het verwijderen.</RemoveLoveEnhancer.jobString>
   
   <!-- EN: remove neurocalculator -->
-  <RemoveNeurocalculator.label>verwijder neurocalculator</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.label>neurocalculator verwijderen</RemoveNeurocalculator.label>
   <!-- EN: Remove neurocalculator. -->
   <RemoveNeurocalculator.description>Verwijder een neurocalculator.</RemoveNeurocalculator.description>
   <!-- EN: Removing neurocalculator. -->
   <RemoveNeurocalculator.jobString>Neurocalculator aan het verwijderen.</RemoveNeurocalculator.jobString>
   
   <!-- EN: remove stoneskin gland -->
-  <RemoveStoneskinGland.label>verwijder steenhuid klier</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.label>steenhuid klier verwijderen</RemoveStoneskinGland.label>
   <!-- EN: Remove stoneskin gland. -->
   <RemoveStoneskinGland.description>Verwijder een steenhuid klier.</RemoveStoneskinGland.description>
   <!-- EN: Removing stoneskin gland. -->
   <RemoveStoneskinGland.jobString>Steenhuid klier aan het verwijderen.</RemoveStoneskinGland.jobString>
   
   <!-- EN: remove toughskin gland -->
-  <RemoveToughskinGland.label>verwijder hardhuid klier</RemoveToughskinGland.label>
+  <RemoveToughskinGland.label>hardhuid klier verwijderen</RemoveToughskinGland.label>
   <!-- EN: Remove toughskin gland. -->
   <RemoveToughskinGland.description>Verwijder een hardhuid klier.</RemoveToughskinGland.description>
   <!-- EN: Removing toughskin gland. -->

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: mech assembler -->
-  <MechAssembler.label>TODO</MechAssembler.label>
+  <MechAssembler.label>mechfabriek</MechAssembler.label>
   <!-- EN: An automated mechanoid factory. It periodically assembles and deploys new mechanoids. -->
-  <MechAssembler.description>TODO</MechAssembler.description>
+  <MechAssembler.description>Een geautomatiseerde mechanische fabriek. Het assembleert met regelmaat nieuwe mechanoïden.</MechAssembler.description>
   
   <!-- EN: mech capsule -->
-  <MechCapsule.label>TODO</MechCapsule.label>
+  <MechCapsule.label>mechcapsule</MechCapsule.label>
   <!-- EN: A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened. -->
-  <MechCapsule.description>TODO</MechCapsule.description>
+  <MechCapsule.description>Een mechanoïde opslagcapsule. Het kan een aantal mechanoïden bevatten, klaar om tevoorschijn te komen en te vechten nadat ze ontwaakt zijn.</MechCapsule.description>
   
   <!-- EN: mech drop beacon -->
-  <MechDropBeacon.label>TODO</MechDropBeacon.label>
+  <MechDropBeacon.label>mech drop baken</MechDropBeacon.label>
   <!-- EN: A mechanoid reinforcement drop beacon. When activated, it calls in a group of mechs to land in drop pods nearby. -->
-  <MechDropBeacon.description>TODO</MechDropBeacon.description>
+  <MechDropBeacon.description>Een mechanoïde baken voor versterkingen. Wanneer geactiveerd, roept het een groep mechs op die in transportcapsules in de buurt zullen landen.</MechDropBeacon.description>
   
 </LanguageData>

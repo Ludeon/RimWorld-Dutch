@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: install psychic harmonizer -->
-  <InstallPsychicHarmonizer.label>installeer psychische harmonisator</InstallPsychicHarmonizer.label>
+  <InstallPsychicHarmonizer.label>psychische harmonisator implanteren</InstallPsychicHarmonizer.label>
   <!-- EN: Install a psychic harmonizer. -->
-  <InstallPsychicHarmonizer.description>Installeer een psychische harmonisator.</InstallPsychicHarmonizer.description>
+  <InstallPsychicHarmonizer.description>Implanteer een psychische harmonisator.</InstallPsychicHarmonizer.description>
   <!-- EN: Installing psychic harmonizer. -->
   <InstallPsychicHarmonizer.jobString>Psychische harmonisator aan het installeren.</InstallPsychicHarmonizer.jobString>
   
   <!-- EN: install psychic reader -->
-  <InstallPsychicReader.label>installeer psychische lezer</InstallPsychicReader.label>
+  <InstallPsychicReader.label>psychische lezer implanteren</InstallPsychicReader.label>
   <!-- EN: Install a psychic reader. -->
-  <InstallPsychicReader.description>installeer een psychische lezer.</InstallPsychicReader.description>
+  <InstallPsychicReader.description>Implanteer een psychische lezer.</InstallPsychicReader.description>
   <!-- EN: Installing psychic reader. -->
   <InstallPsychicReader.jobString>Psychische lezer aan het installeren.</InstallPsychicReader.jobString>
   
   <!-- EN: install psychic sensitizer -->
-  <InstallPsychicSensitizer.label>installeer psychische gevoeligheidsverhoger</InstallPsychicSensitizer.label>
+  <InstallPsychicSensitizer.label>psychische gevoeligheidsverhoger implanteren</InstallPsychicSensitizer.label>
   <!-- EN: Install a psychic sensitizer. -->
-  <InstallPsychicSensitizer.description>Installeer een psychische gevoeligheidsverhoger.</InstallPsychicSensitizer.description>
+  <InstallPsychicSensitizer.description>Implanteer een psychische gevoeligheidsverhoger.</InstallPsychicSensitizer.description>
   <!-- EN: Installing psychic sensitizer. -->
   <InstallPsychicSensitizer.jobString>psychische gevoeligheidsverhoger aan het installeren.</InstallPsychicSensitizer.jobString>
   
   <!-- EN: remove psychic harmonizer -->
-  <RemovePsychicHarmonizer.label>verwijder psychische harmonisator</RemovePsychicHarmonizer.label>
+  <RemovePsychicHarmonizer.label>psychische harmonisator verwijderen</RemovePsychicHarmonizer.label>
   <!-- EN: Remove psychic harmonizer. -->
   <RemovePsychicHarmonizer.description>Verwijder een psychische harmonisator.</RemovePsychicHarmonizer.description>
   <!-- EN: Removing psychic harmonizer. -->
   <RemovePsychicHarmonizer.jobString>Psychische harmonisator aan het verwijderen.</RemovePsychicHarmonizer.jobString>
   
   <!-- EN: remove psychic reader -->
-  <RemovePsychicReader.label>verwijder psychische lezer</RemovePsychicReader.label>
+  <RemovePsychicReader.label>psychische lezer verwijderen</RemovePsychicReader.label>
   <!-- EN: Remove psychic reader. -->
   <RemovePsychicReader.description>Verwijder een psychische lezer.</RemovePsychicReader.description>
   <!-- EN: Removing psychic reader. -->
   <RemovePsychicReader.jobString>Psychische lezer aan het verwijderen.</RemovePsychicReader.jobString>
   
   <!-- EN: remove psychic sensitizer -->
-  <RemovePsychicSensitizer.label>verwijder psychische gevoeligheidsverhoger</RemovePsychicSensitizer.label>
+  <RemovePsychicSensitizer.label>psychische gevoeligheidsverhoger verwijderen</RemovePsychicSensitizer.label>
   <!-- EN: Remove psychic sensitizer. -->
   <RemovePsychicSensitizer.description>Verwijder een psychische gevoeligheidsverhoger.</RemovePsychicSensitizer.description>
   <!-- EN: Removing psychic sensitizer. -->

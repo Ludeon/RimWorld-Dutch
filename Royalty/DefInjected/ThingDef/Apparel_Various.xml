@@ -2,81 +2,81 @@
 <LanguageData>
   
   <!-- EN: cataphract armor -->
-  <Apparel_ArmorCataphract.label>TODO</Apparel_ArmorCataphract.label>
+  <Apparel_ArmorCataphract.label>katafractpantser</Apparel_ArmorCataphract.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorCataphract.description>TODO</Apparel_ArmorCataphract.description>
+  <Apparel_ArmorCataphract.description>Een zwaar pak van aangedreven bepantsering, gebouwd voor maximale bescherming ten koste van mobiliteit. Zware gelaagde platen van kunststof geweven met solide ablatieve coatings stoppen alle behalve de meest gerichte of krachtige aanvallen. Neuro-memetische assistenten voorkomen dat het enorme gewicht van het pak de drager volledig immobiliseert, maar het pak is nog steeds behoorlijk omslachtig.\n\nPantser zoals dit wordt gebruikt door keizerlijke katafracten om zwaar versterkte posities te breken bij frontale aanvallen wanneer er geen andere optie beschikbaar is.</Apparel_ArmorCataphract.description>
   
   <!-- EN: phoenix armor -->
-  <Apparel_ArmorCataphractPhoenix.label>TODO</Apparel_ArmorCataphractPhoenix.label>
+  <Apparel_ArmorCataphractPhoenix.label>fenikspantser</Apparel_ArmorCataphractPhoenix.label>
   <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
-  <Apparel_ArmorCataphractPhoenix.description>TODO</Apparel_ArmorCataphractPhoenix.description>
+  <Apparel_ArmorCataphractPhoenix.description>Een variant van katafractpantser met een op de schouder gemonteerde vlammenwerper. Dit pantser is iets minder beschermend dan standaard katafractpantser tegen normale schade, maar is vooral vlambestendig. De vlammenwerper heeft een zeer beperkte munitie en moet na gebruik opnieuw worden geladen.\n\nFeniksen zijn gespecialiseerd in het opruimen van kleine ruimtes vol vijanden, zoals bij ondergrondse of scheepsoperaties. Ze kunnen klappen opvangen terwijl ze door een gang bewegen, kamers vullen met vlammen en ongedeerd uit de rook komen.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>TODO</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>vuurlading</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
   <!-- EN: launch incendiary -->
-  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>TODO</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>gebruik vlammenwerper</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
   
   <!-- EN: prestige cataphract armor -->
-  <Apparel_ArmorCataphractPrestige.label>TODO</Apparel_ArmorCataphractPrestige.label>
+  <Apparel_ArmorCataphractPrestige.label>prestige katafractpantser</Apparel_ArmorCataphractPrestige.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorCataphractPrestige.description>TODO</Apparel_ArmorCataphractPrestige.description>
+  <Apparel_ArmorCataphractPrestige.description>Een zwaar pak van aangedreven bepantsering, gebouwd voor maximale bescherming ten koste van mobiliteit. Zware gelaagde platen van kunststof geweven met solide ablatieve coatings stoppen alle behalve de meest gerichte of krachtige aanvallen. Neuro-memetische assistenten voorkomen dat het enorme gewicht van het pak de drager volledig immobiliseert, maar het pak is nog steeds behoorlijk omslachtig.\n\nPrestigepantser zoals dit is duur en mooi en wordt meestal gemaakt voor mensen met een hoge status. Ingebouwde eltex-draden versterken ook de psychische gevoeligheid van de drager.</Apparel_ArmorCataphractPrestige.description>
   
   <!-- EN: cataphract helmet -->
-  <Apparel_ArmorHelmetCataphract.label>TODO</Apparel_ArmorHelmetCataphract.label>
+  <Apparel_ArmorHelmetCataphract.label>katafracthelm</Apparel_ArmorHelmetCataphract.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorHelmetCataphract.description>TODO</Apparel_ArmorHelmetCataphract.description>
+  <Apparel_ArmorHelmetCataphract.description>Een zwaar gepantserde high-tech helm, met een stevige kunststof schaal en een indirect visueel systeem voor niet-frontale kijkhoeken. Het beschermt tegen alle behalve de krachtigste of fortuinlijk gerichte schoten.\n\nPantser zoals dit wordt gebruikt door keizerlijke katafracten om zwaar versterkte posities te breken bij frontale aanvallen wanneer er geen andere optie beschikbaar is.</Apparel_ArmorHelmetCataphract.description>
   
   <!-- EN: prestige cataphract helmet -->
-  <Apparel_ArmorHelmetCataphractPrestige.label>TODO</Apparel_ArmorHelmetCataphractPrestige.label>
+  <Apparel_ArmorHelmetCataphractPrestige.label>prestige katafracthelm</Apparel_ArmorHelmetCataphractPrestige.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorHelmetCataphractPrestige.description>TODO</Apparel_ArmorHelmetCataphractPrestige.description>
+  <Apparel_ArmorHelmetCataphractPrestige.description>Een zwaar gepantserde high-tech helm, met een stevige kunststof schaal en een indirect visueel systeem voor niet-frontale kijkhoeken. Het beschermt tegen alle behalve de krachtigste of fortuinlijk gerichte schoten.\n\nPrestigepantser zoals dit is duur en mooi en wordt meestal gemaakt voor mensen met een hoge status. Ingebouwde eltex-draden versterken ook de psychische gevoeligheid van de drager.</Apparel_ArmorHelmetCataphractPrestige.description>
   
   <!-- EN: prestige recon helmet -->
-  <Apparel_ArmorHelmetReconPrestige.label>TODO</Apparel_ArmorHelmetReconPrestige.label>
+  <Apparel_ArmorHelmetReconPrestige.label>prestige verkennershelm</Apparel_ArmorHelmetReconPrestige.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorHelmetReconPrestige.description>TODO</Apparel_ArmorHelmetReconPrestige.description>
+  <Apparel_ArmorHelmetReconPrestige.description>Een high-tech gepantserde helm met een ingebouwde statuscomputer en een beschermende plastaalgeweven laag.\n\nPrestigepantser zoals dit is duur en mooi en wordt meestal gemaakt voor mensen met een hoge status. Ingebouwde eltex-draden versterken ook de psychische gevoeligheid van de drager.</Apparel_ArmorHelmetReconPrestige.description>
   
   <!-- EN: locust armor -->
-  <Apparel_ArmorLocust.label>TODO</Apparel_ArmorLocust.label>
+  <Apparel_ArmorLocust.label>sprinkhaanpantser</Apparel_ArmorLocust.label>
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
-  <Apparel_ArmorLocust.description>TODO</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.description>Een variant van verkenningspantser met een geïntegreerde springraket voor korteafstandsvluchten. Sprinkhaanpantser is iets minder beschermend dan standaard verkenningspantser. Elke sprong verbruikt een hoeveelheid brandstof, dus het pantser moet na verschillende keren gebruik opnieuw worden geladen.\n\nIn tegenstelling tot de meeste ultratech militaire eenheden trainen sprinkhanen voornamelijk met slagwapens. Ze vermijden meestal statische vuurgevechten en geven er de voorkeur aan rechtstreeks in vijandelijke vestingwerken te springen en in melee te vechten. Ze doen het slecht in statische verdediging of krappe ruimtes, maar blinken uit in gemengde dekking en scheepsoperaties.</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
-  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>TODO</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>sprong</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
   <!-- EN: jump -->
-  <Apparel_ArmorLocust.verbs.jump.label>TODO</Apparel_ArmorLocust.verbs.jump.label>
+  <Apparel_ArmorLocust.verbs.jump.label>sprong</Apparel_ArmorLocust.verbs.jump.label>
   
   <!-- EN: grenadier armor -->
-  <Apparel_ArmorMarineGrenadier.label>TODO</Apparel_ArmorMarineGrenadier.label>
+  <Apparel_ArmorMarineGrenadier.label>grenadierspantser</Apparel_ArmorMarineGrenadier.label>
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
-  <Apparel_ArmorMarineGrenadier.description>TODO</Apparel_ArmorMarineGrenadier.description>
+  <Apparel_ArmorMarineGrenadier.description>Een variant van het marienierspantser met een geïntegreerde granaatwerper op de schouder. Het pantser is iets minder beschermend dan standaard marinierspantser. De granaatwerper kan slechts een beperkte hoeveelheid munitie bevatten en moet na gebruik opnieuw worden geladen.\n\nGrenadiers zijn meestal gespecialiseerd in het doorbreken van muren of interne schotten van schepen. Hoewel grenadiers niet effectief zijn op zeer lange afstand, kunnen ze verrassend dodelijk zijn in krappe ruimtes.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>TODO</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>granaat</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
   <!-- EN: launch frag grenade -->
-  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>TODO</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>schiet explosieve granaat</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
   
   <!-- EN: prestige marine helmet -->
-  <Apparel_ArmorMarineHelmetPrestige.label>TODO</Apparel_ArmorMarineHelmetPrestige.label>
+  <Apparel_ArmorMarineHelmetPrestige.label>prestige mariniershelm</Apparel_ArmorMarineHelmetPrestige.label>
   <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorMarineHelmetPrestige.description>TODO</Apparel_ArmorMarineHelmetPrestige.description>
+  <Apparel_ArmorMarineHelmetPrestige.description>Een mariniershelm met ingebouwde statuscomputer en meerdere beschermende plasteelgeweven lagen.\n\nPrestigepantser zoals dit is duur en mooi en wordt meestal gemaakt voor mensen met een hoge status. Ingebouwde eltex-draden versterken ook de psychische gevoeligheid van de drager.</Apparel_ArmorMarineHelmetPrestige.description>
   
   <!-- EN: prestige marine armor -->
-  <Apparel_ArmorMarinePrestige.label>TODO</Apparel_ArmorMarinePrestige.label>
+  <Apparel_ArmorMarinePrestige.label>prestige marinierspantser</Apparel_ArmorMarinePrestige.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorMarinePrestige.description>TODO</Apparel_ArmorMarinePrestige.description>
+  <Apparel_ArmorMarinePrestige.description>Een krachtig pantser. Zijn gelaagde kunststof platen zijn zeer effectief in het stoppen van aanvallen, met weinig kwetsbare gewrichtsdelen. Neuro-memetische assistenten zorgen ervoor dat een mens het pantser kan dragen en toch gemakkelijk kan bewegen.\n\nPrestigepantser zoals dit is duur en mooi en wordt meestal gemaakt voor mensen met een hoge status. Ingebouwde eltex-draden versterken ook de psychische gevoeligheid van de drager.</Apparel_ArmorMarinePrestige.description>
   
   <!-- EN: prestige recon armor -->
-  <Apparel_ArmorReconPrestige.label>TODO</Apparel_ArmorReconPrestige.label>
+  <Apparel_ArmorReconPrestige.label>prestige verkennerspantser</Apparel_ArmorReconPrestige.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorReconPrestige.description>TODO</Apparel_ArmorReconPrestige.description>
+  <Apparel_ArmorReconPrestige.description>Een licht, gedeeltelijk aangedreven pantser, ontworpen om snelle bewegingen mogelijk te maken. Lichtgewicht platen van kunststofweefsel blokkeren aanvallen zonder de mobiliteit te hinderen, en neuro-memetische assistenten in het onderlichaam zorgen ervoor dat een mens het pantser kan dragen en toch gemakkelijk kan bewegen.\n\nPrestigepantser zoals dit is duur en mooi en wordt meestal gemaakt voor mensen met een hoge status. Ingebouwde eltex-draden versterken ook de psychische gevoeligheid van de drager.</Apparel_ArmorReconPrestige.description>
   
   <!-- EN: gunlink -->
-  <Apparel_Gunlink.label>TODO</Apparel_Gunlink.label>
+  <Apparel_Gunlink.label>doelzoeker</Apparel_Gunlink.label>
   <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
-  <Apparel_Gunlink.description>TODO</Apparel_Gunlink.description>
+  <Apparel_Gunlink.description>Een computer die de gebruiker helpt bij het richten. Het detecteert en analyseert doelen met behulp van infrarood, visuele en millimetergolf elektromagnetische sensoren. Een boordcomputer projecteert afvuuroplossingen op het netvlies. De doelzoeker biedt geen enkele bescherming.</Apparel_Gunlink.description>
   
   <!-- EN: incendiary grenade -->
-  <Proj_GrenadePhoenixFire.label>TODO</Proj_GrenadePhoenixFire.label>
+  <Proj_GrenadePhoenixFire.label>brandgranaat</Proj_GrenadePhoenixFire.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadierGrenade.label>TODO</Proj_GrenadierGrenade.label>
+  <Proj_GrenadierGrenade.label>explosieve granaat</Proj_GrenadierGrenade.label>
   
 </LanguageData>

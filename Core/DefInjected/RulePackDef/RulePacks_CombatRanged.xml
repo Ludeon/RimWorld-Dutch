@@ -131,7 +131,7 @@
     <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_label]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
     <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label] en [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
     <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label], maar [damaged_past] [RECIPIENT_label]'s [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_label]'s [damaged_targets] werd [damaged_past] by [INITIATOR_label]'s [WEAPON_projectile_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_label]'s [damaged_targets] werd [damaged_pastperfect] door [INITIATOR_label]'s [WEAPON_projectile_label].</li>
     <li>r_logentry(p=3)->[INITIATOR_label]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
     <li>r_logentry(p=6)->[INITIATOR_label]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_label], maar [destroyed_past] [RECIPIENT_label]'s [destroyed_targets] en [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_label] raakte [RECIPIENT_label] met een [WEAPON_projectile_label].</li>
@@ -249,7 +249,7 @@
     <li>verb_shot(p=0.2)->discharged</li>
   -->
   <Combat_RangedFire.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_label] [shotat] [RECIPIENT_label] with [INITIATOR_possessive] [WEAPON_label].</li>
+    <li>r_logentry->[INITIATOR_label] [shotat] [RECIPIENT_label] met [INITIATOR_possessive] [WEAPON_label].</li>
     <li>r_logentry->[INITIATOR_label] [shot] met [INITIATOR_possessive] [WEAPON_label] op [RECIPIENT_label].</li>
     <li>r_logentry->[INITIATOR_label] [shotat] [RECIPIENT_label].</li>
     <li>r_logentry->[INITIATOR_label] [shot] [aburst] met [INITIATOR_possessive] [WEAPON_label] op [RECIPIENT_label].</li>

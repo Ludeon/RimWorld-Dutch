@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: meditation psyfocus gain -->
-  <MeditationFocusGain.label>TODO</MeditationFocusGain.label>
+  <MeditationFocusGain.label>meditatie psyfocus winst</MeditationFocusGain.label>
   <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
-  <MeditationFocusGain.description>TODO</MeditationFocusGain.description>
+  <MeditationFocusGain.description>De hoeveelheid psyfocus die een persoon per dag door meditatie wint, waarbij bonussen van focusobjecten worden genegeerd.</MeditationFocusGain.description>
   <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatString>TODO</MeditationFocusGain.formatString>
+  <MeditationFocusGain.formatString>{0} / dag</MeditationFocusGain.formatString>
   <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatStringUnfinalized>TODO</MeditationFocusGain.formatStringUnfinalized>
+  <MeditationFocusGain.formatStringUnfinalized>{0} / dag</MeditationFocusGain.formatStringUnfinalized>
   
   <!-- EN: neural heat gain -->
-  <PsychicEntropyGain.label>TODO</PsychicEntropyGain.label>
+  <PsychicEntropyGain.label>neurale warmteopbouw</PsychicEntropyGain.label>
   <!-- EN: A multiplier on neural heat gained from any source. -->
-  <PsychicEntropyGain.description>TODO</PsychicEntropyGain.description>
+  <PsychicEntropyGain.description>Een vermenigvuldiger van neurale warmte die uit elke bron wordt opgebouwd.</PsychicEntropyGain.description>
   
   <!-- EN: neural heat limit -->
-  <PsychicEntropyMax.label>TODO</PsychicEntropyMax.label>
+  <PsychicEntropyMax.label>neurale warmtelimiet</PsychicEntropyMax.label>
   <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
-  <PsychicEntropyMax.description>TODO</PsychicEntropyMax.description>
+  <PsychicEntropyMax.description>De maximale hoeveelheid neurale warmte die het individu veilig kan verdragen.</PsychicEntropyMax.description>
   
   <!-- EN: neural heat recovery rate -->
-  <PsychicEntropyRecoveryRate.label>TODO</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.label>herstel neurale warmte</PsychicEntropyRecoveryRate.label>
   <!-- EN: The rate at which this person reduces neural heat. -->
-  <PsychicEntropyRecoveryRate.description>TODO</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.description>De snelheid waarmee deze persoon neurale warmte verliest.</PsychicEntropyRecoveryRate.description>
   <!-- EN: {0}/s -->
-  <PsychicEntropyRecoveryRate.formatString>TODO</PsychicEntropyRecoveryRate.formatString>
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
   
 </LanguageData>

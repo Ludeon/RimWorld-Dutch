@@ -65,9 +65,9 @@
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
-    <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
-    <li>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] en [flavortext_consequence]</li>
-    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+    <li>result(p=1)->en [damaged_past] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)->en [damaged_past] [RECIPIENT_possessive] [targetlist] en [flavortext_consequence]</li>
+    <li>result(p=0.1)->en [damaged_[past] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
     <li>strikeAdv->op pijnlijke wijze</li>
     <li>strikeAdv->op akelige wijze</li>
     <li>strikeAdv->op brute wijze</li>

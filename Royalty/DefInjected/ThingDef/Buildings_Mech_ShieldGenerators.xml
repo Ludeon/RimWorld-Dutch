@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: mech low-shield -->
-  <ShieldGeneratorBullets.label>TODO</ShieldGeneratorBullets.label>
+  <ShieldGeneratorBullets.label>mech schildprojector (laag)</ShieldGeneratorBullets.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to low angles, so it will block ground-level projectiles like bullets.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
-  <ShieldGeneratorBullets.description>TODO</ShieldGeneratorBullets.description>
+  <ShieldGeneratorBullets.description>Een schildprojector die een momentumafstotend veld genereert. Schoten kunnen naar buiten passeren, maar niet naar binnen.\n\nDeze is afgesteld op lage hoeken, zodat hij projectielen op grondniveau, zoals kogels, blokkeert.\n\nDe eenheid kan tijdelijk worden uitgeschakeld door EMP-aanvallen, hetzij door de projector zelf de belagen, of met behulp van EMP-munitie afgevuurd op het schild.</ShieldGeneratorBullets.description>
   
   <!-- EN: mech high-shield -->
-  <ShieldGeneratorMortar.label>TODO</ShieldGeneratorMortar.label>
+  <ShieldGeneratorMortar.label>mech schildprojector (hoog)</ShieldGeneratorMortar.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to high angles, so it will block mortar rounds.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
-  <ShieldGeneratorMortar.description>TODO</ShieldGeneratorMortar.description>
+  <ShieldGeneratorMortar.description>Een schildprojector die een momentumafstotend veld genereert. Schoten kunnen naar buiten passeren, maar niet naar binnen.\n\nDeze is afgestemd op hoge hoeken, en blokkeert dus mortiergranaten.\n\nDe eenheid kan tijdelijk worden uitgeschakeld door EMP-aanvallen, hetzij door de projector zelf de belagen, of met behulp van EMP-munitie afgevuurd op het schild.</ShieldGeneratorMortar.description>
   
 </LanguageData>

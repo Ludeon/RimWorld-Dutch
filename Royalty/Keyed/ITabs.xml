@@ -44,9 +44,9 @@
   <!-- EN: Current title -->
   <CurrentTitle>Huidige titel</CurrentTitle>
   <!-- EN: Unused permit points -->
-  <UnusedPermits>Ongebruikte vergunningspunten</UnusedPermits>
+  <UnusedPermits>Vergunningspunten</UnusedPermits>
   <!-- EN: Return all permits -->
-  <ReturnAllPermits>Geef alle vergunningen terug</ReturnAllPermits>
+  <ReturnAllPermits>Alle vergunningen teruggeven</ReturnAllPermits>
   <!-- EN: {PAWN_nameDef} has no permits to return. -->
   <NoPermitsToReturn>{PAWN_nameDef} heeft geen vergunningen om terug te geven.</NoPermitsToReturn>
   <!-- EN: Returning permits requires {FAVORCOST} {FAVOR} but {PAWN_nameDef} only has {CURFAVOR}. -->

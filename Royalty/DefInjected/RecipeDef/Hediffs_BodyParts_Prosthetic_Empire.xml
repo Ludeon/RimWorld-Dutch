@@ -2,91 +2,91 @@
 <LanguageData>
   
   <!-- EN: install drill arm -->
-  <InstallDrillArm.label>installeer boorarm</InstallDrillArm.label>
+  <InstallDrillArm.label>boorarm implanteren</InstallDrillArm.label>
   <!-- EN: Install a drill arm. -->
-  <InstallDrillArm.description>Installeer een boorarm.</InstallDrillArm.description>
+  <InstallDrillArm.description>Implanteer een boorarm.</InstallDrillArm.description>
   <!-- EN: Installing drill arm. -->
   <InstallDrillArm.jobString>Boorarm aan het installeren.</InstallDrillArm.jobString>
   
   <!-- EN: install elbow blade -->
-  <InstallElbowBlade.label>installeer elleboogsnijblad</InstallElbowBlade.label>
+  <InstallElbowBlade.label>elleboogsnijblad implanteren</InstallElbowBlade.label>
   <!-- EN: Install an elbow blade. -->
-  <InstallElbowBlade.description>Installeer een elleboogsnijblad.</InstallElbowBlade.description>
+  <InstallElbowBlade.description>Implanteer een elleboogsnijblad.</InstallElbowBlade.description>
   <!-- EN: Installing elbow blade. -->
   <InstallElbowBlade.jobString>Elleboogsnijblad aan het installeren.</InstallElbowBlade.jobString>
   
   <!-- EN: install field hand -->
-  <InstallFieldHand.label>installeer landbouwhand</InstallFieldHand.label>
+  <InstallFieldHand.label>landbouwhand implanteren</InstallFieldHand.label>
   <!-- EN: Install a field hand. -->
-  <InstallFieldHand.description>Installeer een landbouwhand.</InstallFieldHand.description>
+  <InstallFieldHand.description>Implanteer een landbouwhand.</InstallFieldHand.description>
   <!-- EN: Installing field hand. -->
   <InstallFieldHand.jobString>Landbouwhand aan het installeren.</InstallFieldHand.jobString>
   
   <!-- EN: install hand talon -->
-  <InstallHandTalon.label>installeer hand klauw</InstallHandTalon.label>
+  <InstallHandTalon.label>hand klauw implanteren</InstallHandTalon.label>
   <!-- EN: Install a hand talon. -->
-  <InstallHandTalon.description>Installeer een hand klauw.</InstallHandTalon.description>
+  <InstallHandTalon.description>Implanteer een hand klauw.</InstallHandTalon.description>
   <!-- EN: Installing hand talon. -->
   <InstallHandTalon.jobString>hand klauw aan het installeren.</InstallHandTalon.jobString>
   
   <!-- EN: install knee spike -->
-  <InstallKneeSpike.label>installeer kniespies</InstallKneeSpike.label>
+  <InstallKneeSpike.label>kniespies implanteren</InstallKneeSpike.label>
   <!-- EN: Install a knee spike. -->
-  <InstallKneeSpike.description>Installeer een kniespies.</InstallKneeSpike.description>
+  <InstallKneeSpike.description>Implanteer een kniespies.</InstallKneeSpike.description>
   <!-- EN: Installing knee spike. -->
   <InstallKneeSpike.jobString>Kniespies aan het installeren.</InstallKneeSpike.jobString>
   
   <!-- EN: install mindscrew -->
-  <InstallMindscrew.label>installeer geestwurger</InstallMindscrew.label>
+  <InstallMindscrew.label>geestwurger implanteren</InstallMindscrew.label>
   <!-- EN: Install a mindscrew. -->
-  <InstallMindscrew.description>Installeer een geestwurger.</InstallMindscrew.description>
+  <InstallMindscrew.description>Implanteer een geestwurger.</InstallMindscrew.description>
   <!-- EN: Installing mindscrew. -->
   <InstallMindscrew.jobString>Geestwurger aan het installeren.</InstallMindscrew.jobString>
   
   <!-- EN: install venom fangs -->
-  <InstallVenomFangs.label>installeer giftanden</InstallVenomFangs.label>
+  <InstallVenomFangs.label>giftanden implanteren</InstallVenomFangs.label>
   <!-- EN: Install venom fangs. -->
-  <InstallVenomFangs.description>Installeer giftanden.</InstallVenomFangs.description>
+  <InstallVenomFangs.description>Implanteren giftanden.</InstallVenomFangs.description>
   <!-- EN: Installing venom fangs. -->
   <InstallVenomFangs.jobString>Giftanden aan het installeren.</InstallVenomFangs.jobString>
   
   <!-- EN: install venom talon -->
-  <InstallVenomTalon.label>installeer gifklauw</InstallVenomTalon.label>
+  <InstallVenomTalon.label>gifklauw implanteren</InstallVenomTalon.label>
   <!-- EN: Install a venom talon. -->
-  <InstallVenomTalon.description>Installeer een gifklauw.</InstallVenomTalon.description>
+  <InstallVenomTalon.description>Implanteer een gifklauw.</InstallVenomTalon.description>
   <!-- EN: Installing venom talon. -->
   <InstallVenomTalon.jobString>Gifklauw aan het verwijderen.</InstallVenomTalon.jobString>
   
   <!-- EN: remove elbow blade -->
-  <RemoveElbowBlade.label>verwijder elleboogsnijblad</RemoveElbowBlade.label>
+  <RemoveElbowBlade.label>elleboogsnijblad verwijderen</RemoveElbowBlade.label>
   <!-- EN: Remove elbow blade. -->
   <RemoveElbowBlade.description>Verwijder een elleboogsnijblad.</RemoveElbowBlade.description>
   <!-- EN: Removing elbow blade. -->
   <RemoveElbowBlade.jobString>Elleboogsnijblad aan het verwijderen.</RemoveElbowBlade.jobString>
   
   <!-- EN: remove hand talon -->
-  <RemoveHandTalon.label>verwijder hand klauw</RemoveHandTalon.label>
+  <RemoveHandTalon.label>hand klauw verwijderen</RemoveHandTalon.label>
   <!-- EN: Remove hand talon. -->
   <RemoveHandTalon.description>Verwijder een hand klauw.</RemoveHandTalon.description>
   <!-- EN: Removing hand talon. -->
   <RemoveHandTalon.jobString>hand klauw aan het verwijderen.</RemoveHandTalon.jobString>
   
   <!-- EN: remove knee spike -->
-  <RemoveKneeSpike.label>verwijder kniespies</RemoveKneeSpike.label>
+  <RemoveKneeSpike.label>kniespies verwijderen</RemoveKneeSpike.label>
   <!-- EN: Remove knee spike. -->
   <RemoveKneeSpike.description>Verwijder een kniespies.</RemoveKneeSpike.description>
   <!-- EN: Removing knee spike. -->
   <RemoveKneeSpike.jobString>Kniespies aan het verwijderen.</RemoveKneeSpike.jobString>
   
   <!-- EN: remove venom fangs -->
-  <RemoveVenomFangs.label>verwijder giftanden</RemoveVenomFangs.label>
+  <RemoveVenomFangs.label>giftanden verwijderen</RemoveVenomFangs.label>
   <!-- EN: Remove venom fangs. -->
   <RemoveVenomFangs.description>Verwijder giftanden.</RemoveVenomFangs.description>
   <!-- EN: Removing venom fangs. -->
   <RemoveVenomFangs.jobString>Giftanden aan het verwijderen.</RemoveVenomFangs.jobString>
   
   <!-- EN: remove venom talon -->
-  <RemoveVenomTalon.label>verwijder gifklauw</RemoveVenomTalon.label>
+  <RemoveVenomTalon.label>gifklauw verwijderen</RemoveVenomTalon.label>
   <!-- EN: Remove venom talon. -->
   <RemoveVenomTalon.description>Verwijder een gifklauw.</RemoveVenomTalon.description>
   <!-- EN: Removing venom talon. -->

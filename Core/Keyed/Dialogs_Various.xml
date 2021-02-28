@@ -1001,7 +1001,7 @@
   <!-- EN: Effect radius -->
   <AbilityEffectRadius>Effectradius</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>Uitspreektijd</AbilityCastingTime>
+  <AbilityCastingTime>Benodigde tijd</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>Doelwit buiten gezichtsveld.</AbilityCannotHitTarget>
   <!-- EN: Can't reach the target. -->

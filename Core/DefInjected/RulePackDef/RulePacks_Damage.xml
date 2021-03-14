@@ -15,17 +15,17 @@
     <li>destroyed_past->detonated</li>
   -->
   <Damage_Bomb.rulePack.rulesStrings>
-    <li>damaged_past(p=2)->ontploft</li>
-    <li>damaged_past(p=2)->geëxplodeerd</li>
-    <li>damaged_past->geblesseerd</li>
-    <li>damaged_past->beschadigd</li>
-    <li>damaged_past->gewond</li>
-    <li>damaged_past->bezeerd</li>
-    <li>destroyed_past->versplinterd</li>
-    <li>destroyed_past->verpletterd</li>
-    <li>destroyed_past->vernietigd</li>
-    <li>destroyed_past->vermorzeld</li>
-    <li>destroyed_past->ontploft</li>
+    <li>damaged_past(p=2)->ontplofte</li>
+    <li>damaged_past(p=2)->explodeerde</li>
+    <li>damaged_past->blesseerde</li>
+    <li>damaged_past->beschadigde</li>
+    <li>damaged_past->verwondde</li>
+    <li>damaged_past->bezeerde</li>
+    <li>destroyed_past->versplinterde</li>
+    <li>destroyed_past->verpletterde</li>
+    <li>destroyed_past->vernietigde</li>
+    <li>destroyed_past->vermorzelde</li>
+    <li>destroyed_past->ontplofte</li>
   </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
@@ -35,9 +35,9 @@
     <li>destroyed_past->damaged_past</li>
   -->
   <Damage_EMP.rulePack.rulesStrings>
-    <li>damaged_past->geëlektrificeerd</li>
-    <li>damaged_past->geschokt</li>
-    <li>damaged_past->gezapt</li>
+    <li>damaged_past->elektrificeerde</li>
+    <li>damaged_past->schokte</li>
+    <li>damaged_past->zapte</li>
     <li>destroyed_past->damaged_past</li>
   </Damage_EMP.rulePack.rulesStrings>
   
@@ -49,10 +49,10 @@
     <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Extinguish.rulePack.rulesStrings>
-    <li>damaged_past->geblust</li>
-    <li>damaged_past->overspoeld</li>
-    <li>damaged_past->geschuimd</li>
-    <li>damaged_past->gedoofd</li>
+    <li>damaged_past->bluste</li>
+    <li>damaged_past->overspoelde</li>
+    <li>damaged_past->schuimde</li>
+    <li>damaged_past->doofde</li>
     <li>destroyed_past->damaged_past</li>
   </Damage_Extinguish.rulePack.rulesStrings>
   
@@ -91,16 +91,16 @@
     <li>destroyed_present->detonating</li>
   -->
   <Damage_Flame.rulePack.rulesStrings>
-    <li>damaged_past(p=2)->opgeblazen</li>
-    <li>damaged_past(p=2)->verschroeid</li>
-    <li>damaged_past(p=2)->verbrand</li>
-    <li>damaged_past(p=2)->geblaard</li>
-    <li>damaged_past(p=2)->aangestoken</li>
-    <li>damaged_past(p=2)->gegaard</li>
-    <li>damaged_past->geblesseerd</li>
-    <li>damaged_past->beschadigd</li>
-    <li>damaged_past->gewond</li>
-    <li>damaged_past->bezeerd</li>
+    <li>damaged_past(p=2)->explodeerde</li>
+    <li>damaged_past(p=2)->verschroeide</li>
+    <li>damaged_past(p=2)->verbrandde</li>
+    <li>damaged_past(p=2)->verzengde</li>
+    <li>damaged_past(p=2)->ontstak</li>
+    <li>damaged_past(p=2)->gaarde</li>
+    <li>damaged_past->blesseerde</li>
+    <li>damaged_past->beschadigde</li>
+    <li>damaged_past->verwondde</li>
+    <li>damaged_past->bezeerde</li>
     <li>damaged_present(p=2)->opblazen</li>
     <li>damaged_present(p=2)->verschroeien</li>
     <li>damaged_present(p=2)->verbranden</li>
@@ -111,12 +111,12 @@
     <li>damaged_present->beschadigen</li>
     <li>damaged_present->verwonden</li>
     <li>damaged_present->bezeren</li>
-    <li>destroyed_past->gecremeerd</li>
-    <li>destroyed_past->verbrand</li>
-    <li>destroyed_past->verkoold</li>
-    <li>destroyed_past->vernietigd</li>
-    <li>destroyed_past->vermorzeld</li>
-    <li>destroyed_past->ontploft</li>
+    <li>destroyed_past->cremeerde</li>
+    <li>destroyed_past->verbrandde</li>
+    <li>destroyed_past->verkoolde</li>
+    <li>destroyed_past->vernietigde</li>
+    <li>destroyed_past->vermorzelde</li>
+    <li>destroyed_past->ontplofte</li>
     <li>destroyed_present->cremeren</li>
     <li>destroyed_present->verbranden</li>
     <li>destroyed_present->verkolen</li>
@@ -132,9 +132,9 @@
     <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Smoke.rulePack.rulesStrings>
-    <li>damaged_past->uitgerookt</li>
-    <li>damaged_past->gemistigd</li>
-    <li>damaged_past->vervaagd</li>
+    <li>damaged_past->rookte</li>
+    <li>damaged_past->bemistte</li>
+    <li>damaged_past->vervaagde</li>
     <li>destroyed_past->damaged_past</li>
   </Damage_Smoke.rulePack.rulesStrings>
   
@@ -146,10 +146,10 @@
     <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Stun.rulePack.rulesStrings>
-    <li>damaged_past->geschokt</li>
-    <li>damaged_past->verward</li>
-    <li>damaged_past->gestopt</li>
-    <li>damaged_past->duizelig</li>
+    <li>damaged_past->schokte</li>
+    <li>damaged_past->verwarde</li>
+    <li>damaged_past->stopte</li>
+    <li>damaged_past->duizelde</li>
     <li>destroyed_past->damaged_past</li>
   </Damage_Stun.rulePack.rulesStrings>
   

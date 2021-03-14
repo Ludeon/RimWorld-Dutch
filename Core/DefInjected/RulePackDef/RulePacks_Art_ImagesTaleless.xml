@@ -66,7 +66,7 @@
     <li>image->een abstracte verbeelding van [ConceptAny]</li>
     <li>image->een [AdjectiveAnyGendered] abstracte vorm</li>
     <li>desc_pawn_maybe-></li>
-    <li>desc_pawn_maybe->desc_pawn</li>
+    <li>desc_pawn_maybe->[desc_pawn]</li>
     <li>desc_pawn->die door de lucht vliegt</li>
     <li>desc_pawn->die in de lucht zweeft</li>
     <li>desc_pawn->die naar links beweegt</li>

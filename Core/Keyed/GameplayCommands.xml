@@ -138,17 +138,17 @@
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>Stel geforceerd doelwit in</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>Geforceerd doelwit instellen</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
   <CommandSetForceAttackTargetDesc>Stelt een doelwit in dat dit afweergeschut zo lang mogelijk continu moet aanvallen.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>Stop geforceerde aanval</CommandStopForceAttack>
+  <CommandStopForceAttack>Geforceerde aanval stoppen</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
   <CommandStopForceAttackDesc>Stopt geforceerd aanvallen en zorgt ervoor dat het afweergeschut naar wens kan schieten.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>Momenteel niet geforceerd aan het aanvallen.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
-  <CommandExtractShell>Verwijder huls</CommandExtractShell>
+  <CommandExtractShell>Huls verwijderen</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
   <CommandExtractShellDesc>Ontlaadt de huidige huls zodat deze kan worden vervangen door andere munitie.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
@@ -160,7 +160,7 @@
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
-  <CommandShipLaunch>Lanceer schip</CommandShipLaunch>
+  <CommandShipLaunch>Schip lanceren</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
   <CommandShipLaunchDesc>Start de scheepslanceringsprocedure met de huidige configuratie.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
@@ -192,7 +192,7 @@
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
-  <CommandResetTemp>Herstel</CommandResetTemp>
+  <CommandResetTemp>Herstellen</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
   <CommandResetTempDesc>Zet de gewenste temperatuur terug op kamertemperatuur.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
@@ -202,11 +202,11 @@
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
-  <CommandInstall>Plaatsen</CommandInstall>
+  <CommandInstall>Installeren</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>Dit item is momenteel verpakt voor opslag en transport. Gebruik dit commando om dit item op een definitieve locatie te installeren.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>Herinstalleer op...</CommandReinstall>
+  <CommandReinstall>Herinstalleren op...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Wijs dit item aan om het te verwijderen en ergens anders opnieuw te installeren.</CommandReinstallDesc>
   
@@ -280,13 +280,13 @@
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>Vorm karavaan</CommandFormCaravan>
+  <CommandFormCaravan>Karavaan vormen</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Vorm een groep kolonisten die in staat zijn om naar nieuwe gebieden te reizen. De kolonisten zullen alle toegewezen voorraden en bijbehorende dieren verzamelen, hun huidige gebied verlaten en wachten op verdere orders.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>Hervorm karavaan</CommandReformCaravan>
+  <CommandReformCaravan>Karavaan hervormen</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>Hervorm een groep kolonisten. De kolonisten zullen hun huidige gebied verlaten en wachten op verdere bevelen.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
@@ -294,7 +294,7 @@
   
   <!-- Split caravan -->
   <!-- EN: Split -->
-  <CommandSplitCaravan>Splits</CommandSplitCaravan>
+  <CommandSplitCaravan>Splitsen</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
   <CommandSplitCaravanDesc>Splits deze karavaan in tweeën. De karavanen kunnen later weer tot één karavaan worden samengevoegd, zolang ze maar dicht bij elkaar staan.</CommandSplitCaravanDesc>
   
@@ -338,25 +338,25 @@
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>Verwijder uit de karavaan</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>Uit de karavaan verwijderen</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
   <CommandRemoveFromCaravanDesc>Verwijder deze persoon of dit dier uit de karavaan.</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>Toevoegen aan caravan</CommandAddToCaravan>
+  <CommandAddToCaravan>Aan karavaan toevoegen</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
   <CommandAddToCaravanDesc>Voeg deze persoon of dier toe aan de vormende karavaan.</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
-  <CommandShowMap>Zoom in</CommandShowMap>
+  <CommandShowMap>Inzoomen</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
   <CommandShowMapDesc>Zoom in op dit gebied.</CommandShowMapDesc>
   
   <!-- Trade -->
   <!-- EN: Trade -->
-  <CommandTrade>Handel</CommandTrade>
+  <CommandTrade>Handelen</CommandTrade>
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>Handel met deze factie.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
@@ -366,13 +366,13 @@
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>Bied geschenken aan</CommandOfferGifts>
+  <CommandOfferGifts>Geschenken aanbieden</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
   <CommandOfferGiftsDesc>Bied geschenken aan aan deze factie.</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
-  <CommandFulfillTradeOffer>Vervul handelsaanbod </CommandFulfillTradeOffer>
+  <CommandFulfillTradeOffer>Handelsaanbod vervullen</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
   <CommandFulfillTradeOfferDesc>Voldoe aan het verzoek van de nederzetting voor goederen en claim je beloning.</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
@@ -390,7 +390,7 @@
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
-  <CommandSetTargetFuelLevel>Streefbrandstofniveau instellen </CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevel>Streefbrandstofniveau instellen</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
   <CommandSetTargetFuelLevelDesc>Stel het streefbrandstofniveau in. Kolonisten zullen proberen dit te vullen tot het streefniveau van de brandstof.</CommandSetTargetFuelLevelDesc>
 
@@ -408,7 +408,7 @@
   
   <!-- Launch group -->
   <!-- EN: Launch -->
-  <CommandLaunchGroup>Lanceer groep </CommandLaunchGroup>
+  <CommandLaunchGroup>Groep lanceren</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>Initieert het bestemmingsproces voor het lanceren van een groep transportcapsules. De volgende stap is het kiezen van een bestemming. De capsules zullen samen vliegen en landen</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
@@ -420,7 +420,7 @@
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>Laad lanceergroep van {0}</CommandLoadTransporter>
+  <CommandLoadTransporter>Lanceergroep van {0} laden</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterDesc>Definieert de geselecteerde transporter(s) als een lanceergroep. Opent het laadvenster zodat u kunt beslissen wie en wat erin geladen moet worden.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
@@ -430,7 +430,7 @@
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>Laad</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Laden</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterSingleDesc>Opent het laadscherm zodat je kunt bepalen wie en wat er ingeladen moeten worden.</CommandLoadTransporterSingleDesc>
   
@@ -448,25 +448,25 @@
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>Selecteer vorige in de lanceergroep</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>Vorige in de lanceergroep selecteren</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
   <CommandSelectPreviousTransporterDesc>Selecteer de vorige transportcapsule in deze lanceergroep.</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
-  <CommandSelectAllTransporters>Selecteer lanceergroep</CommandSelectAllTransporters>
+  <CommandSelectAllTransporters>Lanceergroep selecteren</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
   <CommandSelectAllTransportersDesc>Selecteer alle transportcapsules in deze lanceergroep.</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
-  <CommandSelectNextTransporter>Selecteer de volgende in de lanceergroep</CommandSelectNextTransporter>
+  <CommandSelectNextTransporter>Volgende in de lanceergroep selecteren</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
   <CommandSelectNextTransporterDesc>Selecteer de volgende transportcapsule in deze lanceergroep.</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
-  <CommandDesignateOpenCloseVentLabel>Aanwijzing openen/sluiten</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentLabel>Open/gesloten toewijzen</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
   <CommandDesignateOpenCloseVentDesc>Wijs deze ventilatieopening aan om te openen of te sluiten. Een kolonist zal snel komen om de taak uit te voeren.</CommandDesignateOpenCloseVentDesc>
   
@@ -478,7 +478,7 @@
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
-  <CommandPauseCaravan>Rust</CommandPauseCaravan>
+  <CommandPauseCaravan>Rusten</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
   <CommandToggleCaravanPauseDesc>Begin te rusten. Dit heeft de volgende voordelen: \n\n  - Mensen kunnen sociaal met elkaar omgaan\n  - Foerage gaat {0} keer sneller\n  - Zichtbaarheid vermenigvuldigd met {1}</CommandToggleCaravanPauseDesc>
   
@@ -506,13 +506,13 @@
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>Stuur weg</CommandShuttleDismiss>
+  <CommandShuttleDismiss>Wegsturen</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
   <CommandShuttleDismissDesc>Verwijder alle inhoud en stuur de shuttle weg.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>Plaats blauwdruk</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>Blauwdruk plaatsen</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
   <CommandPlaceBlueprintsDesc>Plaats alle vereiste blauwdrukken waar mogelijk.</CommandPlaceBlueprintsDesc>
   <!-- EN: Place {0} blueprints -->
@@ -528,7 +528,7 @@
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>Toon opdracht: {0}</CommandViewQuest>
+  <CommandViewQuest>Opdracht tonen: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
   <CommandViewQuestDesc>Bekijk deze opdracht in de opdrachtentab.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->

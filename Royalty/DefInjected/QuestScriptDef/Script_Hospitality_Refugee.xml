@@ -67,7 +67,7 @@
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural] aangekomen</li>
     <li>lodgersArriveLetterText(lodgerCount==1)->[asker_nameDef] is aangekomen. [asker_pronoun] zal gedurende [questDurationTicks_duration] bij je blijven zodat [asker_pronoun] weer op sterkte kan komen.</li>
-    <li>lodgersArriveLetterText(lodgerCount==2)->De [lodgersLabelPlural] zijn aangekomen. Ze zullen gedurende [questDurationTicks_duration] bij je blijven zodat ze weer op sterkte kunnen komen.</li>
+    <li>lodgersArriveLetterText(lodgerCount>=2)->De [lodgersLabelPlural] zijn aangekomen. Ze zullen gedurende [questDurationTicks_duration] bij je blijven zodat ze weer op sterkte kunnen komen.</li>
     <li>appalledButNoAction->De {PAWNSALIVECOUNT_multiple ? anderen zijn schijnbaar: laatste [lodgersLabel] is} hierdoor geschokt, maar {PAWNSALIVECOUNT_multiple ? zullen: zal} geen actie tegen je ondernemen.</li>
     <li>othersWillNotAccept->De {PAWNSALIVECOUNT_multiple ? anderen zijn : laatste [lodgersLabel] is} niet bereid dit te accepteren</li>
     <li>turnedViolent->[othersWillNotAccept], en {PAWNSALIVECOUNT_multiple ? hebben : heeft } zich tegen je gekeerd.</li>
@@ -102,7 +102,7 @@
     <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
     <li>mutinyLetterLabel->Verraad</li>
     <li>mutinyLetterText(lodgerCount==1)->[asker_nameDef] [whoAskedToStay] heeft zich tegen je gekeerd!\n\nHet lijkt er op dat [asker_pronoun] dit verraad al lang van tevoren had gepland.</li>
-    <li>mutinyLetterText(lodgerCount==2)->De [lodgersLabelPlural] [whoAskedToStay] hebben zich tegen je gekeerd!\n\nHet lijkt er op dat ze dit verraad al lang van tevoren hadden gepland.</li>
+    <li>mutinyLetterText(lodgerCount>=2)->De [lodgersLabelPlural] [whoAskedToStay] hebben zich tegen je gekeerd!\n\nHet lijkt er op dat ze dit verraad al lang van tevoren hadden gepland.</li>
     <li>areIs(lodgerCount==1)->is</li>
     <li>areIs(lodgerCount>=2)->zijn</li>
     <li>betrayalOfferLetterLabel->Voorstel voor verraad: [factionOpponent_nameDef]</li>
@@ -161,8 +161,6 @@
     <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   -->
   <Hospitality_Refugee.questDescriptionRules.rulesStrings>
-    <li>offer(lodgerCount==1)->biedt aan</li>
-    <li>offer(lodgerCount>=2)->bieden aan</li>
     <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
     <li>lodgersPronoun(lodgerCount>=2)->ze</li>
     <li>lodgersObjective(lodgerCount==1)->[asker_objective]</li>
@@ -170,7 +168,7 @@
     <li>lodgersPossessive(lodgerCount==1)->[asker_possessive]</li>
     <li>lodgersPossessive(lodgerCount>=2)->hun</li>
     <li>questDescription(lodgerCount==1)->[approachInfo] [claimInfo] [asker_nameDef] smeekt om onderdak in [map_definite] voor [questDurationTicks_duration] zodat [asker_pronoun] weer op sterkte kan komen.\n\nAls tegenprestatie biedt [asker_pronoun] aan gedurende die periode gratis te werken en te vechten.\n\n[joinInfo] Het is denkbaar dat [asker_objective] je op een later tijdstip beloont - maar het is onmogelijk om te weten wat [asker_possessive] werkelijke bedoelingen zijn.\n\n[travelerInfo] geen deel uit van enige factie. Je kunt er voor kiezen om [asker_objective] te doden, arresteren, verkopen of beroven van lichaamsdelen, zonder diplomatieke consequenties.</li>
-    <li>questDescription(lodgerCount==2)->[approachInfo] [claimInfo] [asker_nameDef] smeekt om onderdak in [map_definite] voor [questDurationTicks_duration] zodat ze weer op sterkte kunnen komen.\n\nAls tegenprestatie bieden ze aan gedurende die periode gratis te werken en te vechten.\n\n[joinInfo] Het is denkbaar dat ze je op een later tijdstip belonen - maar het is onmogelijk om te weten wat hun werkelijke bedoelingen zijn.\n\n[travelerInfo] geen deel uit van enige factie. Je kunt er voor kiezen om ze te doden, arresteren, verkopen of beroven van lichaamsdelen, zonder diplomatieke consequenties.</li>
+    <li>questDescription(lodgerCount>=2)->[approachInfo] [claimInfo] [asker_nameDef] smeekt om onderdak in [map_definite] voor [questDurationTicks_duration] zodat ze weer op sterkte kunnen komen.\n\nAls tegenprestatie bieden ze aan gedurende die periode gratis te werken en te vechten.\n\n[joinInfo] Het is denkbaar dat ze je op een later tijdstip belonen - maar het is onmogelijk om te weten wat hun werkelijke bedoelingen zijn.\n\n[travelerInfo] geen deel uit van enige factie. Je kunt er voor kiezen om ze te doden, arresteren, verkopen of beroven van lichaamsdelen, zonder diplomatieke consequenties.</li>
     <li>approachInfo(lodgerCount==1)->Een wanhopige [faction_pawnSingular] genaamd [asker_nameDef] komt deze kant op.</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef] en nog een andere wanhopige [faction_pawnSingular] komen deze kant op.</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount] wanhopige [faction_pawnsPlural] komen deze kant op. Hun leider heet [asker_nameDef].</li>

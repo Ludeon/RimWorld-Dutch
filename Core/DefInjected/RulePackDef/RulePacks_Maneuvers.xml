@@ -130,7 +130,7 @@
     <li>damaged_inf(p=2)->duw</li>
     <li>damaged_inf->dauw</li>
     <li>damaged_inf->steek</li>
-    <li>damaged_past(p=2)->Porde</li>
+    <li>damaged_past(p=2)->porde</li>
     <li>damaged_past(p=2)->duwde</li>
     <li>damaged_past->dauwde</li>
     <li>damaged_past->stak</li>

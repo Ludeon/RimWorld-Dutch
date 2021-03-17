@@ -9,7 +9,14 @@
     <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nIf you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
     <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
   -->
-  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], wil dat je een van [asker_possessive] karavanen helpt redden. De karavaan wordt opgejaagd in de buurt van [map_definite] door (*Threat)[numGroupsOf] [enemyFaction_pawnsPlural](/Threat) van [enemyFaction_name]. [asker_nameDef] wil dat je de [enemyFaction_pawnsPlural] een signaal geeft om ze weg te lokken van de karavaan - en naar jou toe.[endingCommon]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name], doet een verzoek aan jou.\n\n(*Threat)[groupsOf](/Threat) van [enemyFaction_name] hebben [asker_possessive] karavanen in het gebied lastiggevallen. [asker_nameDef] vraagt dat je ze een uitdagingsbericht stuurt, ze uitlokt om aan je te vallen en de dreiging zelf elimineert.[endingCommon]</li>
+    <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
+    <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
+    <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nAls je accepteert, komen de [enemyFaction_pawnsPlural] aan over [firstRaidDelayTicks_duration].</li>
+    <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Als je accepteert, komen de [enemyFaction_pawnsPlural] aan over [firstRaidDelayTicks_duration].</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
@@ -32,6 +39,32 @@
     <li>violence->Hostility</li>
     <li>violence->Warfare</li>
   -->
-  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>questName->[enemyFaction_pawnsPlural] van fortuin</li>
+    <li>questName->[violence] van fortuin</li>
+    <li>questName->[violence] te huur</li>
+    <li>questName->[violence] voor winst</li>
+    <li>questName(p=0.5)->Beloonde [violenceGendered]</li>
+    <li>questName(p=0.5)->Betaalde [violenceGendered]</li>
+    <li>questName(p=0.5)->Vergoede [violenceGendered]</li>
+    <li>questName(p=0.5)->Beloond [violenceNeuter]</li>
+    <li>questName(p=0.5)->Betaald [violenceNeuter]</li>
+    <li>questName(p=0.5)->Vergoed [violenceNeuter]</li>
+    <li>questName(reward==royalFavor)->[enemyFaction_pawnsPlural] voor gunst</li>
+    <li>questName(reward==royalFavor)->[violence] voor gunst</li>
+    <li>violence->[violenceNeuter]</li>
+    <li>violence->[violenceGendered]</li>
+    <li>violenceNeuter->geweld</li>
+    <li>violenceGendered->strijd</li>
+    <li>violenceNeuter->gevecht</li>
+    <li>violenceGendered->oorlog</li>
+    <li>violenceNeuter->vechten</li>
+    <li>violenceNeuter->bloedvergieten</li>
+    <li>violenceGendered->aanval</li>
+    <li>violenceGendered->verdediging</li>
+    <li>violenceNeuter->conflict</li>
+    <li>violenceGendered->vijandigheid</li>
+    <li>violenceGendered->oorlogvoering</li>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

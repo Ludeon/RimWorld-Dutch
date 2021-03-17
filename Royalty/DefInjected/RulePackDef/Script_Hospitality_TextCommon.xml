@@ -51,6 +51,8 @@
   -->
   <QuestHospitalityCommon.rulePack.rulesStrings>
     <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->de [lodgersLabelPlural]</li>
     <li>healthInfo-></li>
@@ -88,6 +90,8 @@
     <li>letterSubject->{SUBJECT_definite}</li>
     <li>lodgersHasHave(lodgersCount==1)->heeft</li>
     <li>lodgersHasHave(lodgersCount>=2)->hebben</li>
+    <li>lodgersIsAre(lodgersCount==1)->is</li>
+    <li>lodgersIsAre(lodgersCount>=2)->zijn</li>
     <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
     <li>lodgersObjective(lodgersCount>=2)->hen</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>

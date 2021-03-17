@@ -27,7 +27,32 @@
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</li>
     <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
-  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>TODO</QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Er is een mysterieus bericht binnengekomen. Het lijkt erop dat het werd gestuurd door een machine-persona die weigert zichzelf een naam te geven. Het bericht vraagt je om een heel specifiek monument te bouwen.\n\n[commonEnding]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] van [asker_faction_name] vraagt je een monument te bouwen [buildReason].\n\n[commonEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] van [asker_faction_name] vraagt je een monument te bouwen [buildReason].\n\n[commonEnding]</li>
+    <li>asker2(askerIsNull==true)->de archotech</li>
+    <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
+    <li>asker2(asker_royalInCurrentFaction==True)->de [asker_royalTitleInCurrentFaction]</li>
+    <li>buildReason->om de [PersonalCharacteristic] van [asker_possessive] [PersonFamily] te herdenken</li>
+    <li>buildReason->ter herdenking van [asker_possessive] eigen [PersonalCharacteristic]</li>
+    <li>buildReason->om de [PersonalCharacteristic] van [asker_possessive] rivaal te beledigen</li>
+    <li>buildReason->om gevoelens van [ConceptAngsty] onder de mensen te verminderen</li>
+    <li>buildReason->om uit te drukken hoe [AdjectiveBadass] [asker_pronoun] is</li>
+    <li>buildReason->ter herdenking van [asker_possessive] [asker_faction_pawnsPlural] die zijn gesneuveld in de strijd</li>
+    <li>buildReason->ter ere van [vragensteller bezitterig] [persoon familie]</li>
+    <li>buildReason->om het werk van [PersonJobPlural] te eren</li>
+    <li>buildReason->om afbeeldingen van [asker_possessive] [glory] over het land te verspreiden</li>
+    <li>glory->glorie</li>
+    <li>glory->krijgshaftige eer</li>
+    <li>glory->victories</li>
+    <li>glory->troon</li>
+    <li>glory->enorme ship</li>
+    <li>glory->rijkdom</li>
+    <li>glory->familie</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->De opdracht '[resolvedQuestName]' is mislukt.</li>
+    <li>failLetterEndingCommon->De opdracht '[resolvedQuestName]' is mislukt.\n\nJe relaties met [asker_faction_name] zijn afgenomen met [goodwillPenalty].</li>
+  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>questName->[constAdj] [construction]</li>
@@ -58,6 +83,37 @@
     <li>construction->blueprint</li>
     <li>construction->assembly</li>
   -->
-  <QuestConstructionNameCommon.rulePack.rulesStrings>TODO</QuestConstructionNameCommon.rulePack.rulesStrings>
+  <QuestConstructionNameCommon.rulePack.rulesStrings>
+    <li>questName->[constAdj] [construction]</li>
+    <li>questName->Een [constAdj] [construction]</li>
+    <li>questName(p=0.5)->De [constAdj] [constructionGendered]</li>
+    <li>questName(p=0.5)->Het [constAdj] [constructionNeuter]</li>
+    <li>constAdj(p=20)->[AdjectiveLargeGendered]</li>
+    <li>constAdj->vreselijke</li>
+    <li>constAdj->grote</li>
+    <li>constAdj->grootse</li>
+    <li>constAdj->gevaarlijke</li>
+    <li>constAdj->monumentale</li>
+    <li>constAdj->extravagante</li>
+    <li>constAdj->onheilspellende</li>
+    <li>constAdj->vervaarlijke</li>
+    <li>constAdj->afschuwelijke</li>
+    <li>constAdj->angstige</li>
+    <li>constAdj->geweldige</li>
+    <li>constAdj->profetische</li>
+    <li>constAdj->schrijnende</li>
+    <li>constAdj->glinsterende</li>
+    <li>constAdj->glimmende</li>
+    <li>constAdj->verbluffende</li>
+    <li>construction->[constructionGendered]</li>
+    <li>construction->[constructionNeuter]</li>
+    <li>constructionGendered(p=3)->constructie</li>
+    <li>constructionGendered(p=2)->structuur</li>
+    <li>constructionNeuter(p=2)->gebouw</li>
+    <li>constructionNeuter->monument</li>
+    <li>constructionNeuter->bouwsel</li>
+    <li>constructionGendered->blauwdruk</li>
+    <li>constructionGendered->assemblage</li>
+  </QuestConstructionNameCommon.rulePack.rulesStrings>
   
 </LanguageData>

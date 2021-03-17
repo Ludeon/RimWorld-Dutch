@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: anima scream -->
-  <AnimaScream.stages.anima_scream.label>TODO</AnimaScream.stages.anima_scream.label>
+  <AnimaScream.stages.anima_scream.label>anima schreeuw</AnimaScream.stages.anima_scream.label>
   <!-- EN: Such a pain in my head when the tree died. And it keeps echoing... -->
-  <AnimaScream.stages.anima_scream.description>TODO</AnimaScream.stages.anima_scream.description>
+  <AnimaScream.stages.anima_scream.description>Wat een pijn in mijn hoofd toen de boom stierf. En het blijft echoën...</AnimaScream.stages.anima_scream.description>
   
   <!-- EN: decree ignored -->
-  <DecreeUnmet.stages.decree_ignored.label>TODO</DecreeUnmet.stages.decree_ignored.label>
+  <DecreeUnmet.stages.decree_ignored.label>decreet genegeerd</DecreeUnmet.stages.decree_ignored.label>
   <!-- EN: My decree has been ignored for far too long {0}. -->
-  <DecreeUnmet.stages.decree_ignored.description>TODO</DecreeUnmet.stages.decree_ignored.description>
+  <DecreeUnmet.stages.decree_ignored.description>Mijn decreet is veel te lang genegeerd {0}.</DecreeUnmet.stages.decree_ignored.description>
   
   <!-- EN: joyfuzz -->
-  <Joyfuzz.stages.joyfuzz.label>TODO</Joyfuzz.stages.joyfuzz.label>
+  <Joyfuzz.stages.joyfuzz.label>lus van vreugde</Joyfuzz.stages.joyfuzz.label>
   <!-- EN: No matter what happens, I feel like I'm okay with it for some reason. -->
-  <Joyfuzz.stages.joyfuzz.description>TODO</Joyfuzz.stages.joyfuzz.description>
+  <Joyfuzz.stages.joyfuzz.description>Wat er ook gebeurt, ik heb het gevoel dat ik het om de een of andere reden prima vind.</Joyfuzz.stages.joyfuzz.description>
   
   <!-- EN: minor psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>kleine psychische instorting</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
   <!-- EN: There's an electrical pain behind my eyes. It's hard to focus; hard to think. -->
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>Er is een elektrische pijn achter mijn ogen. Het is moeilijk om te focussen; moeilijk om na te denken.</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
   <!-- EN: major psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>grote psychische instorting</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
   <!-- EN: My mind has been stir-fried. Dizzy, fuzzy, can't think, always aching. -->
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>Mijn geest is door elkaar geklutst. Duizelig, wazig, kan niet denken, constant pijn.</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
   <!-- EN: total psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>totale psychische instorting</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
   <!-- EN: I'm spinning, it hurts, I'm dizzy, think, can't think, can't think... -->
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>Ik draai, het doet pijn, ik ben duizelig, denk, kan niet denken, kan niet denken ...</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
   
   <!-- EN: psychic love -->
-  <PsychicLove.stages.psychic_love.label>TODO</PsychicLove.stages.psychic_love.label>
+  <PsychicLove.stages.psychic_love.label>psychische liefde</PsychicLove.stages.psychic_love.label>
   
 </LanguageData>

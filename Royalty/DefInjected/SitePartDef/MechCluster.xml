@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: mech cluster -->
-  <MechCluster.label>TODO</MechCluster.label>
+  <MechCluster.label>mech cluster</MechCluster.label>
   <!-- EN: A mech combat cluster. -->
-  <MechCluster.description>TODO</MechCluster.description>
+  <MechCluster.description>Een mech gevechtscluster.</MechCluster.description>
   <!-- EN: There is a cluster of hostile mechanoids and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures. -->
-  <MechCluster.arrivedLetter>TODO</MechCluster.arrivedLetter>
+  <MechCluster.arrivedLetter>Er is een cluster van vijandige mechanoïden en hun ondersteuningsstructuren in dit gebied.\n\nHet cluster kan artillerie, afweergeschut, gevechtsmechanoïden en andere ondersteunings- en verdedigingsstructuren bevatten.</MechCluster.arrivedLetter>
   
   <!-- EN: mech cluster -->
-  <MechClusterForceNoConditionCauser.label>TODO</MechClusterForceNoConditionCauser.label>
+  <MechClusterForceNoConditionCauser.label>mech cluster</MechClusterForceNoConditionCauser.label>
   <!-- EN: A mech combat cluster. -->
-  <MechClusterForceNoConditionCauser.description>TODO</MechClusterForceNoConditionCauser.description>
+  <MechClusterForceNoConditionCauser.description>Een mech gevechtscluster.</MechClusterForceNoConditionCauser.description>
   <!-- EN: There is a cluster of hostile mechanoids and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures. -->
-  <MechClusterForceNoConditionCauser.arrivedLetter>TODO</MechClusterForceNoConditionCauser.arrivedLetter>
+  <MechClusterForceNoConditionCauser.arrivedLetter>Er is een cluster van vijandige mechanoïden en hun ondersteuningsstructuren in dit gebied.\n\nHet cluster kan artillerie, afweergeschut, gevechtsmechanoïden en andere ondersteunings- en verdedigingsstructuren bevatten.</MechClusterForceNoConditionCauser.arrivedLetter>
   
 </LanguageData>

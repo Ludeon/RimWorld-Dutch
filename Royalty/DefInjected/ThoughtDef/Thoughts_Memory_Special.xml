@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: decree failed -->
-  <DecreeFailed.stages.decree_failed.label>TODO</DecreeFailed.stages.decree_failed.label>
+  <DecreeFailed.stages.decree_failed.label>decreet onvervuld</DecreeFailed.stages.decree_failed.label>
   <!-- EN: My noble authority has not been respected as it should be. -->
-  <DecreeFailed.stages.decree_failed.description>TODO</DecreeFailed.stages.decree_failed.description>
+  <DecreeFailed.stages.decree_failed.description>Mijn nobele autoriteit werd niet gerespecteerd zoals het zou moeten zijn.</DecreeFailed.stages.decree_failed.description>
   
   <!-- EN: decree satisfied -->
-  <DecreeMet.stages.decree_satisfied.label>TODO</DecreeMet.stages.decree_satisfied.label>
+  <DecreeMet.stages.decree_satisfied.label>decreet vervuld</DecreeMet.stages.decree_satisfied.label>
   <!-- EN: My noble authority has been respected as it should be. -->
-  <DecreeMet.stages.decree_satisfied.description>TODO</DecreeMet.stages.decree_satisfied.description>
+  <DecreeMet.stages.decree_satisfied.description>Mijn nobele autoriteit is gerespecteerd zoals het hoort.</DecreeMet.stages.decree_satisfied.description>
   
   <!-- EN: disinherited -->
-  <Disinherited.stages.disinherited.label>TODO</Disinherited.stages.disinherited.label>
+  <Disinherited.stages.disinherited.label>onterfd</Disinherited.stages.disinherited.label>
   <!-- EN: I was disinherited of my title. Do I need to get medieval on these people? -->
-  <Disinherited.stages.disinherited.description>TODO</Disinherited.stages.disinherited.description>
+  <Disinherited.stages.disinherited.description>Ik ben onterfd van mijn titel. Moet ik deze mensen soms ouderwets een lesje leren?</Disinherited.stages.disinherited.description>
   
   <!-- EN: neuroquake echo -->
-  <NeuroquakeEcho.stages.neuroquake_echo.label>TODO</NeuroquakeEcho.stages.neuroquake_echo.label>
+  <NeuroquakeEcho.stages.neuroquake_echo.label>neurobeving echo</NeuroquakeEcho.stages.neuroquake_echo.label>
   <!-- EN: Distant, unfamilliar echoes of terror and grief. It makes me feel nervous and shaky. -->
-  <NeuroquakeEcho.stages.neuroquake_echo.description>TODO</NeuroquakeEcho.stages.neuroquake_echo.description>
+  <NeuroquakeEcho.stages.neuroquake_echo.description>Verre, onbekende echo's van terreur en verdriet. Ik word er nerveus en wankel van.</NeuroquakeEcho.stages.neuroquake_echo.description>
   
 </LanguageData>

@@ -22,6 +22,26 @@
     <li>adj->dogged</li>
     <li>adj->tenacious</li>
   -->
-  <NamerFactionRefugee.rulePack.rulesStrings>TODO</NamerFactionRefugee.rulePack.rulesStrings>
+  <NamerFactionRefugee.rulePack.rulesStrings>
+    <li>r_name->[adj] [group]</li>
+    <li>group->overlevenden</li>
+    <li>group->vluchtelingen</li>
+    <li>group->weglopers</li>
+    <li>group->bannelingen</li>
+    <li>group->trekkers</li>
+    <li>group->zwervers</li>
+    <li>group->stappers</li>
+    <li>group->reizigers</li>
+    <li>group->nomaden</li>
+    <li>adj->vermoeide</li>
+    <li>adj->uitgeputte</li>
+    <li>adj->moee</li>
+    <li>adj->afgepeigerde</li>
+    <li>adj->verdreven</li>
+    <li>adj->volhardende</li>
+    <li>adj->sterke</li>
+    <li>adj->koppige</li>
+    <li>adj->onbuigzame</li>
+  </NamerFactionRefugee.rulePack.rulesStrings>
   
 </LanguageData>

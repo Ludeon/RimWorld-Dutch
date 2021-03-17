@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: attended concert -->
-  <AttendedConcert.label>TODO</AttendedConcert.label>
+  <AttendedConcert.label>concert bijgewoond</AttendedConcert.label>
   <!-- EN:
     <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s concert</li>
     <li>tale_noun->[ATTENDER_nameDef] listening to [ORGANIZER_nameDef]'s performance</li>
@@ -14,10 +14,20 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s dance along.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s listen attentively.</li>
   -->
-  <AttendedConcert.rulePack.rulesStrings>TODO</AttendedConcert.rulePack.rulesStrings>
+  <AttendedConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] die [ORGANIZER_nameDef]'s concert bijwoont</li>
+    <li>tale_noun->[ATTENDER_nameDef] die naar [ORGANIZER_nameDef]'s uitvoering luistert</li>
+    <li>image->[ATTENDER_nameFull] die stilletjes toeluistert, [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] die van [ORGANIZER_nameFull]'s uitvoering geniet [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] die op de muziek wiegt [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] die geabsorbeerd is in het geluid [circumstance_group]</li>
+    <li>circumstance_phrase->en tegelijk applaudisseert</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] dansen mee.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] luisteren attent.</li>
+  </AttendedConcert.rulePack.rulesStrings>
   
   <!-- EN: held concert -->
-  <HeldConcert.label>TODO</HeldConcert.label>
+  <HeldConcert.label>concert gegeven</HeldConcert.label>
   <!-- EN:
     <li>tale_noun->[ORGANIZER_nameDef] performing a concert</li>
     <li>image->[ORGANIZER_nameFull] playing their signature song [circumstance_group]</li>
@@ -28,6 +38,15 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s listen nearby.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s listen nearby.</li>
   -->
-  <HeldConcert.rulePack.rulesStrings>TODO</HeldConcert.rulePack.rulesStrings>
+  <HeldConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ORGANIZER_nameDef] die een concert geeft</li>
+    <li>image->[ORGANIZER_nameFull] die [ORGANIZER_possessive] kenmerkende lied speelt [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] die het publiek uitnodigt mee te zingen</li>
+    <li>image->[ORGANIZER_nameFull] die een inspirerend lied speelt</li>
+    <li>image->[ORGANIZER_nameFull] die een moeilijk stuk uitvoert [circumstance_group]</li>
+    <li>circumstance_phrase->met een intense gelaatsuitdrukking</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] luisteren nabij.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] luisteren nabij.</li>
+  </HeldConcert.rulePack.rulesStrings>
   
 </LanguageData>

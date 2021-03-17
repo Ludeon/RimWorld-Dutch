@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: climate adjuster -->
-  <ClimateAdjuster.label>TODO</ClimateAdjuster.label>
+  <ClimateAdjuster.label>klimaatregelaar</ClimateAdjuster.label>
   <!-- EN: A climate adjuster. -->
-  <ClimateAdjuster.description>TODO</ClimateAdjuster.description>
+  <ClimateAdjuster.description>Een klimaatregelaar.</ClimateAdjuster.description>
   
   <!-- EN: EMI dynamo -->
-  <EMIDynamo.label>TODO</EMIDynamo.label>
+  <EMIDynamo.label>EMI dynamo</EMIDynamo.label>
   <!-- EN: An EMI dynamo. -->
-  <EMIDynamo.description>TODO</EMIDynamo.description>
+  <EMIDynamo.description>Een EMI dynamo.</EMIDynamo.description>
   
   <!-- EN: psychic droner -->
-  <PsychicDroner.label>TODO</PsychicDroner.label>
+  <PsychicDroner.label>psychische zoemer</PsychicDroner.label>
   <!-- EN: A psychic droner. -->
-  <PsychicDroner.description>TODO</PsychicDroner.description>
+  <PsychicDroner.description>Een psychische zoemer.</PsychicDroner.description>
   
   <!-- EN: psychic suppressor -->
-  <PsychicSuppressor.label>TODO</PsychicSuppressor.label>
+  <PsychicSuppressor.label>psychische onderdrukker</PsychicSuppressor.label>
   <!-- EN: A psychic suppressor. -->
-  <PsychicSuppressor.description>TODO</PsychicSuppressor.description>
+  <PsychicSuppressor.description>Een psychische onderdrukker.</PsychicSuppressor.description>
   
   <!-- EN: smoke spewer -->
-  <SmokeSpewer.label>TODO</SmokeSpewer.label>
+  <SmokeSpewer.label>rookspuwer</SmokeSpewer.label>
   <!-- EN: A smoke spewer. -->
-  <SmokeSpewer.description>TODO</SmokeSpewer.description>
+  <SmokeSpewer.description>Een rookspuwer.</SmokeSpewer.description>
   
   <!-- EN: sun blocker -->
-  <SunBlocker.label>TODO</SunBlocker.label>
+  <SunBlocker.label>zonblokkerende machine</SunBlocker.label>
   <!-- EN: A sun blocker machine which turns the sky opaque. -->
-  <SunBlocker.description>TODO</SunBlocker.description>
+  <SunBlocker.description>Een zonblokkerende machine die de hemel ondoorzichtig maakt.</SunBlocker.description>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>TODO</ToxicSpewer.label>
+  <ToxicSpewer.label>giftige spuwer</ToxicSpewer.label>
   <!-- EN: A toxic spewer. -->
-  <ToxicSpewer.description>TODO</ToxicSpewer.description>
+  <ToxicSpewer.description>Een giftige spuwer.</ToxicSpewer.description>
   
   <!-- EN: weather controller -->
-  <WeatherController.label>TODO</WeatherController.label>
+  <WeatherController.label>weerregelaar</WeatherController.label>
   <!-- EN: A weather controller. -->
-  <WeatherController.description>TODO</WeatherController.description>
+  <WeatherController.description>Een weerregelaar.</WeatherController.description>
   
 </LanguageData>

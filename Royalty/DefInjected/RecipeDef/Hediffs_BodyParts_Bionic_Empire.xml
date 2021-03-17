@@ -81,7 +81,7 @@
   <!-- EN: install love enhancer -->
   <InstallLoveEnhancer.label>liefdesverbeteraar implanteren</InstallLoveEnhancer.label>
   <!-- EN: Install a love enhancer. -->
-  <InstallLovImplanteer eenhancer.description>Een liefdesverbeteraar.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.description>Een liefdesverbeteraar.</InstallLoveEnhancer.description>
   <!-- EN: Installing love enhancer. -->
   <InstallLoveEnhancer.jobString>Liefdesverbeteraar aan het installeren.</InstallLoveEnhancer.jobString>
   

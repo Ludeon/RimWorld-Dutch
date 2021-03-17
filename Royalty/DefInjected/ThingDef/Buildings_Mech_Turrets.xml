@@ -42,7 +42,7 @@
   <!-- EN: auto inferno turret -->
   <Turret_AutoInferno.label>auto infernokanon</Turret_AutoInferno.label>
   <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
-  <Turret_AutoInferno.description>Automatisch afweergeschut waarop een infernokanon is gemonteerd. Het kan geen doelen op zeer korte afstanden detecteren.</</Turret_AutoInferno.description>
+  <Turret_AutoInferno.description>Automatisch afweergeschut waarop een infernokanon is gemonteerd. Het kan geen doelen op zeer korte afstanden detecteren.</Turret_AutoInferno.description>
   
   <!-- EN: mini-slugger turret -->
   <Turret_AutoMiniTurret.label>mini-geschut</Turret_AutoMiniTurret.label>

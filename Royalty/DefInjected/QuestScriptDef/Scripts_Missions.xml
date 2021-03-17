@@ -6,7 +6,11 @@
     <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
   -->
-  <Mission_BanditCamp.questDescriptionRules.rulesStrings>TODO</Mission_BanditCamp.questDescriptionRules.rulesStrings>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[enemiesLabel] hebben een kamp opgezet en vallen karavanen van [asker_faction_name] lastig. [asker_nameDef] plant een luchtaanval op het kamp, dat wordt bewaakt door [enemiesCount] [enemiesLabel]. [asker_pronoun] wil dat je [soldiers] levert om de aanval uit te voeren.\n\n[asker_pronoun] zal een shuttle sturen om je krijgers op te halen, ze naar de aanvalslocatie te brengen en ze daarna naar huis te brengen. Ze zullen onderweg gevoed worden.\n\nZodra de aanval begint, moet je alle vijanden en hun afweergeschut verslaan binnen [timeoutTicks_duration].</li>
+    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldaten</li>
+    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldaat</li>
+  </Mission_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[questNameInner]</li>
     <li>questName->[asker_nameDef]'s [questNameInner]</li>
@@ -24,6 +28,19 @@
     <li>work->work</li>
     <li>work->job</li>
   -->
-  <Mission_BanditCamp.questNameRules.rulesStrings>TODO</Mission_BanditCamp.questNameRules.rulesStrings>
+  <Mission_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[questNameInner]</li>
+    <li>questName->[asker_nameDef]'s [questNameInner]</li>
+    <li>questNameInner->[aerial][attack]</li>
+    <li>questNameInner->[attack] op een [target]</li>
+    <li>questNameInner->[attack] [work]</li>
+    <li>target->kamp</li>
+    <li>target->basis</li>
+    <li>target->fort</li>
+    <li>aerial->lucht</li>
+    <li>attack->aanval</li>
+    <li>work->werk</li>
+    <li>work->klus</li>
+  </Mission_BanditCamp.questNameRules.rulesStrings>
   
 </LanguageData>

@@ -16,7 +16,21 @@
     <li>pawnListHaveConjugation(colonistsToLendCount==1)->has</li>
     <li>pawnListHaveConjugation(colonistsToLendCount>1)->have</li>
   -->
-  <PawnLend.questDescriptionRules.rulesStrings>TODO</PawnLend.questDescriptionRules.rulesStrings>
+  <PawnLend.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] van [asker_faction_name] heeft extra hulp nodig om te helpen met [dutyDescription].\n\n[asker_pronoun] vraagt je [asker_objective] [colonistCountToLend] te lenen voor [lendForDays] dagen.\n\n[willSendShuttle]</li>
+    <li>disease->de griep</li>
+    <li>disease->de pest</li>
+    <li>disease->malaria</li>
+    <li>disease->een infectie</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] van [asker_faction_name] heeft mensen nodig om te helpen met [dutyRoyalDescription].[asker_pronoun] vraagt je [asker_objective] [colonistCountToLend] te lenen om [asker_objective] te dienen voor [lendForDays] dagen.\n\n[willSendShuttle]</li>
+    <li>colonistCountToLend(colonistsToLendCount==1)->1 kolonist</li>
+    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] kolonisten</li>
+    <li>willSendShuttle->[asker_pronoun] will send a shuttle to pick up the [colonists].</li>
+    <li>colonists(colonistsToLendCount==1)->kolonist</li>
+    <li>colonists(colonistsToLendCount>1)->kolonisten</li>
+    <li>pawnListHaveConjugation(colonistsToLendCount==1)->is</li>
+    <li>pawnListHaveConjugation(colonistsToLendCount>1)->zijn</li>
+  </PawnLend.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[worker] Outsourcing</li>
     <li>questName->Contract [worker]s</li>
@@ -30,24 +44,40 @@
     <li>worker->Laborer</li>
     <li>worker->Helper</li>
   -->
-  <PawnLend.questNameRules.rulesStrings>TODO</PawnLend.questNameRules.rulesStrings>
+  <PawnLend.questNameRules.rulesStrings>
+    <li>questName->[worker] gezocht</li>
+    <li>questName->Ingehuurde [workers]</li>
+    <li>questName->Tijdelijke arbeidskrachten</li>
+    <li>questName->[worker]-uitleen</li>
+    <li>questName->[workers] voor [asker_faction_name]</li>
+    <li>questName->Provisionele [workers]</li>
+    <li>questName->Verzoek om [workers]</li>
+    <li>worker->kolonist</li>
+    <li>worker->werker</li>
+    <li>worker->arbeider</li>
+    <li>worker->helper</li>
+    <li>workers->kolonisten</li>
+    <li>workers->werkers</li>
+    <li>workers->arbeiders</li>
+    <li>workers->helpers</li>
+  </PawnLend.questNameRules.rulesStrings>
   <!-- EN: <rulesStrings><li>dutyDescription->gather the harvest</li><li>dutyDescription->fortify a settlement</li><li>dutyDescription->set up a settlement</li><li>dutyDescription->watch for raiders</li><li>dutyDescription->set up a hospital</li><li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings> -->
-  <PawnLend.DutyRulesAny.slateRef>TODO</PawnLend.DutyRulesAny.slateRef>
+  <PawnLend.DutyRulesAny.slateRef><rulesStrings><li>dutyDescription->het binnenhalen van de oogst</li><li>dutyDescription->het versterken van een nederzetting</li><li>dutyDescription->bouwen van een nederzetting</li><li>dutyDescription->de uitkijk naar overvallers</li><li>dutyDescription->het opzetten van een hospitaal</li><li>dutyDescription->de bestrijding van [disease]</li></rulesStrings></PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.LetterTextReturnAfterHelping.slateRef>TODO</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation] teruggekeerd na het helpen van [asker_nameFull] van [asker_faction_name] met [dutyDescription].</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
-  <PawnLend.DutyRulesRoyal.slateRef>TODO</PawnLend.DutyRulesRoyal.slateRef>
+  <PawnLend.DutyRulesRoyal.slateRef><rulesStrings><li>dutyRoyalDescription->de voorbereidingen van een ceremonie</li><li>dutyRoyalDescription->de onderhandelingen met een stam</li><li>dutyRoyalDescription->de verkenning van een moeras</li><li>dutyRoyalDescription->de vertaling van een boek</li><li>dutyRoyalDescription->het opzetten van een oefenterrein</li><li>dutyRoyalDescription->de oogst</li></rulesStrings></PawnLend.DutyRulesRoyal.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
-  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>TODO</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation] teruggekeerd na het helpen van [asker_royalTitleInCurrentFaction] [asker_nameFull] van [asker_faction_name] met [dutyRoyalDescription].</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <!-- EN: Shuttle arrived -->
-  <PawnLend.LetterLabelShuttleArrived.slateRef>TODO</PawnLend.LetterLabelShuttleArrived.slateRef>
+  <PawnLend.LetterLabelShuttleArrived.slateRef>Shuttle gearriveerd</PawnLend.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->
-  <PawnLend.LetterTextShuttleArrived.slateRef>TODO</PawnLend.LetterTextShuttleArrived.slateRef>
+  <PawnLend.LetterTextShuttleArrived.slateRef>De shuttle is aangekomen om [colonistsToLendCount] van je kolonisten op te halen.</PawnLend.LetterTextShuttleArrived.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <PawnLend.LetterLabelShuttleDestroyed.slateRef>TODO</PawnLend.LetterLabelShuttleDestroyed.slateRef>
+  <PawnLend.LetterLabelShuttleDestroyed.slateRef>Shuttle vernietigd</PawnLend.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
-  <PawnLend.LetterTextShuttleDestroyed.slateRef>TODO</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <PawnLend.LetterTextShuttleDestroyed.slateRef>De shuttle die werd gestuurd om kolonisten te verzamelen, is vernietigd.</PawnLend.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Colonists returned -->
-  <PawnLend.LetterLabelColonistsReturned.slateRef>TODO</PawnLend.LetterLabelColonistsReturned.slateRef>
+  <PawnLend.LetterLabelColonistsReturned.slateRef>Kolonisten teruggekeerd</PawnLend.LetterLabelColonistsReturned.slateRef>
   
 </LanguageData>

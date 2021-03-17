@@ -24,7 +24,7 @@
   <!-- EN: Protect for {0} -->
   <BuildMonumentWorker.ProtectMonument.slateRef>Bescherm gedurende {0}</BuildMonumentWorker.ProtectMonument.slateRef>
   <!-- EN: New monument marker arrived -->
-  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>Er is een nieuwe monumentmarkering aangekomen</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>Nieuwe monumentmarkering gearriveerd</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
   <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>Omdat de monumentmarkering is vernietigd, is er een nieuwe verzonden.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
   <!-- EN: Monument time expired -->

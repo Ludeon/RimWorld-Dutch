@@ -5,7 +5,10 @@
     <li>lodgersLabel->prisoner</li>
     <li>lodgersLabelPlural->prisoners</li>
   -->
-  <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->gevangene</li>
+    <li>lodgersLabelPlural->gevangenen</li>
+  </Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true,lodgersCount==1)->An orbiting ship captain wants you to guard a prisoner named [lodgers0_nameFull] at [map_definite] for [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] recently spat on the most loved child of [enemyFaction_leader_nameFull], [enemyFaction_leaderTitle] of [enemyFaction_name]. [enemyFaction_leader_nameDef] will send [enemyFaction_pawnsPlural] to seek revenge on any who would protect [lodgers0_objective]. [enemyGroupsParagraph]</li>
@@ -38,7 +41,38 @@
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
   -->
-  <Hospitality_Prisoners.questDescriptionRules.rulesStrings>TODO</Hospitality_Prisoners.questDescriptionRules.rulesStrings>
+  <Hospitality_Prisoners.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->De kapitein van een schip in de ruimte wil dat je een gevangene met de naam [lodgers0_nameFull] in [map_definite] bewaakt gedurende [shuttleDelayTicks_duration]. [allLodgerInfo] [threatsInfo1] [commonDescEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] heeft recentelijk gespogen op het meest geliefde kind van [enemyFaction_leader_nameFull], [enemyFaction_leaderTitle] van [enemyFaction_name]. [enemyFaction_leader_nameDef] zal [enemyFaction_pawnsPlural] sturen om wraak te nemen op degenen die [lodgers0_objective] in bescherming hebben genomen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==false)-></li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->De kapitein van een schip in de ruimte wil dat je [lodgersCount] gevangenen in [map_definite] bewaakt gedurende [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nDe gevangenen pleegden een reeks moorden op de [enemyFaction_pawnsPlural] van [enemyFaction_name], en de families van hun slachtoffers zullen overvallen sturen om wraak te nemen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nDe gevangenen hebben onlangs [mechViolation], en zijn het doelwit van een zwerm mechanoïden. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], wil dat je een speciale gevangene opbergt voor [asker_objective]. De gevangene, een [lodgers0_age]-jarige [lodgers0_title] genaamd [lodgers0_nameFull], kent beschamende informatie over [asker_nameDef]'s [PersonalCharacteristic], en [asker_nameDef] wil niet dat [lodgers0_objective] vrij komt. Je hoeft de gevangene maar [shuttleDelayTicks_duration] vast te houden totdat het schandaal voorbij is. [allLodgerInfo][threatsInfo3][commonDescEnding]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nHelaas wil [enemyFaction_name] het beschamende verhaal verspreiden en zal overvallen sturen om [lodgers0_nameDef] uit de gevangenis te bevrijden. [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_nameFull], [asker_faction_leaderTitle] van [asker_faction_name], heeft [lodgersCount] mensen gevangen genomen van een vijandelijke factie. Omdat er geen plaats is om ze op te slaan, wil [asker_nameDef] dat je over ze waakt gedurende [shuttleDelayTicks_duration], totdat [asker_possessive] eigen gevangenis klaar is.[allLodgerInfo][threatsInfo4][commonDescEnding]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nDe gevangenen hebben een betaald reddingscontract met [enemyFaction_name], dus zullen ze [enemyFaction_pawnsPlural] achter je aan sturen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nDe vijanden van [asker_nameDef] hebben een zwerm mechanoïden uitgelokt om op de gevangenen te jagen, dus het zal mechanoïde aanvalsgroepen sturen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name] is betrapt in bed met de verkeerde persoon. [asker_pronoun] zette de ongepaste minnaar gevangen in een show van afwijzing. Nu wil [asker_pronoun] dat je de gevangene [lodgers0_nameFull] gevangen houdt totdat het schandaal voorbij is, over [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo5][commonDescEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nHelaas hebben de rivalen aan het hof van [asker_nameDef] [enemyFaction_name] betaald om te proberen de minnaar te bevrijden en het verhaal aan het licht te brengen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nHelaas hebben de rivalen aan het hof van [asker_nameDef] een zwerm mechanoïden uitgelokt om te proberen de minnaar te bevrijden en het verhaal aan het licht te brengen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name], vraagt je om hulp. De koninklijke archeologen van [asker_nameDef] hebben onlangs [lodgersCount] gevangenen uit een oude cryptoslaap-bunker gehaald en zijn van plan hen te ondervragen. Om de gevangenen geheim te houden voor [asker_possessive] rivalen aan het hof, wil [asker_nameDef] dat je ze vasthoudt voor [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo6][commonDescEnding]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nHelaas vereerden [enemyFaction_pawnsPlural] van [enemyFaction_name] de kluis waaruit de gevangenen werden gehaald. Ze zullen overvallen sturen om wraak te nemen op degenen die ze vasthouden. [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nHelaas bewaakten [enemyFaction_pawnsPlural] van [enemyFaction_name] de kluis waaruit de gevangenen werden gehaald. Ze sturen mechanoïden om de verloren slapers op te sporen. [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==false)-></li>
+  </Hospitality_Prisoners.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Guarding for [asker_nameDef]</li>
     <li>questName(lodgersCount==1)->guarding [lodgers0_nameDef]</li>
@@ -55,6 +89,21 @@
     <li>adjAny->[AdjectiveAngsty]</li>
     <li>adjAny->[AdjectiveFriendly]</li>
   -->
-  <Hospitality_Prisoners.questNameRules.rulesStrings>TODO</Hospitality_Prisoners.questNameRules.rulesStrings>
+  <Hospitality_Prisoners.questNameRules.rulesStrings>
+    <li>questName->Cipier voor [asker_nameDef]</li>
+    <li>questName(lodgersCount==1)->bewaak [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->gevangene [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->de [adjAny] gevangene</li>
+    <li>questName(lodgersCount==1)->een [adjAny] gevangene</li>
+    <li>questName(lodgersCount>=2)->cipier gezocht</li>
+    <li>questName(lodgersCount>=2)->gevangenisdirecteur</li>
+    <li>questName(lodgersCount>=2)->contractgevangenis</li>
+    <li>questName(lodgersCount>=2)->de gezochte gevangenen</li>
+    <li>questName(lodgersCount>=2)->de [adjAny] gevangenen</li>
+    <li>questName(lodgersCount>=2)->[asker_nameDef]'s gevangenen</li>
+    <li>adjAny->[AdjectiveBadassGendered]</li>
+    <li>adjAny->[AdjectiveAngstyGendered]</li>
+    <li>adjAny->[AdjectiveFriendlyGendered]</li>
+  </Hospitality_Prisoners.questNameRules.rulesStrings>
   
 </LanguageData>

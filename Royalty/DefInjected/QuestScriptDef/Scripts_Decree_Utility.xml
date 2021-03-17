@@ -5,14 +5,17 @@
     <li>decreeIntro->[asker_nameDef], your [asker_bestRoyalTitle], has issued a royal decree.</li>
     <li>decreeThreatInfo->If you fail to fulfill this decree within [decreeDays] days, [asker_nameDef] will start to become unhappy. [asker_possessive] anger will increase over time until the decree is satisfied.</li>
   -->
-  <DecreeSetup.questDescriptionRules.rulesStrings>TODO</DecreeSetup.questDescriptionRules.rulesStrings>
+  <DecreeSetup.questDescriptionRules.rulesStrings>
+    <li>decreeIntro->[asker_nameDef], je [asker_bestRoyalTitle], heeft een decreet uitgevaardigd.</li>
+    <li>decreeThreatInfo->Als je niet binnen [decreeDays] aan dit decreet voldoet, zal [asker_nameDef] ongelukkig worden. [asker_possessive] woede zal in de loop van de tijd toenemen totdat aan het decreet is voldaan.</li>
+  </DecreeSetup.questDescriptionRules.rulesStrings>
   <!-- EN: [asker_nameDef]'s decree forgotten -->
-  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>TODO</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
+  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>[asker_nameDef]'s decreet vergeten</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
   <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->
-  <DecreeSetup.LetterTextDecreeForgotten.slateRef>TODO</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+  <DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_nameDef] is vergeten dat [asker_pronoun] een decreet had uitgevaardigd.</DecreeSetup.LetterTextDecreeForgotten.slateRef>
   <!-- EN: Decree cancelled -->
-  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>TODO</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
+  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>Decreet geannuleerd</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
   <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
-  <DecreeSetup.LetterTextDecreeCancelled.slateRef>TODO</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef] heeft met tegenzin het decreet '[resolvedQuestName]' geannuleerd omdat het niet kan worden voltooid.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
   
 </LanguageData>

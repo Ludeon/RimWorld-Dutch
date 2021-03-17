@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
   -->
-  <Intro_Wimp.questDescriptionRules.rulesStrings>TODO</Intro_Wimp.questDescriptionRules.rulesStrings>
+  <Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name] is nabij en neemt contact op. [asker_possessive] bewakers werden gedood in een hinderlaag. [asker_pronoun] ontsnapte, maar wordt nu gevolgd door (*Threat)een dolgedraaide [animalKindDef_label](/Threat).\n\n[asker_nameDef] wil dat je [asker_objective] een paar uur veilig op [map_definite] houdt tot [asker_possessive] shuttle [asker_objective] kan komen ophalen.\n\n[asker_pronoun] zal [royalFavorReward] [asker_faction_royalFavorLabel] schenken aan degene die deze zoektocht accepteert. Dit is genoeg [asker_faction_royalFavorLabel] om de titel van rijksdienaar te ontvangen, en alle voordelen die daarbij horen - inclusief het eerste niveau van paranormale krachten.</li>
+  </Intro_Wimp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
     <li>adjAny->hunted</li>
@@ -12,48 +14,54 @@
     <li>adjAny->solitary</li>
     <li>adjAny->ambushed</li>
   -->
-  <Intro_Wimp.questNameRules.rulesStrings>TODO</Intro_Wimp.questNameRules.rulesStrings>
+  <Intro_Wimp.questNameRules.rulesStrings>
+    <li>questName->de [adjAny] [asker_royalTitleInCurrentFaction]</li>
+    <li>adjAny->opgejaagde</li>
+    <li>adjAny->vluchtende</li>
+    <li>adjAny->eenzame</li>
+    <li>adjAny->overvallen</li>
+  </Intro_Wimp.questNameRules.rulesStrings>
   <!-- EN: [animalKindDef_label] arrived -->
-  <Intro_Wimp.LetterLabelAnimalArrived.slateRef>TODO</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
+  <Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label] gearriveerd</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
   <!-- EN: The [animalKindDef_label] that [asker_nameDef] was fleeing has arrived.\n\nIt turned out to be quite gentle and not aggressive at all. -->
-  <Intro_Wimp.LetterTextAnimalArrived.slateRef>TODO</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+  <Intro_Wimp.LetterTextAnimalArrived.slateRef>De [animalKindDef_label] waar [asker_nameDef] voor op de vlucht was, is aangekomen.\n\nHij bleek tamelijk zachtaardig te zijn en helemaal niet agressief.</Intro_Wimp.LetterTextAnimalArrived.slateRef>
   <!-- EN: Manhunting [animalKindDef_label] -->
-  <Intro_Wimp.LetterLabelAngryAnimal.slateRef>TODO</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
+  <Intro_Wimp.LetterLabelAngryAnimal.slateRef>Klopjagende [animalKindDef_label]</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
   <!-- EN: The [animalKindDef_label] which was following [asker_nameFull] has arrived in the area. -->
-  <Intro_Wimp.LetterTextAngryAnimal.slateRef>TODO</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+  <Intro_Wimp.LetterTextAngryAnimal.slateRef>De [animalKindDef_label] die [asker_nameFull] volgde, is in het gebied aangekomen.</Intro_Wimp.LetterTextAngryAnimal.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <Intro_Wimp.InspectStringDepartShuttle.slateRef>TODO</Intro_Wimp.InspectStringDepartShuttle.slateRef>
+  <Intro_Wimp.InspectStringDepartShuttle.slateRef>Moet met de shuttle vertrekken</Intro_Wimp.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
-  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>TODO</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
+  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>Shuttle gearriveerd</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
-  <Intro_Wimp.LetterTextShuttleArrived.slateRef>TODO</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>De shuttle is aangekomen om [asker_nameDef] op te halen.</Intro_Wimp.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelGuestDied.slateRef>TODO</Intro_Wimp.LetterLabelGuestDied.slateRef>
+  <Intro_Wimp.LetterLabelGuestDied.slateRef>Gast is overleden: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextGuestDied.slateRef>TODO</Intro_Wimp.LetterTextGuestDied.slateRef>
+  <Intro_Wimp.LetterTextGuestDied.slateRef>{SUBJECT_definite}, die je moest beschermen, is overleden. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>TODO</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>Ongeoorloofde operatie: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>TODO</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>Er is een ongeoorloofde, overtredende operatie uitgevoerd op {SUBJECT_definite}, die je moest beschermen. Vanwege deze overtreding zal [asker_pronoun] nu proberen te vertrekken. [failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Captured: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelCaptured.slateRef>TODO</Intro_Wimp.LetterLabelCaptured.slateRef>
+  <Intro_Wimp.LetterLabelCaptured.slateRef>Gast gevangen genomen: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextCaptured.slateRef>TODO</Intro_Wimp.LetterTextCaptured.slateRef>
+  <Intro_Wimp.LetterTextCaptured.slateRef>{SUBJECT_definite}, die je te gast had, is gearresteerd. [failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelGuestLost.slateRef>TODO</Intro_Wimp.LetterLabelGuestLost.slateRef>
+  <Intro_Wimp.LetterLabelGuestLost.slateRef>Gast verloren: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextGuestLost.slateRef>TODO</Intro_Wimp.LetterTextGuestLost.slateRef>
+  <Intro_Wimp.LetterTextGuestLost.slateRef>{SUBJECT_definite}, die je moest beschermen, heeft de aangegeven nederzetting verlaten. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>TODO</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>Gast verloren: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>TODO</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>{SUBJECT_definite}, die je moest beschermen, is wild geworden. [failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>TODO</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>Shuttle vernietigd</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>TODO</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>De shuttle die is gestuurd om [asker_nameDef] op te halen, is vernietigd. [asker_pronoun] is nu genoodzaakt te voet vertrekken. [failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <Intro_Wimp.LetterLabelQuestFailed.slateRef>TODO</Intro_Wimp.LetterLabelQuestFailed.slateRef>
+  <Intro_Wimp.LetterLabelQuestFailed.slateRef>Opdracht mislukt: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextQuestFailed.slateRef>TODO</Intro_Wimp.LetterTextQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>De shuttle die is gestuurd om [asker_nameDef] op te halen, is zonder [asker_objective] vertrokken. [asker_pronoun] is nu genoodzaakt te voet vertrekken. [failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
   
 </LanguageData>

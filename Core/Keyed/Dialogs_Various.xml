@@ -371,7 +371,7 @@
   <!-- EN: Body size -->
   <BodySize>Lichaamsgrootte</BodySize>
   <!-- EN: Recruit difficulty -->
-  <RecruitDifficulty>Recruteringsmoeilijkheid</RecruitDifficulty>
+  <RecruitDifficulty>Rekruteringsmoeilijkheid</RecruitDifficulty>
   <!-- EN: Base price -->
   <MarketValue>Grondprijs</MarketValue>
   <!-- EN: Covers -->
@@ -953,7 +953,7 @@
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>Sommige dieren of gevangenen proberen zich bij deze caravan aan te sluiten. Als je hem verplaatst, zullen ze dat niet meer kunnen.\n\nDieren, gevangenen en neergehaalde kolonisten die op een kaart zijn achtergelaten zonder enige gezonde kolonisten, worden als verlaten beschouwd en kunnen door vijanden worden gevangen genomen.\n\nWeet je zeker dat je je karavaan wilt verplaatsen?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Sommige dieren of gevangenen proberen zich bij deze caravan aan te sluiten. Als je hem verplaatst, zullen ze dat niet meer kunnen.\n\nDieren, gevangenen en neergehaalde kolonisten die op een kaart zijn achtergelaten zonder enige gezonde kolonisten, worden als verlaten beschouwd en kunnen door vijanden worden gevangengenomen.\n\nWeet je zeker dat je je karavaan wilt verplaatsen?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->

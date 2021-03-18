@@ -17,9 +17,9 @@
   <BuildOrbitalTradeBeacon.helpText>Om items of zilver naar orbitale handelaren te sturen, moet je een ORBITAAL HANDELSBAKEN bouwen en een voorraad van items in de buurt plaatsen.</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>Gevangen nemen</Capturing.label>
+  <Capturing.label>Gevangennemen</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>Vijanden die bewusteloos op de grond liggen, kunnen worden gevangen genomen.\n\nSelecteer een kolonist, klik met de rechtermuisknop op de onbewuste vijand en gebruik 'gevangen nemen'.\n\nJe hebt een extra bed nodig dat is gemarkeerd voor gebruik door gevangenen.</Capturing.helpText>
+  <Capturing.helpText>Vijanden die bewusteloos op de grond liggen, kunnen worden gevangengenomen.\n\nSelecteer een kolonist, klik met de rechtermuisknop op de onbewuste vijand en gebruik 'gevangennemen'.\n\nJe hebt een extra bed nodig dat is gemarkeerd voor gebruik door gevangenen.</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>Deuropeningssnelheid</DoorOpenSpeed.label>

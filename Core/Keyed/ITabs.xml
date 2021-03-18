@@ -109,7 +109,7 @@
   <!-- EN: Gets medicine -->
   <GetsMedicine>Krijgt medicijnen </GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>Probeer te recruteren</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Probeer te rekruteren</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Schuldig bevonden (vervalt in {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->

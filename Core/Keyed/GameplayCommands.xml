@@ -326,7 +326,7 @@
   <!-- EN: Abandon -->
   <CommandAbandonHome>Verlaten</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>Verlaat dit gebied. Het gebied zal ontoegankelijk worden en u kunt hier nooit meer terugkomen. Na het verlaten van je thuis, kun je een van je karavanen opdracht geven om zich in een nieuw gebied te vestigen.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Verlaat dit gebied. Het gebied zal ontoegankelijk worden en je kunt hier nooit meer terugkomen. Na het verlaten van je thuis, kun je een van je karavanen opdracht geven om zich in een nieuw gebied te vestigen.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>Al uw kolonisten zijn er.</CommandAbandonHomeFailAllColonistsThere>
   
@@ -422,7 +422,7 @@
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Lanceergroep van {0} laden</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>Definieert de geselecteerde transporter(s) als een lanceergroep. Opent het laadvenster zodat u kunt beslissen wie en wat erin geladen moet worden.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>Definieert de geselecteerde transporter(s) als een lanceergroep. Opent het laadvenster zodat je kunt beslissen wie en wat erin geladen moet worden.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>De transportcapsule is niet aangesloten op een brandstofaansluiting.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->

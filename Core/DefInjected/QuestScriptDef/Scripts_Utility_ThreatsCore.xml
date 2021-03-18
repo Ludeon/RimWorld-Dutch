@@ -4,27 +4,27 @@
   <!-- EN: <rulesStrings><li>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</li><li>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==PsychicSuppressor)->there's (*Threat)a psychic suppressor machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==WeatherController)->there's (*Threat)a weather controller machine(/Threat) there forcing weather in the whole region to [weather_label]</li><li>root(priority=1,sitePart==SmokeSpewer)->there's (*Threat)a smoke spewer machine(/Threat) there belching smoke over the whole region</li><li>root(priority=1,sitePart==SunBlocker)->there's (*Threat)a sun blocker machine(/Threat) there shadowing the whole region</li><li>root(priority=1,sitePart==EMIDynamo)->there's (*Threat)an EMI dynamo machine(/Threat) there which can disable electrical devices across the region</li><li>root(priority=1,sitePart==ToxicSpewer)->there's (*Threat)a toxic spewer machine(/Threat) there blanketing the whole region in poison</li><li>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat) that will launch raids on you every [mtbDays]</li><li>root(priority=1,sitePart==Outpost)->there's an enemy outpost at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==BanditCamp)->there's a bandit camp at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)a manhunting [kindLabel](/Threat) is wandering nearby</li><li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] manhunting [kindLabel](/Threat) are wandering nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)a mechanoid(/Threat) is sleeping nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoids(/Threat) are sleeping nearby</li><li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) defend the site</li><li>root(priority=1,sitePart==AmbushEdge)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==AmbushHidden)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==MechCluster)->there's (*Threat)a cluster of hostile mechanoid structures(/Threat)</li><li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->there may be an (*Threat)unknown threat(/Threat)</li><li>root->there's [label]</li></rulesStrings> -->
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
     <rulesStrings>
-      <li>root(priority=1,sitePart==ClimateAdjuster)->een klimaataanpassingsmachine verandert daar de regionale temperatuur met [temperatureOffset]</li>
-      <li>root(priority=1,sitePart==PsychicDroner)->een psychische zoemmachine is daar actief en afgestemd op het [affectedGender] geslacht</li>
-      <li>root(priority=1,sitePart==PsychicSuppressor)->een psychische onderdrukmachine is daar actief en afgestemd op het [affectedGender] geslacht</li>
-      <li>root(priority=1,sitePart==WeatherController)->een weermachine is daar actief en forceert het weer in de hele regio tot [weather_label]</li>
-      <li>root(priority=1,sitePart==SmokeSpewer)->een rookmachine is daar actief en spuwt rook over de hele regio</li>
-      <li>root(priority=1,sitePart==SunBlocker)->een zonneblokkade machine is daar actief en hult de hele regio in duisternis</li>
-      <li>root(priority=1,sitePart==EMIDynamo)->er is daar een EMI dynamo machine die elektrische apparaten in de hele regio kan uitschakelen</li>
-      <li>root(priority=1,sitePart==ToxicSpewer)->een gifspuwermachine is daar actief en hult de hele regio in een giftige mist</li>
-      <li>root(priority=1,sitePart==RaidSource)->er is daar een militaire verzamelplaats, bewaakt door [enemiesCount] vijanden die je elke [mtbDays] zullen overvallen</li>
-      <li>root(priority=1,sitePart==Outpost)->er is daar een vijandige buitenpost, bewaakt door [enemiesCount] vijanden</li>
-      <li>root(priority=1,sitePart==BanditCamp)->er is daar een bandietenkamp, bewaakt door [enemiesCount] vijanden</li>
-      <li>root(priority=1,sitePart==Manhunters,count==1)->een mensjagende [kindLabel] zwerft hier rond</li>
-      <li>root(priority=1,sitePart==Manhunters,count>1)->[count] mensjagende [kindLabel] zwerven hier rond</li>
-      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->een mechanoïde in slaapstand is hier nabij</li>
-      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->[count] mechanoïden in slaapstand zijn hier nabij</li>
-      <li>root(priority=1,sitePart==Turrets)->[threatsInfo] verdedigen de locatie</li>
-      <li>root(priority=1,sitePart==AmbushEdge)->een vijandige groep ligt in een hinderlaag te wachten op nietsvermoedende voorbijgangers</li>
-      <li>root(priority=1,sitePart==AmbushHidden)->een vijandige groep ligt in een hinderlaag te wachten op nietsvermoedende voorbijgangers</li>
-      <li>root(priority=1,sitePart==MechCluster)->er is een mechanoïdecluster</li>
-      <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->er zou een onbekende bedreiging kunnen zijn</li>
-      <li>root->er is [label]</li>
+      <li>root(priority=1,sitePart==ClimateAdjuster)->een klimaataanpassingsmachine daar de regionale temperatuur met [temperatureOffset] verandert</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->een psychische zoemmachine daar actief is en afgestemd is op het [affectedGender]e geslacht</li>
+      <li>root(priority=1,sitePart==PsychicSuppressor)->een psychische onderdrukkingsmachine daar actief is en afgestemd op het [affectedGender]e geslacht</li>
+      <li>root(priority=1,sitePart==WeatherController)->een weermachine daar actief is en het weer in de hele regio tot [weather_label] forceert</li>
+      <li>root(priority=1,sitePart==SmokeSpewer)->een rookmachine daar actief is en rook over de hele regio spuwt</li>
+      <li>root(priority=1,sitePart==SunBlocker)->een zonblokkerende machine daar actief is en de hele regio in duisternis hult</li>
+      <li>root(priority=1,sitePart==EMIDynamo)->daar een EMI dynamo machine is die elektrische apparaten in de hele regio kan uitschakelen</li>
+      <li>root(priority=1,sitePart==ToxicSpewer)->een gifspuwermachine daar actief is en de hele regio in een giftige mist hult</li>
+      <li>root(priority=1,sitePart==RaidSource)->daar een militaire verzamelplaats is, bewaakt door [enemiesCount] vijanden die je elke [mtbDays] zullen overvallen</li>
+      <li>root(priority=1,sitePart==Outpost)->daar een vijandige buitenpost is, bewaakt door [enemiesCount] vijanden</li>
+      <li>root(priority=1,sitePart==BanditCamp)->daar een bandietenkamp is, bewaakt door [enemiesCount] vijanden</li>
+      <li>root(priority=1,sitePart==Manhunters,count==1)->een klopjagende [kindLabel] hier rond zwerft</li>
+      <li>root(priority=1,sitePart==Manhunters,count>1)->[count] klopjagende [kindLabel] hier rond zwerven</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->een mechanoïde in slaapstand hier nabij is</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->[count] mechanoïden in slaapstand hier nabij zijn</li>
+      <li>root(priority=1,sitePart==Turrets)->[threatsInfo] de locatie verdedigen </li>
+      <li>root(priority=1,sitePart==AmbushEdge)->een vijandige groep in een hinderlaag ligt te wachten op nietsvermoedende voorbijgangers</li>
+      <li>root(priority=1,sitePart==AmbushHidden)->een vijandige groep in een hinderlaag ligt te wachten op nietsvermoedende voorbijgangers</li>
+      <li>root(priority=1,sitePart==MechCluster)->er een mechanoïdecluster is</li>
+      <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->er een onbekende bedreiging zou kunnen zijn</li>
+      <li>root->er [label] is</li>
     </rulesStrings>
   </Util_GenerateSite.root.singleSitePartRules.slateRef>
   

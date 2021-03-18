@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: anima tree -->
-  <AnimaTreeSpawn.label>TODO</AnimaTreeSpawn.label>
+  <AnimaTreeSpawn.label>animaboom</AnimaTreeSpawn.label>
   <!-- EN: Anima tree -->
-  <AnimaTreeSpawn.letterLabel>TODO</AnimaTreeSpawn.letterLabel>
+  <AnimaTreeSpawn.letterLabel>Animaboom</AnimaTreeSpawn.letterLabel>
   <!-- EN: An anima tree has sprouted nearby.\n\nTribal peoples can use this as a powerful meditation focus, but only if artificial structures are not placed nearby. -->
-  <AnimaTreeSpawn.letterText>TODO</AnimaTreeSpawn.letterText>
+  <AnimaTreeSpawn.letterText>In de buurt is een animaboom ontsproten.\n\nTribale volkeren kunnen dit gebruiken als een krachtige meditatiefocus, maar alleen als er geen kunstmatige structuren in de buurt zijn geplaatst.</AnimaTreeSpawn.letterText>
   
   <!-- EN: tribute collector caravan arrival -->
-  <CaravanArrivalTributeCollector.label>TODO</CaravanArrivalTributeCollector.label>
+  <CaravanArrivalTributeCollector.label>waarderkaravaan gearriveerd</CaravanArrivalTributeCollector.label>
   
 </LanguageData>

@@ -34,11 +34,11 @@
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>{PAWN_titleIndef} met de naam {PAWN_nameDef} is in een transportcapsule in de buurt gecrasht. Als {PAWN_pronoun} de impact overleeft, zal {PAWN_pronoun} ernstig gewond raken.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>{PAWN_nameDef} is niet gelieerd aan enige factie. Je kunt {PAWN_objective} redden en hopen dat {PAWN_pronoun} vrijelijk toetreedt, of je kunt {PAWN_objective} gevangen nemen voor wervings- of slavernijdoeleinden.</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} is niet gelieerd aan enige factie. Je kunt {PAWN_objective} redden en hopen dat {PAWN_pronoun} vrijelijk toetreedt, of je kunt {PAWN_objective} gevangennemen voor wervings- of slavernijdoeleinden.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef} is van je vijand {PAWN_factionName}. Je kunt {PAWN_objective} vangen voor rekrutering of slavernijdoeleinden.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>{PAWN_nameDef} is van {PAWN_factionName}. Als je {PAWN_objective} redt, mag {PAWN_pronoun} vrij toetreden. Anders keert {PAWN_pronoun} terug naar huis en verspreidt hij goodwill tussen jullie facties.\n\nU kunt {PAWN_objective} ook vangen voor wervings- of slavernijdoeleinden, maar dit zal {PAWN_possessive} factie boos maken.</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} is van {PAWN_factionName}. Als je {PAWN_objective} redt, zal {PAWN_pronoun} zich misschien bij je aansluiten. Zo niet, keert {PAWN_pronoun} terug naar huis en verbetert de relatie tussen jullie facties.\n\nJe kunt {PAWN_objective} ook gevangennemen voor wervings- of slavernijdoeleinden, maar dit zal {PAWN_possessive} factie boos maken.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Vrachtcapsules</LetterLabelCargoPodCrash>

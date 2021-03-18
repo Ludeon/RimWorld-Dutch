@@ -179,7 +179,7 @@
   <!-- EN: Temporary faction members not allowed. -->
   <CryptosleepCasketGuestsNotAllowed>Tijdelijke factieleden niet toegestaan.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>Opgenomen gevangen niet toegestaan.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>Opgenomen gevangenen niet toegestaan.</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>GGeen bereikbare, niet-gereserveerde, afgesloten en voor gevangenen gemarkeerde bed in een veilige temperatuur.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->

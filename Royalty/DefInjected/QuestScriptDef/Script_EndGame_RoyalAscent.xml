@@ -64,9 +64,9 @@
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>{SUBJECT_definite}, die je moest beschermen en gelukkig moest houden, is overleden. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>Gast is gevangen genomen: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>Gast is gevangengenomen: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>{SUBJECT_definite}, die je moest beschermen en gelukkig moest houden, is gevangen genomen. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>{SUBJECT_definite}, die je moest beschermen en gelukkig moest houden, is gevangengenomen. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>Ongeoorloofde operatie: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->

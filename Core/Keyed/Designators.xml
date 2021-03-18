@@ -109,11 +109,11 @@
   <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>Toegestane gebied uitbreiden</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>Breid een toegestaan gebied uit.\n\nToegestane gebieden zijn gedefinieerde gebieden die u kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>Breid een toegestaan gebied uit.\n\nToegestane gebieden zijn gedefinieerde gebieden die je kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
   <DesignatorClearAreaAllowed>toegestane gebied verwijderen</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>Wis vakken uit een toegestaan gebied. Toegestane gebieden zijn gedefinieerde gebieden die u kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>Wis vakken uit een toegestaan gebied. Toegestane gebieden zijn gedefinieerde gebieden die je kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Beheer zones</ManageAreas>
 

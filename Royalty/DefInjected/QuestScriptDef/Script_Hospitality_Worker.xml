@@ -16,11 +16,11 @@
   <!-- EN: [letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>[letterSubject], die je moest beschermen, is overleden. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>Gast gevangen genomen: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>Gast gevangengenomen: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
   <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>[letterSubject], die je moest beschermen, is gearresteerd. [remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>Gevangene gerecruteerd: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
+  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>Gevangene gerekruteerd: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>Je hebt {SUBJECT_definite} gerekruteerd, die je moest bewaken. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->

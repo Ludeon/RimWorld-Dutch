@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: person captured -->
-  <Captured.label>persoon gevangen genomen</Captured.label>
+  <Captured.label>persoon gevangengenomen</Captured.label>
   <!-- EN:
     <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
@@ -29,12 +29,12 @@
     <li>desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason.</li>
   -->
   <Captured.rulePack.rulesStrings>
-    <li>tale_noun->[CAPTURER_nameDef] die [PRISONER_nameDef] gevangen neemt</li>
+    <li>tale_noun->[CAPTURER_nameDef] die [PRISONER_nameDef] gevangenneemt</li>
     <li>tale_noun->[PRISONER_nameDef] die gevangen wordt genomen door [CAPTURER_nameDef]</li>
     <li>tale_noun->de gevangenname van [PRISONER_nameDef]</li>
-    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull] gevangen neemt, [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull] gevangenneemt, [circumstance_group]</li>
     <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull]'s handen vastbindt, [circumstance_group]</li>
-    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull] een mep geeft terwijl [CAPTURER_pronoun] [PRISONER_objective] gevangen neemt, [circumstance_group]</li>
+    <li>image->[CAPTURER_nameFull] die [PRISONER_nameFull] een mep geeft terwijl [CAPTURER_pronoun] [PRISONER_objective] gevangenneemt, [circumstance_group]</li>
     <li>circumstance_phrase->terwijl [PRISONER_pronoun] op de grond ligt te kronkelen</li>
     <li>circumstance_phrase->terwijl [PRISONER_pronoun] van pijn krom buigt</li>
     <li>circumstance_phrase->met professionele handigheid</li>

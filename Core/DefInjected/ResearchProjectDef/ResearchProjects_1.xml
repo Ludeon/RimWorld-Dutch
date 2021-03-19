@@ -89,7 +89,7 @@
   <!-- EN: smithing -->
   <Smithing.label>smeden</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>Bouw smederijen om metaal te bewerken. Maak wapens zoals messen, gladii en strijdknotsen. Daarnaast kun je ook mooie, schone, metalen vloertegels maken.</Smithing.description>
+  <Smithing.description>Bouw smidsen om metaal te bewerken. Maak wapens zoals messen, gladii en strijdknotsen. Daarnaast kun je ook mooie, schone, metalen vloertegels maken.</Smithing.description>
   
   <!-- EN: stonecutting -->
   <Stonecutting.label>steenhouwen</Stonecutting.label>

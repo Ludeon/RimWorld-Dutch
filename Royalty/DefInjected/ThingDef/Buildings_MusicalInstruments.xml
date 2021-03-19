@@ -4,12 +4,12 @@
   <!-- EN: harp -->
   <Harp.label>harp</Harp.label>
   <!-- EN: A simple stationary musical instrument. A row of strings are stretched over a frame and plucked directly by a musician's fingers.\n\nIt can be crafted at a crafting spot or smithy. -->
-  <Harp.description>Een eenvoudig stationair muziekinstrument. Een rij snaren wordt over een frame gespannen en direct door de vingers van een muzikant bespeeld.\n\nHet kan worden gemaakt op een handwerkplek of in een smederij.</Harp.description>
+  <Harp.description>Een eenvoudig stationair muziekinstrument. Een rij snaren wordt over een frame gespannen en direct door de vingers van een muzikant bespeeld.\n\nHet kan worden gemaakt op een handwerkplek of in een smidse.</Harp.description>
   
   <!-- EN: harpsichord -->
   <Harpsichord.label>klavecimbel</Harpsichord.label>
   <!-- EN: A complex stationary musical instrument crafted at a smithy. A musician touches a row of keys on the front of the instrument. Each key is attached to an internal mechanism which plucks one of a row of strings stretched over a wooden frame. While it permits more complex composition than the harp, its wooden construction and plucking mechanism limit its output volume and expressiveness. -->
-  <Harpsichord.description>Een complex stationair muziekinstrument vervaardigd in een smederij. Een muzikant raakt een rij toetsen aan de voorkant van het instrument aan. Elke toets is bevestigd aan een intern mechanisme dat een snaar tokkelt uit een rij snaren die over een houten frame is gespannen. Hoewel het een complexere compositie mogelijk maakt dan de harp, beperken de houten constructie en het tokkelmechanisme het volume en de expressiviteit van het geluid.</Harpsichord.description>
+  <Harpsichord.description>Een complex stationair muziekinstrument vervaardigd in een smidse. Een muzikant raakt een rij toetsen aan de voorkant van het instrument aan. Elke toets is bevestigd aan een intern mechanisme dat een snaar tokkelt uit een rij snaren die over een houten frame is gespannen. Hoewel het een complexere compositie mogelijk maakt dan de harp, beperken de houten constructie en het tokkelmechanisme het volume en de expressiviteit van het geluid.</Harpsichord.description>
   
   <!-- EN: piano -->
   <Piano.label>piano</Piano.label>

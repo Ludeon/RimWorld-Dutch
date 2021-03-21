@@ -74,10 +74,10 @@
   <Leather_Light.stuffProps.stuffAdjective>lichtleren</Leather_Light.stuffProps.stuffAdjective>
   
   <!-- EN: lizardskin -->
-  <Leather_Lizard.label>hagedissenhuid</Leather_Lizard.label>
+  <Leather_Lizard.label>reptielenhuid</Leather_Lizard.label>
   <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
-  <Leather_Lizard.description>De gelooide huid van een koudbloedig reptiel. Hagedissenhuid is redelijk sterk, maar isoleert nauwelijks.</Leather_Lizard.description>
-  <Leather_Lizard.stuffProps.stuffAdjective>hagedissenhuiden</Leather_Lizard.stuffProps.stuffAdjective>
+  <Leather_Lizard.description>De gelooide huid van een koudbloedig reptiel. Reptielenhuid is redelijk sterk, maar isoleert nauwelijks.</Leather_Lizard.description>
+  <Leather_Lizard.stuffProps.stuffAdjective>reptielenhuiden</Leather_Lizard.stuffProps.stuffAdjective>
   
   <!-- EN: panthera fur -->
   <Leather_Panthera.label>panterabont</Leather_Panthera.label>

@@ -59,9 +59,9 @@
   <!-- EN: forbidden -->
   <ForbiddenLower>verboden</ForbiddenLower>
   <!-- EN: outside allowed area -->
-  <ForbiddenOutsideAllowedAreaLower>Buiten toegestaan gebied </ForbiddenOutsideAllowedAreaLower>
+  <ForbiddenOutsideAllowedAreaLower>Buiten toegestane zone</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
-  <NotInHomeArea>niet in huiselijk gebied</NotInHomeArea>
+  <NotInHomeArea>niet in thuiszone</NotInHomeArea>
   <!-- EN: burning -->
   <BurningLower>brandt</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
@@ -381,7 +381,7 @@
   <!-- EN: Cannot prioritize: forbidden -->
   <CannotPrioritizeCellForbidden>Kan geen prioriteit geven: verboden</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Buiten toegestaan gebied</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Buiten toegestane zone</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->

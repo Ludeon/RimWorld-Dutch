@@ -11,7 +11,7 @@
   <Meditate.reportString>aan het mediteren.</Meditate.reportString>
   
   <!-- EN: playing billiards. -->
-  <Play_Billiards.reportString>biljard aan het spelen.</Play_Billiards.reportString>
+  <Play_Billiards.reportString>biljart aan het spelen.</Play_Billiards.reportString>
   
   <!-- EN: playing chess. -->
   <Play_Chess.reportString>aan het schaken.</Play_Chess.reportString>
@@ -47,7 +47,7 @@
   <VisitGrave.reportString>graf aan het bezichtigen.</VisitGrave.reportString>
   
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>patient TargetA aan het opvrolijken.</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>patiënt TargetA aan het opvrolijken.</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>televisie aan het kijken.</WatchTelevision.reportString>

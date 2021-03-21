@@ -549,7 +549,7 @@
   <!-- EN: Snow clear -->
   <SnowClear>Sneeuwvrij</SnowClear>
   <!-- EN: Area {0} -->
-  <AreaDefaultLabel>Gebied {0}</AreaDefaultLabel>
+  <AreaDefaultLabel>Zone {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
   <NoAreaAllowed>Onbeperkt</NoAreaAllowed>
   <!-- EN: New area -->
@@ -625,7 +625,7 @@
   <!-- EN: using {0}. -->
   <UsingVerbNoTarget>{0} aan het gebruiken.</UsingVerbNoTarget>
   <!-- EN: area -->
-  <AreaLower>gebied</AreaLower>
+  <AreaLower>zone</AreaLower>
   <!-- EN: cowering. -->
   <ReportCowering>aan het hurken.</ReportCowering>
   <!-- EN: standing. -->
@@ -909,9 +909,9 @@
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
   <ShowColonistBarToggleButton>Kolonistenbalk in/uitschakelen.\n\nToont pictogrammen en de basisstatus van alle kolonisten bovenin het scherm.\n\nJe kunt de kolonisten in de kolonistenbalk opnieuw ordenen door met de rechtermuisknop te klikken en ze te slepen.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>Automatisch uitbreiden van het thuisgebied rond nieuwbouw in/uitschakelen.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Automatisch uitbreiden van de thuiszone rond nieuwbouw in/uitschakelen.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>Automatische herstelling van verwoeste bouwwerken in het thuisgebied in/uitschakelen.</AutoRebuildButton>
+  <AutoRebuildButton>Automatische herstelling van verwoeste bouwwerken in de thuiszone in/uitschakelen.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
   <CategorizedResourceReadoutToggleButton>Zet de categoriesering van materialen aan/uit.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->

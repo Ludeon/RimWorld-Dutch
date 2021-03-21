@@ -450,7 +450,7 @@
   <MessageRoofIncompatibleWithPlant>Kan geen dak over {0} bouwen.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Om het gebied te verlaten, gebruikt je de 'karavaan hervormingsknop' in het wereld menu.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Om het gebied te verlaten, gebruik je de knop 'karavaan hervormen' in het wereld menu.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Je kunt de kaart nu niet verlaten.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 

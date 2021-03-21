@@ -79,9 +79,9 @@
   <!-- EN: Assign -->
   <BuildingAssign>Toewijzen</BuildingAssign>
   <!-- EN: Reassign -->
-  <BuildingReassign>Opnieuw toewijzen</BuildingReassign>
+  <BuildingReassign>Overplaatsen</BuildingReassign>
   <!-- EN: Unassign -->
-  <BuildingUnassign>Toewijzen ongedaan maken</BuildingUnassign>
+  <BuildingUnassign>Verwijderen</BuildingUnassign>
   <!-- EN: For prisoners -->
   <CommandBedSetForPrisonersLabel>Voor gevangenen</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
@@ -100,26 +100,26 @@
   <AreYouSure>Weet je zeker dat je dit wilt doen?</AreYouSure>
 
   <!-- EN: Detonate -->
-  <CommandDetonateLabel>Ontsteek.</CommandDetonateLabel>
+  <CommandDetonateLabel>Ontsteken</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
   <CommandDetonateDesc>Start het aftellen tot aan de ontsteking.</CommandDetonateDesc>
 
   <!-- EN: Rename -->
-  <CommandRenameZoneLabel>Hernoem</CommandRenameZoneLabel>
+  <CommandRenameZoneLabel>Hernoemen</CommandRenameZoneLabel>
   <!-- EN: Rename this zone. -->
-  <CommandRenameZoneDesc>Zone hernoemen.</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>Hernoem deze zone.</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
-  <CommandHideZoneLabel>Verberg</CommandHideZoneLabel>
+  <CommandHideZoneLabel>Verbergen</CommandHideZoneLabel>
   <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>Zichtbaar maken</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
   <CommandHideZoneDesc>Zone verbergen/zichtbaar maken</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>Verwijder</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>Verwijderen</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>Zone verwijderen.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>Verwijder deze zone.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>Instellingen kopiëren</CommandCopyZoneSettingsLabel>
@@ -127,7 +127,7 @@
   <CommandCopyZoneSettingsDesc>Kopieer de instellingen van deze zone naar het klembord zodat u ze op een andere zone kunt plakken.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
-  <CommandPasteZoneSettingsLabel>Instellingen plakken </CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>Instellingen plakken</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
   <CommandPasteZoneSettingsDesc>Overschrijf de instellingen van deze zone met de eerder gekopieerde instellingen van het klembord.</CommandPasteZoneSettingsDesc>
 
@@ -164,19 +164,19 @@
   <!-- EN: Start the ship launch sequence with the current configuration. -->
   <CommandShipLaunchDesc>Start de scheepslanceringsprocedure met de huidige configuratie.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>Toon lanceerrapport </CommandShipLaunchReport>
+  <CommandShipLaunchReport>Toon lanceerrapport</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
   <CommandShipLaunchReportDesc>Toon een rapport over de gereedheid van het schip voor de lancering.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
-  <CommandShipStartup>Schip starten </CommandShipStartup>
+  <CommandShipStartup>Schip starten</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
   <CommandShipStartupDesc>Start de scheepsonderdelen op</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
-  <CommandPodEject>Slapende uitwerpen</CommandPodEject>
+  <CommandPodEject>Inzittende verwijderen</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>Maak de cryptosleeper wakker en werp ze uit.</CommandPodEjectDesc>
+  <CommandPodEjectDesc>Maak de persoon in de capsule wakker.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
   <CommandPodEjectFailEmpty>Bevat niemand.</CommandPodEjectFailEmpty>
 
@@ -202,11 +202,11 @@
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
-  <CommandInstall>Installeren</CommandInstall>
+  <CommandInstall>Plaatsen</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>Dit item is momenteel verpakt voor opslag en transport. Gebruik dit commando om dit item op een definitieve locatie te installeren.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>Herinstalleren op...</CommandReinstall>
+  <CommandReinstall>Verplaatsen naar...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Wijs dit item aan om het te verwijderen en ergens anders opnieuw te installeren.</CommandReinstallDesc>
   
@@ -244,7 +244,7 @@
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
-  <CommandMeleeAttack>Melee aanval</CommandMeleeAttack>
+  <CommandMeleeAttack>Aanvallen in melee</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
   <CommandMeleeAttackDesc>Beveel geselecteerde kolonisten om het aangewezen doelwit in melee aan te vallen met alleen vuisten en handwapens.</CommandMeleeAttackDesc>
 
@@ -262,9 +262,9 @@
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Selecteer een plant om te groeien </CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrowMulti>Selecteer een plant om te groeien</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
-  <CommandSelectPlantToGrow>Plant: {0} </CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
   <CommandSelectPlantToGrowDesc>Bepaal hier welke plant hier gezaaid moet worden.</CommandSelectPlantToGrowDesc>
   

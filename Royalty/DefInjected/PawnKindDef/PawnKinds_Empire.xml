@@ -3,30 +3,39 @@
   
   <!-- EN: imperial laborer -->
   <Empire_Common_Laborer.label>keizerlijke arbeider</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.labelPlural>keizerlijke arbeiders</Empire_Common_Laborer.labelPlural>
   
   <!-- EN: imperial citizen -->
   <Empire_Common_Lodger.label>keizerlijke burger</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.labelPlural>keizerlijke burgers</Empire_Common_Lodger.labelPlural>
   
   <!-- EN: imperial trader -->
   <Empire_Common_Trader.label>keizerlijke handelaar</Empire_Common_Trader.label>
+  <Empire_Common_Trader.labelPlural>keizerlijke handelaren</Empire_Common_Trader.labelPlural>
   
   <!-- EN: cataphract -->
   <Empire_Fighter_Cataphract.label>katafract</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.labelPlural>katafracten</Empire_Fighter_Cataphract.labelPlural>
   
   <!-- EN: champion -->
   <Empire_Fighter_Champion.label>voorvechter</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.labelPlural>voorvechters</Empire_Fighter_Champion.labelPlural>
   
   <!-- EN: janissary -->
   <Empire_Fighter_Janissary.label>janitsaris</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.labelPlural>janitsarissen</Empire_Fighter_Janissary.labelPlural>
   
   <!-- EN: stellic warden -->
   <Empire_Fighter_StellicGuardMelee.label>stellische wachter</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.labelPlural>stellische wachters</Empire_Fighter_StellicGuardMelee.labelPlural>
   
   <!-- EN: stellic defender -->
   <Empire_Fighter_StellicGuardRanged.label>stellische verdediger</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.labelPlural>stellische verdedigers</Empire_Fighter_StellicGuardRanged.labelPlural>
   
   <!-- EN: trooper -->
   <Empire_Fighter_Trooper.label>soldaat</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.labelPlural>soldaten</Empire_Fighter_Trooper.labelPlural>
   
   <!-- EN: baron -->
   <Empire_Royal_Baron.label>baron</Empire_Royal_Baron.label>

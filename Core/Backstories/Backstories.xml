@@ -2109,7 +2109,7 @@
 		<!-- EN: cursed -->
 		<titleShort>verloekt</titleShort>
 		<!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-		<desc>[PAWN_nameDef] werd geboren op het hoogtepunt van een maansverduistering. De stamoudsten verklaarden [PAWN_objective] een kind van duisternis en namen [PAWN_objective] onder hun hoede.\n\n[PAWN_possessive] hele jeugd werd besteed aan het bestuderen van de overlevering en rituelen van [PAWN_possessive] mensen - tot de dag van [PAWN_possessive] roeping.</desc>
+		<desc>[PAWN_nameDef] werd geboren op het hoogtepunt van een maansverduistering. De stamoudsten verklaarden [PAWN_objective] een kind van duisternis en namen [PAWN_objective] onder hun hoede.\n\n[PAWN_possessive] hele jeugd werd besteed aan het bestuderen van de overlevering en rituelen van [PAWN_possessive] volk - tot de dag van [PAWN_possessive] roeping.</desc>
 	</AccursedChild88>
 
 	<!-- Sam "Nerhesi" Wissa, Male, Adulthood -->
@@ -3649,7 +3649,7 @@
 		<!-- EN: knight -->
 		<titleShort>ridder</titleShort>
 		<!-- EN: Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry [PAWN_possessive] things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully. -->
-		<desc>Nadat hij de aandacht had getrokken van de Zandkoning van [PAWN_possessive] mensen, werd [PAWN_nameDef] getraind in de Zandboemrat-vechttechniek.\n\n[PAWN_pronoun] was altijd samen met een kameel om [PAWN_possessive] dingen te dragen, en diende trouw [PAWN_possessive] zandmensen.</desc>
+		<desc>Nadat hij de aandacht had getrokken van de Zandkoning van [PAWN_possessive] volk, werd [PAWN_nameDef] getraind in de Zandboemrat-vechttechniek.\n\n[PAWN_pronoun] was altijd samen met een kameel om [PAWN_possessive] dingen te dragen, en diende trouw [PAWN_possessive] zandmensen.</desc>
 	</DromedaryKnight37>
 
 	<!-- Andrew "Grub" Menear, Male, Childhood -->
@@ -3689,7 +3689,7 @@
 		<!-- EN: farm hand -->
 		<titleShort>boerenhulp</titleShort>
 		<!-- EN: From the time [PAWN_nameDef] could walk, [PAWN_pronoun] helped take care of the animals and crops that [PAWN_possessive] people tended in their arid homeland.\n\nThe work toughened [PAWN_objective], but left little time for intellectual activities. -->
-		<desc>Vanaf het moment dat [PAWN_nameDef] kon lopen, hielp [PAWN_pronoun] bij het verzorgen van de dieren en gewassen die [PAWN_possessive] mensen verzorgden in hun dorre thuisland.\n\n[PAWN_objective] werk maakte hem sterk, maar liet weinig tijd over voor intellectuele activiteiten.</desc>
+		<desc>Vanaf het moment dat [PAWN_nameDef] kon lopen, hielp [PAWN_pronoun] bij het verzorgen van de dieren en gewassen die [PAWN_possessive] mensen verbouwden in hun dorre thuisland.\n\n[PAWN_objective] werk maakte hem sterk, maar liet weinig tijd over voor intellectuele activiteiten.</desc>
 	</DustyFarmHand75>
 
 	<!-- Basil "BB" Batter, Either, Childhood -->
@@ -3979,7 +3979,7 @@
 		<!-- EN: researcher -->
 		<titleShort>wetenschapper</titleShort>
 		<!-- EN: As a young adult, [PAWN_nameDef] was sure that [PAWN_possessive] planet and its people were nearing their time of transcendence.\n\nA firm belief that [PAWN_possessive] research would be the catalyst drove [PAWN_objective] to increasingly alarming acts as bureaucrats and bioethics committees worked to stall [PAWN_possessive] progress. -->
-		<desc>Als jongvolwassene was [PAWN_nameDef] er zeker van dat de [PAWN_possessive] planeet en zijn mensen hun transcendente tijd naderden.\n\nEen vaste overtuiging dat [PAWN_possessive] onderzoek de katalysator zou zijn zette [PAWN_objective] ertoe aan om steeds alarmerender te handelen, terwijl bureaucraten en bio-ethische commissies hun best deden om [PAWN_possessive] vooruitgang te vertragen.</desc>
+		<desc>Als jongvolwassene was [PAWN_nameDef] er zeker van dat [PAWN_possessive] planeet en zijn volk hun transcendente tijd naderden.\n\nEen vaste overtuiging dat [PAWN_possessive] onderzoek de katalysator zou zijn zette [PAWN_objective] ertoe aan om steeds alarmerender te handelen, terwijl bureaucraten en bio-ethische commissies hun best deden om [PAWN_possessive] vooruitgang te vertragen.</desc>
 	</FerventResearcher72>
 
 	<!-- Garen "Redfields" Fielder, Male, Childhood -->
@@ -6329,7 +6329,7 @@
 		<!-- EN: shaman -->
 		<titleShort>sjamaan</titleShort>
 		<!-- EN: When the monsters of fire came from the sky, [PAWN_nameDef] was called upon by [PAWN_possessive] tribe to guide them into battle.\n\n[PAWN_nameDef] made use of medicines and rituals to inspire and lead the warriors of many tribes against the invaders. The pirates were forced to retreat without capturing a single slave. -->
-		<desc>Toen de monsters van vuur uit de lucht kwamen, werd [PAWN_nameDef] opgeroepen door de [PAWN_possessive] stam om hen in de strijd te leiden. \ N \ n [PAWN_nameDef] maakte gebruik van medicijnen en rituelen om de strijders van vele stammen te inspireren en te leiden tegen de indringers. De piraten werden gedwongen zich terug te trekken zonder een enkele slaaf gevangen te nemen.</desc>
+		<desc>Toen de monsters van vuur uit de lucht kwamen, werd [PAWN_nameDef] opgeroepen door de [PAWN_possessive] stam om hen in de strijd te leiden.\n\n[PAWN_nameDef] maakte gebruik van medicijnen en rituelen om de strijders van vele stammen te inspireren en te leiden tegen de indringers. De piraten werden gedwongen zich terug te trekken zonder een enkele slaaf gevangen te nemen.</desc>
 	</ShamanOfShadows47>
 
 	<!-- Kena "Kena" Réveil, Female, Childhood -->
@@ -6339,7 +6339,7 @@
 		<!-- EN: ship child -->
 		<titleShort>scheepskind</titleShort>
 		<!-- EN: [PAWN_nameDef]'s family were space traders. One day, [PAWN_nameDef]'s cryptosleep pod failed in transit. [PAWN_pronoun] had to spend years awake on the ship as the other slept.\n\n[PAWN_pronoun] filled [PAWN_possessive] days creating beautiful contraptions from the ship's cargo - but [PAWN_pronoun] didn't learn a lot of basic planetary living skills. -->
-		<desc>De familie van [PAWN_nameDef] waren handelaars in de ruimte. Op een dag ging [PAWN_nameDef]'s cryptoslaapcapsule kapot. [PAWN_pronoun] moest jaren wakker op het schip doorbrengen terwijl de anderen sliepen. \ N \ n [PAWN_pronoun] vulde [PAWN_possessive] dagen met het maken van prachtige constructies van de lading van het schip - maar [PAWN_pronoun] leerde niet veel fundamentele vaardigheden van het planetaire leven.</desc>
+		<desc>De familie van [PAWN_nameDef] waren handelaars in de ruimte. Op een dag ging [PAWN_nameDef]'s cryptoslaapcapsule kapot. [PAWN_pronoun] moest jaren wakker op het schip doorbrengen terwijl de anderen sliepen.\n\n[PAWN_pronoun] vulde [PAWN_possessive] dagen met het maken van prachtige constructies van de lading van het schip - maar [PAWN_pronoun] leerde niet veel fundamentele vaardigheden van het planetaire leven.</desc>
 	</ShipChild46>
 
 	<!-- Sarai "Sarai" Tang, Female, Childhood -->
@@ -6349,7 +6349,7 @@
 		<!-- EN: technician -->
 		<titleShort>technicus</titleShort>
 		<!-- EN: [PAWN_nameDef] was an apprentice technician on trade ships plying their routes between the stations and planets of [PAWN_possessive] home system. In this job, [PAWN_pronoun] learned to fix and improve many machines.\n\nSometimes, [PAWN_possessive] ship was assigned to short exploratory jaunts into dangerous regions of space. -->
-		<desc>[PAWN_nameDef] was een leerling-technicus op handelsschepen die hun routes voerden tussen de stations en planeten van [PAWN_possessive] thuissysteem. In deze baan leerde [PAWN_pronoun] veel machines te repareren en te verbeteren. \ N \ nSoms werd [PAWN_possessive] schip toegewezen aan korte verkenningsreizen naar gevaarlijke gebieden in de ruimte.</desc>
+		<desc>[PAWN_nameDef] was een leerling-technicus op handelsschepen die hun routes voerden tussen de stations en planeten van [PAWN_possessive] thuissysteem. In deze baan leerde [PAWN_pronoun] veel machines te repareren en te verbeteren.\n\nSoms werd [PAWN_possessive] schip toegewezen aan korte verkenningsreizen naar gevaarlijke gebieden in de ruimte.</desc>
 	</ShipTechnician0>
 
 	<!-- Unkow "Schlitzer" Manus, Male, Adulthood -->
@@ -6359,7 +6359,7 @@
 		<!-- EN: shocktroop -->
 		<titleShort>aanvalssoldaat</titleShort>
 		<!-- EN: [PAWN_nameDef] was in a deep space shock troop unit deployed on multiple planets in various wars.\n\nDuring a risky assault, [PAWN_possessive] whole unit was wiped out. Nobody else knew what happened on the field that day, but [PAWN_nameDef] will carry the burden forever. -->
-		<desc>[PAWN_nameDef] bevond zich in een deep space shocktroepeneenheid die tijdens verschillende oorlogen op meerdere planeten werd ingezet. \ N \ nTijdens een riskante aanval werd [PAWN_possessive] hele eenheid weggevaagd. Niemand anders weet wat er die dag op het veld gebeurde, maar [PAWN_nameDef] zal de last voor altijd dragen.</desc>
+		<desc>[PAWN_nameDef] bevond zich in een deep space shocktroepeneenheid die tijdens verschillende oorlogen op meerdere planeten werd ingezet.\n\nTijdens een riskante aanval werd [PAWN_possessive] hele eenheid weggevaagd. Niemand anders weet wat er die dag op het veld gebeurde, maar [PAWN_nameDef] zal de last voor altijd dragen.</desc>
 	</ShockTrooper15>
 
 	<!-- Nebulys Strike, Male, Childhood -->
@@ -6389,7 +6389,7 @@
 		<!-- EN: lawyer -->
 		<titleShort>advocaat</titleShort>
 		<!-- EN: As a lawyer, [PAWN_nameDef] could convict a deaf man for stealing music. [PAWN_possessive] sharp mind and lack of empathy let [PAWN_objective] say anything to get the other person to talk. With the right amount of money, [PAWN_pronoun] knew, any case can be won.\n\n[PAWN_possessive] childhood cough never went away. -->
-		<desc>Als advocaat zou [PAWN_nameDef] een dove man kunnen veroordelen voor het stelen van muziek. [PAWN_possessive] scherpe geest en gebrek aan empathie stelde [PAWN_objective] in staat om te zeggen wat maar nodig was om de ander aan het praten te krijgen. Met het juiste geldbedrag, wist [PAWN_pronoun], kan elke zaak worden gewonnen. \ N \ n [PAWN_possessive] kinderhoest ging nooit weg.</desc>
+		<desc>Als advocaat zou [PAWN_nameDef] een dove man kunnen veroordelen voor het stelen van muziek. [PAWN_possessive] scherpe geest en gebrek aan empathie stelde [PAWN_objective] in staat om te zeggen wat maar nodig was om de ander aan het praten te krijgen. Met het juiste geldbedrag, wist [PAWN_pronoun], kan elke zaak worden gewonnen.\n\n[PAWN_possessive] kinderhoest ging nooit weg.</desc>
 	</SicklyLawyer49>
 
 	<!-- Lynn "Lynn" Romero, Male, Childhood -->
@@ -6399,7 +6399,7 @@
 		<!-- EN: liar -->
 		<titleShort>leugenaar</titleShort>
 		<!-- EN: It is not uncommon for a sickly child to be cast away. What is uncommon is for that child to survive and even thrive with such a weak body.\n\nUsing [PAWN_possessive] quick wit and silver tongue, [PAWN_nameDef] was able to get out of almost any situation - most of the time at the cost others around him. -->
-		<desc>Het is niet ongebruikelijk dat een ziek kind wordt verstoten. Wat ongebruikelijk is, is dat dat kind overleeft en zelfs gedijt met zo'n zwak lichaam. \ N \ nMet behulp van [PAWN_possessive] snelle humor en zilveren tong kon [PAWN_nameDef] uit bijna elke situatie komen - meestal ten koste van anderen om hem heen.</desc>
+		<desc>Het is niet ongebruikelijk dat een ziek kind wordt verstoten. Wat ongebruikelijk is, is dat dat kind overleeft en zelfs gedijt met zo'n zwak lichaam.\n\nMet behulp van [PAWN_possessive] snelle humor en zilveren tong kon [PAWN_nameDef] uit bijna elke situatie komen - meestal ten koste van anderen om hem heen.</desc>
 	</SicklyLiar3>
 
 	<!-- Andrew "Grub" Menear, Male, Adulthood -->
@@ -6409,7 +6409,7 @@
 		<!-- EN: sightseer -->
 		<titleShort>toerist</titleShort>
 		<!-- EN: [PAWN_nameDef] traveled the stars. [PAWN_pronoun] could barely scrape together travel costs doing odd-jobs, but it was all worth it.\n\n[PAWN_pronoun] loved camping in exotic places and learning the patterns of strange wildlife. [PAWN_pronoun] never could focus on intellectual endeavors, as [PAWN_possessive] sightseeing distracted [PAWN_objective] far too much. -->
-		<desc>[PAWN_nameDef] reisde door de sterren. [PAWN_pronoun] kon de reiskosten maar net bij elkaar schrapen met het doen van klussen, maar het was het allemaal waard. \ N \ n [PAWN_pronoun] hield van kamperen op exotische oorden en leerde de patronen van vreemde dieren in het wild kennen. [PAWN_pronoun] kon zich nooit concentreren op intellectuele inspanningen, aangezien [PAWN_possessive] nieuwsgierigheid [PAWN_objective] veel te veel afleidde.</desc>
+		<desc>[PAWN_nameDef] reisde door de sterren. [PAWN_pronoun] kon de reiskosten maar net bij elkaar schrapen met het doen van klussen, maar het was het allemaal waard.\n\n[PAWN_pronoun] hield van kamperen op exotische oorden en leerde de patronen van vreemde dieren in het wild kennen. [PAWN_pronoun] kon zich nooit concentreren op intellectuele inspanningen, aangezien [PAWN_possessive] nieuwsgierigheid [PAWN_objective] veel te veel afleidde.</desc>
 	</Sightseer70>
 
 	<!-- Levin "Levin" Lossfelt, Male, Adulthood -->
@@ -6439,7 +6439,7 @@
 		<!-- EN: town kid -->
 		<titleShort>dorpskind</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.\n\n[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life. -->
-		<desc>[PAWN_nameDef] groeide op in een afgelegen dorp op een middenwereld, omgeven door optikoeien en platteland. \ N \ n [PAWN_possessive] ouders leerden [PAWN_objective] een breed scala aan nuttige huishoudelijke vaardigheden, maar door [PAWN_possessiv] rustige en veilige jeugd heet [PAWN_pronoun] weinig begrip van de moeilijkere delen van het leven.</desc>
+		<desc>[PAWN_nameDef] groeide op in een afgelegen dorp op een middenwereld, omgeven door optikoeien en platteland.\n\n[PAWN_possessive] ouders leerden [PAWN_objective] een breed scala aan nuttige huishoudelijke vaardigheden, maar door [PAWN_possessiv] rustige en veilige jeugd heet [PAWN_pronoun] weinig begrip van de moeilijkere delen van het leven.</desc>
 	</SmallTownKid41>
 
 	<!-- Meredith  "Latch" Abernathy, Female, Adulthood -->
@@ -6449,7 +6449,7 @@
 		<!-- EN: smuggler -->
 		<titleShort>smokkelaar</titleShort>
 		<!-- EN: As a contract pilot, [PAWN_nameDef] had a knack for stealing goods and trafficking contraband without getting caught.\n\n[PAWN_pronoun] eventually saved up enough to buy [PAWN_possessive] own ship, and used it to travel from world to world dealing [PAWN_possessive] goods in person. -->
-		<desc>Als contractpiloot had [PAWN_nameDef] de gave om goederen te stelen en smokkelwaar te verhandelen zonder gepakt te worden. \ N \ n [PAWN_pronoun] spaarde uiteindelijk genoeg om [PAWN_possessive] eigen schip te kopen en gebruikte het om [PAWN_possessive] goederen persoonlijk van wereld naar wereld te vervoeren.</desc>
+		<desc>Als contractpiloot had [PAWN_nameDef] de gave om goederen te stelen en smokkelwaar te verhandelen zonder gepakt te worden.\n\n[PAWN_pronoun] spaarde uiteindelijk genoeg om [PAWN_possessive] eigen schip te kopen en gebruikte het om [PAWN_possessive] goederen persoonlijk van wereld naar wereld te vervoeren.</desc>
 	</Smuggler23>
 
 	<!-- Wesley "Pickles" Pickles, Male, Childhood -->
@@ -6479,7 +6479,7 @@
 		<!-- EN: experiment -->
 		<titleShort>experiment</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up believing [PAWN_pronoun] was a normal, albeit slightly sheltered child.\n\nIn truth, [PAWN_pronoun] was part of an elaborate experiment. Researchers were conditioning [PAWN_objective] using social interactions and mechanite injections to try to produce an elite soldier. -->
-		<desc>[PAWN_nameDef] groeide op in de overtuiging dat [PAWN_pronoun] een normaal, zij het licht beschermd kind was. \ N \ nIn werkelijkheid maakte [PAWN_pronoun] deel uit van een uitgebreid experiment. Onderzoekers waren [PAWN_objective] aan het conditioneren met behulp van sociale interacties en mechanietinjecties om te proberen een elitesoldaat voort te brengen.</desc>
+		<desc>[PAWN_nameDef] groeide op in de overtuiging dat [PAWN_pronoun] een normaal, zij het licht beschermd kind was.\n\nIn werkelijkheid maakte [PAWN_pronoun] deel uit van een uitgebreid experiment. Onderzoekers waren [PAWN_objective] aan het conditioneren met behulp van sociale interacties en mechanietinjecties om te proberen een elitesoldaat voort te brengen.</desc>
 	</SoldierExperiment50>
 
 	<!-- Exorus "Huntsman" Hawke, Male, Childhood -->
@@ -6489,7 +6489,7 @@
 		<!-- EN: survivor -->
 		<titleShort>overlevende</titleShort>
 		<!-- EN: [PAWN_nameDef]'s entire tribe was wiped out by a mysterious disease.\n\nFound alone and adopted by another band, [PAWN_pronoun] never became close with the other tribe members. [PAWN_pronoun] preferred to stay away from [PAWN_possessive] new home, wandering the woods and tending the animals. -->
-		<desc>De hele stam van [PAWN_nameDef] werd weggevaagd door een mysterieuze ziekte. \ N \ n[PAWN_pronoun] werd alleen gevonden en geadopteerd door een andere stam, maar kwam nooit in de buurt van de andere stamleden. [PAWN_pronoun] bleef liever weg van [PAWN_possessive] nieuwe huis, dwaalde door het bos en verzorgde de dieren.</desc>
+		<desc>De hele stam van [PAWN_nameDef] werd weggevaagd door een mysterieuze ziekte.\n\n[PAWN_pronoun] werd alleen gevonden en geadopteerd door een andere stam, maar kwam nooit in de buurt van de andere stamleden. [PAWN_pronoun] bleef liever weg van [PAWN_possessive] nieuwe huis, dwaalde door het bos en verzorgde de dieren.</desc>
 	</SoleSurvivor63>
 
 	<!-- Jesse "Jess" Spence, Male, Adulthood -->
@@ -6505,1451 +6505,1451 @@
 	<!-- Jonathan "Jon" Craig, Male, Childhood -->
 	<SonOfAHuntress75>
 		<!-- EN: son of a huntress -->
-		<title>TODO</title>
+		<title>zoon van een jager</title>
 		<!-- EN: hunter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>jager</titleShort>
 		<!-- EN: In the mountains of the planet Ticonderoga, [PAWN_nameDef] was raised by [PAWN_possessive] tribal mother. [PAWN_pronoun] taught [PAWN_objective] survival skills - trapping, tracking, shooting, skinning, cooking and healing.\n\n[PAWN_possessive] departed father had left behind an old bolt-action rifle, and [PAWN_nameDef] practiced with it every chance [PAWN_pronoun] got. -->
-		<desc>TODO</desc>
+		<desc>In de bergen van de planeet Ticonderoga werd [PAWN_nameDef] grootgebracht door [PAWN_possessive] stammoeder. Zij leerde [PAWN_objective] overlevingsvaardigheden - vallen zetten, volgen, schieten, villen, koken en genezen.\n\n[PAWN_possessive] overleden vader had een oud grendelgeweer achtergelaten en [PAWN_nameDef] oefende er mee wanneer [PAWN_pronoun] maar kon.</desc>
 	</SonOfAHuntress75>
 
 	<!-- Ronin "Shield" Lawless, Male, Adulthood -->
 	<SpaceBartender0>
 		<!-- EN: space bartender -->
-		<title>TODO</title>
+		<title>ruimte barman</title>
 		<!-- EN: bartender -->
-		<titleShort>TODO</titleShort>
+		<titleShort>barman</titleShort>
 		<!-- EN: [PAWN_nameDef] became a bartender on a space station. [PAWN_pronoun] interacted with and befriended many strangers.\n\nAs time went on, [PAWN_nameDef] used [PAWN_possessive] knowledge of herbs to craft [PAWN_possessive] own strange concoctions for [PAWN_possessive] customers. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd barman op een ruimtestation. [PAWN_pronoun] had ontmoette en raakte bevriend met vele vreemden.\n\nNaarmate de tijd verstreek, gebruikte [PAWN_nameDef] [PAWN_possessive] kennis van kruiden om [PAWN_possessive] eigen vreemde brouwsels te maken voor [PAWN_possessive] klanten.</desc>
 	</SpaceBartender0>
 
 	<!-- Jake "Table" Maddams, Male, Childhood -->
 	<SpaceCadet77>
 		<!-- EN: space cadet -->
-		<title>TODO</title>
+		<title>ruimtekadet</title>
 		<!-- EN: cadet -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kadet</titleShort>
 		<!-- EN: Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on [PAWN_possessive] home planet, [PAWN_nameDef] threw down [PAWN_possessive] hoe and cattle prod to took up arms for the crown.\n\n[PAWN_pronoun] served on the interplanetary super-destroyer HMS Thunder-Child. -->
-		<desc>TODO</desc>
+		<desc>Opgroeien op een boerenwereld op het platteland biedt weinig gelegenheid voor opwinding en avontuur, dus toen de Koninklijke Vloot een rekruteringsprogramma begon op [PAWN_possessive] thuisplaneet, gooide [PAWN_nameDef] [PAWN_possessive] schoffel neer om de wapens op te nemen voor het koningshuis.\n\n[PAWN_pronoun] diende op de interplanetaire supervernietiger HMS Donderkind.</desc>
 	</SpaceCadet77>
 
 	<!-- Linghao "Trumpet" Zhang, Male, Adulthood -->
 	<SpaceExplorer53>
 		<!-- EN: space explorer -->
-		<title>TODO</title>
+		<title>ruimteverkenner</title>
 		<!-- EN: explorer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verkenner</titleShort>
 		<!-- EN: [PAWN_nameDef] spent years trapped, alone on an unknown planet. [PAWN_pronoun] quickly adapted to the local environment, and learned to communicate with [PAWN_possessive] local enemies.\n\nThis long period alone left [PAWN_objective] without close friends. [PAWN_possessive] heart is sensitive, but [PAWN_pronoun] learned to hide [PAWN_possessive] emotions very well. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] heeft jarenlang vast gezeten, alleen op een onbekende planeet. [PAWN_pronoun] paste zich snel aan de lokale omgeving aan en leerde communiceren met [PAWN_possessive] lokale vijanden.\n\nDeze lange periode alleen liet [PAWN_objective] achter zonder goede vrienden. [PAWN_possessive] hart is gevoelig, maar [PAWN_pronoun] heeft geleerd [PAWN_possessive] emoties heel goed te verbergen.</desc>
 	</SpaceExplorer53>
 
 	<!-- Robbin Dekker, Male, Childhood -->
 	<SpaceFanboy22>
 		<!-- EN: space fanboy -->
-		<title>TODO</title>
+		<title>ruimte fanboy</title>
 		<!-- EN: fanboy -->
-		<titleShort>TODO</titleShort>
+		<titleShort>fanboy</titleShort>
 		<!-- EN: [PAWN_nameDef] dreamed of space travel. [PAWN_pronoun] built [PAWN_possessive] own pretend spaceship from an old police box and went to see the great unknown. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] droomde van ruimtereizen. [PAWN_pronoun] maakte [PAWN_possessive] eigen ruimteschip van een oude politiebox en ging op zoek naar het grote onbekende.</desc>
 	</SpaceFanboy22>
 
 	<!-- Sean "Severin" Pedersen, Male, Adulthood -->
 	<SpaceHumanitarian9>
 		<!-- EN: space humanitarian -->
-		<title>TODO</title>
+		<title>ruimteactivist</title>
 		<!-- EN: activist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>activist</titleShort>
 		<!-- EN: After seeing the rampant poverty common on overcrowded urban worlds, [PAWN_nameDef] decided to dedicate [PAWN_possessive] life to helping the less fortunate. This crusade taught [PAWN_objective] how to care for the sick and the hungry. -->
-		<desc>TODO</desc>
+		<desc>Na het zien van de ongebreidelde armoede die veel voorkomt op overbevolkte stedelijke werelden, besloot [PAWN_nameDef] [PAWN_possessive] leven te wijden aan het helpen van de minder bedeelden. Tijdens deze kruistocht leerde [PAWN_pronoun] hoe voor de zieken en hongerigen te zorgen.</desc>
 	</SpaceHumanitarian9>
 
 	<!-- Jonathan "Jon" Craig, Male, Adulthood -->
 	<SpaceHunter79>
 		<!-- EN: space hunter -->
-		<title>TODO</title>
+		<title>ruimtejager</title>
 		<!-- EN: huntsman -->
-		<titleShort>TODO</titleShort>
+		<titleShort>jager</titleShort>
 		<!-- EN: Now a man as well as proficient hunter and marksman, [PAWN_nameDef] yearned for more. [PAWN_pronoun] took leave from [PAWN_possessive] birth world, traveling the great expanse in search of exotic game. -->
-		<desc>TODO</desc>
+		<desc>Nu [PAWN_pronoun] zowel een man als een bekwaam jager en scherpschutter was, verlangde [PAWN_nameDef] naar meer. [PAWN_pronoun] nam afscheid van [PAWN_possessive] geboortewereld en reisde door het uitgestrekte heelal op zoek naar exotisch wild.</desc>
 	</SpaceHunter79>
 
 	<!-- Soren "Grim" Reber, Male, Adulthood -->
 	<SpaceMarine19>
 		<!-- EN: space marine -->
-		<title>TODO</title>
+		<title>ruimtemarinier</title>
 		<!-- EN: marine -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinier</titleShort>
 		<!-- EN: [PAWN_nameDef] joined a squad of space marines known for their brutal efficiency at killing. [PAWN_possessive] last name and [PAWN_possessive] lack of emotion during combat inspired [PAWN_possessive] nickname. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] sloot zich aan bij een squadron ruimtemariniers die bekend staan om hun brute efficiëntie bij het doden. [PAWN_possessive] achternaam en [PAWN_possessive] gebrek aan emotie tijdens gevechten inspireerden [PAWN_possessive] bijnaam.</desc>
 	</SpaceMarine19>
 
 	<!-- Trevor "Hunter" Cobb, Male, Adulthood -->
 	<SpaceMarine5>
 		<!-- EN: space marine -->
-		<title>TODO</title>
+		<title>ruimtemarinier</title>
 		<!-- EN: marine -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinier</titleShort>
 		<!-- EN: [PAWN_nameDef] joined Interplanetary Marines to travel the stars fight for [PAWN_possessive] planet. [PAWN_pronoun] distinguished [PAWN_objective]self in several battles.\n\n[PAWN_possessive] experiences desensitized [PAWN_objective] to people around [PAWN_objective], and [PAWN_possessive] social skills degraded. But, [PAWN_pronoun] did learn how to fight. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] sloot zich aan bij de ruimtemariniers om door de sterren te reizen om te vechten voor [PAWN_possessive] planeet. [PAWN_pronoun] onderscheidde [PAWN_objective] in verschillende veldslagen.\n\n[PAWN_possessive] ervaringen maakten [PAWN_objective] ongevoelig voor de mensen om [PAWN_objective] heen, en verminderden [PAWN_possessive] sociale vaardigheden. Maar [PAWN_pronoun] heeft wel leren vechten.</desc>
 	</SpaceMarine5>
 
 	<!-- Roland "Roland" Kleist, Male, Adulthood -->
 	<SpaceMarine51>
 		<!-- EN: space marine -->
-		<title>TODO</title>
+		<title>ruimtemarinier</title>
 		<!-- EN: marine -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinier</titleShort>
 		<!-- EN: [PAWN_nameDef] was recruited into the security forces of an off-planet corporation.\n\n[PAWN_pronoun] defended their ships against pirates and engaged in private space warfare contracts. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd gerekruteerd voor de veiligheidstroepen van een bedrijf buiten de planeet.\n\n[PAWN_pronoun] verdedigde hun schepen tegen piraten en voerde contracten voor privéruimteoorlogsvoering.</desc>
 	</SpaceMarine51>
 
 	<!-- Sheetorn "Sheet" Quac, Male, Adulthood -->
 	<SpaceMarine9>
 		<!-- EN: space marine -->
-		<title>TODO</title>
+		<title>ruimtemarinier</title>
 		<!-- EN: marine -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinier</titleShort>
 		<!-- EN: [PAWN_nameDef] was a member of an elite imperial space warrior unit. Subjected to intense training, [PAWN_pronoun] developed remarkable combat skills.\n\n[PAWN_possessive] unit's quasi-religious ceremonies and beliefs helped [PAWN_objective] stay more-or-less sane through the horrors of the war.\n -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was lid van een elite imperiale ruimtestrijderseenheid. Na intensieve training ontwikkelde [PAWN_pronoun] opmerkelijke gevechtsvaardigheden.\n\nDe quasi-religieuze ceremonies en overtuigingen van [PAWN_possessive] eenheid hielpen [PAWN_objective] min of meer gezond van geest te blijven tijdens de verschrikkingen van de oorlog.</desc>
 	</SpaceMarine9>
 
 	<!-- Nico Storch, Male, Adulthood -->
 	<SpaceMarine94>
 		<!-- EN: space marine -->
-		<title>TODO</title>
+		<title>ruimtemarinier</title>
 		<!-- EN: marine -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinier</titleShort>
 		<!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy.\n\n[PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een krijger in een keizerlijke marine.\n\nHet was [PAWN_possessive] taak om vijandelijke ruimteschepen te enteren, de bemanning neer te schieten en het schip intact te veroveren. En [PAWN_pronoun] was er goed in.</desc>
 	</SpaceMarine94>
 
 	<!-- Ryan "Noob" Torrijos, Male, Adulthood -->
 	<SpaceMarineMedic10>
 		<!-- EN: space marine medic -->
-		<title>TODO</title>
+		<title>ruimtemedicus</title>
 		<!-- EN: medic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hospik</titleShort>
 		<!-- EN: [PAWN_nameDef] joined a colony contact expeditionary force as a medic. The mission turned bad when the colonists turned out to be suffering from a zombifying disease. [PAWN_pronoun] ran and fought for days.\n\nCornered with wounded men, [PAWN_pronoun] sprayed enough ammunition to wear out four machine gun barrels, and learned the value of high-volume fire. But [PAWN_possessive] nickname, Noob, stuck from that day forward.\n -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] sloot zich aan bij een expeditieleger van een kolonie als hospik. De missie viel in het water toen de kolonisten bleken te lijden aan een zombificerende ziekte. [PAWN_pronoun] vluchtte en vocht dagenlang.\n\nIn het nauw met gewonde mannen gebruikte [PAWN_pronoun] genoeg munitie om vier machinegeweerlopen te verslijten en leerde de waarde van grootschalig vuur. Maar [PAWN_possessive] bijnaam, Noob, raakte hij vanaf die dag niet meer kwijt.</desc>
 	</SpaceMarineMedic10>
 
 	<!-- Ryoko "Onesan" Minese, Female, Adulthood -->
 	<SpaceMerchant97>
 		<!-- EN: space merchant -->
-		<title>TODO</title>
+		<title>ruimtehandelaar</title>
 		<!-- EN: merchant -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hanelaar</titleShort>
 		<!-- EN: As part of a freelance interplanetary lifestyle, [PAWN_nameDef] sought to dominate [PAWN_possessive] romantic interests as much as [PAWN_possessive] business adversaries. When [PAWN_pronoun] didn't have [PAWN_possessive] own ship to fly, [PAWN_pronoun] worked charter ships for hire. -->
-		<desc>TODO</desc>
+		<desc>Als onderdeel van een freelance interplanetaire levensstijl probeerde [PAWN_nameDef] [PAWN_possessive] romantische interesses net zo goed te domineren als [PAWN_possessive] zakelijke tegenstanders. Wanneer [PAWN_pronoun] geen eigen schip had om te besturen, werkte [PAWN_pronoun] met charterschepen.</desc>
 	</SpaceMerchant97>
 
 	<!-- Kimiko "Kimmy" Asano, Female, Adulthood -->
 	<SpaceNavyDoctor72>
 		<!-- EN: space navy doctor -->
-		<title>TODO</title>
+		<title>ruimtemarinedokter</title>
 		<!-- EN: doctor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>dokter</titleShort>
 		<!-- EN: [PAWN_nameDef] served several tours as a doctor on one of the few warships defending [PAWN_possessive] homeworld. [PAWN_pronoun] learned combat skills while fighting occasional pirate boarding parties, and became an expert at treating gruesome combat wounds. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] heeft als dokter verschillende keren gediend op een van de weinige oorlogsschepen die [PAWN_possessive] thuiswereld verdedigden. [PAWN_pronoun] leerde gevechtsvaardigheden tijdens het af en toe bevechten van piratenpartijen, en werd een expert in het behandelen van gruwelijke gevechtswonden.</desc>
 	</SpaceNavyDoctor72>
 
 	<!-- Brazos "Braz" Wheeler, Male, Adulthood -->
 	<SpaceNavyTech12>
 		<!-- EN: space navy tech -->
-		<title>TODO</title>
+		<title>ruimtemarinetechneut</title>
 		<!-- EN: navy tech -->
-		<titleShort>TODO</titleShort>
+		<titleShort>marinetechneut</titleShort>
 		<!-- EN: [PAWN_nameDef] was in a space navy for the the most powerful planet in the local star group. [PAWN_pronoun] developed skills in maintenance, electronic systems, radar and imaging, and logistics management.\n\n[PAWN_pronoun] served with pride and patriotic love for [PAWN_possessive] planet. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] zat in de ruimtemarine van de machtigste planeet in de plaatselijke sterrengroep. [PAWN_pronoun] ontwikkelde vaardigheden op het gebied van onderhoud, elektronische systemen, radar en beeldvorming en logistiek beheer.\n\n[PAWN_pronoun] diende met trots en patriottische liefde voor [PAWN_possessive] planeet.</desc>
 	</SpaceNavyTech12>
 
 	<!-- Brazos "Braz" Wheeler, Male, Childhood -->
 	<SpaceNerd97>
 		<!-- EN: space nerd -->
-		<title>TODO</title>
+		<title>ruimtenerd</title>
 		<!-- EN: space nerd -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ruimtenerd</titleShort>
 		<!-- EN: [PAWN_nameDef] just wanted to be cool like [PAWN_possessive] favorite superhero All-Might. [PAWN_pronoun] dreamed of going on space adventures and exploring new worlds. [PAWN_pronoun] also dreamed of chocolate... space chocolate. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] wilde gewoon cool zijn, zoals [PAWN_possessive] favoriete superheld All-Might. [PAWN_pronoun] droomde ervan om op avontuur in de ruimte te gaan en nieuwe werelden te verkennen. [PAWN_pronoun] droomde ook van chocolade... ruimtechocolade.</desc>
 	</SpaceNerd97>
 
 	<!-- Taten "Tater" Stamm, Male, Adulthood -->
 	<SpaceRaider71>
 		<!-- EN: space raider -->
-		<title>TODO</title>
+		<title>ruimtebandiet</title>
 		<!-- EN: Pirate -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piraat</titleShort>
 		<!-- EN: [PAWN_nameDef] was the leader of a spaceborne pirate crew. Skipping between the rimworlds, [PAWN_pronoun] became the feared enemy of many settlements. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was de leider van een piratenbemanning in de ruimte. Tussen de rimworlds werd [PAWN_pronoun] de gevreesde vijand van vele nederzettingen.</desc>
 	</SpaceRaider71>
 
 	<!-- Dominic "Byte" Byter, Male, Adulthood -->
 	<SpaceResearcher25>
 		<!-- EN: space researcher -->
-		<title>TODO</title>
+		<title>ruimtewetenschapper</title>
 		<!-- EN: researcher -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wetenschapper</titleShort>
 		<!-- EN: [PAWN_nameDef] inherited [PAWN_possessive] parents' ship and carried on their research.\n\n[PAWN_possessive] childhood experiences with diverse cultures allowed [PAWN_objective] to preserve [PAWN_possessive] caring nature despite spending most of [PAWN_possessive] life isolated in space. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] erfde het schip van [PAWN_possessive] ouders en zette hun onderzoek voort.\n\n[PAWN_possessive] ervaringen uit de kindertijd met diverse culturen zorgden ervoor dat [PAWN_objective] [PAWN_objective] zorgzame natuur kon behouden ondanks dat [PAWN_pronoun] het grootste deel van [PAWN_possessive] leven geïsoleerd in de ruimte door bracht.</desc>
 	</SpaceResearcher25>
 
 	<!-- Joshua Macer, Male, Childhood -->
 	<SpacerOrphan77>
 		<!-- EN: spacer orphan -->
-		<title>TODO</title>
+		<title>spacer wees</title>
 		<!-- EN: orphan -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wees</titleShort>
 		<!-- EN: Born among stars to a spacefaring family, the [PAWN_nameDef] was the only survivor when [PAWN_possessive] family's ship was destroyed.\n\n[PAWN_pronoun] was forced to find a way to survive, and seek the joy of knowing another family. -->
-		<desc>TODO</desc>
+		<desc>Geboren tussen de sterren in een ruimtevarende familie, was [PAWN_nameDef] de enige overlevende toen het schip van [PAWN_possessive] familie werd vernietigd.\n\n[PAWN_pronoun] werd gedwongen een manier te vinden om te overleven een andere familie te leren kennen.</desc>
 	</SpacerOrphan77>
 
 	<!-- Ryan Jung, Male, Adulthood -->
 	<SpaceshipChef41>
 		<!-- EN: spaceship chef -->
-		<title>TODO</title>
+		<title>ruimteschip chef</title>
 		<!-- EN: chef -->
-		<titleShort>TODO</titleShort>
+		<titleShort>chef</titleShort>
 		<!-- EN: [PAWN_nameDef] got a spot on a ship by becoming the ship's cook. [PAWN_pronoun] enjoyed cooking and helping the doctor clean wounds, but [PAWN_pronoun] never got used to cleaning the dishes. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] kreeg een plek op een schip door de scheepskok te worden. [PAWN_pronoun] genoot van koken en hielp de dokter met het schoonmaken van wonden, maar [PAWN_pronoun] raakte nooit gewend aan het afwassen.</desc>
 	</SpaceshipChef41>
 
 	<!-- Dustin "Duster" Bishop, Male, Adulthood -->
 	<SpaceshipSalesman34>
 		<!-- EN: spaceship salesman -->
-		<title>TODO</title>
+		<title>ruimteschip verkoper</title>
 		<!-- EN: salesman -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verkoper</titleShort>
 		<!-- EN: [PAWN_nameDef] tried [PAWN_possessive] hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, [PAWN_pronoun] found [PAWN_possessive] true calling as a spacecraft salesman. Specializing in recreational spacecraft, [PAWN_possessive] smooth talk and charming nature served [PAWN_objective] well. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] probeerde verschillende banen, waaronder het bouwen van konijnenkooien en het werken aan een onderzoeksproject voor mutant-tarwe. Ten slotte vond [PAWN_pronoun] [PAWN_possessive] echte roeping als verkoper van ruimtevaartuigen. [PAWN_pronoun] specialiseerde zich in recreatieve ruimtevaartuigen. [PAWN_possessive] charme en spreekvaardigheid kwamen goed uit de verf en kwamen goed van pas bij [PAWN_objective].</desc>
 	</SpaceshipSalesman34>
 
 	<!-- Taten "Tater" Stamm, Male, Childhood -->
 	<SpaceSmuggler6>
 		<!-- EN: space smuggler -->
-		<title>TODO</title>
+		<title>ruimtesmokkelaar</title>
 		<!-- EN: smuggler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>smokkelaar</titleShort>
 		<!-- EN: [PAWN_nameDef]'s parents used [PAWN_objective] to help smuggle contraband between a cluster of rimworlds.\n\nAided by [PAWN_possessive] small size, [PAWN_nameDef] became very adept at carrying out [PAWN_possessive] parents' missions, learning weaponry, negotiations, and most of all smuggling. -->
-		<desc>TODO</desc>
+		<desc>De ouders van [PAWN_nameDef] gebruikten [PAWN_objective] om smokkelwaar tussen een cluster van rimworlds te smokkelen.\n\nGeholpen door [PAWN_possessive] klein formaat, werd [PAWN_nameDef] zeer bedreven in het uitvoeren van de missies van [PAWN_possessive] ouders, het omgaan met wapens, onderhandelingen, en vooral smokkel.</desc>
 	</SpaceSmuggler6>
 
 	<!-- Zachary "Zebo" Edson, Male, Adulthood -->
 	<SpaceStationCook63>
 		<!-- EN: space station cook -->
-		<title>TODO</title>
+		<title>ruimtestationskok</title>
 		<!-- EN: cook -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kok</titleShort>
 		<!-- EN: The space station [PAWN_nameDef] came from was far from any populated planets, and was in itself understaffed. For this reason, [PAWN_nameDef] was forced to learn how to cook in order to keep the crew alive. While [PAWN_pronoun] appreciated this learning opportunity, [PAWN_pronoun] didn't appreciate the criticism which came with it, and has had self-esteem issues ever since. -->
-		<desc>TODO</desc>
+		<desc>Het ruimtestation waar [PAWN_nameDef] vandaan kwam was ver verwijderd van alle bewoonde planeten en was op zichzelf onderbemand. Om deze reden werd [PAWN_nameDef] gedwongen om te leren koken om de bemanning in leven te houden. Hoewel [PAWN_pronoun] deze leermogelijkheid op prijs stelde, waardeerde [PAWN_pronoun] de kritiek die ermee gepaard ging niet en heeft sindsdien problemen met [PAWN_possessive] gevoel van eigenwaarde.</desc>
 	</SpaceStationCook63>
 
 	<!-- Frederic "Bennett" Bennett, Male, Adulthood -->
 	<SpaceTechnician29>
 		<!-- EN: space technician -->
-		<title>TODO</title>
+		<title>ruimtetechneut</title>
 		<!-- EN: technician -->
-		<titleShort>TODO</titleShort>
+		<titleShort>techneut</titleShort>
 		<!-- EN: [PAWN_nameDef] finally managed to flee [PAWN_possessive] criminal life by getting a maintenance job on a nearby space station. [PAWN_pronoun] performed multiple repairing and building operations. [PAWN_pronoun] also used to participate in basic research activities and often defused co-workers' arguments. [PAWN_pronoun] never liked doing art. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] slaagde er eindelijk in om [PAWN_possessive] criminele leven te ontvluchten door een onderhoudsbaan te krijgen op een nabijgelegen ruimtestation. [PAWN_pronoun] voerde daar meerdere reparatie- en bouwwerkzaamheden uit. [PAWN_pronoun] nam ook deel aan fundamentele onderzoeksactiviteiten en maakte vaak een einde aan onenigheden tussen collega's. [PAWN_pronoun] hield nooit van kunst.</desc>
 	</SpaceTechnician29>
 
 	<!-- Trevor "Trev" Austin, Male, Adulthood -->
 	<SpaceTrafficker68>
 		<!-- EN: space trafficker -->
-		<title>TODO</title>
+		<title>ruimtesmokkelaar</title>
 		<!-- EN: trafficker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>smokkelaar</titleShort>
 		<!-- EN: [PAWN_nameDef] discovered [PAWN_pronoun] was heir of [PAWN_possessive] distant uncle's weapons-trading business.\n\nTo protect the future of the company [PAWN_pronoun] went through extensive military training, in case of any "unforeseen circumstances". -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] ontdekte dat [PAWN_pronoun] erfgenaam was van de wapenhandel van [PAWN_possessive] verre oom.\n\nOm de toekomst van het bedrijf te beschermen heeft [PAWN_pronoun] een uitgebreide militaire training gevolgd in geval van "onvoorziene omstandigheden".</desc>
 	</SpaceTrafficker68>
 
 	<!-- Owen "Cali" Clarke, Male, Childhood -->
 	<SpaceyachtPilot89>
 		<!-- EN: Spaceyacht pilot -->
-		<title>TODO</title>
+		<title>ruimtejachtpiloot</title>
 		<!-- EN: Pilot -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piloot</titleShort>
 		<!-- EN: [PAWN_nameDef] ferried wealthy businessmen and politicians to and from his home world.\n\n        Witnessing the depths of hedonism these people descended to changed [PAWN_objective] in ways not even [PAWN_pronoun] understood.\n       -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht rijke zakenmensen en politici van en naar zijn thuiswereld.\n\nToen [PAWN_pronoun] de diepten van het hedonisme waarin deze mensen afdaalden zag, veranderde [PAWN_pronoun] op manieren die zelfs [PAWN_pronoun] niet begreep.</desc>
 	</SpaceyachtPilot89>
 
 	<!-- Markus "Markus" Wienholz, Male, Adulthood -->
 	<SpecialForces53>
 		<!-- EN: special forces -->
-		<title>TODO</title>
+		<title>commando</title>
 		<!-- EN: specialist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>specialist</titleShort>
 		<!-- EN: Give me a reason to kill - a good reason!\n\nMarkus was a soldier and a skilled one - so skilled that [PAWN_pronoun] entered the special forces to battle militants and xenohuman raiders. [PAWN_pronoun] never imagined [PAWN_objective]self as lone hero, but [PAWN_pronoun] played [PAWN_possessive] part in the group well. -->
-		<desc>TODO</desc>
+		<desc>Geef me een reden om te doden - een goede reden!\n\nMarkus was een soldaat en een bekwame ook - zo bekwaam dat [PAWN_pronoun] bij de speciale strijdkrachten ging om militanten en xenohuman-overvallers te bestrijden. [PAWN_pronoun] had nooit gedacht dat [PAWN_pronoun] een eenzame held zou zijn, maar [PAWN_pronoun] speelde [PAWN_possessive] rol in de groep goed.</desc>
 	</SpecialForces53>
 
 	<!-- Russell "Rusty" Shackleford, Male, Childhood -->
 	<SpeederRacer71>
 		<!-- EN: speeder racer -->
-		<title>TODO</title>
+		<title>speeder coureur</title>
 		<!-- EN: racer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>coureur</titleShort>
 		<!-- EN: [PAWN_nameDef] was the son of a fern farmer in the towering forests of Khalderia.\n\n[PAWN_pronoun] found [PAWN_possessive] first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of [PAWN_possessive] homeworld. The seedy underworld of racing also forced [PAWN_objective] to learn to defend [PAWN_objective]self with a quick word or a quicker shot. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was de zoon van een varenboer in de torenhoge bossen van Khalderia.\n\n[PAWN_pronoun] vond [PAWN_possessive] eerste liefde in speederracen, door de enorme luifels en prachtige vergezichten van [PAWN_possessive] thuiswereld. De louche onderwereld van het racen dwong [PAWN_objective] ook om te leren zichzelf te verdedigen met een snel woord of een sneller schot.</desc>
 	</SpeederRacer71>
 
 	<!-- Benn "Ben" Tannen, Male, Adulthood -->
 	<Spiceminer9>
 		<!-- EN: spiceminer -->
-		<title>TODO</title>
+		<title>speciedelver</title>
 		<!-- EN: spiceminer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>speciedelver</titleShort>
 		<!-- EN: [PAWN_nameDef] made [PAWN_possessive] mark on the universe as a spice miner assigned to the lucrative mining colony of Rural Pen’The.\n\nLittle did [PAWN_pronoun] know, [PAWN_nameDef] was about to embark on a career path that would change [PAWN_possessive] life. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] drukte [PAWN_possessive] stempel op het universum als een speciedelver toegewezen aan de lucratieve mijnkolonie Rural Pen'The.\n\n[PAWN_nameDef] kon niet weten dat [PAWN_pronoun] op het punt stond een carrière te beginnen die [PAWN_possessive] leven zou veranderen.</desc>
 	</Spiceminer9>
 
 	<!-- Juan Manuel "Lance" Hueso, Male, Childhood -->
 	<SpoiledBrat59>
 		<!-- EN: spoiled brat -->
-		<title>TODO</title>
+		<title>verwend nest</title>
 		<!-- EN: brat -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verwende</titleShort>
 		<!-- EN: Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.\n\n[PAWN_pronoun] was expected to become one of the best doctors in the world. -->
-		<desc>TODO</desc>
+		<desc>Geboren in een rijke familie, kreeg [PAWN_nameDef] alles en ontwikkelde nooit een basisarbeidsethos of de basis van een niet-afhankelijke persoonlijkheid.\n\nMen verwachtte dat [PAWN_pronoun] een van de beste artsen ter wereld zou worden.</desc>
 	</SpoiledBrat59>
 
 	<!-- Rebecca "Lynx" Edwards, Female, Childhood -->
 	<SpoiledChild33>
 		<!-- EN: spoiled child -->
-		<title>TODO</title>
+		<title>verwend kind</title>
 		<!-- EN: spoiled -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verwende</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up the child of an industrious colony manager. In this position, most manual and dangerous tasks were forbidden by [PAWN_possessive] parents, but on the rim everyone has to dirty their hands. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op als kind van een ijverige koloniebeheerder. In deze positie waren de meeste handmatige en gevaarlijke taken verboden door [PAWN_possessive] ouders, maar op de rim moet iedereen zijn handen vuil maken.</desc>
 	</SpoiledChild33>
 
 	<!-- Jenniferium "Jenni" Chenni, Female, Childhood -->
 	<SpoiledChild80>
 		<!-- EN: spoiled child -->
-		<title>TODO</title>
+		<title>verwend kind</title>
 		<!-- EN: spoiled -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verwende</titleShort>
 		<!-- EN: [PAWN_nameDef] was the child of an industrious space engineer. [PAWN_possessive] parents forbade most manual and dangerous tasks, so [PAWN_pronoun] learned art and music instead.\n\n[PAWN_pronoun] loved animals, but [PAWN_possessive] parents never let [PAWN_objective] have a pet - though [PAWN_pronoun] played with other people's pets a lot. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was het kind van een ijverige ruimtevaartingenieur. [PAWN_possessive] ouders verboden de meeste handmatige en gevaarlijke taken, dus [PAWN_pronoun] leerde in plaats daarvan kunst en muziek.\n\n[PAWN_pronoun] hield van dieren, maar [PAWN_possessive] ouders lieten [PAWN_objective] nooit een huisdier hebben, hoewel [PAWN_pronoun] veel met huisdieren van andere mensen speelde.</desc>
 	</SpoiledChild80>
 
 	<!-- Jerry "Jerbear" Welch, Male, Adulthood -->
 	<Spy58>
 		<!-- EN: spy -->
-		<title>TODO</title>
+		<title>spion</title>
 		<!-- EN: spy -->
-		<titleShort>TODO</titleShort>
+		<titleShort>spion</titleShort>
 		<!-- EN: [PAWN_nameDef] was trained by [PAWN_possessive] government in infiltration and espionage. [PAWN_pronoun] learned to keep a cool head and to talk [PAWN_possessive] way out of tight situations. When talking didn't work, [PAWN_pronoun] was capable of more violent direct action. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd getraind door [PAWN_possessive] overheid in infiltratie en spionage. [PAWN_pronoun] leerde het hoofd koel te houden en zich uit krappe situaties te praten. Als praten niet werkte, was [PAWN_pronoun] in staat tot gewelddadiger directe actie.</desc>
 	</Spy58>
 
 	<!-- Viktor "Viktor" Valentine, Male, Childhood -->
 	<Stableboy49>
 		<!-- EN: stableboy -->
-		<title>TODO</title>
+		<title>staljongen</title>
 		<!-- EN: stableboy -->
-		<titleShort>TODO</titleShort>
+		<titleShort>staljongen</titleShort>
 		<!-- EN: [PAWN_nameDef] was a stableboy on a medieval planet, mucking dung almost every day to earn [PAWN_possessive] keep.\n\nBy the time [PAWN_pronoun] was exiting childhood, [PAWN_nameDef] had saved up enough money to pay a space trader to take [PAWN_objective] offworld. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een staljongen op een middeleeuwse planeet, die bijna elke dag de stal uitmestte om [PAWN_possessive] levensonderhoud te verdienen.\n\nTegen de tijd dat [PAWN_pronoun] uit zijn kindertijd kwam, had [PAWN_nameDef] genoeg geld gespaard om een ruimtevaarthandelaar te betalen om [PAWN_objective] mee de ruimte in te nemen.</desc>
 	</Stableboy49>
 
 	<!-- Drew "Strapping" Logan, Male, Adulthood -->
 	<StalwartFarmer21>
 		<!-- EN: stalwart farmer -->
-		<title>TODO</title>
+		<title>stoere boer</title>
 		<!-- EN: farmer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>boer</titleShort>
 		<!-- EN: With the farm under constant threat from brigands, [PAWN_nameDef] learned to defend [PAWN_objective]self with [PAWN_possessive] father's hunting rifle. [PAWN_pronoun] also mastered how to construct fences to keep livestock in and the local wildlife out. [PAWN_nameDef] tried to paint a picture of [PAWN_possessive] home and learned [PAWN_pronoun] can only draw scribbles and ducks. -->
-		<desc>TODO</desc>
+		<desc>Terwijl de boerderij constant werd bedreigd door struikrovers, leerde [PAWN_nameDef] om zichzelf te verdedigen met [PAWN_possessive] vaders jachtgeweer. [PAWN_pronoun] leerde ook hoe [PAWN_pronoun] hekken moest bouwen om het vee binnen te houden en de plaatselijke fauna buiten. [PAWN_nameDef] probeerde een beeld te schetsen van [PAWN_possessive] huis en leerde dat [PAWN_pronoun] alleen krabbels en eenden kan tekenen.</desc>
 	</StalwartFarmer21>
 
 	<!-- Sa'Bikk "Sab" Saleosy, Male, Adulthood -->
 	<StalwartFarmer90>
 		<!-- EN: stalwart farmer -->
-		<title>TODO</title>
+		<title>stoere boer</title>
 		<!-- EN: farmer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>boer</titleShort>
 		<!-- EN: With the farm under constant threat from brigands, [PAWN_nameDef] learned to defend [PAWN_objective]self with [PAWN_possessive] father's rifle. [PAWN_pronoun] also mastered how to construct walls to keep livestock in and predators out.\n\n[PAWN_pronoun] once tried to paint a picture of [PAWN_possessive] home, but discovered that [PAWN_pronoun] could only draw scribbles and ducks. -->
-		<desc>TODO</desc>
+		<desc>Terwijl de boerderij constant werd bedreigd door struikrovers, leerde [PAWN_nameDef] om zichzelf te verdedigen met [PAWN_possessive] vaders jachtgeweer. [PAWN_pronoun] leerde ook hoe [PAWN_pronoun] hekken moest bouwen om het vee binnen te houden en de plaatselijke fauna buiten. [PAWN_nameDef] probeerde een beeld te schetsen van [PAWN_possessive] huis en leerde dat [PAWN_pronoun] alleen krabbels en eenden kan tekenen.</desc>
 	</StalwartFarmer90>
 
 	<!-- Sjoerd "Bowman" Lukas, Either, Adulthood -->
 	<StarfighterPilot79>
 		<!-- EN: starfighter pilot -->
-		<title>TODO</title>
+		<title>starfighter-piloot</title>
 		<!-- EN: pilot -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piloot</titleShort>
 		<!-- EN: After years of training and drilling, [PAWN_nameDef] finally became a starfighter pilot.\n\nHundreds of combat missions later, [PAWN_pronoun] grew bored and started seeking newer thrills. [PAWN_pronoun] joined a band of space pirates, which eagerly welcomed [PAWN_objective] because of [PAWN_possessive] piloting skill. -->
-		<desc>TODO</desc>
+		<desc>Na jaren van training en oefeningen werd [PAWN_nameDef] eindelijk een starfighter-piloot.\n\nHonderden gevechtsmissies later raakte [PAWN_pronoun] verveeld en ging op zoek naar nieuwe sensaties. [PAWN_pronoun] sloot zich aan bij een bende ruimtepiraten, die [PAWN_objective] gretig verwelkomden vanwege de [PAWN_possessive] pilootvaardigheid.</desc>
 	</StarfighterPilot79>
 
 	<!-- Sam "Nerhesi" Wissa, Male, Childhood -->
 	<StarforceCadet79>
 		<!-- EN: starforce cadet -->
-		<title>TODO</title>
+		<title>starforce kadet</title>
 		<!-- EN: cadet -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kadet</titleShort>
 		<!-- EN: Raised on Amen-Ti, glitterworld capital of the Star Empire, [PAWN_nameFull] had an easy childhood.\n\nAs a youth, [PAWN_nameDef] decided that joining the Starforce would be [PAWN_possessive] way of giving back to the Empire. -->
-		<desc>TODO</desc>
+		<desc>Opgegroeid in Amen-Ti, de glitterwereldhoofdstad van het Sterrenimperium, had [PAWN_nameFull] een gemakkelijke jeugd.\n\nAls jongere besloot [PAWN_nameDef] dat toetreden tot de Starforce [PAWN_possessive] manier zou zijn om iets terug te doen voor het Rijk.</desc>
 	</StarforceCadet79>
 
 	<!-- Frank "Frankie" Aetheria, Male, Adulthood -->
 	<StarKnight5>
 		<!-- EN: star knight -->
-		<title>TODO</title>
+		<title>ruimteridder</title>
 		<!-- EN: knight -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ridder</titleShort>
 		<!-- EN: Abducted from [PAWN_possessive] medieval homeworld, [PAWN_nameDef] later escaped [PAWN_possessive] captors via an impressive display of swordsmanship.\n\nFor a moment, as [PAWN_pronoun] drifted in the escape pod, [PAWN_possessive] childhood dream of becoming a knight among the stars felt so real. Then [PAWN_pronoun] crash-landed.\n -->
-		<desc>TODO</desc>
+		<desc>Na te zijn ontvoerd van [PAWN_possessive] middeleeuwse thuiswereld, ontsnapte [PAWN_nameDef] aan [PAWN_possessive] ontvoerders via een indrukwekkend vertoon van zwaardvechtkunst.\n\nEven, terwijl [PAWN_pronoun] in de ontsnappingscapsule ronddreef, voelde [PAWN_possessive] kinderdroom om een ridder tussen de sterren te worden binnen handbereik. Toen maakte [PAWN_pronoun] een noodlanding.</desc>
 	</StarKnight5>
 
 	<!-- Luc "Doc" Roach, Male, Adulthood -->
 	<StarshipDoctor37>
 		<!-- EN: starship doctor -->
-		<title>TODO</title>
+		<title>ruimteschip dokter</title>
 		<!-- EN: doctor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>dokter</titleShort>
 		<!-- EN: [PAWN_nameDef] was a doctor on a starship. [PAWN_pronoun] was a brilliant surgeon and dabbled in research of [PAWN_possessive] own. However, [PAWN_pronoun] was quite reclusive and never had the best bedside manner. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een dokter op een ruimteschip. [PAWN_pronoun] was een briljante chirurg en deed zelf onderzoek. [PAWN_pronoun] was echter nogal teruggetrokken en had nooit de beste bedmanieren.</desc>
 	</StarshipDoctor37>
 
 	<!-- Frank "Frankie" Aetheria, Male, Childhood -->
 	<StarSquire9>
 		<!-- EN: star squire -->
-		<title>TODO</title>
+		<title>ruimteschildknaap</title>
 		<!-- EN: squire -->
-		<titleShort>TODO</titleShort>
+		<titleShort>schildknaap</titleShort>
 		<!-- EN: Born on a medieval world, [PAWN_nameDef]'s first memory is of gazing up into the night's sky. \n\nEver since, [PAWN_pronoun] dreamed of squiring for a knight amidst the star-filled heavens. [PAWN_possessive] focus on that vision left [PAWN_objective] somewhat single-minded. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren op een middeleeuwse wereld. [PAWN_possessive] eerste herinnering is van het staren naar de nachtelijke hemel.\n\nSindsdien droomde [PAWN_pronoun] ervan om voor ridder te worden te midden van de met sterren gevulde hemelen. [PAWN_possessive] focus op die visie maakte [PAWN_objective] enigszins halsstarrig.</desc>
 	</StarSquire9>
 
 	<!-- François "Zeiph" Schmitt, Male, Adulthood -->
 	<StateEngineer60>
 		<!-- EN: state engineer -->
-		<title>TODO</title>
+		<title>staatsingenieur</title>
 		<!-- EN: engineer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ingenieur</titleShort>
 		<!-- EN: [PAWN_nameDef] enrolled in the state weapons research program.\n\nWhile brilliant in [PAWN_possessive] work, [PAWN_pronoun] was so enthusiastic in testing [PAWN_possessive] creations that [PAWN_pronoun] accidentally wounded some colleagues and was marked as unfit for service. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] nam deel aan het onderzoeksprogramma voor staatswapens.\n\nHoewel [PAWN_pronoun] briljant was, was [PAWN_pronoun] zo enthousiast in het testen van [PAWN_possessive] creaties dat [PAWN_pronoun] per ongeluk enkele collega's verwondde en als ongeschikt werd aangemerkt.</desc>
 	</StateEngineer60>
 
 	<!-- Jordan "Edmund" Nelson, Male, Adulthood -->
 	<StationSecurity38>
 		<!-- EN: station security -->
-		<title>TODO</title>
+		<title>stationsbeveiliger</title>
 		<!-- EN: security -->
-		<titleShort>TODO</titleShort>
+		<titleShort>beveiliger</titleShort>
 		<!-- EN: [PAWN_nameDef] was commissioned as a special constable on a network of space stations. There [PAWN_pronoun] prevented illegal human trafficking.\n\nOnce, fire broke out on the station, and [PAWN_pronoun] saved many from the flames. Since then, [PAWN_pronoun] has avoided fires. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd aangesteld als een speciale agent op een netwerk van ruimtestations. Daar voorkwam [PAWN_pronoun] illegale mensenhandel.\n\nEr brak brand uit op het station en [PAWN_pronoun] redde velen uit de vlammen. Sindsdien heeft [PAWN_pronoun] branden vermeden.</desc>
 	</StationSecurity38>
 
 	<!-- Benjamin Stainforth, Male, Childhood -->
 	<StationWhelp94>
 		<!-- EN: station whelp -->
-		<title>TODO</title>
+		<title>sationswees</title>
 		<!-- EN: whelp -->
-		<titleShort>TODO</titleShort>
+		<titleShort>weeskind</titleShort>
 		<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood as a penniless orphan living on a space station. [PAWN_pronoun] managed to scrape by doing filthy jobs and stealing. [PAWN_pronoun] became so violent due to poor treatment by [PAWN_possessive] “betters” that [PAWN_pronoun] was banished from the station, just to be picked up by space pirates. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht [PAWN_possessive] jeugd door als een straatarm weeskind dat op een ruimtestation woonde. [PAWN_pronoun] slaagde erin een bestaan bijeen te schrapen door smerige klussen te doen en te stelen. [PAWN_pronoun] werd zo gewelddadig vanwege de slechte behandeling door [PAWN_possessive] "beteren" dat [PAWN_pronoun] van het station werd verbannen, om vervolgens opgepikt te worden door ruimtepiraten.</desc>
 	</StationWhelp94>
 
 	<!-- Dennison "Superbass" Richter, Male, Childhood -->
 	<SteamworldTinker38>
 		<!-- EN: steamworld tinker -->
-		<title>TODO</title>
+		<title>stoomwereld uitvinder</title>
 		<!-- EN: tinker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>uitvinder</titleShort>
 		<!-- EN: In the slums of a steamworld, [PAWN_nameDef] developed a fascination with machines and contraptions. [PAWN_pronoun] found [PAWN_pronoun] preferred their company to that of other people.\n\n[PAWN_possessive] remarkable dexterity earned [PAWN_objective] a steady stream of pocket change, and [PAWN_pronoun] spent every penny on spare parts and tools to play with. -->
-		<desc>TODO</desc>
+		<desc>In de sloppenwijken van een stoomwereld ontwikkelde [PAWN_nameDef] een fascinatie voor machines en constructies. [PAWN_pronoun] ontdekte dat [PAWN_pronoun] de voorkeur gaf aan hun gezelschap boven dat van andere mensen.\n\n[PAWN_possessive] opmerkelijke behendigheid leverde [PAWN_objective] een gestage stroom wisselgeld op, en [PAWN_pronoun] besteedde elke cent aan reserveonderdelen en gereedschap om mee te spelen.</desc>
 	</SteamworldTinker38>
 
 	<!-- Xiaoer Wang, Male, Adulthood -->
 	<StellarPirate10>
 		<!-- EN: stellar pirate -->
-		<title>TODO</title>
+		<title>ruimtepiraat</title>
 		<!-- EN: pirate -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piraat</titleShort>
 		<!-- EN: [PAWN_nameDef] was captain of a pirate ship. [PAWN_pronoun] and [PAWN_possessive] crew made their living capturing traders who wandered off-course.\n\n[PAWN_pronoun] was known for [PAWN_possessive] balanced approach to problems, building, fighting, or negotiating as needed. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was kapitein van een piratenschip. [PAWN_pronoun] en [PAWN_possessive] bemanning verdienden de kost met het vangen van handelaren die van hun koers afdwaalden.\n\n[PAWN_pronoun] stond bekend om [PAWN_possessive] evenwichtige benadering van problemen: [PAWN_pronoun] bouwde, vocht of onderhandelde al naar gelang de situatie.</desc>
 	</StellarPirate10>
 
 	<!-- Larusa Rynyk, Female, Adulthood -->
 	<StilettoAssassin34>
 		<!-- EN: stiletto assassin -->
-		<title>TODO</title>
+		<title>stiletto sluipmoordenaar</title>
 		<!-- EN: assassin -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sluipmoordenaar</titleShort>
 		<!-- EN: Because of [PAWN_possessive] skills, [PAWN_nameDef] developed a sense of superiority. In time, [PAWN_pronoun] lost [PAWN_possessive] sense of empathy. [PAWN_pronoun] often got into fights, and discovered how easy it is to kill a person.\n\nAfter realizing [PAWN_possessive] talents, [PAWN_pronoun] became one of the most efficient assassins in the system. -->
-		<desc>TODO</desc>
+		<desc>Vanwege [PAWN_possessive] vaardigheden ontwikkelde [PAWN_nameDef] een gevoel van superioriteit. Na verloop van tijd verloor [PAWN_pronoun] [PAWN_possessive] gevoel voor empathie. [PAWN_pronoun] raakte vaak in gevechten verzeild en ontdekte hoe gemakkelijk het is om een persoon te doden.\n\nNadat [PAWN_possessive] talenten zich ontwikkelden, werd [PAWN_pronoun] een van de meest efficiënte sluipmoordenaars in het systeem.</desc>
 	</StilettoAssassin34>
 
 	<!-- Ryusho "Ryu" Yosei, Male, Adulthood -->
 	<Storyteller63>
 		<!-- EN: storyteller -->
-		<title>TODO</title>
+		<title>verhalenverteller</title>
 		<!-- EN: fabulist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>fabulist</titleShort>
 		<!-- EN: [PAWN_nameDef] traveled [PAWN_possessive] world recounting the legends that [PAWN_pronoun] had studied.\n\nObsessed with the legends of [PAWN_possessive] people, [PAWN_nameDef] seeks someone who can help [PAWN_objective] grow scales on [PAWN_possessive] skin, so [PAWN_pronoun] too can be as the ancients were. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] reisde over [PAWN_possessive] wereld en vertelde over de legendes die [PAWN_pronoun] had bestudeerd.\n\nGeobsedeerd door de legendes van [PAWN_possessive] volk, zoekt [PAWN_nameDef] iemand die [PAWN_objective] kan helpen met het laten groeien van schubben op [PAWN_objective] huid, zodat [PAWN_pronoun] ook kan zijn zoals de voorouders waren.</desc>
 	</Storyteller63>
 
 	<!-- Benn "Ben" Tannen, Male, Childhood -->
 	<Straggler71>
 		<!-- EN: straggler -->
-		<title>TODO</title>
+		<title>achterblijver</title>
 		<!-- EN: straggler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>achterblijver</titleShort>
 		<!-- EN: Despite being blessed with parental love, [PAWN_nameDef] hardly knew [PAWN_possessive] parents.\n\n[PAWN_pronoun] was frequently left to [PAWN_possessive] own devices which meant more time devoted to exploring [PAWN_possessive] interests…and getting into trouble. -->
-		<desc>TODO</desc>
+		<desc>Ondanks dat [PAWN_pronoun] gezegend was met ouderliefde, kende [PAWN_nameDef] nauwelijks [PAWN_possessive] ouders.\n\n[PAWN_pronoun] werd vaak aan zichzelf overgelaten, wat betekende dat [PAWN_pronoun] meer tijd overhield om [PAWN_possessive] eigen interesses te onderzoeken... en in de problemen te komen.</desc>
 	</Straggler71>
 
 	<!-- Levin "Levin" Lossfelt, Male, Childhood -->
 	<StreetChild4>
 		<!-- EN: street child -->
-		<title>TODO</title>
+		<title>straatkind</title>
 		<!-- EN: street -->
-		<titleShort>TODO</titleShort>
+		<titleShort>straatkind</titleShort>
 		<!-- EN: [PAWN_nameDef]'s drug-addicted mother died, leaving [PAWN_objective] an orphan at a young age. To stay alive, [PAWN_pronoun] resorted to theft, and when necessary, prostitution. When [PAWN_nameDef] was caught stealing from a church, the priestess saw a wounded but smart child, and took [PAWN_objective] in to give [PAWN_objective] a second chance at life. -->
-		<desc>TODO</desc>
+		<desc>De drugsverslaafde moeder van [PAWN_nameDef] stierf, en liet [PAWN_objective] op jonge leeftijd als wees achter. Om in leven te blijven, nam [PAWN_pronoun] zijn toevlucht tot diefstal en, indien nodig, prostitutie. Toen [PAWN_nameDef] betrapt werd tijdens een inbraak in een kerk, zag de priesteres een beschadigd maar slim kind, en adopteerde [PAWN_objective] om [PAWN_objective] een tweede kans te geven.</desc>
 	</StreetChild4>
 
 	<!-- Azlan Belcourt, Male, Childhood -->
 	<StreetKid19>
 		<!-- EN: street kid -->
-		<title>TODO</title>
+		<title>straatkind</title>
 		<!-- EN: street kid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>straatkind</titleShort>
 		<!-- EN: Growing up on the streets and fields of a rimworld, [PAWN_nameDef]'s [PAWN_possessive] only friend was a dog named Rest. The pair scraped by, finding just enough food to survive.\n\nWhen [PAWN_pronoun] was 13 years old, a criminal group took [PAWN_objective] under their wing. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in de straten en velden van een rimworld, en [PAWN_possessive] enige vriend was een hond genaamd Rest. Het paar vond net genoeg voedsel om te overleven.\n\nToen [PAWN_pronoun] 13 jaar oud was, nam een criminele groep [PAWN_objective] onder hun hoede.</desc>
 	</StreetKid19>
 
 	<!-- Lancelot "Lance" Hale, Male, Childhood -->
 	<StreetPeddler66>
 		<!-- EN: street peddler -->
-		<title>TODO</title>
+		<title>straatventer</title>
 		<!-- EN: peddler -->
-		<titleShort>TODO</titleShort>
+		<titleShort>venter</titleShort>
 		<!-- EN: Growing up on an industrial midworld where robberies and muggings weren't uncommon, [PAWN_nameDef] helped support [PAWN_possessive] family by making small trinkets and novelties to sell to passers-by.\n\n[PAWN_pronoun] learned early on that it wasn't always what [PAWN_pronoun] knew, but who [PAWN_pronoun] knew that would get [PAWN_objective] far in life. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een industriële middenwereld waar overvallen en berovingen niet ongewoon waren. [PAWN_pronoun] ondersteunde [PAWN_possessive] familie door kleine snuisterijen en nieuwigheden te maken om aan voorbijgangers te verkopen.\n\n[PAWN_pronoun] leerde al vroeg dat het niet altijd wat [PAWN_pronoun] wist dat [PAWN_objective] ver in het leven zou brengen, maar wie [PAWN_pronoun] kende.</desc>
 	</StreetPeddler66>
 
 	<!-- Ryoko "Onesan" Minese, Female, Childhood -->
 	<StreetUrchin11>
 		<!-- EN: street urchin -->
-		<title>TODO</title>
+		<title>straatschoffie</title>
 		<!-- EN: grifter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>schoffie</titleShort>
 		<!-- EN: After running away from home, [PAWN_nameDef] had to live on the streets.\n\n[PAWN_pronoun] grew up fast, and learned early that [PAWN_pronoun] had to figure out how to fool people into connecting with her. -->
-		<desc>TODO</desc>
+		<desc>Nadat [PAWN_nameDef] van huis was weggelopen, moest [PAWN_pronoun] op straat leven.\n\n[PAWN_pronoun] groeide snel op en leerde al vroeg dat [PAWN_pronoun] moest bedenken hoe [PAWN_pronoun] mensen over kon halen zich om met haar te verbinden.</desc>
 	</StreetUrchin11>
 
 	<!-- Vonriel "Von" Vimes, Male, Childhood -->
 	<StreetUrchin45>
 		<!-- EN: street urchin -->
-		<title>TODO</title>
+		<title>straatschoffie</title>
 		<!-- EN: street rat -->
-		<titleShort>TODO</titleShort>
+		<titleShort>straatrat</titleShort>
 		<!-- EN: Born to a poor family, [PAWN_nameDef] was a sickly child who never quite developed the strength of [PAWN_possessive] siblings.\n\n[PAWN_possessive] parents, unable to afford to provide for [PAWN_objective] and certain [PAWN_pronoun] couldn't pay [PAWN_possessive] own way, threw [PAWN_objective] to the streets. [PAWN_pronoun] learned hard and fast how to survive by any means necessary. -->
-		<desc>TODO</desc>
+		<desc>Geboren in een arm gezin, was [PAWN_nameDef] een ziekelijk kind dat nooit de kracht van [PAWN_possessive] broers en zussen ontwikkelde.\n\n[PAWN_possessive] ouders, die het zich niet konden veroorloven om voor [PAWN_objective] te zorgen en er van waren overtuigd dat [PAWN_pronoun] niet [PAWN_possessive] eigen kost kon verdienen, gooiden [PAWN_objective] op straat. [PAWN_pronoun] leerde hard en snel hoe te overleven met alle mogelijke middelen.</desc>
 	</StreetUrchin45>
 
 	<!-- Tyren Nordgren, Male, Childhood -->
 	<StreetUrchin53>
 		<!-- EN: street urchin -->
-		<title>TODO</title>
+		<title>straatschoffie</title>
 		<!-- EN: urchin -->
-		<titleShort>TODO</titleShort>
+		<titleShort>schoffie</titleShort>
 		<!-- EN: Born to a poor family on an urbworld, [PAWN_nameDef] was abandoned on the streets at a young age.\n\n[PAWN_pronoun] learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in [PAWN_possessive] life. -->
-		<desc>TODO</desc>
+		<desc>Geboren in een arm gezin op een urbwereld, werd [PAWN_nameDef] op jonge leeftijd achtergelaten op straat.\n\n[PAWN_pronoun] leerde stelen en doden om in de meedogenloze straten te overleven en verwierf daarbij vaardigheden in melee en afstandsgevechten. Er was weinig tijd voor gesprekken in [PAWN_possessive] leven.</desc>
 	</StreetUrchin53>
 
 	<!-- Anton "Waltz" Walther, Male, Childhood -->
 	<Student65>
 		<!-- EN: student -->
-		<title>TODO</title>
+		<title>student</title>
 		<!-- EN: student -->
-		<titleShort>TODO</titleShort>
+		<titleShort>student</titleShort>
 		<!-- EN: [PAWN_nameDef] studied chemistry and quantum mechanics for entertainment.\n\n[PAWN_pronoun] was very good at convincing others to do [PAWN_possessive] physical work, and made it a goal in life to avoid manual labor. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] studeerde scheikunde en kwantummechanica voor de lol.\n\n[PAWN_pronoun] was erg goed in het overtuigen van anderen om [PAWN_possessive] fysiek werk te doen, en maakte er een levensdoel van om handenarbeid te vermijden.</desc>
 	</Student65>
 
 	<!-- Nicholas "Squirrel" Rothaga, Male, Childhood -->
 	<StudentEngineer34>
 		<!-- EN: student engineer -->
-		<title>TODO</title>
+		<title>student ingenieur</title>
 		<!-- EN: engineer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ingenieur</titleShort>
 		<!-- EN: A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel {PAWN_gender ? Boy : Girl}”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective]. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef], een geniaal kind, kreeg een speciaal trainingsprogramma over lucht- en ruimtevaartoorlogvoering en techniek.\n\nOp een dag probeerde [PAWN_pronoun] vriendschap te sluiten met een eekhoorn door hem een armband te geven. De eekhoorn beet [PAWN_objective], waardoor [PAWN_objective] de bijnaam "Eekhoorn{PAWN_gender? jongen: meisje}" kreeg.\n\n[PAWN_nameDef] kwam tot de overtuiging dat handarbeid voor [PAWN_objective] minderwaardig was.</desc>
 	</StudentEngineer34>
 
 	<!-- Matis "Darkeye" Saro, Male, Childhood -->
 	<StudentSocialite89>
 		<!-- EN: student socialite -->
-		<title>TODO</title>
+		<title>sociaal student</title>
 		<!-- EN: socialite -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sociaal</titleShort>
 		<!-- EN: [PAWN_nameDef] learned politics in an elite training school for socially gifted students on Kalthas IV.\n\nWhile [PAWN_pronoun] was naturally adept at reading and manipulating people, [PAWN_pronoun] found no joy in it. [PAWN_pronoun] left the academy several years before graduation. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] leerde over politiek op een elite opleidingsschool voor sociaal begaafde studenten op Kalthas IV.\n\nHoewel [PAWN_pronoun] van nature bedreven was in het lezen en manipuleren van mensen, beleefde [PAWN_pronoun] er geen vreugde aan. [PAWN_pronoun] verliet de academie enkele jaren voordat hij afstudeerde.</desc>
 	</StudentSocialite89>
 
 	<!-- Asate Sharr, Male, Adulthood -->
 	<SuperSoldier95>
 		<!-- EN: super soldier -->
-		<title>TODO</title>
+		<title>supersoldaat</title>
 		<!-- EN: soldier -->
-		<titleShort>TODO</titleShort>
+		<titleShort>soldaat</titleShort>
 		<!-- EN: Product of a super-soldier program run by a now-deposed government, [PAWN_nameDef] was lost. [PAWN_pronoun] survived the final suicide attack on the enemy mothership. What now?\n\nFor the first time in [PAWN_possessive] life, [PAWN_pronoun] had no orders, no objectives. [PAWN_pronoun] rose from wreckage and strove towards uncertainty, towards freedom. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef], het product van een supersoldatenprogramma van een inmiddels afgezette regering, ging verloren. [PAWN_pronoun] overleefde de laatste zelfmoordaanval op het vijandelijke moederschip. Wat nu?\n\nVoor het eerst in [PAWN_possessive] leven had [PAWN_pronoun] geen orders, geen doelen. [PAWN_pronoun] rees op uit een wrak en streefde naar onzekerheid, naar vrijheid.</desc>
 	</SuperSoldier95>
 
 	<!-- Asate Sharr, Male, Childhood -->
 	<SuperSoldier99>
 		<!-- EN: super soldier -->
-		<title>TODO</title>
+		<title>supersoldaat</title>
 		<!-- EN: soldier -->
-		<titleShort>TODO</titleShort>
+		<titleShort>soldaat</titleShort>
 		<!-- EN: [PAWN_nameDef]'s government ran an experimental super-soldier development program. They kidnapped thousands of infants, conditioned their minds with drugs and machines, and trained them to fight.\n\nMost infants died, but [PAWN_nameDef] did not. [PAWN_pronoun] killed [PAWN_possessive] first man at age six, and was fighting in field operations not long after. -->
-		<desc>TODO</desc>
+		<desc>De regering van [PAWN_nameDef] voerde een experimenteel ontwikkelingsprogramma voor supersoldaten uit. Ze ontvoerden duizenden baby's, geconditioneerden hun geest met medicijnen en machines en trainden ze om te vechten.\n\nDe meeste baby's stierven, maar [PAWN_nameDef] niet. [PAWN_pronoun] doodde [PAWN_possessive] eerste man op zesjarige leeftijd en vocht niet lang daarna in veldoperaties.</desc>
 	</SuperSoldier99>
 
 	<!-- Frank "Isimiel" Laquinto, Male, Adulthood -->
 	<SystemLord77>
 		<!-- EN: system lord -->
-		<title>TODO</title>
+		<title>systeemheer</title>
 		<!-- EN: lord -->
-		<titleShort>TODO</titleShort>
+		<titleShort>heer</titleShort>
 		<!-- EN: For [PAWN_nameDef], ruling a country, or even a planet, was not good enough. [PAWN_pronoun] sought to expand [PAWN_possessive] influence across the system - by legal or extralegal means. -->
-		<desc>TODO</desc>
+		<desc>Voor [PAWN_nameDef] was het besturen van een land, of zelfs een planeet, niet goed genoeg. [PAWN_pronoun] probeerde [PAWN_possessive] invloed over het hele systeem uit te breiden - met legale en extralegale middelen.</desc>
 	</SystemLord77>
 
 	<!-- Samuel "Pi" Blantz, Male, Adulthood -->
 	<SystemsEngineer1>
 		<!-- EN: systems engineer -->
-		<title>TODO</title>
+		<title>systeemingenieur</title>
 		<!-- EN: engineer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ingenieur</titleShort>
 		<!-- EN: Like [PAWN_possessive] father, [PAWN_nameDef] was a systems engineer. [PAWN_pronoun] was qualified in both colony and ship systems.\n\nWhen not working, [PAWN_pronoun] would make mechanical figurines, read old books, or occasionally travel to uncharted worlds. Being introverted, [PAWN_pronoun] did these things mostly alone. -->
-		<desc>TODO</desc>
+		<desc>Net als [PAWN_possessive] vader, was [PAWN_nameDef] een systeemingenieur. [PAWN_pronoun] was gekwalificeerd in zowel kolonie- als scheepssystemen.\n\nIn [PAWN_possessive] vrije tijd, maakte [PAWN_pronoun] mechanische beeldjes, las oude boeken of reisde af en toe naar onbekende werelden. Omdat [PAWN_pronoun] introvert was, deed hij deze dingen meestal alleen.</desc>
 	</SystemsEngineer1>
 
 	<!-- Michael "Flea" Shepherd-Finch, Male, Childhood -->
 	<TechEnthusiast28>
 		<!-- EN: tech enthusiast -->
-		<title>TODO</title>
+		<title>techliefhebber</title>
 		<!-- EN: tech nerd -->
-		<titleShort>TODO</titleShort>
+		<titleShort>tech nerd</titleShort>
 		<!-- EN: [PAWN_nameDef] had all the latest gadgets as a child. [PAWN_pronoun] spent all [PAWN_possessive] time playing games with AIs instead of with other children. [PAWN_pronoun] always felt awkward around new people. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had als kind de nieuwste snufjes. [PAWN_pronoun] bracht al [PAWN_possessive] tijd door met het spelen van spelletjes met AI's in plaats van met andere kinderen. [PAWN_pronoun] voelde zich altijd ongemakkelijk bij onbekenden.</desc>
 	</TechEnthusiast28>
 
 	<!-- Samuel "Pi" Blantz, Male, Childhood -->
 	<TechHead8>
 		<!-- EN: tech-head -->
-		<title>TODO</title>
+		<title>techneut</title>
 		<!-- EN: tech-head -->
-		<titleShort>TODO</titleShort>
+		<titleShort>techneut</titleShort>
 		<!-- EN: Standing on the ship hull with [PAWN_possessive] father in an child-size EVA suit, [PAWN_nameDef] loved space from a young age.\n\n[PAWN_pronoun] was put in a Civil Academics Program. While pretending to be like [PAWN_possessive] father, [PAWN_pronoun] spent [PAWN_possessive] time taking care of plants in [PAWN_possessive] messy room. [PAWN_possessive] nickname was given for [PAWN_possessive] love of circles. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] hield van de ruimte vanaf het moment dat [PAWN_pronoun] op de scheepsromp stond met [PAWN_possessive] vader in een EVA-pak op kindermaat.\n\n[PAWN_pronoun] werd opgenomen in een Civiel Academisch Programma. Terwijl hij zich voordeed als [PAWN_possessive] vader, bracht [PAWN_pronoun] [PAWN_possessive] tijd door met het verzorgen van planten in [PAWN_possessive] rommelige kamer. [PAWN_possessive] bijnaam is gegeven voor [PAWN_possessive] liefde voor cirkels.</desc>
 	</TechHead8>
 
 	<!-- David "Bishop" Bishop, Male, Childhood -->
 	<TechnicalKid1>
 		<!-- EN: technical kid -->
-		<title>TODO</title>
+		<title>technisch kind</title>
 		<!-- EN: tech kid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>techkind</titleShort>
 		<!-- EN: [PAWN_nameDef] loved nothing more then to forget the world around [PAWN_objective] and focus on the task at hand. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] deed niets liever dan de wereld om [PAWN_objective] heen te vergeten en zich te concentreren op de taak die voorhanden was.</desc>
 	</TechnicalKid1>
 
 	<!-- Chris Draper, Male, Adulthood -->
 	<Technician9>
 		<!-- EN: technician -->
-		<title>TODO</title>
+		<title>technicus</title>
 		<!-- EN: techie -->
-		<titleShort>TODO</titleShort>
+		<titleShort>techneut</titleShort>
 		<!-- EN: As an IT technician, [PAWN_nameDef] didn't have much time to write code any more.\n\n[PAWN_pronoun] got called to work all the time to fix failures in the cryptosleep chamber and AI persuasion systems. -->
-		<desc>TODO</desc>
+		<desc>Als IT-technicus had [PAWN_nameDef] niet veel tijd meer om code te schrijven.\n\n[PAWN_pronoun] werd de hele tijd gebeld om fouten in de cryptoslaapkamer en AI-overtuigingsystemen op te lossen.</desc>
 	</Technician9>
 
 	<!-- Pablo Cholaky, Male, Adulthood -->
 	<TechnologyDoctor35>
 		<!-- EN: technology doctor -->
-		<title>TODO</title>
+		<title>technologiedokter</title>
 		<!-- EN: tech doc -->
-		<titleShort>TODO</titleShort>
+		<titleShort>techdokter</titleShort>
 		<!-- EN: [PAWN_nameDef] performed research into propulsive fuels and energy generation.\n\n[PAWN_pronoun] loved technology research, and hoped to improve human life by doing it. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] deed onderzoek naar ruimtebrandstoffen en energieopwekking.\n\n[PAWN_pronoun] hield van technologisch onderzoek en hoopte daarmee het menselijk leven te verbeteren.</desc>
 	</TechnologyDoctor35>
 
 	<!-- Pablo Cholaky, Male, Childhood -->
 	<TechScholar75>
 		<!-- EN: tech scholar -->
-		<title>TODO</title>
+		<title>techgeleerde</title>
 		<!-- EN: scholar -->
-		<titleShort>TODO</titleShort>
+		<titleShort>geleerde</titleShort>
 		<!-- EN: [PAWN_nameDef] was a youth scholar of the world of science and technology.\n\n[PAWN_pronoun] strived every day to expand [PAWN_possessive] intellectual abilities. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een jeugdwetenschapper in de wereld van wetenschap en technologie.\n\n[PAWN_pronoun] streefde er elke dag naar om [PAWN_possessive] intellectuele capaciteiten uit te breiden.</desc>
 	</TechScholar75>
 
 	<!-- Peter "Pete" Marshall, Male, Adulthood -->
 	<TestSubject39>
 		<!-- EN: test subject -->
-		<title>TODO</title>
+		<title>proefpersoon</title>
 		<!-- EN: subject -->
-		<titleShort>TODO</titleShort>
+		<titleShort>proefpersoon</titleShort>
 		<!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] schreef zich in voor een wetenschappelijk onderzoek dat beloofde [PAWN_objective] slimmer te kunnen maken. Helaas waren de bijwerkingen heel anders dan [PAWN_pronoun] verwachtte. [PAWN_pronoun] werd gek en doodde een aantal mensen alvorens te ontsnappen.</desc>
 	</TestSubject39>
 
 	<!-- Afeeba "Feeb" Dafo, Female, Childhood -->
 	<TestSubject82>
 		<!-- EN: test subject -->
-		<title>TODO</title>
+		<title>proefpersoon</title>
 		<!-- EN: subject -->
-		<titleShort>TODO</titleShort>
+		<titleShort>proefpersoon</titleShort>
 		<!-- EN: Test subject #11,529,914 of experiment #56,048 spent [PAWN_possessive] childhood in white rooms performing mental and physical tests.\n\n[PAWN_possessive] only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment. -->
-		<desc>TODO</desc>
+		<desc>Proefpersoon Nr. 11.529.914 van experiment Nr. 56.048 bracht [PAWN_possessive] jeugd door in lege kamers om mentale en fysieke tests uit te voeren.\n\n[PAWN_possessive] enige metgezel was een stem die zichzelf Moeder noemde. Moeder beloonde succes met lof - en mislukking met harde straffen.</desc>
 	</TestSubject82>
 
 	<!-- Rebecca "Lynx" Edwards, Female, Adulthood -->
 	<TestSubject90>
 		<!-- EN: test subject -->
-		<title>TODO</title>
+		<title>proefpersoon</title>
 		<!-- EN: experiment -->
-		<titleShort>TODO</titleShort>
+		<titleShort>experiment</titleShort>
 		<!-- EN: Kidnapped as a teenager, [PAWN_nameDef] was an unwilling test subject in experimental gene therapies. Labs and scientists scare [PAWN_objective]. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef], ontvoerd als tiener, was een onwillige proefpersoon in experimentele gentherapieën. [PAWN_pronoun] is bang voor labs en wetenschappers.</desc>
 	</TestSubject90>
 
 	<!-- Afeeba "Feeb" Dafo, Female, Adulthood -->
 	<TestSubject92>
 		<!-- EN: test subject -->
-		<title>TODO</title>
+		<title>proefpersoon</title>
 		<!-- EN: subject -->
-		<titleShort>TODO</titleShort>
+		<titleShort>proefpersoon</titleShort>
 		<!-- EN: [PAWN_nameDef]'s tests went from geometry to quantum physics, and [PAWN_pronoun] could run the grand gauntlet without a scratch.\n\nOne day, Mother said that [PAWN_possessive] final test lay beyond the red door, and that even if [PAWN_pronoun] couldn't hear her voice, Mother would always be there. -->
-		<desc>TODO</desc>
+		<desc>De tests van [PAWN_nameDef] gingen van geometrie naar kwantumfysica, en [PAWN_pronoun] kon het met gemak bijbenen.\n\nOp een dag zei Moeder dat [PAWN_possessive] laatste test achter de rode deur lag, en dat zelfs als [PAWN_pronoun] haar stem niet kon horen, Moeder er altijd zou zijn.</desc>
 	</TestSubject92>
 
 	<!-- Zachary "Zach" Gebheart, Male, Adulthood -->
 	<TheaterTechnician80>
 		<!-- EN: theater technician -->
-		<title>TODO</title>
+		<title>theatertechnicus</title>
 		<!-- EN: technician -->
-		<titleShort>TODO</titleShort>
+		<titleShort>technicus</titleShort>
 		<!-- EN: [PAWN_nameDef] spent countless hours behind the scenes of a famous theater. [PAWN_pronoun] built scenery, programmed lights, and monitored the machines that moved the sets.\n\nOff duty, [PAWN_pronoun] would talk with the cast members. Navigating the social drama of the actors helped [PAWN_objective] learn how to communicate well and manipulate others. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bracht talloze uren door achter de schermen van een beroemd theater. [PAWN_pronoun] bouwde decors, programmeerde lichten en bewaakte de machines die de sets verplaatsten.\n\nIn [PAWN_possessive] vrije tijd praatte [PAWN_pronoun] met de acteurs. Navigeren door het sociale drama van de acteurs hielp [PAWN_objective] om goed te leren communiceren en anderen te manipuleren.</desc>
 	</TheaterTechnician80>
 
 	<!-- Paul Paulson, Male, Childhood -->
 	<Tinkerer11>
 		<!-- EN: tinkerer -->
-		<title>TODO</title>
+		<title>knutselaar</title>
 		<!-- EN: tinkerer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>knutselaar</titleShort>
 		<!-- EN: [PAWN_nameDef] spent [PAWN_possessive] spare time creating things from [PAWN_possessive] imagination out of scrap metal and discarded machinery.\n\n[PAWN_pronoun] created simple robots and small tools, for both for fun and for utility. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] besteedde [PAWN_possessive] vrije tijd aan het creëren van dingen vanuit [PAWN_possessive] verbeelding uit schroot en afgedankte machines.\n\n[PAWN_pronoun] creëerde eenvoudige robots en kleine gereedschappen, zowel voor de lol als voor het nut.</desc>
 	</Tinkerer11>
 
 	<!-- William Gregory-Heap, Male, Childhood -->
 	<Tinkerer79>
 		<!-- EN: tinkerer -->
-		<title>TODO</title>
+		<title>knutselaar</title>
 		<!-- EN: tinkerer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>knutselaar</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up on a scrap-heap of a planet - the garbage dump of other planets in the system. [PAWN_pronoun] learned to make new machines from the dead parts of old ones. With some friends, [PAWN_pronoun] eventually escaped on a salvaged and repaired ship. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een schroothoop van een planeet - de vuilnisbelt van andere planeten in het systeem. [PAWN_pronoun] leerde nieuwe machines te maken van de dode onderdelen van oude. Met een paar vrienden ontsnapte [PAWN_pronoun] uiteindelijk op een geborgen en gerepareerd schip.</desc>
 	</Tinkerer79>
 
 	<!-- Slivaki "Sliverwar" Warts, Male, Adulthood -->
 	<Tinkerer86>
 		<!-- EN: tinkerer -->
-		<title>TODO</title>
+		<title>knutselaar</title>
 		<!-- EN: tinkerer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>knutselaar</titleShort>
 		<!-- EN: "How does this work?\n\nWhy does this move?\n\nMaybe if I change this... oops, I hope it works better... or maybe I broke it..." -->
-		<desc>TODO</desc>
+		<desc>"Hoe werkt dit?\n\nWaarom beweegt dit?\n\nMisschien als ik dit verander... oeps, ik hoop dat het beter werkt... of misschien heb ik het kapot gemaakt..."</desc>
 	</Tinkerer86>
 
 	<!-- Justin "Justice" Calvert, Male, Adulthood -->
 	<ToasterRepairman22>
 		<!-- EN: toaster repairman -->
-		<title>TODO</title>
+		<title>broodrooster reparateur</title>
 		<!-- EN: repairman -->
-		<titleShort>TODO</titleShort>
+		<titleShort>reparateur</titleShort>
 		<!-- EN: Good with [PAWN_possessive] hands and passionate about technology, [PAWN_nameDef] aspired to invent gadgets and machines that would change [PAWN_possessive] home world forever.\n\nA few failed and occasionally disastrous creations later, [PAWN_pronoun] gave up on [PAWN_possessive] dream and took a job more befitting [PAWN_possessive] skill set. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was goed met [PAWN_possessive] handen en gepassioneerd door technologie. [PAWN_pronoun] streefde ernaar gadgets en machines uit te vinden die de [PAWN_possessive] thuiswereld voor altijd zouden veranderen.\n\nEen paar mislukte en soms rampzalige creaties later, gaf [PAWN_pronoun] [PAWN_possessive] droom op en nam een baan aan die beter paste bij [PAWN_possessive] vaardigheden.</desc>
 	</ToasterRepairman22>
 
 	<!-- Christian "Wolle" Alberts, Male, Adulthood -->
 	<ToolMechanic77>
 		<!-- EN: tool mechanic -->
-		<title>TODO</title>
+		<title>gereedschapsmonteur</title>
 		<!-- EN: mechanic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>monteur</titleShort>
 		<!-- EN: [PAWN_nameDef] was a famous tool mechanic on a dusty rimworld.\n\nAfter [PAWN_possessive] firm closed due to scandal, [PAWN_pronoun] joined a tribe to survive, crafting fine knives and hammers, traveling, and dealing [PAWN_possessive] wares between settlements. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een beroemde gereedschapsmonteur op een stoffige rimworld.\n\nToen [PAWN_possessive] bedrijf gesloten werd vanwege een schandaal, sloot [PAWN_pronoun] zich aan bij een stam om te overleven, door fijne messen en hamers te maken, te reizen en [PAWN_possessive] waren te verhandelen in andere nederzettingen.</desc>
 	</ToolMechanic77>
 
 	<!-- Aleksander "Sale" Chiki, Male, Adulthood -->
 	<TournamentFighter28>
 		<!-- EN: Tournament fighter -->
-		<title>TODO</title>
+		<title>toernooivechter</title>
 		<!-- EN: Fighter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vechter</titleShort>
 		<!-- EN: Motivated by the violence in [PAWN_possessive] environment, [PAWN_nameDef] studied martial arts, eventually signing up for an unarmed fighting tournament.\n\n        Unlike [PAWN_possessive] opponents, [PAWN_nameDef] looked to the ancient warriors for guidance. [PAWN_pronoun] trained from dusk till dawn, perfecting [PAWN_possessive] skills.\n       -->
-		<desc>TODO</desc>
+		<desc>Gemotiveerd door het geweld in [PAWN_possessive] omgeving, oefende [PAWN_nameDef] in vechtsporten en schreef zich uiteindelijk in voor een ongewapend vechttoernooi.\n\nIn tegenstelling tot [PAWN_possessive] tegenstanders, zocht [PAWN_nameDef] hulp bij de oude krijgers. [PAWN_pronoun] trainde van zonsondergang tot zonsopgang, en perfectioneerde [PAWN_possessive] vaardigheden.</desc>
 	</TournamentFighter28>
 
 	<!-- Sa'Bikk "Sab" Saleosy, Male, Childhood -->
 	<ToxicChild96>
 		<!-- EN: toxic child -->
-		<title>TODO</title>
+		<title>giftig kind</title>
 		<!-- EN: toxic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>giftige</titleShort>
 		<!-- EN: Growing up on a an industrial planet, [PAWN_nameDef] started working in a chemical plant at age of six. Years of exposure to industrial toxins left [PAWN_objective] mentally scarred.\n\n[PAWN_pronoun] eventually blew up the facility and escaped the planet in a stolen cargo ship. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een industriële planeet en begon op zesjarige leeftijd te werken in een chemische fabriek. Jarenlange blootstelling aan industriële gifstoffen lieten [PAWN_objective] mentaal getekend achter.\n\n[PAWN_pronoun] blies uiteindelijk de faciliteit op en ontsnapte van de planeet in een gestolen vrachtschip.</desc>
 	</ToxicChild96>
 
 	<!-- Sean "Severin" Pedersen, Male, Childhood -->
 	<TradersChild62>
 		<!-- EN: traders' child -->
-		<title>TODO</title>
+		<title>koopmankind</title>
 		<!-- EN: trader -->
-		<titleShort>TODO</titleShort>
+		<titleShort>koopman</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up in a family of nomadic traders, making a living from selling and buying goods on many worlds.\n\n[PAWN_nameDef] learned the customs and methods of trade of many cultures by participating in [PAWN_possessive] parents' business. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op in een familie van nomadische handelaars, die hun brood verdienden met het verkopen en kopen van goederen op vele werelden.\n\n[PAWN_nameDef] leerde de gewoonten en handelsmethoden van vele culturen kennen door deel te nemen aan het bedrijf van [PAWN_possessive] ouders .</desc>
 	</TradersChild62>
 
 	<!-- Brandon "Baron" Wilde, Male, Childhood -->
 	<TragicLoner87>
 		<!-- EN: tragic loner -->
-		<title>TODO</title>
+		<title>tragische eenling</title>
 		<!-- EN: loner -->
-		<titleShort>TODO</titleShort>
+		<titleShort>eenling</titleShort>
 		<!-- EN: [PAWN_nameDef] was involved in a traumatic accident that resulted in [PAWN_objective] killing [PAWN_possessive] own family.\n\nCast out from society, [PAWN_pronoun] was left with only [PAWN_possessive] animal companions and several engineering textbooks to keep [PAWN_objective] company. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was betrokken bij een traumatisch ongeval dat ertoe leidde dat [PAWN_objective] [PAWN_possessive] eigen familie vermoordde.\n\nDe samenleving verstootte [PAWN_pronoun] met alleen [PAWN_possessive] huisdieren en verschillende technische leerboeken als gezelschap.</desc>
 	</TragicLoner87>
 
 	<!-- Fedon "Fedon" Cand, Male, Childhood -->
 	<TraineeAlchemist64>
 		<!-- EN: trainee alchemist -->
-		<title>TODO</title>
+		<title>alchemist in training</title>
 		<!-- EN: alchemist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>alchemist</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up on a medieval world. [PAWN_pronoun] learned the basics of alchemy and medicine in one the few monastic schools on [PAWN_possessive] planet. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een middeleeuwse wereld. [PAWN_pronoun] leerde de basisprincipes van alchemie en geneeskunde in een van de weinige kloosterscholen op  [PAWN_possessive] planeet.</desc>
 	</TraineeAlchemist64>
 
 	<!-- Yiyang "Mitsuya" Jiang, Either, Childhood -->
 	<TransferStudent10>
 		<!-- EN: transfer student -->
-		<title>TODO</title>
+		<title>uitwisselingsstudent</title>
 		<!-- EN: student -->
-		<titleShort>TODO</titleShort>
+		<titleShort>student</titleShort>
 		<!-- EN: A midworld child, [PAWN_nameDef]'s wealthy parents sent [PAWN_objective] to a nearby glitterworld to receive a better education.\n\n[PAWN_nameDef] was a talented student. However, due to [PAWN_possessive] family's wealth, [PAWN_pronoun] never had to do dumb labor. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een kind op een middenwereld. [PAWN_possessive] rijke ouders stuurden [PAWN_objective] naar een nabijgelegen glitterwereld om beter onderwijs te krijgen.\n\n[PAWN_nameDef] was een getalenteerde student. Maar vanwege de rijkdom van [PAWN_possessive] familie hoefde [PAWN_pronoun] nooit domme arbeid te verrichten.</desc>
 	</TransferStudent10>
 
 	<!-- Gil "Giggles" Durnin, Either, Childhood -->
 	<TraumatizedYouth87>
 		<!-- EN: traumatized youth -->
-		<title>TODO</title>
+		<title>getraumatiseerde jongere</title>
 		<!-- EN: trauma -->
-		<titleShort>TODO</titleShort>
+		<titleShort>traumajongere</titleShort>
 		<!-- EN: [PAWN_nameDef] lived on a pleasant midworld.\n\n[PAWN_possessive] body purist mother fell sick with heart disease. In desperation, [PAWN_nameDef]'s father abducted innocent people and harvested their hearts. [PAWN_nameDef]'s father was arrested, but the child remained scarred from the experience. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] leefde op een prettige middenwereld.\n\n[PAWN_possessive] lichaamspuristische moeder kreeg een hartaandoening. In wanhoop ontvoerde de vader van [PAWN_nameDef] onschuldige mensen en oogstte hun harten. De vader van [PAWN_nameDef] werd gearresteerd, maar het kind was blijvend getekend door de ervaring.</desc>
 	</TraumatizedYouth87>
 
 	<!-- Tyler "Hammer" Endorf, Male, Adulthood -->
 	<TreasureHunter82>
 		<!-- EN: treasure hunter -->
-		<title>TODO</title>
+		<title>schatzoeker</title>
 		<!-- EN: adventurer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>avonturier</titleShort>
 		<!-- EN: [PAWN_nameDef] explored outlying rimworlds in hopes of finding rare treasures.\n\nAfter succeeding in finding one legendary sculpture, [PAWN_pronoun] was betrayed by [PAWN_possessive] men. [PAWN_pronoun] survived their treasonous attack, but the sculpture was taken.\n\n[PAWN_pronoun] created the Anvil Mercenary Company to help [PAWN_objective] seek revenge. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] verkende afgelegen rimworlds in de hoop zeldzame schatten te vinden.\n\nNadat [PAWN_pronoun] erin geslaagd was om een legendarisch beeld te vinden, werd [PAWN_pronoun] verraden door [PAWN_possessive] mannen. [PAWN_pronoun] overleefde hun verraderlijke aanval, maar het beeld werd meegenomen.\n\n[PAWN_pronoun] creëerde de Aambeeld Huurlingen om [PAWN_objective] te helpen wraak te nemen.</desc>
 	</TreasureHunter82>
 
 	<!-- Evan Raw, Male, Childhood -->
 	<TribalThunderer45>
 		<!-- EN: tribal thunderer -->
-		<title>TODO</title>
+		<title>tribale donderaar</title>
 		<!-- EN: thunderer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>donderaar</titleShort>
 		<!-- EN: Years ago, [PAWN_nameDef]'s tribe stumbled upon an abandoned gun vault. Believing the weapons to be sacred gifts, the shaman would select a child born under superstitious circumstances and assign them the honour of bearing one to defend the village. [PAWN_nameDef] is such a child. -->
-		<desc>TODO</desc>
+		<desc>Jaren geleden stuitte de stam van [PAWN_nameDef] op een verlaten geweerkluis. In de overtuiging dat de wapens heilige geschenken waren, koos de sjamaan kinderen die onder bijgelovige omstandigheden was geboren en gaf ze de eer om zo'n wapen te dragen ter verdediging van het dorp. [PAWN_nameDef] is zo'n kind.</desc>
 	</TribalThunderer45>
 
 	<!-- Ryan "Noob" Torrijos, Male, Childhood -->
 	<TurtleHerder41>
 		<!-- EN: turtle herder -->
-		<title>TODO</title>
+		<title>schildpadherder</title>
 		<!-- EN: herder -->
-		<titleShort>TODO</titleShort>
+		<titleShort>herder</titleShort>
 		<!-- EN: Born to settler folk, [PAWN_nameDef]'s family had a beloved herd of turtles, who protected them by absorbing shots from raiders.\n\nAt a young age, [PAWN_pronoun] was entrusted with the turtles. [PAWN_pronoun] bred them, successfully - too successfully. The massive turtle herds consumed every food source and destroyed the local ecosystem. -->
-		<desc>TODO</desc>
+		<desc>De familie van [PAWN_nameDef], geboren uit kolonisten, had een geliefde kudde schildpadden, die hen beschermden door schoten van overvallers op te vangen.\n\nOp jonge leeftijd werden de schildpadden toevertrouwd aan [PAWN_nameDef]. [PAWN_pronoun] fokte ze met succes - te veel succes. De enorme kuddes schildpadden consumeerden elke voedselbron en vernietigden het lokale ecosysteem.</desc>
 	</TurtleHerder41>
 
 	<!-- Christian "Christian" Morris, Male, Adulthood -->
 	<Undertaker93>
 		<!-- EN: undertaker -->
-		<title>TODO</title>
+		<title>begrafenisondernemer</title>
 		<!-- EN: undertaker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>begrafenisondernemer</titleShort>
 		<!-- EN: [PAWN_nameDef] roamed, offering grief assistance to those who've had a recent loss. While [PAWN_pronoun] never shied away from physical confrontation, [PAWN_pronoun] prefers to confront tough situations with a calm word. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] zwierf rond en bood ondersteuning aan degenen die recentelijk een verlies hadden geleden. Terwijl [PAWN_pronoun] nooit terugdeinsde voor fysieke confrontaties, geeft [PAWN_pronoun] er de voorkeur aan moeilijke situaties met een kalm woord te confronteren.</desc>
 	</Undertaker93>
 
 	<!-- Robert "Burban" Burban, Male, Adulthood -->
 	<UnethicalDoctor29>
 		<!-- EN: unethical doctor -->
-		<title>TODO</title>
+		<title>onethische dokter</title>
 		<!-- EN: doctor -->
-		<titleShort>TODO</titleShort>
+		<titleShort>dokter</titleShort>
 		<!-- EN: [PAWN_nameDef] became a doctor to save lives and research medicine. [PAWN_pronoun] soon realized the only way to make progress on [PAWN_possessive] research was to perform experiments on human patients.\n\n[PAWN_pronoun] often used patients for [PAWN_possessive] experiments - whether they were willing or not. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd arts om levens te redden en medicijnen te onderzoeken. [PAWN_pronoun] besefte al snel dat de enige manier om vooruitgang te boeken in [PAWN_possessive] onderzoek was door experimenten uit te voeren op menselijke patiënten.\n\n[PAWN_pronoun] gebruikte vaak patiënten voor [PAWN_possessive] experimenten - of ze dat nu wilden of niet.</desc>
 	</UnethicalDoctor29>
 
 	<!-- Jonathan "John" Medcalf, Male, Adulthood -->
 	<UnstableButcher31>
 		<!-- EN: unstable butcher -->
-		<title>TODO</title>
+		<title>onstabiele slager</title>
 		<!-- EN: butcher -->
-		<titleShort>TODO</titleShort>
+		<titleShort>slager</titleShort>
 		<!-- EN: [PAWN_nameDef] began hearing voices. The animals were talking to [PAWN_objective], insulting him. [PAWN_pronoun] came to hate them, and eventually killed [PAWN_possessive] furry former friends. [PAWN_pronoun] started selling the meat just to get human interaction. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] begon stemmen te horen. De dieren praatten tegen [PAWN_objective] en beledigden hem. [PAWN_pronoun] begon hen te haten en doodde uiteindelijk [PAWN_possessive] harige voormalige vrienden. [PAWN_pronoun] begon het vlees te verkopen alleen maar omwille het menselijk contact.</desc>
 	</UnstableButcher31>
 
 	<!-- Samuel "Chewy" Chua, Male, Childhood -->
 	<UpperUrbworlder12>
 		<!-- EN: upper urbworlder -->
-		<title>TODO</title>
+		<title>hoge urbwerelder</title>
 		<!-- EN: high urber -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hoge urber</titleShort>
 		<!-- EN: [PAWN_nameDef] had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, [PAWN_pronoun] spent most of [PAWN_possessive] time reading or drawing the cityscape [PAWN_pronoun] saw through [PAWN_possessive] window. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had een bevoorrechte jeugd op een grote urbwereld. Wonend in een appartement ver boven de dichte armoede van de stad, bracht [PAWN_pronoun] het grootste deel van [PAWN_possessive] tijd door met het lezen of tekenen van het stadsbeeld dat [PAWN_pronoun] door [PAWN_possessive] raam zag.</desc>
 	</UpperUrbworlder12>
 
 	<!-- Florian "Skater" Haas, Male, Adulthood -->
 	<UprightDiplomat49>
 		<!-- EN: upright diplomat -->
-		<title>TODO</title>
+		<title>oprechte diplomaat</title>
 		<!-- EN: diplomat -->
-		<titleShort>TODO</titleShort>
+		<titleShort>diplomaat</titleShort>
 		<!-- EN: As a diplomat, [PAWN_nameDef] was assigned to deal with diplomatic tasks in the blood-soaked outer rim sectors.\n\n[PAWN_pronoun] hoped to end the endless wars, until [PAWN_possessive] consularship, the St. Anthem, was attacked by a raider fleet. -->
-		<desc>TODO</desc>
+		<desc>Als diplomaat kreeg [PAWN_nameDef] de opdracht om diplomatieke taken uit te voeren in de met bloed doordrenkte buitenste randsectoren.\n\n[PAWN_pronoun] hoopte een einde te maken aan de eindeloze oorlogen, totdat [PAWN_possessive] consulaat, het St. Anthem, werd aangevallen door een bandietenvloot.</desc>
 	</UprightDiplomat49>
 
 	<!-- Daniel "Stone" Stone, Male, Childhood -->
 	<UrbworldArmyBrat84>
 		<!-- EN: urbworld army brat -->
-		<title>TODO</title>
+		<title>urbwereld legerkind</title>
 		<!-- EN: army brat -->
-		<titleShort>TODO</titleShort>
+		<titleShort>legerkind</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up on an urbworld military base. [PAWN_pronoun] was too young to fight, but [PAWN_pronoun] learned to make [PAWN_objective]self useful in other ways.\n\n[PAWN_pronoun] became familiar with guns and military equipment, but never really got in touch with the natural world. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een militaire basis op een urbwereld. [PAWN_pronoun] was te jong om te vechten, maar [PAWN_pronoun] leerde om zich op andere manieren nuttig te maken.\n\n[PAWN_pronoun] raakte bekend met wapens en militaire uitrusting, maar kwam nooit echt in aanraking met de natuurlijke wereld .</desc>
 	</UrbworldArmyBrat84>
 
 	<!-- Jonathan "Jono" Rigby, Male, Childhood -->
 	<UrbworldChild56>
 		<!-- EN: urbworld child -->
-		<title>TODO</title>
+		<title>urbwereld kind</title>
 		<!-- EN: urbkid -->
-		<titleShort>TODO</titleShort>
+		<titleShort>urbkind</titleShort>
 		<!-- EN: [PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] had een geïsoleerde opvoeding op een urbwereld. [PAWN_possessive] hoogtevrees hield [PAWN_objective] vaak binnenshuis en maakte van [PAWN_objective] een introvert kind.\n\nToen [PAWN_pronoun] de catwalks van de stad opging, genoot [PAWN_pronoun] van het spelen van oorlogsspelletjes en werd hij bedreven in verschillende simulatiewapens.</desc>
 	</UrbworldChild56>
 
 	<!-- Vladimir "Vladimir" Black, Male, Childhood -->
 	<UrbworldCriminal80>
 		<!-- EN: urbworld criminal -->
-		<title>TODO</title>
+		<title>urbwereld crimineel</title>
 		<!-- EN: criminal -->
-		<titleShort>TODO</titleShort>
+		<titleShort>crimineel</titleShort>
 		<!-- EN: Born into bad circumstance on an overpopulated urbworld, [PAWN_nameDef] turned to small-time crime as a way to avoid starvation and hypothermia.\n\nRobbery and murder were daily activities for him. [PAWN_nameDef] learned that surviving was winning. -->
-		<desc>TODO</desc>
+		<desc>Geboren in slechte omstandigheden in een overbevolkte urbworld, wendde [PAWN_nameDef] zich tot kleine criminaliteit als een manier om honger en onderkoeling te voorkomen.\n\nDiefstal en moord waren dagelijkse bezigheden voor hem. [PAWN_nameDef] ontdekte dat overleven winnen was.</desc>
 	</UrbworldCriminal80>
 
 	<!-- Skye "Skye" Lorne, Female, Adulthood -->
 	<UrbworldEnforcer11>
 		<!-- EN: urbworld enforcer -->
-		<title>TODO</title>
+		<title>urbwereld handhaver</title>
 		<!-- EN: enforcer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>handhaver</titleShort>
 		<!-- EN: [PAWN_nameDef] was an enforcer of law on an ancient urbworld.\n\n[PAWN_pronoun] dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een handhaver van de wet op een oude urbwereld.\n\n[PAWN_pronoun] had te maken met het ergste van de mensheid, van het beschermen van hebzuchtige urbwereld-adel in hun ivoren torens tot het uitroeien van kannibaalculturen in de diepste uithoeken van het ondergrondse mierennest.</desc>
 	</UrbworldEnforcer11>
 
 	<!-- Frederic "Bennett" Bennett, Male, Childhood -->
 	<UrbworldHooligan12>
 		<!-- EN: urbworld hooligan -->
-		<title>TODO</title>
+		<title>urbwereld hooligan</title>
 		<!-- EN: hooligan -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hooligan</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up in a dangerous urbworld. [PAWN_pronoun] quickly learned how to get [PAWN_possessive] daily meal - by crime. Such means left little to no space for cooking and growing activities. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een gevaarlijke urbwereld. [PAWN_pronoun] leerde snel hoe [PAWN_pronoun] [PAWN_possessive] dagelijks brood kon verdienen - door misdaad. Dergelijke middelen lieten weinig tot geen ruimte over voor kook- en kweekactiviteiten.</desc>
 	</UrbworldHooligan12>
 
 	<!-- Eric "Teddy" Smith, Male, Adulthood -->
 	<UrbworldPimp93>
 		<!-- EN: urbworld pimp -->
-		<title>TODO</title>
+		<title>urbwereld pooier</title>
 		<!-- EN: pimp -->
-		<titleShort>TODO</titleShort>
+		<titleShort>pooier</titleShort>
 		<!-- EN: At first, [PAWN_nameDef] made a small profit from selling drugs. Then, [PAWN_pronoun] switched to selling women and made a fortune.\n\n[PAWN_pronoun] developed great skills with [PAWN_possessive] fists. [PAWN_pronoun] also learned to fix up the injuries [PAWN_pronoun] inflicted on the girls. -->
-		<desc>TODO</desc>
+		<desc>Aanvankelijk verdiende [PAWN_nameDef] een paar centen door drugs te verkopen. Toen schakelde [PAWN_pronoun] over op de verkoop van vrouwen en verdiende een fortuin.\n\n[PAWN_pronoun] ontwikkelde geweldige vaardigheden met [PAWN_possessive] vuisten. [PAWN_pronoun] leerde ook om de verwondingen die [PAWN_pronoun] aan de meisjes had toegebracht te herstellen.</desc>
 	</UrbworldPimp93>
 
 	<!-- Vladimir "Vladimir" Black, Male, Adulthood -->
 	<UrbworldPolitican92>
 		<!-- EN: urbworld politican -->
-		<title>TODO</title>
+		<title>urbwereld politicus</title>
 		<!-- EN: politician -->
-		<titleShort>TODO</titleShort>
+		<titleShort>politicus</titleShort>
 		<!-- EN: It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. [PAWN_nameDef] was one such figurehead.\n\n[PAWN_pronoun] learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse. -->
-		<desc>TODO</desc>
+		<desc>Het is geen geheim dat bedrijven een groot deel van de urbwerelden bezitten, maar iemand moet de steekpenningen aannemen. [PAWN_nameDef] was zo'n boegbeeld.\n\n[PAWN_pronoun] leerde de hoop en dromen van de mensen te manipuleren terwijl [PAWN_pronoun] comfortabel in een penthouse woonde.</desc>
 	</UrbworldPolitican92>
 
 	<!-- John "Trigger" Whitehouse, Male, Adulthood -->
 	<UrbworldSergeant50>
 		<!-- EN: urbworld sergeant -->
-		<title>TODO</title>
+		<title>urbwereld sergeant</title>
 		<!-- EN: sergeant -->
-		<titleShort>TODO</titleShort>
+		<titleShort>sergeant</titleShort>
 		<!-- EN: [PAWN_nameDef]'s passion for all things militaristic kept with [PAWN_objective] all the way to adulthood.\n\nAfter enrolling as a local policeman, [PAWN_pronoun] was soon promoted to sergeant. -->
-		<desc>TODO</desc>
+		<desc>De passie van [PAWN_nameDef] voor alles wat militaristisch is, bleef bij [PAWN_objective] tot in de volwassenheid.\n\nNadat [PAWN_pronoun] zich had ingeschreven als plaatselijke politieagent, werd [PAWN_pronoun] al snel gepromoveerd tot sergeant.</desc>
 	</UrbworldSergeant50>
 
 	<!-- Emily "Emmie" Young, Female, Adulthood -->
 	<UrbworldSexSlave25>
 		<!-- EN: urbworld sex slave -->
-		<title>TODO</title>
+		<title>urbwereld seksslavin</title>
 		<!-- EN: sex slave -->
-		<titleShort>TODO</titleShort>
+		<titleShort>seksslavin</titleShort>
 		<!-- EN: [PAWN_nameDef] was sold into sexual slavery. Having been designed to be inhumanly attractive and too weak to rebel against [PAWN_possessive] masters, [PAWN_pronoun] was passed between dozens of owners and knew nothing of freedom. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd verkocht als seksslavin. Ontworpen om onmenselijk aantrekkelijk te zijn en te zwak om te rebelleren tegen [PAWN_possessieve] meesters, werd [PAWN_pronoun] aan tientallen eigenaren doorverkocht en wist niets van vrijheid.</desc>
 	</UrbworldSexSlave25>
 
 	<!-- Meredith  "Latch" Abernathy, Female, Childhood -->
 	<UrbworldUrchin87>
 		<!-- EN: urbworld urchin -->
-		<title>TODO</title>
+		<title>urbwereld straatkind</title>
 		<!-- EN: urchin -->
-		<titleShort>TODO</titleShort>
+		<titleShort>straatkind</titleShort>
 		<!-- EN: Meredith was born in the darkest slums of [PAWN_possessive] urban homeworld. Neglected by [PAWN_possessive] mother, [PAWN_pronoun] learned to survive on [PAWN_possessive] own, battling for every scrap of food [PAWN_pronoun] saw.\n\nEventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN_pronoun] ascended from the depths to the surface streets and left [PAWN_possessive] mother behind. -->
-		<desc>TODO</desc>
+		<desc>Meredith werd geboren in de donkerste sloppenwijken van [PAWN_possessive] stedelijke thuiswereld. Verwaarloosd door [PAWN_possessive] moeder, leerde [PAWN_pronoun] om te overleven, vechtend voor elk stukje voedsel dat [PAWN_pronoun] zag. Uiteindelijk, toen [PAWN_possessive] talenten [PAWN_possessive] leeftijdsgenoten overtroffen, steeg [PAWN_pronoun] uit de diepten naar de straten aan de oppervlakte en liet [PAWN_possessive] moeder achter.</desc>
 	</UrbworldUrchin87>
 
 	<!-- Nicolas "Vikinger" Meyer, Male, Childhood -->
 	<UrbworldUrchin90>
 		<!-- EN: urbworld urchin -->
-		<title>TODO</title>
+		<title>urbwereld straatkind</title>
 		<!-- EN: urchin -->
-		<titleShort>TODO</titleShort>
+		<titleShort>straatkind</titleShort>
 		<!-- EN: Abandoned among the filthy concrete spires, [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_pronoun] never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes [PAWN_pronoun] lied, cheated, and stole to survive. -->
-		<desc>TODO</desc>
+		<desc>Verlaten tussen de smerige betonnen torenspitsen, heeft [PAWN_nameDef] nooit [PAWN_possessive] ouders gekend. [PAWN_pronoun] heeft nooit formeel onderwijs genoten en nam vaak zijn toevlucht tot ondergeschikte arbeid in ruil voor voedsel. Soms loog, bedroog en stal [PAWN_pronoun] om te overleven.</desc>
 	</UrbworldUrchin90>
 
 	<!-- Wesley "Pickles" Pickles, Male, Adulthood -->
 	<Vagabond73>
 		<!-- EN: vagabond -->
-		<title>TODO</title>
+		<title>vagebond</title>
 		<!-- EN: vagabond -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vagebond</titleShort>
 		<!-- EN: [PAWN_nameDef] awoke on a dangerous planet with no resources and few survival skills. [PAWN_pronoun] bounced between camps, doing whatever work needed to be done, just to see the sun rise once more. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd wakker op een gevaarlijke planeet zonder middelen en weinig overlevingsvaardigheden. [PAWN_pronoun] reisde van kamp to kamp, deed al het werk dat gedaan moest worden, al was het maar om de zon weer op te kunnen zien komen.</desc>
 	</Vagabond73>
 
 	<!-- Vaska "Vas" Neemor, Male, Childhood -->
 	<VatgrownAssassin20>
 		<!-- EN: vatgrown assassin -->
-		<title>TODO</title>
+		<title>gekloonde huurmoordenaar</title>
 		<!-- EN: clone -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kloon</titleShort>
 		<!-- EN: [PAWN_nameDef] was not made as a man, but a cold hearted assassin. [PAWN_pronoun] was bio-engineered by scientists, and trained as a killer. [PAWN_pronoun] was bred to have no emotion, no feelings, and no care for who lives, and who dies. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] is niet gemaakt als een man, maar als een koelhartige huurmoordenaar. [PAWN_pronoun] werd biologisch ontwikkeld door wetenschappers, en opgeleid als moordenaar. [PAWN_pronoun] werd gefokt om geen emotie, geen gevoelens en geen zorg te hebben voor wie leeft en wie sterft.</desc>
 	</VatgrownAssassin20>
 
 	<!-- Edward Toon, Male, Childhood -->
 	<VatgrownMedic53>
 		<!-- EN: vatgrown medic -->
-		<title>TODO</title>
+		<title>gekloonde hospik</title>
 		<!-- EN: medic -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hospik</titleShort>
 		<!-- EN: Raised to be a combat medic, [PAWN_nameDef] was trained in firearms as well as medicine. [PAWN_possessive] favorite phrase when coming upon a wounded soldier was, "Life or death?" Most chose life. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef], opgevoed als gevechtshospik, werd opgeleid in zowel vuurwapens als medicijnen. [PAWN_possessive] favoriete zin bij het tegenkomen van een gewonde soldaat was: "Leven of dood?" De meesten kozen voor het leven.</desc>
 	</VatgrownMedic53>
 
 	<!-- Nicole "Nicole" Squid, Female, Childhood -->
 	<VatgrownScientist91>
 		<!-- EN: vatgrown scientist -->
-		<title>TODO</title>
+		<title>gekloonde wetenschapper</title>
 		<!-- EN: scientist -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kloon</titleShort>
 		<!-- EN: [PAWN_nameDef] was grown to be a perfect scientist, with a mind perfectly tuned for physics and chemistry.\n\n[PAWN_possessive] creators used [PAWN_objective] as a teaching aid on mind design, hoping [PAWN_pronoun] would eventually grow to be a great mind and continue their research. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide uit tot een perfecte wetenschapper, met een geest die perfect is afgestemd op natuurkunde en scheikunde.\n\n[PAWN_possessive] makers gebruikten [PAWN_objective] als een leermiddel bij het ontwerpen van de geest, in de hoop dat [PAWN_pronoun] uiteindelijk een geweldig denker zou worden, en zetten hun onderzoek voort.</desc>
 	</VatgrownScientist91>
 
 	<!-- Emily "Emmie" Young, Female, Childhood -->
 	<VatgrownSlavegirl67>
 		<!-- EN: vatgrown slavegirl -->
-		<title>TODO</title>
+		<title>gekloond slavenmeisje</title>
 		<!-- EN: slave girl -->
-		<titleShort>TODO</titleShort>
+		<titleShort>slavenmeisje</titleShort>
 		<!-- EN: [PAWN_nameDef] was vat-grown as a slave in an illegal urbworld laboratory. As a yound child, [PAWN_pronoun] was taught only to cook, clean and serve [PAWN_possessive] masters. For most of [PAWN_possessive] childhood, [PAWN_pronoun] knew nothing else. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd als slaaf in een vat gekweekt in een illegaal urbwereldlaboratorium. Als jong kind leerde [PAWN_pronoun] alleen om voor [PAWN_possessive] meesters te koken, schoon te maken en te dienen. Gedurende het grootste deel van [PAWN_possessive] kindertijd wist [PAWN_pronoun] niets anders.</desc>
 	</VatgrownSlavegirl67>
 
 	<!-- Reece Clarke, Male, Adulthood -->
 	<VengefulExplorer54>
 		<!-- EN: vengeful explorer -->
-		<title>TODO</title>
+		<title>wraakzuchtige ontdekkingsreiziger</title>
 		<!-- EN: explorer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>ontdekkingsreiziger</titleShort>
 		<!-- EN: A violent drifter without a home, [PAWN_nameDef] and [PAWN_possessive] father fought many battles across hundreds of years. [PAWN_pronoun] became a grizzled fighter and crack shot.\n\nAfter [PAWN_possessive] father's death in battle, [PAWN_nameDef] began exploring the stars alone, seeking [PAWN_possessive] father's killer, on the hunt for revenge. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] en [PAWN_possessive] vader, gewelddadige zwervers zonder huis, vochten in de loop van honderden jaren vele veldslagen. [PAWN_pronoun] werd een grijze vechter en een zeer goed schutter.\n\nNa de dood van [PAWN_possessive] vader in de strijd, begon [PAWN_nameDef] alleen de sterren te verkennen, op zoek naar de moordenaar van [PAWN_possessive] vader, op zoek naar wraak.</desc>
 	</VengefulExplorer54>
 
 	<!-- Eron "Kamrov" Vormak, Male, Adulthood -->
 	<VengefulNomad67>
 		<!-- EN: Vengeful nomad -->
-		<title>TODO</title>
+		<title>wraakzuchtige nomade</title>
 		<!-- EN: Nomad -->
-		<titleShort>TODO</titleShort>
+		<titleShort>nomade</titleShort>
 		<!-- EN: After refusing the wild demands of a tyrannical king, [PAWN_nameDef]'s nomad band was marked as an outlaw group and systematically hunted.\n\n        [PAWN_nameDef]'s family was eventually captured. Those who weren't killed were taken as slaves. Sold to the owner of a manufactory, [PAWN_nameDef] swore that one day [PAWN_pronoun] would have [PAWN_possessive] revenge.\n       -->
-		<desc>TODO</desc>
+		<desc>Na het weigeren van de wilde eisen van een tirannieke koning, werd de nomadenstam van [PAWN_nameDef] gemarkeerd als crimineel en systematisch opgejaagd.\n\nDe familie van [PAWN_nameDef] werd uiteindelijk gevangengenomen. Degenen die niet werden gedood, werden als slaven meegenomen. [PAWN_nameDef] werd verkocht aan de eigenaar van een fabriek, en zwoer dat [PAWN_pronoun] op een dag [PAWN_possessive] wraak zou nemen.</desc>
 	</VengefulNomad67>
 
 	<!-- Felix Mellor, Male, Adulthood -->
 	<VersatileWorker13>
 		<!-- EN: versatile worker -->
-		<title>TODO</title>
+		<title>veelzijdige werker</title>
 		<!-- EN: worker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>werker</titleShort>
 		<!-- EN: Spending [PAWN_possessive] later teenage years in a colony of settlers, [PAWN_pronoun] offered what little skills [PAWN_pronoun] had to anyone who would take him.\n\nBeing a quick learner, [PAWN_pronoun] honed many of [PAWN_possessive] skills and, apart from [PAWN_possessive] crippling inability to understand fire, is now a fully functioning adult. -->
-		<desc>TODO</desc>
+		<desc>Tijdens [PAWN_possessive] verblijf in een kolonie kolonisten in [PAWN_possessive] latere tienerjaren, bood [PAWN_pronoun] de weinige vaardigheden die [PAWN_pronoun] had aan iedereen die hem wilde meenemen.\n\nAls snelle leerling verbeterde [PAWN_pronoun] veel van [PAWN_possessive] vaardigheden en, afgezien van [PAWN_possessive] verlammend onvermogen om vuur te begrijpen, is hij nu een volledig functionerende volwassene.</desc>
 	</VersatileWorker13>
 
 	<!-- Jeremy "Dems" Demler, Male, Childhood -->
 	<VideoGamer16>
 		<!-- EN: video gamer -->
-		<title>TODO</title>
+		<title>videogamer</title>
 		<!-- EN: gamer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>gamer</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up on a midworld, mostly locked in [PAWN_possessive] room, playing video games. [PAWN_pronoun] was warm-hearted, with a deep fondness for animals.\n\nAs [PAWN_pronoun] grew up, [PAWN_pronoun] turned to drugs to enhance [PAWN_possessive] reality. During these trying times [PAWN_pronoun] found passion and refuge in the gym. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een middenwereld, meestal opgesloten in [PAWN_possessive] kamer, en speelde videogames. [PAWN_pronoun] was hartelijk en had een diepe voorliefde voor dieren.\n\nToen [PAWN_pronoun] opgroeide, wendde [PAWN_pronoun] zich tot medicijnen om [PAWN_possessive] realiteit te verbeteren. Tijdens deze moeilijke tijden vond [PAWN_pronoun] passie en toevlucht in de sportschool.</desc>
 	</VideoGamer16>
 
 	<!-- Ryan Jung, Male, Childhood -->
 	<VideoGamer55>
 		<!-- EN: video gamer -->
-		<title>TODO</title>
+		<title>videogamer</title>
 		<!-- EN: gamer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>gamer</titleShort>
 		<!-- EN: [PAWN_nameDef] was raised in a glitterworld. Everything [PAWN_pronoun] wanted came to him. In school [PAWN_pronoun] was a social butterfly. At home, [PAWN_pronoun] spent [PAWN_possessive] time looking up the newest gadgets and playing [PAWN_possessive] favourite video games. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een glitterwereld. Alles wat [PAWN_pronoun] wilde, kwam naar hem toe. Op school was [PAWN_pronoun] een sociale vlinder. Thuis besteedde [PAWN_pronoun] [PAWN_possessive] tijd aan het opzoeken van de nieuwste gadgets en het spelen van [PAWN_possessive] favoriete videogames.</desc>
 	</VideoGamer55>
 
 	<!-- Brote "Weaves" Ampill, Male, Adulthood -->
 	<VideoProducer83>
 		<!-- EN: video producer -->
-		<title>TODO</title>
+		<title>video producent</title>
 		<!-- EN: producer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>producent</titleShort>
 		<!-- EN: Too awkward to socialize, [PAWN_nameDef] found comfort in the production of videos. Oddly, people enjoyed [PAWN_possessive] videos, calling them "perfect sitcom dramas".\n\n[PAWN_nameDef] took advantage of this and broadcast more, ever hopeful that [PAWN_pronoun] would be contacted by the Wizards. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was sociaal onhandig, maar vond troost bij de productie van video's. Vreemd genoeg genoten mensen van [PAWN_possessive] video's en noemden ze "perfecte sitcom-drama's".\n\n[PAWN_nameDef] profiteerde hiervan en zond meer uit, in de hoop dat [PAWN_pronoun] benaderd zou worden door de Wizards.</desc>
 	</VideoProducer83>
 
 	<!-- Remy Young, Male, Childhood -->
 	<VidtubeStar98>
 		<!-- EN: vidtube star -->
-		<title>TODO</title>
+		<title>vidtube ster</title>
 		<!-- EN: vidtuber -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vidtuber</titleShort>
 		<!-- EN: [PAWN_nameDef]'s hobby was making videos for the popular video sharing service Vidtube. [PAWN_pronoun] made everything from video game reviews to pasta cooking guides.\n\n[PAWN_pronoun] gained a over a million followers. -->
-		<desc>TODO</desc>
+		<desc>De hobby van [PAWN_nameDef] was het maken van video's voor een populaire dienst voor het delen van video's, Vidtube. [PAWN_pronoun] heeft van alles gemaakt, van recensies van videogames tot kookgidsen voor pasta.\n\n[PAWN_pronoun] kreeg meer dan een miljoen volgers.</desc>
 	</VidtubeStar98>
 
 	<!-- Alexander "Doctor" Five, Male, Adulthood -->
 	<Villain89>
 		<!-- EN: villain -->
-		<title>TODO</title>
+		<title>slechterik</title>
 		<!-- EN: villain -->
-		<titleShort>TODO</titleShort>
+		<titleShort>slechterik</titleShort>
 		<!-- EN: After rising to the top of [PAWN_possessive] criminal band, [PAWN_nameDef] was taught the arts of villainy, from handling firearms to developing new weapons technologies. [PAWN_pronoun] excelled at bending others to [PAWN_possessive] will. -->
-		<desc>TODO</desc>
+		<desc>Nadat hij naar de top van [PAWN_possessive] criminele organisatie was geklommen, leerde [PAWN_nameDef] de kunsten van het slecht zijn, van het omgaan met vuurwapens tot het ontwikkelen van nieuwe wapentechnologieën. [PAWN_pronoun] blonk uit in het buigen van anderen naar [PAWN_possessive] wil.</desc>
 	</Villain89>
 
 	<!-- Vitor "Oahnip" Pinhao, Male, Adulthood -->
 	<VinhoKing98>
 		<!-- EN: vinho king -->
-		<title>TODO</title>
+		<title>vinhokoning</title>
 		<!-- EN: booze king -->
-		<titleShort>TODO</titleShort>
+		<titleShort>drankkoning</titleShort>
 		<!-- EN: After prohibition came to Aracena VI, [PAWN_nameDef] expanded [PAWN_possessive] underground liquor business until it dominated the market on two continents. They called [PAWN_objective] the Vinho King.\n\nThough [PAWN_pronoun] mostly controlled [PAWN_possessive] competition by masterful political maneuvering, [PAWN_pronoun] was not above the occasional beat-down or stiletto assassination. -->
-		<desc>TODO</desc>
+		<desc>Nadat de drooglegging op Aracena VI begon, breidde [PAWN_nameDef] [PAWN_possessive] ondergrondse drankhandel uit totdat het de markt op twee continenten domineerde. Ze noemden [PAWN_objective] de Vinhokoning.\n\nHoewel [PAWN_pronoun] de concurrentie voornamelijk beheerste door meesterlijke politieke manoeuvres, stond [PAWN_pronoun] niet boven het begaan van een moord of aanslag.</desc>
 	</VinhoKing98>
 
 	<!-- Nicolas "Vikinger" Meyer, Male, Adulthood -->
 	<VoidRaider74>
 		<!-- EN: void raider -->
-		<title>TODO</title>
+		<title>ruimtebandiet</title>
 		<!-- EN: Pirate -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piraat</titleShort>
 		<!-- EN: Craving adventure and glory, [PAWN_nameDef] set out across the void with a raider band, swearing [PAWN_possessive] loyalty to [PAWN_possessive] band and brothers, and spreading their glory through the stars with [PAWN_possessive] blade and pistol in hand. -->
-		<desc>TODO</desc>
+		<desc>Verlangend naar avontuur en glorie, vertrok [PAWN_nameDef] door de leegte met een bandietenbende.  [PAWN_ppronoun] zwoer [PAWN_possessive] loyaliteit aan [PAWN_possessive] bende en strijdmakkers, en verspreidde hun glorie door de sterren met [PAWN_possessive] mes en pistool in de hand.</desc>
 	</VoidRaider74>
 
 	<!-- Lucas "Blackjack" Wakefield, Male, Adulthood -->
 	<VoidspaceRaider94>
 		<!-- EN: voidspace raider -->
-		<title>TODO</title>
+		<title>ruimtebandiet</title>
 		<!-- EN: Pirate -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piraat</titleShort>
 		<!-- EN: After years of seeking the assassin that broke up [PAWN_possessive] family, [PAWN_nameDef] was offered a place with a group of space-faring raiders. [PAWN_pronoun] accepted, hoping to find the killer [PAWN_pronoun] sought.\n\nDue to [PAWN_possessive] seemingly-unending ability to narrowly escape danger, [PAWN_pronoun] earned the nickname 'Blackjack' in recognition of [PAWN_possessive] luck. -->
-		<desc>TODO</desc>
+		<desc>Na jarenlang op zoek te zijn geweest naar de huurmoordenaar die [PAWN_possessive] familie uit elkaar had geslagen, kreeg [PAWN_nameDef] een plaats aangeboden bij een groep ruimtevarende bandieten. [PAWN_pronoun] accepteerde, in de hoop de moordenaar te vinden die [PAWN_pronoun] zocht.\n\nDoor [PAWN_possessive] schijnbaar oneindig vermogen om ternauwernood aan gevaar te ontsnappen, kreeg [PAWN_pronoun] de bijnaam 'Blackjack' als erkenning voor [PAWN_possessive] geluk.</desc>
 	</VoidspaceRaider94>
 
 	<!-- Dominic "Byte" Byter, Male, Childhood -->
 	<VoyagerChild94>
 		<!-- EN: voyager child -->
-		<title>TODO</title>
+		<title>reizigerskind</title>
 		<!-- EN: voyager -->
-		<titleShort>TODO</titleShort>
+		<titleShort>reiziger</titleShort>
 		<!-- EN: [PAWN_nameDef] was raised on an R&D starship, and spent most of [PAWN_possessive] childhood travelling through the void.\n\nApproaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [PAWN_pronoun] soon developed an unnatural gift for technological research. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op op een wetenschappelijk ruimteschip en bracht het grootste deel van [PAWN_possessieve] jeugd door met reizen door de leegte.\n\nToen het schip een mysterieuze planetoïde naderde, raakte het ernstig beschadigd. [PAWN_possessive] volgende herinnering is van het schip dat een baan verliet, volledig gerepareerd. [PAWN_pronoun] ontwikkelde al snel een onnatuurlijke gave voor technologisch onderzoek.</desc>
 	</VoyagerChild94>
 
 	<!-- Douglas "Doug" Black, Male, Childhood -->
 	<VRAddict29>
 		<!-- EN: vR addict -->
-		<title>TODO</title>
+		<title>VR verslaafde</title>
 		<!-- EN: vR addict -->
-		<titleShort>TODO</titleShort>
+		<titleShort>VR verslaafde</titleShort>
 		<!-- EN: [PAWN_nameDef] was a VR head - someone who is permanently jacked into the virtual gaming universe by [PAWN_possessive] spinal plug. [PAWN_pronoun] moved through [PAWN_possessive] daily tasks barely aware of the physical reality around him. This left [PAWN_objective] nearly unable to socialize.\n -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een VR-junk - iemand die zich permanent in het virtuele speluniversum bevindt via [PAWN_possessive] spinale plug. [PAWN_pronoun] voerde [PAWN_possessive] dagelijkse taken uit en was zich nauwelijks bewust van de fysieke realiteit om hem heen. Dit zorgde ervoor dat [PAWN_objective] bijna niet in staat tot sociale interactie.</desc>
 	</VRAddict29>
 
 	<!-- Melissa "Lissa" Archer, Female, Adulthood -->
 	<WanderingCrafter42>
 		<!-- EN: wandering crafter -->
-		<title>TODO</title>
+		<title>zwervende handwerkster</title>
 		<!-- EN: crafter -->
-		<titleShort>TODO</titleShort>
+		<titleShort>handwerkster</titleShort>
 		<!-- EN: [PAWN_nameDef] continued to follow [PAWN_possessive] parents' nomadic ways, supporting [PAWN_objective]self with [PAWN_possessive] crafting skills. But wandering is a hard life, and [PAWN_pronoun] often thought of finding somewhere to settle down and put [PAWN_possessive] skills to good use. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] bleef de nomadische wegen van [PAWN_possessive] ouders volgen en hield zichzelf in leven met [PAWN_possessive] knutselvaardigheden. Maar ronddwalen is een zwaar leven, en [PAWN_pronoun] dacht er vaak aan om ergens te gaan wonen en [PAWN_possessieve] vaardigheden goed te benutten.</desc>
 	</WanderingCrafter42>
 
 	<!-- Aelanna "Anna" Cessara, Female, Adulthood -->
 	<WanderingHealer52>
 		<!-- EN: wandering healer -->
-		<title>TODO</title>
+		<title>zwervende genezer</title>
 		<!-- EN: healer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>genezer</titleShort>
 		<!-- EN: [PAWN_nameDef] studied to be a doctor, but was dissatisfied with [PAWN_possessive] practice on an otherwise peaceful midworld.\n\nInstead, [PAWN_pronoun] chose to pull up roots and travel to the rimworlds in order to care for people who needed [PAWN_objective] most. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] studeerde om dokter te worden, maar was ontevreden over [PAWN_possessive] praktijk op een verder vredige middenwereld.\n\nIn plaats daarvan koos [PAWN_pronoun] ervoor om de biezen te pakken en naar de rimworlds te reizen om voor mensen te zorgen die [PAWN_objective] het meest nodig hadden.</desc>
 	</WanderingHealer52>
 
 	<!-- Valentin "Val" Anastasi, Male, Adulthood -->
 	<WarChief97>
 		<!-- EN: war chief -->
-		<title>TODO</title>
+		<title>oorlogsstamhoofd</title>
 		<!-- EN: chief -->
-		<titleShort>TODO</titleShort>
+		<titleShort>stamhoofd</titleShort>
 		<!-- EN: [PAWN_nameDef] was a tribal gang leader on a rimworld. For [PAWN_objective], the battlefield is a game, and there is nothing more fun than the fires of war. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een stambendeleider op een rimworld. Voor [PAWN_objective] is het slagveld een spel en is er niets leuker dan het vuur van de oorlog.</desc>
 	</WarChief97>
 
 	<!-- Mushinto "Mushinto" Takamu, Male, Childhood -->
 	<WarChild24>
 		<!-- EN: war child -->
-		<title>TODO</title>
+		<title>oorlogskind</title>
 		<!-- EN: war child -->
-		<titleShort>TODO</titleShort>
+		<titleShort>oorlogskind</titleShort>
 		<!-- EN: [PAWN_nameDef]'s parents were drafted into a civil war. Growing up surrounded by fighting and death, [PAWN_pronoun] became well-accustomed to tragedy. [PAWN_possessive] expressive side, however, never developed. -->
-		<desc>TODO</desc>
+		<desc>De ouders van [PAWN_nameDef] werden opgeroepen voor een burgeroorlog. [PAWN_pronoun] groeide op terwijl hij werd omringd door gevechten en de dood, en raakte zeer gewend aan tragedie. [PAWN_possessive] expressieve kant is echter nooit ontwikkeld.</desc>
 	</WarChild24>
 
 	<!-- Ida "Ida" Painstingle, Female, Adulthood -->
 	<Warlordess14>
 		<!-- EN: warlordess -->
-		<title>TODO</title>
+		<title>krijgsvrouwe</title>
 		<!-- EN: warlordess -->
-		<titleShort>TODO</titleShort>
+		<titleShort>krijgsvrouwe</titleShort>
 		<!-- EN: [PAWN_nameDef] was the tough leader of a pirate band.\n\n[PAWN_pronoun] would accept any challenge, no matter how violent or dangerous. Others called [PAWN_pronoun] a killing machine. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was de taaie leider van een piratengroep.\n\n[PAWN_pronoun] nam elke uitdaging aan, hoe gewelddadig of gevaarlijk ook. Anderen noemden [PAWN_pronoun] een moordmachine.</desc>
 	</Warlordess14>
 
 	<!-- Reece Clarke, Male, Childhood -->
 	<WarRefugee96>
 		<!-- EN: war refugee -->
-		<title>TODO</title>
+		<title>oorlogsvluchteling</title>
 		<!-- EN: refugee -->
-		<titleShort>TODO</titleShort>
+		<titleShort>vluchteling</titleShort>
 		<!-- EN: A war broke on out [PAWN_nameDef]'s home planet.\n\nGathering what little food and belongings they could, [PAWN_nameDef] and [PAWN_possessive] father stole a ship and escaped into space. -->
-		<desc>TODO</desc>
+		<desc>Er brak een oorlog uit op de thuisplaneet van [PAWN_nameDef].\n\n[PAWN_nameDef] en [PAWN_possessive] vader verzamelden hun weinige voedsel en bezittingen, stalen een schip en vluchtten de ruimte in.</desc>
 	</WarRefugee96>
 
 	<!-- Isak  Haugen, Male, Adulthood -->
 	<Warrior73>
 		<!-- EN: warrior -->
-		<title>TODO</title>
+		<title>strijder</title>
 		<!-- EN: warrior -->
-		<titleShort>TODO</titleShort>
+		<titleShort>strijder</titleShort>
 		<!-- EN: [PAWN_nameDef] was a war hero during [PAWN_possessive] planet's third world war. [PAWN_pronoun] helped prevent the launch of nuclear weapons during a particularly tense standoff. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was een oorlogsheld tijdens de derde wereldoorlog van [PAWN_possessive] planeet. [PAWN_pronoun] hielp de lancering van kernwapens voorkomen tijdens een bijzonder gespannen impasse.</desc>
 	</Warrior73>
 
 	<!-- Sera "Kaleun" Steiner, Female, Adulthood -->
 	<WarshipCaptain67>
 		<!-- EN: warship captain -->
-		<title>TODO</title>
+		<title>oorlogsschip kapitein</title>
 		<!-- EN: captain -->
-		<titleShort>TODO</titleShort>
+		<titleShort>kapitein</titleShort>
 		<!-- EN: Years of being commanding officer of an advanced corvette taught [PAWN_nameDef] the art of leadership, the techniques of higher engineering, and how to stay calm while enemies try to kill you.\n\nUnfortunately, [PAWN_nameDef] only very rarely had contact with nature. -->
-		<desc>TODO</desc>
+		<desc>Na jarenlang commandant van een geavanceerd korvet te zijn geweest, leerde [PAWN_nameDef] de kunst van het leiderschap, de technieken van hogere machinerie en hoe je kalm kunt blijven terwijl vijanden je proberen te vermoorden.\n\nHelaas had [PAWN_nameDef] slechts zeer zelden contact met natuur.</desc>
 	</WarshipCaptain67>
 
 	<!-- Lucas "Blackjack" Wakefield, Male, Childhood -->
 	<WastelandWanderer81>
 		<!-- EN: wasteland wanderer -->
-		<title>TODO</title>
+		<title>zwerver door de woestenij</title>
 		<!-- EN: wanderer -->
-		<titleShort>TODO</titleShort>
+		<titleShort>zwerver</titleShort>
 		<!-- EN: Born into a wealthy family on a desert world, [PAWN_nameDef] was cast out after a hired attack squad destroyed [PAWN_possessive] ancestral home.\n\nThe boy managed to hide in a cooling duct beneath [PAWN_possessive] family's villa. Vowing revenge against the killers and whomever had hired them, [PAWN_nameDef] struck out into the wasteland, alone. -->
-		<desc>TODO</desc>
+		<desc>Geboren in een rijke familie in een woestijnwereld, werd [PAWN_nameDef] verstoten nadat een ingehuurd aanvalssquadron [PAWN_possessive] voorouderlijk huis had verwoest.\n\nDe jongen slaagde erin zich te verstoppen in een koelkanaal onder [PAWN_possessive] villa. [PAWN_nameDef] zwoer wraak te nemen op de moordenaars en op degene die hen had ingehuurd en ging alleen de woestenij in.</desc>
 	</WastelandWanderer81>
 
 	<!-- Darrien "Mal" Maliphalo, Either, Childhood -->
 	<WealthyStudent59>
 		<!-- EN: wealthy student -->
-		<title>TODO</title>
+		<title>vermogend student</title>
 		<!-- EN: student -->
-		<titleShort>TODO</titleShort>
+		<titleShort>student</titleShort>
 		<!-- EN: [PAWN_nameDef] was born on a wealthy glitterworld. [PAWN_pronoun] studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.\n\n[PAWN_nameDef] grew up in clean, sterile environments. [PAWN_pronoun] never saw a farm or livestock. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren op een rijke glitterwereld. [PAWN_pronoun] studeerde aan de Caspische Technische School en blonk uit in wiskunde en computerprogrammering.\n\n[PAWN_nameDef] groeide op in schone, steriele omgevingen. [PAWN_pronoun] heeft nooit een boerderij of vee gezien.</desc>
 	</WealthyStudent59>
 
 	<!-- Korwal "Bomba" Ferrara, Male, Adulthood -->
 	<WhiteHatHacker82>
 		<!-- EN: white-hat hacker -->
-		<title>TODO</title>
+		<title>witte-pet hacker</title>
 		<!-- EN: hacker -->
-		<titleShort>TODO</titleShort>
+		<titleShort>hacker</titleShort>
 		<!-- EN: From [PAWN_possessive] computer, [PAWN_nameDef] helped rid the online world of bad people. -->
-		<desc>TODO</desc>
+		<desc>Vanaf [PAWN_possessive] computer hielp [PAWN_nameDef] de online wereld van slechte mensen te verlossen.</desc>
 	</WhiteHatHacker82>
 
 	<!-- Johs "Johs" Barrowlocht, Male, Childhood -->
 	<WildChild5>
 		<!-- EN: wild child -->
-		<title>TODO</title>
+		<title>wild kind</title>
 		<!-- EN: wild child -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wild kind</titleShort>
 		<!-- EN: [PAWN_nameDef] was abandoned on a toxic world overgrown with hostile plant life. [PAWN_pronoun] became accustomed early to the cold burn of loneliness.\n\n[PAWN_pronoun] learned to fight, but ate [PAWN_possessive] food raw and uncooked. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd achtergelaten op een giftige wereld overgroeid met vijandige planten. [PAWN_pronoun] raakte al vroeg gewend aan de kou van eenzaamheid.\n\n[PAWN_pronoun] leerde vechten, maar at [PAWN_possessive] voedsel rauw en ongekookt.</desc>
 	</WildChild5>
 
 	<!-- Billy "Bell" Belloch, Male, Adulthood -->
 	<WildlifeRanger99>
 		<!-- EN: wildlife ranger -->
-		<title>TODO</title>
+		<title>wildwachter</title>
 		<!-- EN: ranger -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wildwachter</titleShort>
 		<!-- EN: Dismayed at the poachers driving several animal species to near-extinction, [PAWN_nameDef] became a wildlife ranger. [PAWN_pronoun] cared for and protect the animals - by force if necessary.\n\n[PAWN_pronoun] grew to hate people slaughtering animals for luxury and profit. -->
-		<desc>TODO</desc>
+		<desc>Ontzet over de stropers die verschillende diersoorten met uitsterven bedreigden, werd [PAWN_nameDef] een wildwachter. [PAWN_pronoun] verzorgde en beschermde de dieren - indien nodig met geweld.\n\n[PAWN_pronoun] ontwikkelde een hekel aan mensen die dieren slachten voor luxe en winst.</desc>
 	</WildlifeRanger99>
 
 	<!-- Vitor "Oahnip" Pinhao, Male, Childhood -->
 	<Winerunner8>
 		<!-- EN: winerunner -->
-		<title>TODO</title>
+		<title>wijnkoerier</title>
 		<!-- EN: winerunner -->
-		<titleShort>TODO</titleShort>
+		<titleShort>wijnkoerier</titleShort>
 		<!-- EN: Abandoned by [PAWN_possessive] parents, [PAWN_nameDef] was raised by the monks of the Novo Mosteiro dos Jerónimos monastery on Aracena VI.\n\nThe monks taught [PAWN_objective] discipline and hard work. In return, [PAWN_pronoun] would go into the city and 'acquire' exotic wines for the monks' nightly tastings. -->
-		<desc>TODO</desc>
+		<desc>In de steek gelaten door [PAWN_possessive] ouders, werd [PAWN_nameDef] opgevoed door de monniken van het Novo Mosteiro dos Jerónimos klooster op Aracena VI.\n\nDe monniken leerden [PAWN_objective] discipline en hard werken. In ruil daarvoor ging [PAWN_pronoun] de stad in om exotische wijnen te 'kopen' voor de nachtelijke proeverijen van de monniken.</desc>
 	</Winerunner8>
 
 	<!-- Joshua "Marjot" Marjot, Either, Childhood -->
 	<WolfPackMember26>
 		<!-- EN: wolf pack member -->
-		<title>TODO</title>
+		<title>lid van een wolvenroedel</title>
 		<!-- EN: feral -->
-		<titleShort>TODO</titleShort>
+		<titleShort>verwilderde</titleShort>
 		<!-- EN: [PAWN_nameDef] was discarded by [PAWN_possessive] family. Raised by wolves, [PAWN_pronoun] ran, hunted, and defended [PAWN_possessive] pack.\n\n[PAWN_pronoun] learned to fight efficiently by tooth and claw. [PAWN_pronoun] also learned brutally effective primal hunting strategies. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd in de steek gelaten door [PAWN_possessive] familie. [PAWN_pronoun] werd opgevoed door wolven en rende, jaagde en verdedigde [PAWN_possessive] roedel.\n\n[PAWN_pronoun] leerde efficiënt vechten met tanden en klauwen. [PAWN_pronoun] leerde ook brute, effectieve oerjachtstrategieën.</desc>
 	</WolfPackMember26>
 
 	<!-- Damien "Sharpe" Sharpe, Male, Childhood -->
 	<WorkCampSlave37>
 		<!-- EN: work camp slave -->
-		<title>TODO</title>
+		<title>werkkamp slaaf</title>
 		<!-- EN: slave -->
-		<titleShort>TODO</titleShort>
+		<titleShort>slaaf</titleShort>
 		<!-- EN: [PAWN_nameDef] grew up as a slave to a particularly nasty noble family on a medieval world. \n\nWhile [PAWN_pronoun] received no formal education, the harsh labor regimen made [PAWN_possessive] body strong. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] groeide op als slaaf van een bijzonder akelige adellijke familie op een middeleeuwse wereld.\n\nHoewel [PAWN_pronoun] geen formele opleiding ontving, maakte het harde arbeidsregime [PAWN_possessive] lichaam sterk.</desc>
 	</WorkCampSlave37>
 
 	<!-- Alexander "Doctor" Five, Male, Childhood -->
 	<WorldSlider42>
 		<!-- EN: world slider -->
-		<title>TODO</title>
+		<title>wereldglijder</title>
 		<!-- EN: slider -->
-		<titleShort>TODO</titleShort>
+		<titleShort>glijder</titleShort>
 		<!-- EN: [PAWN_nameDef] was raised by a world-hopping band of criminals. [PAWN_pronoun] learned not to leave evidence of [PAWN_possessive] presence in case the group had to leave in a hurry. [PAWN_pronoun] also learned about medicine and hand-to-hand combat from [PAWN_possessive] fellow criminals. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd grootgebracht door een wereldberoemde bende criminelen. [PAWN_pronoun] leerde geen bewijs achter te laten van [PAWN_possessive] aanwezigheid voor het geval de groep haastig moest vertrekken. [PAWN_pronoun] leerde ook over geneeskunde en man-tegen-man-gevechten van [PAWN_possessive] medecriminelen.</desc>
 	</WorldSlider42>
 
 	<!-- Matthew Po, Male, Childhood -->
 	<YoungMaster23>
 		<!-- EN: young master -->
-		<title>TODO</title>
+		<title>jonge meester</title>
 		<!-- EN: master -->
-		<titleShort>TODO</titleShort>
+		<titleShort>meester</titleShort>
 		<!-- EN: Born to two medics, [PAWN_nameDef] longed for power. [PAWN_possessive] keen intellect and charisma helped [PAWN_objective] gain the respect of [PAWN_possessive] peers.\n\nDeciding that the best way to gain power was to climb the ranks of the imperial military, [PAWN_pronoun] joined at the youngest possible age. -->
-		<desc>TODO</desc>
+		<desc>Geboren uit twee medici, verlangde [PAWN_nameDef] naar macht. [PAWN_possessive] scherp intellect en charisma hielpen [PAWN_objective] het respect te winnen van [PAWN_possessive] leeftijdsgenoten.\n\n[PAWN_pronoun] besloot dat de beste manier om aan de macht te komen was door op te klimmen in de gelederen van het keizerlijke leger, en [PAWN_pronoun] sloot zich aan op de jongst mogelijke leeftijd .</desc>
 	</YoungMaster23>
 
 	<!-- Xiaoer Wang, Male, Childhood -->
 	<YoungPirate71>
 		<!-- EN: young pirate -->
-		<title>TODO</title>
+		<title>jonge piraat</title>
 		<!-- EN: pirate -->
-		<titleShort>TODO</titleShort>
+		<titleShort>piraat</titleShort>
 		<!-- EN: [PAWN_nameDef] was born to pirates, in a dirty metal room that smelled of motor oil.\n\n[PAWN_pronoun] was never exactly taught anything, but [PAWN_pronoun] still learned the ways of survival, barter, and combat. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren uit piraten, in een vuile metalen kamer die naar motorolie rook.\n\n[PAWN_pronoun] heeft nooit echt onderwijs gehad, maar [PAWN_pronoun] leerde desondanks de kunst van het overleven, ruilen en vechten.</desc>
 	</YoungPirate71>
 
 	<!-- Christophe Géradon, Male, Childhood -->
 	<YoungPsychologist58>
 		<!-- EN: young psychologist -->
-		<title>TODO</title>
+		<title>jonge psycholoog</title>
 		<!-- EN: psych -->
-		<titleShort>TODO</titleShort>
+		<titleShort>psycholoog</titleShort>
 		<!-- EN: [PAWN_nameDef] was born and raised on a poor midworld, in the front passenger seat of [PAWN_possessive] mother's cab.\n\nWatching pedestrians and listening to the taxi passengers all day long, [PAWN_pronoun] soon became very good at figuring out someone's real purpose. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] werd geboren en getogen op een arme middenwereld, op de passagiersstoel voorin van de taxi van [PAWN_possessive] moeder.\n\nDoor de hele dag naar voetgangers te kijken en naar de taxipassagiers te luisteren, werd [PAWN_pronoun] al snel heel goed in het uitzoeken van iemands echte bedoelingen.</desc>
 	</YoungPsychologist58>
 
 	<!-- Riesling Bacchus, Female, Childhood -->
 	<YouthDelinquent30>
 		<!-- EN: youth delinquent -->
-		<title>TODO</title>
+		<title>jeugddelinquent</title>
 		<!-- EN: delinquent -->
-		<titleShort>TODO</titleShort>
+		<titleShort>delinquent</titleShort>
 		<!-- EN: [PAWN_nameDef] was the only child of celebrity sommeliers. [PAWN_possessive] parents expected [PAWN_objective] to take up the family profession, but after [PAWN_possessive] third admission to a youth detention center, this career path became unlikely.\n\nWhile in detention, [PAWN_nameDef] became skilled at making shanks and developed an interest in ornithology. -->
-		<desc>TODO</desc>
+		<desc>[PAWN_nameDef] was het enige kind van beroemde sommeliers. [PAWN_possessive] ouders verwachtten dat [PAWN_objective] de familietraditie zou voortzetten, maar na [PAWN_possessive] derde opname in een jeugdgevangenis werd dit carrièrepad onwaarschijnlijk.\n\nTijdens zijn detentie werd [PAWN_nameDef] bedreven in het maken van scharen en ontwikkelde een interesse in ornithologie.</desc>
 	</YouthDelinquent30>
 
 	<!-- Nico Storch, Male, Childhood -->
 	<YouthSoldier99>
 		<!-- EN: youth soldier -->
-		<title>TODO</title>
+		<title>jeugdig soldaat</title>
 		<!-- EN: soldier -->
-		<titleShort>TODO</titleShort>
+		<titleShort>soldaat</titleShort>
 		<!-- EN: Born to a long line of soldiers, [PAWN_nameDef] joined a military training program.\n\n[PAWN_pronoun] excelled in physical training, and even passed most of the intellectual exams. While [PAWN_pronoun] was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering. -->
-		<desc>TODO</desc>
+		<desc>Geboren uit een lange rij soldaten, nam [PAWN_nameDef] deel aan een militair trainingsprogramma.\n\n[PAWN_pronoun] blonk uit in fysieke training en slaagde zelfs voor de meeste intellectuele examens. Hoewel [PAWN_pronoun] nooit bijzonder slim of lenig was, leerde [PAWN_nameDef] de waarde van hard werken en lijden.</desc>
 	</YouthSoldier99>
 
 	<!-- Fauna "Furr" Wells, Female, Childhood -->

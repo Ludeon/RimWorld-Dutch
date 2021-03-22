@@ -122,9 +122,9 @@
   <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} heeft geen empathisch vermogen. {PAWN_pronoun} stoort zich ook niet aan het lijden van anderen. het maakt {PAWN_objective} ook niets uit of een mens geslacht wordt, verkocht wordt als slaaf of als er iemand dood op de grond ligt - tenzij {PAWN_pronoun} wordt beïnvloed. {PAWN_pronoun} krijgt ook bijna geen stemmingsboost van gesprekken met anderen.</Psychopath.degreeDatas.psychopath.description>
   
   <!-- EN: pyromaniac -->
-  <Pyromaniac.degreeDatas.pyromaniac.label>pyromaniak</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.label>pyromaan</Pyromaniac.degreeDatas.pyromaniac.label>
   <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. -->
-  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} houdt van vuur. {PAWN_pronoun} zal nooit brandblussen. Om {PAWN_possessive} stressniveau te verlagen, zal {PAWN_pronoun} soms brandstichten. Dit zal vaker gebeuren als {PAWN_possessive} hemeur slecht is.</Pyromaniac.degreeDatas.pyromaniac.description>
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} houdt van vuur. {PAWN_pronoun} zal nooit branden blussen. Om {PAWN_possessive} stressniveau te verlagen, zal {PAWN_pronoun} soms brandstichten. Dit zal vaker gebeuren als {PAWN_possessive} stemming slecht is.</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
   <QuickSleeper.degreeDatas.quick_sleeper.label>snelle slaper</QuickSleeper.degreeDatas.quick_sleeper.label>

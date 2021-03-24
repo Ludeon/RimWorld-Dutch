@@ -129,7 +129,7 @@
     <li>r_name(p=0.18)->Het [PersonBadass] [groupnameNeuter]</li>
     <li>r_name->De [Enemy] [EnemyPlural]</li>
     <li>r_name(p=0.82)->De [AdjectiveBadassGendered] [groupnameGendered]</li>
-    <li>r_name(p=0.18)->Het [AdjectiveBadassNeuter] [groupnameNeuter]</li>
+    <li>r_name(p=0.18)->Het [AdjectiveBadassGendered] [groupnameNeuter]</li>
     <li>r_name->De [AdjectiveBadassGendered] [AnimalBadassPlural]</li>
     <li>r_name->De [AdjectiveBadassGendered] [EnemyPlural]</li>
     <li>r_name->De [AdjectiveBadassGendered] [PersonBadassPlural]</li>

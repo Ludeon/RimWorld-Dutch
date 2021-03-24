@@ -72,12 +72,12 @@
   <!-- EN: colonist's organ harvested -->
   <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>orgaan van kolonist verwijderd</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
   <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Iemand heeft lichaamsdelen van een kolonist verwijderd. Het is vreselijk om iemand uit elkaar te halen voor onderdelen zonder dat ze daar keus is hebben.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Iemand heeft lichaamsdelen van een kolonist verwijderd. Het is vreselijk om iemand uit elkaar te halen voor onderdelen zonder dat ze daar keus in hebben.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
   
   <!-- EN: someone's organ harvested -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>orgaan van iemand verwijderd</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
-  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>We hebben lichaamsdelen van een gast of gevangene verwijderd. Het is vreselijk om iemand uit elkaar te halen voor onderdelen zonder dat ze daar keus is hebben.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>We hebben lichaamsdelen van een gast of gevangene verwijderd. Het is vreselijk om iemand uit elkaar te halen voor onderdelen zonder dat ze daar keus in hebben.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
   <!-- EN: prisoner sold -->
   <KnowPrisonerSold.stages.prisoner_sold.label>gevangene verkocht</KnowPrisonerSold.stages.prisoner_sold.label>

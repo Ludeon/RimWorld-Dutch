@@ -163,17 +163,17 @@
   <Scratch.labelNounPretty>{0} in de {1}</Scratch.labelNounPretty>
   
   <!-- EN: shredded -->
-  <Shredded.label>Versnipperd</Shredded.label>
+  <Shredded.label>Doorzeefd</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
-  <Shredded.description>Een lichaamsdeel is verscheurd en versnipperd.</Shredded.description>
+  <Shredded.description>Een lichaamsdeel is verscheurd en doorzeefd.</Shredded.description>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>versnipperd litteken</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>doorzeefd litteken</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Shredded.injuryProps.destroyedLabel>Afgescheurd</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
   <Shredded.injuryProps.destroyedOutLabel>Uitgescheurd</Shredded.injuryProps.destroyedOutLabel>
   <!-- EN: a shredded wound -->
-  <Shredded.labelNoun>een versnipperde wond</Shredded.labelNoun>
+  <Shredded.labelNoun>een doorzeefde wond</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Shredded.labelNounPretty>{0} in de {1}</Shredded.labelNounPretty>
   

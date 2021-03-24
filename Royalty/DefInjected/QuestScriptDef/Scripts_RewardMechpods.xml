@@ -13,7 +13,7 @@
     <li>dangersDescription-></li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] van [asker_faction_name], doet een verzoek. [commonMainPart]</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], een [asker_royalTitleInCurrentFaction] van [asker_faction_name], doet een verzoek. [commonMainPart]</li>
-    <li>commonMainPart->Een mechanoïde zwerm valt [asker_possessive] nederzettingen aan. [asker_pronoun] wil dat je de mechs een signaal geeft om ze af te leiden terwijl [asker_pronoun] de zwerm opruimt. Als je dat doet, zal (*Threat)een mechanoïde cluster(/Threat) landen in [map_definite]. [DangersDescription]\n\nDe mechanoïde cluster zal aanvankelijk inactief zijn. Het kan een aftellende activator hebben, of het kan voor altijd inactief blijven totdat het wordt gestoord.[helpersParagraph]</li>
+    <li>commonMainPart->Een mechanoïde zwerm valt [asker_possessive] nederzettingen aan. [asker_pronoun] wil dat je de mechs een signaal geeft om ze af te leiden terwijl [asker_pronoun] de zwerm opruimt. Als je dat doet, zal (*Threat)een mechanoïde cluster(/Threat) landen in [map_definite].[dangersDescription]\n\nDe mechanoïde cluster zal aanvankelijk inactief zijn. Het kan een aftellende activator hebben, of het kan voor altijd inactief blijven totdat het wordt gestoord.[helpersParagraph]</li>
   </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[menace] cluster</li>

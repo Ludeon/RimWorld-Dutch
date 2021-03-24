@@ -28,7 +28,7 @@
   <MeditationFocusStrength.formatStringUnfinalized>{0} / dag</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>psychische gevoeligheidscompensatie</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>psychische gevoeligheid compensatie</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
   <PsychicSensitivityOffset.description>Een compensatie toegepast op de psychische gevoeligheid van de gebruiker.</PsychicSensitivityOffset.description>
   

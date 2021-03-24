@@ -61,7 +61,7 @@
   <WorkTableWorkSpeedFactor.description>Werksnelheid wordt vermenigvuldigd met deze waarde.</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
-  <WorkToBuild.label>vereiste arbeid</WorkToBuild.label>
+  <WorkToBuild.label>werk om te maken</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
   <WorkToBuild.description>De basis hoeveelheid werk die nodig is om een gebouw te bouwen, zodra alle materialen zijn verzameld.</WorkToBuild.description>
   

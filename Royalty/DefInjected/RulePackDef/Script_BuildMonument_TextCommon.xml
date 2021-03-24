@@ -40,7 +40,7 @@
     <li>buildReason->om gevoelens van [ConceptAngsty] onder de mensen te verminderen</li>
     <li>buildReason->om uit te drukken hoe [AdjectiveBadass] [asker_pronoun] is</li>
     <li>buildReason->ter herdenking van [asker_possessive] [asker_faction_pawnsPlural] die zijn gesneuveld in de strijd</li>
-    <li>buildReason->ter ere van [vragensteller bezitterig] [persoon familie]</li>
+    <li>buildReason->ter ere van [asker_possessive] [PersonFamily]</li>
     <li>buildReason->om het werk van [PersonJobPlural] te eren</li>
     <li>buildReason->om afbeeldingen van [asker_possessive] [glory] over het land te verspreiden</li>
     <li>glory->glorie</li>

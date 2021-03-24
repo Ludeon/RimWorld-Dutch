@@ -845,7 +845,7 @@
   <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>Heeft lichtniveau nodig</PlantNeedsLightLevel>
   <!-- EN: Resting -->
-  <PlantResting>rustend</PlantResting>
+  <PlantResting>In rust</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
   <OutOfIdealTemperatureRange>Niet-ideale temperatuur. Temperatuurgroei factor: {0}%</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
@@ -867,7 +867,7 @@
   <!-- EN: Blighted -->
   <Blighted>Meeldauw</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>Sterven door blootstelling aan licht</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Stervend door blootstelling aan licht</DyingBecauseExposedToLight>
 
   <!-- Zones -->
   <!-- EN: Zone -->

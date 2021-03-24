@@ -142,7 +142,7 @@
   <SurgeryViolationFellowFactionMember>misdaad tegen bondgenoot</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
-  <ConsumeThing>Consumeer {1_labelShort}</ConsumeThing>
+  <ConsumeThing>{1_labelShort} consumeren</ConsumeThing>
   
   <!-- EN: Cannot go here: no path -->
   <CannotGoNoPath>Kan hier niet naartoe gaan: geen pad beschikbaar</CannotGoNoPath>
@@ -157,7 +157,7 @@
   <CannotArrest>Arrestatie onmogelijk</CannotArrest>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>Neem {1_label} gevangen</Capture>
+  <Capture>{1_label} gevangennemen</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Gevangennemen onmogelijk</CannotCapture>
 

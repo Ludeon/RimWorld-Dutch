@@ -551,13 +551,13 @@
   <MessageAnimalLostSkill>Door een gebrek aan onderhoudstraining heeft {ANIMAL_labelShort} een vaardigheid verloren: {1} </MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
-  <MessageTranslationReportSaved>Vertaalrapport geschreven naar {0} </MessageTranslationReportSaved>
+  <MessageTranslationReportSaved>Vertaalverslag geschreven naar {0}</MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>{0} kon zijn bestemming niet bereiken</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>{0} kon zijn bestemming niet bereiken.</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <MessageEnterCooldownBlocksEntering>Je kunt hier de komende {0} niet nogmaals heen voor.</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>Je kunt hier de komende {0} niet nogmaals heen.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
   <MessagePermitCooldownFinished>{0_labelShort} kan nu vrijelijk gebruik maken van "{1}".</MessagePermitCooldownFinished>
@@ -568,7 +568,7 @@
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
   <MessagePrisonerResistanceBroken>De weerstand van de gevangene {PRISONER_labelShort} is gebroken door {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>De aanwervingspogingen zullen beginnen.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>De rekruteringspogingen zullen beginnen.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
   <MessageModWithPackageIdAlreadyEnabled>Een andere mod met packageId {0} is al actief. Deactiveer {1} voordat je deze mod activeert.</MessageModWithPackageIdAlreadyEnabled>

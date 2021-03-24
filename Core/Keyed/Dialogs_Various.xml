@@ -613,19 +613,19 @@
   <!-- EN: Next restock: {0} days -->
   <NextTraderRestock>Volgende aanvulling: {0} dagen</NextTraderRestock>
   <!-- EN: Creatures -->
-  <PawnsTabShort>wezens</PawnsTabShort>
+  <PawnsTabShort>Wezens</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <FormCaravan>Vorm karavaan</FormCaravan>
+  <FormCaravan>Karavaan vormen</FormCaravan>
   <!-- EN: Send -->
-  <Send>Verstuur</Send>
+  <Send>Versturen</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Aantal beschikbaar om mee te sturen met de karavaan.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>Mensen en dieren</PawnsTab>
   <!-- EN: Items -->
-  <ItemsTab>Items</ItemsTab>
+  <ItemsTab>Voorwerpen</ItemsTab>
   <!-- EN: Travel supplies -->
   <FoodAndMedicineTab>Benodigdheden voor onderweg</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
@@ -651,7 +651,7 @@
   <!-- EN: Days of food -->
   <DaysWorthOfFood>Dagen waard aan voedsel</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
-  <DaysWorthOfFoodInfoRot>rot in {0}</DaysWorthOfFoodInfoRot>
+  <DaysWorthOfFoodInfoRot>verrot over {0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Oneindig</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
@@ -723,7 +723,7 @@
   <!-- EN: Change route -->
   <ChangeRouteButton>Wijzig route</ChangeRouteButton>
   <!-- EN: Abandon -->
-  <AbandonButton>Verlaat</AbandonButton>
+  <AbandonButton>Verlaten</AbandonButton>
   <!-- EN: Movement speed -->
   <CaravanMovementSpeed>Bewegings-\nsnelheid</CaravanMovementSpeed>
   <!-- EN: tiles/day -->

@@ -492,13 +492,13 @@
   <!-- EN: Special features -->
   <SpecialFeatures>Speciale kenmerken</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>Noordelijke kust</HasCoast0>
+  <HasCoast0>noordelijke kust</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>Oostelijke kust</HasCoast1>
+  <HasCoast1>oostelijke kust</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>Zuidelijke kust</HasCoast2>
+  <HasCoast2>zuidelijke kust</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>Westelijke kust</HasCoast3>
+  <HasCoast3>westelijke kust</HasCoast3>
   <!-- EN: caves -->
   <HasCaves>grotten</HasCaves>
   <!-- EN: Faction base -->
@@ -516,7 +516,7 @@
   <!-- EN: per year -->
   <PerYear>per jaar</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>Veevoederwinning </Forageability>
+  <Forageability>Foerageersnelheid</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Geen van de geselecteerde mensen kan de volgende taken uitvoeren:\n\n{0}\n\nDit kan het spel moeilijker maken dan normaal. Weet je zeker dat je wilt doorgaan?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
@@ -532,11 +532,11 @@
   <!-- EN: Randomize -->
   <Randomize>Willekeurig</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>Leeftijd: {0}</AgeIndicator>
+  <AgeIndicator>leeftijd: {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
   <PawnSummary>{PAWN_race}, leeftijd {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, leeftijd {PAWN_ageFull}</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_race}, {PAWN_gender}, leeftijd {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Achtergrond</Backstory>
   <!-- EN: Incapable of -->

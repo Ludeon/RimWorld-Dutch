@@ -597,9 +597,9 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>slepen van {THING_label} naar {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>{THING_label} naar {DESTINATION} aan het slepen.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>begraven van {THING_label} in {DESTINATION}</ReportHaulingToGrave>
+  <ReportHaulingToGrave>{THING_label} in {DESTINATION} aan het begraven.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>{1_label} aan het slepen.</ReportHauling>
   <!-- EN: hauling. -->

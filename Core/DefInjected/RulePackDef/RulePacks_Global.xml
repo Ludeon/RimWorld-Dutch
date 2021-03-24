@@ -143,6 +143,8 @@
     <li>ConceptAnyNeuter(p=4)->[ConceptAngstyNeuter]</li>
     <li>ConceptAny(p=89)->[ConceptAnyGendered]</li>
     <li>ConceptAny(p=20)->[ConceptAnyNeuter]</li>
+    <li>ConceptAngsty(p=33)->[ConceptAngstyGendered]</li>
+    <li>ConceptAngsty(p=4)->[ConceptAngstyNeuter]</li>
     <li>PersonalCharacteristic(p=13)->seksuele ervaring</li>
     <li>PersonalCharacteristic(p=13)->schaamhaar</li>
     <li>PersonalCharacteristic(p=13)->lichaamshaar</li>

@@ -107,7 +107,7 @@
   <!-- EN: Doctors care -->
   <DoctorsCare>Wordt verzorgd</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>Krijgt medicijnen </GetsMedicine>
+  <GetsMedicine>Krijgt medicijnen</GetsMedicine>
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Probeer te rekruteren</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
@@ -121,9 +121,9 @@
   <!-- EN: Efficiency -->
   <Efficiency>Efficiëntie</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>Onderdelenefficiëntie</PartEfficiency>
+  <PartEfficiency>Onderdeelefficiëntie</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>
+  <BodyPartEfficiency>Efficiëntie van het lichaamsdeel</BodyPartEfficiency>
   <!-- EN: Gone -->
   <MissingBodyPart>Ontbreekt</MissingBodyPart>
   <!-- EN: Destroyed -->
@@ -250,7 +250,7 @@
   <!-- EN: I'm dead -->
   <IAmDead>Ik ben dood</IAmDead>
   <!-- EN: I'm a psychopath -->
-  <IAmPsychopath>Ik ben een psychopaat </IAmPsychopath>
+  <IAmPsychopath>Ik ben een psychopaat</IAmPsychopath>
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
@@ -260,7 +260,7 @@
   <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>Comfortabel temperatuurbereik</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>Bot</ArmorBlunt>
+  <ArmorBlunt>Stomp</ArmorBlunt>
   <!-- EN: Sharp -->
   <ArmorSharp>Scherp</ArmorSharp>
   <!-- EN: Heat -->
@@ -280,19 +280,19 @@
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>Items verzamelen</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Items aan het verzamelen</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>Items verzamelen (wahten)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Items aan het verzamelen (wahten)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>Verzamelen van neergehaalde mensen</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Geergehaalde mensen aan het verzamelen</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>Verzamelen van neergehaalde mensen (wachten)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Neergehaalde mensen aam jet verzamelen (wachten)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>Vertrekken</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>Aan het vertrekken</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>Vertrekken (wachten)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Aan het vertrekken (wachten)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
-  <FormingCaravanStatus_Waiting>Wachten</FormingCaravanStatus_Waiting>
+  <FormingCaravanStatus_Waiting>Aan het wachten</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
   <CaravanMembers>Leden</CaravanMembers>
   <!-- EN: Animals -->
@@ -302,9 +302,9 @@
   <!-- EN: Loaded -->
   <LoadedItems>Geladen items </LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>lastdieren laden</PackAnimalsCountLower>
+  <PackAnimalsCountLower>lastdieren</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>geestelijk gebroken</InMentalStateCountLower>
+  <InMentalStateCountLower>zenuwinzinking</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
@@ -312,7 +312,7 @@
   <!-- EN: Contained items -->
   <ContainedItems>Bevatte voorwerpen</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>Wilt u {0} echt verwijderen?</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>Wil je {0} echt verwijderen?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->

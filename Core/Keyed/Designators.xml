@@ -85,17 +85,17 @@
   <!-- EN: Build roof area -->
   <DesignatorAreaBuildRoofExpand>Dakzone uitbreiden</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>Kolonisten zullen in dit gebied daken bouwen.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonisten zullen in deze zone daken bouwen.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Dakzone verwijderen</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Kolonisten zullen de daken in dit gebied verwijderen (behalve in een berg, dat kan niet worden verwijderd)</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Kolonisten zullen de daken in deze zone verwijderen (behalve in een berg, dat kan niet worden verwijderd)</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
   <DesignatorAreaIgnoreRoofExpand>Dakzone negeren</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>Kolonisten zullen daken in dit gebied negeren.</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>Kolonisten zullen daken in deze zone negeren.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>Sneeuwvrije zone uitbreiden</DesignatorAreaSnowClearExpand>
@@ -104,21 +104,21 @@
   <!-- EN: Clear snow clear Area -->
   <DesignatorAreaSnowClearClear>Sneeuwvrije zone verwijderen</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>Verwijdert een sneeuwvrije zone. Kolonisten zullen niet langer proberen dit gebied sneeuwvrij te houden.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>Verwijdert een sneeuwvrije zone. Kolonisten zullen niet langer proberen deze zone sneeuwvrij te houden.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>Toegestane gebied uitbreiden</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Toegestane zone uitbreiden</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>Breid een toegestaan gebied uit.\n\nToegestane gebieden zijn gedefinieerde gebieden die je kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>Breid een toegestane zone uit.\n\nToegestane zones zijn gedefinieerde zones die je kunt toewijzen aan kolonisten. Kolonisten accepteren geen werk en zullen hun behoeften niet vervullen buiten de toegestane zone.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>toegestane gebied verwijderen</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>toegestane zone verwijderen</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>Wis vakken uit een toegestaan gebied. Toegestane gebieden zijn gedefinieerde gebieden die je kunt toewijzen aan kolonisten.  Kolonisten accepteren geen werk of voldoen niet aan hun behoeften buiten het toegestane gebied</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>Wis tegels uit een toegestane zone.\n\nToegestane zones zijn gedefinieerde zones die je kunt toewijzen aan kolonisten. Kolonisten accepteren geen werk en zullen hun behoeften niet vervullen buiten de toegestane zone.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Beheer zones</ManageAreas>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
-  <DesignatorGrowingZoneDesc>Markeer een gebied waar kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Markeer een zone waar kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
 
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageResourcesDesc>MMaak een opslagplaats aan waar uw kolonisten grondstoffen opslaan. Deze tool kan ook bestaande opslagplaatsen uitbreiden.</DesignatorZoneCreateStorageResourcesDesc>

@@ -223,11 +223,11 @@
   <!-- EN: Appeared on {0} -->
   <AppearedOn>Ontvangen op {0}</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>Geaccepteerd {0} geleden</AcceptedAgo>
+  <AcceptedAgo>{0} geaccepteerd geleden</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
   <AcceptedOn>Geaccepteerd op {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>Geaccepteerd {0} geleden door {1}</AcceptedAgoBy>
+  <AcceptedAgoBy>{0} geleden geaccepteerd door {1}</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
   <AcceptedOnBy>Geaccepteerd op {0} door {1}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
@@ -235,9 +235,9 @@
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>Verloopt op {0}</QuestExpiresOn>
   <!-- EN: Average guest mood (previous {0}): {1} -->
-  <QuestAveragePawnMood>Gemiddeld gasthumeur (voorheen {0}): {1}</QuestAveragePawnMood>
+  <QuestAveragePawnMood>Gemiddeld stemming (afgelopen {0}): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
-  <QuestAveragePawnMoodTargets>Het gemiddelde humeur van {0} over de laatste {1}</QuestAveragePawnMoodTargets>
+  <QuestAveragePawnMoodTargets>De gemiddelde stemming van {0} over de afgelopen {1}</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>Shuttle arriveert over {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->

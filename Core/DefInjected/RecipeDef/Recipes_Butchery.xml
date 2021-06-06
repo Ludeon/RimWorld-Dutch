@@ -6,20 +6,20 @@
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
   <ButcherCorpseFlesh.description>Een dier slachten om vlees, leer en andere lichaamsprodukten te kunnen gebruiken.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
-  <ButcherCorpseFlesh.jobString>Slachten.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.jobString>Aan het slachten.</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid -->
   <ButcherCorpseMechanoid.label>mechanoïde afbreken</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
   <ButcherCorpseMechanoid.description>Breek een mechanoïde af in een poging bruikbare onderdelen te verzamelen.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>Mechanoïde afbreken.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>Mechanoïde aan het afbreken.</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
   <SmashCorpseMechanoid.label>mechanoïde kapot slaan</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
   <SmashCorpseMechanoid.description>Sla een mechanoïde met eenvoudige handwerktuigen om bruikbaar materiaal te verzamelen.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>Mechanoïde aan het slaan</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>Mechanoïde kapot aan het slaan</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

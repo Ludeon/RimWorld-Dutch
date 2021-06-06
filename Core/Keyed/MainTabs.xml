@@ -223,7 +223,7 @@
   <!-- EN: Appeared on {0} -->
   <AppearedOn>Ontvangen op {0}</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>{0} geaccepteerd geleden</AcceptedAgo>
+  <AcceptedAgo>{0} geleden geaccepteerd</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
   <AcceptedOn>Geaccepteerd op {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->

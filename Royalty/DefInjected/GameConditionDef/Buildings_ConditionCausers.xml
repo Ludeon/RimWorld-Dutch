@@ -13,7 +13,7 @@
   <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
   <EMIField.description>Een elektromagnetische interferentiedynamo projecteert een EM-interferentieveld, waardoor elektrische apparaten worden uitgeschakeld.</EMIField.description>
   <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
-  <EMIField.descriptionFuture>een verre EMI-dynamo zal [map_definite] met een EMI-veld belagen, waardoor elektrische apparaten worden uitgeschakeld voor [gameConditionDuration_duration]</EMIField.descriptionFuture>
+  <EMIField.descriptionFuture>zal een verre EMI-dynamo [map_definite] met een EMI-veld belagen, waardoor elektrische apparaten worden uitgeschakeld voor [gameConditionDuration_duration]</EMIField.descriptionFuture>
   <!-- EN: The EMI field has disappeared. -->
   <EMIField.endMessage>Het EMI-veld is verdwenen.</EMIField.endMessage>
   <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
@@ -31,7 +31,7 @@
   <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
   <PsychicSuppression.description>Een psychisch onderdrukkingsveld beïnvloedt {0}e mensen en vermindert hun bewustzijn. Het effect wordt gemoduleerd door de psychische gevoeligheid van een individu.</PsychicSuppression.description>
   <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
-  <PsychicSuppression.descriptionFuture>een psychische onderdrukkingsgolf zal het bewustzijn van alle [psychicSuppressorGender]e mensen rond [map_definite] verminderen voor [gameConditionDuration_duration]</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.descriptionFuture>zal een psychische onderdrukkingsgolf het bewustzijn van alle [psychicSuppressorGender]e mensen rond [map_definite] verminderen voor [gameConditionDuration_duration]</PsychicSuppression.descriptionFuture>
   <!-- EN: The psychic suppressor field has dissipated. -->
   <PsychicSuppression.endMessage>Het psychische onderdrukkingsveld is verdwenen.</PsychicSuppression.endMessage>
   <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
@@ -56,7 +56,7 @@
   <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
   <WeatherController.description>Een weercontrolesysteem in de buurt dwingt het weer in deze configuratie.</WeatherController.description>
   <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
-  <WeatherController.descriptionFuture>een weercontrolesysteem zal het weer rond [map_definite] dwingen om [forcedWeather_indefinite] te worden voor [gameConditionDuration_duration]</WeatherController.descriptionFuture>
+  <WeatherController.descriptionFuture>zal een weercontrolesysteem het weer rond [map_definite] dwingen om [forcedWeather_indefinite] te worden voor [gameConditionDuration_duration]</WeatherController.descriptionFuture>
   <!-- EN: The weather controller is no longer changing the weather. -->
   <WeatherController.endMessage>Het weercontrolesysteem verandert het weer niet langer.</WeatherController.endMessage>
   <!-- EN: A weather controller machine has begun affecting the weather. -->

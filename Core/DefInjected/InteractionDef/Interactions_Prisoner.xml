@@ -40,7 +40,7 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] aan [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] vertelde [RECIPIENT_nameDef] over [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] beschreef [subject] aan [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] moedigde [RECIPIENT_nameDef] aan om [talkabout] [subject].</li>

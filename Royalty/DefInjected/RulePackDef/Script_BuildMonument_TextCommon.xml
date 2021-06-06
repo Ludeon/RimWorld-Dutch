@@ -84,27 +84,42 @@
     <li>construction->assembly</li>
   -->
   <QuestConstructionNameCommon.rulePack.rulesStrings>
-    <li>questName->[constAdj] [construction]</li>
-    <li>questName->Een [constAdj] [construction]</li>
-    <li>questName(p=0.5)->De [constAdj] [constructionGendered]</li>
-    <li>questName(p=0.5)->Het [constAdj] [constructionNeuter]</li>
-    <li>constAdj(p=20)->[AdjectiveLargeGendered]</li>
-    <li>constAdj->vreselijke</li>
-    <li>constAdj->grote</li>
-    <li>constAdj->grootse</li>
-    <li>constAdj->gevaarlijke</li>
-    <li>constAdj->monumentale</li>
-    <li>constAdj->extravagante</li>
-    <li>constAdj->onheilspellende</li>
-    <li>constAdj->vervaarlijke</li>
-    <li>constAdj->afschuwelijke</li>
-    <li>constAdj->angstige</li>
-    <li>constAdj->geweldige</li>
-    <li>constAdj->profetische</li>
-    <li>constAdj->schrijnende</li>
-    <li>constAdj->glinsterende</li>
-    <li>constAdj->glimmende</li>
-    <li>constAdj->verbluffende</li>
+    <li>questName->Een [constAdjNeuter] [construction]</li>
+    <li>questName(p=0.5)->De [constAdjGendered] [constructionGendered]</li>
+    <li>questName(p=0.5)->Het [constAdjGendered] [constructionNeuter]</li>
+    <li>constAdjGendered(p=20)->[AdjectiveLargeGendered]</li>
+    <li>constAdjGendered->vreselijke</li>
+    <li>constAdjGendered->grote</li>
+    <li>constAdjGendered->grootse</li>
+    <li>constAdjGendered->gevaarlijke</li>
+    <li>constAdjGendered->monumentale</li>
+    <li>constAdjGendered->extravagante</li>
+    <li>constAdjGendered->onheilspellende</li>
+    <li>constAdjGendered->vervaarlijke</li>
+    <li>constAdjGendered->afschuwelijke</li>
+    <li>constAdjGendered->angstige</li>
+    <li>constAdjGendered->geweldige</li>
+    <li>constAdjGendered->profetische</li>
+    <li>constAdjGendered->schrijnende</li>
+    <li>constAdjGendered->glinsterende</li>
+    <li>constAdjGendered->glimmende</li>
+    <li>constAdjGendered->verbluffende</li>
+    <li>constAdjNeuter->vreselijk</li>
+    <li>constAdjNeuter->groot</li>
+    <li>constAdjNeuter->groots</li>
+    <li>constAdjNeuter->gevaarlijk</li>
+    <li>constAdjNeuter->monumentaal</li>
+    <li>constAdjNeuter->extravagant</li>
+    <li>constAdjNeuter->onheilspellend</li>
+    <li>constAdjNeuter->vervaarlijk</li>
+    <li>constAdjNeuter->afschuwelijk</li>
+    <li>constAdjNeuter->angstig</li>
+    <li>constAdjNeuter->geweldig</li>
+    <li>constAdjNeuter->profetisch</li>
+    <li>constAdjNeuter->schrijnend</li>
+    <li>constAdjNeuter->glinsterend</li>
+    <li>constAdjNeuter->glimmend</li>
+    <li>constAdjNeuter->verbluffend</li>
     <li>construction->[constructionGendered]</li>
     <li>construction->[constructionNeuter]</li>
     <li>constructionGendered(p=3)->constructie</li>

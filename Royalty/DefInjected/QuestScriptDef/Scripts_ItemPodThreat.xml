@@ -84,7 +84,8 @@
     <li>animalKindLabelCorrect(animalCount>=2)->[animalKind_labelPlural]</li>
     <li>manhuntingBeastIndef(animalCount==1)->een (*Threat)klopjagende [animalKind_label](/Threat)</li>
     <li>manhuntingBeastIndef(animalCount>=2)->een groep (*Threat)[animalCount] klopjagende [animalKind_labelPlural](/Threat)</li>
-    <li>endSection->[helpersParagraph]Deze [animalKindLabelCorrect] zal in [map_definite] arriveren [manhuntersDelayTicks_duration] nadat je hebt geaccepteerd.</li>
+    <li>endSection(animalCount==1)->[helpersParagraph]Deze [animalKindLabelCorrect] zal in [map_definite] arriveren [manhuntersDelayTicks_duration] nadat je hebt geaccepteerd.</li>
+    <li>endSection(animalCount>=2)->[helpersParagraph]Deze [animalKindLabelCorrect] zullen in [map_definite] arriveren [manhuntersDelayTicks_duration] nadat je hebt geaccepteerd.</li>
     <li>questDescription(askerIsNull==true,animalCount==1)->Een handelaar roept je op. (*Threat)Een wilde [animalKind_label](/Threat) jaagt op hem! Hij wil jouw hulp om het beest van hem weg te lokken.[endSection]</li>
     <li>manhunterArrivalLetterEnd(askerIsNull==true,animalCount==1)->De [animalKind_label] was op jacht naar een handelaar in de buurt.</li>
     <li>questDescription(askerIsNull==true,animalCount>=2)->Een handelaar roept je op. Een groep (*Threat)[animalCount] wilde [animalKind_labelPlural](/Threat) jaagt op hem! Hij wil jouw hulp om de dieren van hem weg te lokken.[endSection]</li>

@@ -6,34 +6,34 @@
   <!-- EN: Cuts granite chunks into usable blocks. -->
   <Make_StoneBlocksGranite.description>Granieten rotsblokken verwerken tot bruikbare stenen.</Make_StoneBlocksGranite.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksGranite.jobString>Rotsblokken verwerken naar stenen.</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksGranite.jobString>Rotsblokken aan het verwerken tot stenen.</Make_StoneBlocksGranite.jobString>
   
   <!-- EN: make limestone blocks -->
   <Make_StoneBlocksLimestone.label>kalkstenen maken</Make_StoneBlocksLimestone.label>
   <!-- EN: Cuts limestone chunks into usable blocks. -->
   <Make_StoneBlocksLimestone.description>Kalksteenblokken verwerken tot bruikbare stenen.</Make_StoneBlocksLimestone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksLimestone.jobString>Rotsblokken verwerken naar stenen.</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksLimestone.jobString>Rotsblokken aan het verwerken tot stenen.</Make_StoneBlocksLimestone.jobString>
   
   <!-- EN: make marble blocks -->
   <Make_StoneBlocksMarble.label>marmer stenen maken</Make_StoneBlocksMarble.label>
   <!-- EN: Cuts marble chunks into usable blocks. -->
   <Make_StoneBlocksMarble.description>Marmerblokken verwerken tot bruikbare stenen.</Make_StoneBlocksMarble.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksMarble.jobString>Rotsblokken verwerken naar stenen.</Make_StoneBlocksMarble.jobString>
+  <Make_StoneBlocksMarble.jobString>Rotsblokken aan het verwerken tot stenen.</Make_StoneBlocksMarble.jobString>
   
   <!-- EN: make sandstone blocks -->
   <Make_StoneBlocksSandstone.label>zandstenen maken</Make_StoneBlocksSandstone.label>
   <!-- EN: Cuts sandstone chunks into usable blocks. -->
   <Make_StoneBlocksSandstone.description>Zandsteenblokken verwerken tot bruikbare stenen.</Make_StoneBlocksSandstone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSandstone.jobString>Rotsblokken verwerken naar stenen.</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksSandstone.jobString>Rotsblokken aan het verwerken tot stenen.</Make_StoneBlocksSandstone.jobString>
   
   <!-- EN: make slate blocks -->
   <Make_StoneBlocksSlate.label>leistenen maken</Make_StoneBlocksSlate.label>
   <!-- EN: Cuts slate chunks into usable blocks. -->
   <Make_StoneBlocksSlate.description>Leisteenblokken verwerken tot bruikbare stenen.</Make_StoneBlocksSlate.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSlate.jobString>Rotsblokken verwerken naar stenen.</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksSlate.jobString>Rotsblokken aan het verwerken tot stenen.</Make_StoneBlocksSlate.jobString>
   
 </LanguageData>

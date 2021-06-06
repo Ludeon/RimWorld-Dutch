@@ -6,27 +6,27 @@
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
   <BurnApparel.description>Verbrand kleding, om het volledig te vernietigen.</BurnApparel.description>
   <!-- EN: Burning apparel. -->
-  <BurnApparel.jobString>Kleding verbranden.</BurnApparel.jobString>
+  <BurnApparel.jobString>Kleding aan het verbranden.</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>verbrand drugs</BurnDrugs.label>
+  <BurnDrugs.label>drugs verbranden</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
   <BurnDrugs.description>Drugs verbranden, om ze volledig te vernietigen.</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>Drugs verbranden.</BurnDrugs.jobString>
+  <BurnDrugs.jobString>Drugs aan het verbranden.</BurnDrugs.jobString>
   
   <!-- EN: burn weapon -->
-  <BurnWeapon.label>verbrand wapen</BurnWeapon.label>
+  <BurnWeapon.label>wapen verbranden</BurnWeapon.label>
   <!-- EN: Burn unwanted weapon to completely destroy it. -->
   <BurnWeapon.description>Verbrand ongewenste wapens om ze volledig te vernietigen.</BurnWeapon.description>
   <!-- EN: Burning weapon. -->
-  <BurnWeapon.jobString>Wapen verbranden</BurnWeapon.jobString>
+  <BurnWeapon.jobString>Wapen aan het verbranden.</BurnWeapon.jobString>
   
   <!-- EN: cremate corpse -->
-  <CremateCorpse.label>cremeer een lijk</CremateCorpse.label>
+  <CremateCorpse.label>lijk cremeren</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
   <CremateCorpse.description>Cremeer een lijk, om er voorgoed vanaf te zijn.</CremateCorpse.description>
   <!-- EN: Cremating. -->
-  <CremateCorpse.jobString>Lijk cremeren.</CremateCorpse.jobString>
+  <CremateCorpse.jobString>Lijk aan het cremeren.</CremateCorpse.jobString>
   
 </LanguageData>

@@ -24,7 +24,7 @@
   <AllowCorpsesStranger.description>Sta lijken toe van vreemden en vijanden.</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
-  <AllowDeadmansApparel.label>sta bedoezelde kleding toe</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.label>sta besmette kleding toe</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowDeadmansApparel.description>Sta kleding toe die ooit door een lijk gedragen is. De meeste mensen vinden door een lijk bedoezelde kleding ontstellend, en handelaars zullen het niet accepteren.</AllowDeadmansApparel.description>
   
@@ -67,7 +67,7 @@
   <AllowRotten.description>Sta organische dingen toe die al aan het rotten zijn.</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>sta smeltbare kleding toe</AllowSmeltable.label>
+  <AllowSmeltable.label>sta smeltbare voorwerpen toe</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
   <AllowSmeltableApparel.label>sta smeltbare wapens toe</AllowSmeltableApparel.label>

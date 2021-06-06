@@ -72,7 +72,7 @@
     <li>othersWillNotAccept->De {PAWNSALIVECOUNT_multiple ? anderen zijn : laatste [lodgersLabel] is} niet bereid dit te accepteren</li>
     <li>turnedViolent->[othersWillNotAccept], en {PAWNSALIVECOUNT_multiple ? hebben : heeft } zich tegen je gekeerd.</li>
     <li>decidedToLeave->[othersWillNotAccept], en {PAWNSALIVECOUNT_multiple ? hebben : heeft } besloten te vertrekken.</li>
-    <li>whoAskedToStay->die had gevraagd om permanent te blijven</li>
+    <li>whoAskedToStay->die had gevraagd om onderdak</li>
     <li>oneOfThe->een van de wanhopige [faction_pawnsPlural] die had gevraagd om permanent te blijven</li>
     <li>questOver->De opdracht '[resolvedQuestName]' is ten einde.</li>
     <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] is overleden.</li>

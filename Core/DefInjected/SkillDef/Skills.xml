@@ -20,7 +20,7 @@
   <!-- EN: Constructing and deconstructing structures and furniture. -->
   <Construction.description>Bouwen en afbreken van structuren en meubels</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>bouw</Construction.skillLabel>
+  <Construction.skillLabel>bouwen</Construction.skillLabel>
   
   <!-- EN: cooking -->
   <Cooking.label>koken</Cooking.label>

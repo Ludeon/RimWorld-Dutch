@@ -10,7 +10,7 @@
   <!-- EN: If a title holder dies, their title goes to their chosen heir. -->
   <RoyaltyTips.TitleInheritance>Als een titelhouder overlijdt, gaat zijn titel naar de gekozen erfgenaam.</RoyaltyTips.TitleInheritance>
   <!-- EN: You can change the heir of a title holder through the comms console. However, this requires completing a ritual. -->
-  <RoyaltyTips.ChangeHeir>Je kunt de erfgenaam van een titelhouder wijzigen via de communicatieconsole. Dit vereist echter het voltooien van een ritueel.</RoyaltyTips.ChangeHeir>
+  <RoyaltyTips.ChangeHeir>Je kunt de erfgenaam van een titelhouder wijzigen via het communicatiepaneel. Dit vereist echter het voltooien van een ritueel.</RoyaltyTips.ChangeHeir>
   <!-- EN: The Empire bestows a free level of psylink upon anyone who earns the title required to use it. -->
   <RoyaltyTips.FreePsychicAmplifier>Het keizerrijk schenkt een gratis psylink-niveau aan iedereen die de titel verdient die nodig is om het te gebruiken.</RoyaltyTips.FreePsychicAmplifier>
   <!-- EN: Psylink neuroformers can be acquired through quests. -->

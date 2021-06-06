@@ -30,49 +30,49 @@
   <Make_ChemfuelFromOrganics.jobString>Brandstof uit organische stoffen aan het raffineren.</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>win brandstof uit hout</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>brandstof uit hout winnen</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
   <Make_ChemfuelFromWood.description>Maak brandstof door houtgas uit boomstammen te onttrekken.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
   <Make_ChemfuelFromWood.jobString>Brandstof uit hout aan het raffineren.</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>maak component</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>component maken</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
   <Make_ComponentIndustrial.description>Maak een component.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
   <Make_ComponentIndustrial.jobString>Component aan het maken.</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>maak geavanceerde component</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>geavanceerde component maken</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
   <Make_ComponentSpacer.description>Maak een geavanceerde component.</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
   <Make_ComponentSpacer.jobString>Geavanceerde component aan het maken.</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>Maak lappenleer</Make_Patchleather.label>
+  <Make_Patchleather.label>lappenleer maken</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
   <Make_Patchleather.description>Naai verschillende soorten leer aan elkaar om een zwakker lappenleer te maken.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
   <Make_Patchleather.jobString>Lappenleer aan het maken.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>maak elk stenen blok</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>willekeurige stenen blokken maken</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>Verwerk rotsblokken in bruikbare stenen.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Verwerk rotsblokken tot bruikbare stenen.</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksAny.jobString>Rotsblokken aan het verwerken.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>Smelt kleding</SmeltApparel.label>
+  <SmeltApparel.label>kleding smelten</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
   <SmeltApparel.description>Gebruik hitte en sterke elektromagneten om metalen kleding zoals harnassen in bruikbare grondstoffen om te zetten.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
   <SmeltApparel.jobString>Kleding aan het smelten.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>smelt metaal van wapen</SmeltWeapon.label>
+  <SmeltWeapon.label>wapen smelten</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
   <SmeltWeapon.description>Gebruik hitte en sterke elektromagneten om wapens in bruikbare grondstoffen om te zetten.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->

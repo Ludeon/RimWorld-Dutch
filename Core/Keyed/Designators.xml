@@ -59,7 +59,7 @@
   <DesignatorPlanDesc>Markeert vakken als gepland. Deze doen niets anders dan je helpen bij het plannen van toekomstige uitbreidingen.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>Verwijder plannen</DesignatorPlanRemove>
+  <DesignatorPlanRemove>Plannen verwijderern</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
   <DesignatorPlanRemoveDesc>Haalt de 'gepland' markering weg van geplande vakken.</DesignatorPlanRemoveDesc>
 
@@ -142,24 +142,24 @@
   <DesignatorClaimDesc>neutrale structuren op voor de kolonie, waaronder oude ruïnes en verlaten belegeringsbases. Geclaimde structuren kunnen worden gerepareerd en onderhouden door uw kolonisten.</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>Verwijder vloer</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Vloer verwijderen</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
   <DesignatorRemoveFloorDesc>Verwijder vloeren om het terrein eronder te onthullen.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>Verwijder brug</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Brug verwijderen</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
   <DesignatorRemoveBridgeDesc>Verwijder bruggen om het terrein eronder te onthullen.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
-  <DesignatorStrip>Strip</DesignatorStrip>
+  <DesignatorStrip>Strippen</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
   <DesignatorStripDesc>Strip kleding van lijken en gewonden.</DesignatorStripDesc>
 
   <!-- EN: Open -->
-  <DesignatorOpen>Open</DesignatorOpen>
+  <DesignatorOpen>Open maken</DesignatorOpen>
   <!-- EN: Open containers. -->
-  <DesignatorOpenDesc>Open containers.</DesignatorOpenDesc>
+  <DesignatorOpenDesc>Maak containers open.</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Slachten</DesignatorSlaughter>

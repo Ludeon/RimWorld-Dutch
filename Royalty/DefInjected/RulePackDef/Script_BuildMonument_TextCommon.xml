@@ -84,7 +84,8 @@
     <li>construction->assembly</li>
   -->
   <QuestConstructionNameCommon.rulePack.rulesStrings>
-    <li>questName->Een [constAdjNeuter] [construction]</li>
+    <li>questName->Een [constAdjNeuter] [constructionNeuter]</li>
+    <li>questName->Een [constAdjGendered] [constructionGendered]</li>
     <li>questName(p=0.5)->De [constAdjGendered] [constructionGendered]</li>
     <li>questName(p=0.5)->Het [constAdjGendered] [constructionNeuter]</li>
     <li>constAdjGendered(p=20)->[AdjectiveLargeGendered]</li>

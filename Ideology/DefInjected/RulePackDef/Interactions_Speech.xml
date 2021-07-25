@@ -17,6 +17,21 @@
     <li>praised->heaped glory on</li>
     <li>praised->raved about</li>
   -->
-  <SpeechUtility.rulePack.rulesStrings>TODO</SpeechUtility.rulePack.rulesStrings>
+  <SpeechUtility.rulePack.rulesStrings>
+    <li>spokeof->sprak over</li>
+    <li>spokeof->praatte over</li>
+    <li>spokeof->gaf zijn mening over</li>
+    <li>spokeof->bediscussieerde</li>
+    <li>spokeof->legde uit</li>
+    <li>spokeof->beschreef</li>
+    <li>praised->gaf een speech over</li>
+    <li>praised->sprak over</li>
+    <li>praised->praatte over</li>
+    <li>praised->prees</li>
+    <li>praised->prees de deugden van</li>
+    <li>praised->prees de hemel in</li>
+    <li>praised->bezong de glorie van</li>
+    <li>praised->werd wild over</li>
+  </SpeechUtility.rulePack.rulesStrings>
   
 </LanguageData>

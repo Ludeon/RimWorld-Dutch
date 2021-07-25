@@ -9,6 +9,13 @@
     <li>god->Creator</li>
     <li>god->Master</li>
   -->
-  <DeityTypeMakerGlobal.rulePack.rulesStrings>TODO</DeityTypeMakerGlobal.rulePack.rulesStrings>
+  <DeityTypeMakerGlobal.rulePack.rulesStrings>
+    <li>r_deityType->[god] van [memeConcept]</li>
+    <li>god(p=7)->God</li>
+    <li>god(p=4)->[memeGod]</li>
+    <li>god(p=3)->Geest</li>
+    <li>god->Schepper</li>
+    <li>god->Meester</li>
+    </DeityTypeMakerGlobal.rulePack.rulesStrings>
   
 </LanguageData>

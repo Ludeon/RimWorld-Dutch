@@ -7,6 +7,11 @@
     <li>seismicDevice->a seismic quake-generation device</li>
     <li>anEMPAttack->an EMP strike to the life support systems</li>
   -->
-  <PlaceMakerCommon.rulePack.rulesStrings>TODO</PlaceMakerCommon.rulePack.rulesStrings>
+  <PlaceMakerCommon.rulePack.rulesStrings>
+    <li>place_personalWeapon->stormgeweer</li>
+    <li>place_massWeapon->een archotech massa-inverter</li>
+    <li>seismicDevice->een seismische bevingsgenerator</li>
+    <li>anEMPAttack->een EMP aanval op de levensondersteunende systemen</li>
+  </PlaceMakerCommon.rulePack.rulesStrings>
   
 </LanguageData>

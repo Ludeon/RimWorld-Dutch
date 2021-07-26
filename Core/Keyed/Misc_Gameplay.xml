@@ -105,7 +105,7 @@
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
   <ExecuteColonist>Executeer schuldige kolonist\n\nAls je dit aanvinkt zal een cipier deze persoon komen executeren</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort} is nu ter dood veroordeeld. De eerstvolgende beschikbare bewaker zal {0_objective} executeren.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} van {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -1104,7 +1104,7 @@
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>KKan niet lanceren.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>Kan niet lanceren.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
   <ShipReportCanLaunch>Klaar voor lancering.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->

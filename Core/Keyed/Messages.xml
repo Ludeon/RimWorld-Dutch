@@ -637,12 +637,12 @@
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} is een gevangene</MessagePrisonerCannotEquipWeapon>
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>Waarschuwing: de overtuigingen van {0_nameDef} gaan in tegen {1} werk. {0_pronoun} kan ongelukkig worden.</MessageIdeoOpposedWorkTypeSelected>
 
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{0} is niet langer toegewezen aan {1}_nameDef}.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+  <MessageBedDestroyed>{0} toegewezen aan {1_nameDef} is vernietigd.</MessageBedDestroyed>
 
   <!-- Rituals -->
   <!-- EN: spectate -->

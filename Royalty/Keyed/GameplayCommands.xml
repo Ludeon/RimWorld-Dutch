@@ -81,13 +81,13 @@
   <ChooseRoyalPermit_Desc>Open het vergunningen-selectiescherm en kies een nieuwe vergunning.</ChooseRoyalPermit_Desc>
 
   <!-- EN: Leave bestowing ceremony -->
-  <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremony>Schenkingsceremonie verlaten</CommandLeaveBestowingCeremony>
   <!-- EN: Stop participating in the bestowing ceremony. -->
-  <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
+  <CommandLeaveBestowingCeremonyDesc>Stop met deelnemen aan de schenkingsceremonie.</CommandLeaveBestowingCeremonyDesc>
   <!-- EN: Cancel bestowing ceremony -->
-  <CommandCancelBestowingCeremony>TODO</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremony>Schenkingsceremonie annuleren</CommandCancelBestowingCeremony>
   <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
-  <CommandCancelBestowingCeremonyDesc>TODO</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyDesc>Beëindig de schenkingsceremonie onmiddellijk. De schenker zal vertrekken, maar er zal zich binnenkort een andere gelegenheid voordoen om de ceremonie uit te voeren.</CommandCancelBestowingCeremonyDesc>
   <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
-  <CommandCancelBestowingCeremonyConfirm>TODO</CommandCancelBestowingCeremonyConfirm>
+  <CommandCancelBestowingCeremonyConfirm>Weet je zeker dat je de schenkingsceremonie wilt annuleren?</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>

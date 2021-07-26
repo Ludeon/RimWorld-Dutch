@@ -590,7 +590,7 @@
     <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die wordt aangevallen door [EnemyPlural]</li>
     <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat wordt aangevallen door [EnemyPlural]</li>
     <li>image->een groep van [Quantity_adjphrase] [EnemyPlural] [circumstance_phrase]</li>
-    <li>image->een leger [circumstance_phrase]</li>
+    <li>image->een strijdkracht [circumstance_phrase]</li>
     <li>image->een overmacht [circumstance_phrase]</li>
     <li>image->een binnenvallende macht [circumstance_phrase]</li>
     <li>image->een groep stilistische [AdjectiveColor] vlaggen [circumstance_phrase]</li>

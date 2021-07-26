@@ -452,7 +452,7 @@
   <Stat_Animal_MilkPerYearDesc>De hoeveelheid melk die dit dier produceert over een heel jaar.\n\nDit wordt berekend aan de hand van de melkhoeveelheid en het melkinterval.</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
   <Stat_Animal_MilkValue>Melk marktwaarde</Stat_Animal_MilkValue>
-  <!-- EN: The value of one unit of this creature's milk. --> <!-- TODO: Eenheid = liter? -->
+  <!-- EN: The value of one unit of this creature's milk. -->
   <Stat_Animal_MilkValueDesc>De marktwaarde van een eenheid melk van dit wezen.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
   <Stat_Animal_MilkValuePerYear>Melkwaarde per jaar</Stat_Animal_MilkValuePerYear>

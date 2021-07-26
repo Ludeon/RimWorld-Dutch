@@ -44,7 +44,7 @@
   <MarketValueIgnoreHp.label>marktwaarde zonder rekening te houden met hitpoints</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
-  <Mass.label>nassa</Mass.label>
+  <Mass.label>massa</Mass.label>
   <!-- EN: The physical mass of an object. -->
   <Mass.description>De fysieke massa van een object.</Mass.description>
   <!-- EN: {0} kg -->

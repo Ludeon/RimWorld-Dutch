@@ -26,7 +26,7 @@
   <!-- EN: meditation psyfocus bonus -->
   <MeditationFocusStrength.label>bonus op psyfocus meditatie</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
-  <MeditationFocusStrength.description>De hoeveelheid extra psyfocus die iemand wint door tijdens meditatie op dit object te focussen, bovenop de basissnelheid van meditatie.\n\nVoor sommige objecten is dit aantal veranderlijk, afhankelijk van de omgeving en de persoon die mediteert.</MeditationFocusStrength.description>
+  <MeditationFocusStrength.description>De hoeveelheid extra psyfocus die iemand wint door tijdens meditatie op dit object te focusen, bovenop de basissnelheid van meditatie.\n\nVoor sommige objecten is dit aantal veranderlijk, afhankelijk van de omgeving en de persoon die mediteert.</MeditationFocusStrength.description>
   <!-- EN: {0} / day -->
   <MeditationFocusStrength.formatString>{0} / dag</MeditationFocusStrength.formatString>
   <!-- EN: {0} / day -->

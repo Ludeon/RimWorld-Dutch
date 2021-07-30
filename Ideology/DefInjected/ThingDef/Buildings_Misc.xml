@@ -82,8 +82,8 @@
   <SlabDoubleBed.description>TODO</SlabDoubleBed.description>
   
   <!-- EN: styling station -->
-  <StylingStation.label>TODO</StylingStation.label>
+  <StylingStation.label>stijltafel</StylingStation.label>
   <!-- EN: A table with a mirror and styling tools. People can use this to change their look. -->
-  <StylingStation.description>TODO</StylingStation.description>
+  <StylingStation.description>Een tafel met spiegel en stijlgereedschap. Kan door mensen gebruikt worden om hun uiterlijk te veranderen.</StylingStation.description>
   
 </LanguageData>

@@ -46,6 +46,11 @@
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
   <DrugPolicies.helpText>Je kunt kolonisten toewijzen om specifieke medicijnen op een specifiek schema in te nemen. Je kunt ze bijvoorbeeld regelmatig infectieblokkerende medicijnen laten nemen, of een biertje per dag laten drinken om gelukkig te blijven.\n\nOpen het tabblad TOEWIJZEN en druk op de knop 'Beheer drugs-/geneesmiddelenbeleid'. Creëer een nieuw beleid. Vervolgens kan je dit beleid toewijzen aan kolonisten.\n\nKolonisten kunnen nog steeds drugs gebruiken die niet in hun beleid zijn opgenomen. Je kunt ze vertellen wat ze moeten doen, maar ze volgen ook hun eigen wensen!</DrugPolicies.helpText>
   
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>Soldaten positioneren</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>Sleep met de rechtermuisknop om je soldaten een lijn te laten vormen.\n\nVerspreid je - een groep mensen is makkelijk te raken!</GroupGotoHereDragging.helpText>
+  
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Interactie met handelaren</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->

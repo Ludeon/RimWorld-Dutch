@@ -3,8 +3,8 @@
   
   <!-- EN: barricade -->
   <Barricade.label>barricade</Barricade.label>
-  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
-  <Barricade.description>Een barricade op heuphoogte waarachter dekking kan worden gezocht. Barricades zijn lelijk, maar bieden meer dekking dan andere lage objecten.</Barricade.description>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>Een barricade op heuphoogte waarachter dekking kan worden gezocht. Barricades zijn lelijk, maar bieden meer dekking dan andere lage objecten. Barricades houden ook bepaalde dieren tegen, net zoals hekken.</Barricade.description>
   
   <!-- EN: sandbags -->
   <Sandbags.label>zandzakken</Sandbags.label>

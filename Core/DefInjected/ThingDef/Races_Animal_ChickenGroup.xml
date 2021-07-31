@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>kip</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>Het meest traditionele boerderijdier. Kippen worden gehouden voor hun eieren en vlees. Ze groeien erg snel en leggen heel vaak eieren.</Chicken.description>
+  <Chicken.race.meatLabel>kip</Chicken.race.meatLabel>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>klauwen</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>snavel</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>kop</Chicken.tools.head.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>eend</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>Een veel voorkomend boerderijdier dat ook in het wild voorkomt. Eenden wordt gehouden vanwege hun heerlijke vlees. Ze groeien snel maar leggen vrij zelden eieren.</Duck.description>
+  <Duck.race.meatLabel>eend</Duck.race.meatLabel>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>klauwen</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>snavel</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>kop</Duck.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>gans</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>Een tamme vogel die door mensen als pluimvee wordt gehouden vanwege zijn eieren en vlees. Legt vaak eieren, maar het duurt lang voordat ze uitkomen.</Goose.description>
+  <Goose.race.meatLabel>gans</Goose.race.meatLabel>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>klauwen</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>snavel</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>kop</Goose.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>kalkoen</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>Een korte, dikke loopvogel die bekend staat om zijn hilarische roep. Kalkoenen worden al lang als pluimvee gehouden, maar ze leven ook in het wild.</Turkey.description>
+  <Turkey.race.meatLabel>kalkoen</Turkey.race.meatLabel>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>klauwen</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>snavel</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>kop</Turkey.tools.head.label>
+  
+</LanguageData>

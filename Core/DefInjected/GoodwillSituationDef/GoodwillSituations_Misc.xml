@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacking settlement -->
+  <AttackingSettlement.label>nederzetting aan het aanvallen</AttackingSettlement.label>
+  
+  <!-- EN: natural enemy -->
+  <NaturalEnemy.label>natuurlijke vijand</NaturalEnemy.label>
+  
+  <!-- EN: permanently hostile -->
+  <PermanentEnemy.label>permanent vijandig</PermanentEnemy.label>
+  
+</LanguageData>

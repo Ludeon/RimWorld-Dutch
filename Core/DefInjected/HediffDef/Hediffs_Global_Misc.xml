@@ -91,10 +91,8 @@
   <Pregnant.label>drachtig</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>Dit wezen is drachtig. Als de draagtijd gezond wordt volbracht zal een geboorte volgen. Als ze hongerig of gewond is zou het tot een miskraam kunnen leiden.</Pregnant.description>
-  <!-- EN: {0} pregnant -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} drachtig</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} is drachtig!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} is drachtig!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>drachtig</Pregnant.labelNoun>
   <!-- EN: early-stage -->

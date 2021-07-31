@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>drugs toegediend</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>harddrugs toegediend</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>recreationele drugs toegediend</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>mensenvlees gegeten</AteHumanMeat.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>boom omgehakt</CutTree.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>drugs gebruikt</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>harddrugs gebruikt</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>recreationele drugs gebruikt</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>prothese geïnstalleerd</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>gedolven</Mined.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>onderzoeken</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>voedselplant ingezaaid</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>plant ingezaaid</SowedPlant.label>
+  
+</LanguageData>

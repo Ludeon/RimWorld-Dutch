@@ -6,6 +6,11 @@
   <!-- EN: General-use controls for the architect mode menu. -->
   <Architect.description>Algemene toetsbindingen voor het architect menu.</Architect.description>
   
+  <!-- EN: debug menu -->
+  <DebugMenu.label>debug menu</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>Toetsbindingen gebruikt in debug menus. Alleen actief in ontwikkelaarsmodus.</DebugMenu.description>
+  
   <!-- EN: developer tools -->
   <Development.label>ontwikkelaarstools</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->

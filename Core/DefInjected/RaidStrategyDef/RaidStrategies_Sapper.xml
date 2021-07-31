@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>Het lijkt erop dat ze een tunnel willen graven om je verdeding te omzeilen.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>Overval</ImmediateAttackSappers.letterLabelEnemy>
+  
+</LanguageData>

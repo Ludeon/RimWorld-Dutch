@@ -36,4 +36,9 @@
   <!-- EN: {0} has been killed. -->
   <Smoke.deathMessage>{0} is omgekomen</Smoke.deathMessage>
   
+  <!-- EN: thump -->
+  <Thump.label>stomp</Thump.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Thump.deathMessage>{0} is doodgeschoten</Thump.deathMessage>
+  
 </LanguageData>

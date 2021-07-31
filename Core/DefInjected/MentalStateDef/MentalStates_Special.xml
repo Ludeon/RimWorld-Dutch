@@ -31,6 +31,11 @@
   <!-- EN: {0} is no longer fleeing in panic. -->
   <PanicFlee.recoveryMessage>{0} is niet meer aan het vluchten.</PanicFlee.recoveryMessage>
   
+  <!-- EN: roaming -->
+  <Roaming.label>ronddwalen</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>Mentale staat: Ronddwalen</Roaming.baseInspectLine>
+  
   <!-- EN: social fighting -->
   <SocialFighting.label>sociaal gevecht</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->

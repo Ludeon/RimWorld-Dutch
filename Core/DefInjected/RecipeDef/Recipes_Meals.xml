@@ -8,26 +8,82 @@
   <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>Lekkere maaltijd aan het koken.</CookMealFine.jobString>
   
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>kook een lekkere carnivorische maaltijd</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>Kook een lekkere maaltijd van enkel dierlijke ingrediënten.</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>Lekkere carnivorische maaltijd aan het koken</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>kook een lekkere vegetarische maaltijd</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>Kook een lekkere maaltijd van enkel plantaardige ingrediënten.</CookMealFine_Veg.description>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>Lekkere vegetarische maaltijd aan het koken</CookMealFine_Veg.jobString>
+  
   <!-- EN: cook fine meal x4 -->
   <CookMealFineBulk.label>Kook 4 lekkere maaltijden</CookMealFineBulk.label>
-  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>Kook 4 lekkere maaltijdenmet een combinatie van dierlijke en plantaardige ingrediënten</CookMealFineBulk.description>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>Kook 4 lekkere maaltijden met een combinatie van dierlijke en plantaardige ingrediënten</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
   <CookMealFineBulk.jobString>4 lekkere maaltijden aan het koken.</CookMealFineBulk.jobString>
   
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>Kook 4 lekkere carnivorische maaltijden</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>Kook 4 lekkere maaltijden van enkel dierlijke ingrediënten.</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>4 lekkere carnivorische maaltijden aan het koken.</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>Kook 4 lekkere vegetarische maaltijden</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>Kook 4 lekkere maaltijden van enkel plantaardige ingrediënten.</CookMealFineBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>4 lekkere vegetarische maaltijden aan het koken.</CookMealFineBulk_Veg.jobString>
+  
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>Kook een luxe maaltijd</CookMealLavish.label>
-  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavish.description>Kook een luxe maaltijd met een combinatie van dierlijke en plantaardige ingrediënten. Een deel van de ingrediënten wordt verspild.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Luxe maaltijd aan het koken.</CookMealLavish.jobString>
   
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>Kook een luxe carnivorische maaltijd</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>Kook een luxe maaltijd van enkel dierlijke ingrediënten. Een deel van de ingrediënten wordt verspild om alleen de beste stukken vlees te gebruiken. Door alleen vlees te gebruiken is het kookproces nog extra inefficiënt.</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>Luxe carnivorische maaltijd aan het koken.</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>Kook een luxe vegetarische maaltijd</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>Kook een luxe maaltijd van enkel plantaardige ingrediënten. Een deel van de ingrediënten wordt verspild om alleen de beste stukken plant te gebruiken. Door alleen planten te gebruiken is het kookproces nog extra inefficiënt.</CookMealLavish_Veg.description>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>Luxe vegetarische maaltijd aan het koken.</CookMealLavish_Veg.jobString>
+  
   <!-- EN: cook lavish meal x4 -->
   <CookMealLavishBulk.label>Kook 4 luxe maaltijden</CookMealLavishBulk.label>
-  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavishBulk.description>Kook 4 luxe maaltijden met een combinatie van dierlijke en plantaardige ingrediënten. Een deel van de ingrediënten wordt verspild.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
   <CookMealLavishBulk.jobString>4 luxe maaltijden aan het koken.</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>Kook 4 luxe carnivorische maaltijden</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>Kook 4 luxe maaltijden van enkel dierlijke ingrediënten. Een deel van de ingrediënten wordt verspild om alleen de beste stukken vlees te gebruiken. Door alleen vlees te gebruiken is het kookproces nog extra inefficiënt.</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>4 luxe carnivorische maaltijden aan het koken.</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>Kook 4 luxe vegetarische maaltijden</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>Kook 4 luxe maaltijden van enkel plantaardige ingrediënten. Een deel van de ingrediënten wordt verspild om alleen de beste stukken plant te gebruiken. Door alleen planten te gebruiken is het kookproces nog extra inefficiënt.</CookMealLavishBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>4 luxe vegetarische maaltijden aan het koken.</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
   <CookMealSimple.label>Kook een eenvoudige maaltijd</CookMealSimple.label>

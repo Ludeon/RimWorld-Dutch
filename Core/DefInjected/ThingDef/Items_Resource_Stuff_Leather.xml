@@ -90,7 +90,7 @@
   <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
   <Leather_Patch.description>Een zwak textiel gemaakt door het verknippen en samennaaien van verschillende soorten leer. Ongeacht het type leer dat wordt gebruikt om het te maken, zit lappenleer vol onregelmatige naailijnen, wat het minder sterk en isolerend maakt dan andere soorten leer.</Leather_Patch.description>
   <Leather_Patch.stuffProps.stuffAdjective>lappenleren</Leather_Patch.stuffProps.stuffAdjective>
-
+  
   <!-- EN: pigskin -->
   <Leather_Pig.label>varkensleer</Leather_Pig.label>
   <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->

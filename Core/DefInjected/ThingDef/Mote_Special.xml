@@ -4,21 +4,21 @@
   <!-- EN: Mote -->
   <Mote_Danger.label>Deeltje</Mote_Danger.label>
   
-  <!-- EN: Mote -->
+  <!-- UNUSED -->
   <Mote_Footprint.label>Deeltje</Mote_Footprint.label>
   
-  <!-- EN: Mote -->
+  <!-- UNUSED -->
   <Mote_Horseshoe.label>Deeltje</Mote_Horseshoe.label>
   
   <!-- EN: Mote -->
   <Mote_ProgressBar.label>Deeltje</Mote_ProgressBar.label>
   
   <!-- EN: Mote -->
-  <Mote_Speech.label>Deeltje</Mote_Speech.label>
+  <Mote_ProgressBarAlwaysVisible.label>Deeltje</Mote_ProgressBarAlwaysVisible.label>
   
   <!-- EN: Mote -->
-  <Mote_Stone.label>Deeltje</Mote_Stone.label>
-  
+  <Mote_Speech.label>Deeltje</Mote_Speech.label>
+    
   <!-- EN: Mote -->
   <Mote_TempRoof.label>Deeltje</Mote_TempRoof.label>
   

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepted deserter -->
+  <AcceptedDeserter.label>deserteur geaccepteerd</AcceptedDeserter.label>
+  
+  <!-- EN: failed to keep guests happy -->
+  <FailedToKeepLodgersHappy.label>gasten niet tevreden gehouden</FailedToKeepLodgersHappy.label>
+  
+  <!-- EN: member missed shuttle -->
+  <MemberMissedShuttle.label>lid heeft shuttle gemist</MemberMissedShuttle.label>
+  
+  <!-- EN: monument construction expired -->
+  <MonumentConstructionExpired.label>bouw monument verlopen</MonumentConstructionExpired.label>
+  
+  <!-- EN: monument construction abandoned -->
+  <MonumentConstructionMapRemoved.label>bouw monument opgegeven</MonumentConstructionMapRemoved.label>
+  
+  <!-- EN: destroyed monument -->
+  <MonumentDestroyed.label>monument vernietigd</MonumentDestroyed.label>
+  
+  <!-- EN: quest completed -->
+  <QuestGoodwillReward.label>opdracht voltooid</QuestGoodwillReward.label>
+  
+  <!-- EN: member arrested -->
+  <QuestPawnArrested.label>lid gearresteerd</QuestPawnArrested.label>
+  
+  <!-- EN: member lost at colony -->
+  <QuestPawnLost.label>lid verdwenen bij kolonie</QuestPawnLost.label>
+  
+  <!-- EN: enslaved lent prisoner -->
+  <QuestPrisonerEnslaved.label>geleende gevangene tot slaaf gemaakt</QuestPrisonerEnslaved.label>
+  
+  <!-- EN: recruited lent prisoner -->
+  <QuestPrisonerRecruited.label>geleende gevangene gerekruteerd</QuestPrisonerRecruited.label>
+  
+  <!-- EN: shuttle commander missed shuttle -->
+  <ShuttleCommanderMissedShuttle.label>shuttle commandant heeft shuttle gemist</ShuttleCommanderMissedShuttle.label>
+  
+  <!-- EN: shuttle guards missed shuttle -->
+  <ShuttleGuardsMissedShuttle.label>shuttle bewakers hebben shuttle gemist</ShuttleGuardsMissedShuttle.label>
+  
+</LanguageData>

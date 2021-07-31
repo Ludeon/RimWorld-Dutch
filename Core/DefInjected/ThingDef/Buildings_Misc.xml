@@ -21,6 +21,11 @@
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>Een sarcofaag met eigen energievoorziening, bedoeld om een persoon vele jaren lang schijndood te houden.</CryptosleepCasket.description>
   
+  <!-- EN: egg box -->
+  <EggBox.label>Legdoos</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Een doos met zacht materiaal om eieren te bevatten. Ei-leggende dieren zullen in legdozen leggen wanneer ze kunnen. Je slepers nemen alle eieren tegelijkertijd uit de doos wanneer deze vol is. De legdoos beschermt eieren ook tegen de elementen buiten, alhoewel het niet beschermt tegen temperatuur.</EggBox.description>
+  
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>blusschuim knaller</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
@@ -68,6 +73,11 @@
   <!-- EN: Designates a spot for throwing parties. -->
   <PartySpot.description>Wijst een plek aan waar feestjes kunnen worden gegeven.</PartySpot.description>
   
+  <!-- EN: pen marker -->
+  <PenMarker.label>weidemarkering</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>Een paal met bordje erop om een weide te markeren. Het moet geplaatst worden in een omheind gebied, door hekken, barricades, muren of deuren. Je kunt aan elke weidemarkering een groep dieren toewijzen, en je kolonisten zullen de dieren naar de juiste weide brengen.</PenMarker.description>
+  
   <!-- EN: pod launcher -->
   <PodLauncher.label>capsule lanceerbasis</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
@@ -90,7 +100,7 @@
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>gereedschap kast</ToolCabinet.label>
-  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
   <ToolCabinet.description>Versnelt werk wanneer naast een werktafel geplaatst. Elke werktafel kan maximaal twee gereedschapskasten benutten.</ToolCabinet.description>
   
   <!-- EN: transport pod -->

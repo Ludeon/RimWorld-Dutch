@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Mote -->
+  <!-- UNUSED -->
   <Mote_ActivatorCountdownFlash.label>Deeltje</Mote_ActivatorCountdownFlash.label>
   
   <!-- EN: Mote -->
@@ -11,50 +11,11 @@
   <Mote_ActivatorProximityGlow.label>Deeltje</Mote_ActivatorProximityGlow.label>
   
   <!-- EN: Mote -->
-  <Mote_AirPuff.label>Deeltje</Mote_AirPuff.label>
-  
-  <!-- EN: Mote -->
-  <Mote_BlastDry.label>Deeltje</Mote_BlastDry.label>
-  
-  <!-- EN: Mote -->
-  <Mote_BlastEMP.label>Deeltje</Mote_BlastEMP.label>
-  
-  <!-- EN: Mote -->
-  <Mote_BlastExtinguisher.label>Deeltje</Mote_BlastExtinguisher.label>
-  
-  <!-- EN: Mote -->
-  <Mote_BlastFlame.label>Deeltje</Mote_BlastFlame.label>
-  
-  <!-- EN: Mote -->
-  <Mote_BloodSplash.label>Deeltje</Mote_BloodSplash.label>
-  
-  <!-- EN: Mote -->
-  <Mote_BodyImpact.label>Deeltje</Mote_BodyImpact.label>
-  
-  <!-- EN: Mote -->
   <Mote_Bombardment.label>Deeltje</Mote_Bombardment.label>
-  
+    
   <!-- EN: Mote -->
   <Mote_CookBit.label>Deeltje</Mote_CookBit.label>
-  
-  <!-- EN: Mote -->
-  <Mote_DustPuff.label>Deeltje</Mote_DustPuff.label>
-  
-  <!-- EN: Mote -->
-  <Mote_DustPuffThick.label>Deeltje</Mote_DustPuffThick.label>
-  
-  <!-- EN: Mote -->
-  <Mote_DustSlow.label>Deeltje</Mote_DustSlow.label>
-  
-  <!-- EN: Mote -->
-  <Mote_ElectricalSpark.label>Deeltje</Mote_ElectricalSpark.label>
-  
-  <!-- EN: Mote -->
-  <Mote_ExplosionFlash.label>Deeltje</Mote_ExplosionFlash.label>
-  
-  <!-- EN: Mote -->
-  <Mote_FireGlow.label>Deeltje</Mote_FireGlow.label>
-  
+    
   <!-- EN: Mote -->
   <Mote_FoodBitMeat.label>Deeltje</Mote_FoodBitMeat.label>
   
@@ -72,45 +33,12 @@
   
   <!-- EN: Mote -->
   <Mote_GiantExplosionInner.label>Deeltje</Mote_GiantExplosionInner.label>
-  
-  <!-- EN: Mote -->
-  <Mote_GrowingFlash.label>Deeltje</Mote_GrowingFlash.label>
-  
-  <!-- EN: Mote -->
-  <Mote_HeatGlow.label>Deeltje</Mote_HeatGlow.label>
-  
+    
   <!-- EN: Mote -->
   <Mote_Leaf.label>Deeltje</Mote_Leaf.label>
-  
-  <!-- EN: Mote -->
-  <Mote_LightningGlow.label>Deeltje</Mote_LightningGlow.label>
-  
-  <!-- EN: Mote -->
-  <Mote_LineEMP.label>Deeltje</Mote_LineEMP.label>
-  
-  <!-- EN: Mote -->
-  <Mote_MetaPuff.label>Deeltje</Mote_MetaPuff.label>
-  
-  <!-- EN: Mote -->
-  <Mote_MicroSparks.label>Deeltje</Mote_MicroSparks.label>
-  
-  <!-- EN: Mote -->
-  <Mote_MicroSparksFast.label>Deeltje</Mote_MicroSparksFast.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PlainFlash.label>Deeltje</Mote_PlainFlash.label>
-  
+    
   <!-- EN: Mote -->
   <Mote_PowerBeam.label>Deeltje</Mote_PowerBeam.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PsycastAreaEffect.label>Deeltje</Mote_PsycastAreaEffect.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PsycastPsychicEffect.label>Deeltje</Mote_PsycastPsychicEffect.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PsycastPsychicLine.label>Deeltje</Mote_PsycastPsychicLine.label>
   
   <!-- EN: Mote -->
   <Mote_PsychicConditionCauserEffect.label>Deeltje</Mote_PsychicConditionCauserEffect.label>
@@ -119,33 +47,9 @@
   <Mote_PsychicEmanatorEffect.label>Deeltje</Mote_PsychicEmanatorEffect.label>
   
   <!-- EN: Mote -->
-  <Mote_SandInEyes.label>Deeltje</Mote_SandInEyes.label>
-  
-  <!-- EN: Mote -->
-  <Mote_ShotFlash.label>Deeltje</Mote_ShotFlash.label>
-  
-  <!-- EN: Mote -->
-  <Mote_ShotHit_Dirt.label>Deeltje</Mote_ShotHit_Dirt.label>
-  
-  <!-- EN: Mote -->
-  <Mote_ShotHit_Spark.label>Deeltje</Mote_ShotHit_Spark.label>
-  
-  <!-- EN: Mote -->
-  <Mote_Smoke.label>Deeltje</Mote_Smoke.label>
-  
-  <!-- EN: Mote -->
-  <Mote_SparkFlash.label>Deeltje</Mote_SparkFlash.label>
-  
-  <!-- EN: Mote -->
   <Mote_StoneBit.label>Deeltje</Mote_StoneBit.label>
   
   <!-- EN: Mote -->
-  <Mote_TornadoDustPuff.label>Deeltje</Mote_TornadoDustPuff.label>
-  
-  <!-- EN: Mote -->
   <Mote_VomitBit.label>Deeltje</Mote_VomitBit.label>
-  
-  <!-- EN: Mote -->
-  <Mote_YellowSparkFlash.label>Deeltje</Mote_YellowSparkFlash.label>
   
 </LanguageData>

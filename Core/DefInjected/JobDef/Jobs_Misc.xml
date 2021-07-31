@@ -26,13 +26,25 @@
   <CastAbilityOnWorldTile.reportString>iets aan het doen.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>iets aan het doen.</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastJump.reportString>iets aan het doen.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>sneeuw aan het scheppen.</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>TargetA afleveren.</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TargetA afleveren.</DeliverToCell.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>TargetA aan het laten vallen.</DropEquipment.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TargetA legen.</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>cryptoslaapcapsule in aan het gaan.</EnterCryptosleepCasket.reportString>
@@ -63,6 +75,9 @@
   
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>TargetA aan het volgen.</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TargetA volgen.</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>TargetA aan het halen.</GiveToPackAnimal.reportString>
@@ -99,6 +114,12 @@
   
   <!-- EN: lying down. -->
   <LayDown.reportString>aan het liggen.</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>aan het liggen.</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>aan het liggen.</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>de liefde aan het bedrijven.</Lovin.reportString>
@@ -141,6 +162,9 @@
   
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>bier aan het tappen uit TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>TargetA naar de voorraad brengen.</TakeCountToInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>TargetA aan het pakken.</TakeInventory.reportString>

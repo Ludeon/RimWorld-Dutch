@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: executed colonist -->
+  <ExecutedColonist.label>kolonist geëxecuteerd</ExecutedColonist.label>
+  
+  <!-- EN: executed guest -->
+  <ExecutedGuest.label>gast geëxecuteerd</ExecutedGuest.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.label>gevangene geëxecuteerd</ExecutedPrisoner.label>
+  
+  <!-- EN: executed guilty prisoner -->
+  <ExecutedPrisonerGuilty.label>schuldige gevangene geëxecuteerd</ExecutedPrisonerGuilty.label>
+  
+  <!-- EN: executed innocent prisoner -->
+  <ExecutedPrisonerInnocent.label>onschuldige gevangene geëxecuteerd</ExecutedPrisonerInnocent.label>
+  
+</LanguageData>

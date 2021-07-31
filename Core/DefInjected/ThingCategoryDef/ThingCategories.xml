@@ -4,6 +4,9 @@
   <!-- EN: animal products -->
   <AnimalProductRaw.label>dierlijke producten</AnimalProductRaw.label>
   
+  <!-- EN: animals -->
+  <Animals.label>dieren</Animals.label>
+  
   <!-- EN: apparel -->
   <Apparel.label>kleding</Apparel.label>
   
@@ -118,6 +121,9 @@
   <!-- EN: headgear -->
   <HeadgearNoble.label>hoofdtooien</HeadgearNoble.label>
   
+  <!-- EN: inert relics -->
+  <InertRelics.label>inactieve relikwieën</InertRelics.label>
+  
   <!-- EN: items -->
   <Items.label>voorwerpen</Items.label>
   
@@ -151,6 +157,9 @@
   <!-- EN: plant matter -->
   <PlantMatter.label>plantmaterie</PlantMatter.label>
   
+  <!-- EN: plants -->
+  <Plants.label>planten</Plants.label>
+  
   <!-- EN: raw resources -->
   <ResourcesRaw.label>ruwe grondstoffen</ResourcesRaw.label>
   
@@ -183,5 +192,8 @@
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>afstandswapens</WeaponsRanged.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>wol</Wools.label>
   
 </LanguageData>

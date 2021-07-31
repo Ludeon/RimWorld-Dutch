@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gave gift -->
+  <GaveGift.label>gaf een kado</GaveGift.label>
+  
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>vredesonderhandelingen mislukt</PeaceTalksBackfire.label>
+  
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>vredesonderhandelingen een ramp</PeaceTalksDisaster.label>
+  
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>vredesonderhandelingen succes</PeaceTalksSuccess.label>
+  
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>vredesonderhandelingen triomfant</PeaceTalksTriumph.label>
+  
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>militaire hulp gevraagd</RequestedMilitaryAid.label>
+  
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>handelaar gevraagd</RequestedTrader.label>
+  
+  <!-- EN: traded -->
+  <Traded.label>gehandeld</Traded.label>
+  
+</LanguageData>

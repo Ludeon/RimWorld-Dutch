@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>kip</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>hen</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>haan</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>kuiken</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>jonge haan</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>eend</Duck.label>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>pijltje</Duck.lifeStages.duckling.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>gans</Goose.label>
+  <!-- EN: geese -->
+  <Goose.labelPlural>ganzen</Goose.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>kalkoen</Turkey.label>
+  
+</LanguageData>

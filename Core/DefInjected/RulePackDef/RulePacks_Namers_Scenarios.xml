@@ -2,6 +2,15 @@
 <LanguageData>
   
   <!-- EN:
+    <li>story->Words/Nouns/Stories</li>
+  -->
+  <NamerScenario.rulePack.rulesFiles>
+    <li>storyGendered->Words/Nouns/Stories_Gendered</li>
+    <li>storyNeuter->Words/Nouns/Stories_Neuter</li>
+    <li>story(p=58)->storyGendered</li>
+    <li>story(p=28)->storyNeuter</li>
+  </NamerScenario.rulePack.rulesFiles>
+  <!-- EN:
     <li>r_name->[story] [Trans] the [Weapon]</li>
     <li>r_name->[story] [Trans] the [Animal]</li>
     <li>r_name->[story] [Trans] the [TerrainFeature]</li>
@@ -33,12 +42,5 @@
     <li>r_name->[Color] [storyNeuter]</li>
     <li>r_name->[story] [RomanNumeral]</li>
   </NamerScenario.rulePack.rulesStrings>
-  
-  <NamerScenario.rulePack.rulesFiles>
-    <li>storyGendered->Words/Nouns/Stories_Gendered</li>
-    <li>storyNeuter->Words/Nouns/Stories_Neuter</li>
-    <li>story(p=58)->storyGendered</li>
-    <li>story(p=28)->storyNeuter</li>
-  </NamerScenario.rulePack.rulesFiles>
   
 </LanguageData>

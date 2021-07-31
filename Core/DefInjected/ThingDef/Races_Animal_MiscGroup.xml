@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfabever</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Een groot beverachtig wezen dat genetisch gemanipuleerd is om net zo efficiënt als een machine hout te oogsten. Bij gebrek aan gespecialiseerd voer zullen deze dieren een manische toestand bereiken die hen dwingt om hele bomen op te eten, en zullen ze waarschijnlijk aanvallen als ze gestoord worden.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>linkerklauw</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>rechterklauw</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>kop</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>cobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Een grote roofzuchtige slang. Cobra's kunnen zeer agressief zijn als ze worden geprovoceerd, en hun beet is giftig.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>cobravlees</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>giftanden</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>kop</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>drumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Een gigantisch, elegant wezen van onbekende oorsprong. De drumbo is van nature zachtaardig, maar extreem gevaarlijk als hij agressief wordt. Hoewel zijn lange vacht uitzonderlijk mooi is, is zijn huid ook ongelooflijk goed bestand tegen beschadiging. Zijn vlijmscherpe hoorn levert een hoge prijs op.\n\nVolgens de legenden is een oude drumbo het wijste wezen in het universum - hij kiest er gewoon voor om niet te spreken.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>hoorn</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>linkerpoot</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>rechterppot</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>kop</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>schildpad</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Dit zwaar gepantserde reptiel leeft op het land. Het staat bekend om de traagheid waarmee het beweegt en om zijn verrassend venijnige beet. Vanwege zijn natuurlijke bepantsering is het moeilijk te doden en kan het ernstige schade aanrichten tijdens langdurige melee-gevechten.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>bek</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>kop</Tortoise.tools.head.label>
+  
+</LanguageData>

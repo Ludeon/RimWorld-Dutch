@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>Het lijkt erop dat ze de kolonie willen belegeren, en je met mortiervuur van afstand te beschieten. Je zou kunnen afwachten, of ze aanvallen.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Het lijkt erop dat ze belegeringstactiek willen gebruiken om je te helpen.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>Belegering</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>Bondgenoten</Siege.letterLabelFriendly>
+  
+</LanguageData>

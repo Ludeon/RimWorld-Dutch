@@ -107,6 +107,35 @@
     <li>rubbedpart->arm</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
   
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>vrijlaten in het wild</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
+    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_objective] had with [RECIPIENT_nameDef]</li>
+    <li>released->and released [RECIPIENT_objective] to the wild.</li>
+    <li>released->and set [RECIPIENT_objective] free.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->and let [RECIPIENT_objective] go.</li>
+    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
+    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+  -->
+  <ReleaseToWild.logRulesInitiator.rulesStrings>    
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] aaide [RECIPIENT_nameDef] nog een laatste keer</li>
+    <li>farewell->[INITIATOR_nameDef] fluisterde warme woorden tegen [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] haalde [RECIPIENT_nameDef]'s halsband af</li>
+    <li>farewell->[INITIATOR_nameDef] herrinderde zich de mooie momenten die [INITIATOR_objective] had met [RECIPIENT_nameDef]</li>
+    <li>released->en liet [RECIPIENT_objective] vrij in het wild.</li>
+    <li>released->en bevrijdde [RECIPIENT_objective].</li>
+    <li>released->en stuurde [RECIPIENT_objective] weg.</li>
+    <li>released->en liet [RECIPIENT_objective] gaan.</li>
+    <li>released->draaide zich om en liet [RECIPIENT_objective] de kolonie verlaten.</li>
+    <li>released->voordat [INITIATOR_objective] [RECIPIENT_objective] liet gaan om te leven in vrijheid.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
   <!-- EN: tame attempt -->
   <TameAttempt.label>tempoging</TameAttempt.label>
   <!-- EN:

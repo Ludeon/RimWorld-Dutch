@@ -10,6 +10,9 @@
   <!-- EN: allowed area -->
   <AllowedAreaWide.label>toegestane zone</AllowedAreaWide.label>
   
+  <!-- EN: carry -->
+  <Carry.label>dragen</Carry.label>
+  
   <!-- EN: drug policy -->
   <DrugPolicy.label>drugsbeleid</DrugPolicy.label>
   

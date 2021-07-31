@@ -41,4 +41,11 @@
   <!-- EN: head -->
   <Mech_Scyther.tools.head.label>kop</Mech_Scyther.tools.head.label>
   
+  <!-- EN: termite -->
+  <Mech_Termite.label>termiet</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>Een mechanoïde van gemiddelde grootte. Termieten specialiseren zich in het ingraven, graven en doorbreken van defensieve structuren. Verdedigers moeten besluiten of ze proberen de termieten te elimineren voordat hij zich door de linies graaft, of hem aan te vallen waar hij weer bovenkomt.</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>kop</Mech_Termite.tools.head.label>
+  
 </LanguageData>

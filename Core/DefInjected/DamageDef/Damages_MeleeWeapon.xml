@@ -22,6 +22,11 @@
   <Cut.deathMessage>{0} is gestorven aan snijwonden.</Cut.deathMessage>
   
   <!-- EN: blunt -->
+  <Demolish.label>Stomp</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>{0} is doodgeslagen</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
   <Poke.label>Slag</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
   <Poke.deathMessage>{0} is doodgeslagen</Poke.deathMessage>

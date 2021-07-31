@@ -16,6 +16,9 @@
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Ik heb iemand geslacht alsof het een dier was.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>menselijk lijk geslacht</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>catharsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
@@ -23,13 +26,18 @@
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>kolonist verbannen</ColonistBanished.stages.colonist_banished.label>
-  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
   <ColonistBanished.stages.colonist_banished.description>We hebben onlangs iemand verbannen. Ik hoop dat die het redt, maar het baart me zorgen.</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.label>kolonist dodelijk verbannen</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.description>We hebben iemand zodanig verbannen dat die bijna geen kans heeft om te overleven.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>Gevangen kolonist ontsnapt</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Kunnen we onze eigen mensen niet eens in bedwang houden? Hier kan me echt alles overkomen.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>vijandelijke leider {0} verslagen</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -44,6 +52,11 @@
   <!-- EN: Blood beats metal, you damn machines! -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>Bloed is sterker dan metaal, verdomde machines!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>aansluiting geweigerd</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>We hebben net iemnad geweigerd om zich bij ons aan te sluiten, ik hoop dat ze het redden.</DeniedJoining.stages.denied_joining.description>
+  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>{0} niet gered</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
@@ -53,6 +66,11 @@
   <FreedFromSlavery.stages.freed_from_slavery.label>bevrijd uit slavernij</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
   <FreedFromSlavery.stages.freed_from_slavery.description>Ik ben bevrijd uit slavernij. Ik ben zo dankbaar!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>bloedlust orgaan geoogst</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Het vlees uit hun lichaam trekken is zo bloederig en bevredigend.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>iemand gedood</KilledHumanlikeBloodlust.stages.killed_someone.label>

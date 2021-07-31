@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>dieren leerfactor</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>Een vermenigvuldigingsfactor op de leersnelheid voor diergerelateerde vaardigheden.</AnimalsLearningFactor.description>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>karavaansnelheid</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>De vermenigvuldigingsfactor voor de snelheid van een persoon als ze dit dier rijden als onderdeel van een handelskaravaan. Dieren kunnen alleen in een handelskaravaan bereden worden.</CaravanRidingSpeedFactor.description>
+  
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>draagvermogen</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
@@ -20,6 +30,11 @@
   <EatingSpeed.label>eetsnelheid</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>Een vermenigvuldigingsfactor op de eetsnelheid.</EatingSpeed.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>vuilproductie</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>Hoe veel vuil dit wezen produceert.\n\nHet is het beste om vuil-producerende dieren buiten te houden of op een stromat, waar hun vuil geen probleem vormt.</FilthRate.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>hoeveelheid gefoerageerd voedsel</ForagedNutritionPerDay.label>
@@ -41,15 +56,20 @@
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>De snelheid waarmee dit personage immuniteit tegen ziekten opbouwt.\n\nAls dit te langzaam is, sterft het personage aan een ziekte voordat het immuniteit ontwikkelt.</ImmunityGainSpeed.description>
   
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>herstelfactor verwondingen</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>De vermenigvuldigingsfactor die wordt toegepast op de snelheid waarmee een persoon geneest van verwondingen.</InjuryHealingFactor.description>
+  
   <!-- EN: leather amount -->
   <LeatherAmount.label>hoeveelheid leer</LeatherAmount.label>
-  <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>De hoeveelheid leer die de slacht van dit wezen oplevert.</LeatherAmount.description>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>De hoeveelheid leer die de slacht van dit wezen oplevert. Dit wordt minder als het wezen niet netjes wordt geslacht of wanneer het verwond wordt bij het doden.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>hoeveelheid vlees</MeatAmount.label>
-  <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>De hoeveelheid vlees die wordt geproduceerd bij het slachten van dit wezen.</MeatAmount.description>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>De hoeveelheid vlees die wordt geproduceerd bij het slachten van dit wezen. Dit wordt minder als het wezen niet netjes wordt geslacht of wanneer het verwond wordt bij het doden.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>zenuwinzinkinsdrempel</MentalBreakThreshold.label>

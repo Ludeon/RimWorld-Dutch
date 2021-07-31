@@ -13,7 +13,7 @@
   
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>ascetisch</Ascetic.degreeDatas.ascetic.label>
-  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
   <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} heeft fysiek comfort en plezier afgezworen in ruil voor een eenvoudige, pure levensstijl. {PAWN_pronoun} wordt ongelukkig als {PAWN_possessive} te indrukwekkend is. {PAWN_pronoun} eet ook liever rauw eten dan luxe maaltijden. {PAWN_pronoun} zal nooit iemand op hun uiterlijk beoordelen.</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
@@ -93,7 +93,7 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>vriendelijk</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance. -->
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
   <Kind.degreeDatas.kind.description>{PAWN_nameDef} is uitzonderlijk aardig. {PAWN_pronoun} kan iedereen zich beter laten voelen. {PAWN_pronoun} zal nooit iemand beledigen, en zal nooit iemand op hun uiterlijk beoordelen.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
@@ -153,10 +153,10 @@
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameIndef} heeft een dikke huid, grote spieren en sterke botten. {PAWN_pronoun} loopt veel minder schade op dan andere mensen van dezelfde wonden. {PAWN_pronoun} is erg moeilijk te vermoorden.</Tough.degreeDatas.tough.description>
   
-  <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>Prothesofiel</Transhumanist.degreeDatas.transhumanist.label>
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>Prothesofiel</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef} voelt zich begrensd in {PAWN_possessive} menselijke lichaam. {PAWN_pronoun} droomt ervan {PAWN_possessive} natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} voelt zich begrensd in {PAWN_possessive} menselijke lichaam. {PAWN_pronoun} droomt ervan {PAWN_possessive} natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>mol</Undergrounder.degreeDatas.undergrounder.label>

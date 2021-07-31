@@ -30,9 +30,6 @@
   <!-- EN: Being together with my bonded animals makes me feel better. -->
   <BondedAnimalMaster.stages.master_of.description>Het voelt goed om samen met mijn dieren te zijn.</BondedAnimalMaster.stages.master_of.description>
   
-  <!-- EN: butchered humanlike corpse -->
-  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>menselijk lijk geslacht</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
-  
   <!-- EN: chemical interest vs teetotaler -->
   <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>chemische interesse vs geheelonthouder</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
   
@@ -77,7 +74,7 @@
   
   <!-- EN: opinion of my {0} {1} -->
   <OpinionOfMyLover.stages.opinion_of_my.label>gevoelens voor mijn {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>
-  <!-- EN: Being with my lover makes me feel this way. -->
+  <!-- EN: Being with them makes me feel this way. -->
   <OpinionOfMyLover.stages.opinion_of_my.description>Samen met mijn lief zijn geeft me dit gevoel</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
@@ -94,26 +91,26 @@
   <!-- EN: teetotaler vs chemical interest -->
   <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>geheelonthouder vs chemische interesse</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
   
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>transhumanistische waardering</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>transhumanistische waardering</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>transhumanistische waardering</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>transhumanistische waardering</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
-  <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>transhumanistische waardering</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
-  
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>transhumanistische waardering</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>transhumanistische waardering</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>transhumanistische waardering</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>transhumanistische waardering</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>transhumanistische waardering</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+
   <!-- EN: physically unsightly -->
   <Ugly.stages.physically_unsightly.label>fysiek onaantrekkelijke</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
   <Ugly.stages.physically_hideous.label>fysiek afstotelijke</Ugly.stages.physically_hideous.label>
   
-  <!-- EN: want to sleep with {0} -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>wil met {0} het bed delen</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <!-- EN: I don't like sleeping apart from my partner. -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Ik slaap niet graag zonder mijn partner.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  <!-- EN: sleeping alone -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>slaapt alleen</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <!-- EN: I should be sleeping with a lover or spouse. -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>Ik zou met mijn partner het bed moeten delen.</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
   
   <!-- EN: woman -->
   <Woman.stages.woman.label>vrouw</Woman.stages.woman.label>

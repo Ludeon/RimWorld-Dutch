@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedSpeech.description>Afhankelijk van de ritueelkwaliteit krijgen deelnemers tussen {MINMOOD} en {MAXMOOD} humeurbonus voor {MOODDAYS} dagen.</AttendedSpeech.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AttendedSpeech.comps.0.label>de sociale impact van {PAWN_labelShort}</AttendedSpeech.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <AttendedSpeech.comps.0.labelAbstract>de sociale impact van de spreker</AttendedSpeech.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <AttendedSpeech.comps.1.label>aantal deelnemers</AttendedSpeech.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <AttendedSpeech.comps.2.label>kamerindrukwekkendheid</AttendedSpeech.comps.2.label>
+  <!-- EN: Terrible -->
+  <AttendedSpeech.outcomeChances.0.label>Vreselijk</AttendedSpeech.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <AttendedSpeech.outcomeChances.1.label>Oninspirerend</AttendedSpeech.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <AttendedSpeech.outcomeChances.2.label>Veelbelovend</AttendedSpeech.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <AttendedSpeech.outcomeChances.3.label>Inspirationeel</AttendedSpeech.outcomeChances.3.label>
+  
+</LanguageData>

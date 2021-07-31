@@ -68,8 +68,8 @@
   
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>alpacawol</WoolAlpaca.label>
-  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>De opmerkelijk zachte wol van een alpaca. Het is heel warm.</WoolAlpaca.description>
+  <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
+  <WoolAlpaca.description>De opmerkelijk zachte wol van een alpaca. Het is warm, beschermt tegen de hitte en levert heel wat op op de markt.</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>alpacawollen</WoolAlpaca.stuffProps.stuffAdjective>
   
   <!-- EN: bison wool -->

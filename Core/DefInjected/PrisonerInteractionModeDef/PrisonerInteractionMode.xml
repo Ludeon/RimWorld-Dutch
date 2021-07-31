@@ -3,17 +3,27 @@
   
   <!-- EN: recruit -->
   <AttemptRecruit.label>rekruteren</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>Cipiers zullen proberen de gevangene te rekruteren. Als een gevangene nog weerstand heeft zullen cipiers met ze spreken om die te verminderen.</AttemptRecruit.description>
   
   <!-- EN: execute -->
   <Execution.label>executeren</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>Een cipier zal de gevangene ter plaatse executeren. Dit kan het humeur van andere gevangenen en kolonisten beïnvloeden.</Execution.description>
   
   <!-- EN: no interaction -->
   <NoInteraction.label>geen interactie</NoInteraction.label>
+  <!-- EN: Wardens will not interact with the prisoner. -->
+  <NoInteraction.description>Cipiers zullen niet praten met de gevangene</NoInteraction.description>
   
   <!-- EN: reduce resistance -->
   <ReduceResistance.label>weerstand verminderen</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>Als een gevangene nog weerstand heeft zullen cipiers met ze spreken om die te verminderen. Gevangenen worden niet gerekruteerd.</ReduceResistance.description>
   
   <!-- EN: release -->
   <Release.label>vrijlaten</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>Een cipier zal de gevangene vrijlaten.</Release.description>
   
 </LanguageData>

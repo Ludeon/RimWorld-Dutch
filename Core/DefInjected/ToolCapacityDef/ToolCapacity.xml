@@ -10,6 +10,9 @@
   <!-- EN: cut -->
   <Cut.label>snij</Cut.label>
   
+  <!-- EN: demolish -->
+  <Demolish.label>vernietig</Demolish.label>
+  
   <!-- EN: kick material in eyes -->
   <KickMaterialInEyes.label>materiaal in de ogen schoppen</KickMaterialInEyes.label>
   

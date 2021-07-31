@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anchor -->
+  <Anchor.label>anker</Anchor.label>
+  
+  <!-- EN: curly -->
+  <BeardCurly.label>krullend</BeardCurly.label>
+  
+  <!-- EN: boxed -->
+  <Boxed.label>vierkant</Boxed.label>
+  
+  <!-- EN: braided -->
+  <Braided.label>gevlochten</Braided.label>
+  
+  <!-- EN: bushy -->
+  <Bushy.label>borstelig</Bushy.label>
+  
+  <!-- EN: bushy styled -->
+  <BushyStyled.label>borstelig gestyled</BushyStyled.label>
+  
+  <!-- EN: circle -->
+  <Circle.label>cirkel</Circle.label>
+  
+  <!-- EN: classy -->
+  <Classy.label>netjes</Classy.label>
+  
+  <!-- EN: curtain -->
+  <Curtain.label>gordijn</Curtain.label>
+  
+  <!-- EN: ducktail -->
+  <Ducktail.label>eendestaart</Ducktail.label>
+  
+  <!-- EN: fork -->
+  <Fork.label>gevorkt</Fork.label>
+  
+  <!-- EN: french -->
+  <French.label>frans</French.label>
+  
+  <!-- EN: full -->
+  <Full.label>volledig</Full.label>
+  
+  <!-- EN: goatee -->
+  <Goatee.label>sik</Goatee.label>
+  
+  <!-- EN: lincoln -->
+  <Lincoln.label>lincoln</Lincoln.label>
+  
+  <!-- EN: long dutch -->
+  <LongDutch.label>lang nederlands</LongDutch.label>
+  
+  <!-- EN: machete -->
+  <Machete.label>machete</Machete.label>
+  
+  <!-- EN: moustache -->
+  <Moustache.label>snor</Moustache.label>
+  
+  <!-- EN: mutton chops -->
+  <MuttonChops.label>bakkebaarden</MuttonChops.label>
+  
+  <!-- EN: no beard -->
+  <NoBeard.label>geen baard</NoBeard.label>
+  
+  <!-- EN: norse -->
+  <Norse.label>noors</Norse.label>
+  
+  <!-- EN: old dutch -->
+  <OldDutch.label>oud nederlands</OldDutch.label>
+  
+  <!-- EN: seer -->
+  <Seer.label>ziener</Seer.label>
+  
+  <!-- EN: side whiskers -->
+  <SideWhiskers.label>grote snor</SideWhiskers.label>
+  
+  <!-- EN: soul patch -->
+  <SoulPatch.label>soul patch</SoulPatch.label>
+  
+  <!-- EN: stache and chops -->
+  <StacheAndChops.label>snor en bakkebaarden</StacheAndChops.label>
+  
+  <!-- EN: stubble -->
+  <Stubble.label>stoppelbaard</Stubble.label>
+  
+  <!-- EN: tri-braid -->
+  <TriBraid.label>drievoudig gevlochten</TriBraid.label>
+  
+  <!-- EN: urist -->
+  <Urist.label>urist</Urist.label>
+  
+  <!-- EN: VanDyke -->
+  <VanDyke.label>ringbaard</VanDyke.label>
+  
+  <!-- EN: wizard -->
+  <Wizard.label>tovenaar</Wizard.label>
+  
+</LanguageData>

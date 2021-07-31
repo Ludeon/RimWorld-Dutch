@@ -21,9 +21,14 @@
   <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
   <Apparel_CowboyHat.description>Stijlvol, maar toch ruig. Deze hoed houdt de zon en regen tegen - en het geeft iedereen die hem draagt extra charme. Het is het belangrijkste onderdeel van traditioneel wild-westerse kledij.</Apparel_CowboyHat.description>
   
+  <!-- EN: hood -->
+  <Apparel_HatHood.label>kap</Apparel_HatHood.label>
+  <!-- EN: A draped hood which covers the head and ears. -->
+  <Apparel_HatHood.description>Een gedrapeerde kap die het hoofd en de oren bedekt.</Apparel_HatHood.description>
+  
   <!-- EN: marine helmet -->
   <Apparel_PowerArmorHelmet.label>mariniershelm</Apparel_PowerArmorHelmet.label>
-  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
   <Apparel_PowerArmorHelmet.description>Een mariniershelm met ingebouwde statuscomputer en meerdere beschermende plasteelgeweven lagen.\n\nWordt vaak gebruikt door keizerlijke janitsaren en ruimtemariniers.</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
@@ -51,9 +56,9 @@
   <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
   <Apparel_WarMask.description>Een artistiek maar verschrikkelijk oorlogsmasker. Het verbergt het gezicht van de drager en geeft ze meer vertrouwen.</Apparel_WarMask.description>
   
-  <!-- EN: war veil -->
+  <!-- EN: veil -->
   <Apparel_WarVeil.label>oorlogssluier</Apparel_WarVeil.label>
-  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <!-- EN: A piece of fabric which covers the wearer's face. -->
   <Apparel_WarVeil.description>Een oorlogssluier, gemaakt van versterkte stof, gescheurd om gevaar uit te stralen. Sommigen geloven dat het dragen van deze sluiers moed geeft.</Apparel_WarVeil.description>
   
 </LanguageData>

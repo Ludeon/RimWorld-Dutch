@@ -21,9 +21,10 @@
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>ruimtereizigers</AncientsHostile.pawnsPlural>
   
-  <!-- EN: insects -->
+  <!-- EN: insect geneline -->
   <Insect.label>insecten</Insect.label>
-  <Insect.description>Agressieve en indringende insecten.</Insect.description>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>Deze enorme insectachtigen leven ondergronds en graven zich een weg naar boven om aan te vallen wanneer ze worden aangetrokken door geluid of feromoonsignalen. Origineel komen ze van de planeet Sorne, maar interstellaire entrepeneurs hebben ze kunnen kweken en genetisch kunnen manipuleren om ze als wapens te gebruiken. Het is niet duidelijk wie de Sorne insecten op deze planeet heeft gebracht, maar ze zijn hier, en ze zijn levensgevaarlijk.</Insect.description>
   <!-- EN: Sorne Geneline -->
   <Insect.fixedName>Sorne Genlinie</Insect.fixedName>
   <!-- EN: insect -->
@@ -33,7 +34,8 @@
   
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>mechanoïdennest</Mechanoid.label>
-  <Mechanoid.description>Een collectief van oude zelf-reproducerende machines.</Mechanoid.description>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>Moordende machines van een onbekende oorsprong. Mechanoïden kunnen zichzelf duizenden jaren onderhouden, verborgen in antieke gebouwen onder een laag stof, of zelfs diep in de oceaan. Deze groep mechanieten zijn verenigd in een doel, maar niet goed gecoördineerd in actie. Alhoewel lokale geleerden geloven dat ze autonome wapens zijn uit een antieke oorlog, beschrijven de stamlegendes ze als demonische bedienden van een slapende god.</Mechanoid.description>
   <Mechanoid.fixedName>Een zwerm mechanoïden</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>mechanoïde</Mechanoid.pawnSingular>

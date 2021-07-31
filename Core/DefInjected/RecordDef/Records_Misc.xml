@@ -29,7 +29,7 @@
   <!-- EN: containers opened -->
   <ContainersOpened.label>containers geopend</ContainersOpened.label>
   <!-- EN: The number of containers I have opened. -->
-  <ContainersOpened.description>Het aantal containers die ik heb geopend.</ContainersOpened.description>
+  <ContainersOpened.description>Het aantal containers dat ik heb geopend.</ContainersOpened.description>
   
   <!-- EN: corpses buried -->
   <CorpsesBuried.label>lijken begraven</CorpsesBuried.label>

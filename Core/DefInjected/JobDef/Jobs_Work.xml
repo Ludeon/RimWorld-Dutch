@@ -11,10 +11,19 @@
   <Capture.reportString>TargetA aan het pakken.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TargetA aan het dragen.</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>TargetA aan het dragen.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>TargetA naar een cryptoslaapbed aan het tillen.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>TargetA naar een cryptoslaapbed aan het tillen.</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>TargetA aan het arresteren.</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>TargetA aan het schoonmaken.</Clean.reportString>
@@ -45,6 +54,9 @@
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>een kapotte component in TargetA aan het vervangen.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TargetA aan het executeren.</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>TargetA aan het oogsten.</Harvest.reportString>
@@ -85,6 +97,9 @@
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>TargetA aan het executeren.</PrisonerExecution.reportString>
   
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>TargetA vrijlaten in het wild.</ReleaseAnimalToWild.reportString>
+  
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>TargetA aan het vrijlaten.</ReleasePrisoner.reportString>
   
@@ -102,6 +117,12 @@
   
   <!-- EN: researching. -->
   <Research.reportString>onderzoek aan het doen.</Research.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>TargetA naar TargetC begeleiden.</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>TargetA naar TargetC begeleiden.</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>TargetA aan het scheren.</Shear.reportString>
@@ -121,6 +142,12 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>TargetA aan het stelen.</Steal.reportString>
   
+  <!-- EN: Studying TargetA. -->
+  <StudyThing.reportString>TargetA aan het bestuderen.</StudyThing.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>TargetA naar bed aan het brengen.</TakeDownedPawnToBedDrafted.reportString>
+  
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>TargetA naar bed aan het brengen.</TakeToBedToOperate.reportString>
   
@@ -138,6 +165,9 @@
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>TargetA aan het deinstaleren.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>TargetA aan het loslaten.</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>communicatiepaneel aan het gebruiken.</UseCommsConsole.reportString>

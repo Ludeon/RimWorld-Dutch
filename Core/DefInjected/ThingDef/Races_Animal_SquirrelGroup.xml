@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>boemrat</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>Ofwel door opzettelijke genetische manipulatie, of als een ongebruikelijk verdedigingsmechanisme, creëren deze knaagdierachtige wezens een krachtige brandstartende explosie wanneer ze worden gedood.</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>linkerklauw</Boomrat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>rechterklauw</Boomrat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>kop</Boomrat.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>leguaan</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>Deze grote hagedissen eten normaal alleen planten. Als ze worden gestoord maken zijn harde huid en scherpe klauwen hem een gevaarlijke tegenstander.\n\nRustende iguanen houden hun hoofd omhoog, waardoor ze er 'trots' uitzien. Ze zijn echter niet trots, ze proberen gewoon roofdieren te zien aankomen voordat ze worden opgegeten.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>linkerklauw</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>rechterklauw</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>kop</Iguana.tools.head.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>wasbeer</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <Raccoon.description>Een klein, winterhard dier dat voorkomt in bossen en grasvlaktes. Hij houdt ervan om in te breken in je vuilnisbak of keuken, om bijna alles te eten.</Raccoon.description>
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>linkerklauw</Raccoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>rechterklauw</Raccoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>kop</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>rat</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <Rat.description>Een alom gehaat knaagdier dat bekend staat om het vervuilen van keukens en het verspreiden van ziektes. Ratten weten op een of andere manier de mensheid overal te volgen. Ze eten bijna alles en komen bijna overal voor.</Rat.description>
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>linkerklauw</Rat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>rechterklauw</Rat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rat.tools.head.label>kop</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>eekhoorn</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>Een van de vele winterharde knaagdierensoorten die de mensheid overal volgen waar die zich verspreidt. Eekhoorns onderscheiden zich met hun borstelige staarten, die ze bij slecht weer als paraplu gebruiken.</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>linkerklauw</Squirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>rechterklauw</Squirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>kop</Squirrel.tools.head.label>
+  
+</LanguageData>

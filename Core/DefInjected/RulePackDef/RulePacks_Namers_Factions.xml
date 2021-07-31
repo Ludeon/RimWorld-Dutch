@@ -50,6 +50,16 @@
   </NamerFactionMechanoid.rulePack.rulesStrings>
   
   <!-- EN:
+    <li>political_union_outlander->Words/Nouns/PoliticalUnions_Outlander</li>
+    <li>political_adjective->Words/Adjectives/PoliticalUnions</li>
+  -->
+  <NamerFactionOutlander.rulePack.rulesFiles>
+    <li>political_union_outlanderGendered->Words/Nouns/PoliticalUnions_Outlander_Gendered</li>
+    <li>political_union_outlanderNeuter->Words/Nouns/PoliticalUnions_Outlander_Neuter</li>
+    <li>political_adjectiveGendered->Words/Adjectives/PoliticalUnions_Gendered</li>
+    <li>political_adjectiveNeuter->Words/Adjectives/PoliticalUnions_Neuter</li>
+  </NamerFactionOutlander.rulePack.rulesFiles>
+  <!-- EN:
     <li>r_name(p=3)->[nearnameinitial]</li>
     <li>r_name->[nearnameinitial] [political_union_outlander]</li>
     <li>r_name->[nearnameinitial] [political_adjective] [political_union_outlander]</li>
@@ -71,13 +81,13 @@
     <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
   </NamerFactionOutlander.rulePack.rulesStrings>
   
-  <NamerFactionOutlander.rulePack.rulesFiles>
-    <li>political_union_outlanderGendered->Words/Nouns/PoliticalUnions_Outlander_Gendered</li>
-    <li>political_union_outlanderNeuter->Words/Nouns/PoliticalUnions_Outlander_Neuter</li>
-    <li>political_adjectiveGendered->Words/Adjectives/PoliticalUnions_Gendered</li>
-    <li>political_adjectiveNeuter->Words/Adjectives/PoliticalUnions_Neuter</li>
-  </NamerFactionOutlander.rulePack.rulesFiles>
-
+  <!-- EN:
+    <li>groupname->Words/Nouns/GroupNames</li>
+  -->
+  <NamerFactionPirate.rulePack.rulesFiles>
+    <li>groupnameGendered->Words/Nouns/GroupNames_Gendered</li>
+    <li>groupnameNeuter->Words/Nouns/GroupNames_Neuter</li>
+  </NamerFactionPirate.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
     <li>r_name->The [AnimalBadass] Men</li>
@@ -145,11 +155,13 @@
     <li>r_name(p=0.18)->Het [ConceptBadass] [groupnameNeuter]</li>
   </NamerFactionPirate.rulePack.rulesStrings>
   
-  <NamerFactionPirate.rulePack.rulesFiles>
-    <li>groupnameGendered->Words/Nouns/GroupNames_Gendered</li>
-    <li>groupnameNeuter->Words/Nouns/GroupNames_Neuter</li>
-  </NamerFactionPirate.rulePack.rulesFiles>
-  
+  <!-- EN:
+    <li>political_union_tribal->Words/Nouns/PoliticalUnions_Tribal</li>
+  -->
+  <NamerFactionTribal.rulePack.rulesFiles>
+    <li>political_union_tribalGendered->Words/Nouns/PoliticalUnions_Tribal_Gendered</li>
+    <li>political_union_tribalNeuter->Words/Nouns/PoliticalUnions_Tribal_Neuter</li>
+  </NamerFactionTribal.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[WordTribal] [political_union_tribal]</li>
     <li>r_name->The [WordTribal] [political_union_tribal]</li>
@@ -173,11 +185,6 @@
     <li>r_name(p=0.5)->Het [political_union_tribalNeuter] van de [TerrainFeatureGendered]</li>
     <li>r_name(p=0.5)->Het [political_union_tribalNeuter] van het [TerrainFeatureNeuter]</li>
   </NamerFactionTribal.rulePack.rulesStrings>
-  
-  <NamerFactionTribal.rulePack.rulesFiles>
-    <li>political_union_tribalGendered->Words/Nouns/PoliticalUnions_Tribal_Gendered</li>
-    <li>political_union_tribalNeuter->Words/Nouns/PoliticalUnions_Tribal_Neuter</li>
-  </NamerFactionTribal.rulePack.rulesFiles>
   
   <!-- EN:
     <li>r_name->Colony</li>

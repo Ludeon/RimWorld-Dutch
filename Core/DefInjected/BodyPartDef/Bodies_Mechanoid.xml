@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: first body ring -->
+  <MechanicalTermiteBodyFirstRing.label>eerste lichaamsring</MechanicalTermiteBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyFirstRing.labelShort>lichaamsring</MechanicalTermiteBodyFirstRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalTermiteBodySecondRing.label>tweede lichaamsring</MechanicalTermiteBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodySecondRing.labelShort>lichaamsring</MechanicalTermiteBodySecondRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalTermiteBodyThirdRing.label>derde lichaamsring</MechanicalTermiteBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyThirdRing.labelShort>lichaamsring</MechanicalTermiteBodyThirdRing.labelShort>
+  
+</LanguageData>

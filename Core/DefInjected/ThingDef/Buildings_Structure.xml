@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>dierenluik</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>Een deur met dik overlappende strips stof of leer. Dieren kunnen hierdoor passeren terwijl de warmte binnen blijft. Dierenluiken worden meestal gebruikt als staldeuren zodat weidedieren een beschutte slaapplek kunnen hebben.</AnimalFlap.description>
+  
   <!-- EN: autodoor -->
   <Autodoor.label>automatische deur</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
@@ -15,6 +20,16 @@
   <Door.label>deur</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
   <Door.description>Scheidt ruimtes. Eenvoudige deuren moeten met de hand worden geopend, en dat kost wat tijd. Hoeveel tijd hangt af van het materiaal waarvan de deur is gemaakt.</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>hek</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals. -->
+  <Fence.description>Een hek gemaakt van palen verbonden door dwarsbalken, gebruikt voor het bouwen van omheiningen van weiden voor bepaalde dieren. Hekken blokkeren niet alle diersoorten.</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>hekpoort</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>Een eenvoudige poort van palen met dwarsbalken. Het blokkeert sommige dieren net zoals een hek. Dierenverzorgers kunnen dieren door deze poorten leiden.</FenceGate.description>
   
   <!-- EN: wall -->
   <Wall.label>muur</Wall.label>

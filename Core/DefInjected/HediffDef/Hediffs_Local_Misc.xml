@@ -40,6 +40,11 @@
   <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
   <Scaria.description>Een ziekte die geïnfecteerde wezens in een woeste razernij doet ontbranden. Een wezen met scaria kan worden behandeld met een speciale medische ingreep, maar zal eerst moeten worden tegengehouden. Als het onbehandeld blijft zal de patiënt na ongeveer 5 dagen overlijden aan de gevolgen. De ziekte vergiftigt het vlees en laat de huid verrotten, wezens met scaria hebben een kans om te verrotten bij hun dood, en kunnen daarom  niet geslacht worden voor vlees of leer.</Scaria.description>
   
+  <!-- EN: sterilized -->
+  <Sterilized.label>gesteriliseerd</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>De voortplantingsorganen van dit wezen is permanent uitgeschakeld.</Sterilized.description>
+  
   <!-- EN: trauma savant -->
   <TraumaSavant.label>Savantsyndroom</TraumaSavant.label>
   <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astropolitan -->
+  <Astropolitan.label>astropolitaans</Astropolitan.label>
+  <!-- EN: A broad collection of cultures common among frequent space travelers. -->
+  <Astropolitan.description>Een bonte verzameling culturen die veel voorkomen onder ruimtereizigers.</Astropolitan.description>
+  
+  <!-- EN: corunan -->
+  <Corunan.label>corunaans</Corunan.label>
+  <!-- EN: An ancient culture common among rimworld tribes. -->
+  <Corunan.description>Een klassieke cultuur veelvoorkomend onder rimworld stammen.</Corunan.description>
+  
+  <!-- EN: kriminul -->
+  <Kriminul.label>kriminul</Kriminul.label>
+  <!-- EN: A broad category describing the styles and practices of many pirate groups. -->
+  <Kriminul.description>Een categorie die de stijl en praktijken van veel piraten beschrijft.</Kriminul.description>
+  
+  <!-- EN: rustican -->
+  <Rustican.label>rusticiaans</Rustican.label>
+  <!-- EN: A hardy industrial culture common among rimworld outlanders. -->
+  <Rustican.description>Een harde industriële cultuur veelvoorkomend onder rimworld buitenlanders.</Rustican.description>
+  
+</LanguageData>

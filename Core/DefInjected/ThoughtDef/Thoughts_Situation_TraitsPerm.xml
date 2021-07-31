@@ -6,7 +6,7 @@
   <!-- EN: Natural penalty from 'depressive' trait. -->
   <MoodOffsetDepressive.stages.depressive.description>Natuurlijke malus van de eigenschap 'depressief'</MoodOffsetDepressive.stages.depressive.description>
   
-s  <!-- EN: optimist -->
+  <!-- EN: optimist -->
   <MoodOffsetOptimist.stages.optimist.label>optimist</MoodOffsetOptimist.stages.optimist.label>
   <!-- EN: Natural bonus from 'optimist' trait. -->
   <MoodOffsetOptimist.stages.optimist.description>Natuurlijke bonus van de eigenschap 'optimist'</MoodOffsetOptimist.stages.optimist.description>

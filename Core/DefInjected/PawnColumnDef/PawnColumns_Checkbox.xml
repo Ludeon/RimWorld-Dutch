@@ -10,6 +10,9 @@
   <!-- EN: Mark animals to be hunted by your hunters. -->
   <Hunt.headerTip>Markeer dieren om gejaagd te worden door je jagers.</Hunt.headerTip>
   
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>Vrijlaten in het wild</ReleaseAnimalToWild.headerTip>
+  
   <!-- EN: Slaughter -->
   <Slaughter.headerTip>Slacht</Slaughter.headerTip>
   

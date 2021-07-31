@@ -4,6 +4,9 @@
   <!-- EN: Ability -->
   <Ability.label>Vaardigheid</Ability.label>
   
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>dierlijke productiviteit</AnimalProductivity.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>Kleding</Apparel.label>
   
@@ -69,6 +72,9 @@
   
   <!-- EN: Surgical -->
   <Surgery.label>Chirurgisch</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>terrein</Terrain.label>
   
   <!-- EN: Weapon -->
   <Weapon.label>Wapen</Weapon.label>

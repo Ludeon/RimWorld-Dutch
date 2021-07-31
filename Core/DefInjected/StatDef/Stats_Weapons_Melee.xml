@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: detection chance -->
-  <Bladelink_DetectionChance.label>ontdekkingskans</Bladelink_DetectionChance.label>
-  <!-- EN: The likelihood of the bladelink implant being detected each time it is used to attack in combat.\n\nSome factions try to enforce laws restricting the use of the bladelink to those holding specific titles. Using the bladelink emits a psychic signature which has a chance of being detected at a distance. If it is used illegally and detected, there will be diplomatic consequences. -->
-  <Bladelink_DetectionChance.description>De kans dat het bladelink-implantaat wordt gedetecteerd elke keer dat het wordt gebruikt om aan te vallen in een gevecht.\n\nSommige facties proberen wetten af te dwingen die het gebruik van de bladelink beperken tot degenen die specifieke titels bezitten. Het gebruik van de bladelink geeft een psychisch kenmerk af dat een kans heeft om op afstand te worden gedetecteerd. Als het illegaal wordt gebruikt en ontdekt, heeft dat diplomatieke gevolgen.</Bladelink_DetectionChance.description>
-  
   <!-- EN: blunt damage -->
   <BluntDamageMultiplier.label>stompe schade</BluntDamageMultiplier.label>
   <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->

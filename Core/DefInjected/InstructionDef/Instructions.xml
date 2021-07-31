@@ -94,14 +94,16 @@
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
   <ChopTrees.text>Het is een goed idee om wat hout te hakken. Wijs enkele bomen aan die moeten worden gekapt.\n\nSelecteer de aanduiding HOUT HAKKEN en wijs 10 bomen aan die moeten worden gekapt.\n\n(Pro tip: je kunt een gebied over bomen slepen om er meerdere tegelijk aan te duiden.)</ChopTrees.text>
   
-  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>Welkom bij RimWorld! In deze tutorial leer je hoe je het spel moet spelen.\n\nDe eerste stap is het genereren van een wereld om in te spelen.\n\nOp dit scherm bepaal je hoe je wereld zal worden gegenereerd.\n\nDe standaardinstellingen hier zijn goed, dus klik op GENEREER!</CreateWorldParams.text>
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>Klik op GENEREER om je wereld te genereren.</CreateWorldParams.rejectInputMessage>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>Welkom bij RimWorld!\n\nIn deze tutorial leer je hoe je het spel moet spelen.\n\nDe eerste stap is het genereren van een wereld om in te spelen.\n\nOp dit scherm bepaal je hoe je wereld zal worden gegenereerd.\n\nDe standaardinstellingen hier zijn goed, dus klik op GENEREER!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Stuur je kolonisten hierheen\nen raak de zandzakken aan voor dekking</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>Concentreer je op het winnen van het gevecht!</DownRaider.rejectInputMessage>
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>Ik heb nu een overvaller gestuurd om je kolonie aan te vallen!\n\n1. Pauzeer het spel door op {Key:TogglePause} te drukken!\n2. Lees de rode brief rechtsonder in het scherm.\n3. Laat je kolonisten hun wapens trekken door ze te selecteren en op de opdracht WAPEN TREKKEN te drukken.\n4. Klik met de rechtermuisknop om ze binnen het zandzakvierkant te plaatsen, zodanig dat ze de zandzakken aanraken.\n5. Haal het spel van pauze af.\n\nKolonisten moeten dekking aanraken om ervan te profiteren. Als je eenmaal in dekking bent, wacht je tot de aanvaller nadert. Je kolonisten zullen automatisch schieten.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
@@ -203,7 +205,7 @@
   <UnforbidStartingResources.onMapInstruction>Sta dit toe</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>Sta je startitems toe.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
   <UnforbidStartingResources.text>Vervolgens, om je kolonisten toe te staan je spullen naar een opslagplaats te brengen, moet je de "verboden" aanduiding van die spullen verwijderen.\n\n1. Klik op je startitems om ze te selecteren.\n2. Klik op de TOESTAAN schakelknop om ze toe te staan.\n\n(Pro tip: dubbelklik op een item om alles op het scherm van hetzelfde type te selecteren.)</UnforbidStartingResources.text>
   
 </LanguageData>

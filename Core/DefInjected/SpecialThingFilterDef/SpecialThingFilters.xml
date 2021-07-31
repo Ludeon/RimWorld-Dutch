@@ -28,10 +28,20 @@
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowDeadmansApparel.description>Sta kleding toe die ooit door een lijk gedragen is. De meeste mensen vinden door een lijk bedoezelde kleding ontstellend, en handelaars zullen het niet accepteren.</AllowDeadmansApparel.description>
   
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>vrouwen toestaan</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>Vrouwen toestaan.</AllowFemaleGender.description>
+  
   <!-- EN: allow fresh -->
   <AllowFresh.label>sta verse voorwerpen toe</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>Sta organische dingen toe die nog niet aan het rotten zijn.</AllowFresh.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>mannen toestaan</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>Mannen toestaan.</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
   <AllowNonBiocodedApparel.label>sta niet-biogecodeerde kleding toe</AllowNonBiocodedApparel.label>

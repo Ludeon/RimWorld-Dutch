@@ -33,5 +33,13 @@
   <Expectations.stages.royal_expectations.label>keizerlijke verwachtingen</Expectations.stages.royal_expectations.label>
   <!-- EN: My majesty... I can hardly believe it myself. A moment's discomfort is below me. -->
   <Expectations.stages.royal_expectations.description>Mijne majesteit... Ik kan het zelf bijna niet geloven. Elk oncomfortabel moment is beneden mijn stand.</Expectations.stages.royal_expectations.description>
+  <!-- EN: elite expectations -->
+  <Expectations.stages.elite_expectations.label>elite verwachtingen</Expectations.stages.elite_expectations.label>
+  <!-- EN: I shouldn't have to endure any inconveniences that distract me from my important role. -->
+  <Expectations.stages.elite_expectations.description>Ik zou geen ongemakkelijkheden moeten hoeven verdragen die mij afleiden van mijn belangrijke rol.</Expectations.stages.elite_expectations.description>
+  <!-- EN: supreme expectations -->
+  <Expectations.stages.supreme_expectations.label>superhoge verwachtingen</Expectations.stages.supreme_expectations.label>
+  <!-- EN: My importance here is uncontested, so my comfort must be a critical priority for my people. -->
+  <Expectations.stages.supreme_expectations.description>Ik ben hier het allerbelangrijkts, dus mijn comfort moet de hoogste prioriteit hebben voor mijn mensen.</Expectations.stages.supreme_expectations.description>
   
 </LanguageData>

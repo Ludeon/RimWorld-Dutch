@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>casuaris</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>Een grote loopvogel met felgekleurde veren. Hoewel ze er mooi uitzien kunnen ze gemene trappen uitdelen. Het is bekend dat ze snel agressief worden wanneer ze worden verwond, of worden geconfronteerd met incompetente dierentemmers.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>vogelvlees</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>klauwen</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>snavel</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>kop</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>emoe</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>Een grote loopvogel met kraaloogjes in zijn lelijke gezicht. Met hun slechte humeur zijn emoes de hufters van de natuurlijke wereld. Je kunt er van op aan dat ze wraak zullen nemen als je ze stoort.</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>klauwen</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>snavel</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>kop</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>struisvogel</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>De grootste niet-gemanipuleerde vogelsoort. Struisvogels staan bekend om hun snelle vlucht, hun enorme eieren en hun krachtige trap. Ze worden gemakkelijk boos.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>klauwen</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>snavel</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>kop</Ostrich.tools.head.label>
+  
+</LanguageData>

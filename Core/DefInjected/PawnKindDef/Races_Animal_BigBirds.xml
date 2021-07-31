@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>kasuaris</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>kasaurissen</Cassowary.labelPlural>
+  
+  <!-- EN: emu -->
+  <Emu.label>emoe</Emu.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>struisvogel</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>struisvogels</Ostrich.labelPlural>
+  
+</LanguageData>

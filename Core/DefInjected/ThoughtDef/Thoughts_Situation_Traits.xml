@@ -112,35 +112,35 @@
   
   <ProsthophileHappy.label>Heeft een bionisch lichaamsdeel</ProsthophileHappy.label>
   <ProsthophileHappy.description>Ik ben een product van de moderne technologie! Ik kan nu alles beter!</ProsthophileHappy.description>
-  <!-- EN: transhumanist pleased -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>tevreden transhumanist</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: body modder pleased -->
+  <ProsthophileHappy.stages.body_modder_pleased.label>tevreden transhumanist</ProsthophileHappy.stages.body_modder_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
-  <ProsthophileHappy.stages.transhumanist_pleased.description>Deze prothese is cool. Ik wil er meer.</ProsthophileHappy.stages.transhumanist_pleased.description>
-  <!-- EN: transhumanist quite pleased -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>best tevreden transhumanist</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <ProsthophileHappy.stages.body_modder_pleased.description>Deze prothese is cool. Ik wil er meer.</ProsthophileHappy.stages.body_modder_pleased.description>
+  <!-- EN: body modder quite pleased -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>best tevreden transhumanist</ProsthophileHappy.stages.body_modder_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Twee protheses zijn beter dan één. Ik wou dat ik er nog meer had.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
-  <!-- EN: transhumanist delighted -->
-  <ProsthophileHappy.stages.transhumanist_delighted.label>verheugde transhumanist</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>Twee protheses zijn beter dan één. Ik wou dat ik er nog meer had.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <!-- EN: body modder delighted -->
+  <ProsthophileHappy.stages.body_modder_delighted.label>verheugde transhumanist</ProsthophileHappy.stages.body_modder_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.transhumanist_delighted.description>Drie protheses, en mijn zwakke menselijke vlees trekt zich terug. Maar ik wil meer machinale kracht.</ProsthophileHappy.stages.transhumanist_delighted.description>
-  <!-- EN: transhumanist enchanted -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.label>verrukte transhumanist</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <ProsthophileHappy.stages.body_modder_delighted.description>Drie protheses, en mijn zwakke menselijke vlees trekt zich terug. Maar ik wil meer machinale kracht.</ProsthophileHappy.stages.body_modder_delighted.description>
+  <!-- EN: body modder enchanted -->
+  <ProsthophileHappy.stages.body_modder_enchanted.label>verrukte transhumanist</ProsthophileHappy.stages.body_modder_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.description>Vier protheses, ik word meer dan een mens. Maar er is nog steeds een stuk menselijk vlees dat vervangen moet worden.</ProsthophileHappy.stages.transhumanist_enchanted.description>
-  <!-- EN: transhumanist overjoyed -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.label>dolblije transhumanist</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <ProsthophileHappy.stages.body_modder_enchanted.description>Vier protheses, ik word meer dan een mens. Maar er is nog steeds een stuk menselijk vlees dat vervangen moet worden.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <!-- EN: body modder overjoyed -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>dolblije transhumanist</ProsthophileHappy.stages.body_modder_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Vijf protheses! Hoe kan iemand die zo veel is verbeterd ooit ongelukkig zijn?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>Vijf protheses! Hoe kan iemand die zo veel is verbeterd ooit ongelukkig zijn?</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <!-- EN: machine body is complete -->
   <ProsthophileHappy.stages.machine_body_is_complete.label>machinelichaam is voltooid</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>Dit is wat ik wou.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
-  <!-- EN: transhumanist frustrated -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>gefrustreerde transhumanist</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: body modder frustrated -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>gefrustreerde transhumanist</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Vlees is zo beperkend. Ik wou dat ik een betere prothese zou hebben.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>Vlees is zo beperkend. Ik wou dat ik een betere prothese zou hebben.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
   
   <ProsthophobeUnhappy.label>Heeft een bionisch lichaamsdeel</ProsthophobeUnhappy.label>
   <ProsthophobeUnhappy.description>Ze hebben me in een mechanisch monster veranderd! Hadden ze me nu maar gewoon een keuze gegeven...</ProsthophobeUnhappy.description>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: caravan ambush defeated -->
   <CaravanAmbushDefeated.label>karavaan hinderlaag verslagen</CaravanAmbushDefeated.label>
   <!-- EN:
@@ -55,7 +55,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] vluchten uit de regio.</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] vluchten uit de regio.</li>
   </CaravanAmbushDefeated.rulePack.rulesStrings>
-
+  
   <!-- EN: caravan assault successful -->
   <CaravanAssaultSuccessful.label>karavaan aanval succesvol</CaravanAssaultSuccessful.label>
   <!-- EN:
@@ -98,7 +98,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] ontvluchten de regio.</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] ontvluchten de regio.</li>
   </CaravanAssaultSuccessful.rulePack.rulesStrings>
-
+  
   <!-- EN: caravan fled -->
   <CaravanFled.label>karavaan gevlucht</CaravanFled.label>
   <!-- EN:
@@ -145,7 +145,7 @@
     <li>desc_sentence->[PAWN_nameDef] is bezweet.</li>
     <li>desc_sentence->[PAWN_nameDef] snakt naar adem.</li>
   </CaravanFled.rulePack.rulesStrings>
-
+  
   <!-- EN: caravan formed -->
   <CaravanFormed.label>karavaan gevormd</CaravanFormed.label>
   <!-- EN:
@@ -186,7 +186,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJobPlural] kijken van een afstandje toe.</li>
     <li>desc_sentence->[Quantity_adjphrase] [AnimalPlural] zijn vreedzaam aanwezig.</li>
   </CaravanFormed.rulePack.rulesStrings>
-
+  
   <!-- EN: caravan remote mining -->
   <CaravanRemoteMining.label>karavaan delft op afstand</CaravanRemoteMining.label>
   <!-- EN:
@@ -227,5 +227,5 @@
     <li>desc_sentence->Een [TerrainFeature] is zichtbaar op de achtergrond.</li>
     <li>desc_sentence->[PAWN_nameDef] zit onder het zweet en het vuil door al het werk.</li>
   </CaravanRemoteMining.rulePack.rulesStrings>
-
+  
 </LanguageData>

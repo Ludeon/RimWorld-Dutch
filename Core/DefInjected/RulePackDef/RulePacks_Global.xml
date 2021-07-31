@@ -167,6 +167,10 @@
     <li>BodyPart(p=5)->[BodyPartNeuter]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
+  <!-- EN:
+    <li>talktopicheavyfile->Words/Nouns/TalkTopics_Heavy</li>
+    <li>talktopiclightfile->Words/Nouns/TalkTopics_Light</li>
+  -->
   <TalkTopicsUtility.rulePack.rulesFiles>
     <li>AnimalGendered->Words/Nouns/Animals_Gendered</li>
     <li>AnimalNeuter->Words/Nouns/Animals_Neuter</li>
@@ -329,6 +333,6 @@
     <li>talktopicheavyfile(p=0.15)->verleiding</li>
     <li>talktopicheavyfile(p=0.15)->dierlijke seksualiteit</li>
     <li>talktopicheavyfile(p=0.15)->seksuele fetishes</li>
-    </TalkTopicsUtility.rulePack.rulesStrings>
+  </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>

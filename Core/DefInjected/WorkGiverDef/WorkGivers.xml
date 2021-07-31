@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>fabriceer dingen</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>fabriceert dingen bij</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>fabriceert dingen</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>executeer gevangenen</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>executeren van</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>executeer</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -308,6 +308,20 @@
   <Drill.gerund>boren</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>boor</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>legdoos legen</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>legen</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>leeg</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>schuldige kolonisten executeren</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>executeren</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>executeer</ExecuteGuiltyColonist.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>voed gevangenen</FeedPrisoner.label>
@@ -477,6 +491,13 @@
   <!-- EN: rearm -->
   <RearmTurrets.verb>herlaad</RearmTurrets.verb>
   
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>balanceer weidedieren</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>leiden</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>leid</RebalanceAnimalsInPens.verb>
+  
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>gebouwen bijtanken</Refuel.label>
   <!-- EN: refueling -->
@@ -490,6 +511,13 @@
   <ReleasePrisoner.gerund>vrijlaten</ReleasePrisoner.gerund>
   <!-- EN: release -->
   <ReleasePrisoner.verb>laat vrij</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>vrijlaten in het wild</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>vrijlaten</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>laat vrij</ReleaseToWild.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>verwijder daken</RemoveRoofs.label>
@@ -533,6 +561,13 @@
   <!-- EN: strip -->
   <Strip.verb>strip</Strip.verb>
   
+  <!-- EN: study -->
+  <StudyThing.label>studeren</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>studeren</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>onderzoek</StudyThing.verb>
+  
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>haal bier uit gistingsvaten</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
@@ -547,12 +582,26 @@
   <!-- EN: take to bed -->
   <TakePrisonerToBed.verb>breng naar bed</TakePrisonerToBed.verb>
   
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>leid vrije dieren</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>leiden</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>leid</TakeRoamingAnimalsToPen.verb>
+  
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>breng patiënten naar bed voor operaties</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>brengen voor operatie</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>breng voor operatie</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>leid dieren</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>leiden</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>leid</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>tem dieren</Tame.label>

@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <NamerArtCommon.rulePack.rulesFiles>
     <li>ArtworkGendered->Words/Nouns/Artworks_Gendered</li>
     <li>ArtworkNeuter->Words/Nouns/Artworks_Neuter</li>
   </NamerArtCommon.rulePack.rulesFiles>
-
   <!-- EN:
     <li>r_art_name(p=4)->[Artwork] [Trans] [ConceptAny]</li>
     <li>r_art_name(p=4)->[maybe_a] [maybe_adjective] [Artwork]</li>

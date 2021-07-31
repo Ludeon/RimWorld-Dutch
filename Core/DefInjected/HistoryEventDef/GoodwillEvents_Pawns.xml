@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked member -->
+  <AttackedMember.label>lid aangevallen</AttackedMember.label>
+  
+  <!-- EN: guilty prisoner died -->
+  <GuiltyPrisonerDied.label>schuldige gevangene gestorven</GuiltyPrisonerDied.label>
+  
+  <!-- EN: innocent prisoner died -->
+  <InnocentPrisonerDied.label>onschuldige gevangene gestorven</InnocentPrisonerDied.label>
+  
+  <!-- EN: member captured -->
+  <MemberCaptured.label>lid gevangengenomen</MemberCaptured.label>
+  
+  <!-- EN: member crushed -->
+  <MemberCrushed.label>lid verpletterd</MemberCrushed.label>
+  
+  <!-- EN: member exited map healthy -->
+  <MemberExitedMapHealthy.label>lid heeft het gebied gezond verlaten</MemberExitedMapHealthy.label>
+  
+  <!-- EN: member killed -->
+  <MemberKilled.label>lid gedood</MemberKilled.label>
+  
+  <!-- EN: member died -->
+  <MemberNeutrallyDied.label>lid gestorven</MemberNeutrallyDied.label>
+  
+  <!-- EN: member sold -->
+  <MemberSold.label>lid verkocht</MemberSold.label>
+  
+  <!-- EN: member stripped -->
+  <MemberStripped.label>lid gestript</MemberStripped.label>
+  
+  <!-- EN: harmful surgery on member -->
+  <PerformedHarmfulSurgery.label>schadelijke operatie op lid</PerformedHarmfulSurgery.label>
+  
+  <!-- EN: prisoner died -->
+  <PrisonerDied.label>gevangene gestorven</PrisonerDied.label>
+  
+  <!-- EN: harmed member -->
+  <UsedHarmfulItem.label>lid schade berokkend</UsedHarmfulItem.label>
+  
+</LanguageData>

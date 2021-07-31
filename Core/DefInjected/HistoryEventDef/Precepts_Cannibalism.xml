@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate meal made from human meat -->
+  <AteHumanMeatAsIngredient.label>maaltijd van mensenvlees gegeten</AteHumanMeatAsIngredient.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeatDirect.label>mensenvlees gegeten</AteHumanMeatDirect.label>
+  
+  <!-- EN: butchered human -->
+  <ButcheredHuman.label>mens geslacht</ButcheredHuman.label>
+  
+</LanguageData>

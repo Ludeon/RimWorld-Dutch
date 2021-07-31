@@ -133,6 +133,8 @@
   <Misc.label>letsel</Misc.label>
   <!-- EN: Miscellanous injuries. -->
   <Misc.description>ander letsel</Misc.description>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>litteken</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: an injury -->
   <Misc.labelNoun>letsel</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->

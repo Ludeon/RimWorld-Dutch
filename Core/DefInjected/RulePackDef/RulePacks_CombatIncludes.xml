@@ -16,7 +16,7 @@
     <li>scraped_past->skated</li>
   -->
   <Combat_DeflectIncludes.rulePack.rulesStrings>
-   <li/>
+    <li />
     <!-- not used in Dutch translation -->
   </Combat_DeflectIncludes.rulePack.rulesStrings>
   
@@ -225,21 +225,21 @@
     <li>skillAdv(INITIATOR_skill&lt;=6)->amateuristisch</li>
     <li>skillAdv(INITIATOR_skill&lt;=6)->schuw</li>
     <li>skillAdv(INITIATOR_skill&lt;=8)->enthousiast</li>
-    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)->vakkundig</li>
-    <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)->bekwaam</li>
-    <li>skillAdv(INITIATOR_skill&gt;=8)->professioneel</li>
-    <li>skillAdv(INITIATOR_skill&gt;=8)->handig</li>
-    <li>skillAdv(INITIATOR_skill&gt;=8)->zelfverzekerd</li>
-    <li>skillAdv(INITIATOR_skill&gt;=8)->slim</li>
-    <li>skillAdv(INITIATOR_skill&gt;=8)->vernuftig</li>
-    <li>skillAdv(INITIATOR_skill&gt;=8)->vaardig</li>
-    <li>skillAdv(INITIATOR_skill&gt;=10)->zeer bekwaam</li>
-    <li>skillAdv(INITIATOR_skill&gt;=10)->vlotjes</li>
-    <li>skillAdv(INITIATOR_skill&gt;=12)->nauwkeurig</li>
-    <li>skillAdv(INITIATOR_skill&gt;=12)->precies</li>
-    <li>skillAdv(INITIATOR_skill&gt;=14)->meesterlijk</li>
-    <li>skillAdv(INITIATOR_skill&gt;=16)->artistiek</li>
-    <li>skillAdv(INITIATOR_skill&gt;=16)->glansrijk</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->vakkundig</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->bekwaam</li>
+    <li>skillAdv(INITIATOR_skill>=8)->professioneel</li>
+    <li>skillAdv(INITIATOR_skill>=8)->handig</li>
+    <li>skillAdv(INITIATOR_skill>=8)->zelfverzekerd</li>
+    <li>skillAdv(INITIATOR_skill>=8)->slim</li>
+    <li>skillAdv(INITIATOR_skill>=8)->vernuftig</li>
+    <li>skillAdv(INITIATOR_skill>=8)->vaardig</li>
+    <li>skillAdv(INITIATOR_skill>=10)->zeer bekwaam</li>
+    <li>skillAdv(INITIATOR_skill>=10)->vlotjes</li>
+    <li>skillAdv(INITIATOR_skill>=12)->nauwkeurig</li>
+    <li>skillAdv(INITIATOR_skill>=12)->precies</li>
+    <li>skillAdv(INITIATOR_skill>=14)->meesterlijk</li>
+    <li>skillAdv(INITIATOR_skill>=16)->artistiek</li>
+    <li>skillAdv(INITIATOR_skill>=16)->glansrijk</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->mechanisch</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->robotisch</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->direct</li>

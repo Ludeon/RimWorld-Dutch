@@ -7,11 +7,17 @@
   <!-- EN: explosion -->
   <Explosion.label>explosie</Explosion.label>
   
+  <!-- EN: proximity trigger -->
+  <RadialTrigger.label>trigger nabijheid</RadialTrigger.label>
+  
   <!-- EN: rect trigger -->
   <RectTrigger.label>trigger rechthoek</RectTrigger.label>
   
   <!-- EN: tornado -->
   <Tornado.label>tornado</Tornado.label>
+  
+  <!-- EN: trigger container emptied -->
+  <TriggerContainerEmptied.label>trigger container geleegd</TriggerContainerEmptied.label>
   
   <!-- EN: trigger unfogged -->
   <TriggerUnfogged.label>trigger onthuld</TriggerUnfogged.label>

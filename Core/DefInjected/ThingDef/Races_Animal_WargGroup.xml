@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg -->
+  <Warg.label>warg</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>Zwaar gespierde wolfachtige wezens met akelige, onnatuurlijke klauwen en een absurd krachtige beet. Ze eten alleen vlees of lijken. Als ze in het wild worden gestoord, zullen ze zeer waarschijnlijk aanvallen.\n\nWetenschappers zeggen dat wargs de afstammelingen zijn van tot wapen gemodificeerde dieren die werden gemaakt om de bevolking te onderdrukken. Bijgelovige mensen zien ze als de werktuigen van een boze god.</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>linkerklauw</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>rechterklauw</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>scheertanden</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>kop</Warg.tools.head.label>
+  
+</LanguageData>

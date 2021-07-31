@@ -13,7 +13,7 @@
   
   <!-- EN: bionic eye -->
   <BionicEye.label>bionisch oog</BionicEye.label>
-  <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <!-- EN: An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
   <BionicEye.description>Een geavanceerd kunstmatig oog. Met zijn biogel-zenuwverbinding, interne signaalvoorprocessor en breedspectrumsensoren is het in bijna elk opzicht beter dan een biologisch oog. Dankzij een systeem voor het genezen van roosterstof kan het herstellen van schade.</BionicEye.description>
   
   <!-- EN: bionic heart -->
@@ -41,7 +41,7 @@
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Een implantaat om het gebruik van buitgemaakte apparatuur door de vijand te voorkomen. Bij het overlijden van de gebruiker komen er krachtige chemicaliën vrij die uitrusting oplossen in contact met het lichaam van de gebruiker. Het schaadt anderen niet.</DeathAcidifier.description>
   
-  <!-- EN: Mote -->
+  <!-- UNUSED -->
   <Mote_AcidCloud.label>Deeltje</Mote_AcidCloud.label>
   
 </LanguageData>

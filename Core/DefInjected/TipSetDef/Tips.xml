@@ -19,9 +19,9 @@
   <GameplayTips.WorkTabChangeAllColonists>Houd shift ingedrukt en klik op een werktype in het werk tab om de instelling voor alle kolonisten tegelijk aan te passen.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>Klik met de rechter muisknop op een handmatige prioriteit in het werk tab om de prioriteit te verlagen in plaats van te verhogen.</GameplayTips.WorkTabDecreasePriority>
-  <!-- EN: In a gunfight, always be behind cover! -->
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>Zoek altijd dekking tijdens een vuurgevecht!</GameplayTips.GunfightCover>
-  <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
   <GameplayTips.GunfightSpread>Zorg dat je kolonisten niet op een kluitje staan tijdens een vuurgevecht, want dit verhoogt de kans om geraakt te worden!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>Rookgordijnen voorkomen dat automatisch afweergeschut überhaupt kan schieten, maar mensen kunnen dat blijven doen, al is het met verminderde nauwkeurigheid.</GameplayTips.ShootingAccuracySmoke>
@@ -57,14 +57,16 @@
   <GameplayTips.CaravanPackingSpot>Plaats een karavaan inpaklocatie op een plek waar je je karavanen wilt vormen.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>Eenpersoonskaravanen kunnen in sommige situaties zeer nuttig zijn.</GameplayTips.CaravanSinglePerson>
-  <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>Hoe sneller je dieren, hoe sneller je karavaan.</GameplayTips.CaravanFasterAnimals>
-  <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>Karavanen bewegen sneller als ze berijdbare dieren mee hebben zoals paarden, ezels of dromedarissen.</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Kleinere karavanan worden minder vaak overvallen omdat ze minder zichtbaar zijn.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>Voordat je een karavaan samenstelt, verzamel de dingen die je mee wilt nemen in een opslagplaats dichtbij je inpaklocatie. Dit zal het vormen van de karavaan een stuk sneller maken.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Als je ongetrainde dieren in je karavaan hebt kan je ze in een tweede karavaan afsplitsen voordat je de vijand aanvalt, zodat ze niet verzeild raken in het gevecht.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>Vergeet geen medicijnen mee te brengen in je karavaan</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorld is een verhalengenerator, niet een vaardigheidstest. Een verwoeste kolonie is een dramatische tragedie, niet een mislukking.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -123,6 +125,12 @@
   <GameplayTips.ExtinguishFireArtillery>Explosies doven brand. Op die manier kunnen mortiergranaten van nut zijn om branden te blussen als er geen andere keus is.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>Zelfs enorme tegenslagen hoeven niet het eind van het spel te betekenen. Probeer een verloren gevecht uit te spelen - vaak zorgen de meest hopeloze situaties voor de beste verhalen.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Houd wapenopslag ver weg van je gevangenis. Ontsnappingspogingen zijn veel gevaarlijker met geweren en explosieven.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Wanneer je dieren temt, zorg dat je genoeg van het juiste eten hebt om ze te voeren.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Rotsblokken of metaalbrokstukken in een deuropening leggen laat de deur altijd open staan, dit legt je basis bloot voor aanvallen door wilde dieren of overvallers.</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Schone laboratoria met steriele tegels zorgen voor het snelste onderzoek.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -133,5 +141,11 @@
   <GameplayTips.CombatDrugsFromInventory>Je kunt je strijders via je drugbeleid gevechtsdrugs zoals go-juice bij zich laten houden. Een vlotte dosis drugs kan het verschil maken.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>Stel lange periodes van dezelfde activiteit in in het schema om reistijden te minimaliseren.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>Stromatten negeren vuil. Gebruik het als vloer in je stal.</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>Sommige dieren produceren een hoop vuil. Houd je olifanten en koeien buiten in de wei.</GameplayTips.AnimalFilth>
+  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>Roofdieren vallen minder vaak dieren aan die in een omheining staan.</GameplayTips.PredatorsAndFences>
   
 </LanguageData>

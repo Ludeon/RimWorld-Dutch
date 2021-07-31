@@ -6,6 +6,11 @@
   <!-- EN: Burned-out carpet. -->
   <BurnedCarpet.description>Uitgebrand tapijt.</BurnedCarpet.description>
   
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>verbrande stromatten</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>Stromatten die in een brand zijn verwoest.</BurnedStrawMatting.description>
+  
   <!-- EN: burned wood floor -->
   <BurnedWoodPlankFloor.label>verbrande houten vloer</BurnedWoodPlankFloor.label>
   <!-- EN: Burned-out wood plank flooring. -->

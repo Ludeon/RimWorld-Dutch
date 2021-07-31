@@ -64,5 +64,12 @@
   <BestowerWaitingAlert>Titelverlener wacht</BestowerWaitingAlert>
   <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
   <BestowerWaitingAlertDesc>Een titelverlener wacht om de titelceremonie te beginnen.</BestowerWaitingAlertDesc>
-
+  
+  <!-- EN: Anima linking ceremony ready -->
+  <AnimaLinkingReadyLabel>Animaverbindingsceremonie gereed</AnimaLinkingReadyLabel>
+  <!-- EN: An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists -->
+  <AnimaLinkingReadyDesc>Een animaboom heeft voldoende animagras om een verbindingsceremonie uit te voeren en het psylinkniveau voor deze kolonisten te verhogen.</AnimaLinkingReadyDesc>
+  <!-- EN: In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use. -->
+  <AnimaLinkingReadyDescExtra>Kies een kolonist, klik op de 'verbinden met animaboom'-knop en kies vervolgens de animaboom die je wilt gebruiken om de ceremonie te beginnen.  </AnimaLinkingReadyDescExtra>
+  
 </LanguageData>

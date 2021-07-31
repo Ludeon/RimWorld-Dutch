@@ -31,11 +31,6 @@
   <!-- EN: A grand crown of metal with an elaborate, overbearing design. -->
   <Apparel_CrownStellic.description>Een grootse kroon van metaal met een uitgebreid, aanmatigend ontwerp.</Apparel_CrownStellic.description>
   
-  <!-- EN: hood -->
-  <Apparel_HatHood.label>kap</Apparel_HatHood.label>
-  <!-- EN: A draped hood which covers the head and ears. -->
-  <Apparel_HatHood.description>Een gedrapeerde kap die het hoofd en de oren bedekt.</Apparel_HatHood.description>
-  
   <!-- EN: ladies hat -->
   <Apparel_HatLadies.label>dameshoed</Apparel_HatLadies.label>
   <!-- EN: A decorative traditional hat with complex embroidery. -->

@@ -71,6 +71,8 @@
   <PsychicLove.label>psychische liefde</PsychicLove.label>
   <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
   <PsychicLove.description>Psychisch opgewekt romantisch verlangen. Dit vergroot de mening van een persoon over iemand anders en vergroot de kans op romantische avances en huwelijksaanzoeken, terwijl de kans op een breuk kleiner wordt.</PsychicLove.description>
+  <!-- EN: for -->
+  <PsychicLove.targetPrefix>voor</PsychicLove.targetPrefix>
   
   <!-- EN: psychic vertigo -->
   <PsychicVertigo.label>psychische duizeligheid</PsychicVertigo.label>

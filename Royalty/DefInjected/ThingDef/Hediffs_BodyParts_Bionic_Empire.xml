@@ -68,7 +68,7 @@
   
   <!-- EN: nuclear stomach -->
   <NuclearStomach.label>nucleaire maag</NuclearStomach.label>
-  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artifical stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
+  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artificial stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
   <NuclearStomach.description>Een micro-kernreactor gecombineerd met complexe chemische synthese vervangt de behoefte van het lichaam aan voedselenergie. Voedsel is alleen nodig om het verloren materiaal uit het lichaam te vervangen, waardoor de behoefte van de gebruiker aanzienlijk wordt verminderd. Deze kunstmatige maag kan geen voedselvergiftiging krijgen. Er is echter weinig ruimte om de reactor af te schermen, waardoor de straling de kans op kanker vergroot.</NuclearStomach.description>
   
   <!-- EN: reprocessor stomach -->

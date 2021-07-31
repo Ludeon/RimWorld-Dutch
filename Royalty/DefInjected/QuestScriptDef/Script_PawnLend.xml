@@ -62,11 +62,29 @@
     <li>workers->helpers</li>
   </PawnLend.questNameRules.rulesStrings>
   <!-- EN: <rulesStrings><li>dutyDescription->gather the harvest</li><li>dutyDescription->fortify a settlement</li><li>dutyDescription->set up a settlement</li><li>dutyDescription->watch for raiders</li><li>dutyDescription->set up a hospital</li><li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings> -->
-  <PawnLend.DutyRulesAny.slateRef><rulesStrings><li>dutyDescription->het binnenhalen van de oogst</li><li>dutyDescription->het versterken van een nederzetting</li><li>dutyDescription->bouwen van een nederzetting</li><li>dutyDescription->de uitkijk naar overvallers</li><li>dutyDescription->het opzetten van een hospitaal</li><li>dutyDescription->de bestrijding van [disease]</li></rulesStrings></PawnLend.DutyRulesAny.slateRef>
+  <PawnLend.DutyRulesAny.slateRef>
+    <rulesStrings>
+      <li>dutyDescription->het binnenhalen van de oogst</li>
+      <li>dutyDescription->het versterken van een nederzetting</li>
+      <li>dutyDescription->bouwen van een nederzetting</li>
+      <li>dutyDescription->de uitkijk naar overvallers</li>
+      <li>dutyDescription->het opzetten van een hospitaal</li>
+      <li>dutyDescription->de bestrijding van [disease]</li>
+    </rulesStrings>
+  </PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
   <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation] teruggekeerd na het helpen van [asker_nameFull] van [asker_faction_name] met [dutyDescription].</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
-  <PawnLend.DutyRulesRoyal.slateRef><rulesStrings><li>dutyRoyalDescription->de voorbereidingen van een ceremonie</li><li>dutyRoyalDescription->de onderhandelingen met een stam</li><li>dutyRoyalDescription->de verkenning van een moeras</li><li>dutyRoyalDescription->de vertaling van een boek</li><li>dutyRoyalDescription->het opzetten van een oefenterrein</li><li>dutyRoyalDescription->de oogst</li></rulesStrings></PawnLend.DutyRulesRoyal.slateRef>
+  <PawnLend.DutyRulesRoyal.slateRef>
+    <rulesStrings>
+      <li>dutyRoyalDescription->de voorbereidingen van een ceremonie</li>
+      <li>dutyRoyalDescription->de onderhandelingen met een stam</li>
+      <li>dutyRoyalDescription->de verkenning van een moeras</li>
+      <li>dutyRoyalDescription->de vertaling van een boek</li>
+      <li>dutyRoyalDescription->het opzetten van een oefenterrein</li>
+      <li>dutyRoyalDescription->de oogst</li>
+    </rulesStrings>
+  </PawnLend.DutyRulesRoyal.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
   <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation] teruggekeerd na het helpen van [asker_royalTitleInCurrentFaction] [asker_nameFull] van [asker_faction_name] met [dutyRoyalDescription].</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <!-- EN: Shuttle arrived -->

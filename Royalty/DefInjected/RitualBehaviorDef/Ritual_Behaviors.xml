@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: linker -->
+  <AnimaTreeLinking.roles.0.label>verbinder</AnimaTreeLinking.roles.0.label>
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Vereist een kolonist met natuurlijk meditatiefocustype onder het maximale psylink niveau.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <!-- EN: Must have natural focus type. -->
+  <AnimaTreeLinking.spectatorFilter.description>Vereist een natuurlijk meditatiefocustype</AnimaTreeLinking.spectatorFilter.description>
+  <!-- EN: participate -->
+  <AnimaTreeLinking.spectatorGerund>deelnemen</AnimaTreeLinking.spectatorGerund>
+  <!-- EN: Participants -->
+  <AnimaTreeLinking.spectatorsLabel>Deelnemers</AnimaTreeLinking.spectatorsLabel>
+  
+  <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} geeft een toespraak vanaf de troon.\n\nAls alles goed gaat voelen toehoorders zich geïnspireerd en krijgen respect voor {ORGANIZER_labelShort}. Als het slecht gaat zal de toespraak sociale schade doen. De uitkomst hangt af van de sociale vaardigheden van {ORGANIZER_labelShort}.</ThroneSpeech.letterText>
+  <!-- EN: Speech from the throne -->
+  <ThroneSpeech.letterTitle>Troonrede</ThroneSpeech.letterTitle>
+  <!-- EN: organizer -->
+  <ThroneSpeech.roles.0.label>organisator</ThroneSpeech.roles.0.label>
+  
+</LanguageData>

@@ -16,11 +16,6 @@
   <!-- EN: An advanced stationary musical instrument. It is played by pressing a row of keys, which causes hammers to strike internal strings stretched over a steel frame. The hammer mechanism and high-tension strings allow the musician to play both very soft and very loud, making the piano a very expressive instrument.\n\nIt can be crafted at a smithy. -->
   <Piano.description>Een geavanceerd stationair muziekinstrument. Het wordt gespeeld door op een rij toetsen te drukken, waardoor hamers op interne snaren slaan die over een stalen frame zijn gespannen. Dankzij het hamermechanisme en de hooggespannen snaren kan de muzikant zowel heel zacht als heel hard spelen, waardoor de piano een zeer expressief instrument is.\n\nHet kan in een smidse worden vervaardigd.</Piano.description>
   
-  <!-- EN: unfinished musical instrument -->
-  <UnfinishedMusicalInstrument.label>onvoltooid muziekinstrument</UnfinishedMusicalInstrument.label>
-  <!-- EN: An unfinished musical instrument. -->
-  <UnfinishedMusicalInstrument.description>Een onvoltooid muziekinstrument.</UnfinishedMusicalInstrument.description>
-  
   <!-- EN: unfinished piano -->
   <UnfinishedPiano.label>onvoltooide piano</UnfinishedPiano.label>
   <!-- EN: An unfinished piano. -->

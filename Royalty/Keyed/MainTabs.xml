@@ -3,5 +3,12 @@
   
   <!-- EN: You can choose one of your {0} to receive {1} {2} from {3_name}.\n\nBy receiving {2}, you gain titles. Titles bring psylink rewards and special permits like military aid. However, {0} with higher titles will also need specific apparel and bedroom furnishings. -->
   <RoyalFavorTip>Je kunt een van je {0} kiezen om {1} {2} van {3_name} te ontvangen.\n\nDoor {2} te ontvangen, win je adellijke titels. Des te hoger de titel, des te meer privileges je krijgt, zoals handel met keizerlijke nederzettingen, keizerlijke hulp vragen, of het gebruik van krachtige exotische wapens. Maar let op, {0} met adellijke titels worden ongelukkig als ze niet fatsoenlijk gekleed zijn, of wanneer hun slaapkamer niet aan hun titelvereisten voldoet.</RoyalFavorTip>
+  
+  <!-- Work tab -->
+  <!-- EN: Disabled by royal title {0} -->
+  <WorkDisabledByRoyalTitle>Uitgeschakeld door titel {0}</WorkDisabledByRoyalTitle>
+
+  <!-- EN: Spacedrone self-destructs in {0} -->
+  <SpacedroneSelfDestructsIn>Spacedrone zelfvernietiging in {0}</SpacedroneSelfDestructsIn>
 
 </LanguageData>

@@ -102,8 +102,6 @@
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>{0_nameDef} is klaar om {1} te gebruiken.</AbilityReadyText>
   
-  <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>Begin een toespraak vanaf de troon. {ORGANIZER_labelShort} gaat naar {ORGANIZER_possessive} troon en roept alle kolonisten op om daar naar een toespraak te luisteren. Als alles goed gaat, zullen luisteraars zich geïnspireerd voelen en respect krijgen voor {ORGANIZER_labelShort}. Als het slecht gaat, zal de toespraak sociale schade aanrichten. Het resultaat hangt af van de sociale vaardigheden van {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>geen troon toegewezen</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
@@ -120,6 +118,15 @@
   <AbilitySpeechPossibleOutcomes>Uitkomstkansen</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>{ORGANIZER_labelShort}'s {1} stat</AbilitySpeechStatInfo>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>Begonnen op</AbilitySpeechTargetsLabel>
+  <!-- EN: Dignified throne -->
+  <AbilitySpeechTargetDescThrone>Waardige troon</AbilitySpeechTargetDescThrone>
+  
+  <!-- EN: no accessible altar. -->
+  <RitualDisabledNoAltar>geen toegankellijk altaar.</RitualDisabledNoAltar>
+  <!-- EN: Bestowing Ceremony -->
+  <RitualBestowingCeremony>Schenkingsceremonie</RitualBestowingCeremony>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Totale meditatie vandaag: {0} (voortgangsfactor {1})</TotalMeditationToday>
@@ -131,23 +138,46 @@
   <BeginLinkingRitualNeedSubplants>{0} {1} benodigd hier ({2} beschikbaar)</BeginLinkingRitualNeedSubplants>
   <!-- EN: Need {0} psylink focus type -->
   <BeginLinkingRitualNeedFocus>{0} psylink-focustype nodig</BeginLinkingRitualNeedFocus>
+  <!-- EN: Max psylink level -->
+  <BeginLinkingRitualMaxPsylinkLevel>Max psylink niveau</BeginLinkingRitualMaxPsylinkLevel>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->
   <BeginLinkingRitualNeedLinkSpot>Een vrije, bereikbare plek nodig binnen 3 tegels om te verbinden</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
   <LetterLabelLinkingRitualCompleted>Verbindingsritueel voltooid</LetterLabelLinkingRitualCompleted>
   <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort} heeft het verbindingsritueel met {LINKABLE_labelShort} voltooid.\n\n{PAWN_pronoun} heeft nu een verbeterde psylink, waardoor het gebruik van nieuwe paranormale krachten mogelijk is.</LetterTextLinkingRitualCompleted>
+  <!-- EN: Additionally, {0} anima grass has been restored. -->
+  <LetterTextLinkingRitualCompletedAnimaGrass>Daarnaast is {0} animagras hersteld.</LetterTextLinkingRitualCompletedAnimaGrass>
 
   <!-- EN: Land shuttle here -->
   <LandHere>Land shuttle hier</LandHere>
   <!-- EN: Destination is out of range. -->
   <MessageShuttleDestinationIsTooFar>Bestemming is buiten bereik.</MessageShuttleDestinationIsTooFar>
 
-  <!-- EN: Do bestowing ceremony -->
+  <!-- EN: Start bestowing ceremony for {0_labelShort} -->
   <BeginCeremony>Voer schenkingsceremonie uit</BeginCeremony>
+  <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>De troonzaal van {PAWN_definite} voldoet niet aan de eisen van {PAWN_possessive} titel {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfied>De schenker is beledigd omdat de troonzaal van {PAWN_definite} niet voldoet aan de vereisten van de titel "{TITLE}". De uitreiking is geannuleerd.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <!-- EN: bestowing ceremony -->
+  <BestowingCeremonyLabel>schenkingsceremonie</BestowingCeremonyLabel>
+  <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
+  <BestowingOutcomeQualitySpecific>Totale kwaliteit van de schenkingsceremonie was {0}, vanwege deze factoren</BestowingOutcomeQualitySpecific>
+  
+  <!-- EN: No colonists that can link with anima tree right now. -->
+  <RitualTargetAnimaTreeNoPawnsToLink>Er zijn op dit moment geen kolonisten die met een animaboom kunnen koppelen.</RitualTargetAnimaTreeNoPawnsToLink>
+  <!-- EN: No colonists with the natural meditation focus type. -->
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Geen kolonisten met het natuurlijke meditatiefocustype.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <!-- EN: Need at least {0} anima grass. -->
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Vereist minstens {0} animagras.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <!-- EN: An anima tree. -->
+  <RitualTargetAnimaTreeInfo>Een animaboom</RitualTargetAnimaTreeInfo>
+  <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <RitualTargetAnimaTreeMustBeCapableOfNature>Moet een kolonist zijn met een natuurlijk meditatiefocustype, die onder het maximum psylinkniveau zit.</RitualTargetAnimaTreeMustBeCapableOfNature>
 
+  <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
+  <AnimaLinkingExplanationBase>De animakoppelingsceremonie is krachtiger met meer deelnemers. Hoe meer mensen deelnemen, des te korter de ceremonie duurt, en hoe meer animagras zal groeien.\n\nMet {0} extra deelnemers zal {1} animagras worden hersteld aan het eind van de ceremonie.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Nog niet alle benodigde lading is geladen!</ShuttleRequiredItemsNotSatisfied>
 </LanguageData>

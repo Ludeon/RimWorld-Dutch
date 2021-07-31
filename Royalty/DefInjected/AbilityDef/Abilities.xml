@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: anima tree linking -->
+  <AnimaTreeLinking.label>verbinden met animaboom</AnimaTreeLinking.label>
+  <!-- EN: Start the anima tree linking ceremony. The linking person will meditate near the tree to gain a psylink level. Other psychically-sensitive colonists can also  help enhance the psychic link. More participants will accelerate the ceremony and cause some of the anima grass to re-grow as the ritual completes. -->
+  <AnimaTreeLinking.description>Begin de ceromonie om met een animaboom te verbinden. De persoon die gaat verbinden zal mediteren bij de boom om psylink niveau op te bouwen. Andere psychisch gevoelige kolonisten kunnen ook helpen de verbinding te versterken. Meer deelnemers versnellen de ceremonie en zorgen ervoor dat een deel van het animagras hergroeit nadat de ceremonie is voltooid.</AnimaTreeLinking.description>
+  
   <!-- EN: beckon -->
   <Beckon.label>wenk</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
@@ -78,9 +83,9 @@
   
   <!-- EN: neuroquake -->
   <Neuroquake.label>neurobeving</Neuroquake.label>
-  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of a safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
   <Neuroquake.description>Vind een discontinuïteit in het psychische veld en ontvouw het, waarbij een enorme hoeveelheid psychische energie vrijkomt. Elk wezen op de kaart buiten een veilige cirkel rondom de gebruiker zal gewelddadig gek worden gemaakt. Het gebruik hiervan kost drie uur meditatie, en daarna zal de gebruiker in een driedaagse psychische coma terechtkomen. De verontrustende echo's van de neurobeving zullen iedereen binnen een straal van kilometers lang pijn doen, met diplomatieke gevolgen voor alle facties.</Neuroquake.description>
-  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
   <Neuroquake.confirmationDialogText>Als je neurobeving gebruikt, zal iedereen in deze regio de echo voelen. Je zult relatie verliezen bij elke niet-vijandige factie.\n\nNeurobeving heeft drie uur nodig om te gebruiken en kan niet worden onderbroken. De gebruiker zal ook enkele dagen in een psychische coma vallen.\n\nIedereen op de kaart, behalve degenen die zich in een kleine cirkel rond de gebruiker bevinden, zal worden beïnvloed.\n\nWil je echt een neurobeving gebruiken?</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
@@ -95,7 +100,7 @@
   
   <!-- EN: smokepop -->
   <Smokepop.label>rookgordijn</Smokepop.label>
-  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
+  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
   <Smokepop.description>Teleporteer stofdeeltjes van onder het grondoppervlak om een dikke wolk te vormen. Dit vermindert de nauwkeurigheid van elk schot dat erdoorheen wordt afgevuurd en voorkomt dat afweergeschut doel kan vinden.</Smokepop.description>
   
   <!-- EN: solar pinhole -->
@@ -110,7 +115,7 @@
   
   <!-- EN: stun -->
   <Stun.label>verlamming</Stun.label>
-  <!-- EN: Momentarily disrupt motor function in target's brain, preventing any movement. -->
+  <!-- EN: Momentarily disrupt motor function in the target's brain, preventing any movement. -->
   <Stun.description>Verstoor tijdelijk de motorische functie in de hersenen van het doelwit, waardoor elke beweging wordt voorkomen.</Stun.description>
   
   <!-- EN: vertigo pulse -->

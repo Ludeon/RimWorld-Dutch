@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>place_name->Sophiamunda</li>
+    <li>place_adjective->Sophian</li>
+    <li>place_summary->techno-feudal world</li>
+    <li>place_community->castle</li>
+    <li>place_community->palace</li>
+    <li>place_job->knight</li>
+    <li>place_job->squire</li>
+    <li>place_job->duke</li>
+    <li>place_job->maid</li>
+    <li>place_job->swordsmith</li>
+    <li>place_personalWeapon->persona plasmasword</li>
+    <li>place_personalWeapon->warhammer</li>
+    <li>place_massWeapon->an orbital mech cluster targeter</li>
+    <li>place_massWeapon->a bio-engineered plague</li>
+    <li>place_massWeapon->an army of fallen knights</li>
+    <li>place_foeLeader->revolutionist</li>
+    <li>place_foeSoldiers->rebels</li>
+  -->
+  <Sophiamunda.placeRules.rulesStrings>
+    <li>place_name->Sophiamunda</li>
+    <li>place_adjective->Sophiaans</li>
+    <li>place_summary->techno-feodale wereld</li>
+    <li>place_community->kasteel</li>
+    <li>place_community->paleis</li>
+    <li>place_job->ridder</li>
+    <li>place_job->schildknaap</li>
+    <li>place_job->hertog</li>
+    <li>place_job->jongejuffrouw</li>
+    <li>place_job->zwaardsmid</li>
+    <li>place_personalWeapon->persona plasmazwaard</li>
+    <li>place_personalWeapon->strijdhamer</li>
+    <li>place_massWeapon->een ruimte-laser</li>
+    <li>place_massWeapon->een biologisch wapen</li>
+    <li>place_massWeapon->een leger gevallen ridders</li>
+    <li>place_foeLeader->revolutionair</li>
+    <li>place_foeSoldiers->rebellen</li>
+  </Sophiamunda.placeRules.rulesStrings>
+  
+</LanguageData>

@@ -19,6 +19,8 @@
   <CommandCallRoyalAidDesc>Roep hulp in met een speciale vergunning.\n\nElk type hulp mag eenmalig gratis worden gebruikt, waarna je moet wachten om het weer gratis te kunnen gebruiken. Je kunt het hulpmiddel vaker gebruiken, maar het kost wel eer om dit te doen.</CommandCallRoyalAidDesc>
   <!-- EN: Guests will not use their aid permits. -->
   <CommandCallRoyalAidLodger>Gasten zullen hun hulpvergunning niet gebruiken.</CommandCallRoyalAidLodger>
+  <!-- EN: Slaves cannot use their permits. -->
+  <CommandCallRoyalAidSlave>Slaven kunnen hun vergunningen niet gebruiken.</CommandCallRoyalAidSlave>
   <!-- EN: Your relations with {FACTION_name} are hostile. -->
   <CommandCallRoyalAidFactionHostile>Je relatie met {FACTION_name} is vijandig.</CommandCallRoyalAidFactionHostile>
   <!-- EN: Free -->
@@ -77,5 +79,15 @@
   <ChooseRoyalPermit>Kies vergunning</ChooseRoyalPermit>
   <!-- EN: Open the permit selection screen and choose a new permit. -->
   <ChooseRoyalPermit_Desc>Open het vergunningen-selectiescherm en kies een nieuwe vergunning.</ChooseRoyalPermit_Desc>
-  
+
+  <!-- EN: Leave bestowing ceremony -->
+  <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
+  <!-- EN: Stop participating in the bestowing ceremony. -->
+  <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
+  <!-- EN: Cancel bestowing ceremony -->
+  <CommandCancelBestowingCeremony>TODO</CommandCancelBestowingCeremony>
+  <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
+  <CommandCancelBestowingCeremonyDesc>TODO</CommandCancelBestowingCeremonyDesc>
+  <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
+  <CommandCancelBestowingCeremonyConfirm>TODO</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>

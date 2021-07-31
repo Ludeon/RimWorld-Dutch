@@ -39,5 +39,7 @@
   <RoyaltyTips.MechClusterDormantTrigger>Je kunt veilig langs een slapende mech-cluster lopen, zolang je deze niet aanvalt of een nabijheidsactivator activeert.</RoyaltyTips.MechClusterDormantTrigger>
   <!-- EN: The psychic skip power works on self, allies, enemies, and even items. The tactical possibilities are endless. -->
   <RoyaltyTips.SkipPsycastsMultiuse>De paranormale kracht periportatie werkt op de gebruiker zelf, bondgenoten, vijanden en zelfs items. De tactische mogelijkheden zijn eindeloos.</RoyaltyTips.SkipPsycastsMultiuse>
+  <!-- EN: You can carry a downed ally while using the jump pack. Aerial rescues save lives. -->
+  <RoyaltyTips.JumpPackRescue>TODO</RoyaltyTips.JumpPackRescue>
   
 </LanguageData>

@@ -23,6 +23,10 @@
   <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>Gevangene gerekruteerd: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>Je hebt {SUBJECT_definite} gerekruteerd, die je moest bewaken. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
+  <!-- EN: Prisoner enslaved: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>Gevangene tot slaaf gemaakt: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>
+  <!-- EN: You have enslaved {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>Je hebt {SUBJECT_definite}, die je zou beschermen, tot slaaf gemaakt. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>Ongeoorloofde operatie: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->

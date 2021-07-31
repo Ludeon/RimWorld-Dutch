@@ -12,11 +12,4 @@
   <!-- EN: Concert -->
   <Concert.letterTitle>Concert</Concert.letterTitle>
   
-  <!-- EN: ThroneSpeech -->
-  <ThroneSpeech.label>Troonrede</ThroneSpeech.label>
-  <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.letterText>{ORGANIZER_labelShort} houdt een toespraak vanaf de troon.\n\nAls alles goed gaat, zullen luisteraars zich geïnspireerd voelen en respect krijgen voor {ORGANIZER_labelShort}. Als het slecht gaat, zal de toespraak sociale schade aanrichten. Het resultaat hangt af van de sociale vaardigheden van {ORGANIZER_labelShort}.</ThroneSpeech.letterText>
-  <!-- EN: Speech from the throne -->
-  <ThroneSpeech.letterTitle>Toespraak van de troon</ThroneSpeech.letterTitle>
-  
 </LanguageData>

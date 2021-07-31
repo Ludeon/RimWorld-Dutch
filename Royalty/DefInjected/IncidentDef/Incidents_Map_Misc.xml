@@ -3,9 +3,7 @@
   
   <!-- EN: abasia join -->
   <WandererJoinAbasia.label>abasia nieuwkomer</WandererJoinAbasia.label>
-  <!-- EN: Transport pod crash: {PAWN_nameDef} -->
   <WandererJoinAbasia.letterLabel>Transportcapsule crash: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
-  <!-- EN: A {PAWN_title} named {PAWN_nameDef} is crashing in a transport pod nearby.\n\n{PAWN_nameDef} is suffering from {HEDIFF_label} and will be unable to walk.\n\n{PAWN_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {HEDIFF_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n[PAWN_pronoun] is willing to contribute once {PAWN_pronoun} has recovered, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery or leave {PAWN_objective} to die. However, your other colonists may find this disturbing. -->
   <WandererJoinAbasia.letterText>Een {PAWN_title} genaamd {PAWN_nameDef} is in een transportpod in de buurt gecrasht.\n\n{PAWN_nameDef} lijdt aan {HEDIFF_label} en kan niet lopen.\n\n{PAWN_pronoun} zal vanzelf herstellen na vele dagen. Er is ook een kans op een fortuinlijk snel herstel. {HEDIFF_label} kan ook worden genezen door een speciale operatie waarvoor een grote hoeveelheid glitterwereldmedicijn nodig is.\n\n[PAWN_pronoun] is bereid bij te dragen zodra {PAWN_pronoun} is hersteld, maar gaat niet vrijwillig weg. Als je {PAWN_nameDef} niet wilt, kun je {PAWN_objective} verbannen, {PAWN_objective} als slaaf verkopen of {PAWN_objective} laten sterven. Je andere kolonisten vinden dit misschien verontrustend.</WandererJoinAbasia.letterText>
   
 </LanguageData>

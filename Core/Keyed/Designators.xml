@@ -116,6 +116,8 @@
   <DesignatorClearAreaAllowedDesc>Wis tegels uit een toegestane zone.\n\nToegestane zones zijn gedefinieerde zones die je kunt toewijzen aan kolonisten. Kolonisten accepteren geen werk en zullen hun behoeften niet vervullen buiten de toegestane zone.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Beheer zones</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>Beheer auto-slachten</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Markeer een zone waar kolonisten gewassen kunnen verbouwen.</DesignatorGrowingZoneDesc>
@@ -170,6 +172,16 @@
   <DesignatorTame>Temmen</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Tem een wild dier.</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>Vrijlaten in het wild</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>Laat een dier vrij in de wildernis.</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>Bestuderen</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>Bestudeer dit object om er meer over te leren.</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
@@ -242,4 +254,5 @@
   <NoColonistWithAllSkillsForConstructing>Geen van je {0} hebben alle vaardigheden die nodig zijn.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Al je {0} met deze vaardigheid zijn niet toegewezen aan {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
 </LanguageData>

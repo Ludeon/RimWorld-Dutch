@@ -13,9 +13,6 @@
   <!-- EN: gathering supplies. -->
   <PrepareCaravan_GatherItems.reportString>spullen aan het verzamelen.</PrepareCaravan_GatherItems.reportString>
   
-  <!-- UNUSED -->
-  <PrepareCaravan_GatherPawns.reportString>aan het voorbereiden van vertrek.</PrepareCaravan_GatherPawns.reportString>
-  
   <!-- EN: taking TargetA back to a pen. -->
   <ReturnedCaravan_PenAnimals.reportString>TargetA naar de wei brengen</ReturnedCaravan_PenAnimals.reportString>
   

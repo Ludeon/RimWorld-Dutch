@@ -23,7 +23,7 @@
   <ColonistNeedsRescue>Kolonist heeft hulp nodig</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Kolonisten hebben hulp nodig</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>De volgende kolonisten liggen hulpeloos op de grond:\n\n{0}\nStuur een andere kolonist naar ze toe om ze te redden en naar bed te dragen.\n\n(Om te redden: klik met de rechtermuisknop op de te redden kolonist).</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
@@ -254,4 +254,63 @@
   <QuestExpiresSoon>Opdracht verloopt over {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
   <QuestExpiresSoonDesc>De opdracht '{0}' zal verlopen over {1}.</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>Dierenvuil</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>Een vuil producerend dier is binnen op een schone vloer.\n\nDieren produceren veel vuil op schone vloeren. Houd deze dieren buiten, of op stromatten die niet zo vatbaar zijn voor vuil.\n\nJe kunt de vuilproductie van een dier controleren door op de 'i' te klikken.\n\nDeze dieren zijn het probleem:\n{0}</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>Weide nodig</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in an animal pen, they will wander away. -->
+  <AlertAnimalPenNeededDesc>Sommige van je dieren zijn zwervende dieren, als ze niet in een weide gehouden worden zullen ze weglopen.</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>Je hebt geen dierenverzorgers om je dieren naar de wei te brengen.\n\nGeef een kolonist de taak om dieren te verzorgen.</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: None of your assigned handlers have the required animals skill needed to take the following animals to a pen. -->
+  <AlertAnimalPenNeededLowSkillHandlers>Geen van je dierenverzorgers heeft de vaardigheid die nodig is om de volgende dieren naar de wei te brengen.</AlertAnimalPenNeededLowSkillHandlers>
+  <!-- EN: needs {MINSKILL}, {HANDLER_labelShort} has {BESTSKILL} -->
+  <AlertAnimalPenNeededLowSkillHandlersDetail>vereist {MINSKILL}, {HANDLER_labelShort} heeft {BESTSKILL}</AlertAnimalPenNeededLowSkillHandlersDetail>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>Maak een weide door een weidemarkering te bouwen in een omheind gedeelte. Selecteer de weidemarkering om te zien welke dieren in deze wei mogen, en hoe veel dieren de wei kan ondersteunen.\n\nJe dierenverzorgers brengen automatisch de dieren naar hun toegewezen weide.\n\nEen weide heeft een deur of poort nodig om dieren toe te laten.</AlertAnimalPenNeededDescExplanation>
+
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>Weide niet afgesloten</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>Een weidemarkering is niet omheind.\n\nGebruik hekken, barricades, poorten, muren of deuren om te voorkomen dat dieren naar buiten wandelen.\n\nAls je een onomheinde weidemarkering hebt kunnen dieren hier nog steeds naar toe worden geleid, maar moet dit keer op keer herhaald worden wanneer de dieren te ver weg lopen.</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>Dier loopt weg</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
+  <AlertAnimalIsRoamingDesc>Sommige van je dieren zijn zwervende dieren en zijn rond aan het zwerven. Als ze de rand van het gebied bereiken zullen ze uiteindelijk het gebied verlaten.\n\nAls je een omheinde weide hebt kunnen je verzorgers de dieren terugbrengen. Dieren in een omheinde weide zullen niet rondzwerven.\n\nDe volgende dieren zwerven rond:\n\n{0}</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>Hongerige weidedieren</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
+  <AlertPennedAnimalHungryDesc>Een aantal van je weidedieren hebben honger.\n\nSelecteer een weidemarkering en gebruik de Voedseltab om meer details te zien.\n\nGrazende dieren hebben mogelijk een grotere weide nodig om genoeg gras te hebben. Andere dieren moeten gevoerd worden met hooi of vergelijkbaar eten uit de voorraad.\n\nDe volgende weidedieren hebben honger:\n\n{0}</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>Overval arriveert over {0}</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>Vijanden zijn aangetrokken door de volgende locaties en zullen binnenkort met overmacht arriveren.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>Bij {0} arriveren over {1}</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Slave rebellion likely -->
+  <AlertSlaveRebellionLikely>Slavenopstand waarschijnlijk</AlertSlaveRebellionLikely>
+  <!-- EN: There are {0} slaves that are likely to initiate a rebellion soon. -->
+  <AlertSlaveRebellionMultipleLikelySlavesHeader>Er zijn {0} slaven die waarschijnlijk binnenkort een opstand zullen starten.</AlertSlaveRebellionMultipleLikelySlavesHeader>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {0}. -->
+  <AlertSlaveRebellionMultipleSlavesInterval>Een slavenopstand zal gemiddeld elke {0} voorkomen.</AlertSlaveRebellionMultipleSlavesInterval>
+  <!-- EN: {REBEL_labelShort} is the most rebellious slave and -->
+  <AlertSlaveRebellionMultipleLikelySlavesPrefix>{REBEL_labelShort} is de opstandigste slaaf en</AlertSlaveRebellionMultipleLikelySlavesPrefix>
+  <!-- EN: is expected to rebel roughly once every {0}. These are the factors which are adjusting how soon they will rebel: -->
+  <AlertSlaveRebellionLikelyExplanation>wordt verwacht elke {0} in opstand te komen. Dit zijn een aantal van de factoren die invloed hebben op hoe vaak ze in opstand komen:</AlertSlaveRebellionLikelyExplanation>
+  <!-- EN: Each slave's rebellion chance is independent. If any one slave rebels, others nearby are likely to join. -->
+  <AlertSlaveRebellionLikelyNote>De opstandkans van elke slaaf is onafhankelijk van elkaar. Als één slaaf in opstand komt, zullen andere slaven in de buurt geneigd zijn ook in opstand te komen.</AlertSlaveRebellionLikelyNote>
+  
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>Factie zal vijandig worden als je blijft</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Deze facties zullen vijandig worden als je nog langer blijft bij hun nederzetting of buitenpost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
 </LanguageData>

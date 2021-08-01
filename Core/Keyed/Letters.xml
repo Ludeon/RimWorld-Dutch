@@ -17,9 +17,9 @@
   <FirstSummerWarning>De zomer is begonnen! Maar de winter staat alweer voor de deur.\n\nJe gewassen zullen in de koude wintermaanden niet kunnen groeien. Zorg er dus voor dat je nu het nog kan genoeg voedsel produceert, zodat je genoeg voorraad hebt om de winter te overleven.\n\nJe kunt een inloop-vriezer maken om te voorkomen dat je voedsel zal verrotten.\n\nProbeer ook een paar parka's te kopen, stelen of maken zodat je niet doodvriest zodra je naar buiten gaat.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>De relaties met {0} zijn volledig verziekt. Zij zijn nu vijandig tegenover jou.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_Hostile>De relaties met {0} zijn volledig verziekt. Zij zijn nu vijandig tegenover jou.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>Zij zullen regelmatig overvallen uitvoeren op je kolonie en karavanen, en weigeren met je handel te drijven. Als je de relaties wilt verbeteren, kun je ze nog steeds geschenken aanbieden met behulp van karavanen of transportcapsules.\n\nDit gebeurde omdat de relatie ({0}) onder {1} is gedaald. Om neutrale relaties te herstellen, moet de relatie weer {2} bereiken.</LetterRelationsChange_HostileGoodwillDescription>
+  <LetterRelationsChange_HostileGoodwillDescription>Zij zullen regelmatig overvallen uitvoeren op je kolonie en karavanen, en weigeren met je handel te drijven. Als je de relaties wilt verbeteren, kun je ze nog steeds geschenken aanbieden met behulp van karavanen of transportcapsules.\n\nDit gebeurde omdat de relatie ({0}) onder {1} is gedaald. Om neutrale relaties te herstellen, moet de relatie weer {2} bereiken.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>De relaties met {0} zijn opgewarmd. Zij beschouwen je nu als neutraal en zullen je niet langer aanvallen.</LetterRelationsChange_NeutralFromHostile>
@@ -40,6 +40,8 @@
   <goodwill>relatie</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Neutraal</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>neutraal</NeutralLower>
   <!-- EN: Death -->
   <Death>Dood</Death>
 
@@ -428,13 +430,13 @@
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->
   <LetterLabelSurgeryFailed>Operatie op {PATIENT_labelShort} is mislukt</LetterLabelSurgeryFailed>
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} heeft een kleine fout gemaakt tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} heeft een kleine fout gemaakt tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} faalde catastrofaal tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} faalde catastrofaal tijdens de operatie op {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} faalde met de operatie op {PATIENT_labelShort} op een belachelijke manier ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} faalde met de operatie op {PATIENT_labelShort} op een belachelijke manier ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} maakte een fatale fout tijdens de operatie op {PATIENT_labelShort} als gevolg van speciale uitwerkingen: {2}</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} maakte een fatale fout tijdens de operatie op {PATIENT_labelShort} als gevolg van speciale uitwerkingen: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
@@ -453,6 +455,12 @@
   <LetterLabelQuestDropPodsArrived>Capsules gearriveerd</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
   <LetterQuestDropPodsArrived>Transportcapsules met de volgende inhoud zijn gearriveerd:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} heeft items ontvangen</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} heeft de volgende items ontvangen:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->

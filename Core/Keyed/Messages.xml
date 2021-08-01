@@ -13,8 +13,8 @@
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} van {1} hebben besloten om te stelen wat ze kunnen stelen en weg te gaan.</MessageRaidersStealing>
 
-  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>{0} van {1} zijn aangekomen bij je karavaan en vallen aan. Meer zijn onderweg en zullen arriveren in {2}.</MessageCaravanDetectedRaidArrived>
+  <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>{0} van {1} zijn aangekomen bij je karavaan en vallen aan! Meer zijn onderweg en zullen arriveren over {2}.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} van {1} verlaten het gebied.</MessageRaidersLeaving>
@@ -65,20 +65,26 @@
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} vond geen nabijgelegen niet-gereserveerde hulzen voor {GUN_label}.</MessageOutOfNearbyShellsFor>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} vond geen nabijgelegen niet-gereserveerde {FUEL} voor {GUN_label}</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>{ANIMAL_kindBasePlural} hebben een kans van {1} om aan te vallen wanneer ze verwondingen oplopen door een vuurwapen. De kans is groter als je dichterbij komt, kleiner als je een goede sluipende jager bent.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>{ANIMAL_kindBasePlural} kan aanvallen op mislukte pogingen tot temmen ({1} kans).</MessageAnimalManhuntsOnTameFailed>
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>Alleen zij met de eigenschap sympathie voor insecten kunnen {INSECT_indefinite} temmen.</MessageInsectTameDesignated>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Nieuwe rekruut </LetterLabelMessageRecruitSuccess>
-  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{RECRUITER_nameFull} heeft met succes {RECRUITEE_nameFull} gerekruteerd ({2} kans).</MessageRecruitSuccess>
-  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans).</MessageTameSuccess>
-  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd ({2} kans) en {RECRUITEE_objective} {RECRUITEE_nameFull} genoemd.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull} heeft met succes {RECRUITEE_nameFull} gerekruteerd.</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
+  <MessageTameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd.</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} heeft met succes {1} getemd en {RECRUITEE_objective} {RECRUITEE_nameFull} genoemd.</MessageTameAndNameSuccess>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>Er is geen geschikte weide beschikbaar voor {ANIMAL_labelShort}. Uiteindelijk zal {ANIMAL_pronoun} wegzwerven.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
   <MessageRecruitJoinOfferAccepted>{RECRUITEE} heeft zich bij je kolonie aangesloten.</MessageRecruitJoinOfferAccepted>
 
@@ -149,6 +155,8 @@
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Deze operatie zal boosheid opwekken bij {0}.</MessageMedicalOperationWillAngerFaction>
 
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>{PAWN_nameDef} is drachtig!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} heeft een miskraam door verhongering.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
@@ -165,9 +173,6 @@
   <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} heeft de veilige dosis neurale warmte overschreden.</MessageWentOverPsychicEntropyLimit>
 
-  <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} heeft {1} {NAMEE_nameFull} genoemd na te zijn besnuffeld.</MessageNuzzledPawnGaveNameTo>
-
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>Geen enkele verzorger kan {ANIMAL_kindBase} temmen (vereist niveau {1} van {2}, de beste verzorger {HANDLER_labelShort} heeft {4}).</MessageNoHandlerSkilledEnough>
   
@@ -175,7 +180,10 @@
   <MessageEatenByPredator>{EATEN_labelShort} is opgegeten door {PREDATOR}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
   <MessageAttackedByPredator>{PREY_labelShort} wordt aangevallen door {PREDATOR}!</MessageAttackedByPredator>
-  
+
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>{PAWN_labelShort} is begonnen met wegzwerven! {PAWN_pronoun} zal het gebied verlaten tenzij een dierenverzorger {PAWN_objective} terugleidt naar een weide.</MessageRoamerLeaving>
+
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Een bijenkorf heeft zichzelf gereproduceerd.</MessageHiveReproduced>
   
@@ -341,6 +349,8 @@
   <MessageCantEquipCustom>Kan {0} niet uitrusten.</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>Kan niet uitrusten: {1_labelShort} is niet in staat tot geweld</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>Kan niet uitrusten: {1_labelShort} is niet in staat tot schieten</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
   <MessageCantEquipIncapableOfManipulation>Kan niet uitrusten: onbekwaam.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
@@ -352,8 +362,10 @@
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageSlaughteringBondedAnimal>Omdat ze aan elkaar gehecht zijn, zal het slachten van {DESIGNATED_labelShort} {BONDED_labelShort} ongelukkig maken.</MessageSlaughteringBondedAnimal>
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>Omdat ze een band hebben, zal het vrijlaten van {DESIGNATED_labelShort} {BONDED_labelShort} ongelukkig maken.</MessageReleaseBondedAnimal>
   
-  <!-- EN: {0} has run out of food ({PAWN_label}). -->
+  <!-- EN: {0} has run out of food. -->
   <MessageCaravanRanOutOfFood>{0} heeft geen voedsel meer ({PAWN_label}).</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
   <MessageCaravanDeathCorpseAddedToInventory>Het lijk van {PAWN_definite} is meegenomen door de karavaan. Het is zwaar en zou de karavaan kunnen immobiliseren, het kan worden achtergelaten in de karavaanobjecten tab.</MessageCaravanDeathCorpseAddedToInventory>
@@ -393,10 +405,10 @@
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Geen van je bewakers is in staat tot geweld. De executie wordt niet uitgevoerd.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
-  <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>Je hebt alle vijanden verslagen. In {0} wordt de karavaan automatisch hervormd.</MessageSiteCountdownBecauseNoMoreEnemies>
-  <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0} wordt de karavaan automatisch hervormd. Je kunt de karavaan nu hervormen in het scherm Wereld.</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>Gebied is nu veilig. Je kunt de karavaan hervormen op de wereldkaart.</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Gebied is nu veilig, maar een aantal onverkende kamers zijn nog over. Je kunt verder verkennen of de karavaan hervormen op de wereldkaart.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>Kan {1_labelShort} niet verbannen omdat {1_pronoun} niet kan lopen.</MessageCantBanishDownedPawn>
@@ -484,8 +496,6 @@
   <GoodwillChangedReason_Traded>verhandeld</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
   <GoodwillChangedReason_AttackedCaravan>een karavaan aangevallen</GoodwillChangedReason_AttackedCaravan>
-  <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>natuurlijke neiging om na verloop van tijd {0} te bereiken</GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
   <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} verliet de kaart gezond</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
@@ -547,6 +557,8 @@
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>Door een gebrek aan temmen is {1_labelShort} weer in de vrije natuur teruggekeerd.</MessageAnimalReturnedWild>
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>{1_labelShort} is vrijgelaten in het wild.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
   <MessageAnimalLostSkill>Door een gebrek aan onderhoudstraining heeft {ANIMAL_labelShort} een vaardigheid verloren: {1} </MessageAnimalLostSkill>
 
@@ -624,4 +636,98 @@
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} is een gevangene</MessagePrisonerCannotEquipWeapon>
 
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+
+  <!-- Rituals -->
+  <!-- EN: spectate -->
+  <Spectate>toeschouwen</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>Toewijzen aan {0}</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>{0} is begonnen</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>Het maximaal aantal {0} is {1}</MaxPawnsPerRole>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>Je hebt minstens één deelnemer nodig.</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>Je hebt minstens één toeschouwer nodig.</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: You need a {0}. -->
+  <MessageRitualNeedsAtLeastOneRolePawn>Je hebt een {0} nodig.</MessageRitualNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageRitualNeedsAtLeastNumRolePawn>Je hebt minstens {1} {0} nodig.</MessageRitualNeedsAtLeastNumRolePawn>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>{0_labelShort} is neergehaald.</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} is aan het ontsnappen.</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} komt nu in opstand.</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>{0_labelShort} wordt vrijgelaten.</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>{0_labelShort} is gewond</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>{0_labelShort} moet een van deze rollen hebben</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>{0} moet een gevangene zijn.</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>{0} moet een dier zijn.</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>{0} moet een mens zijn.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>{0} moet ogen hebben.</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} vereist geen verdere littekens</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} moet een gevangene of slaaf zijn.</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} moet kunnen vechten.</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>deze rol kan niet door iemand anders worden overgenomen.</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} kan niet verbinden aan een Gauranlenbom, omdat {0_possessive} verbinding recent gescheurd is.</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} heeft dezelfde ideologie als de bekeerder.</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} moet cipier kunnen zijn.</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>{0} moet {1} kunnen.</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>gevangenen kunnen niet {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>alleen {0} kan {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>alleen {0} kan de rol van {1} vervullen.</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>kolonist vereist voor de {0} rol.</MessageRitualRoleMustBeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>{0} moet een dier zijn met minimale lichaamsgrootte {1}.</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>{0_labelShort} heeft een mentale inzinking.</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} is al {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} kan geen andere rol dan toeschouwer vervullen.</MessageRitualCannotAssignAnyRoleFromSpectating>
+
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>Selecteer een plaats om door te gaan.</MessagePlayerMustSelectTile>
+
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>Kan {0_labelShort} niet planten</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>Vruchtbaardere grond nodig.</MessageWarningNotEnoughFertility>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>geblokkeerd door {0_label}</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>Kan niet naast {0_label} geplant worden.</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>Te dicht bij {0_label}.</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0_label}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>Te dicht bij de plantlocatie van {0_label}.</TooCloseToOtherSeedPlantCell>
+  
 </LanguageData>

@@ -44,6 +44,8 @@
   <ResetModsConfigOnCrash>Auto-reset mods configuratie bij crash</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Simuleer het niet hebben van Royalty</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>Simuleer het niet hebben van Ideology</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>Uitgebreide logging</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -105,4 +107,8 @@
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>Al je instellingen worden teruggezet op de standaard waarden en het spel wordt herstart. Alle onopgeslagen voortgang gaat verloren!\n\nDoorgaan?</ResetAndRestartConfirmationDialog>
   
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>Menu achtergrond</SetBackgroundImage>
+
 </LanguageData>

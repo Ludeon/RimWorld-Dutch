@@ -11,6 +11,8 @@
   <WorkTagManualSkilled>Geschoold werk</WorkTagManualSkilled>
   <!-- EN: violent -->
   <WorkTagViolent>Gewelddadig</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>Schieten</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>Verzorgend</WorkTagCaring>
   <!-- EN: social -->
@@ -35,6 +37,8 @@
   <WorkTagMining>Mijnbouw</WorkTagMining>
   <!-- EN: hunting -->
   <WorkTagHunting>Jagen</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>Bouwen</WorkTagConstructing>
   <!-- EN: commoner work -->
   <WorkTagCommoner>Algemeen werk</WorkTagCommoner>
   <!-- EN: all work -->

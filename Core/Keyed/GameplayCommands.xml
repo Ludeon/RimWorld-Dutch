@@ -43,6 +43,8 @@
   <CommandToggleDraftDesc>Schakel millitaire dienst in/uit.\n\nMensen met getrokken wapens accepteren orders en zullen vechten. Ze zullen niet eten, werken of rusten.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} kan niet lopen.</IsIncapped>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <ParticipatingInRitual>{0_labelShort} neemt geen deel in {1}.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Schieten toegestaan</CommandFireAtWillLabel>
@@ -98,6 +100,9 @@
   <TurningOffPrisonerBedWarning>Het uitschakelen van de gevangenen-modus beïnvloedt de hele kamer. Kolonisten en gevangenen kunnen niet in dezelfde kamer slapen.\n\nDeze gevangenen zullen hun bed verliezen:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Weet je zeker dat je dit wilt doen?</AreYouSure>
+  <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <ChangingOwnerTypeBedWarning>Bedgebruik wijzigen heeft effect op de hele kamer (gevangenen, slaven en kolonisten kunnen niet in dezelfde kamer slapen.\n\nDeze mensen zullen hun bed verliezen:</ChangingOwnerTypeBedWarning>
+
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>Ontsteken</CommandDetonateLabel>
@@ -133,8 +138,13 @@
 
   <!-- EN: Allow sowing -->
   <CommandAllowSow>Zaaien toestaan</CommandAllowSow>
-  <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
+  <!-- EN: When disabled, colonists will never sow new plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>Wanneer uitgeschakeld zullen kolonisten nooit planten zaaien in deze zone. Ze zullen nog steeds oogsten.</CommandAllowSowDesc>
+
+  <!-- EN: Allow cutting -->
+  <CommandAllowCut>Afsnijden toestaan</CommandAllowCut>
+  <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
+  <CommandAllowCutDesc>Wanneer uitgeschakeld zullen kolonisten nooit planten in deze zone afsnijden. Ze plante nnog wel nieuwe planten in lege ruimtes en zullen oogsten.</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -229,8 +239,8 @@
   <CommandAutoRearmDesc>Als dit is ingeschakeld, wordt deze val automatisch vervangen nadat deze is gesprongen.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
-  <!-- EN: Release animals -->
-  <CommandReleaseAnimalsLabel>Dieren loslaten</CommandReleaseAnimalsLabel>
+  <!-- EN: Animals attack -->
+  <CommandReleaseAnimalsLabel>Dieren vallen aan</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>Zolang dit aan staat, worden de dieren vooruit gestuurd om verre doelen aan te vallen. Als dit uit staat, blijven ze dichtbij en bewaken ze de baas.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
@@ -535,11 +545,36 @@
   <CommandOpenLinkedQuest>Open gekoppelde opdracht</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>Bekijk de gekoppelde opdracht in de opdrachtentab.</CommandOpenLinkedQuestDesc>
+
+  <!-- Carry -->
+  <!-- EN: Drop {0_nameDef} -->
+  <CommandDropPawn>{0_nameDef} laten vallen</CommandDropPawn>
+  <!-- EN: Drop the person being carried. -->
+  <CommandDropPawnDesc>Laat de gedragen persoon vallen.</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
   <TakeDrug>Gebruik een drug...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
   <TakeDrugDesc>Kies een drug uit de inventaris om direct in te namen.</TakeDrugDesc>
+
+  <!-- Build X -->
+  <!-- EN: Build {0} -->
+  <BuildThing>Bouw {0}</BuildThing>
+
+  <!-- Rituals -->
+  <!-- EN: Leave {RITUAL_label} -->
+  <CommandLeaveRitual>{RITUAL_label} verlaten</CommandLeaveRitual>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>Neem niet langer deel in {RITUAL_labelDef}. Het ritueel zal doorgaan zolang nog minstens één deelnemer is.</CommandLeaveRitualDesc>
+  <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
+  <CommandLeaveLastParticipant>Dit is de laatste deelnemer in {RITUAL_labelDef}.</CommandLeaveLastParticipant>
+
+  <!-- EN: Cancel {RITUAL_label} -->
+  <CommandCancelRitual>{RITUAL_label} annuleren</CommandCancelRitual>
+  <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
+  <CommandCancelRitualDesc>Beëindig {RITUAL_labelDef} direct. Rituele obligaties blijven actief. Je kunt het ritueel later herstarten.</CommandCancelRitualDesc>
+  <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
+  <CommandCancelRitualConfirm>Weet je zeker dat je {RITUAL_labelDef} wilt annuleren?</CommandCancelRitualConfirm>
   
 </LanguageData>

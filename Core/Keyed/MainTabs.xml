@@ -8,8 +8,8 @@
   <HigherPriority>Hogere prioriteit</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>Lagere prioriteit</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
-  <RelevantSkills>Relevante vaardigheden: {0}\nGemiddelde van de relevante vaardigheden: {1} / {2}</RelevantSkills>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
+  <RelevantSkills>Relevante vaardigheden: {0}\nGemiddelde van de relevante vaardigheden: {1}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Klik om naar deze kolonist te gaan:</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
@@ -36,6 +36,12 @@
   <Priority4>Lage prioriteit</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
   <PawnFactionInfo>{0}\n\nDe factie waartoe {1_nameDef} momenteel behoort.\n\nKlik om de factie te bekijken.</PawnFactionInfo>
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>Niet actief door achtergrond: {0}</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>Niet actief door eigenschap: {0}</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>Niet actief door opdracht: {0}</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -84,16 +90,20 @@
   <Hostile>Vijandig</Hostile>
   <!-- EN: Ally -->
   <Ally>Bondgenoot</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>vijandig</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>bondgenoot</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>verslagen</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Vijand van {0}</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>Vijand van: </EnemyOf>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>Huidige relatie met deze factie.</CurrentGoodwillTip>
-  <!-- EN: Current relations with this faction. -->
-  <CurrentRelationTip>Huidige betrekkingen met deze factie.</CurrentRelationTip>
+  <!-- EN: Recent events -->
+  <RecentEvents>Recente gebeurtenissen</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>Doorlopende gebeurtenissen</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Deze factie is permanent vijandig. Zij zullen je nederzettingen en karavanen overvallen. De relaties met hen zullen nooit verbeteren, om welke reden dan ook.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -102,13 +112,7 @@
   <CurrentGoodwillTip_Neutral>Deze factie is neutraal. Zij zullen vrij met je handelen en met je praten. Als relaties onder {0} vallen, worden ze vijandig. Als relaties boven {1} uitstijgen, worden ze bondgenoten en gaan ze actief aan de slag om je te helpen.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Deze factie is vijandig. Zij zullen je nederzettingen en karavanen overvallen. Als relaties boven {0} uitstijgen, worden ze neutraal.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Deze factie heeft een natuurlijke relatie die varieert van {0} tot {1}.</CurrentGoodwillTip_NaturalGoodwill>
-  <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>Indien de relatie onder {0} ligt, stijgt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillRise>
-  <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>Indien de relatie hoger is dan {0}, daalt deze met {1} per jaar.</CurrentGoodwillTip_NaturalGoodwillFall>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Vriend</Friend>
@@ -178,8 +182,8 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>Onderzoek</Research>
-  <!-- EN: Researched -->
-  <Researched>Onderzocht</Researched>
+  <!-- EN: Study -->
+  <Study>Onderzoeken</Study>
   <!-- EN: Unresearched -->
   <Unresearched>Niet onderzocht</Unresearched>
   <!-- EN: Finished -->
@@ -208,6 +212,12 @@
   <TechLevelTooLow>Het technisch niveau van je factie is {0}, maar het niveau van dit project is {1}. Onderzoeksnelheid wordt vermenigvuldigd met {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>Ontgrendeld door</UnlockedWith>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>Facties</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>Geen bekende facties</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -282,14 +292,16 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>een vrije slaapkamer die voldoet aan de titelvereisten van</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>Een troonzaal die aan de eisen van {PAWN_definite}'s titel, {TITLE}, voldoet</QuestThroneRoomRequirementsUnsatisfied>
-  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
-  <QuestNoThroneRoom>Een troonzaal die aan de eisen van {PAWN_definite}'s titel, {TITLE}, voldoet</QuestNoThroneRoom>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>een troon toewijzen aan {PAWN_definite}</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>een kolonist met de titel {0}</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} to be in your home colony -->
   <QuestPawnNotOnColonyMap>{PAWN_definite} moet in de kolonie aanwezig zijn</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>de kaart mag geen vijanden bevatten van de schenkende factie</QuestRequiresNoDangerOnMap>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>om de schenkingsceremonieopdracht te voltooien</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
   <ChooseRewards>Beloningsvoorkeuren</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -314,7 +326,17 @@
   <QuestBetrayalOffer>Voorstel voor verraad: {0} doelwitten resterend</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
   <QuestBetrayalOfferTip>{0} zal je een beloning geven als je alle leden van {1} doodt.</QuestBetrayalOfferTip>
-  
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>een kolonierijkdom van minstens {0}</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>een bondgenootschap met {0}</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>vijandig tegenover {0}</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>neutraal tegenover {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>{0_labelShort} onderzocht</QuestRequiredThingStudied>
+
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Creëert behoefte</CreatesNeed>

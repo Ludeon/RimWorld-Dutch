@@ -100,6 +100,12 @@
   <RenameColonist>Hernoem kolonist</RenameColonist>
   <!-- EN: Renounce title -->
   <RenounceTitle>Titel afwijzen</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>Executeer</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>Executeer schuldige kolonist\n\nAls je dit aanvinkt zal een cipier deze persoon komen executeren</ExecuteColonist>
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} van {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -126,6 +132,8 @@
   <Fertilized>Bevrucht</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Vooruitgang gestopt, wachten op bevruchting</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>Komt uit over</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>{0} op niveau {2} vereist, heeft {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -160,6 +168,8 @@
   <ConfiguredTargetFuelLevel>Gewenste brandstofniveau: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>vijanden</Enemies>
+  <!-- EN: people -->
+  <People>mensen</People>
   <!-- EN: time passed -->
   <TimePassed>verstreken tijd</TimePassed>
   <!-- EN: current radius -->
@@ -258,8 +268,8 @@
   <NoPower>Geen stroom</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>Verminderde werksnelheid</WorkSpeedPenalty>
-  <!-- EN: DISABLED -->
-  <DisabledCommand>GEDEACTIVEERD</DisabledCommand>
+  <!-- EN: Disabled -->
+  <DisabledCommand>Gedeactiveerd</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Klaar voor lancering.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
@@ -330,10 +340,16 @@
   <DownedLower>bewusteloos</DownedLower>
   <!-- EN: resting -->
   <Carried>gedragen</Carried>
-  <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>Gemiddelde snelheid persoon</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>Berijdbare dieren / mensen</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>Vermenigvuldigingsfactor door bereden dieren</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Vermenigvuldiger voor gedragen massa: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>Dit dier is bereidbaar. Mensen in een karavaan zullen de snelste dieren bereiden, waardoor de snelheid van de karavaan toeneemt.</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>De karavaan kan niet bewegen, want ze zijn overladen.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Karavaan lidsnelheid</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -424,8 +440,8 @@
   <ViewHyperlink>Bekijk: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>Ontploft over {0} dagen</DetonationCountdown>
-  <!-- EN: Large explosion if damaged -->
-  <ExplosionOnDamageWarning>Grote explosie wanneer beschadigd</ExplosionOnDamageWarning>
+  <!-- EN: Large fire explosion if damaged -->
+  <ExplosionOnDamageWarning>Grote brandexplosie wanneer beschadigd</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>Mechanoïdecluster</MechCluster>
   <!-- EN: Spawning in {0} -->
@@ -468,10 +484,40 @@
   <DurationLeft>{0} resterend</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>Een van</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>Vereist eigenschap {0}</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>Relatie</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>Natuurlijke relatie</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>Natuurlijk relatiebereik</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>Natuurlijke relatie is gebaseerd op factieidentiteit en geloof. Als de huidige relatie ver is verwijderd van de natuurlijke relatie zal de relatie langzaam naar de natuurlijke relatie bewegen.\n\nAlle relatieeffecten worden vermenigvuldigd met {0} wanneer het in de richting van de natuurlijke relatie gaat.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>weerstand van {0_nameIndef} omlaag aan het brengen</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>Te groot</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>Waarschuwing</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>Heeft subopdracht</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>subopdracht</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>Overval</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>Gedeactiveerd door</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>Nudisme</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>Voortgang onderzoek</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>voltooid</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Val dit aan om het te vernietigen</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Val dit aan om het te verwijderen.</RemoveByAttackingTooltip>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -490,6 +536,8 @@
   <ContainsWort>Bevat {0} / {1} wort.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Bevat {0} / {1} bier.</ContainsBeer>
+  <!-- EN: Contains -->
+  <Contains>Bevat</Contains>
   <!-- EN: Fermented -->
   <Fermented>Vergist</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -516,8 +564,8 @@
   <TextMote_ResistanceReduced>Weerstand\nvan {0} naar {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Mislukte tempoging\n{0} kans</TextMote_TameFail>
-  <!-- EN: Tamed!\n{0} chance -->
-  <TextMote_TameSuccess>Getemd!\n{0} kans</TextMote_TameSuccess>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>Getemd!</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Mislukte training: {0}\n{1} kans</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -557,6 +605,45 @@
   <!-- EN: Invert -->
   <InvertArea>Inverteren</InvertArea>
 
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>Niet afgesloten</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>open deur</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>Weide hernoemen</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>Weidemarkering {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>In weide</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>niet in weide</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>Weiden kunnen worden gemaakt door een weidemarkering te bouwen in een afgesloten ruimte. Je dierenverzorgers zullen je dieren naar de juiste weide brengen. Weiden kunnen worden omheind door hekken, barricades, muren en deuren.</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>Geleid door</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>Leidt</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>Vastgebonden aan locatie.</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>Weidegrootte</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>Heel kleine wei</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>Kleine wei</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>Gemiddelde wei</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>Grote wei</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>Niet afgesloten - bouw een hek</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>{ANIMALDEF_label} capaciteit</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>Voorbeelddieren</PenExampleAnimals>
+
+
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Kan geen personages bevelen die je niet bestuurt.</CannotOrderNonControlled>
@@ -566,6 +653,8 @@
   <IsIncapableOfViolenceShort>niet in staat tot geweld</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} staat niet in de aanvalsmodus.</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>{PAWN_nameDef} kan geen afstandswapens gebruiken vanwege {PAWN_possessive} {APPAREL_label}.</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -608,6 +697,8 @@
   <ReportSleeping>aan het slapen.</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>aan het rusten.</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>aan het liggen.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>naar de zonsopgang aan het kijken.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -756,8 +847,8 @@
   <StunLower>verdoofd</StunLower>
 
   <!-- Inspector general stuff -->
-  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde vierkant.</SelectNextInSquareTip>
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\n(*SectionTitle)Sneltoets(/SectionTitle): {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde vierkant.</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>Bekijk informatie over dit object.</DefInfoTip>
 
@@ -834,6 +925,8 @@
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>Ingrediënten</Ingredients>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>Stapelt alleen met vergelijkbare maaltijden</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -868,6 +961,12 @@
   <Blighted>Meeldauw</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Stervend door blootstelling aan licht</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>Nu verwijderen</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>oogsten</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>verwijderen</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -964,6 +1063,8 @@
   <WillGetWorkSpeedPenalty>{0} kan alleen met verminderde snelheid werken</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Kan niet onder een dak geplaatst worden.</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>Moet onder een berg geplaatst worden.</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Moet met het hoofd op de structurele schipbalk bevestigd worden.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -982,6 +1083,8 @@
   <MustPlaceOnDrillable>Moet op boorbare grondstoffen worden geplaatst.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>Kan niet naast vallen worden geplaatst.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>Kan niet naast een ander gebouw van hetzelfde type geplaatst worden.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1054,6 +1157,8 @@
   <!-- Quality -->
   <!-- EN: Quality -->
   <Quality>Kwaliteit</Quality>
+  <!-- EN: quality -->
+  <quality>kwaliteit</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>De kwaliteit van een item geeft aan hoe goed het is gemaakt.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1102,6 +1207,10 @@
   <!-- Facilities -->
   <!-- EN: inactive -->
   <InactiveFacility>inactief</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>koppelt aan</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>Niet gekoppeld aan een gebouw</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1344,5 +1453,136 @@
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Veroorzaakt door: {0}</CausedByHediff>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was cured. -->
+  <HealingCureHediff>{0_nameDef} is genezen van {1}.</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>{0_nameDef}'s {1} is hersteld.</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>Waarschuwing: Door hier een gebouw te plaatsen zal {FACTION_name} boos worden!</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>Kies landingsplaats</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>ritueel</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>vindt plaats op</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>Elke {0}</RitualTargetThingDefsInfo>
+  <!-- EN: Attending -->
+  <LordReportAttending>Bijwonen</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>{0} is afgebroken</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>{0} is niet voltooid vanwege een gebrek aan toeschouwers.</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>{0} is voltooid</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>eindigt in {0}</RitualEndsIn>
+  <!-- EN: Organizers -->
+  <Organizers>Organisatoren</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>Kwaliteitsfactoren</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>Deze conditie zou kunnen worden vervuld, afhankelijk van hoe het loopt.\n\nAls hij wordt vervuld zal de kwaliteitsbonus van toepassing zijn.</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>Deze conditie is niet vervuld.\n\nDe kwaliteitsbonus is niet van toepassing.</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>Toeschouwers</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>Geen deelname</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>Sleep of klik met de linker/rechter muisknop om mensen te verplaatsen.</DragPawnsToRolesInfo>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>Een slaaf. Eigendom van anderen.</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelShort} slaapt. Als ze in het ritueel worden betrokken zal {0_pronoun} wakker worden om deel te nemen.</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>Een aantal geselecteerde deelnemers slaapt. Ze zullen wakker worden wanneer het ritueel begint.</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>Deze positie wordt het beste vervuld door een kolonist met de sociale rol {0}.\n\nAls iemand zonder deze rol deze positie vervult, worden de volgende bonus(sen) niet toegepast</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>Geen vervanging beschikbaar voor de rol {0}.</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>{0} voortgang</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>{0} kwaliteit hangt af van</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>{0} totale kwaliteit was {1}, vanwege deze factoren</RitualOutcomeQualitySpecific>
+  <!-- EN: Outcome chances at {0} quality -->
+  <RitualOutcomeChances>Uitkomst kansen bij {0} kwaliteit</RitualOutcomeChances>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>Recent uitgevoerd</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>{0} verwachtingen</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>Rituele achtergrondgeluiden</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>Totale {0} kwaliteit is lager dan {1}. Doorgaan heeft waarschijnlijk een negatieve impact op je kolonie.\n\nWeet je het zeker?</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>Geen bereikbare geschikte locatie om te spreken.</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>{0_labelShort} kan niet {1}.</AbilityDisabledNoCapacity>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>Alle deelnemers in het ritueel krijgen {0} humeurbonus voor {1} dagen.</RitualOutcomeExtraDesc_Mood>
+  
+  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
+  <ChooseParticipants>Kies de deelnemers in {RITUAL_labelDef}.</ChooseParticipants>
+  <!-- EN: Begin -->
+  <Begin>Begin</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>Begin {0}</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>Begin {0} voor {1}</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>{0} (van {1})</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>{0} is een datum-specifiek ritueel. Je kunt het beginnen over {1}, op {2}.</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>Vervang door</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>Rituele zitplaats van {IDEOS}</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedRitualQuality>Verwachte kwaliteit</ExpectedRitualQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>Startkwaliteit</StartingQuality>
+  <!-- EN: Expected duration -->
+  <ExpectedRitualDuration>Verwachte tijd</ExpectedRitualDuration>
+  
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>{1} van {PAWN_labelShort}</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>Kamerschoonheid</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>Deelnemers</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>Verwachtingen van {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>Één van</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>Vervangt {PAWN_labelShort}</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>huidig</Present>
+  <!-- EN: {0} used -->
+  <Used>{0} gebruikt</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>{0} startkwaliteit</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>tot {0} kwaliteit</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>{0} kwaliteit</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>{0} max</MaxValue>
   
 </LanguageData>

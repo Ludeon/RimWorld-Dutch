@@ -13,7 +13,7 @@
   <CannotUseNoPath>Kan niet worden gebruikt: geen weg</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
   <CannotUseReserved>Kan niet worden gebruikt: gereserveerd</CannotUseReserved>
-  <!-- EN: Cannot use: full -->
+  <!-- EN: Cannot use: Full -->
   <CannotUseFull>Kan niet worden gebruikt: vol</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>leider {1_labelShort} is niet beschikbaar</LeaderUnavailable>
@@ -35,6 +35,8 @@
   <IsIncapableOfViolenceLower>{1_labelShort} is niet in staat tot geweld</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>niet in staat tot geweld</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0_labelShort} is niet in staat te schieten</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort} is niet militair opgesteld</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
@@ -55,6 +57,8 @@
   <NoPath>geen weg gevonden</NoPath>
   <!-- EN: burying -->
   <Burying>Begraven</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>aangemerkt voor {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>verboden</ForbiddenLower>
@@ -78,6 +82,8 @@
   <UnderAllowedSkill>onder toegestane vaardigheid {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>bovenstaande toegestane vaardigheid {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>geen bereikbare buitencel</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>mist vereist vaardigheidsniveau</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -96,6 +102,20 @@
   <CantInteractAnimalAsleep>dier slaapt</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>dier bezig</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>geen toegestane bereikbare weides</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>geen omheinde weides</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>geen toegestane weides</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>geen bereikbare weides</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>kan niet aanraken</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>geen ruimte in weide</CantRopeAnimalNoSpace>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>al in de beste weide</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>{0} vaardigheid te laag</SkillTooLowForConstruction>
   <!-- EN: need components -->
@@ -140,11 +160,13 @@
   <UpgradeImplant>Verbeter {0} tot niveau {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>misdaad tegen bondgenoot</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>wordt gedragen door {0_labelShort}</BeingCarriedBy>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>{1_labelShort} consumeren</ConsumeThing>
   
-  <!-- EN: Cannot go here: no path -->
+  <!-- EN: Cannot go here: No path -->
   <CannotGoNoPath>Kan hier niet naartoe gaan: geen pad beschikbaar</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>Ga hierheen</GoHere>
@@ -155,6 +177,8 @@
   <TryToArrest>Probeer {1_label} te arresteren ({2} kans)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Arrestatie onmogelijk</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>{0} kans op arrestatie</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>{1_label} gevangennemen</Capture>
@@ -180,6 +204,8 @@
   <CryptosleepCasketGuestsNotAllowed>Tijdelijke factieleden niet toegestaan.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
   <CryptosleepCasketGuestPrisonersNotAllowed>Opgenomen gevangenen niet toegestaan.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>Al bezet</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>GGeen bereikbare, niet-gereserveerde, afgesloten en voor gevangenen gemarkeerde bed in een veilige temperatuur.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -244,6 +270,10 @@
   <PickUpSome>{1_labelShort} oprapen</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>{1_labelShort} x{{0}} oprapen</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>Kan {1_labelShort} niet oprapen</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{0} {1} toegestaan</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Kan geen {1_label} geven om op dieren te laden</CannotGiveToPackAnimal>
@@ -286,12 +316,21 @@
   <CannotStrip>Kan {1_label} niet strippen</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>Kan {1_label} niet laten vallen</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>Draag {0_label}</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>Kan {0_label} niet dragen</CannotCarry>
   <!-- EN: temporary faction member -->
   <QuestRelated>tijdelijk factielid</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
   <QuestRelated_Outfit>Kan geen uitrusting wijzigen op tijdelijke factieleden</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
   <WouldReplaceLockedApparel>zou vastgezette kleding vervangen</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>Kan {0_label} niet in {1_label} plaatsen</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>Plaats {0_label} in {1_label}</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Zelfvernietiging hier</SelfDestructHere>
@@ -349,7 +388,7 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Kan niet {0}</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: incapable of {0} -->
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
   <CannotMissingHealthActivities>Kan geen prioriteit geven: niet in staat tot {0}</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
@@ -358,30 +397,34 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>Al {0}</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: will never do {0} -->
+  <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Kan geen prioriteit geven: zal nooit {0}</CannotPrioritizeWorkTypeDisabled>
-  <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>Kan niet handelen: mist benodigde titel</CannotTradeMissingTitleAbility>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>TODO</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: will never {0} -->
+  <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Kan geen prioriteit geven: zal nooit {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>zal nooit {0}</WillNever>
 
-  <!-- EN: Cannot prioritize: not assigned to {0} -->
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Kan geen prioriteit geven: niet toegewezen aan {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>niet toegewezen</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>niet toegewezen aan {0}</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: research is a long-term task -->
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>Kan hier geen prioriteit aan geven: onderzoek is een langdurige taak</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>Kan hier geen prioriteit aan geven: {1_label} is verboden</CannotPrioritizeForbidden>
-  <!-- EN: Cannot prioritize: forbidden -->
+  <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>Kan geen prioriteit geven: verboden</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Buiten toegestane zone</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>Kan begraven geen prioriteit geven</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -430,6 +473,8 @@
   <GiveToCaravan>Geef aan {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>Geef als geschenk aan {0} ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>Geen onderdeel van de lanceringsgroep</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
@@ -442,5 +487,32 @@
 
   <!-- EN: Too dangerous -->
   <EnterCooldownBlocksEntering>Te gevaarlijk</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>Niemand om op te roepen</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>{0} aanroepen</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>Kan {0} niet aanroepen</CannotInvoke>
+  <!-- EN: power -->
+  <Power>kracht</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>al aangeroepen</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>{0} verzorgen</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>Kan {0} niet verzorgen</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0} heeft geen verzorging nodig</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>zonder medicijnen</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>{0} repareren</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>Kan {0} niet repareren</CannotRepair>
   
 </LanguageData>

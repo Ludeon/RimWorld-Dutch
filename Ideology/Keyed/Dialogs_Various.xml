@@ -3,244 +3,244 @@
 
   <!-- Misc -->
   <!-- EN: add -->
-  <Add>TODO</Add>
+  <Add>toevoegen</Add>
   <!-- EN: Trading animal products bonus -->
-  <TradingAnimalProduceBonus>TODO</TradingAnimalProduceBonus>
+  <TradingAnimalProduceBonus>Bonus voor handel in dierlijke producten</TradingAnimalProduceBonus>
   <!-- EN: Slaves -->
-  <SlavesSection>TODO</SlavesSection>
+  <SlavesSection>Slaven</SlavesSection>
   <!-- EN: dominant style -->
-  <DominantStyle>TODO</DominantStyle>
+  <DominantStyle>dominante stijl</DominantStyle>
   <!-- EN: Date -->
-  <Date>TODO</Date>
+  <Date>Datum</Date>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
-  <ChooseStructureMemesInfo>TODO</ChooseStructureMemesInfo>
+  <ChooseStructureMemesInfo>Kies de symbolische structuur van je ideologie. Dit heeft alleen invloed op symbolen - het heeft geen invloed op het spelverloop.</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
-  <ChooseNormalMemesInfo>TODO</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>Kies {0}-{1} geloofsprincipes die de fundamentele ideeën van deze ideoligie zullen vormen. Sommige hiervan hebben veel meer invloed op het spelverloop dan andere.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
-  <NotEnoughMemes>TODO</NotEnoughMemes>
+  <NotEnoughMemes>Kies minimaal {0} geloofsprincipe.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
-  <TooManyMemes>TODO</TooManyMemes>
+  <TooManyMemes>Kies maximaal {0} geloofsprincipes.</TooManyMemes>
   <!-- EN: Choose structure. -->
-  <ChooseStructureMeme>TODO</ChooseStructureMeme>
+  <ChooseStructureMeme>Kies structuur.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
-  <IncompatibleMemes>TODO</IncompatibleMemes>
+  <IncompatibleMemes>{0_label} en {1_label} zijn niet compatibel.</IncompatibleMemes>
   
   <!-- EN: Room requirements -->
-  <RoomRequirements>TODO</RoomRequirements>
+  <RoomRequirements>Kamervereisten</RoomRequirements>
   
   <!-- EN: role -->
-  <Role>TODO</Role>
+  <Role>rol</Role>
   <!-- EN: Assign role -->
-  <ChooseRole>TODO</ChooseRole>
+  <ChooseRole>Wijs rol toe</ChooseRole>
   <!-- EN: No role assigned -->
-  <NoRoleAssigned>TODO</NoRoleAssigned>
+  <NoRoleAssigned>Geen rol toegewezen</NoRoleAssigned>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
-  <ChooseRoleConfirmAssign>TODO</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssign>Je staat op het punt de rol van {ROLE_labelDef} toe te wijzen aan {PAWN_labelShort}.</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->
-  <ChooseRoleConfirmAssignPostfix>TODO</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignPostfix>Weet je het zeker?</ChooseRoleConfirmAssignPostfix>
   <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignReplace>TODO</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} heeft momenteel deze rol en zal deze niet graag verliezen.</ChooseRoleConfirmAssignReplace>
   <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignHasOtherRole>TODO</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} heeft momenteel de rol van {ROLE_label} en zal deze niet graag verliezen.</ChooseRoleConfirmAssignHasOtherRole>
   <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
-  <ChooseRoleConfirmAssignReplaceLeader>TODO</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmAssignReplaceLeader>Er kan maar één leider zijn. Hierdoor wordt {PAWN_labelShort} ontslagen uit hun {OTHERROLE_labelDef}-rol, wat {PAWN_objective} ongelukkig zal maken.</ChooseRoleConfirmAssignReplaceLeader>
   <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
-  <ChooseRoleConfirmUnassign>TODO</ChooseRoleConfirmUnassign>
+  <ChooseRoleConfirmUnassign>Je staat op het punt {PAWN_labelShort} te ontslaan van de rol van {ROLE_labelIndef}. Dit zal {PAWN_objective} ongelukkig maken.</ChooseRoleConfirmUnassign>
   <!-- EN: {PAWN_labelShort} will gain the following abilities -->
-  <ChooseRoleListAbilities>TODO</ChooseRoleListAbilities>
+  <ChooseRoleListAbilities>{PAWN_labelShort} krijgt de volgende vaardigheden</ChooseRoleListAbilities>
   <!-- EN: The {ROLE_label} role requires the following apparel -->
-  <ChooseRoleListApparelDemands>TODO</ChooseRoleListApparelDemands>
+  <ChooseRoleListApparelDemands>De rol van {ROLE_label} vereist de volgende kleding</ChooseRoleListApparelDemands>
   <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
-  <ChooseRoleListWorkTypeRestrictions>TODO</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} weigert dit soort werk te doen</ChooseRoleListWorkTypeRestrictions>
   <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
-  <ChooseRoleHint>TODO</ChooseRoleHint>
+  <ChooseRoleHint>Het kan soms beter zijn om te wachten tot je kolonie beter gevestigd is voordat je rollen toewijst.</ChooseRoleHint>
   <!-- EN: Unlocked by -->
-  <UnlockedByMeme>TODO</UnlockedByMeme>
+  <UnlockedByMeme>Ontgrendeld door</UnlockedByMeme>
   <!-- EN: Unlocked roles -->
-  <MemeUnlocksRoles>TODO</MemeUnlocksRoles>
+  <MemeUnlocksRoles>Ontgrendelde rollen</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
-  <MemeUnlocksRituals>TODO</MemeUnlocksRituals>
+  <MemeUnlocksRituals>Ontgrendelde rituelen</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
-  <ChooseRoleRequiredWorkTagsDisabled>TODO</ChooseRoleRequiredWorkTagsDisabled>
+  <ChooseRoleRequiredWorkTagsDisabled>WAARSCHUWING: {PAWN_nameDef} kan geen werk doen dat vereist is voor de rol van {ROLE_label}. Als je ervoor kiest om {PAWN_objective} deze rol te geven, kan {PAWN_pronoun} mogelijk geen gebruik maken van de mogelijkheden die bij de rol horen. De ontbrekende werktypes zijn</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
-  <YourLeaderTradeBonus>TODO</YourLeaderTradeBonus>
+  <YourLeaderTradeBonus>Leider bonus</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
-  <CannotNotAddRoleApparelDueToMeme>TODO</CannotNotAddRoleApparelDueToMeme>
+  <CannotNotAddRoleApparelDueToMeme>Het geloofsprincipe {MEME} voorkomt dat er kledingvereisten aan rollen worden toegevoegd.</CannotNotAddRoleApparelDueToMeme>
 
   <!-- EN: Certainty reduction -->
-  <AbilityIdeoConvertBreakdownLabel>TODO</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownLabel>Zekerheid reductie</AbilityIdeoConvertBreakdownLabel>
   <!-- EN: Using {ABILITY} ability -->
-  <AbilityIdeoConvertBreakdownUsingAbility>TODO</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownUsingAbility>{ABILITY} aan het gebruiken</AbilityIdeoConvertBreakdownUsingAbility>
   <!-- EN: {PAWN_labelShort}'s conversion power -->
-  <AbilityIdeoConvertBreakdownConversionPower>TODO</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownConversionPower>De bekeringskracht van {PAWN_labelShort}</AbilityIdeoConvertBreakdownConversionPower>
   <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
-  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>TODO</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>De zekerheidsverliesfactor van {PAWN_labelShort} in {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
   <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
-  <AbilityIdeoConvertBreakdownRole>TODO</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} is {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
-  <AbilityIdeoConvertBreakdownTrait>TODO</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownTrait>Eigenschap {TRAIT}</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: {RELICCOUNT} installed relics on map -->
-  <AbilityIdeoConvertBreakdownRelic>TODO</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} relikwieën op de kaart geïnstalleerd</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
-  <AbilityIdeoConvertBreakdownSocialSkill>TODO</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}'s sociale vaardigheden</AbilityIdeoConvertBreakdownSocialSkill>
   <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->
-  <AbilityIdeoConvertBreakdownOpinion>TODO</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownOpinion>{RECIPIENT_labelShort}'s mening over {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
   <!-- EN: {PAWN_nameDef}'s ideoligion -->
-  <AbilityIdeoConvertBreakdownPawnIdeo>TODO</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef}'s ideoligie</AbilityIdeoConvertBreakdownPawnIdeo>
   <!-- EN: {MEME} vs {TRAIT} trait -->
-  <AbilityIdeoConvertBreakdownMemeVsTrait>TODO</AbilityIdeoConvertBreakdownMemeVsTrait>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} eigenschap</AbilityIdeoConvertBreakdownMemeVsTrait>
 
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
-  <AbilityCantApplyAlreadyCounselled>TODO</AbilityCantApplyAlreadyCounselled>
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} heeft onlangs al advies gekregen.</AbilityCantApplyAlreadyCounselled>
 
   <!-- Slavery -->
   <!-- EN: Slave -->
-  <CannotAssignBedToSlave>TODO</CannotAssignBedToSlave>
+  <CannotAssignBedToSlave>Slaaf</CannotAssignBedToSlave>
   <!-- EN: Colonist -->
-  <CannotAssignBedToColonist>TODO</CannotAssignBedToColonist>
+  <CannotAssignBedToColonist>Kolonist</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
-  <AnySlave>TODO</AnySlave>
+  <AnySlave>Elke slaaf</AnySlave>
   <!-- EN: Negotiator will not sell people into slavery. -->
-  <NegotiatorWillNotTradeSlaves>TODO</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>Onderhandelaar zal mensen niet als slaaf verkopen.</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to their own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>TODO</NegotiatorWillNotTradeSlavesTip>
+  <NegotiatorWillNotTradeSlavesTip>De onderhandelaar, {0_nameDef}, zal mensen niet tot slaaf maken vanwege {0_possessive} geloof in {1}.\n\nMerk op dat {0_nameDef} bereid is iemand voor losgeld terug te geven aan diens eigen factie, maar niet bereid is iemand te verkopen aan een andere factie.</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
-  <LastHumanMeat>TODO</LastHumanMeat>
+  <LastHumanMeat>Laatste mensenvlees</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>TODO</LastHumanMeatDesc>
+  <LastHumanMeatDesc>Omdat {PAWN_possessive} in {IDEO_name} gelooft, wordt {PAWN_nameDef} ongelukkig als {PAWN_pronoun} meer dan {DURATION} dagen geen mensenvlees eet.</LastHumanMeatDesc>
   <!-- EN: Last large animal slaughter -->
-  <LastAnimalSlaughter>TODO</LastAnimalSlaughter>
+  <LastAnimalSlaughter>Laatste slachting van een groot dier</LastAnimalSlaughter>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
-  <ExectueNeutralFactionSlave>TODO</ExectueNeutralFactionSlave>
+  <ExectueNeutralFactionSlave>Het uitvoeren van {PAWN_labelShort} zal een negatief effect op de relaties met {FACTION_name} hebben.</ExectueNeutralFactionSlave>
 
   <!-- EN: You must assign at least one non-slave colonist who can walk. -->
-  <CaravanMustHaveAtLeastOneNonSlaveColonist>TODO</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>Je moet ten minste één kolonist aanwijzen die geen slaaf is en kan lopen.</CaravanMustHaveAtLeastOneNonSlaveColonist>
   <!-- EN: You must leave at least non-slave colonist who can walk. -->
-  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>TODO</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Je moet ten minste één kolonist achterlaten die geen slaaf is en kan lopen.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>TODO</StylePawn>
+  <StylePawn>Stijl</StylePawn>
   <!-- EN: Cancel -->
-  <Cancel>TODO</Cancel>
+  <Cancel>Annuleren</Cancel>
   <!-- EN: hair -->
-  <Hair>TODO</Hair>
+  <Hair>haar</Hair>
   <!-- EN: beard -->
-  <Beard>TODO</Beard>
+  <Beard>baard</Beard>
   <!-- EN: face tattoo -->
-  <TattooFace>TODO</TattooFace>
+  <TattooFace>gezicht tatoeage</TattooFace>
   <!-- EN: body tattoo -->
-  <TattooBody>TODO</TattooBody>
+  <TattooBody>lichaam tatoeage</TattooBody>
   <!-- EN: apparel color -->
-  <ApparelColor>TODO</ApparelColor>
+  <ApparelColor>kleding kleur</ApparelColor>
   <!-- EN: hair color -->
-  <HairColor>TODO</HairColor>
+  <HairColor>haar kleur</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>TODO</ShowHeadgear>
+  <ShowHeadgear>toon hoofddeksel</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>TODO</ShowApparel>
+  <ShowApparel>toon kleding</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
-  <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} zal niet tevreden zijn met het volgende:</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescription>TODO</StyleCategoryDescription>
+  <StyleCategoryDescription>Stijlcategorieën beïnvloeden het uiterlijk van sommige gebouwen, kleding en wapens gemaakt door {IDEO_memberNamePlural}. Als meer dan één categorie hetzelfde betreft, is de meest linkse van toepassing.</StyleCategoryDescription>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
-  <StyleCategoryDescStyleDominance>TODO</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} zullen blij zijn als ze gebouwen, vloeren en kunst zien die bij deze stijl passen.</StyleCategoryDescStyleDominance>
   <!-- EN: {0} style category affects -->
-  <StyleCategoryDetails>TODO</StyleCategoryDetails>
+  <StyleCategoryDetails>{0} stijlcategorie beïnvloedt</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
-  <OverriddenByStyle>TODO</OverriddenByStyle>
+  <OverriddenByStyle>{0} krijgt voorrang</OverriddenByStyle>
   <!-- EN: New buildables -->
-  <IdeoMakesBuildingBuildable>TODO</IdeoMakesBuildingBuildable>
+  <IdeoMakesBuildingBuildable>Nieuwe bouwbare objecten</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>TODO</NoneUsableForPawn> 
+  <NoneUsableForPawn>geen bruikbaar voor {PAWN_nameDef}</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
-  <HairAndBeards>TODO</HairAndBeards>
+  <HairAndBeards>Haar en baarden</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
-  <HairAndBeardsDesc>TODO</HairAndBeardsDesc>
+  <HairAndBeardsDesc>Deze instellingen bepalen hoe vaak elke stijl voorkomt bij leden van deze ideologie.</HairAndBeardsDesc>
   <!-- EN: Tattoos -->
-  <Tattoos>TODO</Tattoos>
+  <Tattoos>Tatoeages</Tattoos>
   <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
-  <TattoosDesc>TODO</TattoosDesc>
+  <TattoosDesc>Deze instellingen bepalen hoe vaak elke tatoeage op leden van deze ideologie verschijnt.</TattoosDesc>
   <!-- EN: Never -->
-  <StyleItemFrequencyNever>TODO</StyleItemFrequencyNever>
+  <StyleItemFrequencyNever>Nooit</StyleItemFrequencyNever>
   <!-- EN: Rare -->
-  <StyleItemFrequencyRare>TODO</StyleItemFrequencyRare>
+  <StyleItemFrequencyRare>Zelden</StyleItemFrequencyRare>
   <!-- EN: Uncommon -->
-  <StyleItemFrequencyUncommon>TODO</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyUncommon>Ongewoon</StyleItemFrequencyUncommon>
   <!-- EN: Normal -->
-  <StyleItemFrequencyNormal>TODO</StyleItemFrequencyNormal>
+  <StyleItemFrequencyNormal>Normaal</StyleItemFrequencyNormal>
   <!-- EN: Common -->
-  <StyleItemFrequencyCommon>TODO</StyleItemFrequencyCommon>
+  <StyleItemFrequencyCommon>Regelmatig</StyleItemFrequencyCommon>
   <!-- EN: Frequent -->
-  <StyleItemFrequencyFrequent>TODO</StyleItemFrequencyFrequent>
+  <StyleItemFrequencyFrequent>Vaak</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>TODO</EditAppearanceItems>
+  <EditAppearanceItems>Vorm bewerken</EditAppearanceItems>
   <!-- EN: {0} in use -->
-  <NumAvailable>TODO</NumAvailable>
+  <NumAvailable>{0} in gebruik</NumAvailable>
   <!-- EN: Expand all -->
-  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <ExpandAllCategories>Alles uitklappen</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>TODO</CollapseAllCategories>
+  <CollapseAllCategories>Alles inklappen</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>TODO</ResetButtonDesc>
+  <ResetButtonDesc>Zet alle stijlitems terug naar hun beginwaarden.</ResetButtonDesc>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
-  <SendShuttleAnyway>TODO</SendShuttleAnyway>
+  <SendShuttleAnyway>Stuur shuttle weg</SendShuttleAnyway>
   <!-- EN: Re-load shuttle -->
-  <ReLoadShuttle>TODO</ReLoadShuttle>
+  <ReLoadShuttle>Shuttle opnieuw inladen</ReLoadShuttle>
 
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>TODO</MedGroupEnslavedColonist>
+  <MedGroupEnslavedColonist>Tot slaaf gemaakte kolonist</MedGroupEnslavedColonist>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
-  <ChangeMode>TODO</ChangeMode>
+  <ChangeMode>Kies dryadenkaste</ChangeMode>
   <!-- EN: Required memes -->
-  <RequiredMemes>TODO</RequiredMemes>
+  <RequiredMemes>Vereiste geloofsprincipes</RequiredMemes>
   <!-- EN: Required caste -->
-  <RequiredStage>TODO</RequiredStage>
+  <RequiredStage>Vereiste kasten</RequiredStage>
   <!-- EN: Missing required memes -->
-  <MissingRequiredMemes>TODO</MissingRequiredMemes>
+  <MissingRequiredMemes>Vereiste geloofsprincipes ontbreken</MissingRequiredMemes>
   <!-- EN: Missing required caste -->
-  <MissingRequiredCaste>TODO</MissingRequiredCaste>
+  <MissingRequiredCaste>Vereiste kasten ontbreken</MissingRequiredCaste>
   <!-- EN: Already selected -->
-  <AlreadySelected>TODO</AlreadySelected>
+  <AlreadySelected>Reeds geselecteerd</AlreadySelected>
   <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
-  <ChooseProductionModeInitialDesc>TODO</ChooseProductionModeInitialDesc>
+  <ChooseProductionModeInitialDesc>Hier kun je kiezen welke kaste van dryaden deze {TREE_label} zal creëren.\n\nDryaden zullen tevoorschijn komen uit peulen die aan de basis van de boom groeien. Het maximum aantal dryaden is gebaseerd op de verbindingssterkte tussen {TREE_definite} en de verbonden persoon.</ChooseProductionModeInitialDesc>
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->
-  <ChooseColonistsForIdeoTitle>TODO</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoTitle>Kies wie je wilt bekeren tot je ideoligie</ChooseColonistsForIdeoTitle>
   <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
-  <ChooseColonistsForIdeoDesc>TODO</ChooseColonistsForIdeoDesc>
+  <ChooseColonistsForIdeoDesc>Je mag mensen bekeren tot je primaire ideologie bij het opzetten van een nieuwe kolonie.</ChooseColonistsForIdeoDesc>
   <!-- EN: New Colony -->
-  <ChooseThingsForNewColonyTitle>TODO</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyTitle>Nieuwe Kolonie</ChooseThingsForNewColonyTitle>
   <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
-  <ChooseThingsForNewColonyDesc>TODO</ChooseThingsForNewColonyDesc>
+  <ChooseThingsForNewColonyDesc>Kies welke kolonisten, dieren en relikwieën je naar de nieuwe kolonie wilt brengen.</ChooseThingsForNewColonyDesc>
   <!-- EN: Choose up to {0} {1}. -->
-  <ChooseThingsDesc>TODO</ChooseThingsDesc>
+  <ChooseThingsDesc>Kies maximaal {0} {1}.</ChooseThingsDesc>
   <!-- EN: Choose up to {0} people. -->
-  <ChoosePeopleDesc>TODO</ChoosePeopleDesc>
+  <ChoosePeopleDesc>Kies maximaal {0} mensen.</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
-  <ChooseOnlySlavesInfo>TODO</ChooseOnlySlavesInfo>
+  <ChooseOnlySlavesInfo>Als je alleen slaven selecteert, speel je ze als kolonisten in de volgende kolonie.</ChooseOnlySlavesInfo>
   <!-- EN: Convert -->
-  <ConvertToPlayerIdeoligion>TODO</ConvertToPlayerIdeoligion>
+  <ConvertToPlayerIdeoligion>Bekeer</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
-  <RevertToPreviousIdeoligion>TODO</RevertToPreviousIdeoligion>
+  <RevertToPreviousIdeoligion>Herstel</RevertToPreviousIdeoligion>
   <!-- EN: Existing follower -->
-  <ExistingFollowerOfPlayerIdeoligion>TODO</ExistingFollowerOfPlayerIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>Bestaande aanhanger</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
-  <AbandonArchotechStructuresWarningDialog>TODO</AbandonArchotechStructuresWarningDialog>
+  <AbandonArchotechStructuresWarningDialog>Je verlaat een site die archotech-structuren bevat die je nog niet volledig hebt bestudeerd.\n\nJe kunt je hier later opnieuw vestigen, maar je kolonie zal worden weggevaagd.</AbandonArchotechStructuresWarningDialog>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
-  <ConfirmHackEnenyTerminal>TODO</ConfirmHackEnenyTerminal>
+  <ConfirmHackEnenyTerminal>Als je deze {0} hackt, worden vijanden gewaarschuwd en zullen ze aanvallen. Wil je echt {0} hacken?</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
-  <RelicsSection>TODO</RelicsSection>
+  <RelicsSection>Relikwieën</RelicsSection>
 
 </LanguageData>

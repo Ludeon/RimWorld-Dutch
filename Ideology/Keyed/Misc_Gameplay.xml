@@ -2,21 +2,21 @@
 <LanguageData>
 
   <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>Kies de ideologie van je factie</ChooseIdeoligion>
+  <ChooseIdeoligion>Kies de ideoligie van je factie</ChooseIdeoligion>
   <!-- EN: Create custom -->
-  <CreateCustom>Aangepaste ideologie</CreateCustom>
+  <CreateCustom>Aangepaste ideoligie</CreateCustom>
   <!-- EN: Create new -->
   <CreateNew>Maak nieuw</CreateNew>
   <!-- EN: Load existing -->
   <LoadExisting>Laad bestaand</LoadExisting>
   <!-- EN: Create custom ideoligion -->
-  <CreateCustomIdeoligion>Maak aangepaste ideologie</CreateCustomIdeoligion>
+  <CreateCustomIdeoligion>Maak aangepaste ideoligie</CreateCustomIdeoligion>
   <!-- EN: Load saved ideoligion -->
-  <LoadExistingIdeoligion>Laad bestaande ideologie</LoadExistingIdeoligion>
+  <LoadExistingIdeoligion>Laad bestaande ideoligie</LoadExistingIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
-  <SelectAnIdeo>Kies links een ideologie voor je factie, of</SelectAnIdeo>
+  <SelectAnIdeo>Kies links een ideoligie voor je factie, of</SelectAnIdeo>
   <!-- EN: ideoligion -->
-  <Ideo>ideologie</Ideo> 
+  <Ideo>ideoligie</Ideo> 
   <!-- EN: Randomize all -->
   <RandomizeAll>Willekeurig</RandomizeAll>
   <!-- EN: Appearance -->
@@ -42,7 +42,7 @@
   <!-- EN: {0} to {1} -->
   <PreceptThoughtMoodRange>{0} tot {1}</PreceptThoughtMoodRange>
   <!-- EN: Comes from ideo -->
-  <ComesFromIdeo>Komt  van ideo</ComesFromIdeo>
+  <ComesFromIdeo>Komt van ideo</ComesFromIdeo>
   <!-- EN: Current total animal bodysize per colonist -->
   <CurrentTotalAnimalBodySizePerColonist>Huidige totale dierlichaamsgrootte per kolonist</CurrentTotalAnimalBodySizePerColonist>
   <!-- EN: total bodysize per colonist -->
@@ -62,27 +62,27 @@
   <!-- EN: Disables -->
   <Disables>Schakelt uit</Disables>
   <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>Vereist een van de geboden</RequiresOnePrecept>
+  <RequiresOnePrecept>Vereist een van de leefregels</RequiresOnePrecept>
   <!-- EN: Required precepts -->
-  <RequiredPrecepts>Vereiste geboden</RequiredPrecepts>
+  <RequiredPrecepts>Vereiste leefregels</RequiredPrecepts>
   <!-- EN: Required rituals -->
   <RequiredRituals>Vereiste rituelen</RequiredRituals>
   <!-- EN: Disables precepts -->
-  <DisablesPrecepts>Schakelt geboden uit</DisablesPrecepts>
+  <DisablesPrecepts>Schakelt leefregels uit</DisablesPrecepts>
   <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>Schakelt {0} geboden uit.</DisablesPreceptsCount>
+  <DisablesPreceptsCount>Schakelt {0} leefregels uit.</DisablesPreceptsCount>
   <!-- EN: Styles -->
   <Styles>Stijlen</Styles>
   <!-- EN: Chance to have precept -->
-  <ChanceToHavePrecept>Kans om een gebod te hebben</ChanceToHavePrecept>
+  <ChanceToHavePrecept>Kans om een leefregel te hebben</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}'s favoriete kleur. Als meer dan {PERCENTAGE} van {PAWN_possessive} kleding deze kleur heeft, of de kleur van {PAWN_possessive} ideologie, zal {PAWN_objective} een beetje gelukkiger maken.\n\nJe kunt de kleur van kleding aanpassen met een stijltafel in combinatie met tinctoria verf.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort}'s favoriete kleur. Als meer dan {PERCENTAGE} van {PAWN_possessive} kleding deze kleur heeft, of de kleur van {PAWN_possessive} ideoligie, zal {PAWN_objective} een beetje gelukkiger maken.\n\nJe kunt de kleur van kleding aanpassen met een stijltafel in combinatie met tinctoria verf.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Stel de ideo kleur in</SetIdeoColor>
   <!-- EN: Set favorite color -->
   <SetFavoriteColor>Stel favoriete kleur in</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
-  <ConfigureIdeoligion>Configureer de ideologie van je factie</ConfigureIdeoligion>
+  <ConfigureIdeoligion>Configureer de ideoligie van je factie</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>Niet genoeg verf.</NotEnoughDye>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
@@ -92,7 +92,7 @@
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
   <IdeoCertaintyTooltip>{PAWN_labelShort} is {PERCENTAGE} zeker over {PAWN_possessive} geloof in {IDEO}</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
-  <DisabledByPrecept>Uitgeschakeld door gebod {0}</DisabledByPrecept>
+  <DisabledByPrecept>Uitgeschakeld door leefregel {0}</DisabledByPrecept>
   <!-- EN: Everyone -->
   <Everyone>Iedereen</Everyone>
 
@@ -280,7 +280,7 @@
   <!-- EN: add {0} -->
   <AddPrecept>{0} toevoegen</AddPrecept>
   <!-- EN: precept -->
-  <Precept>gebod</Precept>
+  <Precept>leefregel</Precept>
   <!-- EN: building -->
   <IdeoBuilding>gebouw</IdeoBuilding>
   <!-- EN: relic -->
@@ -470,11 +470,11 @@
   <RoleEffectGiveThoughtOnTended>Deel gedachte</RoleEffectGiveThoughtOnTended>
 
   <!-- EN: Assign colonists to your ideoligion -->
-  <AssignColonists>Wijs kolonisten toe aan je ideologie</AssignColonists>
+  <AssignColonists>Wijs kolonisten toe aan je ideoligie</AssignColonists>
   <!-- EN: Remove new ideoligion -->
-  <RemoveNewIdeoligion>Verwijder nieuwe ideologie</RemoveNewIdeoligion>
+  <RemoveNewIdeoligion>Verwijder nieuwe ideoligie</RemoveNewIdeoligion>
   <!-- EN: Make this your primary ideologion -->
-  <MakeIdeoligionPrimary>Maak dit je hoofdideologie</MakeIdeoligionPrimary>
+  <MakeIdeoligionPrimary>Maak dit je hoofdideoligie</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
@@ -496,10 +496,10 @@
   <!-- EN: Linked to -->
   <LinkedTo>Gekoppeld aan</LinkedTo>
   <!-- EN: Supply satellite -->
-  <SupplySatellite>Voorraadsatteliet</SupplySatellite>
+  <SupplySatellite>Voorraadsatelliet</SupplySatellite>
 
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>Kolonist wil schedel niet uit het lijk halen (mist het pro-schedelspies precept)</CannotExtractSkull>
+  <CannotExtractSkull>Kolonist wil schedel niet uit het lijk halen (mist de pro-schedelspies leefregel)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
   <TipPreviewRitualAmbienceSound>Voorbeeld van het rituele atmosfeergeluid</TipPreviewRitualAmbienceSound>
 
@@ -520,15 +520,15 @@
   <!-- EN: Ends in -->
   <BiosculpterCycleTimeRemaining>Eindigt over</BiosculpterCycleTimeRemaining>
   <!-- EN: Biotuned to -->
-  <BiosculpterBiotunedTo>Bioafgestemd op</BiosculpterBiotunedTo>
+  <BiosculpterBiotunedTo>Bio-afgestemd op</BiosculpterBiotunedTo>
   <!-- EN: Interrupt cycle -->
   <BiosculpterInteruptCycle>Onderbreek cyclus</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
-  <BiosculpterInteruptCycleDesc>Onderbreek de huidige cyclus. De inzittende wordt uitgeworpen zonder te profiteren van de effecten van de cyclus, en zal kort last hebben van biovormerziekte.</BiosculpterInteruptCycleDesc>
+  <BiosculpterInteruptCycleDesc>Onderbreek de huidige cyclus. De inzittende verlaat de capsule zonder te profiteren van de effecten van de cyclus, en zal kort last hebben van biovormerziekte.</BiosculpterInteruptCycleDesc>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
   <BiosculpterLoadingStartedMessage>Wanneer de biovormercapsule is gevuld met {NUTRITION} voeding, kun je een kolonist selecteren en rechts klikken op de biovormercapsule of op een neergehaalde persoon om de cyclus te beginnen.</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
-  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} is uit de biovormercapsule geworpen vanwege een stroomstoring.</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} heeft de biovormercapsule verlaten vanwege een stroomstoring.</BiosculpterNoPowerEjectedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} heeft een herstelcyclus voltooid.</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->

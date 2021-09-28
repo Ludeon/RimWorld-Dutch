@@ -3,191 +3,191 @@
 
   <!-- Ideoligions -->
   <!-- EN: Deities -->
-  <Deities>TODO</Deities>
+  <Deities>Godheden</Deities>
   <!-- EN: Show all ideoligions -->
-  <ButtonShowAllIdeoligions>TODO</ButtonShowAllIdeoligions>
+  <ButtonShowAllIdeoligions>Toon alle ideoligies</ButtonShowAllIdeoligions>
   <!-- EN: Ideoligion of -->
-  <IdeoligionOf>TODO</IdeoligionOf>
+  <IdeoligionOf>Ideoligie van</IdeoligionOf>
   <!-- EN: Memes -->
-  <Memes>TODO</Memes>
+  <Memes>Geloofsprincipes</Memes>
   <!-- EN: Narrative -->
-  <CoreNarrative>TODO</CoreNarrative>
+  <CoreNarrative>Verhaal</CoreNarrative>
   <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
-  <CoreNarrativeDesc>TODO</CoreNarrativeDesc>
+  <CoreNarrativeDesc>Het kernverhaal van je ideoligie. Dit heeft geen invloed op het spelverloop.</CoreNarrativeDesc>
   <!-- EN: Edit narrative -->
-  <EditNarrative>TODO</EditNarrative>
+  <EditNarrative>Verhaal bewerken</EditNarrative>
   <!-- EN: Clicking this button toggles a lock the current ideoligion narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
-  <LockButtonDesc>TODO</LockButtonDesc>
+  <LockButtonDesc>Als je op deze knop klikt, wordt het huidige ideoligieuze verhaal op slot gezet. Indien vergrendeld, wordt de verhaaltekst niet automatisch opnieuw gegenereerd als de ideoligie wordt gewijzigd.</LockButtonDesc>
   <!-- EN: Narrative lock is currently on. The narrative will not auto-regenerate. -->
-  <LockInOn>TODO</LockInOn>
+  <LockInOn>Verhaalvergrendeling is momenteel ingeschakeld. Het verhaal wordt niet automatisch opnieuw gegenereerd.</LockInOn>
   <!-- EN: Narrative lock is currently off. The narrative text can auto-regenerate. -->
-  <LockInOff>TODO</LockInOff>
+  <LockInOff>Verhaalvergrendeling is momenteel uitgeschakeld. Het verhaal kan automatisch opnieuw worden gegenereerd.</LockInOff>
   <!-- EN: Precepts -->
-  <Precepts>TODO</Precepts>
+  <Precepts>Leefregels</Precepts>
   <!-- EN: Rituals -->
-  <Rituals>TODO</Rituals>
+  <Rituals>Rituelen</Rituals>
   <!-- EN: Roles -->
-  <IdeoRoles>TODO</IdeoRoles>
+  <IdeoRoles>Rollen</IdeoRoles>
   <!-- EN: Buildings -->
-  <IdeoBuildings>TODO</IdeoBuildings>
+  <IdeoBuildings>Gebouwen</IdeoBuildings>
   <!-- EN: Relics -->
-  <IdeoRelics>TODO</IdeoRelics>
+  <IdeoRelics>Relikwieën</IdeoRelics>
   <!-- EN: Preferred apparel -->
-  <IdeoApparel>TODO</IdeoApparel>
+  <IdeoApparel>Voorkeurskleding</IdeoApparel>
   <!-- EN: apparel desire -->
-  <IdeoApparelDesire>TODO</IdeoApparelDesire>
+  <IdeoApparelDesire>kledingwens</IdeoApparelDesire>
   <!-- EN: Won't do -->
-  <UnwillingToDoIdeoAction>TODO</UnwillingToDoIdeoAction>
+  <UnwillingToDoIdeoAction>Zal niet</UnwillingToDoIdeoAction>
   <!-- EN: Stats -->
-  <PreceptStats>TODO</PreceptStats>
+  <PreceptStats>Stats</PreceptStats>
   <!-- EN: Prohibitions -->
-  <Prohibitions>TODO</Prohibitions>
+  <Prohibitions>Verboden</Prohibitions>
   <!-- EN: Opinions -->
-  <Opinions>TODO</Opinions>
+  <Opinions>Opinies</Opinions>
   <!-- EN: Randomize name -->
-  <RandomizeName>TODO</RandomizeName>
+  <RandomizeName>Willekeurig</RandomizeName>
   <!-- EN: Randomize precepts -->
-  <RandomizePrecepts>TODO</RandomizePrecepts>
+  <RandomizePrecepts>Willekeurig</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>TODO</AddPrecept>
+  <AddPrecept>Leefregel toevoegen</AddPrecept>
   <!-- EN: Randomize deities -->
-  <RandomizeDeities>TODO</RandomizeDeities>
+  <RandomizeDeities>Willekeurig</RandomizeDeities>
   <!-- EN: Add deity -->
-  <AddDeity>TODO</AddDeity>
+  <AddDeity>Godheid toevoegen</AddDeity>
   <!-- EN: Choose memes -->
-  <ChooseMemes>TODO</ChooseMemes>
+  <ChooseMemes>Kies geloofsprincipes</ChooseMemes>
   <!-- EN: Choose structure -->
-  <ChooseStructure>TODO</ChooseStructure>
+  <ChooseStructure>Kies structuur</ChooseStructure>
   <!-- EN: Choose culture -->
-  <ChooseCulture>TODO</ChooseCulture>
+  <ChooseCulture>Kies cultuur</ChooseCulture>
   <!-- EN: Culture -->
-  <Culture>TODO</Culture>
+  <Culture>Cultuur</Culture>
   <!-- EN: Culture affects names, appearances, and symbols. -->
-  <CultureTip>TODO</CultureTip>
+  <CultureTip>Cultuur heeft invloed op namen, uiterlijk en symbolen.</CultureTip>
   <!-- EN: Structure -->
-  <StructureMeme>TODO</StructureMeme>
+  <StructureMeme>Structuur</StructureMeme>
   <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
-  <StructureMemeTip>TODO</StructureMemeTip>
+  <StructureMemeTip>De structuur van een ideoligie bepaalt het soort entiteiten en krachten die het als belangrijk beschouwt voor de morele structuur van het universum. Het heeft geen directe invloed op het spelverloop.</StructureMemeTip>
   <!-- EN: Adjective -->
-  <Adjective>TODO</Adjective>
+  <Adjective>Bijvoeglijk naamwoord</Adjective>
   <!-- EN: Ritual room -->
-  <WorshipRoom>TODO</WorshipRoom>
+  <WorshipRoom>Rituele kamer</WorshipRoom>
   <!-- EN: Member noun -->
-  <IdeoMembers>TODO</IdeoMembers>
+  <IdeoMembers>Aanduiding lid</IdeoMembers>
   <!-- EN: Member plural -->
-  <IdeoMembersPlural>TODO</IdeoMembersPlural>
+  <IdeoMembersPlural>Meervoud</IdeoMembersPlural>
   <!-- EN: Edit symbols -->
-  <EditSymbols>TODO</EditSymbols>
+  <EditSymbols>Symbolen bewerken</EditSymbols>
   <!-- EN: Edit deity -->
-  <EditDeity>TODO</EditDeity>
+  <EditDeity>Godheid bewerken</EditDeity>
   <!-- EN: Edit required apparel -->
-  <EditApparelRequirement>TODO</EditApparelRequirement>
+  <EditApparelRequirement>Vereiste kleding bewerken</EditApparelRequirement>
   <!-- EN: Edit name -->
-  <EditName>TODO</EditName>
+  <EditName>Naam bewerken</EditName>
   <!-- EN: Any time -->
-  <StartingCondition_Anytime>TODO</StartingCondition_Anytime>
+  <StartingCondition_Anytime>Te allen tijde</StartingCondition_Anytime>
   <!-- EN: Date -->
-  <StartingCondition_Date>TODO</StartingCondition_Date>
+  <StartingCondition_Date>Datum</StartingCondition_Date>
   <!-- EN: Starting condition -->
-  <StartingCondition>TODO</StartingCondition>
+  <StartingCondition>Startconditie</StartingCondition>
   <!-- EN: Edit -->
-  <Edit>TODO</Edit>
+  <Edit>Bewerken</Edit>
   <!-- EN: Randomize symbols -->
-  <RandomizeSymbols>TODO</RandomizeSymbols>
+  <RandomizeSymbols>Willekeurig</RandomizeSymbols>
   <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
-  <RandomizeSymbolsTooltip>TODO</RandomizeSymbolsTooltip>
+  <RandomizeSymbolsTooltip>Genereert willekeurig ideoligienaam, pictogram, verhaal, leidertitel en andere teksten zoals rituele namen of rolnamen. Dit heeft geen invloed op gameplay-elementen zoals geloofsprincipes of leefregels.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
-  <ClickAnyElementToEditIt>TODO</ClickAnyElementToEditIt>
+  <ClickAnyElementToEditIt>Klik op een element om het te bewerken</ClickAnyElementToEditIt>
   <!-- EN: Click to edit -->
-  <ClickToEdit>TODO</ClickToEdit>
+  <ClickToEdit>Klik om te bewerken</ClickToEdit>
   <!-- EN: Leader title -->
-  <LeaderTitle>TODO</LeaderTitle>
+  <LeaderTitle>Leidertitel</LeaderTitle>
   <!-- EN: Deity name -->
-  <DeityName>TODO</DeityName>
+  <DeityName>Naam</DeityName>
   <!-- EN: Deity title -->
-  <DeityTitle>TODO</DeityTitle>
+  <DeityTitle>Titel</DeityTitle>
   <!-- EN: Deity gender -->
-  <DeityGender>TODO</DeityGender>
+  <DeityGender>Geslacht</DeityGender>
   <!-- EN: Name -->
-  <Name>TODO</Name>
+  <Name>Naam</Name>
   <!-- EN: Icon -->
-  <Icon>TODO</Icon>
+  <Icon>Icoon</Icon>
   <!-- EN: Related to meme -->
-  <RelatedToMeme>TODO</RelatedToMeme>
+  <RelatedToMeme>Gerelateerd aan geloofsprincipe</RelatedToMeme>
   <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
-  <IdeoCharityQuestInfo>TODO</IdeoCharityQuestInfo>
+  <IdeoCharityQuestInfo>Dit is een opdracht voor een goed doel. Als je hem niet vervult, zullen gelovigen in {0} ongelukkig zijn vanwege hun liefdadigheidsgeloof. Als je het wel doet, zullen gelovigen in {0} blij zijn ({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
-  <WorkDisabledSlave>TODO</WorkDisabledSlave>
+  <WorkDisabledSlave>Slaven zullen dit werk niet doen</WorkDisabledSlave>
   <!-- EN: Disabled by {0} role -->
-  <WorkDisabledRole>TODO</WorkDisabledRole>
+  <WorkDisabledRole>Uitgeschakeld door {0} rol</WorkDisabledRole>
   <!-- EN: Affected by traits -->
-  <AffectedByTraits>TODO</AffectedByTraits>
+  <AffectedByTraits>Beïnvloed door eigenschappen</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
-  <CharityQuestTip>TODO</CharityQuestTip>
+  <CharityQuestTip>Dit is een opdracht voor een goed doel. Mensen met liefdadige overtuigingen zullen worden beïnvloed door de uitkomst.</CharityQuestTip>
   <!-- EN: formerly -->
-  <Formerly>TODO</Formerly>
+  <Formerly>voormalig</Formerly>
   <!-- EN: all -->
-  <All>TODO</All>
+  <All>alle</All>
   <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
-  <RelicTip>TODO</RelicTip>
+  <RelicTip>Relikwieën zijn objecten van spirituele of ideologische betekenis. Ze kunnen worden ontdekt door lange en gevaarlijke missies te voltooien. Een relikwie kan in een reliekschrijn worden geïnstalleerd om pelgrims aan te trekken, rituelen te verbeteren en het vermogen van een ideoligie om buitenstaanders te bekeren te versterken.</RelicTip>
   <!-- EN: animal -->
-  <Animal>TODO</Animal>
+  <Animal>dier</Animal>
   <!-- EN: Venerated animals -->
-  <VeneratedAnimals>TODO</VeneratedAnimals>
+  <VeneratedAnimals>vereerde dieren</VeneratedAnimals>
   <!-- EN: weapon pair -->
-  <IdeoWeapon>TODO</IdeoWeapon>
+  <IdeoWeapon>wapenpaar</IdeoWeapon>
   <!-- EN: Weapons -->
-  <IdeoWeapons>TODO</IdeoWeapons>
+  <IdeoWeapons>Wapens</IdeoWeapons>
   <!-- EN: Swap noble and despised -->
-  <SwapNobleAndDespised>TODO</SwapNobleAndDespised>
+  <SwapNobleAndDespised>Verwissel nobel en veracht</SwapNobleAndDespised>
   <!-- EN: noble -->
-  <Noble>TODO</Noble>
+  <Noble>nobel</Noble>
   <!-- EN: despised -->
-  <Despised>TODO</Despised>
+  <Despised>veracht</Despised>
   <!-- EN: Unlocked craftables -->
-  <UnlockedRecipes>TODO</UnlockedRecipes>
+  <UnlockedRecipes>Ontgrendelde voorwerpen</UnlockedRecipes>
   <!-- EN: Start with research -->
-  <IdeoStartWithResearch>TODO</IdeoStartWithResearch>
+  <IdeoStartWithResearch>Begin met onderzoek</IdeoStartWithResearch>
   <!-- EN: Agreeing traits -->
-  <AgreeableTraits>TODO</AgreeableTraits>
+  <AgreeableTraits>Overeenkomende eigenschappen</AgreeableTraits>
   <!-- EN: Conflicting traits -->
-  <DisagreeableTraits>TODO</DisagreeableTraits>
+  <DisagreeableTraits>Conflicterende eigenschappen</DisagreeableTraits>
   <!-- EN: Shooting -->
-  <Shooting>TODO</Shooting>
+  <Shooting>Schieten</Shooting>
   <!-- EN: Impact -->
-  <IdeoImpact>TODO</IdeoImpact>
+  <IdeoImpact>Invloed</IdeoImpact>
   <!-- EN: Overall impact -->
-  <IdeoImpactOverall>TODO</IdeoImpactOverall>
+  <IdeoImpactOverall>Totale invloed</IdeoImpactOverall>
   <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
-  <IdeoImpactOverallDesc>TODO</IdeoImpactOverallDesc>
+  <IdeoImpactOverallDesc>Sommige geloofsprincipes hebben meer invloed op het spelverloop dan andere. De invloedscore van het geloofsprincipe geeft een idee van hoe groot de invloed op het spelverloop is.</IdeoImpactOverallDesc>
   <!-- EN: low -->
-  <IdeoMemeImpactLabel_1>TODO</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_1>klein</IdeoMemeImpactLabel_1>
   <!-- EN: medium -->
-  <IdeoMemeImpactLabel_2>TODO</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_2>gematigd</IdeoMemeImpactLabel_2>
   <!-- EN: high -->
-  <IdeoMemeImpactLabel_3>TODO</IdeoMemeImpactLabel_3>
+  <IdeoMemeImpactLabel_3>groot</IdeoMemeImpactLabel_3>
   <!-- EN: low -->
-  <IdeoImpactLabel_1>TODO</IdeoImpactLabel_1>
+  <IdeoImpactLabel_1>laag</IdeoImpactLabel_1>
   <!-- EN: low -->
-  <IdeoImpactLabel_2>TODO</IdeoImpactLabel_2>
+  <IdeoImpactLabel_2>laag</IdeoImpactLabel_2>
   <!-- EN: moderate -->
-  <IdeoImpactLabel_3>TODO</IdeoImpactLabel_3>
+  <IdeoImpactLabel_3>gematigd</IdeoImpactLabel_3>
   <!-- EN: moderate -->
-  <IdeoImpactLabel_4>TODO</IdeoImpactLabel_4>
+  <IdeoImpactLabel_4>gematigd</IdeoImpactLabel_4>
   <!-- EN: strong -->
-  <IdeoImpactLabel_5>TODO</IdeoImpactLabel_5>
+  <IdeoImpactLabel_5>groot</IdeoImpactLabel_5>
   <!-- EN: strong -->
-  <IdeoImpactLabel_6>TODO</IdeoImpactLabel_6>
+  <IdeoImpactLabel_6>groot</IdeoImpactLabel_6>
   <!-- EN: very strong -->
-  <IdeoImpactLabel_7>TODO</IdeoImpactLabel_7>
+  <IdeoImpactLabel_7>zeer groot</IdeoImpactLabel_7>
   <!-- EN: very strong -->
-  <IdeoImpactLabel_8>TODO</IdeoImpactLabel_8>
+  <IdeoImpactLabel_8>zeer groot</IdeoImpactLabel_8>
   <!-- EN: extreme -->
-  <IdeoImpactLabel_9>TODO</IdeoImpactLabel_9>
+  <IdeoImpactLabel_9>extreem</IdeoImpactLabel_9>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
+  <ResearchProjectHasDefsWithMissingMemes>{0} ontgrendelt dingen die je niet kunt bouwen omdat ze geloofsprincipes nodig hebben waar geen van je mensen in gelooft</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
-  <SelectedWorkTypeOpposedByIdeo>TODO</SelectedWorkTypeOpposedByIdeo>
+  <SelectedWorkTypeOpposedByIdeo>Waarschuwing: dit soort werk wordt druist in tegen {0_possessive} ideoligie, dus het kan deze persoon ongelukkig maken.</SelectedWorkTypeOpposedByIdeo>
 
 </LanguageData>

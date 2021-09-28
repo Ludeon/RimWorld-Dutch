@@ -2,33 +2,37 @@
 <LanguageData>
 
   <!-- EN: Create or select an ideoligion for your faction. -->
-  <MessageMustChooseIdeo>TODO</MessageMustChooseIdeo>
+  <MessageMustChooseIdeo>Creëer of selecteer een ideoligie voor je factie.</MessageMustChooseIdeo>
   <!-- EN: The ideoligion name can't be empty. -->
-  <MessageIdeoNameCantBeEmpty>TODO</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoNameCantBeEmpty>De naam van de ideoligie mag niet leeg zijn.</MessageIdeoNameCantBeEmpty>
   <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
-  <MessageIdeoIncompatiblePrecepts>TODO</MessageIdeoIncompatiblePrecepts>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} en {PRECEPT2} zijn niet compatibel.</MessageIdeoIncompatiblePrecepts>
+  <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
   <!-- EN: {PRECEPT} needs one of these buildings -->
-  <MessageRitualMissingTarget>TODO</MessageRitualMissingTarget>
+  <MessageRitualMissingTarget>{PRECEPT} heeft een van deze gebouwen nodig</MessageRitualMissingTarget>
   <!-- EN: {PRECEPT} needs an associated ritual. -->
-  <MessageBuildingMissingRitual>TODO</MessageBuildingMissingRitual>
+  <MessageBuildingMissingRitual>{PRECEPT} heeft een bijbehorend ritueel nodig.</MessageBuildingMissingRitual>
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
-  <MessagePawnUnwillingToDoDueToIdeo>TODO</MessagePawnUnwillingToDoDueToIdeo>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} weigert dit te doen vanwege {0_possessive} ideoligie.</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
-  <MessageFailedConvertIdeoAttempt>TODO</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} probeerde {RECIPIENT_nameDef} te bekeren tot {INITIATOR_possessive} ideoligie. De zekerheid van {RECIPIENT_nameDef} is gedaald van {CERTAINTYBEFORE} naar {CERTAINTYAFTER}. {RECIPIENT_pronoun} heeft een weerzin tegen de poging tot bekering.</MessageFailedConvertIdeoAttempt>
   <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
-  <MessageFailedConvertIdeoAttemptSocialFight>TODO</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} probeerde {PAWN2_nameDef} te bekeren tot {PAWN1_possessive} ideoligie. Dit leidde tot een sociaal gevecht!</MessageFailedConvertIdeoAttemptSocialFight>
   <!-- EN: You must choose at least {0} memes. -->
-  <MessageNotEnoughMemes>TODO</MessageNotEnoughMemes>
+  <MessageNotEnoughMemes>Je moet ten minste {0} geloofsprincipes kiezen.</MessageNotEnoughMemes>
   <!-- EN: You can't choose more than {0} memes. -->
-  <MessageTooManyMemes>TODO</MessageTooManyMemes>
+  <MessageTooManyMemes>Je kunt niet meer dan {0} geloofsprincipes kiezen.</MessageTooManyMemes>
   <!-- EN: You must choose a structure meme. -->
-  <MessageNotEnoughStructureMemes>TODO</MessageNotEnoughStructureMemes>
+  <MessageNotEnoughStructureMemes>Je moet een structuurprincipe kiezen.</MessageNotEnoughStructureMemes>
   <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
-  <MessageIncompatibleMemes>TODO</MessageIncompatibleMemes>
+  <MessageIncompatibleMemes>{0_label} en {1_label} zijn niet compatibel met elkaar.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
-  <MessageNoRequiredRolePawnToBeginRitual>TODO</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNoRequiredRolePawnToBeginRitual>Je hebt {0} nodig om {1} te starten.</MessageNoRequiredRolePawnToBeginRitual>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
-  <MessageNeedAssignedRoleToBeginRitual>TODO</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAssignedRoleToBeginRitual>Voordat je {1} kunt starten, moet je iemand de rol van {0} toewijzen.</MessageNeedAssignedRoleToBeginRitual>
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>TODO</MessageRoleAssigned>
@@ -90,6 +94,8 @@
   <CannotRemoveMemeRequiredPlayer>TODO</CannotRemoveMemeRequiredPlayer>
   <!-- EN: Required by {FACTION_name}. -->
   <RequiredByFaction>TODO</RequiredByFaction>
+  <!-- EN: Roles cannot have overlapping apparel requirements. -->
+  <OverlappingRoleApparel>TODO</OverlappingRoleApparel>
   
   <!-- EN: {0_label} will self-destruct in {1}. -->
   <SelfDestructCountdown>TODO</SelfDestructCountdown>
@@ -131,5 +137,11 @@
   <MessageInfestationDelayActivated>TODO</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
   <MessageFuelNodeDelayActivated>TODO</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+
+  <!-- Fluid ideo messages -->
+  <!-- EN: Development points changed from {0} to {1} ({2}). -->
+  <MessageDevelopmentPointsEarned>TODO</MessageDevelopmentPointsEarned>
+  <!-- EN: Only one change to structures, memes and styles is allowed. -->
+  <MessageFluidIdeoOneChangeAllowed>TODO</MessageFluidIdeoOneChangeAllowed>
 
 </LanguageData>

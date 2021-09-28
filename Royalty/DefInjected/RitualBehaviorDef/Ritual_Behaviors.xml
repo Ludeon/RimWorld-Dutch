@@ -3,7 +3,7 @@
   
   <!-- EN: linker -->
   <AnimaTreeLinking.roles.0.label>verbinder</AnimaTreeLinking.roles.0.label>
-  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
   <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Vereist een kolonist met natuurlijk meditatiefocustype onder het maximale psylink niveau.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <!-- EN: Must have natural focus type. -->
   <AnimaTreeLinking.spectatorFilter.description>Vereist een natuurlijk meditatiefocustype</AnimaTreeLinking.spectatorFilter.description>

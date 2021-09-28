@@ -16,6 +16,9 @@
   <!-- EN: cut tree -->
   <CutTree.label>boom omgehakt</CutTree.label>
   
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>TODO</DestroyedMineable.label>
+  
   <!-- EN: used drug -->
   <IngestedDrug.label>drugs gebruikt</IngestedDrug.label>
   
@@ -30,6 +33,9 @@
   
   <!-- EN: mined -->
   <Mined.label>gedolven</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>TODO</MinifiedTreeDied.label>
   
   <!-- EN: researching -->
   <Researching.label>onderzoeken</Researching.label>

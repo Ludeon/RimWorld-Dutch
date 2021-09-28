@@ -1,8 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: Choose your faction's ideoligion -->
-  <ChooseIdeoligion>Kies de ideoligie van je factie</ChooseIdeoligion>
+  <!-- EN: Customize ideoligion -->
+  <CustomizeIdeoligion>TODO</CustomizeIdeoligion>
+  <!-- EN: Choose your ideoligion -->
+  <ChooseYourIdeoligion>TODO</ChooseYourIdeoligion>
+  <!-- EN: Random -->
+  <Random>TODO</Random>
+  <!-- EN: A random structure will be used for your ideoligion. -->
+  <RandomStructureTip>TODO</RandomStructureTip>
+  <!-- EN: A random style will be used for your ideoligion. -->
+  <RandomStyleTip>TODO</RandomStyleTip>
+  <!-- EN: Customize -->
+  <Customize>TODO</Customize>
+  <!-- EN: Play classic -->
+  <PlayClassic>TODO</PlayClassic>
+  <!-- EN: Create fluid... -->
+  <CreateFluid>TODO</CreateFluid>
+  <!-- EN: Load saved -->
+  <LoadSaved>TODO</LoadSaved>
+  <!-- EN: Structure -->
+  <Structure>TODO</Structure>
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <ChooseYourIdeoligionDesc>TODO</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>Aangepaste ideoligie</CreateCustom>
   <!-- EN: Create new -->
@@ -79,12 +99,14 @@
   <FavoriteColorTooltip>{PAWN_labelShort}'s favoriete kleur. Als meer dan {PERCENTAGE} van {PAWN_possessive} kleding deze kleur heeft, of de kleur van {PAWN_possessive} ideoligie, zal {PAWN_objective} een beetje gelukkiger maken.\n\nJe kunt de kleur van kleding aanpassen met een stijltafel in combinatie met tinctoria verf.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Stel de ideo kleur in</SetIdeoColor>
-  <!-- EN: Set favorite color -->
+  <!-- EN: Set to favorite color -->
   <SetFavoriteColor>Stel favoriete kleur in</SetFavoriteColor>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>Configureer de ideoligie van je factie</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>Niet genoeg verf.</NotEnoughDye>
+  <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
+  <ApparelLockedCannotRecolor>TODO</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
   <NotEnoughDyeWillRecolorApparel>De kolonist zal zijn kleding kleuren wanneer verf beschikbaar is.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
@@ -95,6 +117,30 @@
   <DisabledByPrecept>Uitgeschakeld door leefregel {0}</DisabledByPrecept>
   <!-- EN: Everyone -->
   <Everyone>Iedereen</Everyone>
+  <!-- EN: Narrative -->
+  <Narrative>TODO</Narrative>
+  <!-- EN: narrative -->
+  <NarrativeLower>TODO</NarrativeLower>
+  <!-- EN: Precept name -->
+  <PreceptName>TODO</PreceptName>
+  <!-- EN: precept name -->
+  <PreceptNameLower>TODO</PreceptNameLower>
+  <!-- EN: Changing {0} -->
+  <Changing>TODO</Changing>
+  <!-- EN: structures -->
+  <StructuresLower>TODO</StructuresLower>
+  <!-- EN: memes -->
+  <MemesLower>TODO</MemesLower>
+  <!-- EN: Development points -->
+  <Reward_DevelopmentPointsLabel>TODO</Reward_DevelopmentPointsLabel>
+  <!-- EN: Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals. -->
+  <Reward_DevelopmentPoints>TODO</Reward_DevelopmentPoints>
+  <!-- EN: Current points -->
+  <CurrentDevelopmentPoints>TODO</CurrentDevelopmentPoints>
+  <!-- EN: Points needed to reform -->
+  <ReformDevelopmentPoints>TODO</ReformDevelopmentPoints>
+  <!-- EN: quest -->
+  <QuestLower>TODO</QuestLower>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>Een graf met {PAWN_labelShort}'s lijk.</RitualTargetGraveInfo>
@@ -132,6 +178,8 @@
   <RitualTargetUnconnectedGaruanlenTreeInfo>Een niet verbonden Gauranlen boom.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>Al verbonden met {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
+  <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
+  <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>Je hebt {0} hout nodig voor elke deelnemer (toaal {2}). Je hebt {1} hout.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
@@ -157,6 +205,11 @@
   <RitualOutcomeExtraDesc_SkylanternWanderers>Je vuurballonnen hebben vriendelijke reizigers aangetrokken. Ze zullen je bezoek en een cadeau achterlaten.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
   <RitualOutcomeExtraDesc_Execution>Alle participerende slaven zijn geschokt door de dood. Hun onderdrukking is nu op het maximale niveau.</RitualOutcomeExtraDesc_Execution>
+  
+  <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
   <!-- EN: Additional reward -->
   <RitualAttachedReward>Bijkomende beloning</RitualAttachedReward>
@@ -219,6 +272,10 @@
   <RitualOutcomeCompTip_RitualTargetDefsPart1>Voor de beste kwaliteit, begin de {0} op {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart2>Op dit moment wordt met de {0} begonnen bij {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <!-- EN: Development points -->
+  <RitualDevelopmentPoints>TODO</RitualDevelopmentPoints>
+  <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
+  <RitualDevelopmentPointsTip>TODO</RitualDevelopmentPointsTip>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>Voor slavengebruik</ForSlaveUse>
@@ -262,6 +319,8 @@
   <RoleExpectationOffset>Met {0} niveaus verhoogd.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>De {0} heeft hogere verwachtingen.</RoleRaisedExpectation>
+  <!-- EN: The {0} will have higher expectations in {1}. -->
+  <RoleRaisedExpectationGracePeriod>TODO</RoleRaisedExpectationGracePeriod>
   <!-- EN: Led by {0} -->
   <IdeoLeaderDifferentIdeoThoughtLabel>Geleid door {0}</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
@@ -332,8 +391,6 @@
   <WorshippedTerminalRaidIncoming>Dorpelingen komen terug om de vereerde terminal te beschermen!</WorshippedTerminalRaidIncoming>
 
   <!-- Relic hunt -->
-  <!-- EN: First, you need to find the {0}. Watch for opportunities to gather information about it. -->
-  <RelicHuntFindRelicSite>Allereerst moet je de {0} vinden. Houd kansen in de gaten om informatie te verzamelen.</RelicHuntFindRelicSite>
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
   <RelicHuntFoundRelicSite>De relikwie is in een oud gebouw, beschermd door een meerlaags beveiligingsysteem.\n\nJe kunt de beveiligingstroepen één voor één uitschakelen, of het relikwie stelen en proberen te vluchten voor ze je te grazen kunnen nemen.</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
@@ -439,6 +496,8 @@
   <CurrentlyAffectedBy>Op dit moment beïnvloed door</CurrentlyAffectedBy>
   <!-- EN: {0} connection strength needed to support a dryad. -->
   <NotEnoughConnectionStrengthForSingleDryad>{0} verbindingssterkte vereist om een dryade te ondersteunen.</NotEnoughConnectionStrengthForSingleDryad>
+  <!-- EN: Cannot assign allowed area -->
+  <CannotAssignAllowedAreaToDryad>TODO</CannotAssignAllowedAreaToDryad>
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
@@ -473,7 +532,7 @@
   <AssignColonists>Wijs kolonisten toe aan je ideoligie</AssignColonists>
   <!-- EN: Remove new ideoligion -->
   <RemoveNewIdeoligion>Verwijder nieuwe ideoligie</RemoveNewIdeoligion>
-  <!-- EN: Make this your primary ideologion -->
+  <!-- EN: Make this your primary ideoligion -->
   <MakeIdeoligionPrimary>Maak dit je hoofdideoligie</MakeIdeoligionPrimary>
 
   <!-- Archonexus -->
@@ -525,13 +584,15 @@
   <BiosculpterInteruptCycle>Onderbreek cyclus</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
   <BiosculpterInteruptCycleDesc>Onderbreek de huidige cyclus. De inzittende verlaat de capsule zonder te profiteren van de effecten van de cyclus, en zal kort last hebben van biovormerziekte.</BiosculpterInteruptCycleDesc>
+  <!-- EN: Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old. -->
+  <BiosculpterUnderageAgeReversalMessage>TODO</BiosculpterUnderageAgeReversalMessage>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
   <BiosculpterLoadingStartedMessage>Wanneer de biovormercapsule is gevuld met {NUTRITION} voeding, kun je een kolonist selecteren en rechts klikken op de biovormercapsule of op een neergehaalde persoon om de cyclus te beginnen.</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
   <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} heeft de biovormercapsule verlaten vanwege een stroomstoring.</BiosculpterNoPowerEjectedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle. -->
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} heeft een herstelcyclus voltooid.</BiosculpterHealCompletedMessage>
-  <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
+  <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} heeft een herstelcyclus voltooid, en {PAWN_possesive} {HEDIFF_label} is genezen.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} heeft {PAWN_possessive} verjongingscyclus voltooid. {PAWN_pronoun} verwacht de volgende verjongingscyclus over {DEADLINE} dagen.</BiosculpterAgeReversalCompletedMessage>
@@ -539,5 +600,15 @@
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} heeft een gelukscyclus voltooid.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>Schoonmaak snelheidsfactor</BiosculpterCleanlinessSpeedFactor>
+  <!-- EN: These conditions will be healed -->
+  <HealingCycleWillHeal>TODO</HealingCycleWillHeal>
+  <!-- EN: One of these conditions will be healed -->
+  <HealingCycleOneWillHeal>TODO</HealingCycleOneWillHeal>
+  <!-- EN: Missing required research -->
+  <MissingRequiredResearch>TODO</MissingRequiredResearch>
+
+  <!-- UNUSED -->
+  <ChooseIdeoligion>Kies de ideoligie van je factie</ChooseIdeoligion>
+  <RelicHuntFindRelicSite>Allereerst moet je de {0} vinden. Houd kansen in de gaten om informatie te verzamelen.</RelicHuntFindRelicSite>
 
 </LanguageData>

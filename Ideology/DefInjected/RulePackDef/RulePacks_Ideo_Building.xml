@@ -63,7 +63,8 @@
     <li>r_ideoBuildingName->[keyDeity]'s [buildingName]</li>
     <li>r_ideoBuildingName->[buildingName] van [keyDeity]</li>
     <li>r_ideoBuildingName->[buildingName] van [memeConcept]</li>
-    <li>r_ideoBuildingName->[buildingName] van [chosenIdeoName]</li></NamerIdeoBuilding.rulePack.rulesStrings>
+    <li>r_ideoBuildingName->[buildingName] van [chosenIdeoName]</li>
+  </NamerIdeoBuilding.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->ideogram</li>
@@ -113,6 +114,6 @@
     <li>buildingName->gasser</li>
     <li>buildingName->damper</li>
     <li>buildingName->smeulder</li>
-    </NamerSmoker.rulePack.rulesStrings>
+  </NamerSmoker.rulePack.rulesStrings>
   
 </LanguageData>

@@ -2,136 +2,143 @@
 <LanguageData>
 
   <!-- EN: Need slave beds -->
-  <NeedSlaveBeds>TODO</NeedSlaveBeds>
+  <NeedSlaveBeds>Slavenbedden nodig</NeedSlaveBeds>
   <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedSlaveBedsDesc>TODO</NeedSlaveBedsDesc>
+  <NeedSlaveBedsDesc>Je hebt meer slaven dan slavenbedden. Iemand zal geen slaapplaats hebben.\n\nMaak meer bedden, of verander een kolonisten- of gevangenenbed in een slavenbed.\n\nAls je geen middelen hebt, gebruik dan slaapplekken. Deze zijn gratis en kunnen direct worden geplaatst.</NeedSlaveBedsDesc>
 
   <!-- EN: Slave unsuppressed -->
-  <SlavesUnsuppressedLabel>TODO</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedLabel>Slaaf niet onderdrukt</SlavesUnsuppressedLabel>
   <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
-  <SlavesUnsuppressedDesc>TODO</SlavesUnsuppressedDesc>
+  <SlavesUnsuppressedDesc>Het onderdrukkingsniveau van {0_nameDef} is gevaarlijk laag. De kans is groot dat {0_pronoun} in opstand komt.\n\nZorg ervoor dat er een kolonist is toegewezen aan werk als bewaker. Bewakers zullen slaven periodiek onderdrukken om te voorkomen dat ze in opstand komen.</SlavesUnsuppressedDesc>
   <!-- EN: Slave unattended -->
-  <SlaveUnattendedLabel>TODO</SlaveUnattendedLabel>
+  <SlaveUnattendedLabel>Slaaf zonder toezicht</SlaveUnattendedLabel>
   <!-- EN: Slaves unattended -->
-  <SlaveUnattendedMultipleLabel>TODO</SlaveUnattendedMultipleLabel>
+  <SlaveUnattendedMultipleLabel>Slaven zonder toezicht</SlaveUnattendedMultipleLabel>
   <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
-  <SlavesUnattendedDesc>TODO</SlavesUnattendedDesc>
+  <SlavesUnattendedDesc>Sommige slaven zijn alleen op een kaart zonder weerbare kolonisten in de buurt.\n\nSlaven die zo onbeheerd worden achtergelaten, zullen zeer waarschijnlijk binnen dagen of uren in opstand komen.</SlavesUnattendedDesc>
 
   <!-- EN: {0} expected -->
-  <RitualExpected>TODO</RitualExpected>
+  <RitualExpected>{0} verwacht</RitualExpected>
   <!-- EN: {0} expected for -->
-  <RitualExpectedFor>TODO</RitualExpectedFor>
+  <RitualExpectedFor>{0} verwacht voor</RitualExpectedFor>
   <!-- EN: {0} days: Ritual opportunity ends. -->
-  <RitualExpirationTime>TODO</RitualExpirationTime>
+  <RitualExpirationTime>{0} dagen: gelegenheid voor ritueel loopt af.</RitualExpirationTime>
   <!-- EN: Expires in -->
-  <RitualExpiresIn>TODO</RitualExpiresIn>
+  <RitualExpiresIn>Loopt af over</RitualExpiresIn>
   <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
-  <RitualCompletionEffects>TODO</RitualCompletionEffects>
+  <RitualCompletionEffects>Het voltooien van {RITUAL_labelDef} heeft deze effecten</RitualCompletionEffects>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
-  <RitualTargetsExplanation>TODO</RitualTargetsExplanation>
+  <RitualTargetsExplanation>Om het ritueel te beginnen, selecteer een focusobject en klik op de opdracht 'Begin {RITUAL_label}'. Geldige focusobjecten zijn:\n{1}</RitualTargetsExplanation>
   <!-- EN: Following roles have a part in {RITUAL_label}:\n{1} -->
-  <RitualRolesExplanation>TODO</RitualRolesExplanation>
+  <RitualRolesExplanation>De volgende rollen nemen deel aan {RITUAL_label}:\n{1}</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
-  <RitualJumpToTargets>TODO</RitualJumpToTargets>
+  <RitualJumpToTargets>Klik om naar doelen te springen</RitualJumpToTargets>
   <!-- EN: Delaying {RITUAL_labelDef} will have following effects -->
-  <RitualObligationDelayEffects>TODO</RitualObligationDelayEffects>
+  <RitualObligationDelayEffects>Het uitstellen van {RITUAL_labelDef} heeft de volgende effecten:</RitualObligationDelayEffects>
   <!-- EN: {0} days: {1} mood on all {2}s. -->
-  <RitualObligationDelayEffectDesc>TODO</RitualObligationDelayEffectDesc>
+  <RitualObligationDelayEffectDesc>{0} dagen: {1} stemming op alle {2}.</RitualObligationDelayEffectDesc>
   <!-- EN: In order to perform {0} you need to fill these roles -->
-  <RitualUnfilledRoles>TODO</RitualUnfilledRoles>
+  <RitualUnfilledRoles>Om {0} uit te voeren, moet je deze rollen invullen</RitualUnfilledRoles>
 
   <!-- EN: {0} desired -->
-  <IdeoBuildingMissing>TODO</IdeoBuildingMissing>
-  <!-- EN: {1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>TODO</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissing>{0} gewenst</IdeoBuildingMissing>
+  <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingMissingDesc>{1} vereist dat je een {0} in je kolonie hebt zolang {2} of hoger.{4}\n\nAls niet aan de vereiste wordt voldaan, zullen deze gelovigen ongelukkig worden:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
-  <IdeoBuildingRoomRequirementsDesc>TODO</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingRoomRequirementsDesc>Om {0} waardig te zijn, moet aan deze kamervereisten worden voldaan</IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->
-  <IdeoBuildingExpectations>TODO</IdeoBuildingExpectations>
+  <IdeoBuildingExpectations>verwachtingen zijn</IdeoBuildingExpectations>
 
   <!-- EN: {0} disrespected -->
-  <IdeoBuildingDisrespected>TODO</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespected>{0} niet gerespecteerd</IdeoBuildingDisrespected>
   <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingDisrespectedDesc>TODO</IdeoBuildingDisrespectedDesc>
+  <IdeoBuildingDisrespectedDesc>{0} vereist dat {1} zich in een waardige kamer bevindt. Aan deze kamervereisten moet worden voldaan:\n{2}\n\nAls niet aan de kamervereisten van de {1} wordt voldaan, zullen deze gelovigen ongelukkig worden:\n{3}</IdeoBuildingDisrespectedDesc>
   
   <!-- EN: Raids arriving in {0} -->
-  <QuestPartRaidsDelay>TODO</QuestPartRaidsDelay>
+  <QuestPartRaidsDelay>Overvallen arriveren over {0}</QuestPartRaidsDelay>
   <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
-  <QuestPartRaidsDelayDesc>TODO</QuestPartRaidsDelayDesc>
+  <QuestPartRaidsDelayDesc>Aanvallers zullen arriveren in {0}.\n\nDe aanvallers zullen zich richten op de ruimtedrone en proberen deze te vernietigen. Bescherm de ruimtedrone zodat je kolonisten de computer kunnen hacken en de gegevens kunnen ophalen.</QuestPartRaidsDelayDesc>
 
   <!-- EN: {0} role unfilled -->
-  <IdeoRoleEmpty>TODO</IdeoRoleEmpty>
+  <IdeoRoleEmpty>{0} rol niet ingevuld</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
-  <IdeoRolesEmpty>TODO</IdeoRolesEmpty>
+  <IdeoRolesEmpty>{0} rollen niet ingevuld</IdeoRolesEmpty>
   <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>TODO</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>Deze rollen zijn niet ingevuld:\n{0}\n\Je kunt iemand een rol toewijzen op het tabblad Sociaal.\in\Als deze rollen leeg blijven, zullen de volgende mensen ongelukkig zijn</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
-  <AncientAltarThreatsWaking>TODO</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWaking>Beveiligingsbedreigingen geactiveerd in {0}</AncientAltarThreatsWaking>
   <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
-  <AncientAltarThreatsWakingDesc>TODO</AncientAltarThreatsWakingDesc>
+  <AncientAltarThreatsWakingDesc>Beveiligingsbedreigingen worden geactiveerd in {0}. Ze zullen iedereen aanvallen die het relikwie bedreigen.</AncientAltarThreatsWakingDesc>
 
   <!-- EN: No recent slaughter -->
-  <AlertNoRecentSlaughter>TODO</AlertNoRecentSlaughter>
+  <AlertNoRecentSlaughter>Geen recente slachting</AlertNoRecentSlaughter>
   <!-- EN: No large {0} animal has been slaughtered recently. This is a requirement of the following ideoligions -->
-  <AlertNoRecentSlaughterDesc>TODO</AlertNoRecentSlaughterDesc>
+  <AlertNoRecentSlaughterDesc>Er is onlangs geen groot dier {0} geslacht. Dit is een vereiste van de volgende ideoligies</AlertNoRecentSlaughterDesc>
   <!-- EN: {0} body size or above -->
-  <BodySizeOrAbove>TODO</BodySizeOrAbove>
+  <BodySizeOrAbove>{0} lichaamslengte of groter</BodySizeOrAbove>
   <!-- EN: If no slaughter is performed, these colonists will remain unhappy -->
-  <AlertNoRecentSlaughterDescPost>TODO</AlertNoRecentSlaughterDescPost>
+  <AlertNoRecentSlaughterDescPost>Als er geen slachting wordt uitgevoerd, blijven deze kolonisten ongelukkig</AlertNoRecentSlaughterDescPost>
   
   <!-- EN: Ritual opportunity soon -->
-  <AlertRitualComing>TODO</AlertRitualComing>
+  <AlertRitualComing>Gelegenheid voor ritueel binnenkort</AlertRitualComing>
   <!-- EN: A ritual opportunity is coming soon for following rituals -->
-  <AlertRitualComingDesc>TODO</AlertRitualComingDesc>
+  <AlertRitualComingDesc>Er komt binnenkort een gelegenheid voor het uitvoeren van rituelen</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
-  <AlertRitualComingExtra>TODO</AlertRitualComingExtra>
+  <AlertRitualComingExtra>Gelegenheden verlopen na {0} dagen en komen elk jaar op dezelfde dag terug.</AlertRitualComingExtra>
   <!-- EN: {0} on {1}, {2} left -->
-  <AlertRitualComingEntry>TODO</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{0} op {1}, {2} resterend</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
-  <AlertAgeReversalDemandNear>TODO</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandNear>Verjonging gevraagd</AlertAgeReversalDemandNear>
   <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
-  <AlertAgeReversalDemandDesc>TODO</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc>Vanwege hun overtuigingen eisen sommige van je kolonisten regelmatige verjongingsbehandelingen in een biovormercapsule. Als ze de behandelingen niet krijgen, zullen ze ontevreden zijn.\n\nDe volgende mensen vragen om een verjongingsbehandeling</AlertAgeReversalDemandDesc>
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Recruit>TODO</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} is onlangs lid geworden van {FACTION} en wil over {DURATION} beginnen met verjongingsbehandelingen.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Next>TODO</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} wil de volgende behandeling over {DURATION}.</AlertAgeReversalDemandDesc_Next>
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Initial>TODO</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} wil de eerste behandeling over {DURATION}.</AlertAgeReversalDemandDesc_Initial>
   <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Overdue>TODO</AlertAgeReversalDemandDesc_Overdue>
+  <AlertAgeReversalDemandDesc_Overdue>De behandeling van {PAWN} is {DURATION} te laat.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>TODO</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>Het geloof van {PAWN_nameDef} in {IDEO_name} verbiedt dat {PAWN_objective} het vlees van {ANIMALS} eet.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
-  <AlertGauranlenTreeWithoutDryadTypeLabel>TODO</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Dryadenkaste niet ingesteld</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
-  <AlertGauranlenTreeWithoutDryadTypeDesc>TODO</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Een of meer Gauranlen-bomen hebben hun dryadenkaste niet ingesteld.\n\nSelecteer de boom en klik op de knop '{0}' om de geproduceerde dryadenkaste in te stellen.</AlertGauranlenTreeWithoutDryadTypeDesc>
   <!-- EN: Connector not assigned to plant cutting -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>TODO</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Connector niet toegewezen aan plantenstek</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
   <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>TODO</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Je hebt Gauranlen-bomen die zijn ingesteld om te worden gesnoeid, maar hun connectoren zijn niet toegewezen aan het knippen van planten.\n\nJe moet het snijwerk voor planten toewijzen aan de volgende mensen</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
 
   <!-- EN: Fuel node explodes in {0} -->
-  <AlertFuelNodeIgniting>TODO</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgniting>Brandstofknop ontploft over {0}</AlertFuelNodeIgniting>
   <!-- EN: A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires. -->
-  <AlertFuelNodeIgnitingDesc>TODO</AlertFuelNodeIgnitingDesc>
+  <AlertFuelNodeIgnitingDesc>Een brandstofknop is ontvlamd! Het zal zeer binnenkort smelten en exploderen.\n\nNeem afstand en wees klaar om de branden te blussen of te ontkomen.</AlertFuelNodeIgnitingDesc>
 
   <!-- EN: Insects arriving in {0} -->
-  <AlertInfestationArriving>TODO</AlertInfestationArriving>
+  <AlertInfestationArriving>Insecten arriveren over {0}</AlertInfestationArriving>
   <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
-  <AlertInfestationArrivingDesc>TODO</AlertInfestationArrivingDesc>
+  <AlertInfestationArrivingDesc>Gigantische insecten hebben je activiteit opgemerkt en graven zich vanuit de grond op om aan te vallen. De plaag staat op het punt te beginnen.</AlertInfestationArrivingDesc>
 
   <!-- EN: {0_pawnsPlural} waking in {1} -->
-  <AlertHostilesWakingUp>TODO</AlertHostilesWakingUp>
+  <AlertHostilesWakingUp>{0_pawnsPlural} worden wakker over {1}</AlertHostilesWakingUp>
   <!-- EN: One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you. -->
-  <AlertHostilesWakingUpDesc>TODO</AlertHostilesWakingUpDesc>
+  <AlertHostilesWakingUpDesc>Een of meer {0_pawnsPlural} worden wakker.\n\nZe zullen aanvallen als ze je vinden.</AlertHostilesWakingUpDesc>
 
   <!-- EN: Cryptosleep caskets opening in {0} -->
-  <AlertCasketOpening>TODO</AlertCasketOpening>
+  <AlertCasketOpening>Cryptoslaapcapsules openen over {0}</AlertCasketOpening>
   <!-- EN: Cryptosleep caskets containing unknown threats are opening soon. -->
-  <AlertCasketOpeningDesc>TODO</AlertCasketOpeningDesc>
+  <AlertCasketOpeningDesc>Cryptoslaapcapsules met daarin onbekende bedreigingen gaan binnenkort open.</AlertCasketOpeningDesc>
 
+  <!-- EN: Slave rebellion likely -->
+  <AlertSlaveRebellionLikely>Slavenopstand waarschijnlijk</AlertSlaveRebellionLikely>
+  <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
+  <AlertSlaveRebellionLikelyRebelliousCount>Er zijn {REBELLIOUSCOUNT} slaven die waarschijnlijk een opstand zullen ontketenen.</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>Een slavenopstand zal naar verwachting ongeveer één keer per {COMBINEDTIME} plaatsvinden. Merk op dat de kans op rebellie van elke slaaf onafhankelijk is, en als een van hen in opstand komt, kunnen anderen meedoen.\n\n{REBEL_labelShort} is de meest opstandige slaaf en zal naar verwachting ongeveer één keer per {INDIVIDUALTIME} een opstand ontketenen. De volgende factoren zijn van invloed op de tijd tussen opstanden:</AlertSlaveRebellionLikelyMostRebellious>
+  
 </LanguageData>

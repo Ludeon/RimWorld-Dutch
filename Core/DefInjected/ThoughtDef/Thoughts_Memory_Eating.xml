@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    <!-- EN: ate corpse -->
+  
+  <!-- EN: ate corpse -->
   <AteCorpse.stages.ate_corpse.label>at kadaver</AteCorpse.stages.ate_corpse.label>
   <!-- EN: I had to eat the flesh of a dead creature without even butchering or cooking it. -->
   <AteCorpse.stages.ate_corpse.description>Ik moest het rauwe vlees van een dood dier eten zonder het zelfs maar te slachten of te koken.</AteCorpse.stages.ate_corpse.description>

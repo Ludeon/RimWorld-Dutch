@@ -46,6 +46,9 @@
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>TargetA aan het escorteren naar bed.</EscortPrisonerToBed.reportString>
   
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>TODO</ExtractTree.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>TargetB aan het voeren met TargetA.</FeedPatient.reportString>
   
@@ -111,6 +114,9 @@
   
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>TargetA aan het repareren.</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>TODO</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>TargetA aan het redden.</Rescue.reportString>

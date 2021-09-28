@@ -2578,14 +2578,14 @@
     <desc>[PAWN_nameDef] kwam in opstand tegen het bedrijf waarvoor [PAWN_pronoun] werkte. [PAWN_pronoun] faalde daarin en werd gedwongen om op de vlucht te slaan.\n\n[PAWN_pronoun] was altijd in beweging en liet altijd alles achter. [PAWN_pronoun] probeerde aanhangers te krijgen voor [PAWN_possessive] doel, maar faalde vanwege [PAWN_possessive] slechte sociale vaardigheden.</desc>
   </Fugitive4>
   
-  <FurnitureBuilder50>
+  <FurnitureBuilder83>
     <!-- EN: furniture builder -->
     <title>TODO</title>
     <!-- EN: builder -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent his time building beautiful furniture for wealthy glitterworld clients. -->
+    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
     <desc>TODO</desc>
-  </FurnitureBuilder50>
+  </FurnitureBuilder83>
   
   <GalacticPage37>
     <!-- EN: galactic page -->

@@ -176,10 +176,6 @@
   <EscapeShipFound>Je hebt de coördinaten van (*Name)Charlon Whitestone(/Name) bereikt en het verborgen ruimteschip ontdekt.\n\nDe scheepsreactor staat nog steeds in diepe slaapstand, dus het kan nog niet vliegen. Je kunt de reactor opstarten door interactie met de computerkern.\n\n(*Name)Charlon Whitestone(/Name) waarschuwt je dat het opstartproces ongeveer 15 dagen in beslag zal nemen en dat de energiesignatuur van veraf waarneembaar zal zijn. Dit soort energiesignatuur duidt op interstellaire vluchtmogelijkheden en zal bendes van wanhopige overvallers en zwermen dodelijke mechanoïden aantrekken.\n\nJe zal worden aangevallen met een intensiteit die je nog nooit hebt gezien. Zorg er eerst voor dat je verdediging goed is voorbereid.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful> (*Name)Charlon Whitestone(/Name) bereikt en het verborgen ruimteschip ontdekt.\n\nDe scheepsreactor staat nog steeds in diepe slaapstand, dus het kan nog niet vliegen. Je kunt de reactor opstarten door interactie met de computerkern.\n\n(*Name)Charlon Whitestone(/Name) waarschuwt je dat het opstartproces ongeveer 15 dagen in beslag zal nemen.</EscapeShipFoundPeaceful>
-  <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>Schip vernield</EscapeShipLostLabel>
-  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>(*Name)Charlon Whitestone(/Name) stuurt je een boodschap.\n\nHij ziet dat je de controle over het gelande schip bent kwijtgeraakt. Om te voorkomen dat het in de verkeerde handen valt, is hij gedwongen om het zelfvernietigingsmechanisme van het schip in werking te stellen. Het schip is nu een krater.\n\nJe zult een andere weg van deze planeet moeten vinden.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -246,5 +242,9 @@
   <LetterLabelQuestAskerDied>Opdracht mislukt</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>De opdracht kan niet worden voltooid omdat {SUBJECT_definite} is overleden.</LetterQuestAskerDied>
+
+  <!-- UNUSED -->
+  <EscapeShipLostLabel>Schip vernield</EscapeShipLostLabel>
+  <EscapeShipLost>(*Name)Charlon Whitestone(/Name) stuurt je een boodschap.\n\nHij ziet dat je de controle over het gelande schip bent kwijtgeraakt. Om te voorkomen dat het in de verkeerde handen valt, is hij gedwongen om het zelfvernietigingsmechanisme van het schip in werking te stellen. Het schip is nu een krater.\n\nJe zult een andere weg van deze planeet moeten vinden.</EscapeShipLost>
 
 </LanguageData>

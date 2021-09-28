@@ -47,5 +47,5 @@
   <RandomDrop.textFriendly>Een groep vriendelijke {0} van {1} zijn aangekomen in tranportcapsules. Hun navigatiemodule was stuk en ze zijn over de hele regio verspreid!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef} arriveren in transportcapsules.</RandomDrop.textWillArrive>
-    
+  
 </LanguageData>

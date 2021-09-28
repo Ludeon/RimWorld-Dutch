@@ -278,6 +278,11 @@
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
   <AlertAnimalPenNotEnclosedDesc>Een weidemarkering is niet omheind.\n\nGebruik hekken, barricades, poorten, muren of deuren om te voorkomen dat dieren naar buiten wandelen.\n\nAls je een onomheinde weidemarkering hebt kunnen dieren hier nog steeds naar toe worden geleid, maar moet dit keer op keer herhaald worden wanneer de dieren te ver weg lopen.</AlertAnimalPenNotEnclosedDesc>
 
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>TODO</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>TODO</AlertPredatorInAnimalPenDesc>
+
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>Dier loopt weg</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
@@ -295,22 +300,21 @@
   <!-- EN: Arriving at {0} in {1} -->
   <AlertTimedRaidsArrivingAt>Bij {0} arriveren over {1}</AlertTimedRaidsArrivingAt>
 
-  <!-- EN: Slave rebellion likely -->
-  <AlertSlaveRebellionLikely>Slavenopstand waarschijnlijk</AlertSlaveRebellionLikely>
-  <!-- EN: There are {0} slaves that are likely to initiate a rebellion soon. -->
-  <AlertSlaveRebellionMultipleLikelySlavesHeader>Er zijn {0} slaven die waarschijnlijk binnenkort een opstand zullen starten.</AlertSlaveRebellionMultipleLikelySlavesHeader>
-  <!-- EN: A slave rebellion is expected to happen roughly once every {0}. -->
-  <AlertSlaveRebellionMultipleSlavesInterval>Een slavenopstand zal gemiddeld elke {0} voorkomen.</AlertSlaveRebellionMultipleSlavesInterval>
-  <!-- EN: {REBEL_labelShort} is the most rebellious slave and -->
-  <AlertSlaveRebellionMultipleLikelySlavesPrefix>{REBEL_labelShort} is de opstandigste slaaf en</AlertSlaveRebellionMultipleLikelySlavesPrefix>
-  <!-- EN: is expected to rebel roughly once every {0}. These are the factors which are adjusting how soon they will rebel: -->
-  <AlertSlaveRebellionLikelyExplanation>wordt verwacht elke {0} in opstand te komen. Dit zijn een aantal van de factoren die invloed hebben op hoe vaak ze in opstand komen:</AlertSlaveRebellionLikelyExplanation>
-  <!-- EN: Each slave's rebellion chance is independent. If any one slave rebels, others nearby are likely to join. -->
-  <AlertSlaveRebellionLikelyNote>De opstandkans van elke slaaf is onafhankelijk van elkaar. Als één slaaf in opstand komt, zullen andere slaven in de buurt geneigd zijn ook in opstand te komen.</AlertSlaveRebellionLikelyNote>
-  
   <!-- EN: Faction will become hostile if you stay -->
   <FactionWillBecomeHostileIfNotLeavingWithin>Factie zal vijandig worden als je blijft</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Deze facties zullen vijandig worden als je nog langer blijft bij hun nederzetting of buitenpost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>TODO</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>TODO</AlertMinifiedTreeAboutToDieDesc>
+
+  <!-- UNUSED -->
+  <AlertSlaveRebellionMultipleLikelySlavesHeader>Er zijn {0} slaven die waarschijnlijk binnenkort een opstand zullen starten.</AlertSlaveRebellionMultipleLikelySlavesHeader>
+  <AlertSlaveRebellionMultipleSlavesInterval>Een slavenopstand zal gemiddeld elke {0} voorkomen.</AlertSlaveRebellionMultipleSlavesInterval>
+  <AlertSlaveRebellionMultipleLikelySlavesPrefix>{REBEL_labelShort} is de opstandigste slaaf en</AlertSlaveRebellionMultipleLikelySlavesPrefix>
+  <AlertSlaveRebellionLikelyExplanation>wordt verwacht elke {0} in opstand te komen. Dit zijn een aantal van de factoren die invloed hebben op hoe vaak ze in opstand komen:</AlertSlaveRebellionLikelyExplanation>
+  <AlertSlaveRebellionLikelyNote>De opstandkans van elke slaaf is onafhankelijk van elkaar. Als één slaaf in opstand komt, zullen andere slaven in de buurt geneigd zijn ook in opstand te komen.</AlertSlaveRebellionLikelyNote>
 
 </LanguageData>

@@ -10,4 +10,8 @@
   -->
   <WandererJoins.questNameRules.rulesStrings>questDescription->Vagebond sluit zich aan</WandererJoins.questNameRules.rulesStrings>
   
+  <!-- UNUSED -->
+  <WandererJoins.questDescriptionRules.rulesStrings>questDescription-></WandererJoins.questDescriptionRules.rulesStrings>
+  <WandererJoins.questNameRules.rulesStrings>questDescription->Vagebond sluit zich aan</WandererJoins.questNameRules.rulesStrings>
+  
 </LanguageData>

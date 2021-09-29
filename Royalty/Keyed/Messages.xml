@@ -16,9 +16,6 @@
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>Het gebied moet beloopbaar zijn.</ShuttleCannotLand_Unwalkable>
 
-  <!-- EN: Warning: Anima tree has been marked for cutting. -->
-  <MessageWarningCutAnimaTree>Waarschuwing: Er is een animaboom gemarkeerd om omgehakt te worden.</MessageWarningCutAnimaTree>
-
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>Selecteer {BESTOWER_definite} en klik met de rechtermuisknop op de schenker om de schenkingsceremonie te starten.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
@@ -29,6 +26,8 @@
   <MessageBestowingSpotUnreachable>De schenker ergert zich aan de inmenging en heeft besloten te vertrekken.</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
   <MessageBestowingDanger>De schenker vertrekt omdat het levensgevaarlijk is.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>TODO</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>De schenkingsceremonie is onderbroken.</MessageBestowingInterrupted>
 
@@ -44,5 +43,8 @@
 
   <!-- EN: No orbiting mechanoids found. -->
   <MessageNoFactionForVerbMechCluster>Geen mechanieten in een baan om de planeet gevonden.</MessageNoFactionForVerbMechCluster>
+
+  <!-- UNUSED -->
+  <MessageWarningCutAnimaTree>Waarschuwing: Er is een animaboom gemarkeerd om omgehakt te worden.</MessageWarningCutAnimaTree>
 
 </LanguageData>

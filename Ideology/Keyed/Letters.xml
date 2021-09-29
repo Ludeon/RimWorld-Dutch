@@ -41,7 +41,7 @@
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
   <LetterLabelRoleActive>TODO</LetterLabelRoleActive>
-  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button. -->
+  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
   <LetterLabelRoleActiveDesc>TODO</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->

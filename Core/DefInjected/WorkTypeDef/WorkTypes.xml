@@ -5,7 +5,7 @@
   <Art.description>Maak prachtige kunstwerken van ruwe materialen.</Art.description>
   <!-- EN: art -->
   <Art.gerundLabel>beeldhouwen</Art.gerundLabel>
-  <!-- EN: Art -->
+  <!-- EN: art -->
   <Art.labelShort>Kunst</Art.labelShort>
   <!-- EN: Artist -->
   <Art.pawnLabel>Kunstenaar</Art.pawnLabel>
@@ -16,7 +16,7 @@
   <BasicWorker.description>Ongetrainde en eenvoudige taken. Laat gevangenen vrij en zet machines aan en uit.</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>afhandelen</BasicWorker.gerundLabel>
-  <!-- EN: Basic -->
+  <!-- EN: basic -->
   <BasicWorker.labelShort>Basis</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>Werker</BasicWorker.pawnLabel>
@@ -27,7 +27,7 @@
   <Cleaning.description>Sneeuwruimen en de vloer schoonmaken in het thuisgebied</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>schoonmaken</Cleaning.gerundLabel>
-  <!-- EN: Clean -->
+  <!-- EN: clean -->
   <Cleaning.labelShort>Schoonmaak</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>Schoonmaker</Cleaning.pawnLabel>
@@ -38,7 +38,7 @@
   <Construction.description>Bouw dingen die je hebt gemarkeerd, en repareer beschadigde gebouwen.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>bouwen</Construction.gerundLabel>
-  <!-- EN: Construct -->
+  <!-- EN: construct -->
   <Construction.labelShort>Bouw</Construction.labelShort>
   <!-- EN: Constructor -->
   <Construction.pawnLabel>Bouwvakker</Construction.pawnLabel>
@@ -49,7 +49,7 @@
   <Cooking.description>Kook maaltijden en slacht vlees</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>koken</Cooking.gerundLabel>
-  <!-- EN: Cook -->
+  <!-- EN: cook -->
   <Cooking.labelShort>Kook</Cooking.labelShort>
   <!-- EN: Cook -->
   <Cooking.pawnLabel>Kok</Cooking.pawnLabel>
@@ -60,7 +60,7 @@
   <Crafting.description>Algemeen laaggeschoolde arbeid aan werktafels, zoals: steenhouwen, smelten en meer.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>maken</Crafting.gerundLabel>
-  <!-- EN: Craft -->
+  <!-- EN: craft -->
   <Crafting.labelShort>Maak</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>Handwerker</Crafting.pawnLabel>
@@ -71,7 +71,7 @@
   <Doctor.description>Verzorg zieken, breng ze eten, vrolijk ze op en voer toegewezen operaties uit. Dokters verzorgen zowel kolonisten als gevangenen.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>verzorgen</Doctor.gerundLabel>
-  <!-- EN: Doctor -->
+  <!-- EN: doctor -->
   <Doctor.labelShort>Dokter</Doctor.labelShort>
   <!-- EN: Doctor -->
   <Doctor.pawnLabel>Dokter</Doctor.pawnLabel>
@@ -82,7 +82,7 @@
   <Firefighter.description>Blus branden in de kolonie.</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>Brandblussen</Firefighter.gerundLabel>
-  <!-- EN: Firefight -->
+  <!-- EN: firefight -->
   <Firefighter.labelShort>Blus</Firefighter.labelShort>
   <!-- EN: Firefighter -->
   <Firefighter.pawnLabel>Brandweerman</Firefighter.pawnLabel>
@@ -93,7 +93,7 @@
   <Growing.description>Zaai zaden, oogst gewas en foerageer wilde planten.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>landbouwen</Growing.gerundLabel>
-  <!-- EN: Grow -->
+  <!-- EN: grow -->
   <Growing.labelShort>Landbouw</Growing.labelShort>
   <!-- EN: Grower -->
   <Growing.pawnLabel>Landbouwer</Growing.pawnLabel>
@@ -104,7 +104,7 @@
   <Handling.description>Tem, train, oogst grondstoffen van en slacht dieren.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>Dierenzorg</Handling.gerundLabel>
-  <!-- EN: Handle -->
+  <!-- EN: handle -->
   <Handling.labelShort>Verzorg dieren</Handling.labelShort>
   <!-- EN: Handler -->
   <Handling.pawnLabel>Dierenverzorger</Handling.pawnLabel>
@@ -115,7 +115,7 @@
   <Hauling.description>Sleep dingen naar hun bestemming.</Hauling.description>
   <!-- EN: hauling -->
   <Hauling.gerundLabel>slepen</Hauling.gerundLabel>
-  <!-- EN: Haul -->
+  <!-- EN: haul -->
   <Hauling.labelShort>Sleep</Hauling.labelShort>
   <!-- EN: Hauler -->
   <Hauling.pawnLabel>Sleper</Hauling.pawnLabel>
@@ -126,7 +126,7 @@
   <Hunting.description>Jaag op dieren die aangemerkt zijn om gejaagd te worden.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>Jagen</Hunting.gerundLabel>
-  <!-- EN: Hunt -->
+  <!-- EN: hunt -->
   <Hunting.labelShort>Jacht</Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>Jager</Hunting.pawnLabel>
@@ -137,7 +137,7 @@
   <Mining.description>Delven en boren.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>delven</Mining.gerundLabel>
-  <!-- EN: Mine -->
+  <!-- EN: mine -->
   <Mining.labelShort>Delf</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>Delver</Mining.pawnLabel>
@@ -148,7 +148,7 @@
   <Patient.description>Ga naar een ziekenbed voor behandeling als je een direct levensbedreigende medische conditie hebt.</Patient.description>
   <!-- EN: patienting -->
   <Patient.gerundLabel>patiënt</Patient.gerundLabel>
-  <!-- EN: Patient -->
+  <!-- EN: patient -->
   <Patient.labelShort>Patiënt</Patient.labelShort>
   <!-- EN: Patient -->
   <Patient.pawnLabel>Patiënt</Patient.pawnLabel>
@@ -159,7 +159,7 @@
   <PatientBedRest.description>Rust in bed om te herstellen van niet direct levensbedreigende medische condities.</PatientBedRest.description>
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>in bed uitrusten</PatientBedRest.gerundLabel>
-  <!-- EN: Bed rest -->
+  <!-- EN: bed rest -->
   <PatientBedRest.labelShort>Bedrust</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
   <PatientBedRest.pawnLabel>Bedruster</PatientBedRest.pawnLabel>
@@ -170,7 +170,7 @@
   <PlantCutting.description>Wied of oogst planten zoals aangemerkt.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>planten wieden</PlantCutting.gerundLabel>
-  <!-- EN: Plant cut -->
+  <!-- EN: plant cut -->
   <PlantCutting.labelShort>Wieden</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>tuinman</PlantCutting.pawnLabel>
@@ -181,7 +181,7 @@
   <Research.description>Doe onderzoek.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>onderzoeken</Research.gerundLabel>
-  <!-- EN: Research -->
+  <!-- EN: research -->
   <Research.labelShort>Onderzoek</Research.labelShort>
   <!-- EN: Researcher -->
   <Research.pawnLabel>Onderzoeker</Research.pawnLabel>
@@ -192,7 +192,7 @@
   <Smithing.description>Maak wapens en gereedschap van ruwe grondstoffen, als smid of aan de machinetafel.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>smeden</Smithing.gerundLabel>
-  <!-- EN: Smith -->
+  <!-- EN: smith -->
   <Smithing.labelShort>Smeed</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Smid</Smithing.pawnLabel>
@@ -203,7 +203,7 @@
   <Tailoring.description>Maak kleding van ruwe grondstoffen.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>kleermaken</Tailoring.gerundLabel>
-  <!-- EN: Tailor -->
+  <!-- EN: tailor -->
   <Tailoring.labelShort>Kleermaken</Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>Kleermaker</Tailoring.pawnLabel>
@@ -214,7 +214,7 @@
   <Warden.description>Bewaak, geef te eten, praat met en rekruteer gevangenen.</Warden.description>
   <!-- EN: wardening -->
   <Warden.gerundLabel>Bewaken</Warden.gerundLabel>
-  <!-- EN: Warden -->
+  <!-- EN: warden -->
   <Warden.labelShort>Bewaken</Warden.labelShort>
   <!-- EN: Warden -->
   <Warden.pawnLabel>Bewaker</Warden.pawnLabel>

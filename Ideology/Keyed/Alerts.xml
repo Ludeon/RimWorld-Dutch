@@ -19,6 +19,8 @@
 
   <!-- EN: {0} expected -->
   <RitualExpected>{0} verwacht</RitualExpected>
+  <!-- EN: {0} opportunity -->
+  <RitualOpportunity>TODO</RitualOpportunity>
   <!-- EN: {0} expected for -->
   <RitualExpectedFor>{0} verwacht voor</RitualExpectedFor>
   <!-- EN: {0} days: Ritual opportunity ends. -->
@@ -63,7 +65,7 @@
   <IdeoRoleEmpty>{0} rol niet ingevuld</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} rollen niet ingevuld</IdeoRolesEmpty>
-  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
   <IdeoRolesEmptyDesc>Deze rollen zijn niet ingevuld:\n{0}\n\Je kunt iemand een rol toewijzen op het tabblad Sociaal.\in\Als deze rollen leeg blijven, zullen de volgende mensen ongelukkig zijn</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->

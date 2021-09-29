@@ -6,6 +6,11 @@
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>Hoe leuk is een object om naar te kijken.\n\nMooie objecten vervullen de behoefte van kolonisten aan schoonheid.</Beauty.description>
   
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
+  
   <!-- EN: cleanliness -->
   <Cleanliness.label>reinheid</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->

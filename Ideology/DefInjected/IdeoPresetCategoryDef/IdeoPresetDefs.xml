@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: classic -->
-  <Classic.label>TODO</Classic.label>
+  <Classic.label>klassiek</Classic.label>
   <!-- EN: Your colonists get a belief system like classic RimWorld. Good for your first few games. -->
-  <Classic.description>TODO</Classic.description>
+  <Classic.description>Je kolonisten krijgen een geloofssysteem dat lijkt op klassiek RimWorld. Goed voor je eerste paar spellen.</Classic.description>
   <!-- EN: Classic -->
-  <Classic.groupLabel>TODO</Classic.groupLabel>
+  <Classic.groupLabel>Klassiek</Classic.groupLabel>
   
   <!-- EN: custom -->
-  <Custom.label>TODO</Custom.label>
+  <Custom.label>aangepast</Custom.label>
   <!-- EN: Customize a new ideoligion and control every detail. This can take a while. -->
-  <Custom.description>TODO</Custom.description>
+  <Custom.description>Ontwerp een nieuwe ideoligie tot in elk detail. Dit kan even duren.</Custom.description>
   <!-- EN: Custom -->
-  <Custom.groupLabel>TODO</Custom.groupLabel>
+  <Custom.groupLabel>Aangepast</Custom.groupLabel>
   
   <!-- EN: fluid -->
-  <Fluid.label>TODO</Fluid.label>
+  <Fluid.label>flexibel</Fluid.label>
   <!-- EN: Begin with a simple ideoligion and develop it over time. -->
-  <Fluid.description>TODO</Fluid.description>
+  <Fluid.description>Begin met een eenvoudige ideoligie en ontwikkel deze in de loop van de tijd.</Fluid.description>
   <!-- EN: Fluid -->
-  <Fluid.groupLabel>TODO</Fluid.groupLabel>
+  <Fluid.groupLabel>Flexibel</Fluid.groupLabel>
   
   <!-- EN: intense -->
-  <Intense.label>TODO</Intense.label>
+  <Intense.label>intens</Intense.label>
   <!-- EN: Extremely disruptive beliefs which make the game very different from classic RimWorld. These add significant difficulty. -->
-  <Intense.description>TODO</Intense.description>
+  <Intense.description>Extreem ontwrichtende overtuigingen die het spel heel anders maken dan in klassiek RimWorld. Deze verhogen de moeilijkheid aanzienlijk.</Intense.description>
   <!-- EN: Presets -->
-  <Intense.groupLabel>TODO</Intense.groupLabel>
+  <Intense.groupLabel>Standaard ideoligies</Intense.groupLabel>
   
   <!-- EN: mild -->
-  <Mild.label>TODO</Mild.label>
+  <Mild.label>mild</Mild.label>
   <!-- EN: Classic-like gameplay with small variations. -->
-  <Mild.description>TODO</Mild.description>
+  <Mild.description>Klassiek-achtige spelregels met kleine variaties.</Mild.description>
   <!-- EN: Presets -->
-  <Mild.groupLabel>TODO</Mild.groupLabel>
+  <Mild.groupLabel>Standaard ideoligies</Mild.groupLabel>
   
   <!-- EN: strong -->
-  <Strong.label>TODO</Strong.label>
+  <Strong.label>zwaar</Strong.label>
   <!-- EN: Strong beliefs which support playstyles significantly different from classic RimWorld. -->
-  <Strong.description>TODO</Strong.description>
+  <Strong.description>Sterke overtuigingen die speelstijlen ondersteunen die aanzienlijk verschillen van klassiek RimWorld.</Strong.description>
   <!-- EN: Presets -->
-  <Strong.groupLabel>TODO</Strong.groupLabel>
+  <Strong.groupLabel>Standaard ideoligies</Strong.groupLabel>
   
 </LanguageData>

@@ -22,9 +22,9 @@
   <DesignatorUninstallDesc>Deïnstalleer dit zodat het kan worden verplaatst, verkocht of ergens anders kan worden geïnstalleerd.</DesignatorUninstallDesc>
 
   <!-- EN: Extract tree -->
-  <DesignatorExtractTree>TODO</DesignatorExtractTree>
+  <DesignatorExtractTree>Boom ontwortelen</DesignatorExtractTree>
   <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
-  <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
+  <DesignatorExtractTreeDesc>Haal deze boom uit de grond terwijl je hem in leven houdt, zodat hij ergens anders opnieuw kan worden geplant.</DesignatorExtractTreeDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Oogsten</DesignatorHarvest>
@@ -240,7 +240,7 @@
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
   <MonumentAdjacentToBuilding>Monument kan niet direct naast {0} worden geplaatst.</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
-  <CannotBePlantedHere>TODO</CannotBePlantedHere>
+  <CannotBePlantedHere>Kan hier niet worden geplant</CannotBePlantedHere>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->

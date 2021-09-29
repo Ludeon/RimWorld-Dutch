@@ -38,8 +38,8 @@
   <Spine.label>ruggengraat</Spine.label>
   
   <!-- EN: tongue -->
-  <Tongue.label>TODO</Tongue.label>
+  <Tongue.label>tong</Tongue.label>
   <!-- EN: remove -->
-  <Tongue.removeRecipeLabelOverride>TODO</Tongue.removeRecipeLabelOverride>
+  <Tongue.removeRecipeLabelOverride>verwijderen</Tongue.removeRecipeLabelOverride>
   
 </LanguageData>

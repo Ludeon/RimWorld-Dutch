@@ -6,62 +6,62 @@
   <!-- EN: Install a bionic arm. -->
   <InstallBionicArm.description>Implanteer een bionische arm.</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
-  <InstallBionicArm.jobString>Bionische arm implanteren.</InstallBionicArm.jobString>
+  <InstallBionicArm.jobString>Bionische arm aan het implanteren.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
   <InstallBionicEar.label>bionisch oor implanteren</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
   <InstallBionicEar.description>Implanteer een bionisch oor</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
-  <InstallBionicEar.jobString>Bionisch oor implanteren.</InstallBionicEar.jobString>
+  <InstallBionicEar.jobString>Bionisch oor aan het implanteren.</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
   <InstallBionicEye.label>bionisch oog implanteren</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
   <InstallBionicEye.description>Implanteer een bionisch oog.</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
-  <InstallBionicEye.jobString>Bionisch oog implanteren.</InstallBionicEye.jobString>
+  <InstallBionicEye.jobString>Bionisch oog aan het implanteren.</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
   <InstallBionicHeart.label>bionisch hart implanteren</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
   <InstallBionicHeart.description>Implanteer een bionisch hart.</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
-  <InstallBionicHeart.jobString>Bionisch hart implanteren.</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>Bionisch hart aan het implanteren.</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
   <InstallBionicLeg.label>bionisch been implanteren</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
   <InstallBionicLeg.description>Implanteer een bionisch been.</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
-  <InstallBionicLeg.jobString>Bionisch been implanteren.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.jobString>Bionisch been aan het implanteren.</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
   <InstallBionicSpine.label>bionische ruggegraat implanteren</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
   <InstallBionicSpine.description>Implanteer een bionische ruggegraat.</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
-  <InstallBionicSpine.jobString>Bionische ruggegraat implanteren.</InstallBionicSpine.jobString>
+  <InstallBionicSpine.jobString>Bionische ruggegraat aan het implanteren.</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
   <InstallBionicStomach.label>Bionische maag implanteren</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
   <InstallBionicStomach.description>Implanteer een bionische maag</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
-  <InstallBionicStomach.jobString>Bionische maag implanteren.</InstallBionicStomach.jobString>
+  <InstallBionicStomach.jobString>Bionische maag aan het implanteren.</InstallBionicStomach.jobString>
   
   <!-- EN: install bionic tongue -->
-  <InstallBionicTongue.label>TODO</InstallBionicTongue.label>
+  <InstallBionicTongue.label>Bionische tong implanteren</InstallBionicTongue.label>
   <!-- EN: Install a bionic tongue. -->
-  <InstallBionicTongue.description>TODO</InstallBionicTongue.description>
+  <InstallBionicTongue.description>Implanteer een bionische tong</InstallBionicTongue.description>
   <!-- EN: Installing bionic tongue. -->
-  <InstallBionicTongue.jobString>TODO</InstallBionicTongue.jobString>
+  <InstallBionicTongue.jobString>Bionische tong aan het implanteren.</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
   <InstallDeathAcidifier.label>doodsverzuurder installeren</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
   <InstallDeathAcidifier.description>Installeer een doodsverzuurder.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>Doodsverzuurder installeren.</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>Doodsverzuurder aan het installeren.</InstallDeathAcidifier.jobString>
   
 </LanguageData>

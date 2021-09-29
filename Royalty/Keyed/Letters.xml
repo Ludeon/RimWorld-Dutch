@@ -120,7 +120,7 @@
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
   <LetterSpeechInterrupted>Omdat de toespraak werd onderbroken nadat slechts {0} was voltooid, was deze niet zo effectief.</LetterSpeechInterrupted>
   <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>De toespraak van {ORGANIZER_bestRoyalTitleDef} is geannuleerd voordat deze minstens 50% was voltooid. Het had geen effect.</LetterSpeechCancelled>
+  <LetterSpeechCancelled>De toespraak van {0} is geannuleerd voordat deze minstens 50% was voltooid. Hij had geen effect.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>Toespraak geannuleerd</LetterLabelSpeechCancelled>
 

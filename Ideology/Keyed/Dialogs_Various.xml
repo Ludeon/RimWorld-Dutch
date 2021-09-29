@@ -13,12 +13,12 @@
   <!-- EN: Date -->
   <Date>Datum</Date>
   <!-- EN: The following development points will be awarded depending on the ritual outcome -->
-  <RitualDevelopmentPointRewards>TODO</RitualDevelopmentPointRewards>
+  <RitualDevelopmentPointRewards>Afhankelijk van de uitkomst van het ritueel worden de volgende ontwikkelingspunten toegekend</RitualDevelopmentPointRewards>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>Kies de symbolische structuur van je ideologie. Dit heeft alleen invloed op symbolen - het heeft geen invloed op het spelverloop.</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
-  <ChooseNormalMemesInfo>Kies {0}-{1} geloofsprincipes die de fundamentele ideeën van deze ideoligie zullen vormen. Sommige hiervan hebben veel meer invloed op het spelverloop dan andere.</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>Kies {0}-{1} geloofsprincipes die de fundamentele ideeën van deze ideoligie zullen vormen.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
   <NotEnoughMemes>Kies minimaal {0} geloofsprincipe.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
@@ -28,25 +28,25 @@
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>{0_label} en {1_label} zijn niet compatibel.</IncompatibleMemes>
   <!-- EN: Some of these have much more gameplay impact than others. -->
-  <SomeMemesHaveMoreImpact>TODO</SomeMemesHaveMoreImpact>
+  <SomeMemesHaveMoreImpact>Sommige hiervan hebben veel meer impact op het spelverloop dan andere.</SomeMemesHaveMoreImpact>
   <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
-  <ChooseNormalMemesFluidIdeoInfo>TODO</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseNormalMemesFluidIdeoInfo>Kies één geloofsprincipe om het aanvankelijke idee van deze ideologie te vormen. Je zult meer geloofsprincipes toevoegen naarmate de ideologie zich in de loop van de tijd ontwikkelt.</ChooseNormalMemesFluidIdeoInfo>
   <!-- EN: Choose a meme or remove a meme. -->
-  <ChooseOrRemoveMeme>TODO</ChooseOrRemoveMeme>
+  <ChooseOrRemoveMeme>Kies een geloofsprincipe of verwijder een geloofsprincipe.</ChooseOrRemoveMeme>
   <!-- EN: Reset changes -->
-  <ReformIdeoResetChanges>TODO</ReformIdeoResetChanges>
+  <ReformIdeoResetChanges>Herstel wijzigingen</ReformIdeoResetChanges>
   <!-- EN: Choose {0} meme. -->
-  <NotEnoughMemesFluidIdeo>TODO</NotEnoughMemesFluidIdeo>
+  <NotEnoughMemesFluidIdeo>Kies {0} geloofsprincipes.</NotEnoughMemesFluidIdeo>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
-  <ChangesRandomizePrecepts>TODO</ChangesRandomizePrecepts>
+  <ChangesRandomizePrecepts>{0} zal alle leefregels die je hebt bewerkt opnieuw willekeurig genereren.\in\Wil je doorgaan?</ChangesRandomizePrecepts>
   <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
-  <ChangesRemovePrecepts>TODO</ChangesRemovePrecepts>
+  <ChangesRemovePrecepts>De volgende leefregels zijn niet compatibel met deze nieuwe selectie van geloofsprincipes en zullen worden verwijderd:\n\n{0}\n\nWil je doorgaan?</ChangesRemovePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>Kamervereisten</RoomRequirements>
   <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). The following memes are incompatible:\n\n{0}\n\nWould you like to continue? -->
-  <ConfirmChangeMemesForFluidIdeo>TODO</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmChangeMemesForFluidIdeo>De ideoligie die je laadt heeft geloofsprincipes die niet compatibel zijn met een nieuwe flexibele ideologie. De geloofsprincipes ervan moeten opnieuw worden gekozen (flexibele ideoligies mogen alleen beginnen met één geloofsprincipe van lage invloed). De volgende geloofsprincipes zijn niet compatibel:\n\n{0}\n\nWil je doorgaan?</ConfirmChangeMemesForFluidIdeo>
   
   <!-- EN: role -->
   <Role>rol</Role>
@@ -87,7 +87,7 @@
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>Het geloofsprincipe {MEME} voorkomt dat er kledingvereisten aan rollen worden toegevoegd.</CannotNotAddRoleApparelDueToMeme>
   <!-- EN: cannot be worn with {0_label} -->
-  <CannotBeWornWith>TODO</CannotBeWornWith>
+  <CannotBeWornWith>kan niet worden gedragen met {0_label}</CannotBeWornWith>
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>Zekerheid reductie</AbilityIdeoConvertBreakdownLabel>
@@ -116,29 +116,29 @@
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} heeft onlangs al advies gekregen.</AbilityCantApplyAlreadyCounselled>
 
   <!-- EN: Reform... -->
-  <ReformIdeo>TODO</ReformIdeo>
+  <ReformIdeo>Hervorm...</ReformIdeo>
   <!-- EN: Reform ideoligion -->
-  <ReformIdeoligion>TODO</ReformIdeoligion>
+  <ReformIdeoligion>Ideoligie hervormen</ReformIdeoligion>
   <!-- EN: Reform your ideoligion by changing its structure, memes or style. -->
-  <ReformIdeoligionDesc>TODO</ReformIdeoligionDesc>
+  <ReformIdeoligionDesc>Hervorm je ideologie door de structuur, geloofsprincipes of stijl te veranderen.</ReformIdeoligionDesc>
   <!-- EN: Change styles -->
-  <ReformIdeoChangeStyles>TODO</ReformIdeoChangeStyles>
+  <ReformIdeoChangeStyles>Stijlen wijzigen</ReformIdeoChangeStyles>
   <!-- EN: Add or remove a meme -->
-  <ReformIdeoAddOrRemoveMeme>TODO</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddOrRemoveMeme>Een geloofsprincipe toevoegen of verwijderen</ReformIdeoAddOrRemoveMeme>
   <!-- EN: Add a meme -->
-  <ReformIdeoAddMeme>TODO</ReformIdeoAddMeme>
+  <ReformIdeoAddMeme>Een geloofsprincipe toevoegen</ReformIdeoAddMeme>
   <!-- EN: Choose one -->
-  <ReformIdeoChooseOneChange>TODO</ReformIdeoChooseOneChange>
+  <ReformIdeoChooseOneChange>Kies één</ReformIdeoChooseOneChange>
   <!-- EN: Change structure -->
-  <ReformIdeoChangeStructure>TODO</ReformIdeoChangeStructure>
+  <ReformIdeoChangeStructure>Structuur wijzigen</ReformIdeoChangeStructure>
   <!-- EN: Change any of the following -->
-  <ReformIdeoChangeAny>TODO</ReformIdeoChangeAny>
+  <ReformIdeoChangeAny>Wijzig een van de volgende</ReformIdeoChangeAny>
   <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
-  <ReformIdeoRelicHuntQuestEnd>TODO</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoRelicHuntQuestEnd>De relikwie {0} zal niet worden vereerd door je kolonisten na het hervormen van deze ideologie. Aangezien de opdracht '{0}' naar dit relikwie zoekt, wordt hij gedeactiveerd.</ReformIdeoRelicHuntQuestEnd>
   <!-- EN: The ritual {0} is in progress and will be cancelled. -->
-  <ReformIdeoCancelRituals>TODO</ReformIdeoCancelRituals>
+  <ReformIdeoCancelRituals>Het ritueel {0} is bezig en wordt geannuleerd.</ReformIdeoCancelRituals>
   <!-- EN: Do you wish to continue? -->
-  <ReformIdeoContinue>TODO</ReformIdeoContinue>
+  <ReformIdeoContinue>Wil je doorgaan?</ReformIdeoContinue>
 
   <!-- Slavery -->
   <!-- EN: Slave -->
@@ -191,13 +191,13 @@
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
   <PawnUnhappyWithStyleItems>{PAWN_nameDef} zal niet tevreden zijn met het volgende:</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescription>Stijlcategorieën beïnvloeden het uiterlijk van sommige gebouwen, kleding en wapens gemaakt door {IDEO_memberNamePlural}. Als meer dan één categorie hetzelfde betreft, is de meest linkse van toepassing.</StyleCategoryDescription>
+  <StyleCategoryDescription>Stijlcategorieën beïnvloeden het uiterlijk van sommige gebouwen, kleding en wapens gemaakt door die door {IDEO_memberNamePlural} zijn gemaakt. Als meer dan één categorie hetzelfde betreft, is de meest linkse van toepassing.</StyleCategoryDescription>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescriptionAbstract>TODO</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescriptionAbstract>Stijlcategorieën beïnvloeden het uiterlijk van sommige gebouwen, kleding en wapens die door de kolonie zijn gemaakt. Als meer dan één categorie hetzelfde betreft, is de meest linkse van toepassing.</StyleCategoryDescriptionAbstract>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
   <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} zullen blij zijn als ze gebouwen, vloeren en kunst zien die bij deze stijl passen.</StyleCategoryDescStyleDominance>
   <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
-  <StyleCategoryDescStyleDominanceAbstract>TODO</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDescStyleDominanceAbstract>Leden van de idioligie zullen blij zijn als ze gebouwen, vloeren en kunst zien die bij deze stijl passen.</StyleCategoryDescStyleDominanceAbstract>
   <!-- EN: {0} style category affects -->
   <StyleCategoryDetails>{0} stijlcategorie beïnvloedt</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
@@ -237,7 +237,7 @@
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>Zet alle stijlitems terug naar hun beginwaarden.</ResetButtonDesc>
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+  <TooltipDyeExplanation>Verf kan worden gekweekt uit tinctoria of worden gekocht van handelaren.</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
@@ -281,13 +281,13 @@
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
   <ChooseOnlySlavesInfo>Als je alleen slaven selecteert, speel je ze als kolonisten in de volgende kolonie.</ChooseOnlySlavesInfo>
   <!-- EN: Confirm decisions -->
-  <ConfirmDecisionsTitle>TODO</ConfirmDecisionsTitle>
+  <ConfirmDecisionsTitle>Bevestig beslissingen</ConfirmDecisionsTitle>
   <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
-  <ShipEscapeWillEndDescription>TODO</ShipEscapeWillEndDescription>
+  <ShipEscapeWillEndDescription>Het ruimteschip waarvan bericht werd door de AI (*Name)Charlon Whitestone(/Name) zal wegvliegen tegen de tijd dat de nieuwe kolonie is gevestigd. Het zal niet langer mogelijk zijn om van de planeet te ontsnappen door naar dit schip te reizen.</ShipEscapeWillEndDescription>
   <!-- EN: The colony's purchasers will only allow you to take one relic. Any relic not selected will be left behind, including: -->
-  <RemoveEquippedRelicsDescription>TODO</RemoveEquippedRelicsDescription>
+  <RemoveEquippedRelicsDescription>De kopers van de kolonie staan je slechts één relikwie toe. Elk niet geselecteerd relikwie blijft achter, waaronder:</RemoveEquippedRelicsDescription>
   <!-- EN: Would you like to proceed? -->
-  <WantToProceed>TODO</WantToProceed>
+  <WantToProceed>Wil je doorgaan?</WantToProceed>
   <!-- EN: Convert -->
   <ConvertToPlayerIdeoligion>Bekeer</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->

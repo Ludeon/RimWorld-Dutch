@@ -6,55 +6,55 @@
   <!-- EN: Install a cochlear implant. -->
   <InstallCochlearImplant.description>Implanteer een binnenoorimplantaat.</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
-  <InstallCochlearImplant.jobString>Binnenoorimplantaat implanteren</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.jobString>Binnenoorimplantaat aan het implanteren</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
   <InstallJoywire.label>genotsdraad installeren</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
   <InstallJoywire.description>Installeert een genotsdraad.</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>Genotsdraad installeren.</InstallJoywire.jobString>
+  <InstallJoywire.jobString>Genotsdraad aan het installeren.</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
   <InstallPainstopper.label>pijnstopper installeren</InstallPainstopper.label>
   <!-- EN: Install a painstopper. -->
   <InstallPainstopper.description>Installeert een pijnstopper.</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
-  <InstallPainstopper.jobString>Pijnstopper installeren.</InstallPainstopper.jobString>
+  <InstallPainstopper.jobString>Pijnstopper aan het installeren.</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
   <InstallPowerClaw.label>powerklauw implanteren.</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
   <InstallPowerClaw.description>Implanteer een powerklauw.</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>Powerklauw implanteren.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>Powerklauw aan het implanteren.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
   <InstallSimpleProstheticArm.label>eenvoudige armprothese installeren</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
   <InstallSimpleProstheticArm.description>Installeer een simpele armprothese.</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
-  <InstallSimpleProstheticArm.jobString>Eenvoudige armprothese installeren.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.jobString>Eenvoudige armprothese aan het installeren.</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
   <InstallSimpleProstheticHeart.label>kunsthart implanteren</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
   <InstallSimpleProstheticHeart.description>Implanteer een kunsthart.</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>Kunsthart implanteren.</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>Kunsthart aan het implanteren.</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>eenvoudige beenprothese installeren</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
   <InstallSimpleProstheticLeg.description>Installeer een simpele beenprothese.</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
-  <InstallSimpleProstheticLeg.jobString>Simpele beenprothese installeren.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.jobString>Simpele beenprothese aan het installeren.</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
   <RemovePainstopper.label>pijnstopper verwijderen</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
   <RemovePainstopper.description>Verwijder de pijnstopper</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
-  <RemovePainstopper.jobString>Pijnstopper verwijderen.</RemovePainstopper.jobString>
+  <RemovePainstopper.jobString>Pijnstopper aan het verwijderen.</RemovePainstopper.jobString>
   
 </LanguageData>

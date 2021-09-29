@@ -220,9 +220,9 @@
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Wijs dit item aan om het te verwijderen en ergens anders opnieuw te installeren.</CommandReinstallDesc>
   <!-- EN: Replant -->
-  <CommandReplant>TODO</CommandReplant>
+  <CommandReplant>Herplanten</CommandReplant>
   <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
-  <CommandReplantDesc>TODO</CommandReplantDesc>
+  <CommandReplantDesc>Deze boom is momenteel verpakt voor opslag en transport. Gebruik deze opdracht om hem opnieuw te planten op een nieuwe locatie.</CommandReplantDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->

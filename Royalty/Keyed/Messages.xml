@@ -20,7 +20,7 @@
   <MessageWarningCutAnimaTree>Waarschuwing: Er is een animaboom gemarkeerd om omgehakt te worden.</MessageWarningCutAnimaTree>
 
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>Selecteer {TARGET_definite} en klik met de rechtermuisknop op de schenker om de schenkingsceremonie te starten.</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Selecteer {BESTOWER_definite} en klik met de rechtermuisknop op de schenker om de schenkingsceremonie te starten.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Kan de schenker niet bereiken!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->

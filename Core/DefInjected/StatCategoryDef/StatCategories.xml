@@ -62,7 +62,7 @@
   <PawnWork.label>Werk</PawnWork.label>
   
   <!-- EN: content source -->
-  <Source.label>TODO</Source.label>
+  <Source.label>bron</Source.label>
   
   <!-- EN: Multipliers when equipment made of this -->
   <StuffOfEquipmentStatFactors.label>Vermenigvuldigingsfactor wanneer voorwerpen van dit materiaal zijn gemaakt</StuffOfEquipmentStatFactors.label>

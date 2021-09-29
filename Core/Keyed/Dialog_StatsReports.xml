@@ -487,10 +487,10 @@
   <Stat_Studiable_Desc>Hoe veel van het totaal mogelijke onderzoek je naar dit object hebt gedaan.</Stat_Studiable_Desc>
 
   <!-- EN: Source -->
-  <Stat_Source_Label>TODO</Stat_Source_Label>
+  <Stat_Source_Label>Bron</Stat_Source_Label>
   <!-- EN: This content came from the official expansion -->
-  <Stat_Source_OfficialExpansionReport>TODO</Stat_Source_OfficialExpansionReport>
+  <Stat_Source_OfficialExpansionReport>Deze content is afkomstig van de officiële uitbreiding</Stat_Source_OfficialExpansionReport>
   <!-- EN: This content came from the mod -->
-  <Stat_Source_ModReport>TODO</Stat_Source_ModReport>
+  <Stat_Source_ModReport>Deze content is afkomstig van de mod</Stat_Source_ModReport>
   
 </LanguageData>

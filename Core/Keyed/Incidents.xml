@@ -243,8 +243,4 @@
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
   <LetterQuestAskerDied>De opdracht kan niet worden voltooid omdat {SUBJECT_definite} is overleden.</LetterQuestAskerDied>
 
-  <!-- UNUSED -->
-  <EscapeShipLostLabel>Schip vernield</EscapeShipLostLabel>
-  <EscapeShipLost>(*Name)Charlon Whitestone(/Name) stuurt je een boodschap.\n\nHij ziet dat je de controle over het gelande schip bent kwijtgeraakt. Om te voorkomen dat het in de verkeerde handen valt, is hij gedwongen om het zelfvernietigingsmechanisme van het schip in werking te stellen. Het schip is nu een krater.\n\nJe zult een andere weg van deze planeet moeten vinden.</EscapeShipLost>
-
 </LanguageData>

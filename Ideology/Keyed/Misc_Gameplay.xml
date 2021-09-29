@@ -2,27 +2,27 @@
 <LanguageData>
 
   <!-- EN: Customize ideoligion -->
-  <CustomizeIdeoligion>TODO</CustomizeIdeoligion>
+  <CustomizeIdeoligion>Ideoligie aanpassen</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
-  <ChooseYourIdeoligion>TODO</ChooseYourIdeoligion>
+  <ChooseYourIdeoligion>Kies je ideoligie</ChooseYourIdeoligion>
   <!-- EN: Random -->
-  <Random>TODO</Random>
+  <Random>Willekeurig</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
-  <RandomStructureTip>TODO</RandomStructureTip>
+  <RandomStructureTip>Er wordt een willekeurige structuur gebruikt voor je ideoligie.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
-  <RandomStyleTip>TODO</RandomStyleTip>
+  <RandomStyleTip>Er wordt een willekeurige stijl gebruikt voor je ideoligie.</RandomStyleTip>
   <!-- EN: Customize -->
-  <Customize>TODO</Customize>
+  <Customize>Aanpassen</Customize>
   <!-- EN: Play classic -->
-  <PlayClassic>TODO</PlayClassic>
+  <PlayClassic>Speel klassiek spel</PlayClassic>
   <!-- EN: Create fluid... -->
-  <CreateFluid>TODO</CreateFluid>
+  <CreateFluid>Creëer flexibel...</CreateFluid>
   <!-- EN: Load saved -->
-  <LoadSaved>TODO</LoadSaved>
+  <LoadSaved>Laad\nopgeslagen</LoadSaved>
   <!-- EN: Structure -->
-  <Structure>TODO</Structure>
+  <Structure>Structuur</Structure>
   <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
-  <ChooseYourIdeoligionDesc>TODO</ChooseYourIdeoligionDesc>
+  <ChooseYourIdeoligionDesc>Wat moeten je beginnende kolonisten geloven? Deze overtuigingen beïnvloeden het spelverloop en visuele aspecten. Je kunt anderen rekruteren voor jouw overtuigingen, of hun overtuigingen overnemen.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>Aangepaste ideoligie</CreateCustom>
   <!-- EN: Create new -->
@@ -106,7 +106,7 @@
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>Niet genoeg verf.</NotEnoughDye>
   <!-- EN: {PAWN_nameDef} is unwilling to recolor {PAWN_possessive} {APPAREL_labelShort}. -->
-  <ApparelLockedCannotRecolor>TODO</ApparelLockedCannotRecolor>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef} is niet bereid om {PAWN_possessive} {APPAREL_labelShort} een andere kleur te geven.</ApparelLockedCannotRecolor>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
   <NotEnoughDyeWillRecolorApparel>De kolonist zal zijn kleding kleuren wanneer verf beschikbaar is.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
@@ -118,29 +118,29 @@
   <!-- EN: Everyone -->
   <Everyone>Iedereen</Everyone>
   <!-- EN: Narrative -->
-  <Narrative>TODO</Narrative>
+  <Narrative>Verhaal</Narrative>
   <!-- EN: narrative -->
-  <NarrativeLower>TODO</NarrativeLower>
+  <NarrativeLower>verhaal</NarrativeLower>
   <!-- EN: Precept name -->
-  <PreceptName>TODO</PreceptName>
+  <PreceptName>Leefregel naam</PreceptName>
   <!-- EN: precept name -->
-  <PreceptNameLower>TODO</PreceptNameLower>
+  <PreceptNameLower>leefregel naam</PreceptNameLower>
   <!-- EN: Changing {0} -->
-  <Changing>TODO</Changing>
+  <Changing>{0} aan het veranderen</Changing>
   <!-- EN: structures -->
-  <StructuresLower>TODO</StructuresLower>
+  <StructuresLower>structuren</StructuresLower>
   <!-- EN: memes -->
-  <MemesLower>TODO</MemesLower>
+  <MemesLower>geloofsprincipes</MemesLower>
   <!-- EN: Development points -->
-  <Reward_DevelopmentPointsLabel>TODO</Reward_DevelopmentPointsLabel>
+  <Reward_DevelopmentPointsLabel>Ontwikkelingspunten</Reward_DevelopmentPointsLabel>
   <!-- EN: Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals. -->
-  <Reward_DevelopmentPoints>TODO</Reward_DevelopmentPoints>
+  <Reward_DevelopmentPoints>Je ontwikkelingspunten voor {0} worden verhoogd met {1}.\n\nJe hebt momenteel {2} ontwikkelingspunten. Zodra je {3} ontwikkelingspunten hebt, kun je de ideologie hervormen.\n\nVerdien extra ontwikkelingspunten door andere missies en rituelen te voltooien.</Reward_DevelopmentPoints>
   <!-- EN: Current points -->
-  <CurrentDevelopmentPoints>TODO</CurrentDevelopmentPoints>
+  <CurrentDevelopmentPoints>Huidig aantal punten</CurrentDevelopmentPoints>
   <!-- EN: Points needed to reform -->
-  <ReformDevelopmentPoints>TODO</ReformDevelopmentPoints>
+  <ReformDevelopmentPoints>Benodigd aantal punten om te hervormen</ReformDevelopmentPoints>
   <!-- EN: quest -->
-  <QuestLower>TODO</QuestLower>
+  <QuestLower>opdracht</QuestLower>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>Een graf met {PAWN_labelShort}'s lijk.</RitualTargetGraveInfo>
@@ -179,7 +179,7 @@
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>Al verbonden met {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
-  <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>De verbinding van {TREE_definite} is onlangs verbroken. Het kan opnieuw verbinding maken in {1}.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>Je hebt {0} hout nodig voor elke deelnemer (toaal {2}). Je hebt {1} hout.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
@@ -207,9 +207,9 @@
   <RitualOutcomeExtraDesc_Execution>Alle participerende slaven zijn geschokt door de dood. Hun onderdrukking is nu op het maximale niveau.</RitualOutcomeExtraDesc_Execution>
   
   <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
-  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>Vanwege de kwaliteit van het ritueel zijn je ontwikkelingspunten verhoogd met {2} (van {0} naar {1}).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
   <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
-  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>Door de slechte kwaliteit van het ritueel werden er geen ontwikkelingspunten verdiend.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
   <!-- EN: Additional reward -->
   <RitualAttachedReward>Bijkomende beloning</RitualAttachedReward>
@@ -273,9 +273,9 @@
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart2>Op dit moment wordt met de {0} begonnen bij {1_labelShortIndef}.</RitualOutcomeCompTip_RitualTargetDefsPart2>
   <!-- EN: Development points -->
-  <RitualDevelopmentPoints>TODO</RitualDevelopmentPoints>
+  <RitualDevelopmentPoints>Ontwikkelingspunten</RitualDevelopmentPoints>
   <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
-  <RitualDevelopmentPointsTip>TODO</RitualDevelopmentPointsTip>
+  <RitualDevelopmentPointsTip>Het voltooien van dit ritueel levert {0}-{1} ontwikkelingspunten op, afhankelijk van de kwaliteit.</RitualDevelopmentPointsTip>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>Voor slavengebruik</ForSlaveUse>
@@ -320,11 +320,11 @@
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>De {0} heeft hogere verwachtingen.</RoleRaisedExpectation>
   <!-- EN: The {0} will have higher expectations in {1}. -->
-  <RoleRaisedExpectationGracePeriod>TODO</RoleRaisedExpectationGracePeriod>
+  <RoleRaisedExpectationGracePeriod>De {0} zal hogere verwachtingen hebben in {1}.</RoleRaisedExpectationGracePeriod>
   <!-- EN: Led by {0} -->
   <IdeoLeaderDifferentIdeoThoughtLabel>Geleid door {0}</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
-  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} doet geen {0} werk.</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} doet geen {1} werk.</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->
   <AbilityDisabledNoAltarOrRitualsSpot>Onbereikbaar altaar of rituele plaats.</AbilityDisabledNoAltarOrRitualsSpot>
 
@@ -497,7 +497,7 @@
   <!-- EN: {0} connection strength needed to support a dryad. -->
   <NotEnoughConnectionStrengthForSingleDryad>{0} verbindingssterkte vereist om een dryade te ondersteunen.</NotEnoughConnectionStrengthForSingleDryad>
   <!-- EN: Cannot assign allowed area -->
-  <CannotAssignAllowedAreaToDryad>TODO</CannotAssignAllowedAreaToDryad>
+  <CannotAssignAllowedAreaToDryad>Kan geen toegestaan gebied toewijzen</CannotAssignAllowedAreaToDryad>
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
@@ -585,7 +585,7 @@
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
   <BiosculpterInteruptCycleDesc>Onderbreek de huidige cyclus. De inzittende verlaat de capsule zonder te profiteren van de effecten van de cyclus, en zal kort last hebben van biovormerziekte.</BiosculpterInteruptCycleDesc>
   <!-- EN: Warning: Age reversal cycle cannot be run while biosculpter is tuned to {PAWN_labelShort} because {PAWN_labelShort} is under {ADULTAGE} years old. -->
-  <BiosculpterUnderageAgeReversalMessage>TODO</BiosculpterUnderageAgeReversalMessage>
+  <BiosculpterUnderageAgeReversalMessage>Waarschuwing: de verjongingscyclus kan niet worden uitgevoerd zolang de biovormer is afgestemd op {PAWN_labelShort} omdat {PAWN_labelShort} jonger is dan {ADULTAGE} jaar.</BiosculpterUnderageAgeReversalMessage>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
   <BiosculpterLoadingStartedMessage>Wanneer de biovormercapsule is gevuld met {NUTRITION} voeding, kun je een kolonist selecteren en rechts klikken op de biovormercapsule of op een neergehaalde persoon om de cyclus te beginnen.</BiosculpterLoadingStartedMessage>
   <!-- EN: {PAWN_labelShort} was ejected from a biosculpter pod due to lack of power. -->
@@ -601,14 +601,10 @@
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>Schoonmaak snelheidsfactor</BiosculpterCleanlinessSpeedFactor>
   <!-- EN: These conditions will be healed -->
-  <HealingCycleWillHeal>TODO</HealingCycleWillHeal>
+  <HealingCycleWillHeal>Deze aandoeningen zullen worden genezen</HealingCycleWillHeal>
   <!-- EN: One of these conditions will be healed -->
-  <HealingCycleOneWillHeal>TODO</HealingCycleOneWillHeal>
+  <HealingCycleOneWillHeal>Een van deze aandoeningen zal worden genezen</HealingCycleOneWillHeal>
   <!-- EN: Missing required research -->
-  <MissingRequiredResearch>TODO</MissingRequiredResearch>
-
-  <!-- UNUSED -->
-  <ChooseIdeoligion>Kies de ideoligie van je factie</ChooseIdeoligion>
-  <RelicHuntFindRelicSite>Allereerst moet je de {0} vinden. Houd kansen in de gaten om informatie te verzamelen.</RelicHuntFindRelicSite>
+  <MissingRequiredResearch>Vereist onderzoek ontbreekt</MissingRequiredResearch>
 
 </LanguageData>

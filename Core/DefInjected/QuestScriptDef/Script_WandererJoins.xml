@@ -4,14 +4,14 @@
   <!-- EN:
     <li>questDescription-></li>
   -->
-  <WandererJoins.questDescriptionRules.rulesStrings>questDescription-></WandererJoins.questDescriptionRules.rulesStrings>
+  <WandererJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </WandererJoins.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Wanderer joins</li>
   -->
-  <WandererJoins.questNameRules.rulesStrings>questDescription->Vagebond sluit zich aan</WandererJoins.questNameRules.rulesStrings>
-  
-  <!-- UNUSED -->
-  <WandererJoins.questDescriptionRules.rulesStrings>questDescription-></WandererJoins.questDescriptionRules.rulesStrings>
-  <WandererJoins.questNameRules.rulesStrings>questDescription->Vagebond sluit zich aan</WandererJoins.questNameRules.rulesStrings>
+  <WandererJoins.questNameRules.rulesStrings>
+    <li>questName->Vagebond sluit zich aan</li>
+  </WandererJoins.questNameRules.rulesStrings>
   
 </LanguageData>

@@ -43,7 +43,7 @@
   <!-- EN: {0} desired -->
   <IdeoBuildingMissing>{0} gewenst</IdeoBuildingMissing>
   <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>{1} vereist dat je een {0} in je kolonie hebt zolang {2} of hoger.{4}\n\nAls niet aan de vereiste wordt voldaan, zullen deze gelovigen ongelukkig worden:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name} vereist dat je een {0} in je kolonie hebt zolang {2} of hoger.\n\nDeze vereiste is alleen actief als {IDEO_name} de primaire ideologie van je factie is, of als er {MINBELIEVERS} gelovigen in uw factie zijn.{4}\n\nAls niet aan de eis wordt voldaan, zullen deze gelovigen ongelukkig worden:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
   <IdeoBuildingRoomRequirementsDesc>Om {0} waardig te zijn, moet aan deze kamervereisten worden voldaan</IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->

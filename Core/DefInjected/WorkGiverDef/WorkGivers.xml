@@ -95,7 +95,7 @@
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>breng voedsel naar gevangenen</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>brengt voedsel naar</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>voedsel brengen naar</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
   <DeliverFoodToPrisoner.verb>breng voedsel naar</DeliverFoodToPrisoner.verb>
   
@@ -130,28 +130,28 @@
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>kook maaltijden op een fornuis</DoBillsCook.label>
   <!-- EN: cooking at -->
-  <DoBillsCook.gerund>kookt op</DoBillsCook.gerund>
+  <DoBillsCook.gerund>koken op</DoBillsCook.gerund>
   <!-- EN: cook -->
   <DoBillsCook.verb>kook</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>kook maaltijden op een kampvuur</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
-  <DoBillsCookCampfire.gerund>kookt op</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.gerund>koken op</DoBillsCookCampfire.gerund>
   <!-- EN: cook -->
   <DoBillsCookCampfire.verb>kook</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>lijken verbranden</DoBillsCremate.label>
   <!-- EN: cremating at -->
-  <DoBillsCremate.gerund>lijk verbranden bij</DoBillsCremate.gerund>
+  <DoBillsCremate.gerund>lijk verbranden in</DoBillsCremate.gerund>
   <!-- EN: cremate -->
   <DoBillsCremate.verb>lijk verbranden</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
   <DoBillsFabricationBench.label>fabriceer dingen</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
-  <DoBillsFabricationBench.gerund>fabriceert dingen bij</DoBillsFabricationBench.gerund>
+  <DoBillsFabricationBench.gerund>dingen fabriceren bij</DoBillsFabricationBench.gerund>
   <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>fabriceert dingen</DoBillsFabricationBench.verb>
   
@@ -186,7 +186,7 @@
   <!-- EN: operate on animals -->
   <DoBillsMedicalAnimalOperation.label>opereer op dieren</DoBillsMedicalAnimalOperation.label>
   <!-- EN: operating on -->
-  <DoBillsMedicalAnimalOperation.gerund>opererend op</DoBillsMedicalAnimalOperation.gerund>
+  <DoBillsMedicalAnimalOperation.gerund>opereren op</DoBillsMedicalAnimalOperation.gerund>
   <!-- EN: operate on -->
   <DoBillsMedicalAnimalOperation.verb>opereer op</DoBillsMedicalAnimalOperation.verb>
   
@@ -324,11 +324,11 @@
   <ExecuteGuiltyColonist.verb>executeer</ExecuteGuiltyColonist.verb>
   
   <!-- EN: extract trees -->
-  <ExtractTree.label>TODO</ExtractTree.label>
+  <ExtractTree.label>bomen ontwortelen</ExtractTree.label>
   <!-- EN: extracting -->
-  <ExtractTree.gerund>TODO</ExtractTree.gerund>
+  <ExtractTree.gerund>ontwortelen</ExtractTree.gerund>
   <!-- EN: extract -->
-  <ExtractTree.verb>TODO</ExtractTree.verb>
+  <ExtractTree.verb>ontwortel</ExtractTree.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>voed gevangenen</FeedPrisoner.label>

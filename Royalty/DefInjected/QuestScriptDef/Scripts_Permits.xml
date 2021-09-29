@@ -24,7 +24,4 @@
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
   <Permit_CallLaborers.LetterTextLaborerDied.slateRef>Een arbeider die je door [permitFaction_name] is gestuurd, is overleden. Je relatie met [permitFaction_name] is afgenomen met [goodwillPenaltyPawn].</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
-  <!-- UNUSED -->
-  <Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>arbeiders misten shuttle</Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>
-  
 </LanguageData>

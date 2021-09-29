@@ -279,9 +279,9 @@
   <AlertAnimalPenNotEnclosedDesc>Een weidemarkering is niet omheind.\n\nGebruik hekken, barricades, poorten, muren of deuren om te voorkomen dat dieren naar buiten wandelen.\n\nAls je een onomheinde weidemarkering hebt kunnen dieren hier nog steeds naar toe worden geleid, maar moet dit keer op keer herhaald worden wanneer de dieren te ver weg lopen.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: {ANIMAL_labelShort} in animal pen -->
-  <AlertPredatorInAnimalPen>TODO</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} in dierenhok</AlertPredatorInAnimalPen>
   <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
-  <AlertPredatorInAnimalPenDesc>TODO</AlertPredatorInAnimalPenDesc>
+  <AlertPredatorInAnimalPenDesc>Een roofzuchtige {ANIMAL_labelShort} is een dierenhok binnengelopen.\n\nHet kan besluiten om op je dieren te jagen.\n\nJe kunt het doden, of wachten en hopen dat het vertrekt.</AlertPredatorInAnimalPenDesc>
 
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>Dier loopt weg</AlertAnimalIsRoaming>
@@ -306,15 +306,8 @@
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Deze facties zullen vijandig worden als je nog langer blijft bij hun nederzetting of buitenpost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->
-  <AlertMinifiedTreeAboutToDie>TODO</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDie>{0} bomen aan het sterven</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc>TODO</AlertMinifiedTreeAboutToDieDesc>
-
-  <!-- UNUSED -->
-  <AlertSlaveRebellionMultipleLikelySlavesHeader>Er zijn {0} slaven die waarschijnlijk binnenkort een opstand zullen starten.</AlertSlaveRebellionMultipleLikelySlavesHeader>
-  <AlertSlaveRebellionMultipleSlavesInterval>Een slavenopstand zal gemiddeld elke {0} voorkomen.</AlertSlaveRebellionMultipleSlavesInterval>
-  <AlertSlaveRebellionMultipleLikelySlavesPrefix>{REBEL_labelShort} is de opstandigste slaaf en</AlertSlaveRebellionMultipleLikelySlavesPrefix>
-  <AlertSlaveRebellionLikelyExplanation>wordt verwacht elke {0} in opstand te komen. Dit zijn een aantal van de factoren die invloed hebben op hoe vaak ze in opstand komen:</AlertSlaveRebellionLikelyExplanation>
-  <AlertSlaveRebellionLikelyNote>De opstandkans van elke slaaf is onafhankelijk van elkaar. Als één slaaf in opstand komt, zullen andere slaven in de buurt geneigd zijn ook in opstand te komen.</AlertSlaveRebellionLikelyNote>
+  <AlertMinifiedTreeAboutToDieDesc>{0} ontwortelde bomen zullen over minder dan een dag sterven. Dit zal sommige kolonisten ongelukkig maken vanwege hun geloof.\n\nJe kunt dit voorkomen door deze bomen te herplanten.</AlertMinifiedTreeAboutToDieDesc>
 
 </LanguageData>

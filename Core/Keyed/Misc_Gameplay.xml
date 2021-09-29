@@ -113,9 +113,9 @@
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
   <RenounceTitleWillLoosePermits>{PAWN_possessive} zal deze rechten verliezen</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
-  <RenounceTitleWillLosePermitPoints>TODO</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} zal {POINTS} niet-uitgegeven vergunningspunten met {FACTION_name} verliezen.</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
-  <RenounceTitleWillKeepPsylinkLevels>TODO</RenounceTitleWillKeepPsylinkLevels>
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} zal al {PAWN_possessive} psylink-niveaus en psycasts behouden.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>onbekend</UnknownLower>
   <!-- EN: On -->
@@ -415,7 +415,7 @@
   <!-- EN: animals -->
   <AnimalsLower>dieren</AnimalsLower>
   <!-- EN: items -->
-  <ItemsLower>TODO</ItemsLower>
+  <ItemsLower>items</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -1148,7 +1148,7 @@
   <!-- EN: Not installed -->
   <NotInstalled>Niet geïnstalleerd</NotInstalled>
   <!-- EN: Extracted tree will die in {time} unless replanted. -->
-  <MinifiedTreeWillDieIn>TODO</MinifiedTreeWillDieIn>
+  <MinifiedTreeWillDieIn>De ontwortelde boom zal over {time} sterven tenzij hij opnieuw wordt geplant.</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -1483,7 +1483,7 @@
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>Elke {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
-  <LordReportAttending>Bijwonen</LordReportAttending>
+  <LordReportAttending>{0} aan het bijwonen</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>{0} is afgebroken</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -1594,8 +1594,8 @@
   <MaxValue>{0} max</MaxValue>
 
   <!-- EN: {0} of -->
-  <ThingOf>TODO</ThingOf>
+  <ThingOf>{0} van</ThingOf>
   <!-- EN: {0} of {1} -->
-  <ThingOfSource>TODO</ThingOfSource>
+  <ThingOfSource>{0} van {1}</ThingOfSource>
 
 </LanguageData>

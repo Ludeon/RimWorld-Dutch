@@ -155,7 +155,7 @@
   <MessageShuttleDestinationIsTooFar>Bestemming is buiten bereik.</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
-  <BeginCeremony>Voer schenkingsceremonie uit</BeginCeremony>
+  <BeginCeremony>Voer schenkingsceremonie uit voor {0_labelShort}</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>De troonzaal van {PAWN_definite} voldoet niet aan de eisen van {PAWN_possessive} titel {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
@@ -176,7 +176,7 @@
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>Moet een kolonist zijn met een natuurlijk meditatiefocustype, die onder het maximum psylinkniveau zit.</RitualTargetAnimaTreeMustBeCapableOfNature>
   <!-- EN: Must not be psychically deaf. -->
-  <RitualTargetAnimaTreeMustBePsychicallySensitive>TODO</RitualTargetAnimaTreeMustBePsychicallySensitive>
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>Mag niet psychisch doof zijn.</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>De animakoppelingsceremonie is krachtiger met meer deelnemers. Hoe meer mensen deelnemen, des te korter de ceremonie duurt, en hoe meer animagras zal groeien.\n\nMet {0} extra deelnemers zal {1} animagras worden hersteld aan het eind van de ceremonie.</AnimaLinkingExplanationBase>

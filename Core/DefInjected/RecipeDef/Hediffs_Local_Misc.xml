@@ -6,7 +6,7 @@
   <!-- EN: This special medical operation cures scaria. -->
   <CureScaria.description>Deze bijzondere medische operatie geneest scaria</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>Scaria genezen.</CureScaria.jobString>
+  <CureScaria.jobString>Scaria aan het genezen.</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
   <CureScaria.successfullyRemovedHediffMessage>{0} heeft de scaria van {1} genezen.</CureScaria.successfullyRemovedHediffMessage>
   

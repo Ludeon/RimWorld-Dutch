@@ -37,9 +37,9 @@
   <BionicStomach.description>Een geavanceerde kunstmatige maag. Een set sensoren en chemische synthesizers verteren efficiënt bijna elk energiedragend voedingsmiddel. Een geïntegreerd roosterstof-genezingssysteem herstelt automatisch alle schade veroorzaakt door de krachtige zuren. Het is in bijna elk opzicht beter dan een biologische maag.</BionicStomach.description>
   
   <!-- EN: bionic tongue -->
-  <BionicTongue.label>TODO</BionicTongue.label>
+  <BionicTongue.label>bionische tong</BionicTongue.label>
   <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
-  <BionicTongue.description>TODO</BionicTongue.description>
+  <BionicTongue.description>Een kunstmatige vervangende tong. Omdat hij gemaakt is van synthetische gladde vezels en verbonden via een neurogel-interface, kan hij de prestaties van een natuurlijke tong evenaren bij het spreken, eten en proeven.</BionicTongue.description>
   
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>doodssoplosser</DeathAcidifier.label>

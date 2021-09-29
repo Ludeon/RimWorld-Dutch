@@ -19,11 +19,11 @@
   <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
   <LockButtonDesc>Als je op deze knop klikt, wordt het huidige ideoligieuze verhaal op slot gezet. Indien vergrendeld, wordt de verhaaltekst niet automatisch opnieuw gegenereerd als de ideoligie wordt gewijzigd.</LockButtonDesc>
   <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
-  <LockInOn>Verhaalvergrendeling is momenteel ingeschakeld. Het verhaal wordt niet automatisch opnieuw gegenereerd.</LockInOn>
+  <LockInOn>{0} vergrendeling is momenteel ingeschakeld. {1} zal niet automatisch opnieuw worden gegenereerd.</LockInOn>
   <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
-  <LockInOff>Verhaalvergrendeling is momenteel uitgeschakeld. Het verhaal kan automatisch opnieuw worden gegenereerd.</LockInOff>
+  <LockInOff>{0} vergrendeling is momenteel uitgeschakeld. {1} kan automatisch opnieuw worden gegenereerd.</LockInOff>
   <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
-  <LockPreceptNameButtonDesc>TODO</LockPreceptNameButtonDesc>
+  <LockPreceptNameButtonDesc>Vergrendel of ontgrendel de naam van deze leefregel. Indien vergrendeld, wordt de naam van de leefregel niet automatisch opnieuw gegenereerd als de ideologie wordt gewijzigd.</LockPreceptNameButtonDesc>
   <!-- EN: Precepts -->
   <Precepts>Leefregels</Precepts>
   <!-- EN: Rituals -->
@@ -59,7 +59,7 @@
   <!-- EN: Choose memes -->
   <ChooseMemes>Kies geloofsprincipes</ChooseMemes>
   <!-- EN: Choose starting meme -->
-  <ChooseStartingMeme>TODO</ChooseStartingMeme>
+  <ChooseStartingMeme>Kies eerste geloofsprincipe</ChooseStartingMeme>
   <!-- EN: Choose structure -->
   <ChooseStructure>Kies structuur</ChooseStructure>
   <!-- EN: Choose culture -->
@@ -189,15 +189,15 @@
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>extreem</IdeoImpactLabel_9>
   <!-- EN: This was your colony's starting ideoligion. -->
-  <InitialPlayerIdeo>TODO</InitialPlayerIdeo>
+  <InitialPlayerIdeo>Dit was de eerste ideoligie van je kolonie.</InitialPlayerIdeo>
   
   
   <!-- EN: Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more. -->
-  <FluidIdeoTip>TODO</FluidIdeoTip>
+  <FluidIdeoTip>Omdat deze ideoligie zo nieuw is en zo weinig volgelingen op deze planeet heeft, is hij flexibel. Dit betekent dat hij zich in de loop van de tijd kan ontwikkelen.\n\nHet ontwikkelen van de ideoligie kost ontwikkelingspunten. Je kunt ontwikkelingspunten verdienen door rituelen en missies te voltooien die verband houden met deze ideoligie.\n\nMet voldoende ontwikkelingspunten kun je de ideoligie hervormen met nieuwe geloofsprincipes, leefregels, stijlen en meer.</FluidIdeoTip>
   <!-- EN: How to get development points -->
-  <FluidIdeoTipGetPoints>TODO</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoints>Hoe ontwikkelpunten te krijgen</FluidIdeoTipGetPoints>
   <!-- EN: Convert someone to your ideoligion -->
-  <FluidIdeoTipGetPoinsByConversion>TODO</FluidIdeoTipGetPoinsByConversion>
+  <FluidIdeoTipGetPoinsByConversion>Bekeer iemand tot jouw ideoligie</FluidIdeoTipGetPoinsByConversion>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>{0} ontgrendelt dingen die je niet kunt bouwen omdat ze geloofsprincipes nodig hebben waar geen van je mensen in gelooft</ResearchProjectHasDefsWithMissingMemes>
@@ -205,6 +205,6 @@
   <SelectedWorkTypeOpposedByIdeo>Waarschuwing: dit soort werk wordt druist in tegen {0_possessive} ideoligie, dus het kan deze persoon ongelukkig maken.</SelectedWorkTypeOpposedByIdeo>
 
   <!-- EN: Development points -->
-  <DevelopmentPoints>TODO</DevelopmentPoints>
+  <DevelopmentPoints>Ontwikkelingspunten</DevelopmentPoints>
 
 </LanguageData>

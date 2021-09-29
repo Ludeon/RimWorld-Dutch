@@ -7,9 +7,9 @@
   <Brazier.description>Een komvormige inrichting die wordt gebruikt om een vuur in te stoken. Zal de omgeving verlichten en warmte creëren.</Brazier.description>
   
   <!-- EN: darklight brazier -->
-  <DarklightBrazier.label>TODO</DarklightBrazier.label>
+  <DarklightBrazier.label>Duisterlicht vuurpot</DarklightBrazier.label>
   <!-- EN: A specially treated brazier that illuminates its surroundings with darklight and creates heat. These satisfy royal brazier requirements. -->
-  <DarklightBrazier.description>TODO</DarklightBrazier.description>
+  <DarklightBrazier.description>Een speciaal behandelde vuurpot die de omgeving verlicht met duisterlicht en warmte creëert. Deze voldoen aan de eisen van een adellijke kolonist.</DarklightBrazier.description>
   
   <!-- EN: drape -->
   <Drape.label>drapering</Drape.label>

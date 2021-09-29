@@ -31,8 +31,14 @@
   <MessageIncompatibleMemes>{0_label} en {1_label} zijn niet compatibel met elkaar.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
   <MessageNoRequiredRolePawnToBeginRitual>Je hebt {0} nodig om {1} te starten.</MessageNoRequiredRolePawnToBeginRitual>
+  <!-- EN: At least {0} spectator(s) are required to start the {1}. -->
+  <MessageNotEnoughSpectators>TODO</MessageNotEnoughSpectators>
+  <!-- EN: You must choose a role. -->
+  <MessageRoleChangeChooseDifferentRole>TODO</MessageRoleChangeChooseDifferentRole>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
   <MessageNeedAssignedRoleToBeginRitual>Voordat je {1} kunt starten, moet je iemand de rol van {0} toewijzen.</MessageNeedAssignedRoleToBeginRitual>
+  <!-- EN: Need at least one {0} participating. -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>TODO</MessageNeedAtLeastOneParticipantOfIdeo>
   
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>{0_labelShort} heeft nu de rol van {1}.</MessageRoleAssigned>

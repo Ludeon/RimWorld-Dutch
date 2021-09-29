@@ -20,7 +20,7 @@
   <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
   <PsycastNeurotrainerUseLabel>Gebruik psytrainer om paranormale kracht {0} te leren</PsycastNeurotrainerUseLabel>
-  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed. -->
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION} -->
   <PsycastNeurotrainerDescription>Een superdosis mechanieten voor eenmalig gebruik die een specifieke paranormale kracht traint.\n\nDe dosis wordt toegediend via de oogkas. Eenmaal vrijgelaten in de hersenen, vormen de mechanieten kennis van een specifieke kracht, waarbij ze zichzelf zo nodig in neuraal weefsel transformeren.</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort} gebruikte neurotrainer om de {1} kracht te leren.</AbilityNeurotrainerUsed>

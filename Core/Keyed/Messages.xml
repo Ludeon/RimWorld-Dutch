@@ -659,6 +659,8 @@
   <RitualBegun>{0} is begonnen</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>Het maximaal aantal {0} is {1}</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>TODO</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
   <MessageRitualNeedsAtLeastOnePerson>Je hebt minstens één deelnemer nodig.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
@@ -685,6 +687,10 @@
   <MessageRitualRoleMustBeAnimal>{0} moet een dier zijn.</MessageRitualRoleMustBeAnimal>
   <!-- EN: {0} must be a human. -->
   <MessageRitualRoleMustBeHumanlike>{0} moet een mens zijn.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
   <MessageRitualRoleMustHaveEyes>{0} moet ogen hebben.</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
@@ -739,5 +745,8 @@
   <TooCloseToOtherPlant>Te dicht bij {0_label}.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>Te dicht bij de plantlocatie van {0_label}.</TooCloseToOtherSeedPlantCell>
-  
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
+
 </LanguageData>

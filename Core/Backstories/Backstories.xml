@@ -5381,14 +5381,14 @@
     <desc>Als autodidactisch ingenieur ontsnapte [PAWN_nameDef] aan [PAWN_possessive] stervende thuiswereld op een raket die [PAWN_pronoun] [PAWN_objective] zelf had gebouwd.\n\n[PAWN_pronoun] bracht later jaren van [PAWN_possessive] leven op verschillende werelden door, om minder ontwikkelde planeten te helpen rakettechnologie te ontwikkelen.</desc>
   </RocketPioneer19>
   
-  <RoyalBastard3>
+  <RoyalBastard64>
     <!-- EN: royal bastard -->
     <title>koninklijke bastaard</title>
     <!-- EN: bastard -->
     <titleShort>bastaard</titleShort>
-    <!-- EN: [PAWN_nameDef] the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
+    <!-- EN: [PAWN_nameDef] was the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
     <desc>[PAWN_nameDef] was het kind van een heer en een prostituee.\n\n[PAWN_possessive] vader's lijn was veilig en zijn bezit sterk. Niemand kwam ooit naar [PAWN_nameDef] om een aanspraak op de titel te steunen. [PAWN_pronoun] verdiende [PAWN_possessive] brood met het schoonmaken van het bordeel, maar vond altijd dat [PAWN_pronoun] veel meer verdiende.</desc>
-  </RoyalBastard3>
+  </RoyalBastard64>
   
   <RoyalCook18>
     <!-- EN: royal cook -->

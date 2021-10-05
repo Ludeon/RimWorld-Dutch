@@ -154,7 +154,7 @@
   <Tough.degreeDatas.tough.description>{PAWN_nameIndef} heeft een dikke huid, grote spieren en sterke botten. {PAWN_pronoun} loopt veel minder schade op dan andere mensen van dezelfde wonden. {PAWN_pronoun} is erg moeilijk te vermoorden.</Tough.degreeDatas.tough.description>
   
   <!-- EN: body modder -->
-  <Transhumanist.degreeDatas.body_modder.label>Prothesofiel</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.label>prothesofiel</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
   <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} voelt zich begrensd in {PAWN_possessive} menselijke lichaam. {PAWN_pronoun} droomt ervan {PAWN_possessive} natuurlijke lichaamsdelen te ruilen tegen de bionische varianten daarvan.</Transhumanist.degreeDatas.body_modder.description>
   

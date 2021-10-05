@@ -36,8 +36,8 @@
     <li>runnerIndef->een Vluchteling</li>
   </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>TODO</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} in achtervolging op [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
-  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>TODO</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \nDe [enemyFaction_pawnsPlural] zijn voor [../joiner_nameDef] gekomen.</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
   
 </LanguageData>

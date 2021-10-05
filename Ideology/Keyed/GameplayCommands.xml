@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: For slaves -->
-  <CommandBedSetForSlavesLabel>TODO</CommandBedSetForSlavesLabel>
+  <CommandBedSetForSlavesLabel>Voor slaven</CommandBedSetForSlavesLabel>
   <!-- EN: For colonists -->
-  <CommandBedSetForColonistsLabel>TODO</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsLabel>Voor kolonisten</CommandBedSetForColonistsLabel>
   <!-- EN: Whether beds in this room should be used by colonists, prisoners or slaves. -->
-  <CommandBedSetForOwnerTypeDesc>TODO</CommandBedSetForOwnerTypeDesc>
+  <CommandBedSetForOwnerTypeDesc>Bepaalt of bedden in deze kamer gebruikt moeten worden door kolonisten, gevangenen of slaven.</CommandBedSetForOwnerTypeDesc>
 
   <!-- EN: No auto-use -->
-  <CommandNeuralSuperchargerNoAutoUse>TODO</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUse>Geen automatisch gebruik</CommandNeuralSuperchargerNoAutoUse>
   <!-- EN: None of your people will use this neural supercharger automatically. -->
-  <CommandNeuralSuperchargerNoAutoUseDescription>TODO</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerNoAutoUseDescription>Geen van je mensen zal deze neurale supercharger automatisch gebruiken.</CommandNeuralSuperchargerNoAutoUseDescription>
   <!-- EN: Auto-use with desire -->
-  <CommandNeuralSuperchargerAutoUseWithDesire>TODO</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesire>Automatisch gebruik wanneer verlangd</CommandNeuralSuperchargerAutoUseWithDesire>
   <!-- EN: Your people may use this neural supercharger automatically, if they want to because of their beliefs. -->
-  <CommandNeuralSuperchargerAutoUseWithDesireDescription>TODO</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Je mensen kunnen deze neurale supercharger automatisch gebruiken, als ze dat willen vanwege hun overtuigingen.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
   <!-- EN: Auto-use for everyone -->
-  <CommandNeuralSuperchargerAutoForEveryone>TODO</CommandNeuralSuperchargerAutoForEveryone>
+  <CommandNeuralSuperchargerAutoForEveryone>Automatisch gebruik voor iedereen</CommandNeuralSuperchargerAutoForEveryone>
   <!-- EN: All of your people will use this neural supercharger if they get the chance. -->
-  <CommandNeuralSuperchargerAutoForEveryoneDescription>TODO</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>Al je mensen zullen deze neurale supercharger gebruiken als ze de kans krijgen.</CommandNeuralSuperchargerAutoForEveryoneDescription>
   <!-- EN: Allow guests -->
-  <CommandNeuralSuperchargerAllowGuests>TODO</CommandNeuralSuperchargerAllowGuests>
+  <CommandNeuralSuperchargerAllowGuests>Sta gasten toe</CommandNeuralSuperchargerAllowGuests>
   <!-- EN: Allow this neural supercharger to be used by temporary faction members. -->
-  <CommandNeuralSuperchargerAllowGuestsDescription>TODO</CommandNeuralSuperchargerAllowGuestsDescription>
+  <CommandNeuralSuperchargerAllowGuestsDescription>Sta toe dat deze neurale supercharger wordt gebruikt door tijdelijke factieleden.</CommandNeuralSuperchargerAllowGuestsDescription>
 
   <!-- EN: Select connected tree -->
-  <CommandSelectConnectedTree>TODO</CommandSelectConnectedTree>
+  <CommandSelectConnectedTree>Selecteer verbonden boom</CommandSelectConnectedTree>
   <!-- EN: Create healing pod -->
-  <CommandHealInHealingPod>TODO</CommandHealInHealingPod>
+  <CommandHealInHealingPod>Genezende capsule maken</CommandHealInHealingPod>
   <!-- EN: If this creature is injured, it will return to its connected Gauranlen tree and enter a woody healing pod. After {DAYS} days, the dryad will emerge with its wounds healed. -->
-  <CommandHealInHealingPodDesc>TODO</CommandHealInHealingPodDesc>
+  <CommandHealInHealingPodDesc>Als dit wezen gewond raakt, keert het terug naar zijn verbonden Gauranlen-boom en gaat het een houten genezingscapsule binnen. Na {DAGEN} dagen komt de dryade genezen tevoorschijn.</CommandHealInHealingPodDesc>
 </LanguageData>

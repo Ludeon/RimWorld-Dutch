@@ -28,14 +28,18 @@
     <li>tale_noun->de nacht waarop het poollicht scheen boven [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityGendered] die wordt verlicht door het licht van een aurora</li>
     <li>tale_noun(p=0.5)->[PAWN_nameDef]'s [CommunityNeuter] dat wordt verlicht door het licht van een aurora</li>
-    <li>image->de hemel die in [Color] en [Color] is verlicht [circumstance_phrase]</li>
-    <li>image->een fantastisch patroon van [ColorAdjective] stralen [circumstance_phrase]</li>
-    <li>image->een netwerk van [ColorAdjective] lichten [circumstance_phrase]</li>
-    <li>image->[ColorAdjective] lichtbogen met [ColorAdjective] vlekken er in [circumstance_phrase]</li>
-    <li>image->dansende [ColorAdjective] lichten [circumstance_group]</li>
+    <li>image->een [Color] en [Color] verlichte hemel [circumstance_phraseGendered]</li>
+    <li>image->een fantastische bundel van [ColorAdjective] stralen [circumstance_phraseGendered]</li>
+    <li>image->een netwerk van [ColorAdjective] lichten [circumstance_phraseNeuter]</li>
+    <li>image->Een serie [ColorAdjective] lichtbogen met [ColorAdjective] vlekken er in [circumstance_phraseGendered]</li>
+    <li>image->een aantal dansende [ColorAdjective] lichten [circumstance_groupNeuter]</li>
+    <li>circumstance_phraseGendered->die een [TerrainFeature] verlicht</li>
+    <li>circumstance_phraseGendered->die boven een [Community] hangt</li>
+    <li>circumstance_phraseNeuter->dat een [TerrainFeature] verlicht</li>
+    <li>circumstance_phraseNeuter->dat boven een [Community] hangt</li>
+    <li>circumstance_phraseGendered(p=2)->[circumstance_phrase]</li>
+    <li>circumstance_phraseNeuter(p=2)->[circumstance_phrase]</li>
     <li>circumstance_phrase->boven een [TerrainFeature]</li>
-    <li>circumstance_phrase->die een [TerrainFeature] verlichten</li>
-    <li>circumstance_phrase->die boven een [Community] hangen</li>
     <li>circumstance_phrase->met aan weerskanten een [TerrainFeature] en een [TerrainFeature]</li>
     <li>desc_sentence->Daar beneden speelt [PAWN_nameDef] [Game] met een [AdjectiveFriendlyGendered] gelaatsuitdrukking.</li>
     <li>desc_sentence->[PAWN_nameDef] kijkt er naar met een verwonderde uitdrukking op [PAWN_possessive] gezicht.</li>

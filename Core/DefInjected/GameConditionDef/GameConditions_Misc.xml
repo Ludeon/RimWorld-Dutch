@@ -69,7 +69,7 @@
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>Het psychisch gezoem is afgelopen.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>Elke {0} kolonist voelt een golf van ongerustheid en woede!\n\nEen haatzaaiende machine roert zich in de verte. Het stuurt een psychische zoem door dit gebied, afgestemd op {0}. Voor enkele dagen zullen sommige kolonisten zich een stuk slechter voelen.\n\nHet dreun-niveau is {1}.</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Elke {0} kolonist voelt een golf van ongerustheid en woede!\n\nEen haatzaaiende machine roert zich in de verte. Het stuurt een psychische zoem door dit gebied, afgestemd op {0}. Voor enkele dagen zullen sommige kolonisten zich een stuk slechter voelen.\n\nHet zoemniveau is {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>psychische kalmte</PsychicSoothe.label>

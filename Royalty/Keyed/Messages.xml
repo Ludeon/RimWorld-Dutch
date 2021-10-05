@@ -27,7 +27,7 @@
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
   <MessageBestowingDanger>De schenker vertrekt omdat het levensgevaarlijk is.</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
-  <MessageBestowingDangerTemperature>TODO</MessageBestowingDangerTemperature>
+  <MessageBestowingDangerTemperature>De schenker gaat weg wegens levensbedreigende temperatuur.</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>De schenkingsceremonie is onderbroken.</MessageBestowingInterrupted>
 

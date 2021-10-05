@@ -27,9 +27,9 @@
   <Joywire.stages.joywire.description>Het voelt geweldig.</Joywire.stages.joywire.description>
   
   <!-- EN: missing tongue -->
-  <MissingTongue.stages.missing_tongue.label>TODO</MissingTongue.stages.missing_tongue.label>
+  <MissingTongue.stages.missing_tongue.label>ontbrekende tong</MissingTongue.stages.missing_tongue.label>
   <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
-  <MissingTongue.stages.missing_tongue.description>TODO</MissingTongue.stages.missing_tongue.description>
+  <MissingTongue.stages.missing_tongue.description>Mijn tong ontbreekt. Het is zo frustrerend om niet te kunnen praten!</MissingTongue.stages.missing_tongue.description>
   
   <Naked.description>Ik ben naakt. Dat is zo vernederend.</Naked.description>
   <!-- EN: naked -->

@@ -660,7 +660,7 @@
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>Het maximaal aantal {0} is {1}</MaxPawnsPerRole>
   <!-- EN: Role of {0} is locked. -->
-  <RoleIsLocked>TODO</RoleIsLocked>
+  <RoleIsLocked>Rol van {0} ligt vast.</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
   <MessageRitualNeedsAtLeastOnePerson>Je hebt minstens één deelnemer nodig.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
@@ -688,9 +688,9 @@
   <!-- EN: {0} must be a human. -->
   <MessageRitualRoleMustBeHumanlike>{0} moet een mens zijn.</MessageRitualRoleMustBeHumanlike>
   <!-- EN: No roles available for {0_labelShort}. -->
-  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <MessageRitualNoRolesAvailable>Geen rollen beschikbaar voor {0_labelShort}.</MessageRitualNoRolesAvailable>
   <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
-  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} is geen lid van een ideoligie van een kolonie.</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
   <MessageRitualRoleMustHaveEyes>{0} moet ogen hebben.</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
@@ -747,6 +747,6 @@
   <TooCloseToOtherSeedPlantCell>Te dicht bij de plantlocatie van {0_label}.</TooCloseToOtherSeedPlantCell>
 
   <!-- EN: Warning: {0} has been marked for cutting. -->
-  <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
+  <MessageWarningCutImportantPlant>Waarschuwing: {0} is gemarkeerd om te worden gesnoeid.</MessageWarningCutImportantPlant>
 
 </LanguageData>

@@ -4,12 +4,12 @@
   <!-- EN: beauty -->
   <Beauty.label>schoonheid</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>Hoe leuk is een object om naar te kijken.\n\nMooie objecten vervullen de behoefte van kolonisten aan schoonheid.</Beauty.description>
+  <Beauty.description>Hoe leuk een object is om naar te kijken.\n\nMooie objecten vervullen de behoefte van kolonisten aan schoonheid.</Beauty.description>
   
   <!-- EN: outdoor beauty -->
-  <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
+  <BeautyOutdoors.label>schoonheid buitenshuis</BeautyOutdoors.label>
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
-  <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
+  <BeautyOutdoors.description>Hoe leuk een object buitenshuis is om naar te kijken.\n\nMooie objecten vervullen de behoefte van mensen aan schoonheid.</BeautyOutdoors.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>reinheid</Cleanliness.label>

@@ -93,7 +93,7 @@
   <!-- EN: no food -->
   <NoFood>geen voedsel</NoFood>
   <!-- EN: No {0_label} -->
-  <NoIngredient>TODO</NoIngredient>
+  <NoIngredient>geen {0_label}</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>minder dan de vereiste {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->

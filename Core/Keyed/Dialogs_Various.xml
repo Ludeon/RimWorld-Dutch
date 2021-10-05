@@ -88,7 +88,7 @@
   <!-- EN: Save -->
   <SaveGameButton>Opslaan</SaveGameButton>
   <!-- EN: Load -->
-  <LoadGameButton>Laad</LoadGameButton>
+  <LoadGameButton>Laden</LoadGameButton>
   <!-- EN: Overwrite -->
   <OverwriteButton>Overschrijven</OverwriteButton>
   <!-- EN: Really delete {0}? -->

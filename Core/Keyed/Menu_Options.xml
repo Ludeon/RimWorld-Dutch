@@ -33,7 +33,7 @@
   <!-- EN: Choose language -->
   <ChooseLanguage>Taal kiezen</ChooseLanguage>
   <!-- EN: Reset learning helper -->
-  <ResetAdaptiveTutor>Reset leerhulp</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>Leerhulp resetten</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
   <AdaptiveTutorIsReset>De leerhulp is gereset, alles zal weer vanaf het begin worden uitgelegd.</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
@@ -51,11 +51,11 @@
   <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Opslagmap openen</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
-  <ShowSaveGameDataLocation>Toon locatie van opgeslagen gegevens</ShowSaveGameDataLocation>
+  <ShowSaveGameDataLocation>Locatie van opgeslagen gegevens tonen</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>Open logbestanden map</OpenLogFileFolder>
+  <OpenLogFileFolder>Logbestanden map openen</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>Toon logbestanden map</ShowLogFileLocation>
+  <ShowLogFileLocation>Logbestanden map tonen</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
   <NamesYouWantToSee>Voorkeurspersonages die door een speler zijn gemaakt. Deze karakters zullen eerder willekeurig verschijnen tijdens het spelen:</NamesYouWantToSee>
   <!-- EN: Add name -->
@@ -67,11 +67,11 @@
   <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Verhalenverteller instellingen</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
+  <AutosaveInterval>Autosave om de</AutosaveInterval>
   <!-- EN: Temperature mode -->
-  <TemperatureMode>Temperatuurmodus </TemperatureMode>
+  <TemperatureMode>Temperatuur in</TemperatureMode>
   <!-- EN: Show realtime clock -->
-  <ShowRealtimeClock>Toon realtime klok</ShowRealtimeClock>
+  <ShowRealtimeClock>Realtime klok tonen</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Maximaal aantal kolonies: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->

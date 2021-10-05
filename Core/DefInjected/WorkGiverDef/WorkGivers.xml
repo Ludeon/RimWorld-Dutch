@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: release prisoners -->
-  <BasicReleasePrisoner.label>gevangenen vrijlaten</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.label>laat gevangenen vrij</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
   <BasicReleasePrisoner.gerund>vrijlaten</BasicReleasePrisoner.gerund>
   <!-- EN: release -->
@@ -30,7 +30,7 @@
   <CleanClearSnow.verb>ruim sneeuw</CleanClearSnow.verb>
   
   <!-- EN: clean filth -->
-  <CleanFilth.label>schoonmaken</CleanFilth.label>
+  <CleanFilth.label>maak schoon</CleanFilth.label>
   <!-- EN: cleaning -->
   <CleanFilth.gerund>schoonmaken</CleanFilth.gerund>
   <!-- EN: clean -->
@@ -114,14 +114,14 @@
   <DeliverResourcesToFrames.verb>breng naar</DeliverResourcesToFrames.verb>
   
   <!-- EN: brew liquors -->
-  <DoBillsBrew.label>drank brouwen</DoBillsBrew.label>
+  <DoBillsBrew.label>brouw drank</DoBillsBrew.label>
   <!-- EN: brewing at -->
   <DoBillsBrew.gerund>brouwen bij</DoBillsBrew.gerund>
   <!-- EN: brew -->
   <DoBillsBrew.verb>brouw</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
-  <DoBillsButcherFlesh.label>wezens slachten</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.label>slacht wezens</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>slachten bij</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
@@ -142,7 +142,7 @@
   <DoBillsCookCampfire.verb>kook</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
-  <DoBillsCremate.label>lijken verbranden</DoBillsCremate.label>
+  <DoBillsCremate.label>verbrand lijken</DoBillsCremate.label>
   <!-- EN: cremating at -->
   <DoBillsCremate.gerund>lijk verbranden in</DoBillsCremate.gerund>
   <!-- EN: cremate -->
@@ -198,7 +198,7 @@
   <DoBillsMedicalHumanOperation.verb>opereer op</DoBillsMedicalHumanOperation.verb>
   
   <!-- EN: synthesize drugs -->
-  <DoBillsProduceDrugs.label>drugs synthetiseren</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.label>produceer drugs</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>drugs produceren bij</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs -->
@@ -226,7 +226,7 @@
   <DoBillsSmelter.verb>smelt</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
-  <DoBillsStonecut.label>steenblokken maken</DoBillsStonecut.label>
+  <DoBillsStonecut.label>maak steenblokken</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
   <DoBillsStonecut.gerund>steenblokken maken bij</DoBillsStonecut.gerund>
   <!-- EN: stonecut -->
@@ -275,21 +275,21 @@
   <DoctorTendToAnimals.verb>verzorg</DoctorTendToAnimals.verb>
   
   <!-- EN: tend to patients -->
-  <DoctorTendToHumanlikes.label>patiënten verzorgen</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.label>verzorg patiënten</DoctorTendToHumanlikes.label>
   <!-- EN: tending to -->
   <DoctorTendToHumanlikes.gerund>verzorgen van</DoctorTendToHumanlikes.gerund>
   <!-- EN: tend to -->
   <DoctorTendToHumanlikes.verb>verzorg</DoctorTendToHumanlikes.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelf.label>zichzelf verzorgen</DoctorTendToSelf.label>
+  <DoctorTendToSelf.label>verzorg zelf</DoctorTendToSelf.label>
   <!-- EN: tending to -->
   <DoctorTendToSelf.gerund>verzorgen van</DoctorTendToSelf.gerund>
   <!-- EN: tend to -->
   <DoctorTendToSelf.verb>verzorg</DoctorTendToSelf.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelfEmergency.label>zichzelf verzorgen</DoctorTendToSelfEmergency.label>
+  <DoctorTendToSelfEmergency.label>verzorg zelf</DoctorTendToSelfEmergency.label>
   <!-- EN: tending to -->
   <DoctorTendToSelfEmergency.gerund>verzorgen van</DoctorTendToSelfEmergency.gerund>
   <!-- EN: tend to -->
@@ -303,28 +303,28 @@
   <DoExecution.verb>executeer</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
-  <Drill.label>boren met diepteboor</Drill.label>
+  <Drill.label>boor met diepteboor</Drill.label>
   <!-- EN: drilling -->
   <Drill.gerund>boren</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>boor</Drill.verb>
   
   <!-- EN: empty egg box -->
-  <EmptyEggBox.label>legdoos legen</EmptyEggBox.label>
+  <EmptyEggBox.label>leeg legdoos</EmptyEggBox.label>
   <!-- EN: emptying -->
   <EmptyEggBox.gerund>legen</EmptyEggBox.gerund>
   <!-- EN: empty -->
   <EmptyEggBox.verb>leeg</EmptyEggBox.verb>
   
   <!-- EN: execute guilty colonists -->
-  <ExecuteGuiltyColonist.label>schuldige kolonisten executeren</ExecuteGuiltyColonist.label>
+  <ExecuteGuiltyColonist.label>verzorg zelf schuldige kolonisten</ExecuteGuiltyColonist.label>
   <!-- EN: executing -->
   <ExecuteGuiltyColonist.gerund>executeren</ExecuteGuiltyColonist.gerund>
   <!-- EN: execute -->
-  <ExecuteGuiltyColonist.verb>executeer</ExecuteGuiltyColonist.verb>
+  <ExecuteGuiltyColonist.verb>c</ExecuteGuiltyColonist.verb>
   
   <!-- EN: extract trees -->
-  <ExtractTree.label>bomen ontwortelen</ExtractTree.label>
+  <ExtractTree.label>ontwortel bomen</ExtractTree.label>
   <!-- EN: extracting -->
   <ExtractTree.gerund>ontwortelen</ExtractTree.gerund>
   <!-- EN: extract -->
@@ -338,7 +338,7 @@
   <FeedPrisoner.verb>voed</FeedPrisoner.verb>
   
   <!-- EN: fight fires -->
-  <FightFires.label>branden blussen</FightFires.label>
+  <FightFires.label>blus branden</FightFires.label>
   <!-- EN: extinguishing -->
   <FightFires.gerund>blussen</FightFires.gerund>
   <!-- EN: extinguish -->
@@ -359,7 +359,7 @@
   <FixBrokenDownBuilding.verb>vervang kapotte componenten in</FixBrokenDownBuilding.verb>
   
   <!-- EN: flick switches -->
-  <Flick.label>schakelaar omzetten</Flick.label>
+  <Flick.label>zet schakelaar om</Flick.label>
   <!-- EN: flicking switch on -->
   <Flick.gerund>aanschakelen</Flick.gerund>
   <!-- EN: flick switch on -->
@@ -422,7 +422,7 @@
   <HelpGatheringItemsForCaravan.verb>laad</HelpGatheringItemsForCaravan.verb>
   
   <!-- EN: hunt -->
-  <HunterHunt.label>jacht</HunterHunt.label>
+  <HunterHunt.label>jaag</HunterHunt.label>
   <!-- EN: hunting -->
   <HunterHunt.gerund>jagen</HunterHunt.gerund>
   <!-- EN: hunt -->
@@ -450,7 +450,7 @@
   <Milk.verb>melk</Milk.verb>
   
   <!-- EN: mine -->
-  <Mine.label>delven</Mine.label>
+  <Mine.label>delf</Mine.label>
   <!-- EN: mining -->
   <Mine.gerund>delven</Mine.gerund>
   <!-- EN: mine -->
@@ -485,14 +485,14 @@
   <PatientGoToBedTreatment.verb>ontvang verzorging in</PatientGoToBedTreatment.verb>
   
   <!-- EN: cut plants -->
-  <PlantsCut.label>planten wieden</PlantsCut.label>
+  <PlantsCut.label>wied planten</PlantsCut.label>
   <!-- EN: cutting -->
   <PlantsCut.gerund>wieden</PlantsCut.gerund>
   <!-- EN: cut -->
   <PlantsCut.verb>wied</PlantsCut.verb>
   
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>afweergeschut herladen</RearmTurrets.label>
+  <RearmTurrets.label>herlaad afweergeschut</RearmTurrets.label>
   <!-- EN: rearming -->
   <RearmTurrets.gerund>herladen</RearmTurrets.gerund>
   <!-- EN: rearm -->
@@ -506,7 +506,7 @@
   <RebalanceAnimalsInPens.verb>leid</RebalanceAnimalsInPens.verb>
   
   <!-- EN: refuel fuelable buildings -->
-  <Refuel.label>gebouwen bijtanken</Refuel.label>
+  <Refuel.label>vul gebouwen met een brandstofvoorraad bij</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>bijtanken</Refuel.gerund>
   <!-- EN: refuel -->
@@ -520,7 +520,7 @@
   <ReleasePrisoner.verb>laat vrij</ReleasePrisoner.verb>
   
   <!-- EN: release to wild -->
-  <ReleaseToWild.label>vrijlaten in het wild</ReleaseToWild.label>
+  <ReleaseToWild.label>laad in het wild vrij</ReleaseToWild.label>
   <!-- EN: releasing -->
   <ReleaseToWild.gerund>vrijlaten</ReleaseToWild.gerund>
   <!-- EN: release -->
@@ -541,11 +541,11 @@
   <Repair.verb>repareer</Repair.verb>
   
   <!-- EN: replant tree -->
-  <Replant.label>TODO</Replant.label>
+  <Replant.label>herplant boom</Replant.label>
   <!-- EN: replanting -->
-  <Replant.gerund>TODO</Replant.gerund>
+  <Replant.gerund>herplanten</Replant.gerund>
   <!-- EN: replant -->
-  <Replant.verb>TODO</Replant.verb>
+  <Replant.verb>herplant</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>doe onderzoek</Research.label>
@@ -576,7 +576,7 @@
   <Strip.verb>strip</Strip.verb>
   
   <!-- EN: study -->
-  <StudyThing.label>studeren</StudyThing.label>
+  <StudyThing.label>studeer</StudyThing.label>
   <!-- EN: studying -->
   <StudyThing.gerund>studeren</StudyThing.gerund>
   <!-- EN: research -->

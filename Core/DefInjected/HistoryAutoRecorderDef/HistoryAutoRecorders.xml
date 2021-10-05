@@ -8,7 +8,7 @@
   <Adaptation.valueFormat>{0} dagen</Adaptation.valueFormat>
   
   <!-- EN: mood -->
-  <ColonistMood.label>humeur</ColonistMood.label>
+  <ColonistMood.label>stemming</ColonistMood.label>
   <ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
   
   <!-- EN: free colonists -->

@@ -39,7 +39,7 @@
   <NotEnoughMemesFluidIdeo>Kies {0} geloofsprincipes.</NotEnoughMemesFluidIdeo>
 
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
-  <ChangesRandomizePrecepts>{0} zal alle leefregels die je hebt bewerkt opnieuw willekeurig genereren.\in\Wil je doorgaan?</ChangesRandomizePrecepts>
+  <ChangesRandomizePrecepts>{0} zal alle leefregels die je hebt bewerkt opnieuw willekeurig genereren.\n\n\Wil je doorgaan?</ChangesRandomizePrecepts>
   <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
   <ChangesRemovePrecepts>De volgende leefregels zijn niet compatibel met deze nieuwe selectie van geloofsprincipes en zullen worden verwijderd:\n\n{0}\n\nWil je doorgaan?</ChangesRemovePrecepts>
   
@@ -48,20 +48,20 @@
   <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
   <ConfirmChangeMemesForFluidIdeo>De ideoligie die je laadt heeft geloofsprincipes die niet compatibel zijn met een nieuwe flexibele ideologie. De geloofsprincipes ervan moeten opnieuw worden gekozen (flexibele ideoligies mogen alleen beginnen met één geloofsprincipe van lage invloed). De volgende geloofsprincipes zijn niet compatibel:\n\n{0}\n\nWil je doorgaan?</ConfirmChangeMemesForFluidIdeo>
   <!-- EN: The following memes are incompatible -->
-  <ConfirmIncompatibleMemes>TODO</ConfirmIncompatibleMemes>
+  <ConfirmIncompatibleMemes>De volgende geloofsprincipes zijn niet compatibel</ConfirmIncompatibleMemes>
   <!-- EN: Would you like to continue? -->
-  <ConfirmChangeMemesForFluidIdeoContinue>TODO</ConfirmChangeMemesForFluidIdeoContinue>
+  <ConfirmChangeMemesForFluidIdeoContinue>Wil je verder gaan?</ConfirmChangeMemesForFluidIdeoContinue>
 
   <!-- EN: role -->
   <Role>rol</Role>
   <!-- EN: Assign role -->
   <ChooseRole>Wijs rol toe</ChooseRole>
   <!-- EN: Choose new role -->
-  <ChooseNewRole>TODO</ChooseNewRole>
+  <ChooseNewRole>Kies nieuwe rol</ChooseNewRole>
   <!-- EN: No role assigned -->
   <NoRoleAssigned>Geen rol toegewezen</NoRoleAssigned>
   <!-- EN: Remove {0} role -->
-  <RemoveRole>TODO</RemoveRole>
+  <RemoveRole>Verwijder {0} rol</RemoveRole>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
   <ChooseRoleConfirmAssign>Je staat op het punt de rol van {ROLE_labelDef} toe te wijzen aan {PAWN_labelShort}.</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->
@@ -305,7 +305,7 @@
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
   <AbandonArchotechStructuresWarningDialog>Je verlaat een site die archotech-structuren bevat die je nog niet volledig hebt bestudeerd.\n\nJe kunt je hier later opnieuw vestigen, maar je kolonie zal worden weggevaagd.</AbandonArchotechStructuresWarningDialog>
   <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
-  <ItemQuantityTooltip>TODO</ItemQuantityTooltip>
+  <ItemQuantityTooltip>hoeveelheid {0} die naar de nieuwe kolonie kan worden gebracht.\n\nDe maximaal toegestane hoeveelheid is: {1}</ItemQuantityTooltip>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
   <ConfirmHackEnenyTerminal>Als je deze {0} hackt, worden vijanden gewaarschuwd en zullen ze aanvallen. Wil je echt {0} hacken?</ConfirmHackEnenyTerminal>

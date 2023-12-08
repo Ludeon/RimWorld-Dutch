@@ -230,11 +230,11 @@
   
   <AnimalFarmer21>
     <!-- EN: animal farmer -->
-    <title>TODO</title>
+    <title>veehouder</title>
     <!-- EN: animal farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>veehouder</titleShort>
     <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] fokte verschillende dieren voor vlees, melk, eieren en leer.</desc>
   </AnimalFarmer21>
   
   <AnimalLabTech39>
@@ -324,16 +324,16 @@
     <!-- EN: aI spy -->
     <titleShort>AI spion</titleShort>
     <!-- EN: [PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Over time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down. -->
-    <desc>[PAWN_nameDef] was een cybernetische onderzoeker. Bij het bestuderen van een transcendeerde wereld raakte [PAWN_pronoun] teveel betrokken bij [PAWN_possessieve] onderwerpen. Na verloop van tijd rekruteerde de archotech [PAWN_objective] voor zijn dienst en gebruikte [PAWN_objective] als spion.\n\nToen [PAWN_pronoun] later in opstand kwam tegen [PAWN_possessive] onmenselijke meester, stuurde het mechanoïden door de ruimte om [PAWN_objective] op te sporen.</desc>
+    <desc>[PAWN_nameDef] was een cybernetische onderzoeker. Bij het bestuderen van een transcendeerde wereld raakte [PAWN_pronoun] teveel betrokken bij [PAWN_possessive] onderwerpen. Na verloop van tijd rekruteerde de archotech [PAWN_objective] voor zijn dienst en gebruikte [PAWN_objective] als spion.\n\nToen [PAWN_pronoun] later in opstand kwam tegen [PAWN_possessive] onmenselijke meester, stuurde het mechanoïden door de ruimte om [PAWN_objective] op te sporen.</desc>
   </ArchotechSpy75>
   
   <ArmyCommander14>
     <!-- EN: Army commander -->
-    <title>TODO</title>
+    <title>Legeraanvoerder</title>
     <!-- EN: Commander -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Aanvoerder</titleShort>
     <!-- EN: Unquenchable ambition propelled [PAWN_nameDef] to the highest levels of military command.\n\n[PAWN_pronoun] satisfied [PAWN_objective]self with the power to order death and pain upon [PAWN_possessive] enemies - and upon [PAWN_possessive] own soldiers. -->
-    <desc>TODO</desc>
+    <desc>Onverzadigbare ambitie stuwde [PAWN_nameDef] naar de hoogste militaire niveaus.\n\n[PAWN_pronoun] plezierde zichzelf met de macht om dood en pijn te bevelen aan [PAWN_possessive] vijanden - en [PAWN_possessive] eigen soldaten.</desc>
   </ArmyCommander14>
   
   <ArmyCook0>
@@ -387,7 +387,7 @@
     <!-- EN: artifacter -->
     <titleShort>artefacter</titleShort>
     <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-    <desc>[PAWN_nameDef] werd depressief en verloor zijn interesse in het leven. [PAWN_pronoun] reisde van planeet naar planeet, op zoek naar paranormale artefacten te midden van mechanische ruïnes, in de hoop dat ze de pijn in [PAWN_possessieve] ziel zouden genezen.\n\nEen vaste vinger op de trekker en een zorgvuldige planning hielden [PAWN_nameDef] in leven.</desc>
+    <desc>[PAWN_nameDef] werd depressief en verloor zijn interesse in het leven. [PAWN_pronoun] reisde van planeet naar planeet, op zoek naar paranormale artefacten te midden van mechanische ruïnes, in de hoop dat ze de pijn in [PAWN_possessive] ziel zouden genezen.\n\nEen vaste vinger op de trekker en een zorgvuldige planning hielden [PAWN_nameDef] in leven.</desc>
   </ArtifactHunter48>
   
   <ArtificerRampant95>
@@ -708,7 +708,7 @@
     <!-- EN: blessed -->
     <titleShort>gezegend</titleShort>
     <!-- EN: [PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age. -->
-    <desc>[PAWN_nameDef] werd onder gunstige omstandigheden geboren in een spirituele groep op een middenwereld en werd in ere gehouden gedurende [PAWN_possessieve] kindertijd.\n\n[PAWN_pronoun] leerde van jongs af aan voor de armen te zorgen en de gelovigen te helpen.</desc>
+    <desc>[PAWN_nameDef] werd onder gunstige omstandigheden geboren in een spirituele groep op een middenwereld en werd in ere gehouden gedurende [PAWN_possessive] kindertijd.\n\n[PAWN_pronoun] leerde van jongs af aan voor de armen te zorgen en de gelovigen te helpen.</desc>
   </BlessedChild46>
   
   <BloodgameSurvivor6>
@@ -726,7 +726,7 @@
     <!-- EN: dentist -->
     <titleShort>tandarts</titleShort>
     <!-- EN: After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world. -->
-    <desc>Na zijn studie aan een beroemde universiteit, brak de zwakke persoonlijkheid van [PAWN_nameDef] uiteindelijk af onder de druk van boze bureaucraten en jammerende patiënten. [PAWN_pronoun] begon een geheime moordpartij, waarbij veel van degenen die onder [PAWN_possessieve] zorg stonden, omkwamen.\n\nNa een achtervolging slaagde [PAWN_pronoun] erin om te ontsnappen aan [PAWN_possessive] planeet en naar een nieuwe wereld te reizen.</desc>
+    <desc>Na zijn studie aan een beroemde universiteit, brak de zwakke persoonlijkheid van [PAWN_nameDef] uiteindelijk af onder de druk van boze bureaucraten en jammerende patiënten. [PAWN_pronoun] begon een geheime moordpartij, waarbij veel van degenen die onder [PAWN_possessive] zorg stonden, omkwamen.\n\nNa een achtervolging slaagde [PAWN_pronoun] erin om te ontsnappen aan [PAWN_possessive] planeet en naar een nieuwe wereld te reizen.</desc>
   </BloodyDentist9>
   
   <BloodyWanderer28>
@@ -929,11 +929,11 @@
   
   <Butcher40>
     <!-- EN: butcher -->
-    <title>TODO</title>
+    <title>slager</title>
     <!-- EN: butcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>slager</titleShort>
     <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
-    <desc>TODO</desc>
+    <desc>De belangrijkste taak van [PAWN_nameDef] in de jachtpartij was het slachten van dieren. [PAWN_pronoun] leerde meesterlijk omgaan met het mes en kon al snel elk beetje waarde uit een karkas halen.</desc>
   </Butcher40>
   
   <Cadet96>
@@ -947,11 +947,11 @@
   
   <CaesicMarshal72>
     <!-- EN: Caesic marshal -->
-    <title>TODO</title>
+    <title>Caesco maarschalk</title>
     <!-- EN: marshal -->
-    <titleShort>TODO</titleShort>
+    <titleShort>maarschalk</titleShort>
     <!-- EN: They say that the Caesics soldiers are recruited from the dead. Rising through such ranks, most return whence they came. [PAWN_nameDef] dominated because of [PAWN_possessive] strategic genius, machine-like focus, and tolerance for suffering - both [PAWN_objective] own and that of others. -->
-    <desc>TODO</desc>
+    <desc>Er wordt gefluisterd dat de soldaten van Caesco uit de doden gerekruteerd werden. Opklimmend door de rangen keren de meesten terug naar waar ze vandaan kwamen. [PAWN_nameDef] domineerde vanwege [PAWN_possessive] strategisch vernuft, machine-achtige focus en tolerantie voor lijden - zowel [PAWN_objective] eigen lijden als dat van anderen.</desc>
   </CaesicMarshal72>
   
   <CaravanChild53>
@@ -983,11 +983,11 @@
   
   <CardCounter25>
     <!-- EN: card counter -->
-    <title>TODO</title>
+    <title>kaartenteller</title>
     <!-- EN: card counter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kaartenteller</titleShort>
     <!-- EN: In the urbworld underlevels, the strong kids learn to fight, the smart kids learn to cheat, and the other kids die. [PAWN_nameDef] was one of the smart kids. -->
-    <desc>TODO</desc>
+    <desc>In de onderlagen van urbwereld leren de sterke kinderen vechten, de slimme kinderen valsspelen en de anderen kinderen sterven. [PAWN_nameDef] was een van de slimme kinderen.</desc>
   </CardCounter25>
   
   <CargoPilot58>
@@ -1046,11 +1046,11 @@
   
   <CaveBuilder81>
     <!-- EN: cave builder -->
-    <title>TODO</title>
+    <title>holenbouwer</title>
     <!-- EN: cave builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>holenbouwer</titleShort>
     <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] specialiseerde in het uitgraven en bouwen van holencomplexen.</desc>
   </CaveBuilder81>
   
   <CaveChild17>
@@ -1073,11 +1073,11 @@
   
   <CaveExplorer45>
     <!-- EN: cave explorer -->
-    <title>TODO</title>
+    <title>grotverkenner</title>
     <!-- EN: cave explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>grotverkenner</titleShort>
     <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] verdiende de kost met het in kaart brengen van donkere tunnels en bijna onbereikbare spleten op zoek naar waardevolle mineralen. [PAWN_possessive] werk was erg gevaarlijk, maar het werd goed betaald.</desc>
   </CaveExplorer45>
   
   <CaveworldIlluminator95>
@@ -1257,7 +1257,7 @@
     <!-- EN: psychic -->
     <titleShort>begaafde</titleShort>
     <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
-    <desc>[PAWN_nameDef] was een paranormaal begaafd persoon in de paranormale school van de keizerlijke kerk.\n\n [PAWN_nameDef] trainde [PAWN_possessieve] geest om de collectieve emoties en indrukken van de mensen te kunnen voelen. Het was een manier om de geest van het rijk zelf waar te nemen. Het was ook een manier om ketterse gedachtentrends uit te roeien.</desc>
+    <desc>[PAWN_nameDef] was een paranormaal begaafd persoon in de paranormale school van de keizerlijke kerk.\n\n [PAWN_nameDef] trainde [PAWN_possessive] geest om de collectieve emoties en indrukken van de mensen te kunnen voelen. Het was een manier om de geest van het rijk zelf waar te nemen. Het was ook een manier om ketterse gedachtentrends uit te roeien.</desc>
   </ChurchPsychic98>
   
   <CircusPerformer37>
@@ -1347,7 +1347,7 @@
     <!-- EN: governor -->
     <titleShort>gouverneur</titleShort>
     <!-- EN: Disillusioned by rampant government corruption, [PAWN_nameDef] ran for governor and won. However, the local gangs and their pet officials soon forced [PAWN_objective] out of power.\n\n[PAWN_pronoun] left the community to return to [PAWN_possessive] life as a marshal. -->
-    <desc>Ontgoocheld door de ongebreidelde corruptie bij de overheid, stelde [PAWN_nameDef] zich verkiesbaar als gouverneur en won. Echter, de plaatselijke bendes en hun gezelschapsambtenaren dwongen [PAWN_objective] al snel de macht op te geven.\n\n[PAWN_pronoun] verliet de gemeenschap om terug te keren naar het [PAWN_possessieve] leven als een maarschalk.</desc>
+    <desc>Ontgoocheld door de ongebreidelde corruptie bij de overheid, stelde [PAWN_nameDef] zich verkiesbaar als gouverneur en won. Echter, de plaatselijke bendes en hun gezelschapsambtenaren dwongen [PAWN_objective] al snel de macht op te geven.\n\n[PAWN_pronoun] verliet de gemeenschap om terug te keren naar het [PAWN_possessive] leven als een maarschalk.</desc>
   </ColonialGovernor78>
   
   <Colonist22>
@@ -1464,7 +1464,7 @@
     <!-- EN: computer -->
     <titleShort>computer</titleShort>
     <!-- EN: As a child, [PAWN_nameDef] crafted complex algorithms. [PAWN_pronoun] was used as a "human computer" for most of [PAWN_possessive] childhood. This left [PAWN_objective] socially awkward and rather scrawny.\n\n        Despite the solitary confinement, [PAWN_nameDef] developed a great imagination to occupy [PAWN_possessive] idle time. -->
-    <desc>Als kind bedacht [PAWN_nameDef] complexe algoritmen. [PAWN_pronoun] werd gedurende het grootste deel van de [PAWN_possessieve] kindertijd gebruikt als een "menselijke computer". Dit maakte [PAWN_objective] sociaal onhandig en nogal mager.\n\nOndanks de eenzame opsluiting ontwikkelde [PAWN_nameDef] een grote verbeeldingskracht om [PAWN_possessive] inactieve tijd te vullen.</desc>
+    <desc>Als kind bedacht [PAWN_nameDef] complexe algoritmen. [PAWN_pronoun] werd gedurende het grootste deel van de [PAWN_possessive] kindertijd gebruikt als een "menselijke computer". Dit maakte [PAWN_objective] sociaal onhandig en nogal mager.\n\nOndanks de eenzame opsluiting ontwikkelde [PAWN_nameDef] een grote verbeeldingskracht om [PAWN_possessive] inactieve tijd te vullen.</desc>
   </Computer80>
   
   <ComputerEngineer10>
@@ -1532,11 +1532,11 @@
   
   <ContractMiner86>
     <!-- EN: contract miner -->
-    <title>TODO</title>
+    <title>contractuele mijnwerker</title>
     <!-- EN: contract miner -->
-    <titleShort>TODO</titleShort>
+    <titleShort>contractuele mijnwerker</titleShort>
     <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] ging van heet ene naar het andere baantje en haalde mineralen en oude kostbaarheden uit tunnels en mijnen. Het werk was zwaar en vies, maar [PAWN_pronoun] vond het de moeite waard.</desc>
   </ContractMiner86>
   
   <ConventChild16>
@@ -1797,11 +1797,11 @@
   
   <CuriousChild33>
     <!-- EN: curious child -->
-    <title>TODO</title>
+    <title>nieuwsgierig kind</title>
     <!-- EN: curious -->
-    <titleShort>TODO</titleShort>
+    <titleShort>nieuwsgierig</titleShort>
     <!-- EN: [PAWN_nameDef] was more interested in the systems and patterns of the world rather than its inhabitants. [PAWN_possessive] social skills suffered.\n\n[PAWN_nameDef] came to understand that all things are part of the whole, and to destroy part would be to destroy all. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was meer geïnteresseerd in de systemen en patronen van de wereld dan in de bewoners. [PAWN_possessive] sociale vaardigheden van leden eronder.\n\n[PAWN_nameDef] kwam tot het inzicht dat alles deel uitmaakt van het geheel en dat het vernietigen van een deel het vernietigen van het geheel betekent.</desc>
   </CuriousChild33>
   
   <DataDecoder39>
@@ -1887,11 +1887,11 @@
   
   <DepartmentHead61>
     <!-- EN: Department head -->
-    <title>TODO</title>
+    <title>Afdelingshoofd</title>
     <!-- EN: Boss -->
-    <titleShort>TODO</titleShort>
+    <titleShort>baas</titleShort>
     <!-- EN: Seeking to satiate an unconscious thirst for power, [PAWN_nameDef] entered government. [PAWN_pronoun] rose through the ranks by ruining the careers of those around [PAWN_objective].\n\nOnce established, [PAWN_possessive] bureaucratic fief allowed him to get away with severe moral transgressions. -->
-    <desc>TODO</desc>
+    <desc>Om [PAWN_possessive] onbewuste dorst naar macht te bevredigen ging [PAWN_nameDef] de regering in. [PAWN_pronoun] klom op in de rangen door de carrières van de mensen rondom [PAWN_objective] te ruïneren.\n\nEenmaal gevestigd, kon [PAWN_pronoun] met [PAWN_possessive] bureaucratisch leengoed wegkomen met ernstige morele gevolgen.</desc>
   </DepartmentHead61>
   
   <Deserter65>
@@ -1918,16 +1918,16 @@
     <!-- EN: general -->
     <titleShort>generaal</titleShort>
     <!-- EN: [PAWN_nameDef] held the rank of Destroyer-General in a powerful midworld military.\n\n[PAWN_pronoun] was known for [PAWN_possessive] mastery of weapons, and was also a good ship pilot. -->
-    <desc>[PAWN_nameDef] had de rang van jager-generaal in een machtig leger op een middenwereld.\n\n[PAWN_pronoun] stond bekend om [PAWN_possessieve] wapenbeheersing en was ook een goede scheepspiloot.</desc>
+    <desc>[PAWN_nameDef] had de rang van jager-generaal in een machtig leger op een middenwereld.\n\n[PAWN_pronoun] stond bekend om [PAWN_possessive] wapenbeheersing en was ook een goede scheepspiloot.</desc>
   </DestroyerGeneral26>
   
   <Digger31>
     <!-- EN: digger -->
-    <title>TODO</title>
+    <title>graver</title>
     <!-- EN: digger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>graver</titleShort>
     <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] werkte in mijnen en grotten, groef ruimtes uit om voorwerpen in op te slaan en om zich te verstoppen voor gevaren. [PAWN_possessive] werk leverde vaak vrienden en schuilplaatsen op.</desc>
   </Digger31>
   
   <Digger66>
@@ -1981,7 +1981,7 @@
     <!-- EN: soldier -->
     <titleShort>soldaat</titleShort>
     <!-- EN: [PAWN_nameDef] prostituted [PAWN_objective]self to fund [PAWN_possessive] drug habits. As an escape, [PAWN_pronoun] joined the military and learned to fight.\n\nToo smart for the army, [PAWN_pronoun] questioned and often disagreed with [PAWN_possessive] superiors' decisions. This eventually led to [PAWN_possessive] dishonorable discharge and left [PAWN_objective] with a chip on [PAWN_possessive] shoulder. -->
-    <desc>[PAWN_nameDef] prostitueerde zichzelf om [PAWN_possessive] drugsgebruik te financieren. Om te ontsnappen voegde [PAWN_pronoun] zich bij het leger en leerde hij vechten.\n\n[PAWN_pronoun] was te slim voor het leger, en was het vaak niet eens met de beslissingen van [PAWN_possessieve] superieuren. Dit leidde uiteindelijk tot [PAWN_possessive] oneervol ontslag en bezorgde [PAWN_objective] een kort lontje.</desc>
+    <desc>[PAWN_nameDef] prostitueerde zichzelf om [PAWN_possessive] drugsgebruik te financieren. Om te ontsnappen voegde [PAWN_pronoun] zich bij het leger en leerde hij vechten.\n\n[PAWN_pronoun] was te slim voor het leger, en was het vaak niet eens met de beslissingen van [PAWN_possessive] superieuren. Dit leidde uiteindelijk tot [PAWN_possessive] oneervol ontslag en bezorgde [PAWN_objective] een kort lontje.</desc>
   </DischargedSoldier53>
   
   <DisciplinedFarmer28>
@@ -2013,11 +2013,11 @@
   
   <DivorceKid95>
     <!-- EN: divorce kid -->
-    <title>TODO</title>
+    <title>kind van echtscheiding</title>
     <!-- EN: divorce -->
-    <titleShort>TODO</titleShort>
+    <titleShort>echtscheiding</titleShort>
     <!-- EN: [PAWN_nameDef] was fortunate enough to attend one of the best private schools on [PAWN_possessive] homeworld.\n\n[PAWN_nameDef] was also unfortuante enough to see [PAWN_possessive] parents separate at a young age. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] had het geluk om les te volgen op een van de beste privéscholen van [PAWN_possessive] thuiswereld.\n\n[PAWN_nameDef] had ook het ongeluk dat [PAWN_possessive] ouders op jonge leeftijd uit elkaar gingen.</desc>
   </DivorceKid95>
   
   <DoomsdayPariah18>
@@ -2184,11 +2184,11 @@
   
   <Excavator55>
     <!-- EN: excavator -->
-    <title>TODO</title>
+    <title>opgraver</title>
     <!-- EN: excavator -->
-    <titleShort>TODO</titleShort>
+    <titleShort>opgraver</titleShort>
     <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] werkte op opgraafplaatsen en haalde waardevolle voorwerpen en materialen uit oude samengeperste ruïnes. [PAWN_pronoun] leerde waardevolle voorwerpen in de grond te herkennen en verschillende opgravingsgereedschappen te gebruiken.</desc>
   </Excavator55>
   
   <ExecutiveOfficer5>
@@ -2220,11 +2220,11 @@
   
   <ExMilitary9>
     <!-- EN: ex-military -->
-    <title>TODO</title>
+    <title>oud-militair</title>
     <!-- EN: ex-military -->
-    <titleShort>TODO</titleShort>
+    <titleShort>oud-militair</titleShort>
     <!-- EN: [PAWN_nameDef] always had an appetite for risk. Military life satisfied that need for a while, but eventually it wasn't enough.\n\nSeeking greater gambles, [PAWN_nameDef] took an offer from a mysterious machine persona and traveled to an unknown rimworld with a mysterious implant in [PAWN_possessive] head. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] werd altijd al aangetrokken door risico. Het militaire leven bekoelde die behoefte een tijdje, maar uiteindelijk was het niet genoeg.\n\nOp zoek naar grotere risico's nam [PAWN_nameDef] een aanbod aan van een mysterieuze machinepersonage en reisde naar een onbekende wereld met een mysterieus implantaat in [PAWN_possessive] hoofd.</desc>
   </ExMilitary9>
   
   <ExoticChef96>
@@ -2305,7 +2305,7 @@
     <!-- EN: official -->
     <titleShort>ambtenaar</titleShort>
     <!-- EN: [PAWN_nameDef] was an official for an autocratic government.\n\nWhen [PAWN_possessive] superiors demanded [PAWN_pronoun] participate in atrocities, [PAWN_nameDef] resigned and escaped from [PAWN_possessive] homeworld with nothing but the clothes on [PAWN_possessive] back. -->
-    <desc>[PAWN_nameDef] was een ambtenaar voor een autocratische regering.\n\nToen [PAWN_possessive] superieuren eisten dat [PAWN_pronoun] deelnam aan gruweldaden, nam [PAWN_nameDef] ontslag en ontsnapte van [PAWN_possessive] thuiswereld met niets anders dan de kleren aan [PAWN_possive] lijf.</desc>
+    <desc>[PAWN_nameDef] was een ambtenaar voor een autocratische regering.\n\nToen [PAWN_possessive] superieuren eisten dat [PAWN_pronoun] deelnam aan gruweldaden, nam [PAWN_nameDef] ontslag en ontsnapte van [PAWN_possessive] thuiswereld met niets anders dan de kleren aan [PAWN_possessive] lijf.</desc>
   </FallenOfficial12>
   
   <FallenProdigy40>
@@ -2499,11 +2499,11 @@
   
   <Forester96>
     <!-- EN: forester -->
-    <title>TODO</title>
+    <title>boswachter</title>
     <!-- EN: forester -->
-    <titleShort>TODO</titleShort>
+    <titleShort>boswachter</titleShort>
     <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] kweekte en groeide bossen. [PAWN_pronoun] begreep zowel de praktische uitdagingen van grondsoorten, wind en regen, als de langetermijnplanning van bosgroei.</desc>
   </Forester96>
   
   <ForestProwler15>
@@ -2580,11 +2580,11 @@
   
   <FurnitureBuilder83>
     <!-- EN: furniture builder -->
-    <title>TODO</title>
+    <title>meubelmaker</title>
     <!-- EN: builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>maker</titleShort>
     <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] groeide op in de buurt van bossen. [PAWN_pronoun] bracht [PAWN_possessive] tijd door met het bouwen van prachtige meubels voor rijke klanten uit de glitterwereld.</desc>
   </FurnitureBuilder83>
   
   <GalacticPage37>
@@ -2818,11 +2818,11 @@
   
   <GrownMate56>
     <!-- EN: grown mate -->
-    <title>TODO</title>
+    <title>gekweekte partner</title>
     <!-- EN: mate -->
-    <titleShort>TODO</titleShort>
+    <titleShort>partner</titleShort>
     <!-- EN: [PAWN_nameDef] was vatgrown in a hyper-expensive clinic to serve the tastes of a specific client.\n\nEngineered, raised and trained as a perfect pleasure-giving mate, [PAWN_pronoun] learned skills that would baffle even the most seductive baseline human lovers. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] is in een hyperdure kliniek in een vat gekweekt om de smaak van een specifieke klant te dienen.\n\n[PAWN_pronoun] is ontworpen, opgevoed en getraind als een perfecte genotbrengende partner en heeft vaardigheden geleerd die zelfs de meest verleidelijke menselijke minnaars zouden verbazen.</desc>
   </GrownMate56>
   
   <Guardian55>
@@ -2971,11 +2971,11 @@
   
   <Herder33>
     <!-- EN: herder -->
-    <title>TODO</title>
+    <title>herder</title>
     <!-- EN: herder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>herder</titleShort>
     <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] hoedde verschillende dieren om [PAWN_possessive] reisende stam te voeden en te kleden. [PAWN_nameDef] leerde beesten te kalmeren en leiden en op [PAWN_possessive] eigen maaltijden te jagen.</desc>
   </Herder33>
   
   <Hermit82>
@@ -3137,11 +3137,11 @@
   
   <Hunter89>
     <!-- EN: hunter -->
-    <title>TODO</title>
+    <title>jager</title>
     <!-- EN: hunter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>jager</titleShort>
     <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] joeg op wilde dieren om [PAWN_possessive] gemeenschap te voeden. In moeilijkede tijden, keken anderen naar [PAWN_objective] als degene die de mensen door een zwaar seizoen moest leiden.</desc>
   </Hunter89>
   
   <HunterOfTheKing53>
@@ -3312,11 +3312,11 @@
   
   <InsuranceBroker9>
     <!-- EN: insurance broker -->
-    <title>TODO</title>
+    <title>verzekeringsmakelaar</title>
     <!-- EN: broker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>makelaar</titleShort>
     <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef]'s hoop en dromen werden opgeslokt door een leven in verzekeringen. Toen een mysterieuze machinepersonage deze gokker een implantaat aanbood, leek dat een manier om kleur te geven aan [PAWN_possessive] grijs bestaan.\n\n[PAWN_nameDef] was echter niet van plan om gevangen genomen te worden door piraten en door het heelal naar een verre randwereld te worden gestuurd.</desc>
   </InsuranceBroker9>
   
   <IntelligenceAgent10>
@@ -3483,11 +3483,11 @@
   
   <LazyWorker78>
     <!-- EN: lazy worker -->
-    <title>TODO</title>
+    <title>luie werknemer</title>
     <!-- EN: lazy worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>luie werknemer</titleShort>
     <!-- EN: When [PAWN_nameDef] was offered [PAWN_possessive] yearly salary in order to test a new implant, [PAWN_pronoun] jumped at the chance. Ever since then, [PAWN_nameDef] has been looking for a way to get it removed. -->
-    <desc>TODO</desc>
+    <desc>Toen [PAWN_nameDef] [PAWN_possessive] jaarsalaris kreeg aangeboden om een nieuw implantaat te testen, greep [PAWN_pronoun] die kans met beide handen. Sindsdien is [PAWN_nameDef] op zoek naar een manier om het implantaat te verwijderen.</desc>
   </LazyWorker78>
   
   <LineInfanteer20>
@@ -3519,11 +3519,11 @@
   
   <Logger95>
     <!-- EN: logger -->
-    <title>TODO</title>
+    <title>houthakker</title>
     <!-- EN: logger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>houthakker</titleShort>
     <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] hakte bomen om en verzamelde hout in heuvelachtige passen en ravijnen. [PAWN_pronoun] leerde veilig bomen kappen en bosbeheer om het bos gezond te houden.</desc>
   </Logger95>
   
   <LogicalChild2>
@@ -3761,7 +3761,7 @@
     <!-- EN: mechacker -->
     <titleShort>mechacker</titleShort>
     <!-- EN: The only son of a well respected mechanoid inventor, [PAWN_nameDef] had access to the materials to subvert and modify [PAWN_possessive] father's creations.\n\n[PAWN_pronoun] used drugs to increase [PAWN_possessive] productivity. Unfortunately, the side-effects included persistent delusions of being mechanized, which limited [PAWN_possessive] social life. -->
-    <desc>Als enige zoon van een gerespecteerde mechanische uitvinder, had [PAWN_nameDef] toegang tot de materialen om de creaties van [PAWN_possessive] vader te verbouwen en aan te passen.\n\n[PAWN_pronoun] gebruikte drugs om [PAWN_possessive] productiviteit te verhogen. Helaas waren de bijwerkingen onder meer aanhoudende waanideeën dat [PAWN_pronoun] gemechaniseerd was, die [PAWN_possessieve] sociale leven beperkten.</desc>
+    <desc>Als enige zoon van een gerespecteerde mechanische uitvinder, had [PAWN_nameDef] toegang tot de materialen om de creaties van [PAWN_possessive] vader te verbouwen en aan te passen.\n\n[PAWN_pronoun] gebruikte drugs om [PAWN_possessive] productiviteit te verhogen. Helaas waren de bijwerkingen onder meer aanhoudende waanideeën dat [PAWN_pronoun] gemechaniseerd was, die [PAWN_possessive] sociale leven beperkten.</desc>
   </MechanoidHacker93>
   
   <MechanoidNerd10>
@@ -3910,7 +3910,7 @@
     <!-- EN: plower -->
     <titleShort>ploeger</titleShort>
     <!-- EN: [PAWN_nameDef] lived on a planet where kings and queens ruled with little regard for the peasants beneath them. [PAWN_possessive] family owned a large farm, but the king took most of the food it produced. This left [PAWN_nameDef]'s family poor, and unable to pay for [PAWN_possessive] education. Instead, [PAWN_pronoun] was required to work the fields with [PAWN_possessive] parents, and never had time to practice creativity. -->
-    <desc>[PAWN_nameDef] leefde op een planeet waar koningen en koninginnen regeerden met weinig respect voor de boeren onder hen. [PAWN_possessive] familie had een grote boerderij, maar de koning eiste het meeste voedsel dat ze produceerden op. Hierdoor was het gezin van [PAWN_nameDef] arm en kon het [PAWN_possessive] onderwijs niet betalen. In plaats daarvan moest [PAWN_pronoun] de velden bewerken met [PAWN_possessieve] ouders en had nooit tijd om zich creatief te ontplooien.</desc>
+    <desc>[PAWN_nameDef] leefde op een planeet waar koningen en koninginnen regeerden met weinig respect voor de boeren onder hen. [PAWN_possessive] familie had een grote boerderij, maar de koning eiste het meeste voedsel dat ze produceerden op. Hierdoor was het gezin van [PAWN_nameDef] arm en kon het [PAWN_possessive] onderwijs niet betalen. In plaats daarvan moest [PAWN_pronoun] de velden bewerken met [PAWN_possessive] ouders en had nooit tijd om zich creatief te ontplooien.</desc>
   </MedievalPlower14>
   
   <MedievalSailor97>
@@ -3948,7 +3948,7 @@
     <!-- EN: squire -->
     <titleShort>schildknaap</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on a medieval planet as a knight in training. [PAWN_pronoun] trained directly under the king's war adviser for most of [PAWN_possessive] youth, and learned to fight with a sword and shield. -->
-    <desc>[PAWN_nameDef] groeide op op een middeleeuwse planeet als ridder in opleiding. [PAWN_pronoun] trainde direct onder de oorlogsadviseur van de koning gedurende het grootste deel van [PAWN_possessieve] jeugd, en leerde vechten met een zwaard en een schild.</desc>
+    <desc>[PAWN_nameDef] groeide op op een middeleeuwse planeet als ridder in opleiding. [PAWN_pronoun] trainde direct onder de oorlogsadviseur van de koning gedurende het grootste deel van [PAWN_possessive] jeugd, en leerde vechten met een zwaard en een schild.</desc>
   </MedievalSquire5>
   
   <MedievalThief74>
@@ -4650,11 +4650,11 @@
   
   <PetTorturer60>
     <!-- EN: pet torturer -->
-    <title>TODO</title>
+    <title>dierenbeul</title>
     <!-- EN: pet torturer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>dierenbeul</titleShort>
     <!-- EN: [PAWN_nameDef]'s affluent family helped conceal [PAWN_possessive] habit of torturing animals.\n\nDespite years of therapy, [PAWN_pronoun] could never bring [PAWN_objective]self to interact with the little beasts in any normal way. [PAWN_pronoun] did learn a few things about how bodies live and die. -->
-    <desc>TODO</desc>
+    <desc>De rijke familie van [PAWN_nameDef] hielp [PAWN_possessive] gewoonte om dieren te martelen te verbergen.\n\nOndanks jaren van therapie kon [PAWN_pronoun] zichzelf er nooit toe brengen op een normale manier met de kleine gruwels om te gaan. Wel leerde [PAWN_pronoun] een paar dingen over hoe lichamen leven en sterven.</desc>
   </PetTorturer60>
   
   <Philosopher82>
@@ -4848,11 +4848,11 @@
   
   <PlankCutter72>
     <!-- EN: plank cutter -->
-    <title>TODO</title>
+    <title>frezer</title>
     <!-- EN: plank cutter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>fezer</titleShort>
     <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] hielp [PAWN_possessive] stam met het bouwen van grote houten constructies door bomen in stevige planken te frezen. [PAWN_nameDef] ontwikkelde een goed begrip van hoe hout groeit en splijt.</desc>
   </PlankCutter72>
   
   <PoisonGardener29>
@@ -4906,11 +4906,11 @@
   
   <PoliticalClimber28>
     <!-- EN: political climber -->
-    <title>TODO</title>
+    <title>politieke klimmer</title>
     <!-- EN: political climber -->
-    <titleShort>TODO</titleShort>
+    <titleShort>politieke klimmer</titleShort>
     <!-- EN: [PAWN_nameDef] was a smart kid, so everyone encouraged [PAWN_possessive] ambition to become a politician.\n\n[PAWN_pronoun] would use any tactic to win, including direct psychological attacks.\n\nDuring one school election, the other candidate hung himself. [PAWN_nameDef] won by default. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] was een slim kind, dus moedigde iedereen [PAWN_objective] aan om politicus te worden.\n\n[PAWN_pronoun] zou elke tactiek gebruiken om te winnen, inclusief directe psychologische aanvallen.\n\n[PAWN_nameDef] won steeds.</desc>
   </PoliticalClimber28>
   
   <Politician57>
@@ -5095,11 +5095,11 @@
   
   <QuarryWorker29>
     <!-- EN: quarry worker -->
-    <title>TODO</title>
+    <title>steengroevearbeider</title>
     <!-- EN: quarry worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>steengroevearbeider</titleShort>
     <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] werkte in een steengroeve om waardevolle stenen uit de heuvels te halen. [PAWN_pronoun] leerde kansen en gevaren in het gesteente aan te voelen door zicht, tastzin en intuïtie.</desc>
   </QuarryWorker29>
   
   <QuietNerd97>
@@ -5140,11 +5140,11 @@
   
   <Ranger96>
     <!-- EN: ranger -->
-    <title>TODO</title>
+    <title>boswachter</title>
     <!-- EN: ranger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>boswachter</titleShort>
     <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] spoorde dieren en mensen op voor verschillende klanten. [PAWN_pronoun] werd bedreven in het lezen van sporen, het vinden van voedsel in het wild en het besluipen van prooien.</desc>
   </Ranger96>
   
   <RangerChild57>
@@ -5311,11 +5311,11 @@
   
   <Restorer70>
     <!-- EN: restorer -->
-    <title>TODO</title>
+    <title>restaurateur</title>
     <!-- EN: restorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>restaurateur</titleShort>
     <!-- EN: [PAWN_nameDef] traveled the world, always looking for old and forgotten things to repair for the good of others, working to see the true beauty in all things. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] reisde de wereld rond, altijd op zoek naar oude en vergeten dingen om te repareren, voor het welzijn van anderen. Om de ware schoonheid in dingen te zien.</desc>
   </Restorer70>
   
   <RichBoy9>
@@ -5569,15 +5569,15 @@
   
   <SewerKid57>
     <!-- EN: sewer kid -->
-    <title>TODO</title>
+    <title>rioolkind</title>
     <!-- EN: sewer girl -->
-    <titleFemale>TODO</titleFemale>
+    <titleFemale>rioolmeisje</titleFemale>
     <!-- EN: sewer boy -->
-    <titleShort>TODO</titleShort>
+    <titleShort>riooljongen</titleShort>
     <!-- EN: sewer girl -->
-    <titleShortFemale>TODO</titleShortFemale>
+    <titleShortFemale>rioolmeisje</titleShortFemale>
     <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness, and learned to love them. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] groeide op in de met slib besmeurde riolen van een vervuilde industriële wereld.\n\n[PAWN_pronoun] raakte bevriend met de vreemde insecten in de duisternis en leerde van ze te houden.</desc>
   </SewerKid57>
   
   <ShadowMarine63>
@@ -5743,11 +5743,11 @@
   
   <Slaughterer58>
     <!-- EN: slaughterer -->
-    <title>TODO</title>
+    <title>slachter</title>
     <!-- EN: slaughterer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>slachter</titleShort>
     <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] slachtte dieren voor de kost. Anderen beschouwden dit werk als smerig, maar de vaardigheden die nodig zijn om grote aantallen dieren netjes te slachten waren nooit eenvoudig.</desc>
   </Slaughterer58>
   
   <SlaveChemist84>
@@ -5774,7 +5774,7 @@
     <!-- EN: town kid -->
     <titleShort>dorpskind</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.\n\n[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life. -->
-    <desc>[PAWN_nameDef] groeide op in een afgelegen dorp op een middenwereld, omgeven door optikoeien en platteland.\n\n[PAWN_possessive] ouders leerden [PAWN_objective] een breed scala aan nuttige huishoudelijke vaardigheden, maar door [PAWN_possessiv] rustige en veilige jeugd heet [PAWN_pronoun] weinig begrip van de moeilijkere delen van het leven.</desc>
+    <desc>[PAWN_nameDef] groeide op in een afgelegen dorp op een middenwereld, omgeven door optikoeien en platteland.\n\n[PAWN_possessive] ouders leerden [PAWN_objective] een breed scala aan nuttige huishoudelijke vaardigheden, maar door [PAWN_possessive] rustige en veilige jeugd heet [PAWN_pronoun] weinig begrip van de moeilijkere delen van het leven.</desc>
   </SmallTownKid41>
   
   <Smuggler23>
@@ -6427,11 +6427,11 @@
   
   <StreetUrchin74>
     <!-- EN: street urchin -->
-    <title>TODO</title>
+    <title>straatschooier</title>
     <!-- EN: grifter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>zwendelaar</titleShort>
     <!-- EN: After running away from home, [PAWN_nameDef] had to live on the streets.\n\n[PAWN_pronoun] grew up fast, and learned early that [PAWN_pronoun] had to figure out how to fool people into connecting with [PAWN_objective]. -->
-    <desc>TODO</desc>
+    <desc>Nadat [PAWN_nameDef] van huis was weggelopen, moest [PAWN_pronoun] op straat leven.\n\n[PAWN_pronoun] groeide snel op en leerde uitzoeken hoe [PAWN_pronoun] mensen te misleiden om met hun te connecteren.</desc>
   </StreetUrchin74>
   
   <Student65>
@@ -6769,11 +6769,11 @@
   
   <TreehouseBuilder86>
     <!-- EN: treehouse builder -->
-    <title>TODO</title>
+    <title>boomhut bouwer</title>
     <!-- EN: treehouse builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>boomhut bouwer</titleShort>
     <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] bouwde huizen tussen, en soms hangend in, de bomen voor [PAWN_possessive] mensen tijdens het reizen of foerageren. [PAWN_nameDef] leerde hoe wilde planten het beste gevonden en gebruikt konden worden en hoe wilde dieren bestreden konden worden.</desc>
   </TreehouseBuilder86>
   
   <TribalThunderer45>
@@ -6975,16 +6975,16 @@
     <!-- EN: sex slave -->
     <titleShort>seksslavin</titleShort>
     <!-- EN: [PAWN_nameDef] was sold into sexual slavery. Having been designed to be inhumanly attractive and too weak to rebel against [PAWN_possessive] masters, [PAWN_pronoun] was passed between dozens of owners and knew nothing of freedom. -->
-    <desc>[PAWN_nameDef] werd verkocht als seksslavin. Ontworpen om onmenselijk aantrekkelijk te zijn en te zwak om te rebelleren tegen [PAWN_possessieve] meesters, werd [PAWN_pronoun] aan tientallen eigenaren doorverkocht en wist niets van vrijheid.</desc>
+    <desc>[PAWN_nameDef] werd verkocht als seksslavin. Ontworpen om onmenselijk aantrekkelijk te zijn en te zwak om te rebelleren tegen [PAWN_possessive] meesters, werd [PAWN_pronoun] aan tientallen eigenaren doorverkocht en wist niets van vrijheid.</desc>
   </UrbworldSexSlave25>
   
   <UrbworldUrchin6>
     <!-- EN: urbworld urchin -->
-    <title>TODO</title>
+    <title>urbwereld straatkind</title>
     <!-- EN: urchin -->
-    <titleShort>TODO</titleShort>
+    <titleShort>straatkind</titleShort>
     <!-- EN: [PAWN_nameDef] was born in the darkest slums of [PAWN_possessive] urban homeworld. Neglected by [PAWN_possessive] mother, [PAWN_pronoun] learned to survive on [PAWN_possessive] own, battling for every scrap of food [PAWN_pronoun] saw.\n\nEventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN_pronoun] ascended from the depths to the surface streets and left [PAWN_possessive] mother behind. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] werd geboren in de donkerste sloppenwijken van [PAWN_possessive] stedelijke thuiswereld. Verwaarloosd door [PAWN_possessive] moeder, leerde [PAWN_pronoun] te overleven op zichzelf, vechtend voor elk restje voedsel.\n\nUiteindelijk, toen [PAWN_possessive] talenten [PAWN_possessive] leeftijdsgenoten overtroffen, steeg [PAWN_pronoun] op van de diepten naar de oppervlakte straten en liet [PAWN_possessive] moeder achter.</desc>
   </UrbworldUrchin6>
   
   <UrbworldUrchin61>
@@ -6993,7 +6993,7 @@
     <!-- EN: urchin -->
     <titleShort>straatkind</titleShort>
     <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
-    <desc>Meredith werd geboren in de donkerste sloppenwijken van [PAWN_possessive] stedelijke thuiswereld. Verwaarloosd door [PAWN_possessive] moeder, leerde [PAWN_pronoun] om te overleven, vechtend voor elk stukje voedsel dat [PAWN_pronoun] zag. Uiteindelijk, toen [PAWN_possessive] talenten [PAWN_possessive] leeftijdsgenoten overtroffen, steeg [PAWN_pronoun] uit de diepten naar de straten aan de oppervlakte en liet [PAWN_possessive] moeder achter.</desc>
+    <desc>De urbworlds - oude en diepe industriële stadsdelen barstensvol mensen en gif. [PAWN_nameDef] groeide op in de donkere, ongewenste uithoeken van zo'n plek. [PAWN_pronoun] moest vechten voor elk restje voedsel.</desc>
   </UrbworldUrchin61>
   
   <UrbworldUrchin90>
@@ -7191,7 +7191,7 @@
     <!-- EN: voyager -->
     <titleShort>reiziger</titleShort>
     <!-- EN: [PAWN_nameDef] was raised on an R&D starship, and spent most of [PAWN_possessive] childhood travelling through the void.\n\nApproaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [PAWN_pronoun] soon developed an unnatural gift for technological research. -->
-    <desc>[PAWN_nameDef] groeide op op een wetenschappelijk ruimteschip en bracht het grootste deel van [PAWN_possessieve] jeugd door met reizen door de leegte.\n\nToen het schip een mysterieuze planetoïde naderde, raakte het ernstig beschadigd. [PAWN_possessive] volgende herinnering is van het schip dat een baan verliet, volledig gerepareerd. [PAWN_pronoun] ontwikkelde al snel een onnatuurlijke gave voor technologisch onderzoek.</desc>
+    <desc>[PAWN_nameDef] groeide op op een wetenschappelijk ruimteschip en bracht het grootste deel van [PAWN_possessive] jeugd door met reizen door de leegte.\n\nToen het schip een mysterieuze planetoïde naderde, raakte het ernstig beschadigd. [PAWN_possessive] volgende herinnering is van het schip dat een baan verliet, volledig gerepareerd. [PAWN_pronoun] ontwikkelde al snel een onnatuurlijke gave voor technologisch onderzoek.</desc>
   </VoyagerChild94>
   
   <VRAddict29>
@@ -7218,7 +7218,7 @@
     <!-- EN: crafter -->
     <titleShort>handwerkster</titleShort>
     <!-- EN: [PAWN_nameDef] continued to follow [PAWN_possessive] parents' nomadic ways, supporting [PAWN_objective]self with [PAWN_possessive] crafting skills. But wandering is a hard life, and [PAWN_pronoun] often thought of finding somewhere to settle down and put [PAWN_possessive] skills to good use. -->
-    <desc>[PAWN_nameDef] bleef de nomadische wegen van [PAWN_possessive] ouders volgen en hield zichzelf in leven met [PAWN_possessive] knutselvaardigheden. Maar ronddwalen is een zwaar leven, en [PAWN_pronoun] dacht er vaak aan om ergens te gaan wonen en [PAWN_possessieve] vaardigheden goed te benutten.</desc>
+    <desc>[PAWN_nameDef] bleef de nomadische wegen van [PAWN_possessive] ouders volgen en hield zichzelf in leven met [PAWN_possessive] knutselvaardigheden. Maar ronddwalen is een zwaar leven, en [PAWN_pronoun] dacht er vaak aan om ergens te gaan wonen en [PAWN_possessive] vaardigheden goed te benutten.</desc>
   </WanderingCrafter42>
   
   <WanderingHealer52>

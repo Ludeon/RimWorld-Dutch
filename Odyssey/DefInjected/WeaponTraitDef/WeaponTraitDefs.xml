@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aim assistance -->
+  <AimAssistance.label>richthulp</AimAssistance.label>
+  <!-- EN: This weapon contains a rudimentary aim assistant computer which helps track targets, increasing accuracy at all ranges. The device can account for environmental challenges, allowing the weapon to ignore the accuracy penalty from bad weather and smoke. -->
+  <AimAssistance.description>Dit wapen bevat een rudimentaire richthulpcomputer die helpt om doelen te volgen, waardoor de nauwkeurigheid op alle afstanden toeneemt. Het apparaat houdt rekening met omgevingsfactoren, zodat het wapen geen nauwkeurigheidsverlies heeft bij slecht weer en rook.</AimAssistance.description>
+  <!-- EN: seeking -->
+  <AimAssistance.traitAdjectives.0>zoekend(e)</AimAssistance.traitAdjectives.0>
+  <!-- EN: accurate -->
+  <AimAssistance.traitAdjectives.1>nauwkeurig(e)</AimAssistance.traitAdjectives.1>
+  <!-- EN: precise -->
+  <AimAssistance.traitAdjectives.2>precies/-ze</AimAssistance.traitAdjectives.2>
+  <!-- EN: auto-aim -->
+  <AimAssistance.traitAdjectives.3>automatisch richtend(e)</AimAssistance.traitAdjectives.3>
+  <!-- EN: self-aim -->
+  <AimAssistance.traitAdjectives.4>zelfrichtend(e)</AimAssistance.traitAdjectives.4>
+  
+  <!-- EN: bioferrite burner -->
+  <BioferriteBurner.label>bioferrietbrander</BioferriteBurner.label>
+  <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
+  <BioferriteBurner.description>Dit wapen heeft een vlammenwerper aangedreven door bioferriet. De brander produceert een vlammenstraal uit een geperste bioferrietlading. Na gebruik moet hij met bioferriet worden herladen.</BioferriteBurner.description>
+  <!-- EN: burner charge -->
+  <BioferriteBurner.abilityProps.chargeNoun>branderlading</BioferriteBurner.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <BioferriteBurner.abilityProps.cooldownGerund>aan het afkoelen</BioferriteBurner.abilityProps.cooldownGerund>
+  <!-- EN: fiery -->
+  <BioferriteBurner.traitAdjectives.0>vurig(e)</BioferriteBurner.traitAdjectives.0>
+  <!-- EN: flame -->
+  <BioferriteBurner.traitAdjectives.1>schroeiend(e)</BioferriteBurner.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <BioferriteBurner.traitAdjectives.2>vlammend(e)</BioferriteBurner.traitAdjectives.2>
+  <!-- EN: burning -->
+  <BioferriteBurner.traitAdjectives.3>brandend(e)</BioferriteBurner.traitAdjectives.3>
+  
+  <!-- EN: birdshot pellets -->
+  <BirdshotPellets.label>ganzenhagel</BirdshotPellets.label>
+  <!-- EN: This weapon fires shells containing smaller pellets than normal. It's much more accurate at close range, but less effective at long range. -->
+  <BirdshotPellets.description>Dit wapen vuurt patronen af met kleinere kogeltjes dan normaal. Ze zijn veel nauwkeuriger op korte afstand, maar minder effectief op grote afstand.</BirdshotPellets.description>
+  <!-- EN: birdshot -->
+  <BirdshotPellets.traitAdjectives.0>ganzenhagel</BirdshotPellets.traitAdjectives.0>
+  <!-- EN: nearshot -->
+  <BirdshotPellets.traitAdjectives.1>korteafstandsschot</BirdshotPellets.traitAdjectives.1>
+  
+  <!-- EN: broadhead arrows -->
+  <BroadheadArrows.label>brede pijlen</BroadheadArrows.label>
+  <!-- EN: This bow shoots arrows tipped with sharp blades, increasing its damage. -->
+  <BroadheadArrows.description>Deze boog schiet pijlen met scherpe bladpunten, wat de schade verhoogt.</BroadheadArrows.description>
+  <!-- EN: strong -->
+  <BroadheadArrows.traitAdjectives.0>gro(o)t(e)</BroadheadArrows.traitAdjectives.0>
+  <!-- EN: broadhead -->
+  <BroadheadArrows.traitAdjectives.1>breedpuntig(e)</BroadheadArrows.traitAdjectives.1>
+  
+  <!-- EN: charge capacitor -->
+  <ChargeCapacitor.label>laadcondensator</ChargeCapacitor.label>
+  <!-- EN: This weapon amplifies pulse-charge technology with a massive capacitor, increasing damage and armor penetration. -->
+  <ChargeCapacitor.description>Dit wapen versterkt pulsgeladen technologie met een grote condensator, wat zorgt voor meer schade en pantserdoorboring.</ChargeCapacitor.description>
+  <!-- EN: overcharged -->
+  <ChargeCapacitor.traitAdjectives.0>overladen</ChargeCapacitor.traitAdjectives.0>
+  
+  <!-- EN: cumbersome -->
+  <Cumbersome.label>onhandig(e)</Cumbersome.label>
+  <!-- EN: This weapon is unwieldy to use, making it slower to aim. -->
+  <Cumbersome.description>Dit wapen is lastig te hanteren, waardoor het richten langzamer gaat.</Cumbersome.description>
+  <!-- EN: cumbersome -->
+  <Cumbersome.traitAdjectives.0>onhandig(e)</Cumbersome.traitAdjectives.0>
+  <!-- EN: bulky -->
+  <Cumbersome.traitAdjectives.1>log(ge)</Cumbersome.traitAdjectives.1>
+  <!-- EN: awkward -->
+  <Cumbersome.traitAdjectives.2>ongemakkelijke(e)</Cumbersome.traitAdjectives.2>
+  
+  <!-- EN: custom grip -->
+  <CustomGrip.label>aangepaste greep</CustomGrip.label>
+  <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
+  <CustomGrip.description>Dit wapen heeft een aangepaste greep die de terugslag beter opvangt, wat de nauwkeurigheid op korte afstand verbetert. Het ziet er bovendien stoer uit.</CustomGrip.description>
+  <!-- EN: custom -->
+  <CustomGrip.traitAdjectives.0>aangepast(e)</CustomGrip.traitAdjectives.0>
+  <!-- EN: customized -->
+  <CustomGrip.traitAdjectives.1>gepersonaliseerd(e)</CustomGrip.traitAdjectives.1>
+  <!-- EN: gripped -->
+  <CustomGrip.traitAdjectives.2>met greep uitgerust(e)</CustomGrip.traitAdjectives.2>
+  <!-- EN: hi-grip -->
+  <CustomGrip.traitAdjectives.3>met hoge reep uitgerust(e)</CustomGrip.traitAdjectives.3>
+  
+  <!-- EN: EMP cannon -->
+  <EMPLauncher.label>EMP-kanon</EMPLauncher.label>
+  <!-- EN: This weapon has an attached EMP shell launcher. The shell emits a burst of electromagnetic energy that stuns electronic targets like turrets and mechanoids. Once fired, it must be reloaded using steel. -->
+  <EMPLauncher.description>Dit wapen heeft een EMP-granaatwerper. De granaat zendt een elektromagnetische puls uit die elektronische doelen zoals geschut en mechanoïden verlamt. Na het afvuren moet het met staal worden herladen.</EMPLauncher.description>
+  <!-- EN: shell -->
+  <EMPLauncher.abilityProps.chargeNoun>schild</EMPLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EMPLauncher.abilityProps.cooldownGerund>aan het afkoelen</EMPLauncher.abilityProps.cooldownGerund>
+  <!-- EN: EMP -->
+  <EMPLauncher.traitAdjectives.0>elektromagnetisch(e)</EMPLauncher.traitAdjectives.0>
+  <!-- EN: disabling -->
+  <EMPLauncher.traitAdjectives.1>verdovend(e)</EMPLauncher.traitAdjectives.1>
+  <!-- EN: stunning -->
+  <EMPLauncher.traitAdjectives.2>verblindend(e)</EMPLauncher.traitAdjectives.2>
+  
+  <!-- EN: EMP pulser -->
+  <EMPPulser.label>EMP-pulsator</EMPPulser.label>
+  <!-- EN: This weapon can emit a burst of energy centered on the user. The burst will stun nearby electronic targets like mechanoids or turrets. Once used, the pulser takes some time to recharge. -->
+  <EMPPulser.description>Dit wapen produceert een energiepuls rond de gebruiker. De puls verdooft elektronische doelen zoals mechanoïden en geschut in de buurt. Na gebruik moet de pulsator enige tijd opladen.</EMPPulser.description>
+  <!-- EN: charge -->
+  <EMPPulser.abilityProps.chargeNoun>lading</EMPPulser.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EMPPulser.abilityProps.cooldownGerund>aan het afkoelen</EMPPulser.abilityProps.cooldownGerund>
+  <!-- EN: pulse -->
+  <EMPPulser.traitAdjectives.0>pulsgeladen</EMPPulser.traitAdjectives.0>
+  <!-- EN: EMP -->
+  <EMPPulser.traitAdjectives.1>elektromagnetisch(e)</EMPPulser.traitAdjectives.1>
+  
+  <!-- EN: EMP rounds -->
+  <EMPRounds.label>EMP-patronen</EMPRounds.label>
+  <!-- EN: This weapon fires rounds with embedded EMP capacitors, which will temporarily disable electronics and mechanoids. -->
+  <EMPRounds.description>Dit wapen vuurt patronen af met ingebouwde EMP-condensatoren, die elektronica en mechanoïden tijdelijk uitschakelen.</EMPRounds.description>
+  <!-- EN: EMP -->
+  <EMPRounds.traitAdjectives.0>EMP</EMPRounds.traitAdjectives.0>
+  <!-- EN: electric -->
+  <EMPRounds.traitAdjectives.1>elektrisch(e)</EMPRounds.traitAdjectives.1>
+  <!-- EN: shocking -->
+  <EMPRounds.traitAdjectives.2>schokkend(e)</EMPRounds.traitAdjectives.2>
+  <!-- EN: sparky -->
+  <EMPRounds.traitAdjectives.3>vonkend(e)</EMPRounds.traitAdjectives.3>
+  <!-- EN: zapping -->
+  <EMPRounds.traitAdjectives.4>flitsend(e)</EMPRounds.traitAdjectives.4>
+  
+  <!-- EN: extended barrel -->
+  <ExtendedBarrel.label>verlengde loop</ExtendedBarrel.label>
+  <!-- EN: This weapon has a longer range than normal. -->
+  <ExtendedBarrel.description>Dit wapen heeft een groter bereik dan normaal.</ExtendedBarrel.description>
+  <!-- EN: long -->
+  <ExtendedBarrel.traitAdjectives.0>lang(e)</ExtendedBarrel.traitAdjectives.0>
+  <!-- EN: extended -->
+  <ExtendedBarrel.traitAdjectives.1>verlengd(e)</ExtendedBarrel.traitAdjectives.1>
+  
+  <!-- EN: extended magazine -->
+  <ExtendedMagazine.label>uitgebreid magazijn</ExtendedMagazine.label>
+  <!-- EN: This weapon fires 50% more shots in a single burst than normal. -->
+  <ExtendedMagazine.description>Dit wapen schiet 50% meer schoten per salvo dan normaal.</ExtendedMagazine.description>
+  <!-- EN: high-capacity -->
+  <ExtendedMagazine.traitAdjectives.0>roya(a)l(e)</ExtendedMagazine.traitAdjectives.0>
+  <!-- EN: extendo-clip -->
+  <ExtendedMagazine.traitAdjectives.1>met extendo-clip uitgerust(e)</ExtendedMagazine.traitAdjectives.1>
+  
+  <!-- EN: frequency amplifier -->
+  <FrequencyAmplifier.label>frequentieversterker</FrequencyAmplifier.label>
+  <!-- EN: This weapon passes the beam through a crystal amplifier, dramatically increasing the weapon's damage and range. The weapon needs to cool down between uses. -->
+  <FrequencyAmplifier.description>Dit wapen stuurt de straal door een kristalversterker, wat de schade en het bereik aanzienlijk vergroot. Het wapen moet afkoelen tussen gebruik door.</FrequencyAmplifier.description>
+  <!-- EN: amplified -->
+  <FrequencyAmplifier.traitAdjectives.0>versterkt(e)</FrequencyAmplifier.traitAdjectives.0>
+  
+  <!-- EN: gold inlay -->
+  <GoldInlay.label>gouden inleg</GoldInlay.label>
+  <!-- EN: This weapon is inlaid with gold. Traders will pay more for it. -->
+  <GoldInlay.description>Dit wapen is ingelegd met goud. Handelaren betalen er meer voor.</GoldInlay.description>
+  <!-- EN: gold -->
+  <GoldInlay.traitAdjectives.0>gouden</GoldInlay.traitAdjectives.0>
+  <!-- EN: golden -->
+  <GoldInlay.traitAdjectives.1>gouden</GoldInlay.traitAdjectives.1>
+  
+  <!-- EN: grenade launcher -->
+  <GrenadeLauncher.label>granaatwerper</GrenadeLauncher.label>
+  <!-- EN: This weapon has an attached frag grenade launcher. Once fired, it must be reloaded using steel. -->
+  <GrenadeLauncher.description>Aan dit wapen is een granaatwerper gemonteerd. Na het afvuren moet hij met staal worden herladen.</GrenadeLauncher.description>
+  <!-- EN: grenade -->
+  <GrenadeLauncher.abilityProps.chargeNoun>granaat</GrenadeLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <GrenadeLauncher.abilityProps.cooldownGerund>aan het afkoelen</GrenadeLauncher.abilityProps.cooldownGerund>
+  <!-- EN: explosive -->
+  <GrenadeLauncher.traitAdjectives.0>explosief/-ve</GrenadeLauncher.traitAdjectives.0>
+  
+  <!-- EN: high-power rounds -->
+  <HighPowerRounds.label>krachtpatronen</HighPowerRounds.label>
+  <!-- EN: Special ammunition makes this weapon more powerful than normal. The heavy recoil makes it less accurate. -->
+  <HighPowerRounds.description>Speciale munitie maakt dit wapen krachtiger dan normaal. De zware terugslag zorgt ervoor dat het minder nauwkeurig is.</HighPowerRounds.description>
+  <!-- EN: atlas -->
+  <HighPowerRounds.traitAdjectives.0>van atlaseigenschappen voorziene</HighPowerRounds.traitAdjectives.0>
+  <!-- EN: hi-power -->
+  <HighPowerRounds.traitAdjectives.1>krachtig(e)</HighPowerRounds.traitAdjectives.1>
+  <!-- EN: heavy-shot -->
+  <HighPowerRounds.traitAdjectives.2>zwa(a)r(e)</HighPowerRounds.traitAdjectives.2>
+  <!-- EN: hardpunch -->
+  <HighPowerRounds.traitAdjectives.3>zware klap veroorzakend(e)</HighPowerRounds.traitAdjectives.3>
+  <!-- EN: heavy-hit -->
+  <HighPowerRounds.traitAdjectives.4>zware impact veroorzakend(e)</HighPowerRounds.traitAdjectives.4>
+  
+  <!-- EN: hollow-point rounds -->
+  <HollowPointRounds.label>hollepuntpatronen</HollowPointRounds.label>
+  <!-- EN: This weapon fires bullets that expand on impact, dealing more damage than normal. -->
+  <HollowPointRounds.description>Dit wapen vuurt kogels af die uitzetten bij impact, waardoor ze meer schade aanrichten dan normaal.</HollowPointRounds.description>
+  <!-- EN: shredding -->
+  <HollowPointRounds.traitAdjectives.0>verscheurend(e)</HollowPointRounds.traitAdjectives.0>
+  <!-- EN: hollowpoint -->
+  <HollowPointRounds.traitAdjectives.1>leegpuntig(e)</HollowPointRounds.traitAdjectives.1>
+  <!-- EN: hardpunch -->
+  <HollowPointRounds.traitAdjectives.2>zware klap veroorzakend(e)</HollowPointRounds.traitAdjectives.2>
+  <!-- EN: meatrip -->
+  <HollowPointRounds.traitAdjectives.3>vleesverscheurend(e)</HollowPointRounds.traitAdjectives.3>
+  <!-- EN: grinder -->
+  <HollowPointRounds.traitAdjectives.4>vermalend(e)</HollowPointRounds.traitAdjectives.4>
+  
+  <!-- EN: tactical sight -->
+  <ImprovedSights.label>tactisch vizier</ImprovedSights.label>
+  <!-- EN: This weapon has a custom sight, increasing its accuracy at long range. -->
+  <ImprovedSights.description>Dit wapen heeft een aangepast vizier, wat de nauwkeurigheid op lange afstand vergroot.</ImprovedSights.description>
+  <!-- EN: accurate -->
+  <ImprovedSights.traitAdjectives.0>nauwkeurig(e)</ImprovedSights.traitAdjectives.0>
+  <!-- EN: precise -->
+  <ImprovedSights.traitAdjectives.1>precies/-ze</ImprovedSights.traitAdjectives.1>
+  <!-- EN: sniper -->
+  <ImprovedSights.traitAdjectives.2>van sluipschutterseigenschappen voorzien(e)</ImprovedSights.traitAdjectives.2>
+  
+  <!-- EN: incendiary launcher -->
+  <IncendiaryLauncher.label>brandgranaatwerper</IncendiaryLauncher.label>
+  <!-- EN: This weapon has an attached incendiary shell launcher. The shell creates a small flame explosion that ignites everything nearby. Once fired, it must be reloaded using chemfuel. -->
+  <IncendiaryLauncher.description>Aan dit wapen is een brandgranaatwerper gemonteerd. De granaat veroorzaakt een kleine vlamexplosie die alles in de buurt in brand zet. Na het afvuren moet hij met chembrandstof worden herladen.</IncendiaryLauncher.description>
+  <!-- EN: shell -->
+  <IncendiaryLauncher.abilityProps.chargeNoun>schild</IncendiaryLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <IncendiaryLauncher.abilityProps.cooldownGerund>aan het afkoelen</IncendiaryLauncher.abilityProps.cooldownGerund>
+  <!-- EN: fiery -->
+  <IncendiaryLauncher.traitAdjectives.0>vurig(e)</IncendiaryLauncher.traitAdjectives.0>
+  <!-- EN: flame -->
+  <IncendiaryLauncher.traitAdjectives.1>schroeiend(e)</IncendiaryLauncher.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <IncendiaryLauncher.traitAdjectives.2>vlammend(e)</IncendiaryLauncher.traitAdjectives.2>
+  <!-- EN: burning -->
+  <IncendiaryLauncher.traitAdjectives.3>brandend(e)</IncendiaryLauncher.traitAdjectives.3>
+  
+  <!-- EN: incendiary pellets -->
+  <IncendiaryPellets.label>brandkorrels</IncendiaryPellets.label>
+  <!-- EN: This weapon fires phosphorus pellets that have a chance to ignite targets. -->
+  <IncendiaryPellets.description>Dit wapen vuurt fosforkorrels af die doelen in brand kunnen steken.</IncendiaryPellets.description>
+  <!-- EN: red -->
+  <IncendiaryPellets.traitAdjectives.0>ro(o)d(e)</IncendiaryPellets.traitAdjectives.0>
+  <!-- EN: fiery -->
+  <IncendiaryPellets.traitAdjectives.1>vurig(e)</IncendiaryPellets.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <IncendiaryPellets.traitAdjectives.2>vlammend(e)</IncendiaryPellets.traitAdjectives.2>
+  <!-- EN: burning -->
+  <IncendiaryPellets.traitAdjectives.3>brandend(e)</IncendiaryPellets.traitAdjectives.3>
+  <!-- EN: hot -->
+  <IncendiaryPellets.traitAdjectives.4>he(e)t(e)</IncendiaryPellets.traitAdjectives.4>
+  <!-- EN: volcanic -->
+  <IncendiaryPellets.traitAdjectives.5>vulkanisch(e)</IncendiaryPellets.traitAdjectives.5>
+  <!-- EN: promethean -->
+  <IncendiaryPellets.traitAdjectives.6>prometheïsch(e)</IncendiaryPellets.traitAdjectives.6>
+  
+  <!-- EN: incendiary rounds -->
+  <IncendiaryRounds.label>brandpatronen</IncendiaryRounds.label>
+  <!-- EN: This weapon fires ammunition that contains a flammable chemical. It has a chance to ignite targets. -->
+  <IncendiaryRounds.description>Dit wapen vuurt munitie af die een licht ontvlambare stof bevat. Het kan doelen in brand steken.</IncendiaryRounds.description>
+  <!-- EN: red -->
+  <IncendiaryRounds.traitAdjectives.0>ro(o)d(e)</IncendiaryRounds.traitAdjectives.0>
+  <!-- EN: fiery -->
+  <IncendiaryRounds.traitAdjectives.1>vurig(e)</IncendiaryRounds.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <IncendiaryRounds.traitAdjectives.2>vlammend(e)</IncendiaryRounds.traitAdjectives.2>
+  <!-- EN: burning -->
+  <IncendiaryRounds.traitAdjectives.3>brandend(e)</IncendiaryRounds.traitAdjectives.3>
+  <!-- EN: hot -->
+  <IncendiaryRounds.traitAdjectives.4>he(e)t(e)</IncendiaryRounds.traitAdjectives.4>
+  <!-- EN: igniting -->
+  <IncendiaryRounds.traitAdjectives.5>ontstekend(e)</IncendiaryRounds.traitAdjectives.5>
+  <!-- EN: napalm -->
+  <IncendiaryRounds.traitAdjectives.6>napalmeigenschappen bevattend(e)</IncendiaryRounds.traitAdjectives.6>
+  
+  <!-- EN: jade inlay -->
+  <JadeInlay.label>jade inleg</JadeInlay.label>
+  <!-- EN: This weapon is adorned with jade. Traders will pay more for it. -->
+  <JadeInlay.description>Dit wapen is versierd met jade. Handelaren betalen er meer voor.</JadeInlay.description>
+  <!-- EN: jade -->
+  <JadeInlay.traitAdjectives.0>jadegroen(e)</JadeInlay.traitAdjectives.0>
+  
+  <!-- EN: lightweight -->
+  <Lightweight.label>lichtgewicht wapen</Lightweight.label>
+  <!-- EN: This weapon is much lighter than normal, lowering its aiming time. -->
+  <Lightweight.description>Dit wapen is veel lichter dan normaal, waardoor het richten sneller gaat.</Lightweight.description>
+  <!-- EN: light -->
+  <Lightweight.traitAdjectives.0>licht(e)</Lightweight.traitAdjectives.0>
+  <!-- EN: quickdraw -->
+  <Lightweight.traitAdjectives.1>snel trekba(a)r(e)</Lightweight.traitAdjectives.1>
+  
+  <!-- EN: lightweight arrows -->
+  <LightweightArrows.label>lichtgewicht pijlen</LightweightArrows.label>
+  <!-- EN: This bow is adept at firing lightweight arrows. They fly farther but deal less damage. -->
+  <LightweightArrows.description>Deze boog is geschikt voor het afvuren van lichtgewicht pijlen. Ze vliegen verder, maar richten minder schade aan.</LightweightArrows.description>
+  <!-- EN: light -->
+  <LightweightArrows.traitAdjectives.0>licht(e)</LightweightArrows.traitAdjectives.0>
+  <!-- EN: longreach -->
+  <LightweightArrows.traitAdjectives.1>verreikend(e)</LightweightArrows.traitAdjectives.1>
+  
+  <!-- EN: ornamental -->
+  <Ornamental.label>sierlijk wapen</Ornamental.label>
+  <!-- EN: This weapon was crafted for aesthetics over functionality. It deals less damage but looks great. -->
+  <Ornamental.description>Dit wapen is vooral gemaakt voor zijn uiterlijk, niet voor functionaliteit. Het richt minder schade aan, maar ziet er prachtig uit.</Ornamental.description>
+  <!-- EN: beautiful -->
+  <Ornamental.traitAdjectives.0>prachtig(e)</Ornamental.traitAdjectives.0>
+  <!-- EN: elegant -->
+  <Ornamental.traitAdjectives.1>elegant(e)</Ornamental.traitAdjectives.1>
+  <!-- EN: ornamental -->
+  <Ornamental.traitAdjectives.2>decoratief/-ve</Ornamental.traitAdjectives.2>
+  
+  <!-- EN: heavy rounds -->
+  <OversizedRounds.label>zware patronen</OversizedRounds.label>
+  <!-- EN: This weapon deals more damage and has a much higher stopping power than normal. -->
+  <OversizedRounds.description>Dit wapen richt meer schade aan en heeft een veel hoger stopvermogen dan normaal.</OversizedRounds.description>
+  <!-- EN: hammering -->
+  <OversizedRounds.traitAdjectives.0>dreunend(e)</OversizedRounds.traitAdjectives.0>
+  <!-- EN: forceful -->
+  <OversizedRounds.traitAdjectives.1>krachtig(e)</OversizedRounds.traitAdjectives.1>
+  <!-- EN: oversized -->
+  <OversizedRounds.traitAdjectives.2>reusachtig(e)</OversizedRounds.traitAdjectives.2>
+  <!-- EN: knockout -->
+  <OversizedRounds.traitAdjectives.3>uitschakelend(e)</OversizedRounds.traitAdjectives.3>
+  
+  <!-- EN: paralytic arrows -->
+  <ParalyticArrows.label>verlammende pijlen</ParalyticArrows.label>
+  <!-- EN: This bow shoots arrows embedded with a paralytic biotoxin, which briefly stuns targets. -->
+  <ParalyticArrows.description>Deze boog schiet pijlen met een verlammend biotoxine dat doelwitten kortdurend verlamt.</ParalyticArrows.description>
+  <!-- EN: paralyzing -->
+  <ParalyticArrows.traitAdjectives.0>verlammend(e)</ParalyticArrows.traitAdjectives.0>
+  <!-- EN: paralytic -->
+  <ParalyticArrows.traitAdjectives.1>paralythisch(e)</ParalyticArrows.traitAdjectives.1>
+  <!-- EN: stunning -->
+  <ParalyticArrows.traitAdjectives.2>verdovend(e)</ParalyticArrows.traitAdjectives.2>
+  
+  <!-- EN: piercing arrows -->
+  <PiercingArrows.label>doorborende pijlen</PiercingArrows.label>
+  <!-- EN: This bow shoots bodkin-tipped arrows, making it more effective against armored targets. -->
+  <PiercingArrows.description>Deze boog schiet pijlen met bodkinpunten af, waardoor hij effectiever is tegen gepantserde doelen.</PiercingArrows.description>
+  <!-- EN: piercing -->
+  <PiercingArrows.traitAdjectives.0>spietsend(e)</PiercingArrows.traitAdjectives.0>
+  <!-- EN: sharp -->
+  <PiercingArrows.traitAdjectives.1>scherp(e)</PiercingArrows.traitAdjectives.1>
+  <!-- EN: penetrating -->
+  <PiercingArrows.traitAdjectives.2>penetrerend(e)</PiercingArrows.traitAdjectives.2>
+  <!-- EN: bodkin -->
+  <PiercingArrows.traitAdjectives.3>van bodkinpunt voorzien(e)</PiercingArrows.traitAdjectives.3>
+  <!-- EN: anti-armor -->
+  <PiercingArrows.traitAdjectives.4>pantserdoorborend(e)</PiercingArrows.traitAdjectives.4>
+  
+  <!-- EN: piercing rounds -->
+  <PiercingRounds.label>doorborende patronen</PiercingRounds.label>
+  <!-- EN: This weapon fires rounds designed to penetrate thick armor. -->
+  <PiercingRounds.description>Dit wapen vuurt patronen af die ontworpen zijn om dik pantser te doorboren.</PiercingRounds.description>
+  <!-- EN: piercing -->
+  <PiercingRounds.traitAdjectives.0>perforerend(e)</PiercingRounds.traitAdjectives.0>
+  <!-- EN: sharp -->
+  <PiercingRounds.traitAdjectives.1>scherp(e)</PiercingRounds.traitAdjectives.1>
+  <!-- EN: sabot -->
+  <PiercingRounds.traitAdjectives.2>saboterende(e)</PiercingRounds.traitAdjectives.2>
+  <!-- EN: penetrating -->
+  <PiercingRounds.traitAdjectives.3>penetrerend(e)</PiercingRounds.traitAdjectives.3>
+  
+  <!-- EN: tracking scope -->
+  <PrecisionScope.label>trackvizier</PrecisionScope.label>
+  <!-- EN: This weapon's scope uses target recognition software to automate target tracking, making it faster to fire. -->
+  <PrecisionScope.description>Het vizier van dit wapen maakt gebruik van doelherkenningssoftware voor automatische doeltracking, wat het vuren versnelt.</PrecisionScope.description>
+  <!-- EN: trackscope -->
+  <PrecisionScope.traitAdjectives.0>volgend(e)</PrecisionScope.traitAdjectives.0>
+  <!-- EN: fastfire -->
+  <PrecisionScope.traitAdjectives.1>snelschietend(e)</PrecisionScope.traitAdjectives.1>
+  
+  <!-- EN: pulse charger -->
+  <PulseCharger.label>pulslader</PulseCharger.label>
+  <!-- EN: This weapon is retrofitted with pulse-charge technology, imbuing bullets with unstable energy. The weapon was clearly not designed for this, dramatically lowering its accuracy. -->
+  <PulseCharger.description>Dit wapen is aangepast met pulsgeladen technologie, waardoor de kogels instabiele energie krijgen. Het wapen is hier duidelijk niet voor ontworpen, waardoor de nauwkeurigheid sterk afneemt.</PulseCharger.description>
+  <!-- EN: charged-shot -->
+  <PulseCharger.traitAdjectives.0>van geladen kogels voorzien(e)</PulseCharger.traitAdjectives.0>
+  <!-- EN: charged -->
+  <PulseCharger.traitAdjectives.1>geladen</PulseCharger.traitAdjectives.1>
+  <!-- EN: pulse-charged -->
+  <PulseCharger.traitAdjectives.2>pulsgeladen</PulseCharger.traitAdjectives.2>
+  
+  <!-- EN: quick reload -->
+  <QuickReload.label>snel-herlaadwapen</QuickReload.label>
+  <!-- EN: This weapon has a quick release-and-replace mechanism that makes it faster to reload. -->
+  <QuickReload.description>Dit wapen heeft een snel verwisselmechanisme, waardoor het sneller kan worden herladen.</QuickReload.description>
+  <!-- EN: quick -->
+  <QuickReload.traitAdjectives.0>snel(le)</QuickReload.traitAdjectives.0>
+  <!-- EN: nimble -->
+  <QuickReload.traitAdjectives.1>behendig(e)</QuickReload.traitAdjectives.1>
+  <!-- EN: quickload -->
+  <QuickReload.traitAdjectives.2>vlug geladen</QuickReload.traitAdjectives.2>
+  <!-- EN: quickshot -->
+  <QuickReload.traitAdjectives.3>snel schietend(e)</QuickReload.traitAdjectives.3>
+  <!-- EN: fastload -->
+  <QuickReload.traitAdjectives.4>snel geladen</QuickReload.traitAdjectives.4>
+  
+  <!-- EN: rangefinder -->
+  <RangefinderScope.label>afstandsmeter</RangefinderScope.label>
+  <!-- EN: This weapon's scope contains an advanced rangefinder, allowing it to fire further. -->
+  <RangefinderScope.description>Het vizier van dit wapen bevat een geavanceerde afstandsmeter, waardoor het verder kan schieten.</RangefinderScope.description>
+  <!-- EN: eagle -->
+  <RangefinderScope.traitAdjectives.0>met adelaarszicht uitgerust(e)</RangefinderScope.traitAdjectives.0>
+  <!-- EN: farsight -->
+  <RangefinderScope.traitAdjectives.1>verziend(e)</RangefinderScope.traitAdjectives.1>
+  
+  <!-- EN: rapid fire -->
+  <RapidFire.label>snelsalvowapen</RapidFire.label>
+  <!-- EN: This weapon contains an improved self-loading mechanism. When firing bursts of multiple rounds, the time between each round is dramatically reduced. -->
+  <RapidFire.description>Dit wapen bevat een verbeterd automatisch laadmechanisme. Bij het schieten van salvo's is de tijd tussen elk schot sterk verkort.</RapidFire.description>
+  <!-- EN: rapid -->
+  <RapidFire.traitAdjectives.0>snel(le)</RapidFire.traitAdjectives.0>
+  <!-- EN: burst -->
+  <RapidFire.traitAdjectives.1>salvo producerend(e)</RapidFire.traitAdjectives.1>
+  <!-- EN: rapid-fire -->
+  <RapidFire.traitAdjectives.2>snelschietend(e)</RapidFire.traitAdjectives.2>
+  
+  <!-- EN: reinforced bow limbs -->
+  <ReinforcedLimbs.label>versterkte boogstaaf</ReinforcedLimbs.label>
+  <!-- EN: The limbs of this bow have been strengthened, allowing it to shoot further. -->
+  <ReinforcedLimbs.description>De staaf van deze boog is versterkt, waardoor hij verder kan schieten.</ReinforcedLimbs.description>
+  <!-- EN: reinforced -->
+  <ReinforcedLimbs.traitAdjectives.0>bekrachtigd(e)</ReinforcedLimbs.traitAdjectives.0>
+  
+  <!-- EN: shoddy sights -->
+  <ShoddySights.label>slecht vizier</ShoddySights.label>
+  <!-- EN: Defects in this weapon's sights decrease its accuracy at long ranges. -->
+  <ShoddySights.description>Gebreken in het vizier van dit wapen verminderen de nauwkeurigheid op lange afstand.</ShoddySights.description>
+  <!-- EN: inaccurate -->
+  <ShoddySights.traitAdjectives.0>onnauwkeurig(e)</ShoddySights.traitAdjectives.0>
+  <!-- EN: imprecise -->
+  <ShoddySights.traitAdjectives.1>inaccura(a)t(e)</ShoddySights.traitAdjectives.1>
+  
+  <!-- EN: shortened barrel -->
+  <ShortenedBarrel.label>afgezaagde loop</ShortenedBarrel.label>
+  <!-- EN: This weapon's barrel has been sawn off, reducing its range but making it quicker to aim and fire. -->
+  <ShortenedBarrel.description>De loop van dit wapen is afgezaagd, waardoor het bereik afneemt, maar het sneller kan richten en schieten.</ShortenedBarrel.description>
+  <!-- EN: shortened -->
+  <ShortenedBarrel.traitAdjectives.0>verkort(e)</ShortenedBarrel.traitAdjectives.0>
+  <!-- EN: sawn-off -->
+  <ShortenedBarrel.traitAdjectives.1>ingekort(e)</ShortenedBarrel.traitAdjectives.1>
+  
+  <!-- EN: smoke launcher -->
+  <SmokeLauncher.label>rookgranaatwerper</SmokeLauncher.label>
+  <!-- EN: This weapon has an attached smoke shell launcher. The shell releases smoke that obscures incoming shots and prevents turrets from locking on. Once fired, it must be reloaded using steel. -->
+  <SmokeLauncher.description>Aan dit wapen is een rookgranaatwerper gemonteerd. De granaat verspreidt rook die inkomende schoten hindert en voorkomt dat geschut een doelwit kan fixeren. Na het schieten moet hij met staal worden herladen.</SmokeLauncher.description>
+  <!-- EN: shell -->
+  <SmokeLauncher.abilityProps.chargeNoun>schild</SmokeLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <SmokeLauncher.abilityProps.cooldownGerund>aan het afkoelen</SmokeLauncher.abilityProps.cooldownGerund>
+  <!-- EN: smoke -->
+  <SmokeLauncher.traitAdjectives.0>rook gebruikend(e)</SmokeLauncher.traitAdjectives.0>
+  <!-- EN: concealing -->
+  <SmokeLauncher.traitAdjectives.1>verhullend(e)</SmokeLauncher.traitAdjectives.1>
+  <!-- EN: clouding -->
+  <SmokeLauncher.traitAdjectives.2>vernevelend(e)</SmokeLauncher.traitAdjectives.2>
+  
+  <!-- EN: pistol brace -->
+  <StabilizerBrace.label>pistoolbrace</StabilizerBrace.label>
+  <!-- EN: This weapon has a stabilizing brace that connects to the user's arm, increasing its accuracy. -->
+  <StabilizerBrace.description>Dit wapen heeft een stabilisatiebrace die het met de arm van de gebruiker verbindt, wat de nauwkeurigheid vergroot.</StabilizerBrace.description>
+  <!-- EN: stable -->
+  <StabilizerBrace.traitAdjectives.0>stabiel(e)</StabilizerBrace.traitAdjectives.0>
+  <!-- EN: accurate -->
+  <StabilizerBrace.traitAdjectives.1>nauwkeurig(e)</StabilizerBrace.traitAdjectives.1>
+  <!-- EN: precise -->
+  <StabilizerBrace.traitAdjectives.2>precies/-ze</StabilizerBrace.traitAdjectives.2>
+  <!-- EN: braced -->
+  <StabilizerBrace.traitAdjectives.3>ondersteund(e)</StabilizerBrace.traitAdjectives.3>
+  
+  <!-- EN: toxic pellets -->
+  <ToxPellets.label>gifkorrels</ToxPellets.label>
+  <!-- EN: This weapon fires chemical pellets which cause toxic buildup. -->
+  <ToxPellets.description>Dit wapen vuurt chemische korrels af die toxische ophoping veroorzaken.</ToxPellets.description>
+  <!-- EN: green -->
+  <ToxPellets.traitAdjectives.0>groen(e)</ToxPellets.traitAdjectives.0>
+  <!-- EN: toxic -->
+  <ToxPellets.traitAdjectives.1>toxisch(e)</ToxPellets.traitAdjectives.1>
+  <!-- EN: poisonous -->
+  <ToxPellets.traitAdjectives.2>giftig(e)</ToxPellets.traitAdjectives.2>
+  <!-- EN: poison -->
+  <ToxPellets.traitAdjectives.3>van gif voorzien(e)</ToxPellets.traitAdjectives.3>
+  
+  <!-- EN: tox rounds -->
+  <ToxRounds.label>toxische patronen</ToxRounds.label>
+  <!-- EN: This weapon fires rounds coated with toxic chemicals, which sicken wounded targets. -->
+  <ToxRounds.description>Dit wapen vuurt patronen af die bedekt zijn met giftige chemicaliën, die gewonde doelen ziek maken.</ToxRounds.description>
+  <!-- EN: green -->
+  <ToxRounds.traitAdjectives.0>groen(e)</ToxRounds.traitAdjectives.0>
+  <!-- EN: poison -->
+  <ToxRounds.traitAdjectives.1>giftig(e)</ToxRounds.traitAdjectives.1>
+  <!-- EN: venom -->
+  <ToxRounds.traitAdjectives.2>toxisch(e)</ToxRounds.traitAdjectives.2>
+  <!-- EN: venomous -->
+  <ToxRounds.traitAdjectives.3>van toxine voorzien(e)</ToxRounds.traitAdjectives.3>
+  <!-- EN: snakebite -->
+  <ToxRounds.traitAdjectives.4>slangbeetachtig(e)</ToxRounds.traitAdjectives.4>
+  
+  <!-- EN: ugly -->
+  <Ugly.label>lelijk</Ugly.label>
+  <!-- EN: This weapon was crafted with no respect for aesthetics. It looks like junk but gets the job done. Traders will pay less for it. -->
+  <Ugly.description>Dit wapen is gemaakt zonder oog voor esthetiek. Het ziet eruit als rommel, maar werkt wel gewoon. Handelaren betalen er minder voor.</Ugly.description>
+  <!-- EN: monstrous -->
+  <Ugly.traitAdjectives.0>monsterlijk(e)</Ugly.traitAdjectives.0>
+  <!-- EN: crude -->
+  <Ugly.traitAdjectives.1>primitief/-ve</Ugly.traitAdjectives.1>
+  <!-- EN: ugly -->
+  <Ugly.traitAdjectives.2>afzichtelijk(e)</Ugly.traitAdjectives.2>
+  
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: salvagers -->
+  <Salvagers.label>bergers</Salvagers.label>
+  <!-- EN: A ruthless faction of orbital scavengers who scour space for derelict ships and valuable wreckage. Salvagers operate entirely in space. -->
+  <Salvagers.description>Een meedogenloze factie van orbitale verzamelaars die de ruimte afspeuren naar verlaten schepen en waardevolle wrakstukken. Berers opereren volledig in de ruimte.</Salvagers.description>
+  <!-- EN: boss -->
+  <Salvagers.leaderTitle>baas</Salvagers.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Salvagers.messageDefendersAttacking>{0} van {1} vallen je {2} aan.</Salvagers.messageDefendersAttacking>
+  <!-- EN: pirate -->
+  <Salvagers.pawnSingular>piraat</Salvagers.pawnSingular>
+  <!-- EN: pirates -->
+  <Salvagers.pawnsPlural>piraten</Salvagers.pawnsPlural>
+  
+  <!-- EN: traders guild -->
+  <TradersGuild.label>handelaarsgilde</TradersGuild.label>
+  <!-- EN: A loose coalition of orbital traders. Together they form an orbital marketplace that buys and sells goods from around the planet. Orbital traders will also buy goods from the occasional interplanetary trading vessel, giving them access to rare technologies.\n\nThese merchants are rarely found on the planet itself, preferring to live in the safety of their orbital platforms. -->
+  <TradersGuild.description>Een losse coalitie van orbitale handelaren. Samen vormen ze een orbitale marktplaats die goederen van over de hele planeet koopt en verkoopt. Orbitale handelaren nemen ook goederen af van interplanetaire handelskooplui die langskomen, wat ze toegang geeft tot zeldzame technologieën.\n\nDeze kooplieden zijn zelden op de planeet zelf te vinden. Ze verkiezen het veilige leven op hun orbitale platforms.</TradersGuild.description>
+  <!-- EN: magister of trade -->
+  <TradersGuild.leaderTitle>handelsmagister</TradersGuild.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TradersGuild.messageDefendersAttacking>{0} van {1} vallen je {2} aan.</TradersGuild.messageDefendersAttacking>
+  <!-- EN: guild member -->
+  <TradersGuild.pawnSingular>gildelid</TradersGuild.pawnSingular>
+  <!-- EN: guild members -->
+  <TradersGuild.pawnsPlural>gildeleden</TradersGuild.pawnsPlural>
+  
+</LanguageData>

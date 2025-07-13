@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hermit crab -->
+  <HermitCrab.label>heremietkreeft</HermitCrab.label>
+  
+  <!-- EN: otter -->
+  <Otter.label>otter</Otter.label>
+  
+  <!-- EN: seal -->
+  <Seal.label>zeehond</Seal.label>
+  <!-- EN: seal pup -->
+  <Seal.lifeStages.seal_pup.label>zeehondenpup</Seal.lifeStages.seal_pup.label>
+  <!-- EN: seal pups -->
+  <Seal.lifeStages.seal_pup.labelPlural>zeehondenpups</Seal.lifeStages.seal_pup.labelPlural>
+  
+  <!-- EN: sea lion -->
+  <SeaLion.label>zeeleeuw</SeaLion.label>
+  <!-- EN: sea lion pup -->
+  <SeaLion.lifeStages.sea_lion_pup.label>zeeleeuwpup</SeaLion.lifeStages.sea_lion_pup.label>
+  <!-- EN: sea lion pups -->
+  <SeaLion.lifeStages.sea_lion_pup.labelPlural>zeeleeuwpups</SeaLion.lifeStages.sea_lion_pup.labelPlural>
+  
+  <!-- EN: sea turtle -->
+  <SeaTurtle.label>zeeschildpad</SeaTurtle.label>
+  
+  <!-- EN: stone crab -->
+  <StoneCrab.label>steenkreeft</StoneCrab.label>
+  
+  <!-- EN: walrus -->
+  <Walrus.label>walrus</Walrus.label>
+  <!-- EN: walrus calf -->
+  <Walrus.lifeStages.walrus_calf.label>walruskalf</Walrus.lifeStages.walrus_calf.label>
+  <!-- EN: walrus calves -->
+  <Walrus.lifeStages.walrus_calf.labelPlural>walruskalveren</Walrus.lifeStages.walrus_calf.labelPlural>
+  
+</LanguageData>

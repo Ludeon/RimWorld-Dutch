@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of a collection of valuable items worth [itemStashContentsValue]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] de locatie van een verzameling waardevolle items ter waarde van [itemStashContentsValue]. De verzameling bestaat uit:\n\n[itemStashContents]\n\nHet lijkt erop dat [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[stash] of [treasure]</li>
+    <li>stash->Stash</li>
+    <li>stash->Cache</li>
+    <li>stash->Collection</li>
+    <li>stash->Shack</li>
+    <li>treasure->Treasure</li>
+    <li>treasure->Valuables</li>
+    <li>treasure->Fortune</li>
+    <li>treasure->Goodies</li>
+    <li>treasure->Supplies</li>
+  -->
+  <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+    <li>questName->[stash] van [treasure]</li>
+    <li>stash->Voorraad</li>
+    <li>stash->Cache</li>
+    <li>stash->Verzameling</li>
+    <li>stash->Hut</li>
+    <li>treasure->Schatten</li>
+    <li>treasure->Waardevolle spullen</li>
+    <li>treasure->Fortuin</li>
+    <li>treasure->Goederen</li>
+    <li>treasure->Voorraden</li>
+  </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>subject->loot stashes</li>
+    <li>subject->secret treasures</li>
+    <li>subject->valuables</li>
+    <li>questMapFeature->drawing of a treasure chest</li>
+    <li>questMapFeature->supply shack</li>
+    <li>questMapText->secret item stash</li>
+    <li>questMapText->loot here</li>
+    <li>questMapText->hidden valuables</li>
+  -->
+  <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+    <li>subject->buitvoorraden</li>
+    <li>subject->geheime schatten</li>
+    <li>subject->waardevolle spullen</li>
+    <li>questMapFeature->tekening van een schatkist</li>
+    <li>questMapFeature->voorraadhut</li>
+    <li>questMapText->geheime itemvoorraad</li>
+    <li>questMapText->buit hier</li>
+    <li>questMapText->verborgen waardevolle spullen</li>
+  </OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>Missie verlopen: [resolvedQuestName]</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>Uit onderschepte communicatie blijkt dat de itemvoorraad al door anderen is gevonden. De missie [resolvedQuestName] is verlopen.</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

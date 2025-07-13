@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <Mote_BeamRepeater_Charge.label>Deeltje</Mote_BeamRepeater_Charge.label>
+  
+  <!-- EN: Mote -->
+  <Mote_BeamRepeaterLaser.label>Deeltje</Mote_BeamRepeaterLaser.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FishingRod.label>Deeltje</Mote_FishingRod.label>
+  
+  <!-- EN: Mote -->
+  <Mote_TerrorRoarDistortion.label>Deeltje</Mote_TerrorRoarDistortion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_TerrorRoarFlash.label>Deeltje</Mote_TerrorRoarFlash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_WarTrumpetDistortion.label>Deeltje</Mote_WarTrumpetDistortion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_WarTrumpetFlash.label>Deeltje</Mote_WarTrumpetFlash.label>
+  
+</LanguageData>

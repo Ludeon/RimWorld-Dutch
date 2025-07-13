@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced gravtech -->
+  <AdvancedGravtech.label>geavanceerde gravtech</AdvancedGravtech.label>
+  <!-- EN: Build advanced gravship parts. -->
+  <AdvancedGravtech.description>Bouw geavanceerde onderdelen voor gravschepen.</AdvancedGravtech.description>
+  <!-- EN:
+    <li>subject->advanced gravtech</li>
+    <li>subject_story->researched advanced gravship components</li>
+    <li>subject_gerund->researching signal jamming</li>
+  -->
+  <AdvancedGravtech.generalRules.rulesStrings>
+    <li>subject->geavanceerde gravtech</li>
+    <li>subject_story->onderzocht geavanceerde gravschiponderdelen</li>
+    <li>subject_gerund->signaalstoring onderzoeken</li>
+  </AdvancedGravtech.generalRules.rulesStrings>
+  
+  <!-- EN: basic gravtech -->
+  <BasicGravtech.label>basisgravtech</BasicGravtech.label>
+  <!-- EN: Build a gravship and use it to travel the planet. Launching a gravship will abandon your current map. You won't be able to return. -->
+  <BasicGravtech.description>Bouw een gravschip en reis ermee over de planeet. Wanneer je een gravschip lanceert, verlaat je je huidige kaart en kun je niet meer terugkeren.</BasicGravtech.description>
+  <!-- EN:
+    <li>subject->gravship</li>
+    <li>subject_story->flew a gravship for a tourism company</li>
+    <li>subject_gerund->constructing gravships</li>
+  -->
+  <BasicGravtech.generalRules.rulesStrings>
+    <li>subject->gravschip</li>
+    <li>subject_story->was gravschippiloot voor een reisbureau</li>
+    <li>subject_gerund->gravschepen bouwen</li>
+  </BasicGravtech.generalRules.rulesStrings>
+  
+  <!-- EN: beam weapons -->
+  <BeamWeapons.label>straalwapens</BeamWeapons.label>
+  <!-- EN: Construct weapons that use gamma ray beams to burn through armor and ignite targets. -->
+  <BeamWeapons.description>Bouw wapens die met hun gammastralen pantser doordringen en doelen in brand steken.</BeamWeapons.description>
+  <!-- EN:
+    <li>subject->beam weapons</li>
+    <li>subject_story->made gamma-ray beam weaponry</li>
+    <li>subject_gerund->making beam weapons</li>
+  -->
+  <BeamWeapons.generalRules.rulesStrings>
+    <li>subject->straalwapens</li>
+    <li>subject_story->maakte gammastraalwapens</li>
+    <li>subject_gerund->straalwapens maken</li>
+  </BeamWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: fishing -->
+  <Fishing.label>vissen</Fishing.label>
+  <!-- EN: Place zones where your colonists can go fishing. -->
+  <Fishing.description>Plaats zones waar je kolonisten kunnen vissen.</Fishing.description>
+  <!-- EN: Fishing zone -->
+  <Fishing.customUnlockTexts.0>Viszone</Fishing.customUnlockTexts.0>
+  <!-- EN:
+    <li>subject->fishing</li>
+    <li>subject_story->fished for a living</li>
+    <li>subject_gerund->fishing</li>
+  -->
+  <Fishing.generalRules.rulesStrings>
+    <li>subject->vissen</li>
+    <li>subject_story->viste als broodwinning</li>
+    <li>subject_gerund->vissen</li>
+  </Fishing.generalRules.rulesStrings>
+  
+  <!-- EN: heavy bridges -->
+  <HeavyBridges.label>zware bruggen</HeavyBridges.label>
+  <!-- EN: Build heavy bridges that support heavy buildings. You can use this to build whole colonies on the water. -->
+  <HeavyBridges.description>Bouw zware bruggen die zware gebouwen ondersteunen. Hiermee kun je hele kolonies op het water bouwen.</HeavyBridges.description>
+  <!-- EN:
+    <li>subject->construction</li>
+    <li>subject_story->built bridges</li>
+    <li>subject_gerund->constructing</li>
+  -->
+  <HeavyBridges.generalRules.rulesStrings>
+    <li>subject->constructie</li>
+    <li>subject_story->bouwde bruggen</li>
+    <li>subject_gerund->constructies maken</li>
+  </HeavyBridges.generalRules.rulesStrings>
+  
+  <!-- EN: hunter drone -->
+  <HunterDrones.label>jagerdrone</HunterDrones.label>
+  <!-- EN: Build traps and wearable packs that release hunter drones. These explosive drones pursue hostiles and detonate when within range. -->
+  <HunterDrones.description>Maak vallen en draagbare packs waarmee je jagerdrones kunt inzetten. Deze explosieve drones achtervolgen vijanden en detoneren wanneer ze binnen bereik zijn.</HunterDrones.description>
+  <!-- EN:
+    <li>subject->hunter drones</li>
+    <li>subject_story->made self-detonating drones</li>
+    <li>subject_gerund->making hunter drones</li>
+  -->
+  <HunterDrones.generalRules.rulesStrings>
+    <li>subject->jagerdrones</li>
+    <li>subject_story->maakte zelfdetonerende drones</li>
+    <li>subject_gerund->jagerdrones maken</li>
+  </HunterDrones.generalRules.rulesStrings>
+  
+  <!-- EN: orbital tech -->
+  <OrbitalTech.label>orbitale technologie</OrbitalTech.label>
+  <!-- EN: Construct buildings and apparel that can protect against the harsh vacuum of space. -->
+  <OrbitalTech.description>Bouw contructies en kleding die beschermen tegen het meedogenloze vacuüm van de ruimte.</OrbitalTech.description>
+  <!-- EN:
+    <li>subject->orbital apparel</li>
+    <li>subject_story->assembled liners for vacsuits</li>
+    <li>subject_story->tested vacsuits</li>
+    <li>subject_story->developed rebreather technology</li>
+    <li>subject_story->studied the effects of space radiation on human tissue</li>
+    <li>subject_gerund->assembling vacsuits</li>
+    <li>subject_gerund->assembling rebreathers</li>
+    <li>subject_gerund->testing vacsuits</li>
+  -->
+  <OrbitalTech.generalRules.rulesStrings>
+    <li>subject->orbitale kleding</li>
+    <li>subject_story->maakte voeringen voor vacuümpakken</li>
+    <li>subject_story->testte vacuümpakken</li>
+    <li>subject_story->ontwikkelde rebreather-technologie</li>
+    <li>subject_story->onderzocht de effecten van ruimtestraling op menselijk weefsel</li>
+    <li>subject_gerund->vacuümpakken samenstellen</li>
+    <li>subject_gerund->rebreathers samenstellen</li>
+    <li>subject_gerund->vacuümpakken testen</li>
+  </OrbitalTech.generalRules.rulesStrings>
+  
+  <!-- EN: shuttle -->
+  <Shuttles.label>shuttle</Shuttles.label>
+  <!-- EN: Build a shuttle which can be used for long distance travel or to reach orbit. This requires a shuttle engine which can only be obtained from orbital traders and quests. -->
+  <Shuttles.description>Bouw een shuttle die gebruikt kan worden voor langeafstandreizen of om een baan om de planeet te bereiken. Hiervoor is een shuttlemotor nodig, die alleen te verkrijgen is via orbitale handelaren en missies.</Shuttles.description>
+  <!-- EN:
+    <li>subject->shuttles</li>
+    <li>subject_story->flew in a shuttle</li>
+    <li>subject_story->designed a shuttle</li>
+    <li>subject_gerund->engineering shuttles</li>
+    <li>subject_gerund->piloting shuttles</li>
+  -->
+  <Shuttles.generalRules.rulesStrings>
+    <li>subject->shuttles</li>
+    <li>subject_story->vloog in een shuttle</li>
+    <li>subject_story->ontwierp een shuttle</li>
+    <li>subject_gerund->shuttles ontwerpen</li>
+    <li>subject_gerund->shuttles besturen</li>
+  </Shuttles.generalRules.rulesStrings>
+  
+  <!-- EN: standard gravtech -->
+  <StandardGravtech.label>standaard gravtech</StandardGravtech.label>
+  <!-- EN: Build complex gravship parts. -->
+  <StandardGravtech.description>Bouw complexe gravschiponderdelen.</StandardGravtech.description>
+  <!-- EN: You now have the technology to build large thrusters. These require stellite blocks which can be obtained from orbital asteroids.\n\nYou can travel to orbital locations using transport pods, shuttles, or a gravship. Make sure to equip your colonists with vacsuits or other advanced armors to survive in space. -->
+  <StandardGravtech.discoveredLetterText>Je beschikt nu over de technologie om grote stuwraketten te bouwen. Hiervoor zijn vacsteenblokken nodig, die je kunt bemachtigen via orbitale asteroïden.\n\nJe kunt nu naar orbitale locaties reizen met transportpods, shuttles of een gravschip. Vergeet niet je kolonisten uit te rusten met vacuümpakken of ander geavanceerd pantser om te overleven in de ruimte.</StandardGravtech.discoveredLetterText>
+  <!-- EN: About: Getting stellite -->
+  <StandardGravtech.discoveredLetterTitle>Over: vacsteen bemachtigen</StandardGravtech.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->gravtech</li>
+    <li>subject_story->researched complex gravship components</li>
+    <li>subject_gerund->researching gravships</li>
+  -->
+  <StandardGravtech.generalRules.rulesStrings>
+    <li>subject->gravtech</li>
+    <li>subject_story->onderzocht complexe gravschiponderdelen</li>
+    <li>subject_gerund->gravschepen onderzoeken</li>
+  </StandardGravtech.generalRules.rulesStrings>
+  
+</LanguageData>

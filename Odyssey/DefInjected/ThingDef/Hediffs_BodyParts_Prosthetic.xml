@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood warmer -->
+  <BloodWarmer.label>bloedverwarmer</BloodWarmer.label>
+  <!-- EN: A special bioferrite prosthetic that actively heats a ghoul's blood, allowing it to survive in cold environments. The prosthetic replaces a ghoul's kidney, heating the blood as it passes through.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
+  <BloodWarmer.description>Een speciale bioferriet-prothese die het bloed van een ghoel actief verwarmt, waardoor deze kan overleven in koude omgevingen. De prothese vervangt een nier van de ghoel en verwarmt het bloed terwijl het erdoorheen stroomt.\n\nDoor het extreem pijnlijke karakter van de prothese kunnen alleen ghouls deze verbetering doorstaan.</BloodWarmer.description>
+  
+  <!-- EN: pilot assistant -->
+  <PilotAssistant.label>pilootassistent</PilotAssistant.label>
+  <!-- EN: A neural interface that connects a pilot's brain directly to a vehicle, enhancing the pilot's control and reaction speed. Just don't think about crashing. -->
+  <PilotAssistant.description>Een neurale interface die het brein van een piloot direct verbindt met een voertuig, waardoor de controle en reactietijd van de piloot worden verbeterd. Gewoon even niet aan crashen denken.</PilotAssistant.description>
+  
+</LanguageData>

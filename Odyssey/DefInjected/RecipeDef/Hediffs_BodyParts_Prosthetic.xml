@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install blood warmer -->
+  <InstallBloodWarmer.label>bloedverwarmer installeren</InstallBloodWarmer.label>
+  <!-- EN: Install blood warmer. -->
+  <InstallBloodWarmer.description>Installeer een bloedverwarmer.</InstallBloodWarmer.description>
+  <!-- EN: Installing blood warmer. -->
+  <InstallBloodWarmer.jobString>Bezig met installeren bloedverwarmer.</InstallBloodWarmer.jobString>
+  
+  <!-- EN: install pilot assistant -->
+  <InstallPilotAssistant.label>pilootassistent installeren</InstallPilotAssistant.label>
+  <!-- EN: Install a pilot assistant. -->
+  <InstallPilotAssistant.description>Installeer een pilootassistent.</InstallPilotAssistant.description>
+  <!-- EN: Installing pilot assistant. -->
+  <InstallPilotAssistant.jobString>Bezig met installeren pilootassistent.</InstallPilotAssistant.jobString>
+  
+  <!-- EN: remove pilot assistant -->
+  <RemovePilotAssistant.label>pilootassistent verwijderen</RemovePilotAssistant.label>
+  <!-- EN: Remove pilot assistant. -->
+  <RemovePilotAssistant.description>Verwijder pilootassistent.</RemovePilotAssistant.description>
+  <!-- EN: Removing pilot assistant. -->
+  <RemovePilotAssistant.jobString>Bezig met verwijderen pilootassistent.</RemovePilotAssistant.jobString>
+  
+</LanguageData>

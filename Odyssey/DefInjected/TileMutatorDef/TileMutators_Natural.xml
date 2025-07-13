@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archipelago -->
+  <Archipelago.label>archipel</Archipelago.label>
+  <!-- EN: A network of several small islands dotting the coast. -->
+  <Archipelago.description>Een netwerk van verschillende kleine eilanden langs de kust.</Archipelago.description>
+  
+  <!-- EN: basin -->
+  <Basin.label>bassin</Basin.label>
+  <!-- EN: A natural depression in a mountain range, in which groundwater feeds a small lake. -->
+  <Basin.description>Een natuurlijke laagte in een bergketen, waar grondwater een klein meer voedt.</Basin.description>
+  
+  <!-- EN: bay -->
+  <Bay.label>baai</Bay.label>
+  <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
+  <Bay.description>Een grote inham in de kustlijn die beschutting biedt tegen sterke kustwinden.</Bay.description>
+  
+  <!-- EN: cave pools -->
+  <CaveLakes.label>grotpoelen</CaveLakes.label>
+  <!-- EN: Small bodies of water can be found within caves in this area. -->
+  <CaveLakes.description>Kleine waterpartijen die te vinden zijn in grotten in dit gebied.</CaveLakes.description>
+  
+  <!-- EN: cavern -->
+  <Cavern.label>spelonk</Cavern.label>
+  <!-- EN: A network of caves formed by various geological processes. -->
+  <Cavern.description>Een netwerk van grotten gevormd door verschillende geologische processen.</Cavern.description>
+  
+  <!-- EN: chasm -->
+  <Chasm.label>afgrond</Chasm.label>
+  <!-- EN: Geological movement has caused deep fissures in this mountain. -->
+  <Chasm.description>Geologische beweging heeft diepe scheuren veroorzaakt in deze berg.</Chasm.description>
+  
+  <!-- EN: cliffs -->
+  <Cliffs.label>kliffen</Cliffs.label>
+  <!-- EN: Steep cliffs surround three sides of this area. -->
+  <Cliffs.description>Dit gebied wordt aan drie kanten omsloten door drie zijden.</Cliffs.description>
+  
+  <!-- EN: coastal atoll -->
+  <CoastalAtoll.label>kustatol</CoastalAtoll.label>
+  <!-- EN: An island surrounding a large lagoon. There's very little land to build on here. -->
+  <CoastalAtoll.description>Een eiland dat een grote lagune omringt. Er is hier heel weinig land om op te bouwen.</CoastalAtoll.description>
+  
+  <!-- EN: coastal island -->
+  <CoastalIsland.label>kusteiland</CoastalIsland.label>
+  <!-- EN: A large island near the shore. -->
+  <CoastalIsland.description>Een groot eiland dicht bij de kust.</CoastalIsland.description>
+  
+  <!-- EN: bay -->
+  <Cove.label>baai</Cove.label>
+  <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
+  <Cove.description>Een grote inham in de kustlijn die beschutting biedt tegen sterke kustwinden.</Cove.description>
+  
+  <!-- EN: crevasse -->
+  <Crevasse.label>spleet</Crevasse.label>
+  <!-- EN: A massive rift created by glacial movement. -->
+  <Crevasse.description>Een enorme kloof veroorzaakt door beweging van een gletsjer.</Crevasse.description>
+  
+  <!-- EN: dry lake -->
+  <DryLake.label>droog meer</DryLake.label>
+  <!-- EN: The remains of a former lake. -->
+  <DryLake.description>De overblijfselen van een voormalig meer.</DryLake.description>
+  
+  <!-- EN: dunes -->
+  <Dunes.label>duinen</Dunes.label>
+  <!-- EN: A barren expanse of sand. This area is extremely inhospitable. -->
+  <Dunes.description>Een kale zandvlakte. Dit gebied is extreem onherbergzaam.</Dunes.description>
+  
+  <!-- EN: fertile -->
+  <Fertile.label>vruchtbaar</Fertile.label>
+  <!-- EN: This area contains more fertile soil than normal. -->
+  <Fertile.description>Dit gebied bevat vruchtbaardere grond dan normaal.</Fertile.description>
+  
+  <!-- EN: fjord -->
+  <Fjord.label>fjord</Fjord.label>
+  <!-- EN: A long, narrow sea inlet surrounded by steep terrain. -->
+  <Fjord.description>Een lange, smalle zeearm omgeven door steil terrein.</Fjord.description>
+  
+  <!-- EN: headwater -->
+  <Headwater.label>brongebied</Headwater.label>
+  <!-- EN: A river's origin point. -->
+  <Headwater.description>De oorsprong van een rivier.</Headwater.description>
+  
+  <!-- EN: hollow -->
+  <Hollow.label>holte</Hollow.label>
+  <!-- EN: A small open area surrounded by cliffs. -->
+  <Hollow.description>Een kleine open ruimte omringd door kliffen.</Hollow.description>
+  
+  <!-- EN: hot springs -->
+  <HotSprings.label>warmwaterbron</HotSprings.label>
+  <!-- EN: A hot water spring, heated by geothermal activity. -->
+  <HotSprings.description>Een bron met warm water, verwarmd door geothermische activiteit.</HotSprings.description>
+  
+  <!-- EN: iceberg -->
+  <Iceberg.label>ijsberg</Iceberg.label>
+  <!-- EN: A floating mass of ice, detached from the larger ice sheet. -->
+  <Iceberg.description>Een drijvende ijsmassa, losgeraakt van de grotere ijskap.</Iceberg.description>
+  
+  <!-- EN: ice caves -->
+  <IceCaves.label>ijsgrotten</IceCaves.label>
+  <!-- EN: Small cave networks can be found within the ice. -->
+  <IceCaves.description>Kleine grottenstelsels die in het ijs te vinden zijn.</IceCaves.description>
+  
+  <!-- EN: ice dunes -->
+  <IceDunes.label>ijsduinen</IceDunes.label>
+  <!-- EN: Massive rolling hills made from compacted windswept snow. -->
+  <IceDunes.description>Enorme heuvels gevormd door samengepakte, door de wind opgewaaide sneeuw.</IceDunes.description>
+  
+  <!-- EN: lake -->
+  <Lake.label>meer</Lake.label>
+  <!-- EN: A large body of fresh water. -->
+  <Lake.description>Een grote zoetwatermassa.</Lake.description>
+  
+  <!-- EN: lakeshore -->
+  <Lakeshore.label>meeroever</Lakeshore.label>
+  <!-- EN: This tile borders a lake. -->
+  <Lakeshore.description>Dit gebied grenst aan een meer.</Lakeshore.description>
+  
+  <!-- EN: lake with island -->
+  <LakeWithIsland.label>meer met eiland</LakeWithIsland.label>
+  <!-- EN: A large body of fresh water encircles a single island. -->
+  <LakeWithIsland.description>Een enkel eiland in een groot zoetwatermeer.</LakeWithIsland.description>
+  
+  <!-- EN: lake with islands -->
+  <LakeWithIslands.label>meer met eilanden</LakeWithIslands.label>
+  <!-- EN: A large body of fresh water encircles several small islands. -->
+  <LakeWithIslands.description>Meerdere kleine eilanden in een groot zoetwatermeer.</LakeWithIslands.description>
+  
+  <!-- EN: lava caves -->
+  <LavaCaves.label>lavagrotten</LavaCaves.label>
+  <!-- EN: Small lava-filled cave networks can be found here. -->
+  <LavaCaves.description>Hier vind je kleine, met lava gevulde grotten.</LavaCaves.description>
+  
+  <!-- EN: lava lake -->
+  <LavaCrater.label>lavameer</LavaCrater.label>
+  <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
+  <LavaCrater.description>Een diep lavameer omgeven door vulkanisch gesteente.</LavaCrater.description>
+  
+  <!-- EN: lava flow -->
+  <LavaFlow.label>lavastroom</LavaFlow.label>
+  <!-- EN: The surrounding landscape routinely funnels large amounts of lava into this area, making it extremely inhospitable. -->
+  <LavaFlow.description>Door het omliggende landschap stroomt regelmatig een grote hoeveelheid lava naar dit gebied, waardoor het extreem onherbergzaam wordt.</LavaFlow.description>
+  
+  <!-- EN: lava lake -->
+  <LavaLake.label>lavameer</LavaLake.label>
+  <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
+  <LavaLake.description>Een diep lavameer omgeven door vulkanisch gesteente.</LavaLake.description>
+  
+  <!-- EN: marshy -->
+  <Marshy.label>moerassig</Marshy.label>
+  <!-- EN: Patches of marsh break up this area. -->
+  <Marshy.description>In dit gebied bevindt zich moerassige terrein.</Marshy.description>
+  
+  <!-- EN: mixed biome -->
+  <MixedBiome.label>gemengd bioom</MixedBiome.label>
+  <!-- EN: This area is at the boundary of two distinct biomes and has elements of both. -->
+  <MixedBiome.description>Dit gebied ligt op de grens van twee verschillende biomen en bevat elementen van beide.</MixedBiome.description>
+  
+  <!-- EN: muddy -->
+  <Muddy.label>modderig</Muddy.label>
+  <!-- EN: This area is muddier than normal. -->
+  <Muddy.description>Dit gebied is modderiger dan normaal.</Muddy.description>
+  
+  <!-- EN: oasis -->
+  <Oasis.label>oase</Oasis.label>
+  <!-- EN: A lush spring featuring abundant plant life and water. -->
+  <Oasis.description>Een weelderige bron met overvloedige plantengroei en water.</Oasis.description>
+  
+  <!-- EN: peninsula -->
+  <Peninsula.label>schiereiland</Peninsula.label>
+  <!-- EN: An outcropping of land surrounded by ocean. -->
+  <Peninsula.description>Een landtong omgeven door de oceaan.</Peninsula.description>
+  
+  <!-- EN: plateau -->
+  <Plateau.label>plateau</Plateau.label>
+  <!-- EN: A small rise with sharp cliffs and a flat top. -->
+  <Plateau.description>Een kleine verhoging met steile kliffen en een vlakke top.</Plateau.description>
+  
+  <!-- EN: pond -->
+  <Pond.label>vijver</Pond.label>
+  <!-- EN: A small body of fresh water. -->
+  <Pond.description>Een kleine hoeveelheid zoet water.</Pond.description>
+  
+  <!-- EN: river confluence -->
+  <RiverConfluence.label>riviersamenloop</RiverConfluence.label>
+  <!-- EN: A merging of two rivers. -->
+  <RiverConfluence.description>Waar twee rivieren samenkomen.</RiverConfluence.description>
+  
+  <!-- EN: delta -->
+  <RiverDelta.label>delta</RiverDelta.label>
+  <!-- EN: A river splitting into many branches as it enters the ocean. -->
+  <RiverDelta.description>Gebied waarin een rivier zich vertakt voordat hij uitmondt in de oceaan.</RiverDelta.description>
+  
+  <!-- EN: river island -->
+  <RiverIsland.label>riviereiland</RiverIsland.label>
+  <!-- EN: A river splitting into two and then merging again. -->
+  <RiverIsland.description>Een rivier die zich in tweeën splitst en daarna weer samenkomt.</RiverIsland.description>
+  
+  <!-- EN: sandy -->
+  <Sandy.label>zanderig</Sandy.label>
+  <!-- EN: Large patches of sand are scattered throughout this area. -->
+  <Sandy.description>Over dit gebied liggen grote stukken zand verspreid.</Sandy.description>
+  
+  <!-- EN: terraforming scar -->
+  <TerraformingScar.label>terraformingspoor</TerraformingScar.label>
+  <!-- EN: A misaligned blast from an ancient terraforming device has warped the earth into serpentine spirals. The area has since recovered, though the twisted and deformed hills remain. -->
+  <TerraformingScar.description>Een verkeerd gerichte ontlading van een oud terraformingapparaat heeft kronkelende spiralen in de aarde veroorzaakt. Het gebied is inmiddels hersteld, maar de vervormde heuvels zijn gebleven.</TerraformingScar.description>
+  
+  <!-- EN: toxic lake -->
+  <ToxicLake.label>toxisch meer</ToxicLake.label>
+  <!-- EN: A body of water that has been poisoned by chemicals leaching out of the ground. The water will cause toxic buildup. -->
+  <ToxicLake.description>Een waterpartij die is vergiftigd door chemicaliën die uit de grond lekken. Het water veroorzaakt giftige ophoping.</ToxicLake.description>
+  
+  <!-- EN: valley -->
+  <Valley.label>vallei</Valley.label>
+  <!-- EN: A steep valley carved through a mountain. -->
+  <Valley.description>Een steile vallei, uitgesneden in een berg.</Valley.description>
+  
+  <!-- EN: wetland -->
+  <Wetland.label>drasland</Wetland.label>
+  <!-- EN: Large interconnected waterways dominate the area. -->
+  <Wetland.description>Het gebied wordt gedomineerd door grote, onderling verbonden waterpartijen.</Wetland.description>
+  
+</LanguageData>

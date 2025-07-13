@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacsuit -->
+  <Apparel_Vacsuit.label>vacuümpak</Apparel_Vacsuit.label>
+  <!-- EN: A protective suit that keeps the user safe in the vacuum of space. The suit restricts the wearer's movement, considerably reducing their movement speed. -->
+  <Apparel_Vacsuit.description>Een beschermend pak dat de drager veilig houdt in het vacuüm van de ruimte. Het pak beperkt de bewegingsvrijheid van de drager, wat de loopsnelheid aanzienlijk vermindert.</Apparel_Vacsuit.description>
+  
+  <!-- EN: kid vacsuit -->
+  <Apparel_VacsuitChildren.label>kinder-vacuümpak</Apparel_VacsuitChildren.label>
+  <!-- EN: A protective suit designed for children. It keeps the user safe in the vacuum of space. -->
+  <Apparel_VacsuitChildren.description>Een beschermend pak ontworpen voor kinderen. Het houdt de drager veilig in het vacuüm van de ruimte.</Apparel_VacsuitChildren.description>
+  
+</LanguageData>

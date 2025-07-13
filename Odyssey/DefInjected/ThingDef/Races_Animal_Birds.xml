@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bluebird -->
+  <Bluebird.label>blauwborst</Bluebird.label>
+  <!-- EN: A small songbird with vibrant blue plumage. -->
+  <Bluebird.description>Een kleine zangvogel met een felblauw verenkleed.</Bluebird.description>
+  <!-- EN: claws -->
+  <Bluebird.tools.claws.label>klauwen</Bluebird.tools.claws.label>
+  <!-- EN: beak -->
+  <Bluebird.tools.beak.label>snavel</Bluebird.tools.beak.label>
+  <!-- EN: head -->
+  <Bluebird.tools.head.label>kop</Bluebird.tools.head.label>
+  
+  <!-- EN: crow -->
+  <Crow.label>kraai</Crow.label>
+  <!-- EN: Intelligent black birds with complex social structures. With a little patience, crows can be trained to perform a number of fairly complex tasks. -->
+  <Crow.description>Intelligente zwarte vogel met complexe sociale structuren. Met wat geduld kunnen kraaien getraind worden om vrij ingewikkelde taken uit te voeren.</Crow.description>
+  <!-- EN: claws -->
+  <Crow.tools.claws.label>klauwen</Crow.tools.claws.label>
+  <!-- EN: beak -->
+  <Crow.tools.beak.label>snavel</Crow.tools.beak.label>
+  <!-- EN: head -->
+  <Crow.tools.head.label>kop</Crow.tools.head.label>
+  
+  <!-- EN: flamingo -->
+  <Flamingo.label>flamingo</Flamingo.label>
+  <!-- EN: A wading bird known for their vibrant pink plumage. Their long legs are well adapted to shallow waters. -->
+  <Flamingo.description>Een waadvogel die bekend staat om zijn felroze verenkleed. De lange poten zijn goed aangepast aan ondiep water.</Flamingo.description>
+  <!-- EN: claws -->
+  <Flamingo.tools.claws.label>klauwen</Flamingo.tools.claws.label>
+  <!-- EN: beak -->
+  <Flamingo.tools.beak.label>snavel</Flamingo.tools.beak.label>
+  <!-- EN: head -->
+  <Flamingo.tools.head.label>kop</Flamingo.tools.head.label>
+  
+  <!-- EN: heron -->
+  <Heron.label>reiger</Heron.label>
+  <!-- EN: Long-legged and long-necked birds. They tend to live in marshy habitats. -->
+  <Heron.description>Vogel met lange poten en een lange nek. Reigers leven meestal in moerassige gebieden.</Heron.description>
+  <!-- EN: claws -->
+  <Heron.tools.claws.label>klauwen</Heron.tools.claws.label>
+  <!-- EN: beak -->
+  <Heron.tools.beak.label>snavel</Heron.tools.beak.label>
+  <!-- EN: head -->
+  <Heron.tools.head.label>kop</Heron.tools.head.label>
+  
+  <!-- EN: macaw -->
+  <Macaw.label>ara</Macaw.label>
+  <!-- EN: A parrot known for its intelligence and its brilliant plumage. -->
+  <Macaw.description>Een papegaai die bekend staat om zijn intelligentie en zijn schitterende verenkleed.</Macaw.description>
+  <!-- EN: claws -->
+  <Macaw.tools.claws.label>klauwen</Macaw.tools.claws.label>
+  <!-- EN: beak -->
+  <Macaw.tools.beak.label>snavel</Macaw.tools.beak.label>
+  <!-- EN: head -->
+  <Macaw.tools.head.label>kop</Macaw.tools.head.label>
+  
+  <!-- EN: peacock -->
+  <Peacock.label>pauw</Peacock.label>
+  <!-- EN: Large birds with extravagant plumage. Male peacocks use their tail feathers in elaborate courtship displays. -->
+  <Peacock.description>Grote vogel met uitbundig verenkleed. Mannelijke pauwen gebruiken hun staartveren voor imposante baltsrituelen.</Peacock.description>
+  <!-- EN: claws -->
+  <Peacock.tools.claws.label>klauwen</Peacock.tools.claws.label>
+  <!-- EN: beak -->
+  <Peacock.tools.beak.label>snavel</Peacock.tools.beak.label>
+  <!-- EN: head -->
+  <Peacock.tools.head.label>kop</Peacock.tools.head.label>
+  
+  <!-- EN: penguin -->
+  <Penguin.label>pinguïn</Penguin.label>
+  <!-- EN: A flightless bird adept at surviving in cold regions. Their black and white plumage and waddling gait make them unmistakable. They are deadly hunters in the water, but slow and vulnerable on land. -->
+  <Penguin.description>Een vogel die niet kan vliegen en goed is aangepast aan het leven in koude gebieden. Door het zwart-witte verenkleed en de waggelende gang zijn pinguïns heel herkenbaar. In het water zijn het dodelijke jagers, maar op het land traag en kwetsbaar.</Penguin.description>
+  <!-- EN: claws -->
+  <Penguin.tools.claws.label>klauwen</Penguin.tools.claws.label>
+  <!-- EN: beak -->
+  <Penguin.tools.beak.label>snavel</Penguin.tools.beak.label>
+  <!-- EN: head -->
+  <Penguin.tools.head.label>kop</Penguin.tools.head.label>
+  
+  <!-- EN: quail -->
+  <Quail.label>kwartel</Quail.label>
+  <!-- EN: Small plump ground-dwelling birds with a distinctive plume. -->
+  <Quail.description>Kleine, gedrongen grondvogel met een kenmerkend kuifje.</Quail.description>
+  <!-- EN: claws -->
+  <Quail.tools.claws.label>klauwen</Quail.tools.claws.label>
+  <!-- EN: beak -->
+  <Quail.tools.beak.label>snavel</Quail.tools.beak.label>
+  <!-- EN: head -->
+  <Quail.tools.head.label>kop</Quail.tools.head.label>
+  
+  <!-- EN: sparrow -->
+  <Sparrow.label>mus</Sparrow.label>
+  <!-- EN: Small birds that often travel in flocks. They can thrive in a variety of environments. -->
+  <Sparrow.description>Kleine vogel die vaak in zwermen reist. Mussen kunnen in allerlei omgevingen overleven.</Sparrow.description>
+  <!-- EN: claws -->
+  <Sparrow.tools.claws.label>klauwen</Sparrow.tools.claws.label>
+  <!-- EN: beak -->
+  <Sparrow.tools.beak.label>snavel</Sparrow.tools.beak.label>
+  <!-- EN: head -->
+  <Sparrow.tools.head.label>kop</Sparrow.tools.head.label>
+  
+  <!-- EN: swan -->
+  <Swan.label>zwaan</Swan.label>
+  <!-- EN: Large graceful waterfowl known for their beauty, and their surprising ferocity. -->
+  <Swan.description>Grote, sierlijke watervogel, bekend om schoonheid en onverwachte felheid.</Swan.description>
+  <!-- EN: claws -->
+  <Swan.tools.claws.label>klauwen</Swan.tools.claws.label>
+  <!-- EN: beak -->
+  <Swan.tools.beak.label>snavel</Swan.tools.beak.label>
+  <!-- EN: head -->
+  <Swan.tools.head.label>kop</Swan.tools.head.label>
+  
+  <!-- EN: vulture -->
+  <Vulture.label>gier</Vulture.label>
+  <!-- EN: Scavengers with strong beaks and broad wings. Their strong stomach acid allows them to eat rotting corpses. -->
+  <Vulture.description>Aaseter met sterke snavel en brede vleugels. Dankzij krachtig maagzuur kan de gier rottende kadavers eten.</Vulture.description>
+  <!-- EN: claws -->
+  <Vulture.tools.claws.label>klauwen</Vulture.tools.claws.label>
+  <!-- EN: beak -->
+  <Vulture.tools.beak.label>snavel</Vulture.tools.beak.label>
+  <!-- EN: head -->
+  <Vulture.tools.head.label>kop</Vulture.tools.head.label>
+  
+</LanguageData>

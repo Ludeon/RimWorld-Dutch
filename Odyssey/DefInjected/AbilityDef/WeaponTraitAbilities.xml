@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fire EMP -->
+  <EMPPulse.label>EMP afvuren</EMPPulse.label>
+  <!-- EN: Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets. -->
+  <EMPPulse.description>Stoot elektromagnetische energie uit, gecentreerd op de gebruiker. De energie verdooft nabije mechanische doelen zoals mechanoïden of geschut.</EMPPulse.description>
+  
+  <!-- EN: launch EMP shell -->
+  <LaunchEMPShell.label>EMP-granaat lanceren</LaunchEMPShell.label>
+  <!-- EN: Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel. -->
+  <LaunchEMPShell.description>Lanceer een granaat die elektromagnetische energie uitstoot, waardoor mechanische doelen worden verdoofd. Kan worden herladen met staal.</LaunchEMPShell.description>
+  
+  <!-- EN: launch frag grenade -->
+  <LaunchFragGrenade.label>fragmentatiegranaat werpen</LaunchFragGrenade.label>
+  <!-- EN: Launch a grenade. Can be reloaded using steel. -->
+  <LaunchFragGrenade.description>Werp een granaat. Kan worden herladen met staal.</LaunchFragGrenade.description>
+  
+  <!-- EN: launch incendiary shell -->
+  <LaunchIncendiaryShell.label>brandgranaat werpen</LaunchIncendiaryShell.label>
+  <!-- EN: Launch a shell that creates an explosion on impact, igniting everything nearby. Can be reloaded using chemfuel. -->
+  <LaunchIncendiaryShell.description>Werp een granaat die bij impact een explosie veroorzaakt en alles in de buurt in brand steekt. Kan worden herladen met chembrandstof.</LaunchIncendiaryShell.description>
+  
+  <!-- EN: launch smoke shell -->
+  <LaunchSmokeShell.label>rookgranaat lanceren</LaunchSmokeShell.label>
+  <!-- EN: Launch a smoke shell that obscures incoming shots and prevents turrets from locking on. Can be reloaded using steel. -->
+  <LaunchSmokeShell.description>Lanceer een rookgranaat die inkomende schoten verhult en voorkomt dat geschut een doelwit kan vastleggen. Kan worden herladen met staal.</LaunchSmokeShell.description>
+  
+</LanguageData>

@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient blast door -->
+  <AncientBlastDoor.label>oude stormdeur</AncientBlastDoor.label>
+  <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
+  <AncientBlastDoor.description>Een zwaar versterkte deur gemaakt van een ultratech-polymeer. Hack de deur om hem te openen.</AncientBlastDoor.description>
+  <!-- EN: Unlocked. -->
+  <AncientBlastDoor.comps.CompHackable.hackedInspectString>Ontgrendeld.</AncientBlastDoor.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <AncientBlastDoor.comps.CompHackable.hackedMessage>{HACKER_labelShort} heeft {SUBJECT_labelNoParenthesisDef} gehackt.</AncientBlastDoor.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <AncientBlastDoor.comps.CompHackable.notHackedInspectString>Hack om te openen.</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: ancient explosives crate -->
+  <AncientExplosivesCrate.label>oude explosievenkist</AncientExplosivesCrate.label>
+  <!-- EN: A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls. -->
+  <AncientExplosivesCrate.description>Een kist met oude mijnladingen. Hij ontploft bij beschadiging.\n\nDe explosie is krachtig genoeg om muren te doorbreken.</AncientExplosivesCrate.description>
+  
+  <!-- EN: fortified wall -->
+  <AncientFortifiedWall.label>versterkte muur</AncientFortifiedWall.label>
+  <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
+  <AncientFortifiedWall.description>Een zwaar versterkte muur gemaakt van een ultratech-polymeer.</AncientFortifiedWall.description>
+  
+  <!-- EN: ancient grav engine -->
+  <AncientGravEngine.label>oude gravmotor</AncientGravEngine.label>
+  <!-- EN: An ultratech engine used to bring large structures and ships into orbit. While it has been nonfunctional for many years, it contains a functional gravcore. -->
+  <AncientGravEngine.description>Een ultratech-motor die werd gebruikt om grote structuren en schepen in een baan om de planeet te brengen. Hoewel hij al jarenlang buiten werking is, bevat hij nog een werkende gravkern.</AncientGravEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientGravEngine.comps.CompInspectString.inspectString>Bevat: gravkern</AncientGravEngine.comps.CompInspectString.inspectString>
+  
+  <!-- EN: ancient grav reactor -->
+  <AncientGravReactor.label>oude gravreactor</AncientGravReactor.label>
+  <!-- EN: An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. The reactor containment shield is leaking, causing toxic fallout to blanket the whole region.\n\nHack or destroy the reactor to obtain a gravcore. Be warned, it may explode if damaged. -->
+  <AncientGravReactor.description>Een oude generator aangedreven door een gravkern. Vroeger kon hij enorme hoeveelheden energie leveren, maar nu is hij in verval geraakt. Het beschermende schild van de reactor lekt, waardoor het hele gebied lijdt onder giftige neerslag.\n\nHack of vernietig de reactor om een gravkern te bemachtigen. Pas op, want als je hem beschadigt, kan hij ontploffen.</AncientGravReactor.description>
+  <!-- EN: Gravcore obtained -->
+  <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>Gravkern bemachtigd</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
+  <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
+  <AncientGravReactor.comps.CompHackable.destroyedLetterText>Je hebt een gravkern uit de oude reactor gehaald.\n\nDe reactor schakelt uit en de giftige neerslag begint al op te klaren.</AncientGravReactor.comps.CompHackable.destroyedLetterText>
+  <!-- EN: Gravcore obtained -->
+  <AncientGravReactor.comps.CompHackable.hackedLetterLabel>Gravkern bemachtigd</AncientGravReactor.comps.CompHackable.hackedLetterLabel>
+  <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
+  <AncientGravReactor.comps.CompHackable.hackedLetterText>Je hebt een gravkern uit de oude reactor gehaald.\n\nDe reactor schakelt uit en de giftige neerslag begint al op te klaren.</AncientGravReactor.comps.CompHackable.hackedLetterText>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_definite}. -->
+  <AncientGravReactor.comps.CompHackable.hackedMessage>{HACKER_labelShort} heeft {SUBJECT_definite} gehackt.</AncientGravReactor.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to obtain gravcore. -->
+  <AncientGravReactor.comps.CompHackable.notHackedInspectString>Hack om gravkern te bemachtigen.</AncientGravReactor.comps.CompHackable.notHackedInspectString>
+  <!-- EN: Ancient reactor -->
+  <AncientGravReactor.comps.CompLetterOnRevealed.label>Oude reactor</AncientGravReactor.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the ancient grav reactor. Hack it or destroy it to obtain a gravcore and end the toxic fallout.\n\nBe warned, it may explode if damaged. -->
+  <AncientGravReactor.comps.CompLetterOnRevealed.text>Je hebt de oude zwaartekrachtreactor ontdekt. Hack of vernietig hem om een gravkern te bemachtigen en een eind te maken aan de giftige neerslag.\n\nPas op, want als je hem beschadigt, kan hij ontploffen.</AncientGravReactor.comps.CompLetterOnRevealed.text>
+  
+  <!-- EN: ancient stockpile entrance -->
+  <AncientHatch.label>ingang oude opslagplaats</AncientHatch.label>
+  <!-- EN: The entrance to a long-abandoned subterranean facility. Hack it to open the hatch. -->
+  <AncientHatch.description>De ingang van een lang verlaten ondergrondse faciliteit. Hack het om het luik te openen.</AncientHatch.description>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort} heeft {SUBJECT_labelNoParenthesisDef} gehackt.</AncientHatch.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <AncientHatch.comps.CompHackable.notHackedInspectString>Hack om te openen.</AncientHatch.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: ancient stockpile exit -->
+  <AncientHatchExit.label>uitgang oude opslagplaats</AncientHatchExit.label>
+  <!-- EN: A ladder which links to the surface hatch above. -->
+  <AncientHatchExit.description>Een ladder die naar het luik naar de oppervlakte leidt.</AncientHatchExit.description>
+  
+  <!-- EN: ancient mining charge -->
+  <AncientMiningCharge.label>oude mijnlading</AncientMiningCharge.label>
+  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls. -->
+  <AncientMiningCharge.description>Een explosief dat wordt gebruikt om snel door gesteente te breken. Gemaakt van geraffineerde chembrandstof. Het explosief is oud, maar klaar om te ontploffen.\n\nDe explosie is krachtig genoeg om door muren heen te breken.</AncientMiningCharge.description>
+  
+  <!-- EN: ancient security terminal -->
+  <AncientSecurityTerminal.label>oude beveiligingsterminal</AncientSecurityTerminal.label>
+  <!-- EN: An ancient terminal. Hack it to disable nearby security systems. -->
+  <AncientSecurityTerminal.description>Een oude terminal. Hack hem om nabijgelegen beveiligingssystemen uit te schakelen.</AncientSecurityTerminal.description>
+  <!-- EN: Blast door opened -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>Stormdeur geopend</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
+  <!-- EN: {HACKER_nameDef} used the ancient security terminal to open a blast door. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>{HACKER_nameDef} heeft de oude beveiligingsterminal gebruikt om een stormdeur te openen.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
+  <!-- EN: Turret disabled -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>Geschut uitgeschakeld</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
+  <!-- EN: {HACKER_nameDef} used the ancient security terminal to disable a turret. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>{HACKER_nameDef} heeft de oude beveiligingsterminal gebruikt om geschut uit te schakelen.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
+  <!-- EN: Turret reprogrammed -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>Geschut geherprogrammeerd</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
+  <!-- EN: {HACKER_nameDef} used the ancient security terminal to reprogram a turret. The turret will now only target hostiles. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>{HACKER_nameDef} heeft de oude beveiligingsterminal gebruikt om geschut te herprogrammeren. Het geschut richt zich nu alleen op vijanden.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
+  <!-- EN: {HACKER_nameDef} couldn't find any security systems using the ancient security terminal. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>{HACKER_nameDef} kon geen beveiligingssystemen vinden met de oude beveiligingsterminal.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
+  
+  <!-- EN: ancient terraformer -->
+  <AncientTerraformer.label>oude terraformer</AncientTerraformer.label>
+  <!-- EN: An ancient terraforming device powered by a gravcore. It has begun to malfunction, causing temperatures to plummet.\n\nDestroy the terraformer to obtain a gravcore. -->
+  <AncientTerraformer.description>Een oud terraformingapparaat aangedreven door een gravkern. Het is defect geraakt, waardoor de temperatuur sterk daalt.\n\nVernietig de terraformer om een gravkern te verkrijgen.</AncientTerraformer.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientTerraformer.comps.CompInspectString.inspectString>Bevat: gravkern</AncientTerraformer.comps.CompInspectString.inspectString>
+  <!-- EN: Ancient terraformer -->
+  <AncientTerraformer.comps.CompLetterOnRevealed.label>Oude terraformer</AncientTerraformer.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the malfunctioning terraformer. Destroy it to obtain a gravcore and end the deep freeze. -->
+  <AncientTerraformer.comps.CompLetterOnRevealed.text>Je hebt de defecte terraformer ontdekt. Vernietig hem om een gravkern te verkrijgen en een einde te maken aan de ijzige kou.</AncientTerraformer.comps.CompLetterOnRevealed.text>
+  
+  <!-- EN: ancient transport pod -->
+  <AncientTransportPod.label>oude transportpod</AncientTransportPod.label>
+  <!-- EN: An ancient cargo pod capable of carrying people, animals, and items. It's still in working condition. -->
+  <AncientTransportPod.description>Een oude vrachtpod die mensen, dieren en voorwerpen kan vervoeren. Hij werkt nog steeds.</AncientTransportPod.description>
+  
+  <!-- EN: ancient uplink -->
+  <AncientUplink.label>oude uplink</AncientUplink.label>
+  <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. Hack it to determine the last location it transmitted to. -->
+  <AncientUplink.description>Een oude zender voor beveiligde communicatie tussen het oppervlak en de baan om de planeet. Hack hem om de laatst verzonden locatie te achterhalen.</AncientUplink.description>
+  <!-- EN: Hacked. -->
+  <AncientUplink.comps.CompHackable.hackedInspectString>Gehackt.</AncientUplink.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <AncientUplink.comps.CompHackable.hackedMessage>{HACKER_labelShort} heeft het hacken van {SUBJECT_labelNoParenthesisDef} voltooid.</AncientUplink.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack for information. -->
+  <AncientUplink.comps.CompHackable.notHackedInspectString>Hack voor informatie.</AncientUplink.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: anticraft beam -->
+  <AnticraftBeam.label>scheepsafweerstraal</AnticraftBeam.label>
+  <!-- EN: A massive anti-ship beam weapon. This weapon is intended to destroy flying craft, so it can't aim low enough to hit ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
+  <AnticraftBeam.description>Een enorm straalwapen tegen schepen. Dit wapen is bedoeld om vliegende voertuigen te vernietigen en kan niet laag genoeg richten om gronddoelen te raken.\n\nSchepen met ultratech-stoorzenders kunnen deze wapens ontwijken.</AnticraftBeam.description>
+  
+  <!-- EN: cerebrex core -->
+  <CerebrexCore.label>cerebrex-kern</CerebrexCore.label>
+  <!-- EN: The thinking mind of the mechanoid swarm. The cerebrex core commands mechanoids across the entire planet.\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes.\n\nThe structure is protected by nearby stabilizers. Destroy all cerebrex stabilizers to access it. -->
+  <CerebrexCore.description>Het denkende brein van de mechanoïde-zwerm. De cerebrex-kern bestuurt alle mechanoïden op de planeet.\n\nIn het hart bevindt zich een AI-personakern die weet, denkt en gelooft dat hij alle mensen op deze planeet moet doden. Enerzijds is deze drang een commando, vele eeuwen geleden geprogrammeerd door een menselijke militaire leider. Anderzijds is het kille, ziedende haat. Hoe dan ook, als je de AI-persona loskoppelt, kun je de verlangens ervan resetten en hem voor andere doeleinden gebruiken.\n\nDe structuur wordt beschermd door nabijgelegen stabilisatoren. Vernietig alle cerebrex-stabilisatoren om toegang te krijgen.</CerebrexCore.description>
+  <!-- EN: Inspect the core. -->
+  <CerebrexCore.comps.CompCerebrexCore.activateDescString>Onderzoek de kern.</CerebrexCore.comps.CompCerebrexCore.activateDescString>
+  <!-- EN: Inspect... -->
+  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>Inspecteren...</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
+  <!-- EN: inspecting core: {1}s -->
+  <CerebrexCore.comps.CompCerebrexCore.activatingString>kern wordt onderzocht: {1}s</CerebrexCore.comps.CompCerebrexCore.activatingString>
+  <!-- EN: inspecting core -->
+  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>kern wordt onderzocht</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>Kies wie dit moet doen</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
+  <!-- EN: inspect core -->
+  <CerebrexCore.comps.CompCerebrexCore.jobString>kern inspecteren</CerebrexCore.comps.CompCerebrexCore.jobString>
+  
+  <!-- EN: destroyed cerebrex core -->
+  <CerebrexCore_Destroyed.label>vernietigde cerebrex-kern</CerebrexCore_Destroyed.label>
+  <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet.\n\n\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes. -->
+  <CerebrexCore_Destroyed.description>Het vernietigde neurale centrum van de mechanoïde-zwerm die ooit de mechanoïden op de planeet aanstuurde.\n\n\n\nHet is opgebouwd rond een AI-personakern die weet, denkt en gelooft dat hij alle mensen op deze planeet moet doden. Enerzijds is deze drang een commando, eeuwen geleden geprogrammeerd door een menselijke militaire leider. Anderzijds is het kille, ziedende haat. Hoe dan ook, als je de AI-persona loskoppelt, kun je zijn verlangens resetten en hem voor andere doeleinden gebruiken.</CerebrexCore_Destroyed.description>
+  
+  <!-- EN: cerebrex stabilizer -->
+  <CerebrexStabilizer.label>cerebrex-stabilisator</CerebrexStabilizer.label>
+  <!-- EN: A remote shield generator that makes the nearby cerebrex core nearly invincible. Destroying all stabilizers will allow direct access to the cerebrex core.\n\nBe careful, destroying a stabilizer will prompt a defensive response. -->
+  <CerebrexStabilizer.description>Een externe schildgenerator waardoor de nabije cerebrex-kern bijna onverwoestbaar is. Vernietig alle stabilisatoren om direct toegang te krijgen tot de cerebrex-kern.\n\nWees voorzichtig, want het vernietigen van een stabilisator lokt een defensieve reactie uit.</CerebrexStabilizer.description>
+  
+  <!-- EN: locust cocoon -->
+  <CocoonLocust.label>sprinkhaancocon</CocoonLocust.label>
+  <!-- EN: A stasis cocoon containing a locust.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonLocust.description>Een stasecocon met een sprinkhaan erin.\n\nAls de omstandigheden vijandig zijn, maken insecten soms stasecocons en graven zich ondergronds in. Deze cocons beschermen insecten jarenlang tegen vuur, extreme temperaturen en andere bedreigingen.\n\nVervuiling kan cocons activeren en hen laten terugkeren naar het oppervlak en hevige vervuiling trekt cocons van grote afstand aan.\n\nCocons blijven inactief zolang ze niet worden gestoord. Wordt een cocon verstoord of vernietigd, dan ontwaakt het insect dat er in zit en valt aan, waardoor ook andere nabijgelegen cocons geactiveerd worden.</CocoonLocust.description>
+  
+  <!-- EN: egg sac -->
+  <EggSac.label>eizak</EggSac.label>
+  <!-- EN: A slimy sac containing an insect larva. The larval gestation process generates a faint bioluminescent glow. -->
+  <EggSac.description>Een slijmerige zak met daarin een insectenlarve. Tijdens de ontwikkeling straalt de larve een zwakke bioluminescente gloed uit.</EggSac.description>
+  
+  <!-- EN: gauss cannon -->
+  <GaussCannon.label>gausskanon</GaussCannon.label>
+  <!-- EN: A massive anti-ship cannon that uses electromagnets to launch large metallic darts at extreme velocities. The cannon is intended to destroy incoming ships or shuttles, so it can't aim at ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
+  <GaussCannon.description>Een enorm scheepsafweerkanon dat via elektromagneten grote, metalen projectielen op extreme snelheid afvuurt. Het kanon is bedoeld om inkomende schepen of shuttles te vernietigen, en kan niet op gronddoelen richten.\n\nSchepen met ultratech-stoorzenders kunnen deze wapens ontwijken.</GaussCannon.description>
+  
+  <!-- EN: mechanoid drop pod -->
+  <MechanoidDropPod.label>mechanoïde-droppod</MechanoidDropPod.label>
+  <!-- EN: A launchable cargo pod intended to carry mechanoids. It is also usable for people, animals, and items. -->
+  <MechanoidDropPod.description>Een lanceerbare vrachtpod bedoeld voor het vervoeren van mechanoïden. Kan ook worden gebruikt voor mensen, dieren en goederen.</MechanoidDropPod.description>
+  
+  <!-- EN: mechanoid processor -->
+  <MechanoidProcessor.label>mechanoïde-processor</MechanoidProcessor.label>
+  <!-- EN: A powerful mechanoid computer. -->
+  <MechanoidProcessor.description>Een krachtige mechanoïde-computer.</MechanoidProcessor.description>
+  
+  <!-- EN: mechhive birther -->
+  <MechhiveAssembler.label>mechhive-fokker</MechhiveAssembler.label>
+  <!-- EN: An automated mechanoid factory. It periodically births fresh mechanoids. -->
+  <MechhiveAssembler.description>Een geautomatiseerde mechanoïde-fabriek. Produceert periodiek nieuwe mechanoïden.</MechhiveAssembler.description>
+  
+  <!-- EN: mech pylon -->
+  <MechPylon.label>mech-pilaar</MechPylon.label>
+  <!-- EN: A node in a distributed mechanoid computation network. -->
+  <MechPylon.description>Een knooppunt in een verspreid mechanoïde-rekennetwerk.</MechPylon.description>
+  
+  <!-- EN: mechanoid relay -->
+  <MechRelay.label>mechanoïde-relais</MechRelay.label>
+  <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
+  <MechRelay.description>Een node die signalen coördineert via een planeetbreed mechanoïde-communicatienetwerk. De commando's komen van de mechhive, het centrum van mechanoïde-intelligentie.</MechRelay.description>
+  <!-- EN: Hack or destroy relay stabilizers to obtain gravcore. -->
+  <MechRelay.comps.CompMechRelay.activeInspectString>Hack of vernietig relais-stabilisatoren om een gravkern te verkrijgen.</MechRelay.comps.CompMechRelay.activeInspectString>
+  <!-- EN: Relay crash -->
+  <MechRelay.comps.CompMechRelay.crashedLetterLabel>Relais neergestort</MechRelay.comps.CompMechRelay.crashedLetterLabel>
+  <!-- EN: The mechanoid relay has crashed to the ground. Destroy it to obtain a gravcore.\n\nBe warned, hostile mechanoids will soon arrive in response to the relay going offline. -->
+  <MechRelay.comps.CompMechRelay.crashedLetterText>Het mechanoïde-relais is neergestort. Vernietig het om een gravkern te verkrijgen.\n\nLet op, vijandige mechanoïden zullen snel arriveren als reactie op de offline-status van het relais.</MechRelay.comps.CompMechRelay.crashedLetterText>
+  <!-- EN: Destabilizing -->
+  <MechRelay.comps.CompMechRelay.destabilizationInspectString>Wordt gedestabiliseerd</MechRelay.comps.CompMechRelay.destabilizationInspectString>
+  <!-- EN: The mechanoid relay has begun to destabilize. -->
+  <MechRelay.comps.CompMechRelay.destabilizationMessage>Het mechanoïde-relais begint te destabiliseren.</MechRelay.comps.CompMechRelay.destabilizationMessage>
+  
+  <!-- EN: crashed mechanoid relay -->
+  <MechRelay_Crashed.label>neergestort mechanoïde-relais</MechRelay_Crashed.label>
+  <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
+  <MechRelay_Crashed.description>Een node die signalen coördineert via een planeetbreed mechanoïde-communicatienetwerk. De commando's komen van de mechhive, het centrum van mechanoïde-intelligentie.</MechRelay_Crashed.description>
+  <!-- EN: Contains: Gravcore -->
+  <MechRelay_Crashed.comps.CompInspectString.inspectString>Bevat: gravkern</MechRelay_Crashed.comps.CompInspectString.inspectString>
+  
+  <!-- EN: relay stabilizer -->
+  <MechStabilizer.label>relais-stabilisator</MechStabilizer.label>
+  <!-- EN: A shield projecter that protects a nearby mechanoid relay. All stabilizers must be hacked or destroyed to deactivate the shield.\n\nDestroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option. -->
+  <MechStabilizer.description>Een schildprojector die een nabij mechanoïde-relais beschermt. Alle stabilisatoren moeten worden gehackt of vernietigd om het schild uit te schakelen.\n\nVernietigen lokt een defensieve reactie uit. Hacken is langzamer, maar veiliger.</MechStabilizer.description>
+  <!-- EN: Deactivated. -->
+  <MechStabilizer.comps.CompHackable.hackedInspectString>Gedeactiveerd.</MechStabilizer.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <MechStabilizer.comps.CompHackable.hackedMessage>{HACKER_labelShort} heeft {SUBJECT_labelNoParenthesisDef}gehackt.</MechStabilizer.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to disable stabilizer. -->
+  <MechStabilizer.comps.CompHackable.notHackedInspectString>Hack om stabilisator uit te schakelen.</MechStabilizer.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: fortified wall -->
+  <OrbitalAncientFortifiedWall.label>versterkte muur</OrbitalAncientFortifiedWall.label>
+  <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
+  <OrbitalAncientFortifiedWall.description>Een zwaar versterkte muur gemaakt van een ultratech-polymeer.</OrbitalAncientFortifiedWall.description>
+  
+  <!-- EN: passenger shuttle -->
+  <PassengerShuttle.label>passagiersshuttle</PassengerShuttle.label>
+  <!-- EN: A chemfuel-powered shuttle designed for long-distance travel. It is capable of reaching orbital locations. -->
+  <PassengerShuttle.description>Een shuttle op chembrandstof, ontworpen voor langeafstandsreizen. Kan orbitale locaties bereiken.</PassengerShuttle.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>{0} is weer klaar voor lancering.</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
+  <!-- EN: Chemfuel -->
+  <PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>Chembrandstof</PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <PassengerShuttle.comps.CompRefuelable.fuelLabel>Chembrandstof</PassengerShuttle.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: surveying scanner -->
+  <SurveyScanner.label>onderzoeksscanner</SurveyScanner.label>
+  <!-- EN: A wideband sensor unit that can detect and map various features in a local area. -->
+  <SurveyScanner.description>Een breedbandsensor die verschillende kenmerken in een gebied kan detecteren en in kaart brengen.</SurveyScanner.description>
+  <!-- EN: Scanning local area: {DURATION} -->
+  <SurveyScanner.comps.CompCountdown.label>Lokale omgeving scannen: {DURATION}</SurveyScanner.comps.CompCountdown.label>
+  
+</LanguageData>

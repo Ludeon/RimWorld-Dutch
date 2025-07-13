@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator -->
+  <Alligator.label>alligator</Alligator.label>
+  
+  <!-- EN: alpha thrumbo -->
+  <AlphaThrumbo.label>alfa-drumbo</AlphaThrumbo.label>
+  <!-- EN: alpha thrumbo calf -->
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>alfa-drumbokalf</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>
+  <!-- EN: alpha thrumbo calves -->
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>alfa-drumbokalveren</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>
+  
+  <!-- EN: armadillo -->
+  <Armadillo.label>gordeldier</Armadillo.label>
+  
+  <!-- EN: badger -->
+  <Badger.label>das</Badger.label>
+  
+  <!-- EN: bog hound -->
+  <BogHound.label>moerashond</BogHound.label>
+  <!-- EN: bog hound puppy -->
+  <BogHound.lifeStages.bog_hound_puppy.label>moerashondpup</BogHound.lifeStages.bog_hound_puppy.label>
+  <!-- EN: bog hound puppies -->
+  <BogHound.lifeStages.bog_hound_puppy.labelPlural>moerashondpups</BogHound.lifeStages.bog_hound_puppy.labelPlural>
+  
+  <!-- EN: bullfrog -->
+  <Bullfrog.label>brulkikker</Bullfrog.label>
+  
+  <!-- EN: scimitar cat -->
+  <Cat_Scimitar.label>sabeltandkat</Cat_Scimitar.label>
+  
+  <!-- EN: colossus toad -->
+  <ColossusToad.label>kolossale pad</ColossusToad.label>
+  
+  <!-- EN: gorilla -->
+  <Gorilla.label>gorilla</Gorilla.label>
+  
+  <!-- EN: hippo -->
+  <Hippo.label>nijlpaard</Hippo.label>
+  
+  <!-- EN: lava snail -->
+  <LavaSnail.label>lavaslak</LavaSnail.label>
+  
+  <!-- EN: mastodon -->
+  <Mastodon.label>mastodont</Mastodon.label>
+  <!-- EN: mastodon calf -->
+  <Mastodon.lifeStages.mastodon_calf.label>mastodontkalf</Mastodon.lifeStages.mastodon_calf.label>
+  <!-- EN: mastodon calves -->
+  <Mastodon.lifeStages.mastodon_calf.labelPlural>mastodontkalveren</Mastodon.lifeStages.mastodon_calf.labelPlural>
+  
+  <!-- EN: megavole -->
+  <Megavole.label>megawoelmuis</Megavole.label>
+  
+  <!-- EN: mink -->
+  <Mink.label>nerts</Mink.label>
+  
+  <!-- EN: monitor lizard -->
+  <MonitorLizard.label>varaan</MonitorLizard.label>
+  
+  <!-- EN: moose -->
+  <Moose.label>eland</Moose.label>
+  <!-- EN: moose -->
+  <Moose.labelPlural>eland</Moose.labelPlural>
+  <!-- EN: moose calf -->
+  <Moose.lifeStages.moose_calf.label>elandkalf</Moose.lifeStages.moose_calf.label>
+  <!-- EN: moose calves -->
+  <Moose.lifeStages.moose_calf.labelPlural>elandkalveren</Moose.lifeStages.moose_calf.labelPlural>
+  
+  <!-- EN: muskox -->
+  <Muskox.label>muskusos</Muskox.label>
+  <!-- EN: muskoxen -->
+  <Muskox.labelPlural>muskusossen</Muskox.labelPlural>
+  <!-- EN: muskox calf -->
+  <Muskox.lifeStages.muskox_calf.label>muskusoskalf</Muskox.lifeStages.muskox_calf.label>
+  <!-- EN: muskox calves -->
+  <Muskox.lifeStages.muskox_calf.labelPlural>muskusoskalveren</Muskox.lifeStages.muskox_calf.labelPlural>
+  
+  <!-- EN: panda -->
+  <Panda.label>panda</Panda.label>
+  
+  <!-- EN: porcupine -->
+  <Porcupine.label>stekelvarken</Porcupine.label>
+  
+  <!-- EN: prairie dog -->
+  <PrairieDog.label>prairiehond</PrairieDog.label>
+  
+  <!-- EN: tiger -->
+  <Tiger.label>tijger</Tiger.label>
+  
+  <!-- EN: greatwolf -->
+  <Wolf_Great.label>reuzenwolf</Wolf_Great.label>
+  <!-- EN: greatwolves -->
+  <Wolf_Great.labelPlural>reuzenwolven</Wolf_Great.labelPlural>
+  <!-- EN: greatwolf puppy -->
+  <Wolf_Great.lifeStages.greatwolf_puppy.label>reuzenwolfpup</Wolf_Great.lifeStages.greatwolf_puppy.label>
+  <!-- EN: greatwolf puppies -->
+  <Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>reuzenwolfpups</Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>
+  
+  <!-- EN: wolverine -->
+  <Wolverine.label>veelvraat</Wolverine.label>
+  
+</LanguageData>

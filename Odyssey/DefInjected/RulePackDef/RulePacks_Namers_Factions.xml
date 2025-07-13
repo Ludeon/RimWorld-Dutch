@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name->The [spaceAdj] Salvagers</li>
+    <li>r_name->The [spaceAdj] Scavengers</li>
+    <li>r_name->[spaceAdj] [AnimalBadass]s</li>
+    <li>r_name->The [spaceAdj] [AnimalBadass]s</li>
+    <li>r_name->The [spaceAdj] [Enemy]s</li>
+    <li>r_name->The [spaceNoun] [Enemy]s</li>
+    <li>r_name->The [spaceNoun] [groupname]</li>
+    <li>r_name->The [spaceAdj] [groupname]</li>
+    <li>r_name->The [ColorBadass] [spaceNoun]</li>
+    <li>r_name->The [AdjectiveBadass] [spaceNoun]</li>
+    <li>r_name->The [ColorBadass] [spaceCollectiveNoun]</li>
+    <li>r_name->The [AdjectiveBadass] [spaceCollectiveNoun]</li>
+    <li>r_name->The [spaceNoun]s of [ConceptBadass]</li>
+    <li>r_name(p=2)->[NamePerson]'s [spaceNoun]s</li>
+    <li>r_name(p=2)->[NamePerson]'s [spaceCollectiveNoun]</li>
+    <li>r_name(p=2)->[NamePerson]'s [spaceAdj] [spaceCollectiveNoun]</li>
+    <li>spaceAdj->Orbital</li>
+    <li>spaceAdj->Cosmic</li>
+    <li>spaceAdj->Astral</li>
+    <li>spaceAdj->Solar</li>
+    <li>spaceAdj->Celestial</li>
+    <li>spaceNoun->Star</li>
+    <li>spaceNoun->Moon</li>
+    <li>spaceNoun->Comet</li>
+    <li>spaceNoun->Asteroid</li>
+    <li>spaceNoun->Eclipse</li>
+    <li>spaceCollectiveNoun->Armada</li>
+    <li>spaceCollectiveNoun->Fleet</li>
+    <li>spaceCollectiveNoun->Flotilla</li>
+    <li>spaceCollectiveNoun->Fleet</li>
+    <li>spaceCollectiveNoun->Corsairs</li>
+    <li>spaceCollectiveNoun->Pirates</li>
+    <li>spaceCollectiveNoun->Marauders</li>
+    <li>spaceCollectiveNoun->Reapers</li>
+  -->
+  <NamerFactionSalvagers.rulePack.rulesStrings>
+    <li>r_name->De [spaceAdj] Redders</li>
+	<li>r_name->De [spaceAdj_comp]redders</li>
+    <li>r_name->De [spaceAdj] Plunderaars</li>
+	<li>r_name->De [spaceAdj_comp]plunderaars</li>
+    <li>r_name->[spaceAdj] [AnimalBadassPlural]</li>
+	<li>r_name->[spaceAdj_comp][AnimalBadassPlural]</li>
+    <li>r_name->De [spaceAdj] [AnimalBadassPlural]</li>
+	<li>r_name->De [spaceAdj_comp][AnimalBadassPlural]</li>
+    <li>r_name->De [spaceAdj] [EnemyPlural]</li>
+	<li>r_name->De [spaceAdj_comp][EnemyPlural]</li>
+    <li>r_name->De [spaceNoun][EnemyPlural]</li>
+    <li>r_name->De [spaceNoun][groupname]</li>
+    <li>r_name->De [spaceAdj] [groupname]</li>
+	<li>r_name->De [spaceAdj_comp][groupname]</li>
+    <li>r_name->De [ColorBadassGendered] [spaceNoun]</li>
+    <li>r_name->De [AdjectiveBadassGendered] [spaceNoun]</li>
+    <li>r_name->De [ColorBadassGendered] [spaceCollectiveNoun]</li>
+    <li>r_name->De [AdjectiveBadassGendered] [spaceCollectiveNoun]</li>
+    <li>r_name->De [spaceNoun_pl] van [ConceptBadass]</li>
+    <li>r_name(p=2)->[spaceNoun_pl] van [NamePerson]</li>
+    <li>r_name(p=2)->[spaceCollectiveNoun] van [NamePerson]</li>
+    <li>r_name(p=2)->[spaceAdj_infl] [spaceCollectiveNoun] van [NamePerson]</li>
+    <li>spaceAdj->Orbitaal</li>
+	<li>spaceAdj_infl->Orbitale</li>
+    <li>spaceAdj->Kosmisch</li>
+	<li>spaceAdj_infl->Kosmische</li>
+    <li>spaceAdj->Astraal</li>
+	<li>spaceAdj_infl->Astrale</li>
+    <li>SpaceAdj_comp->Zonne</li>
+    <li>spaceAdj->Hemels</li>
+	<li>spaceAdj_infl->Hemelse</li>
+    <li>spaceNoun->Ster</li>
+	<li>spaceNoun_pl->Sterren</li>
+    <li>spaceNoun->Maan</li>
+	<li>spaceNoun_pl->Manen</li>
+    <li>spaceNoun->Komeet</li>
+	<li>spaceNoun_pl->Kometen</li>
+    <li>spaceNoun->Asteroïde</li>
+	<li>spaceNoun_pl->Asteroïden</li>
+    <li>spaceNoun->Eclips</li>
+	<li>spaceNoun_pl->Eclipsen</li>
+    <li>spaceCollectiveNoun->Armada</li>
+    <li>spaceCollectiveNoun->Vloot</li>
+    <li>spaceCollectiveNoun->Flottielje</li>
+    <li>spaceCollectiveNoun->Vloot</li>
+    <li>spaceCollectiveNoun->Kapers</li>
+    <li>spaceCollectiveNoun->Piraten</li>
+    <li>spaceCollectiveNoun->Rovers</li>
+    <li>spaceCollectiveNoun->Doodsbrengers</li>
+  </NamerFactionSalvagers.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[tradeAdj] [tradeNoun]</li>
+    <li>tradeAdj->merchant's</li>
+    <li>tradeAdj->orbital</li>
+    <li>tradeAdj->trade</li>
+    <li>tradeAdj->spacer's</li>
+    <li>tradeAdj->space</li>
+    <li>tradeAdj->cosmic</li>
+    <li>tradeAdj->skyflight</li>
+    <li>tradeAdj->voidborn</li>
+    <li>tradeAdj->exo</li>
+    <li>tradeNoun->guild</li>
+    <li>tradeNoun->consortium</li>
+    <li>tradeNoun->syndicate</li>
+    <li>tradeNoun->alliance</li>
+    <li>tradeNoun->cartel</li>
+    <li>tradeNoun->coalition</li>
+    <li>tradeNoun->federation</li>
+    <li>tradeNoun->conglomerate</li>
+    <li>tradeNoun->corporation</li>
+    <li>tradeNoun->company</li>
+    <li>tradeNoun->network</li>
+    <li>tradeNoun->exchange</li>
+    <li>tradeNoun->bazaar</li>
+    <li>tradeNoun->emporium</li>
+    <li>tradeNoun->nexus</li>
+  -->
+  <NamerFactionTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[tradeAdj] [tradeNoun_neut]</li>
+	<li>r_name->[tradeAdj_infl] [tradeNoun]</li>
+	<li>r_name->[tradeAdj_comp][tradeNoun_neut]</li>
+	<li>r_name->[tradeAdj_comp][tradeNoun]</li>
+    <li>tradeAdj_comp->koopmans</li>
+    <li>tradeAdj->orbitaal</li>
+	<li>tradeAdj_infl->orbitale</li>
+    <li>tradeAdj_comp->handels</li>
+    <li>tradeAdj_comp->ruimtereizigers</li>
+    <li>tradeAdj_comp->ruimte</li>
+    <li>tradeAdj->kosmisch</li>
+	<li>tradeAdj_infl->kosmische</li>
+    <li>tradeAdj_comp->hemelvlucht</li>
+    <li>tradeAdj->leegtegeboren</li>
+	<li>tradeAdj_infl->leegtegeboren</li>
+    <li>tradeAdj_comp->exo</li>
+    <li>tradeNoun_neut->gilde</li>
+    <li>tradeNoun_neut->consortium</li>
+    <li>tradeNoun_neut->syndicaat</li>
+    <li>tradeNoun->alliantie</li>
+    <li>tradeNoun_neut->kartel</li>
+    <li>tradeNoun->coalitie</li>
+    <li>tradeNoun->federatie</li>
+    <li>tradeNoun_neut->conglomeraat</li>
+    <li>tradeNoun->corporatie</li>
+    <li>tradeNoun_neut->bedrijf</li>
+    <li>tradeNoun_neut->netwerk</li>
+    <li>tradeNoun->beurs</li>
+    <li>tradeNoun->bazaar</li>
+    <li>tradeNoun_neut->emporium</li>
+    <li>tradeNoun->nexus</li>
+  </NamerFactionTradersGuild.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[platAdj] [platform]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->sunshine</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->stardust</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->galaxy</li>
+    <li>platAdj->cosmos</li>
+    <li>platAdj->void</li>
+    <li>platAdj->asteroid</li>
+    <li>platAdj->comet</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->quasar</li>
+    <li>platAdj->pulsar</li>
+    <li>platAdj->meteor</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->lunar</li>
+    <li>platAdj->solar</li>
+    <li>platAdj->celestial</li>
+    <li>platAdj->moonbeam</li>
+    <li>platAdj->sunburst</li>
+    <li>platAdj->starfield</li>
+    <li>platAdj->cosmic</li>
+    <li>platAdj->astral</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->luminary</li>
+    <li>platAdj->corona</li>
+    <li>platform->platform</li>
+    <li>platform->station</li>
+    <li>platform->hub</li>
+    <li>platform->station</li>
+    <li>platform->base</li>
+    <li>platform->dock</li>
+    <li>platform->ring</li>
+  -->
+  <NamerSettlementTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[platAdj] [platform_neut]</li>
+	<li>r_name->[platAdj_comp][platform]</li>
+	<li>r_name->[platAdj_infl] [platform]</li>
+    <li>platAdj_comp->sterrenlicht</li>
+    <li>platAdj_comp->zonneschijn</li>
+    <li>platAdj_comp->nevel</li>
+    <li>platAdj_comp->sterrenstof</li>
+    <li>platAdj_comp->orion</li>
+    <li>platAdj_comp->horizon</li>
+    <li>platAdj_comp->melkweg</li>
+    <li>platAdj_comp->kosmos</li>
+    <li>platAdj_comp->leegte</li>
+    <li>platAdj_comp->asteroïde</li>
+    <li>platAdj_comp->komeet</li>
+    <li>platAdj_comp->eclips</li>
+    <li>platAdj_comp->quasar</li>
+    <li>platAdj_comp->pulsar</li>
+    <li>platAdj_comp->meteoor</li>
+    <li>platAdj_comp->zenit</li>
+    <li>platAdj_comp->maan</li>
+    <li>platAdj_comp->zonne</li>
+    <li>platAdj->hemels</li>
+	<li>platAdj_infl->hemelse</li>
+    <li>platAdj_comp->maanstraal</li>
+    <li>platAdj_comp->zonnevlam</li>
+    <li>platAdj_comp->sterrenveld</li>
+    <li>platAdj->kosmisch</li>
+	<li>platAdj_infl->kosmische</li>
+    <li>platAdj->astraal</li>
+	<li>platAdj_infl->astrale</li>
+    <li>platAdj_comp->aurora</li>
+    <li>platAdj->luminair</li>
+	<li>platAdj_infl->luminaire</li>
+    <li>platAdj_comp->corona</li>
+    <li>platform_neut->platform</li>
+    <li>platform_neut->station</li>
+    <li>platform->hub</li>
+    <li>platform_neut->station</li>
+    <li>platform->basis</li>
+    <li>platform_neut->dok</li>
+    <li>platform->ring</li>
+  </NamerSettlementTradersGuild.rulePack.rulesStrings>
+  
+</LanguageData>

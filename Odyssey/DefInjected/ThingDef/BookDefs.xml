@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: map -->
+  <Map.label>kaart</Map.label>
+  <!-- EN: A map that shows the way to a location of interest. -->
+  <Map.description>Een kaart die de weg toont naar een interessante locatie.</Map.description>
+  
+</LanguageData>

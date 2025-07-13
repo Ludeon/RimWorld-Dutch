@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Gravship -->
+  <!-- EN: Gravship -->
+  <Gravship>Gravschip</Gravship>
+  <!-- EN: no grav engine -->
+  <CannotLaunchNoEngine>geen gravmotor</CannotLaunchNoEngine>
+  <!-- EN: not enough fuel -->
+  <CannotLaunchNotEnoughFuel>niet genoeg brandstof</CannotLaunchNotEnoughFuel>
+  <!-- EN: Cannot reach this destination -->
+  <CannotLaunchDestination>Kan deze bestemming niet bereiken</CannotLaunchDestination>
+  <!-- EN: Connected substructure -->
+  <ConnectedSubstructure>Verbonden substructuur</ConnectedSubstructure>
+  <!-- EN: Substructure blueprints placed -->
+  <SubstructureBlueprintsCount>Blauwdrukken substructuur geplaatst</SubstructureBlueprintsCount>
+  <!-- EN: not connected to grav engine -->
+  <CannotLaunchDisconnected>niet verbonden met gravmotor</CannotLaunchDisconnected>
+  <!-- EN: no substructure -->
+  <CannotLaunchNoSubstructure>geen substructuur</CannotLaunchNoSubstructure>
+  <!-- EN: no unblocked functioning thrusters -->
+  <CannotLaunchNoThrusters>geen ongeblokkeerde, werkende stuwraketten</CannotLaunchNoThrusters>
+  <!-- EN: engine cooldown: {0} -->
+  <CannotLaunchOnCooldown>motorafkoeling: {0}</CannotLaunchOnCooldown>
+  <!-- EN: Choose where to land -->
+  <ChooseWhereToLand>Kies een landingsplaats</ChooseWhereToLand>
+  <!-- EN: Send a colonist to inspect this. -->
+  <GravEngineNotInspected>Stuur een kolonist om dit te inspecteren.</GravEngineNotInspected>
+  <!-- EN: Choose who should inspect {0_definite} -->
+  <ChooseWhoShouldInspect>Kies wie {0_definite} moet inspecteren</ChooseWhoShouldInspect>
+  <!-- EN: Cannot launch gravship -->
+  <CannotPilotGravship>Kan gravschip niet lanceren</CannotPilotGravship>
+  <!-- EN: Launch gravship -->
+  <PilotGravship>Gravschip starten</PilotGravship>
+  <!-- EN: {0} {1_label} -->
+  <FuelAmount>{0} {1_label}</FuelAmount>
+  <!-- EN: gravship name -->
+  <GravshipName>naam gravschip</GravshipName>
+  <!-- EN: gravship range -->
+  <GravshipRange>bereik gravschip</GravshipRange>
+  <!-- EN: stored chemfuel -->
+  <StoredChemfuel>opgeslagen chembrandstof</StoredChemfuel>
+  <!-- EN: thruster blocked -->
+  <ThrusterBlocked>stuwraket geblokkeerd</ThrusterBlocked>
+  <!-- EN: fuel consumption -->
+  <FuelConsumption>brandstofverbruik</FuelConsumption>
+  <!-- EN: {0} chemfuel per tile -->
+  <FuelPerTile>{0} chembrandstof per tegel</FuelPerTile>
+  <!-- EN: Heavy weapons systems: Requires signal jammer to approach -->
+  <RequiresSignalJammer>Zware wapensystemen: stoorzender vereist om te naderen</RequiresSignalJammer>
+  <!-- EN: {0} landing site -->
+  <GravshipLandingSite>{0} landingsplaats</GravshipLandingSite>
+  <!-- EN: Confirm landing area -->
+  <ConfirmLandingArea>Bevestig landingsgebied</ConfirmLandingArea>
+  <!-- EN: Blocked by {0_label} -->
+  <GravshipBlockedBy>Geblokkeerd door {0_label}</GravshipBlockedBy>
+  <!-- EN: Can't place in undiscovered area -->
+  <GravshipBlockedByFog>Kan niet plaatsen in onverkend gebied</GravshipBlockedByFog>
+  <!-- EN: Can't place outside map bounds -->
+  <GravshipOutOfBounds>Kan niet buiten de kaartgrenzen plaatsen</GravshipOutOfBounds>
+  <!-- EN: Can't place close to the map edge -->
+  <GravshipInNoBuildArea>Kan niet te dicht bij de kaartgrens plaatsen</GravshipInNoBuildArea>
+  <!-- EN: Can't place in blocked area -->
+  <GravshipInBlockedArea>Kan niet plaatsen in geblokkeerd gebied</GravshipInBlockedArea> <!-- text_todo -->
+  <!-- EN: Can't place on {0_label} -->
+  <GravshipBlockedByTerrain>Kan niet plaatsen op {0_label}</GravshipBlockedByTerrain>
+  <!-- EN: Must be connected to solid ground -->
+  <GravshipMustBeConnectedToLand>Moet verbonden zijn met vaste grond</GravshipMustBeConnectedToLand> <!-- text_todo -->
+  <!-- EN: Confirm landing zone to continue -->
+  <ConfirmLandingToContinue>Bevestig landingszone om door te gaan</ConfirmLandingToContinue>
+  <!-- EN: a valid pilot console -->
+  <RitualTargetPilotConsole>een geldige besturingsconsole</RitualTargetPilotConsole>
+  <!-- EN: Based on the gravship's launch, there was a {0_percentage} chance of a negative outcome. -->
+  <GravshipOutcomeChanceLetterExtra>Gebaseerd op de lancering van het gravschip was er een kans van {0_percentage} op een negatief resultaat.</GravshipOutcomeChanceLetterExtra>
+  <!-- EN: The following thrusters were affected -->
+  <ThrustersBrokeDown>De volgende stuwraketten zijn getroffen</ThrustersBrokeDown>
+  <!-- EN: No path to gravship -->
+  <NoPathToGravship>Geen pad naar gravschip</NoPathToGravship>
+  <!-- EN: No path to pilot console -->
+  <NoPathToPilotConsole>Geen pad naar besturingsconsole</NoPathToPilotConsole>
+  <!-- EN: Pilot console is not accessible from gravship -->
+  <PilotConsoleInaccessible>Besturingsconsole is niet bereikbaar vanuit gravschip</PilotConsoleInaccessible>
+  <!-- EN: Launch date -->
+  <LaunchDate>Startdatum</LaunchDate>
+  <!-- EN: Warning: {0} will be blocked by {1}. -->
+  <WarningThrusterBlocked>Waarschuwing: {0} wordt geblokkeerd door {1}.</WarningThrusterBlocked>
+  <!-- EN: Warning: {0} will be blocked due to being indoors. -->
+  <WarningThrusterInside>Waarschuwing: {0} wordt geblokkeerd omdat die zich binnen bevindt.</WarningThrusterInside>
+  <!-- EN: Max per gravship -->
+  <GravFacilityMaxSimultaneousConnections>Max. per gravschip</GravFacilityMaxSimultaneousConnections>
+  <!-- EN: Not connected to gravship -->
+  <ShieldNotConnectedToGravship>Niet verbonden met gravschip</ShieldNotConnectedToGravship> <!-- text_todo -->
+  <!-- EN: Gravship launch called off -->
+  <GravshipLaunchInterrupted>Start van gravschip afgebroken</GravshipLaunchInterrupted> <!-- text_todo -->
+  <!-- EN: Not connected to grav engine. -->
+  <NotConnectedToGravEngine>Niet verbonden met gravmotor.</NotConnectedToGravEngine>
+  <!-- EN: Not functional -->
+  <ThrusterNotFunctional>Niet functioneel</ThrusterNotFunctional> <!-- text_todo -->
+  <!-- EN: not connected to grav engine -->
+  <ThrusterNotConnected>niet verbonden met gravmotor</ThrusterNotConnected> <!-- text_todo -->
+  <!-- EN: blocked by {0_label} -->
+  <ThrusterBlockedBy>geblokkeerd door {0_label}</ThrusterBlockedBy> <!-- text_todo -->
+  <!-- EN: must be outside -->
+  <MustBeOutside>moet buiten zijn</MustBeOutside>
+  <!-- EN: blocked by substructure -->
+  <BlockedBySubstructure>geblokkeerd door substructuur</BlockedBySubstructure>
+
+  <!-- Map generation -->
+  <!-- EN: Landmark -->
+  <Landmark>Herkenningspunt</Landmark>
+  <!-- EN: {ANIMALKIND_label} habitat -->
+  <AnimalHabitat>habitat van {ANIMALKIND_label}</AnimalHabitat>
+  <!-- EN: {0} grove -->
+  <PlantGrove>bosje {0}</PlantGrove>
+  <!-- EN: {0} -->
+  <WildPlants>{0}</WildPlants>
+  <!-- EN: {MINERAL_label} rich -->
+  <MineralRich>rijk aan {MINERAL_label}</MineralRich>
+  <!-- EN: This area has more {MINERAL_label} deposits than normal. -->
+  <MineralRichDescription>Dit gebied heeft meer afzettingen van {MINERAL_label} dan normaal.</MineralRichDescription>
+
+  <!-- Insect Lair -->
+  <!-- EN: Cave entrance -->
+  <CaveEntranceLetter>Grotingang</CaveEntranceLetter>
+  <!-- EN: The gravcore energy signature is coming from a nearby cave network. The entrance is guarded by insect hives.\n\nExplore the cave network to find the gravcore. -->
+  <CaveEntranceLetterText>Het energiesignaal van de gravkern komt uit een nabijgelegen grottenstelsel. De ingang wordt bewaakt door insectennesten.\n\nVerken het grottenstelsel om de gravkern te vinden.</CaveEntranceLetterText>
+  <!-- EN: Insect ambush -->
+  <InsectAmbushLetter>Insectenhinderlaag</InsectAmbushLetter>
+  <!-- EN: Insects are tunneling up from underneath the ground. Be prepared! -->
+  <InsectAmbushLetterText>Insecten graven zich vanuit de grond omhoog. Wees voorbereid!</InsectAmbushLetterText>
+  <!-- EN: Muffled chittering -->
+  <LetterLabelInsectQueenWarning>Gedempte piepgeluiden</LetterLabelInsectQueenWarning>
+  <!-- EN: Behind a nearby wall, {PAWN_nameDef} can hear muffled pulsations accompanied by a low chittering noise. Something massive lies behind the wall. -->
+  <LetterInsectQueenWarning>Achter een nabije muur hoort {PAWN_nameDef} gedempte pulsen en een laag piepend geluid. Er ligt iets enorms achter de muur.</LetterInsectQueenWarning>
+  
+  <!-- Overlay -->
+  <!-- EN: Toggle vacuum overlay. This displays which areas have vacuum and identifies leaks.\n\nWithout the right equipment, exposure to vacuum can be deadly. -->
+  <ShowVacuumOverlayToggleButton>Vacuümoverlay aan/uitzetten. Hiermee worden gebieden met vacuüm en lekkages weergegeven.\n\nZonder de juiste uitrusting kan blootstelling aan vacuüm dodelijk zijn.</ShowVacuumOverlayToggleButton>
+  <!-- EN: vacuum -->
+  <Vacuum>vacuüm</Vacuum>
+  
+  <!-- World -->
+  <!-- EN: No discovered orbital locations. -->
+  <CannotSelectOrbitReason>Geen ontdekte orbitale locaties.</CannotSelectOrbitReason>
+  <!-- EN: Dying from vacuum exposure -->
+  <DyingBecauseExposedToVacuum>Stervend door vacuümblootstelling</DyingBecauseExposedToVacuum>
+  <!-- EN: Stellite with traces of {RESOURCE_label} -->
+  <TracesOfPreciousResource>Vacsteen met sporen van {RESOURCE_label}</TracesOfPreciousResource>
+  <!-- EN: Requires signal jammer -->
+  <TransportPodDestinationRequiresSignalJammer>Stoorzender vereist</TransportPodDestinationRequiresSignalJammer>
+  <!-- EN: cannot function in vacuum. -->
+  <CannotFunctionInVacuum>kan niet functioneren in vacuüm.</CannotFunctionInVacuum>
+  <!-- EN: Gravship -->
+  <GravshipOnTileInspectString>Gravschip</GravshipOnTileInspectString>
+  
+  <!-- Ruins -->
+  <!-- EN: Hack to open. -->
+  <HackableDoorLocked>Hack om te openen.</HackableDoorLocked>
+  
+  <!-- Fishing -->
+  <!-- EN: Fish -->
+  <Fish>Vis</Fish>
+  <!-- EN: fishing -->
+  <Fishing>vissen</Fishing>
+  <!-- EN: Cannot fish -->
+  <CannotFish>Kan niet vissen</CannotFish>
+  <!-- EN: Blocked -->
+  <FishingSpotBlocked>Geblokkeerd</FishingSpotBlocked>
+  <!-- EN: Frozen -->
+  <FishingSpotFrozen>Bevroren</FishingSpotFrozen>
+  <!-- EN: Below minimum fish population -->
+  <FishingSpotUnderTargetPopulation>Onder minimale vispopulatie</FishingSpotUnderTargetPopulation>
+  <!-- EN: Fishing -->
+  <TabFishing>Vissen</TabFishing>
+  <!-- EN: Fish population -->
+  <FishPopulation>Vispopulatie</FishPopulation>
+  <!-- EN: Population declining -->
+  <FishPopulationDecline>Populatie neemt af</FishPopulationDecline>
+  <!-- EN: very low -->
+  <FishPopulation_VeryLow>zeer laag</FishPopulation_VeryLow>
+  <!-- EN: low -->
+  <FishPopulation_Low>klein</FishPopulation_Low> 
+  <!-- EN: moderate -->
+  <FishPopulation_Moderate>gematigd</FishPopulation_Moderate>
+  <!-- EN: healthy -->
+  <FishPopulation_Healthy>gezond</FishPopulation_Healthy>
+
+  <!-- Sand -->
+  <!-- EN: Windswept sand -->
+  <Sand>Zandvlakte</Sand>
+  <!-- EN: No sand -->
+  <SandNone>Geen zand</SandNone>
+  <!-- EN: dusting -->
+  <SandDusting>stuifzand</SandDusting>
+  <!-- EN: thin -->
+  <SandThin>dun</SandThin>
+  <!-- EN: medium -->
+  <SandMedium>gemiddeld</SandMedium>
+  <!-- EN: thick -->
+  <SandThick>dik</SandThick>
+  <!-- EN: Windswept sand -->
+  <Sand_Label>Zandvlakte</Sand_Label>
+  <!-- EN: clearing sand. -->
+  <JobClearingSand>zand aan het opruimen.</JobClearingSand>
+  <!-- EN: clearing sand -->
+  <ClearingSandGerund>zand aan het opruimen</ClearingSandGerund>
+
+  <!-- Stockpile -->
+  <!-- EN: medicine stockpile -->
+  <StockpileMedicine>medicijnopslagplaats</StockpileMedicine>
+  <!-- EN: chemfuel stockpile -->
+  <StockpileChemfuel>opslagplaats van chembrandstof</StockpileChemfuel>
+  <!-- EN: component stockpile -->
+  <StockpileComponent>opslagplaats van componenten</StockpileComponent>
+  <!-- EN: weapons stockpile -->
+  <StockpileWeapons>opslagplaats van wapens</StockpileWeapons>
+  <!-- EN: drug stockpile -->
+  <StockpileDrugs>opslagplaats van drugs</StockpileDrugs>
+  
+  <!-- Outfit Stand -->
+  <!-- EN: equip outfit -->
+  <SwapOutfit>kleding wisselen</SwapOutfit>
+  <!-- EN: equip outfit... -->
+  <SwapOutfitGizmo>kleding wisselen...</SwapOutfitGizmo> <!-- text_todo -->
+  <!-- EN: Order a colonist to wear all apparel on the stand. The colonist will place any unequipped clothing back on the stand. -->
+  <SwapOutfitDesc>Geef een kolonist de opdracht om alle kleding op de standaard te dragen. Eventuele overtollige kleding wordt op de standaard gelegd.</SwapOutfitDesc>
+  <!-- EN: cannot equip outfit -->
+  <CannotSwapOutfit>kan kleding niet wisselen</CannotSwapOutfit>
+  <!-- EN: outfit stand is empty -->
+  <OutfitStandEmpty>kledingstandaard is leeg</OutfitStandEmpty>
+  <!-- EN: Remove this from the outfit stand. -->
+  <EjectApparelTooltip>Verwijder dit van de kledingstandaard.</EjectApparelTooltip>
+  
+  <!-- Orbital mechanoid platform -->
+  <!-- EN: Ancient grav engine -->
+  <LetterAncientGravEngineDiscoveredLabel>Oude gravmotor</LetterAncientGravEngineDiscoveredLabel>
+  <!-- EN: You've discovered an ancient grav engine. Destroy it to obtain a gravcore. -->
+  <LetterAncientGravEngineDiscovered>Je hebt een oude gravmotor ontdekt. Vernietig hem om een gravkern te verkrijgen.</LetterAncientGravEngineDiscovered>
+
+  <!-- EN: Gravship -->
+  <PlayerPawnsArriveMethod_Gravship>Gravschip</PlayerPawnsArriveMethod_Gravship>
+
+  <!-- Misc -->
+  <!-- EN: Toggle displaying expanding icons for landmarks. -->
+  <ShowExpandingLandmarksToggleButton>Schakel uitvouwbare icoontjes voor herkenningspunten in/uit.</ShowExpandingLandmarksToggleButton>
+
+  <!-- Mechive -->
+  <!-- EN: Before {PAWN_nameDef} stands the cerebrex core - a massive brain-like neural mesh that commands mechanoids across the planet.\n\nWith its stabilizers destroyed, {PAWN_nameDef} can now access it directly... but what should {PAWN_pronoun} do with that power? -->
+  <CerebrexCoreDialog>Voor {PAWN_nameDef} staat de cerebrex-kern – een enorme, hersenachtige neurale structuur die de mechanoïden wereldwijd aanstuurt.\n\nNu de stabilisatoren vernietigd zijn, kan {PAWN_nameDef} er direct bij... maar wat doe je met die macht?</CerebrexCoreDialog>
+  <!-- EN: Destroy the core -->
+  <CerebrexCoreOption_Destroy>De kern vernietigen</CerebrexCoreOption_Destroy>
+  <!-- EN: Scavenge technology -->
+  <CerebrexCoreOption_Scavenge>Technologie buitmaken</CerebrexCoreOption_Scavenge>
+  <!-- EN: Postpone -->
+  <CerebrexCoreOption_Postpone>Uitstellen</CerebrexCoreOption_Postpone>
+  <!-- EN: Stabilizers remaining -->
+  <StabilizersRemaining>Resterende stabilisatoren</StabilizersRemaining>
+  <!-- EN: Producing mechanoids. -->
+  <ProducingMechanoids>Produceert mechanoïden.</ProducingMechanoids>
+
+  <!-- EN: {PAWN_nameDef} begins to tear apart the hair-thin cerebral mesh inside the cerebrex core. The mesh twists and groans, as if alive. Electricity arcs among the latticework frame - then in an instant, all goes dark and lifeless.\n\nThe mechanoid whirring stops. Here, and all across the planet, mechanoids begin to permanently deactivate, no longer under the control of the mechhive.\n\nThe mechanoid threat is over. But your story continues... -->
+  <OdysseyDestroyedCredits>{PAWN_nameDef} begint het flinterdunne neurale netwerk in de cerebrex-kern uit elkaar te trekken. Het netwerk kronkelt en kraakt, alsof het leeft. Elektrische schichten flitsen door het geraamte – en dan, plotseling, dooft alles en wordt het levenloos.\n\nHet gezoem van de mechanoïden stopt. Hier, en over de hele planeet, schakelen mechanoïden permanent uit, niet langer onder controle van de mechhive.\n\nDe dreiging van de mechanoïden is voorbij. Maar jouw verhaal gaat verder...</OdysseyDestroyedCredits>
+  <!-- EN: {PAWN_nameDef} begins working to free a processing node buried within the core. The latticework frame convulses as if in agony. As {PAWN_nameDef} pulls the node free, the mesh begins to mend, repairing the damage. The core rebuilds its defences and closes.\n\nTurning the node over, {PAWN_nameDef} recoils as it sparks to life, pulsing in time with the core. In {PAWN_possessive} hand, {PAWN_nameDef} holds a weapon of untold power.\n\nThe story continues... -->
+  <OdysseyScavengedCredits>{PAWN_nameDef} probeert een verwerkingseenheid uit de kern los te maken. Het geraamte verstrakt zich alsof het pijn heeft. Zodra {PAWN_nameDef} de unit losmaakt, begint het netwerk zichzelf te herstellen, het herstelt de schade. De kern herbouwt zijn verdediging en sluit zich af.\n\n{PAWN_nameDef} draait de unit en deinst terug als deze tot leven komt, pulserend in het ritme van de kern. {PAWN_nameDef} houdt een wapen van ongekende kracht vast.\n\nHet verhaal gaat verder...</OdysseyScavengedCredits>
+
+  <!-- EN: {0} stabilizers remaining -->
+  <CoreNotInteractableStabilizersRemaining>{0} stabilisatoren resterend</CoreNotInteractableStabilizersRemaining>
+  <!-- EN: Deactivated -->
+  <CoreNotInteractableDeactivated>Gedeactiveerd</CoreNotInteractableDeactivated>
+
+  <!-- EN: Shuttle fuel -->
+  <CaravanShuttleFuel>Shuttlebrandstof</CaravanShuttleFuel>
+
+  <!-- EN: Passively scanning for orbital signals. -->
+  <OrbitalScannerScanning>Passief scannen naar orbitale signalen.</OrbitalScannerScanning>
+  <!-- EN: Locating orbital signal -->
+  <OrbitalScannerLocating>Bezig met lokaliseren van orbitale signalen</OrbitalScannerLocating>
+
+  <!-- EN: Traits -->
+  <WeaponTraits>Eigenschappen</WeaponTraits>
+  <!-- EN: Unique weapon -->
+  <UniqueWeapon>Uniek wapen</UniqueWeapon>
+
+  <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
+  <ConfirmLoseShuttle>Als je een karavaan hervormt, laat je je shuttle achter. Weet je zeker dat je wilt doorgaan?\n\nOm met je shuttle te vertrekken, selecteer je de shuttle en kies 'Start'.</ConfirmLoseShuttle>
+
+  <!-- EN: Discover a quest -->
+  <BookHasQuest>Ontdek een missie</BookHasQuest>
+  <!-- EN: discovered -->
+  <DiscoveredQuest>ontdekt</DiscoveredQuest>
+
+  <!-- EN: Your orbital scanner has detected -->
+  <QuestDiscoveredFromOrbitalScanner>Je orbitale scanner heeft het volgende ontdekt</QuestDiscoveredFromOrbitalScanner>
+  <!-- EN: {HACKER_nameDef} hacked an uplink and discovered -->
+  <QuestDiscoveredFromUplink>{HACKER_nameDef} heeft een uplink gehackt en het volgende ontdekt</QuestDiscoveredFromUplink>
+
+  <!-- Special Trainables -->
+  <!-- EN: Attack -->
+  <AnimalAttackTarget>Aanvallen</AnimalAttackTarget>
+  <!-- EN: Command this animal to attack a specific target that its master can see. -->
+  <AnimalAttackTargetDesc>Beveel dit dier om een specifiek doelwit aan te vallen dat zijn baas kan zien.</AnimalAttackTargetDesc>
+  <!-- EN: Animals attack target -->
+  <AnimalsAttackTarget>Dieren vallen doelwit aan</AnimalsAttackTarget>
+  <!-- EN: Direct all mastered animals to attack a specific target. -->
+  <AnimalsAttackTargetDesc>Stuur alle getrainde dieren om een specifiek doelwit aan te vallen.</AnimalsAttackTargetDesc>
+  <!-- EN: This animal does not have a master -->
+  <NoMaster>Dit dier heeft geen baas</NoMaster>
+  <!-- EN: This animal's master is not on this map -->
+  <MasterNotSpawned>De baas van dit dier bevindt zich niet op deze map</MasterNotSpawned>
+  <!-- EN: Not in range of master. -->
+  <MessageNotInRangeOfMaster>Buiten bereik van de baas.</MessageNotInRangeOfMaster>
+  <!-- EN: {ANIMAL_nameDef} found {FOOD_label} while foraging. -->
+  <MessageAnimalForagedFood>{ANIMAL_nameDef} vond {FOOD_label} tijdens het foerageren.</MessageAnimalForagedFood>
+  <!-- EN: Forage trained -->
+  <ForageTrained>Getraind om te foerageren</ForageTrained>
+  <!-- EN: Allow foraging -->
+  <ForageEnabled>Foerageren toestaan</ForageEnabled>
+  <!-- EN: Allow digging -->
+  <DigEnabled>Graven toestaan</DigEnabled>
+
+  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <ConfirmSealHatch>Als je de toegang van de oude opslagplaats afsluit, kan hij nooit meer open. Alles en iedereen die erin achterblijft, is voor altijd verloren.{0}\n\nWeet je zeker dat je wilt doorgaan?</ConfirmSealHatch>
+  <!-- EN: Cannot seal -->
+  <CannotChooseSealer>Kan niet afsluiten</CannotChooseSealer>
+  <!-- EN: Sealed -->
+  <Sealed>Afgesloten</Sealed>
+  <!-- EN: Permanently sealed. -->
+  <HatchSealed>Permanent verzegeld.</HatchSealed>
+  <!-- EN: Unlocked. -->
+  <HatchUnlocked>Ontgrendeld.</HatchUnlocked>
+
+  <!-- EN: A short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. It shuts down instantly if hit by an EMP. -->
+  <GravshipShieldTip>Een momentumafstotende laag die korte tijd projectielen blokkeert. Werkt tegen normale schoten en mortieren. Wordt direct uitgeschakeld door een EMP.</GravshipShieldTip> <!-- text_todo -->
+
+</LanguageData>

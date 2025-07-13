@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>baan om planeet</Orbit.label>
+  <!-- EN: 200km -->
+  <Orbit.elevationString>200 km</Orbit.elevationString>
+  <!-- EN: in -->
+  <Orbit.gerundLabel>in</Orbit.gerundLabel>
+  <!-- EN: View locations that are orbiting the planet. -->
+  <Orbit.viewGizmoTooltip>Bekijk locaties die om de planeet cirkelen.</Orbit.viewGizmoTooltip>
+  
+</LanguageData>

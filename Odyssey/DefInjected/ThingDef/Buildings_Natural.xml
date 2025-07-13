@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient light -->
+  <AncientEmergencyLight_Blue.label>oude lamp</AncientEmergencyLight_Blue.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <AncientEmergencyLight_Blue.description>Een oude lamp met een batterij met groot vermogen.</AncientEmergencyLight_Blue.description>
+  
+  <!-- EN: mechanoid light -->
+  <AncientEmergencyLight_Green.label>mechanoïde lamp</AncientEmergencyLight_Green.label>
+  <!-- EN: A light used in mechanoid facilities. The green hue is optimal for mechanoid optical arrays. -->
+  <AncientEmergencyLight_Green.description>Een lamp gebruikt in mechanoïde-faciliteiten. De groene kleur is ideaal voor het optische vermogen van mechanoïden.</AncientEmergencyLight_Green.description>
+  
+  <!-- EN: ancient emergency light -->
+  <AncientEmergencyLight_Red.label>oude noodlamp</AncientEmergencyLight_Red.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <AncientEmergencyLight_Red.description>Een oude lamp met een batterij met groot vermogen.</AncientEmergencyLight_Red.description>
+  
+  <!-- EN: ancient heat vent -->
+  <AncientHeatVent.label>oude hitteschacht</AncientHeatVent.label>
+  <!-- EN: A massive duct that drops endlessly into the ground. It will regularly vent heat from an underground megastructure, dramatically raising the temperature of the surrounding area. -->
+  <AncientHeatVent.description>Een gigantisch kanaal dat eindeloos diep de grond in gaat. Het voert regelmatig warmte af uit een ondergrondse megaconstructie, waardoor de temperatuur in de omgeving sterk stijgt.</AncientHeatVent.description>
+  
+  <!-- EN: ancient smoke vent -->
+  <AncientSmokeVent.label>oude rookschacht</AncientSmokeVent.label>
+  <!-- EN: The exhaust vent of some long forgotten underground megastructure. It periodically vents a large amount of smoke, blocking the sun for days at a time. -->
+  <AncientSmokeVent.description>De uitlaatschacht van een lang vergeten ondergrondse megaconstructie. Hij stoot periodiek grote hoeveelheden rook uit, waardoor de zon dagenlang wordt geblokkeerd.</AncientSmokeVent.description>
+  
+  <!-- EN: ancient toxic vent -->
+  <AncientToxVent.label>oude gifschacht</AncientToxVent.label>
+  <!-- EN: A massive duct that vents toxic fumes from an underground megastructure. It will regularly cause toxic fallout in the area. -->
+  <AncientToxVent.description>Een gigantisch kanaal dat giftige dampen uit een ondergrondse megaconstructie afvoert. Het veroorzaakt regelmatig giftige neerslag in het gebied.</AncientToxVent.description>
+  
+  <!-- EN: burrow wall -->
+  <BurrowWall.label>holwand</BurrowWall.label>
+  <!-- EN: A compact mix of dirt, rock, and insect secretion. -->
+  <BurrowWall.description>Een compacte mix van aarde, steen en insectenafscheiding.</BurrowWall.description>
+  
+  <!-- EN: sulfur spout -->
+  <GeothermalVent.label>zwavelbron</GeothermalVent.label>
+  <!-- EN: A naturally-occurring break in the ground from which volcanic gases escape. These vents bring nutrients to the surface from deep underground. Collectively, the fumes they spew are enough to block out the sun. -->
+  <GeothermalVent.description>Een natuurlijk voorkomende opening waaruit vulkanische gassen ontsnappen. Deze bronnen brengen voedingsstoffen van diep onder de grond naar de oppervlakte. De uitgestoten dampen kunnen de zon blokkeren.</GeothermalVent.description>
+  
+  <!-- EN: cave entrance -->
+  <InsectLairEntrance.label>grotingang</InsectLairEntrance.label>
+  <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
+  <InsectLairEntrance.description>De ingang van een grottenstelsel. Het is mogelijk om af te dalen in de onderliggende grotten.</InsectLairEntrance.description>
+  
+  <!-- EN: life support unit -->
+  <LifeSupportUnit.label>overlevingsunit</LifeSupportUnit.label>
+  <!-- EN: A unit connected to the orbital platform's larger life support network. It keeps rooms heated and pressurized. -->
+  <LifeSupportUnit.description>Een unit die verbonden is met het grotere overlevingssysteem van het orbitale platform. Het zorgt voor warmte en luchtdruk.</LifeSupportUnit.description>
+  
+  <!-- EN: obsidian -->
+  <MineableObsidian.label>obsidiaan</MineableObsidian.label>
+  <!-- EN: Volcanic rock formed by rapidly cooling lava. It can be mined for obsidian glass. -->
+  <MineableObsidian.description>Vulkanisch gesteente gevormd door snel afkoelende lava. Het kan worden gewonnen voor obsidiaanglas.</MineableObsidian.description>
+  
+</LanguageData>

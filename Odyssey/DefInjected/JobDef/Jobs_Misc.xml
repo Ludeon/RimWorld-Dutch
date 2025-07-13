@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deactivated. -->
+  <Deactivated.reportString>gedeactiveerd.</Deactivated.reportString>
+  
+  <!-- EN: fishing. -->
+  <Fish.reportString>aan het vissen.</Fish.reportString>
+  
+  <!-- EN: fishing. -->
+  <FishAnimal.reportString>aan het vissen.</FishAnimal.reportString>
+  
+  <!-- EN: foraging for food. -->
+  <Forage.reportString>voedsel aan het zoeken.</Forage.reportString>
+  
+  <!-- EN: seeking oxygen. -->
+  <GotoOxygenatedArea.reportString>aan het zoeken naar zuurstof.</GotoOxygenatedArea.reportString>
+  
+  <!-- EN: patrolling. -->
+  <GotoPatrolDest.reportString>aan het patrouilleren.</GotoPatrolDest.reportString>
+  
+  <!-- EN: going to ship. -->
+  <GotoShip.reportString>onderweg naar het schip.</GotoShip.reportString>
+  
+  <!-- EN: inspecting TargetA. -->
+  <InspectGravEngine.reportString>TargetA aan het inspecteren.</InspectGravEngine.reportString>
+  
+  <!-- EN: operating TargetA. -->
+  <PilotConsole.reportString>TargetA aan het bedienen.</PilotConsole.reportString>
+  
+  <!-- EN: putting TargetA on TargetB. -->
+  <PutApparelOnOutfitStand.reportString>TargetA op TargetB aan het plaatsen.</PutApparelOnOutfitStand.reportString>
+  
+  <!-- EN: sealing TargetA. -->
+  <Seal.reportString>TargetA aan het verzegelen.</Seal.reportString>
+  
+  <!-- EN: swapping outfit with TargetA. -->
+  <UseOutfitStand.reportString>outfit aan het wisselen met TargetA.</UseOutfitStand.reportString>
+  
+</LanguageData>

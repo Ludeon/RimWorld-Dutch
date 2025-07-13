@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hunter trap -->
+  <HunterDroneTrap.label>jagerval</HunterDroneTrap.label>
+  <!-- EN: A dormant hunter drone that activates when it detects a threat. The hunter drone closes with the target and detonates. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. -->
+  <HunterDroneTrap.description>Een slapende jagerdrone die geactiveerd wordt zodra hij een bedreiging detecteert. De jagerdrone jaagt op het doelwit en ontploft vervolgens. Omdat hij verborgen is in het omliggende terrein, kan hij niet direct naast andere vallen geplaatst worden.</HunterDroneTrap.description>
+  
+  <!-- EN: wasp trap -->
+  <WaspDroneTrap.label>wespenval</WaspDroneTrap.label>
+  <!-- EN: Several dormant wasp drones. They activate when they detect threats, injecting their target with a paralytic biotoxin. -->
+  <WaspDroneTrap.description>Meerdere slapende wespdrones. Ze worden geactiveerd wanneer ze een bedreiging waarnemen en injecteren hun doelwit met een verlammende biotoxine.</WaspDroneTrap.description>
+  
+</LanguageData>

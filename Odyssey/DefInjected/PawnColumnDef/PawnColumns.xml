@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dig -->
+  <AnimalDig.headerTip>Graven</AnimalDig.headerTip>
+  
+  <!-- EN: Forage -->
+  <AnimalForage.headerTip>Voedsel zoeken</AnimalForage.headerTip>
+  
+  <!-- EN: Special training\n\nIncludes any uncommon behaviors this animal can be trained to do. -->
+  <SpecialTrainable.headerTip>Speciale training\n\nAl het ongewone gedrag dat dit dier kan leren.</SpecialTrainable.headerTip>
+  
+</LanguageData>

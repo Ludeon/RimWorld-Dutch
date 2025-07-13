@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s curse</li>
+    <li>terrain_word(p=2)->town</li>
+    <li>terrain_word->outpost</li>
+    <li>terrain_word->ghost town</li>
+  -->
+  <NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->de vloek van [NamePerson]</li>
+    <li>terrain_word(p=2)->kleine stad</li>
+    <li>terrain_word->buitenpost</li>
+    <li>terrain_word_neut->spookdorp</li>
+  </NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->village</li>
+    <li>terrain_word->camp</li>
+  -->
+  <NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
+    <li>terrain_word_neut(p=2)->dorp</li>
+    <li>terrain_word_neut->kamp</li>
+  </NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->heat vents</li>
+    <li>terrain_word->thermal vents</li>
+    <li>terrain_word->infernal vents</li>
+    <li>terrain_word->hell holes</li>
+    <li>terrain_word->heat ducts</li>
+  -->
+  <NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->warmteschachten</li>
+    <li>terrain_word->thermische schachten</li>
+    <li>terrain_word->infernoschachten</li>
+    <li>terrain_word->hellegaten</li>
+    <li>terrain_word->warmtekanalen</li>
+  </NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->excavation site</li>
+    <li>terrain_word->quarry</li>
+    <li>terrain_word->mines</li>
+    <li>terrain_word->rock pits</li>
+  -->
+  <NamerLandmark_AncientQuarry.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->opgravingsterrein</li>
+    <li>terrain_word->steengroeve</li>
+    <li>terrain_word->mijnen</li>
+    <li>terrain_word->steengaten</li>
+  </NamerLandmark_AncientQuarry.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->exhaust duct</li>
+    <li>terrain_word->vents</li>
+    <li>terrain_word->fumaroles</li>
+    <li>terrain_word->chimneys</li>
+    <li>terrain_word->smokestacks</li>
+  -->
+  <NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
+    <li>terrain_word_neut(p=2)->uitlaatkanaal</li>
+    <li>terrain_word->schachten</li>
+    <li>terrain_word->fumarolen</li>
+    <li>terrain_word->schoorstenen</li>
+    <li>terrain_word->rookpijpen</li>
+  </NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->tox vents</li>
+    <li>terrain_word->poison vents</li>
+    <li>terrain_word->noxious vents</li>
+    <li>terrain_word->toxic ducts</li>
+    <li>terrain_word->fume vents</li>
+  -->
+  <NamerLandmark_AncientToxVent.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->toxische schachten</li>
+    <li>terrain_word->gifschachten</li>
+    <li>terrain_word->schadelijke schachten</li>
+    <li>terrain_word->gifkanalen</li>
+    <li>terrain_word->dampschachten</li>
+  </NamerLandmark_AncientToxVent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->islands</li>
+    <li>terrain_word(p=3)->isles</li>
+    <li>terrain_word(p=3)->archipelago</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->rocks</li>
+    <li>terrain_word->islets</li>
+    <li>terrain_word->points</li>
+    <li>terrain_word->chain</li>
+  -->
+  <NamerLandmark_Archipelago.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->eilandje [narrative_nameGendered]</li>
+	<li>r_name(p=0.2)->->eilandje [narrative_nameNeuter]</li>
+    <li>terrain_word(p=4)->eilanden</li>
+    <li>terrain_word(p=3)->eilandjes</li>
+    <li>terrain_word(p=3)->archipel</li>
+    <li>terrain_word_neut->rif</li>
+    <li>terrain_word->rotsen</li>
+    <li>terrain_word->kleine eilanden</li>
+    <li>terrain_word->kaapjes</li>
+    <li>terrain_word->keten</li>
+  </NamerLandmark_Archipelago.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->circle</li>
+  -->
+  <NamerLandmark_Atoll.rulePack.rulesStrings>
+    <li>terrain_word_neut->atol</li>
+    <li>terrain_word->cirkel</li>
+  </NamerLandmark_Atoll.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->basin</li>
+    <li>terrain_word->alpine lake</li>
+  -->
+  <NamerLandmark_Basin.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->bekken</li>
+    <li>terrain_word_neut->bergmeer</li>
+  </NamerLandmark_Basin.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>terrain_word(p=6)->bay</li>
+    <li>terrain_word->bight</li>
+    <li>terrain_word->gulf</li>
+    <li>terrain_word->anchorage</li>
+    <li>terrain_word->cove</li>
+  -->
+  <NamerLandmark_Bay.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->golf van [narrative_name]</li>
+    <li>terrain_word(p=6)->baai</li>
+    <li>terrain_word->ondiepe baai</li>
+    <li>terrain_word->golf</li>
+    <li>terrain_word->ankerplaats</li>
+    <li>terrain_word->inham</li>
+  </NamerLandmark_Bay.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s caves</li>
+    <li>terrain_word(p=2)->cavern</li>
+    <li>terrain_word->tunnel</li>
+    <li>terrain_word->cave network</li>
+    <li>terrain_word->caverns</li>
+  -->
+  <NamerLandmark_Cavern.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->grotten van [NamePerson]</li>
+    <li>terrain_word(p=2)->grot</li>
+    <li>terrain_word->tunnel</li>
+    <li>terrain_word_neut->grottenstelsel</li>
+    <li>terrain_word->grotten</li>
+  </NamerLandmark_Cavern.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->chasm</li>
+    <li>terrain_word->sinkhole</li>
+    <li>terrain_word->fracture</li>
+  -->
+  <NamerLandmark_Chasm.rulePack.rulesStrings>
+    <li>terrain_word->afgrond</li>
+    <li>terrain_word_neut->zinkgat</li>
+    <li>terrain_word->breuk</li>
+  </NamerLandmark_Chasm.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s [terrain_word]</li>
+    <li>terrain_word(p=2)->refinery</li>
+    <li>terrain_word->plant</li>
+    <li>terrain_word->chemplant</li>
+  -->
+  <NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[terrain_word] van [NamePerson]</li>
+	<li>r_name(p=0.2)->[terrain_word_neut] van [NamePerson]</li>
+    <li>terrain_word(p=2)->raffinaderij</li>
+    <li>terrain_word->fabriek</li>
+    <li>terrain_word->chemische fabriek</li>
+  </NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s end</li>
+    <li>terrain_word(p=2)->cliffs</li>
+    <li>terrain_word->rampart</li>
+    <li>terrain_word->wall</li>
+  -->
+  <NamerLandmark_Cliffs.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->land van [NamePerson]</li>
+    <li>terrain_word(p=2)->kliffen</li>
+    <li>terrain_word->wal</li>
+    <li>terrain_word->muur</li>
+  </NamerLandmark_Cliffs.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->island</li>
+    <li>terrain_word(p=2)->isle</li>
+    <li>terrain_word->islet</li>
+  -->
+  <NamerLandmark_CoastalIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->eilandje [narrative_name]</li>
+    <li>terrain_word_neut(p=4)->eiland</li>
+    <li>terrain_word_neut(p=2)->eilandje</li>
+    <li>terrain_word_neut->klein eiland</li>
+  </NamerLandmark_CoastalIsland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=3)->crevasse</li>
+    <li>terrain_word->break</li>
+    <li>terrain_word->fissure</li>
+  -->
+  <NamerLandmark_Crevasse.rulePack.rulesStrings>
+    <li>terrain_word(p=3)->spleet</li>
+    <li>terrain_word->barst</li>
+    <li>terrain_word->scheur</li>
+  </NamerLandmark_Crevasse.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->dry lake</li>
+    <li>terrain_word->sand lake</li>
+    <li>terrain_word->salt flat</li>
+    <li>terrain_word->barren lake</li>
+    <li>terrain_word->sand pit</li>
+  -->
+  <NamerLandmark_DryLake.rulePack.rulesStrings>
+    <li>terrain_word_neut->droog meer</li>
+    <li>terrain_word_neut->zandmeer</li>
+    <li>terrain_word->zoutvlakte</li>
+    <li>terrain_word_neut->onvruchtbaar meer</li>
+    <li>terrain_word->zandkuil</li>
+  </NamerLandmark_DryLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->dunes</li>
+    <li>terrain_word->wastes</li>
+  -->
+  <NamerLandmark_Dunes.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->duinen</li>
+    <li>terrain_word->woestenij</li>
+  </NamerLandmark_Dunes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->fjord</li>
+    <li>terrain_word->inlet</li>
+    <li>terrain_word->sound</li>
+  -->
+  <NamerLandmark_Fjord.rulePack.rulesStrings>
+    <li>terrain_word_neut(p=2)->fjord</li>
+    <li>terrain_word->zeearm</li>
+    <li>terrain_word->zee-engte</li>
+  </NamerLandmark_Fjord.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[ruin_adjective] [narrative_name]</li>
+    <li>ruin_adjective->ruined</li>
+    <li>ruin_adjective->frozen</li>
+    <li>terrain_word(p=2)->frozen ruins</li>
+    <li>terrain_word->ice city</li>
+    <li>terrain_word->city</li>
+  -->
+  <NamerLandmark_FrozenRuins.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[ruin_adjective] [narrative_nameNeuter</li>
+	<li>r_name(p=0.4)->[ruin_adjective_infl] [narrative_nameGendered]</li>
+    <li>ruin_adjective->verwoest</li>
+	<li>ruin_adjective_infl->verwoeste</li>
+    <li>ruin_adjective->bevroren</li>
+	<li>ruin_adjective_infl->bevroren</li>
+    <li>terrain_word(p=2)->bevroren ruïnes</li>
+    <li>terrain_word->ijsstad</li>
+    <li>terrain_word->stad</li>
+  </NamerLandmark_FrozenRuins.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->Fort [narrative_name]</li>
+    <li>r_name(p=0.4)->[NamePerson]'s [terrain_word]</li>
+    <li>terrain_word(p=2)->garrison</li>
+    <li>terrain_word->armory</li>
+    <li>terrain_word->station</li>
+    <li>terrain_word->base</li>
+    <li>terrain_word->fort</li>
+    <li>terrain_word(p=0.5)->stronghold</li>
+    <li>terrain_word(p=0.5)->military base</li>
+  -->
+  <NamerLandmark_Garrison.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->Fort [narrative_name]</li>
+    <li>r_name(p=0.4)->[terrain_word] van [NamePerson]</li>
+	<li>r_name(p=0.4)->[terrain_word_neut] van [NamePerson]</li>
+    <li>terrain_word_neut(p=2)->garnizoen</li>
+    <li>terrain_word_neut->arsenaal</li>
+    <li>terrain_word_neut->station</li>
+    <li>terrain_word->basis</li>
+    <li>terrain_word_neut->fort</li>
+    <li>terrain_word(p=0.5)->vesting</li>
+    <li>terrain_word(p=0.5)->militaire basis</li>
+  </NamerLandmark_Garrison.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->port [NamePerson]</li>
+    <li>terrain_word->harbor</li>
+    <li>terrain_word->port</li>
+  -->
+  <NamerLandmark_Harbor.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[NamePerson]-haven</li>
+    <li>terrain_word->havenplaats</li>
+    <li>terrain_word->haven</li>
+  </NamerLandmark_Harbor.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s hideout</li>
+    <li>terrain_word->hollow</li>
+  -->
+  <NamerLandmark_Hollow.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->schuilplaats van [NamePerson]</li>
+    <li>terrain_word->holte</li>
+  </NamerLandmark_Hollow.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s bath</li>
+    <li>terrain_word(p=2)->hot spring</li>
+    <li>terrain_word(p=2)->hot springs</li>
+    <li>terrain_word->spring</li>
+    <li>terrain_word->springs</li>
+  -->
+  <NamerLandmark_HotSprings.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->bad van [NamePerson]</li>
+    <li>terrain_word(p=2)->warmwaterbron</li>
+    <li>terrain_word(p=2)->warmwaterbronnen</li>
+    <li>terrain_word->bron</li>
+    <li>terrain_word->bronnen</li>
+  </NamerLandmark_HotSprings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->iceberg</li>
+    <li>terrain_word->berg</li>
+  -->
+  <NamerLandmark_Iceberg.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ijsberg</li>
+    <li>terrain_word->berg</li>
+  </NamerLandmark_Iceberg.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->ice dunes</li>
+    <li>terrain_word->ice mounds</li>
+    <li>terrain_word->frozen hills</li>
+  -->
+  <NamerLandmark_IceDunes.rulePack.rulesStrings>
+    <li>terrain_word->ijsduinen</li>
+    <li>terrain_word->ijsheuvels</li>
+    <li>terrain_word->bevroren heuvels</li>
+  </NamerLandmark_IceDunes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=18)->[fallen] [townname_wordgen]</li>
+    <li>r_name(p=18)->[townname_wordgen] hive</li>
+    <li>fallen->fallen</li>
+    <li>fallen->infested</li>
+  -->
+  <NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
+    <li>r_name(p=18)->[fallen] [townname_wordgen]</li>
+    <li>r_name(p=18)->[townname_wordgen]-nest</li>
+    <li>fallen->gevallen</li>
+    <li>fallen->geïnfecteerd</li>
+  </NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->lake</li>
+    <li>terrain_word->reservoir</li>
+    <li>terrain_word->loch</li>
+  -->
+  <NamerLandmark_Lake.rulePack.rulesStrings>
+    <li>terrain_word_neut(p=4)->meer</li>
+    <li>terrain_word_neut->reservoir</li>
+    <li>terrain_word_neut->loch</li>
+  </NamerLandmark_Lake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[NamePerson]'s [terrain_word]</li>
+    <li>terrain_word(p=2)->launch site</li>
+    <li>terrain_word->launch pads</li>
+  -->
+  <NamerLandmark_LaunchSite.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[terrain_word] van [NamePerson]</li>
+	<li>r_name(p=0.4)->[terrain_word_neut] van [NamePerson]</li>
+    <li>terrain_word(p=2)->lanceerbasis</li>
+    <li>terrain_word->lanceerplatforms</li>
+  </NamerLandmark_LaunchSite.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s hellscape</li>
+    <li>r_name(p=0.2)->[NamePerson]'s inferno</li>
+    <li>terrain_word->volcanic flow</li>
+    <li>terrain_word->lava flow</li>
+  -->
+  <NamerLandmark_LavaFlow.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->hels landschap van [NamePerson]</li>
+    <li>r_name(p=0.2)->inferno van [NamePerson]</li>
+    <li>terrain_word->vulkanische stroom</li>
+    <li>terrain_word->lavastroom</li>
+  </NamerLandmark_LavaFlow.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=2)->crater</li>
+    <li>terrain_word->furnace</li>
+    <li>terrain_word->inferno</li>
+    <li>terrain_word->lava pool</li>
+  -->
+  <NamerLandmark_LavaLake.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->krater</li>
+    <li>terrain_word->warmtehaard</li>
+    <li>terrain_word->inferno</li>
+    <li>terrain_word_neut->lavameer</li>
+  </NamerLandmark_LavaLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->oasis</li>
+    <li>terrain_word->haven</li>
+    <li>terrain_word->refuge</li>
+  -->
+  <NamerLandmark_Oasis.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->oase</li>
+    <li>terrain_word_neut->toevluchtsoord</li>
+    <li>terrain_word->schuilplaats</li>
+  </NamerLandmark_Oasis.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->point [narrative_name]</li>
+    <li>r_name(p=0.2)->cape [narrative_name]</li>
+    <li>terrain_word(p=5)->peninsula</li>
+    <li>terrain_word(p=2)->point</li>
+    <li>terrain_word->cape</li>
+    <li>terrain_word->headland</li>
+    <li>terrain_word->horn</li>
+  -->
+  <NamerLandmark_Peninsula.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->punt [narrative_name]</li>
+    <li>r_name(p=0.2)->kaap [narrative_name]</li>
+    <li>terrain_word_neut(p=5)->schiereiland</li>
+    <li>terrain_word_neut(p=2)->punt</li>
+    <li>terrain_word->kaap</li>
+    <li>terrain_word->landtong</li>
+    <li>terrain_word->hoorn</li>
+  </NamerLandmark_Peninsula.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->plateau</li>
+    <li>terrain_word->mesa</li>
+    <li>terrain_word->mountain</li>
+    <li>terrain_word->rise</li>
+    <li>terrain_word->butte</li>
+  -->
+  <NamerLandmark_Plateau.rulePack.rulesStrings>
+    <li>terrain_word_neut->plateau</li>
+    <li>terrain_word->mesa</li>
+    <li>terrain_word->berg</li>
+    <li>terrain_word->opstuwing</li>
+    <li>terrain_word->mesaheuvel</li>
+  </NamerLandmark_Plateau.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->pond</li>
+    <li>terrain_word->puddle</li>
+    <li>terrain_word->pool</li>
+    <li>terrain_word->waterhole</li>
+  -->
+  <NamerLandmark_Pond.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->vijver</li>
+    <li>terrain_word->plas</li>
+    <li>terrain_word->poel</li>
+    <li>terrain_word->waterpoel</li>
+  </NamerLandmark_Pond.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[ruin_adjective] [narrative_name]</li>
+    <li>r_name(p=0.2)->[NamePerson]'s [story_result]</li>
+    <li>ruin_adjective->ruined</li>
+    <li>ruin_adjective->dilapidated</li>
+    <li>terrain_word(p=2)->ruins</li>
+    <li>terrain_word->city</li>
+    <li>terrain_word->town</li>
+  -->
+  <NamerLandmark_Ruins.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[ruin_adjective] [narrative_nameNeuter]</li>
+	<li>r_name(p=0.4)->[ruin_adjective_infl] [narrative_nameGendered]</li>
+    <li>r_name(p=0.2)->[story_result] van [NamePerson]</li>
+    <li>ruin_adjective->verwoest</li>
+	<li>ruin_adjective_infl->verwoeste</li>
+    <li>ruin_adjective->bouwvallig</li>
+	<li>ruin_adjective_infl->bouwvallige</li>
+    <li>terrain_word(p=2)->ruïnes</li>
+    <li>terrain_word->stad</li>
+    <li>terrain_word_neut->stadje</li>
+  </NamerLandmark_Ruins.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[NamePerson]'s [terrain_word]</li>
+    <li>r_name(p=0.2)->[NamePerson]'s [mistake]</li>
+    <li>r_name(p=0.2)->The [large] [terrain_word]</li>
+    <li>r_name(p=0.1)->[dread] [terrain_word]</li>
+    <li>r_name(p=0.05)->The [terrain_word]</li>
+    <li>terrain_word(p=3)->scar</li>
+    <li>terrain_word->rift</li>
+    <li>terrain_word->sundering</li>
+    <li>terrain_word->wound</li>
+    <li>terrain_word->fault</li>
+    <li>terrain_word->howl</li>
+    <li>mistake->mistake</li>
+    <li>mistake->folly</li>
+    <li>mistake->delusion</li>
+    <li>mistake->flaw</li>
+    <li>large->great</li>
+    <li>large->grand</li>
+    <li>dread->dread</li>
+    <li>dread->grim</li>
+    <li>dread->vile</li>
+    <li>dread->dark</li>
+  -->
+  <NamerLandmark_TerraformingScar.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[terrain_word] van [NamePerson]</li>
+    <li>r_name(p=0.2)->[mistake] van [NamePerson]</li>
+    <li>r_name(p=0.2)->De [large] [terrain_word]</li>
+	<li>r_name(p=0.2)->Het [large] [terrain_word_neut]</li>
+    <li>r_name(p=0.1)->[dread] [terrain_word_neut]</li>
+	<li>r_name(p=0.1)->[dread_infl] [terrain_word]</li>
+    <li>r_name(p=0.05)->De [terrain_word]</li>
+	<li>r_name(p=0.05)->Het [terrain_word_neut]</li>
+    <li>terrain_word_neut(p=3)->litteken</li>
+    <li>terrain_word->breuk</li>
+    <li>terrain_word->scheuring</li>
+    <li>terrain_word->wond</li>
+    <li>terrain_word->breuklijn</li>
+    <li>terrain_word->brul</li>
+    <li>mistake->fout</li>
+    <li>mistake->dwaasheid</li>
+    <li>mistake->waanbeeld</li>
+    <li>mistake->gebrek</li>
+    <li>large->grote</li>
+    <li>large->geweldige</li>
+    <li>dread->afgrijselijk</li>
+	<li>dread_infl->afgrijselijke</li>
+    <li>dread->grimmig</li>
+	<li>dread_infl->grimmige</li>
+    <li>dread->verderfelijk</li>
+	<li>dread_infl->verderfelijke</li>
+    <li>dread->donker</li>
+	<li>dread_infl->donkere</li>
+  </NamerLandmark_TerraformingScar.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.05)->[NamePerson]'s poison</li>
+    <li>r_name(p=0.05)->[NamePerson]'s blight</li>
+    <li>r_name(p=0.05)->[NamePerson]'s dumping grounds</li>
+    <li>terrain_word->toxic lake</li>
+    <li>terrain_word->poison lake</li>
+  -->
+  <NamerLandmark_ToxicLake.rulePack.rulesStrings>
+    <li>r_name(p=0.05)->gif van [NamePerson]</li>
+    <li>r_name(p=0.05)->besmetting van [NamePerson]</li>
+    <li>r_name(p=0.05)->stortplaats van [NamePerson]</li>
+    <li>terrain_word_neut->toxisch meer</li>
+    <li>terrain_word_neut->gifmeer</li>
+  </NamerLandmark_ToxicLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->valley</li>
+    <li>terrain_word(p=3)->gully</li>
+    <li>terrain_word(p=3)->canyon</li>
+    <li>terrain_word->vale</li>
+    <li>terrain_word->ravine</li>
+    <li>terrain_word->gorge</li>
+    <li>terrain_word->gulch</li>
+    <li>terrain_word->divide</li>
+  -->
+  <NamerLandmark_Valley.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->vallei</li>
+    <li>terrain_word(p=3)->geul</li>
+    <li>terrain_word(p=3)->canyon</li>
+    <li>terrain_word_neut->lengtedal</li>
+    <li>terrain_word_neut->ravijn</li>
+    <li>terrain_word->diepe vallei</li>
+    <li>terrain_word->kloof</li>
+    <li>terrain_word->scheiding</li>
+  </NamerLandmark_Valley.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[NamePerson]'s [terrain_word]</li>
+    <li>terrain_word(p=2)->warehouse</li>
+    <li>terrain_word->depot</li>
+    <li>terrain_word->storehouse</li>
+  -->
+  <NamerLandmark_Warehouse.rulePack.rulesStrings>
+    <li>r_name->[terrain_word] van [NamePerson]</li>
+	<li>r_name(p=3)->[terrain_word_neut] van [NamePerson]</li>
+    <li>terrain_word_neut(p=2)->magazijn</li>
+    <li>terrain_word_neut->depot</li>
+    <li>terrain_word->opslagplaats</li>
+  </NamerLandmark_Warehouse.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[NamePerson]'s [terrain_word]</li>
+    <li>terrain_word(p=2)->wetlands</li>
+    <li>terrain_word->marsh</li>
+    <li>terrain_word->quagmire</li>
+    <li>terrain_word->bog</li>
+    <li>terrain_word->fen</li>
+  -->
+  <NamerLandmark_Wetland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[terrain_word] van [NamePerson]</li>
+	<li>r_name(p=0.5)->[terrain_word_neut] van [NamePerson]</li>
+    <li>terrain_word(p=2)->draslanden</li>
+    <li>terrain_word_neut->moeras</li>
+    <li>terrain_word_neut->waterland</li>
+    <li>terrain_word_neut->veen</li>
+    <li>terrain_word->zomp</li>
+  </NamerLandmark_Wetland.rulePack.rulesStrings>
+  
+</LanguageData>

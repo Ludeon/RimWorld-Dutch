@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+  <!-- EN: Fishing zone -->
+  <Zone_Fishing>Viszone</Zone_Fishing>
+  <!-- EN: fishing -->
+  <FishingGroup>vissen</FishingGroup>
+  <!-- EN: Create an area where your hunters will fish. Must be placed over water containing fish. Larger bodies of water are generally better for fishing. -->
+  <DesignatorFishingZoneDesc>Creëer een zone waar je jagers kunnen vissen. Moet geplaatst worden boven water dat vis bevat. Grotere watermassa's zijn over het algemeen beter geschikt om in te vissen.</DesignatorFishingZoneDesc>
+
+  <!-- Override snow clearing => snow and sand clearing -->
+  <!-- EN: Snow and sand removal area -->
+  <DesignatorAreaSnowOrSandClearExpand>Sneeuw- en zandverwijderingszone</DesignatorAreaSnowOrSandClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow and sand. -->
+  <DesignatorAreaSnowOrSandClearExpandDesc>Creëer een zone die de kolonisten sneeuw- en zandvrij proberen te houden.</DesignatorAreaSnowOrSandClearExpandDesc>
+  <!-- EN: Clear snow and sand removal area -->
+  <DesignatorAreaSnowOrSandClearClear>Sneeuw- en zandverwijderingszone verwijderen</DesignatorAreaSnowOrSandClearClear>
+  <!-- EN: Removes a snow and sand removal area. Colonists will no longer try to keep this area clear of snow and sand. -->
+  <DesignatorAreaSnowOrSandClearClearDesc>Verwijdert een sneeuw- en zandverwijderingszone. Kolonisten zullen dit gebied niet langer vrij proberen te houden van sneeuw en zand.</DesignatorAreaSnowOrSandClearClearDesc>
+
+  <!-- EN: Remove foundation -->
+  <DesignatorRemoveFoundation>Fundering verwijderen</DesignatorRemoveFoundation>
+  <!-- EN: Remove bridges or gravship substructure to reveal the terrain underneath. -->
+  <DesignatorRemoveFoundationDesc>Verwijder bruggen of gravschip-substructuur om het onderliggende terrein zichtbaar te maken.</DesignatorRemoveFoundationDesc>
+
+  <!-- EN: Move landing zone -->
+  <DesignatorMoveGravship>Landingszone verplaatsen</DesignatorMoveGravship>
+  <!-- EN: Reposition the gravship's landing spot. -->
+  <DesignatorMoveGravshipDesc>Verplaats het landingszone van het gravschip.</DesignatorMoveGravshipDesc>
+</LanguageData>

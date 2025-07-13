@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpha thrumbo horn -->
+  <AlphaThrumboHorn.label>alfa-drumbohoorn</AlphaThrumboHorn.label>
+  <!-- EN: An alpha thrumbo's horn. It's razor-sharp and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.\n\nThe alpha horn is much lighter than a normal thrumbo horn, making it much faster to wield. -->
+  <AlphaThrumboHorn.description>De hoorn van een alfa-drumbo. Hij is vlijmscherp en vreselijk duur op de meeste markten. Dit is een ware trofee, maar ook een dodelijk wapen voor handgevechten.\n\nDe alfahoorn is veel lichter dan een normale drumbohoorn, waardoor hij veel sneller te hanteren is.</AlphaThrumboHorn.description>
+  <!-- EN: point -->
+  <AlphaThrumboHorn.tools.point.label>punt</AlphaThrumboHorn.tools.point.label>
+  <!-- EN: base -->
+  <AlphaThrumboHorn.tools.base.label>basis</AlphaThrumboHorn.tools.base.label>
+  
+  <!-- EN: mastodon tusk -->
+  <MastodonTusk.label>mastodontslagtand</MastodonTusk.label>
+  <!-- EN: A mastodon's tusk. Traders pay handsomely for samples like this. While somewhat unwieldy as a melee weapon, it still hits quite hard. -->
+  <MastodonTusk.description>Een slagtand van een mastodont. Handelaren betalen flink voor dit soort exemplaren. Hoewel het een wat onhandig wapen is voor handgevechten, kun je er nog steeds harde klappen mee uitdelen.</MastodonTusk.description>
+  <!-- EN: point -->
+  <MastodonTusk.tools.point.label>punt</MastodonTusk.tools.point.label>
+  <!-- EN: base -->
+  <MastodonTusk.tools.base.label>basis</MastodonTusk.tools.base.label>
+  
+  <!-- EN: sentience catalyst -->
+  <SentienceCatalyst.label>cognitiekatalysator</SentienceCatalyst.label>
+  <!-- EN: A single-use dose of mechanites used to enhance neural pathways in animals, permanently increasing their trainability and reducing their wildness.\n\nThe effect does not stack. -->
+  <SentienceCatalyst.description>Een eenmalige dosis mechanieten die wordt gebruikt om neurale banen bij dieren te versterken, waardoor hun trainbaarheid permanent wordt verhoogd en ze tammer worden.\n\nHet effect stapelt niet.</SentienceCatalyst.description>
+  <!-- EN: Use {0_label} -->
+  <SentienceCatalyst.comps.CompUsable.useLabel>{0_label} gebruiken</SentienceCatalyst.comps.CompUsable.useLabel>
+  
+</LanguageData>

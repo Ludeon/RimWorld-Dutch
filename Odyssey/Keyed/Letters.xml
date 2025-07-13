@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {FACTION_pawnsPlural} from {FACTION_name} are attacking! They've used the gravcore to lure you into an ambush. -->
+  <GravcoreAbandonedSettlementRaid>{FACTION_pawnsPlural} van {FACTION_name} vallen aan! Ze hebben de gravkern gebruikt om je in een hinderlaag te lokken.</GravcoreAbandonedSettlementRaid>
+  <!-- EN: More reinforcements are on their way, and will arrive in the next few days. Prepare for their attack, or escape before they arrive. -->
+  <GravcoreAbandonedSettlementRaid_Reinforcements>Meer versterkingen zijn onderweg en zullen binnen enkele dagen arriveren. Bereid je voor op hun aanval, of vlucht voordat ze aankomen.</GravcoreAbandonedSettlementRaid_Reinforcements>
+  
+  <!-- EN: Relay defense response -->
+  <GravcoreMechRelayRaidLetterLabel>Relaisverdedigingsreactie</GravcoreMechRelayRaidLetterLabel>
+  <!-- EN: Mechanoids are arriving to defend the relay!\n\nThey are arriving by transport pod and will attack immediately. -->
+  <GravcoreMechRelayRaidLetterText>Mechanoïden arriveren om het relais te verdedigen!\n\nZe komen aan met transportpods en zullen direct aanvallen.</GravcoreMechRelayRaidLetterText>
+  
+  <!-- EN: Amongst the remnants of the crashed mechanoid platform, a still-intact grav engine hums with energy.\n\nYou can build ship substructure around the engine to create a new gravship. The engine pushes against gravity, levitating the ship and allowing long-distance travel.\n\nLaunch a gravship by researching gravship construction, then building fuel tanks, thrusters, and a pilot console.\n\nLaunching a gravship will abandon your current map.\n\n  - Research unlocked: Gravship construction\n  - Flooring unlocked: Ship substructure -->
+  <GravEngineInspectedLetterContents>Tussen de overblijfselen van het neergestorte mechanoïde-platform zoemt een nog intacte gravmotor met energie.\n\nJe kunt een scheepssubstructuur rond de motor bouwen om een nieuw gravschip te creëren. De motor stuwt tegen de zwaartekracht in, laat het schip zweven en maakt langeafstandsreizen mogelijk.\n\nStart een gravschip door onderzoek te doen naar gravschipconstructie en vervolgens brandstoftanks, stuwraketten en een besturingsconsole te bouwen.\n\nAls je een gravschip lanceert, verlaat je je huidige kaart.\n\n  - Onderzoek ontgrendeld: gravschipconstructie\n  - Vloer ontgrendeld: scheepssubstructuur</GravEngineInspectedLetterContents>
+  <!-- EN: View quest -->
+  <ViewQuest>Missie bekijken</ViewQuest>
+  
+  <!-- Asteroid -->
+  <!-- EN: {RESOURCE} asteroid -->
+  <AsteroidLetter>{RESOURCE}-asteroïde</AsteroidLetter> 
+  <!-- EN: You've discovered the location of an asteroid orbiting the planet. It contains significant amounts of {RESOURCE}, and potentially other resources.\n\nOrbital miners steer valuable asteroids into planetary orbit so that they can be easily mined and sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. -->
+  <AsteroidLetterText>Je hebt de locatie ontdekt van een asteroïde die rond de planeet cirkelt. Hij bevat aanzienlijke hoeveelheden {RESOURCE} en mogelijk ook andere grondstoffen.\n\nRuimtemijnwerkers sturen waardevolle asteroïden in een baan om de planeet zodat de grondstoffen makkelijk gedolven en verkocht kunnen worden aan orbitale handelaren. Je ontdekt geen teken van leven op deze asteroïde.\n\nJe kunt de asteroïde bereiken met transportpods, shuttles of een gravschip.</AsteroidLetterText>
+
+  <!-- EN: {RESOURCE} asteroid -->
+  <AsteroidName>{RESOURCE}-asteroïde</AsteroidName>
+
+  <!-- Ancient Reactor -->
+  <!-- EN: Ancient reactor -->
+  <AncientReactorArrivedLetter>Oude reactor</AncientReactorArrivedLetter>
+  <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is damaged and leaking, covering the region in toxic fallout. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
+  <AncientReactorArrivedLetterText>Een oude reactor is verborgen in de nabije ruïnes. De reactor is beschadigd en lekt, waardoor het gebied lijdt onder giftige neerslag. Lokaliseer en deactiveer de reactor om een gravkern te verkrijgen en de neerslag te stoppen.</AncientReactorArrivedLetterText>
+
+  <!-- Frozen Terraformer -->
+  <!-- EN: Ancient terraformer -->
+  <FrozenTerraformerArrivedLetter>Oude terraformer</FrozenTerraformerArrivedLetter>
+  <!-- EN: The malfunctioning terraformer has encased itself in solid ice. The gravcore energy signal is coming from somewhere within. Find and destroy the terraformer to obtain the gravcore. -->
+  <FrozenTerraformerArrivedLetterText>De defecte terraformer heeft zichzelf ingekapseld in massief ijs. Het gravkern-energiesignaal komt ergens van binnen. Vind en vernietig de terraformer om de gravkern te verkrijgen.</FrozenTerraformerArrivedLetterText>
+
+  <!-- Ancient Stockpile -->
+  <!-- EN: Ancient stockpile -->
+  <AncientStockpileArrivedLetter>Oude opslagplaats</AncientStockpileArrivedLetter>
+  <!-- EN: The gravcore energy signal is coming from one of the nearby underground stockpiles. Hack the entrances and search the stockpiles to find the gravcore.\n\nBe careful, some of the defense systems may still be active. -->
+  <AncientStockpileArrivedLetterText>Het gravkern-energiesignaal komt uit een van de ondergrondse opslagplaatsen in de buurt. Hack de ingangen en doorzoek de opslagplaatsen om de gravkern te vinden.\n\nWees voorzichtig, sommige verdedigingssystemen kunnen nog actief zijn.</AncientStockpileArrivedLetterText>
+
+  <!-- Orbital Mechanoid Platform -->
+  <!-- EN: Mechanoid platform -->
+  <OrbitalMechanoidPlatformLetterArrived>Mechanoïde-platform</OrbitalMechanoidPlatformLetterArrived>
+  <!-- EN: This orbital platform is built to service and deploy combat mechanoids, likely as part of some ancient planet-spanning war machine.\n\nThe gravcore signal is coming from somewhere within. -->
+  <OrbitalMechanoidPlatformLetterArrivedText>Dit orbitale platform is gebouwd om gevechtsmechanoïden te onderhouden en uit te zetten, vermoedelijk als onderdeel van een oud bewapeningssysteem over de hele planeet.\n\nHet gravkern-signaal komt ergens van binnenuit.</OrbitalMechanoidPlatformLetterArrivedText>
+
+  <!-- Orbital Ancient Platform -->
+  <!-- EN: Ancient platform -->
+  <OrbitalAncientPlatformLetterArrived>Oud platform</OrbitalAncientPlatformLetterArrived>
+  <!-- EN: The people who once inhabited this orbital platform are long gone and its original purpose has long been forgotten.\n\nThe gravcore signal is coming from somewhere within. -->
+  <OrbitalAncientPlatformLetterArrivedText>De mensen die dit orbitale platform ooit bewoonden zijn allang verdwenen en het oorspronkelijke doel is allang vergeten.\n\nHet gravkern-signaal komt ergens van binnenuit.</OrbitalAncientPlatformLetterArrivedText>
+  
+  <!-- Ancient Reactor -->
+  <!-- EN: Crashed mechanoid platform -->
+  <CrashedPlatformArrivedLetter>Neergestort mechanoïde-platform</CrashedPlatformArrivedLetter>
+  <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
+  <CrashedPlatformArrivedLetterText>De overblijfselen van een orbitaal platform liggen verspreid in de buurt. Wees voorzichtig, het wrak bevat vijandige mechanoïden.\n\nHet gravkern-signaal komt ergens uit de crashlocatie.</CrashedPlatformArrivedLetterText>
+
+  <!-- Lava Incidents-->
+  <!-- EN: Lava emergence -->
+  <LetterLabelLavaEmergence>Lavastijging</LetterLabelLavaEmergence>
+  <!-- EN: Lava is emerging from cracks in the ground! It'll continue to pool until it creates a small lake. It will then take several days to cool, after which it can be removed. -->
+  <LetterLavaEmergence>Lava komt uit scheuren in de grond! Het zal zich blijven ophopen tot er een klein meer ontstaat. Daarna duurt het enkele dagen om af te koelen, waarna het kan worden verwijderd.</LetterLavaEmergence>
+  <!-- EN: Lava flow -->
+  <LetterLabelLavaFlow>Lavastroom</LetterLabelLavaFlow>
+  <!-- EN: Lava has begun to pour into the region, flooding the low-lying volcanic rock. Keep your colonists out of harm's way! -->
+  <LetterLavaFlow>Lava stroomt de regio binnen en overspoelt het laaggelegen vulkanische gesteente. Houd je kolonisten uit de gevarenzone!</LetterLavaFlow>
+
+  <!-- Seasonal Flooding -->
+  <!-- EN: Seasonal flooding -->
+  <LetterLabelSeasonalFlooding>Seizoensoverstroming</LetterLabelSeasonalFlooding>
+  <!-- EN: Rainfall upriver is causing the river to swell. The flooding will subside after several days. -->
+  <LetterSeasonalFlooding>Regenval stroomopwaarts zorgt ervoor dat de rivier buiten zijn oevers treedt. De overstroming zal na enkele dagen afnemen.</LetterSeasonalFlooding>
+  <!-- EN: Low temperatures have begun to freeze the river. Flooding is subsiding. -->
+  <MessageSeasonalFloodingFrozen>Door de lage temperatuur begint de rivier te bevriezen. De overstroming neemt af.</MessageSeasonalFloodingFrozen>
+  <!-- EN: Flooding is subsiding. -->
+  <MessageFloodingSubsiding>De overstroming neemt af.</MessageFloodingSubsiding>
+
+  <!-- Fishing -->
+  <!-- EN: Rare catch -->
+  <LetterLabelRareCatch>Zeldzame vangst</LetterLabelRareCatch>
+  <!-- EN: While fishing, {PAWN_nameDef} made an unusual catch -->
+  <LetterTextRareCatch>Tijdens het vissen heeft {PAWN_nameDef} een ongewone vangst gedaan</LetterTextRareCatch>
+
+  <!-- Pursuing Mechanoids -->
+  <!-- EN: Incoming mechanoids -->
+  <LetterLabelMechanoidThreat>Inkomende mechanoïden</LetterLabelMechanoidThreat>
+  <!-- EN: The mechhive's scanning process is close to determining your location. When it locates your gravship, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the pilot console, and selecting launch. -->
+  <LetterTextMechanoidThreat>De mechhive heeft je locatie bijna gevonden door een scanproces. Zodra je gravschip is ontdekt, zullen ze een enorme groep mechanoïden sturen om je te doden.\n\nVerzamel je benodigdheden en vlucht door de besturingsconsole te selecteren en op lanceren te drukken.</LetterTextMechanoidThreat>
+
+  <!-- Mechhive -->
+  <!-- EN: Mechhive signal -->
+  <LetterLabelMechhiveWarning>Mechhive-signaal</LetterLabelMechhiveWarning>
+  <!-- EN: You have detected a massive gravtech energy reading indicating that the mechhive is hidden somewhere in orbit. If you could find it, you could shut it down - or make use of its power.\n\nMechhives are production-and-control platforms that birth mechanoids and coordinate their actions around the planet. They're powered by a persona core.\n\nCollect more gravship technology to track down the mechhive's location. -->
+  <LetterTextMechhiveWarning>Je hebt een enorme gravtech-energiemeting gedetecteerd die aangeeft dat de mechhive ergens in een baan om de planeet verborgen is. Als je de hive vindt, kun je hem uitschakelen - of zijn kracht gebruiken.\n\nMechhives zijn productie- en beheerplatforms die mechanoïden maken en hun acties op de planeet coördineren. Ze worden aangedreven door een personakern.\n\nVerzamel meer gravschiptechnologie om de locatie van de mechhive op te sporen.</LetterTextMechhiveWarning>
+
+  <!-- EN: Cerebrex core -->
+  <OrbitalMechhiveLetterArrived>Cerebrex-kern</OrbitalMechhiveLetterArrived>
+  <!-- EN: At the center of the orbital platform sits a massive mechanoid structure made of hair-fine ultratech filaments supporting an AI persona core. This is the intelligence core of the mechhive that directs mechanoids all over the planet.\n\nThe structure is protected by nearby stabilizers, making it nearly invulnerable. Find and destroy the cerebrex stabilizers to lower the core's defenses. -->
+  <OrbitalMechhiveLetterArrivedText>In het midden van het orbitale platform staat een enorme mechanoïde-structuur gemaakt van haarfijne ultratech-filamenten met een AI-personakern. Dit is de intelligentiekern van de mechhive die de mechanoïden op de hele planeet aanstuurt.\n\nDe structuur wordt beschermd door nabijgelegen stabilisatoren, waardoor hij vrijwel onkwetsbaar is. Vind en vernietig de cerebrex-stabilisatoren om de verdediging van de kern te verlagen.</OrbitalMechhiveLetterArrivedText>
+
+  <!-- EN: Mechanoid assault -->
+  <MechhiveRaidLetterLabel>Mechanoïde-aanval</MechhiveRaidLetterLabel>
+  <!-- EN: The cerebrex core is sending mechanoids to attack you. Get ready! -->
+  <MechhiveRaidLetterText>De cerebrex-kern stuurt mechanoïden om je aan te vallen. Wees er klaar voor!</MechhiveRaidLetterText>
+
+  <!-- EN: Defense response -->
+  <MechhiveDefenseResponseLetterLabel>Verdedigingsreactie</MechhiveDefenseResponseLetterLabel>
+  <!-- EN: The mechanoid hive has summoned mechanoid reinforcements to defend itself. They are arriving by transport pod and will attack immediately! -->
+  <MechhiveDefenseResponseLetterText>De mechanoïde-hive heeft versterkingen opgeroepen om zichzelf te verdedigen. Ze arriveren met transportpods en vallen direct aan!</MechhiveDefenseResponseLetterText>
+
+  <!-- EN: Cerebrex core -->
+  <CerebrexCoreLoweredLetterLabel>Cerebrex-kern</CerebrexCoreLoweredLetterLabel>
+  <!-- EN: By destroying the stabilizers, you've lowered the cerebrex core's defenses. Send a colonist to inspect the core. -->
+  <CerebrexCoreLoweredLetterText>Door de stabilisatoren te vernietigen, heb je de verdediging van de cerebrex-kern verzwakt. Stuur een kolonist om de kern te onderzoeken.</CerebrexCoreLoweredLetterText>
+
+  <!-- EN: Mechanoids deactivated -->
+  <CerebrexCoreDestroyedLetterLabel>Mechanoïden gedeactiveerd</CerebrexCoreDestroyedLetterLabel>
+  <!-- EN: By destroying the cerebrex core, {PAWN_nameDef} has deactivated mechanoids across the planet.\n\nThe mechanoid threat is over. -->
+  <CerebrexCoreDestroyedLetterText>Door de cerebrex-kern te vernietigen, heeft {PAWN_nameDef} mechanoïden op de hele planeet gedeactiveerd.\n\nDe dreiging van mechanoïden is voorbij.</CerebrexCoreDestroyedLetterText>
+
+  <!-- EN: Cerebrex node -->
+  <CerebrexCoreScavengedLetterLabel>Cerebrex-node</CerebrexCoreScavengedLetterLabel>
+  <!-- EN: The scavenged node from the cerebrex core lies nearby. It responds strongly to the core, clearly still linked to it.\n\nEquip the node to a colonist to make use of it. -->
+  <CerebrexCoreScavengedLetterText>De buitgemaakte node van de cerebrex-kern ligt in de buurt. Hij reageert sterk op de kern en is duidelijk nog steeds verbonden.\n\nRust een kolonist uit met de node om er gebruik van te maken.</CerebrexCoreScavengedLetterText>
+
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelGravshipEnteredEnemyBase>Aanval begonnen</LetterLabelGravshipEnteredEnemyBase>
+  <!-- EN: Your gravship has landed at {0} and is ready to begin the attack. -->
+  <LetterGravshipEnteredEnemyBase>Je gravschip is geland bij {0} en staat klaar om aan te vallen.</LetterGravshipEnteredEnemyBase>
+  
+  <!-- Survey Scanner -->
+  <!-- EN: Surveying scanner -->
+  <LetterLabelSurveyScannerArrived>Onderzoeksscanner</LetterLabelSurveyScannerArrived>
+  <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
+  <LetterSurveyScannerArrived>Bescherm de scanner totdat deze het gebied volledig heeft onderzocht. Dit duurt {DURATION}.</LetterSurveyScannerArrived>
+
+  <!-- EN: Insect lair -->
+  <EnteredMegahiveLabel>Insectenhol</EnteredMegahiveLabel>
+  <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->
+  <EnteredMegahiveText>{PAWN_nameDef} is aangekomen in de diepten van een gigantisch ondergronds insectenhol. De lucht is zwaar van de geur van insectenafscheidingen.</EnteredMegahiveText>
+  <!-- EN: The gravcore signal is coming from somewhere behind the burrow walls. Attack the burrow walls to explore further. -->
+  <EnteredMegahiveGravcoreExtra>Het gravkern-signaal komt ergens achter de tunnelwanden vandaan. Vernietig de tunnelwanden om verder te verkennen.</EnteredMegahiveGravcoreExtra>
+
+</LanguageData>

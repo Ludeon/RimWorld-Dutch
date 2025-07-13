@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fishing speed -->
+  <FishingSpeed.label>vissnelheid</FishingSpeed.label>
+  <!-- EN: The speed at which this person catches fish. -->
+  <FishingSpeed.description>De snelheid waarmee deze persoon vissen vangt.</FishingSpeed.description>
+  
+  <!-- EN: fishing yield -->
+  <FishingYield.label>visopbrengst</FishingYield.label>
+  <!-- EN: The percentage yield this person receives when they fish. -->
+  <FishingYield.description>Het percentage opbrengst dat deze persoon krijgt voor het vissen.</FishingYield.description>
+  
+  <!-- EN: piloting ability -->
+  <PilotingAbility.label>stuurvaardigheid</PilotingAbility.label>
+  <!-- EN: How well this person can pilot a vehicle. -->
+  <PilotingAbility.description>Hoe goed deze persoon een voertuig kan besturen.</PilotingAbility.description>
+  
+  <!-- EN: vacuum resistance -->
+  <VacuumResistance.label>vacuümbestendigheid</VacuumResistance.label>
+  <!-- EN: How resistant this creature is to the negative effects of the vacuum of space. -->
+  <VacuumResistance.description>Hoe goed dit wezen bestand is tegen de negatieve effecten van het vacuüm van de ruimte.</VacuumResistance.description>
+  
+</LanguageData>

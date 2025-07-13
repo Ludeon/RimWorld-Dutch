@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator egg (fert.) -->
+  <EggAlligatorFertilized.label>alligatorei (bev.)</EggAlligatorFertilized.label>
+  <!-- EN: A fertilized alligator egg. If all goes well, it should hatch into a baby alligator. It can be eaten raw, but it's much better cooked. -->
+  <EggAlligatorFertilized.description>Een bevrucht alligatorei. Als alles goed gaat, komt er een jonge alligator uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggAlligatorFertilized.description>
+  
+  <!-- EN: alligator egg (unfert.) -->
+  <EggAlligatorUnfertilized.label>alligatorei (onbev.)</EggAlligatorUnfertilized.label>
+  <!-- EN: An unfertilized alligator egg. It can be eaten raw, but it's much better cooked. -->
+  <EggAlligatorUnfertilized.description>Een onbevrucht alligatorei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggAlligatorUnfertilized.description>
+  
+  <!-- EN: bluebird egg (fert.) -->
+  <EggBluebirdFertilized.label>blauwborstei (bev.)</EggBluebirdFertilized.label>
+  <!-- EN: A fertilized bluebird egg. If all goes well, it should hatch into a baby bluebird. It can be eaten raw, but it's much better cooked. -->
+  <EggBluebirdFertilized.description>Een bevrucht blauwborstei. Als alles goed gaat, komt er een blauwborstkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggBluebirdFertilized.description>
+  
+  <!-- EN: bluebird egg (unfert.) -->
+  <EggBluebirdUnfertilized.label>blauwborstei (onbev.)</EggBluebirdUnfertilized.label>
+  <!-- EN: An unfertilized bluebird egg. It can be eaten raw, but it's much better cooked. -->
+  <EggBluebirdUnfertilized.description>Een onbevrucht blauwborstei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggBluebirdUnfertilized.description>
+  
+  <!-- EN: crow egg (fert.) -->
+  <EggCrowFertilized.label>kraaienei (bev.)</EggCrowFertilized.label>
+  <!-- EN: A fertilized crow egg. If all goes well, it should hatch into a baby crow. It can be eaten raw, but it's much better cooked. -->
+  <EggCrowFertilized.description>Een bevrucht kraaienei. Als alles goed gaat, komt er een kraaienkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggCrowFertilized.description>
+  
+  <!-- EN: crow egg (unfert.) -->
+  <EggCrowUnfertilized.label>kraaienei (onbev.)</EggCrowUnfertilized.label>
+  <!-- EN: An unfertilized crow egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCrowUnfertilized.description>Een onbevrucht kraaienei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggCrowUnfertilized.description>
+  
+  <!-- EN: flamingo egg (fert.) -->
+  <EggFlamingoFertilized.label>flamingo-ei (bev.)</EggFlamingoFertilized.label>
+  <!-- EN: A fertilized flamingo egg. If all goes well, it should hatch into a baby flamingo. It can be eaten raw, but it's much better cooked. -->
+  <EggFlamingoFertilized.description>Een bevrucht flamingo-ei. Als alles goed gaat, komt er een flamingokuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggFlamingoFertilized.description>
+  
+  <!-- EN: flamingo egg (unfert.) -->
+  <EggFlamingoUnfertilized.label>flamingo-ei (onbev.)</EggFlamingoUnfertilized.label>
+  <!-- EN: An unfertilized flamingo egg. It can be eaten raw, but it's much better cooked. -->
+  <EggFlamingoUnfertilized.description>Een onbevrucht flamingo-ei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggFlamingoUnfertilized.description>
+  
+  <!-- EN: heron egg (fert.) -->
+  <EggHeronFertilized.label>reigerei (bev.)</EggHeronFertilized.label>
+  <!-- EN: A fertilized heron egg. If all goes well, it should hatch into a baby heron. It can be eaten raw, but it's much better cooked. -->
+  <EggHeronFertilized.description>Een bevrucht reigerei. Als alles goed gaat, komt er een reigerkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggHeronFertilized.description>
+  
+  <!-- EN: heron egg (unfert.) -->
+  <EggHeronUnfertilized.label>reigerei (onbev.)</EggHeronUnfertilized.label>
+  <!-- EN: An unfertilized heron egg. It can be eaten raw, but it's much better cooked. -->
+  <EggHeronUnfertilized.description>Een onbevrucht reigerei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggHeronUnfertilized.description>
+  
+  <!-- EN: macaw egg (fert.) -->
+  <EggMacawFertilized.label>ara-ei (bev.)</EggMacawFertilized.label>
+  <!-- EN: A fertilized macaw egg. If all goes well, it should hatch into a baby parrot. It can be eaten raw, but it's much better cooked. -->
+  <EggMacawFertilized.description>Een bevrucht ara-ei. Als alles goed gaat, komt er een papegaaienkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggMacawFertilized.description>
+  
+  <!-- EN: macaw egg (unfert.) -->
+  <EggMacawUnfertilized.label>ara-ei (onbev.)</EggMacawUnfertilized.label>
+  <!-- EN: An unfertilized macaw egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMacawUnfertilized.description>Een onbevrucht ara-ei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggMacawUnfertilized.description>
+  
+  <!-- EN: monitor lizard egg (fert.) -->
+  <EggMonitorLizardFertilized.label>varanenei (bev.)</EggMonitorLizardFertilized.label>
+  <!-- EN: A fertilized monitor lizard egg. If all goes well, it should hatch into a baby monitor lizard. It can be eaten raw, but it's much better cooked. -->
+  <EggMonitorLizardFertilized.description>Een bevrucht varanenei. Als alles goed gaat, komt er een jonge varaan uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggMonitorLizardFertilized.description>
+  
+  <!-- EN: monitor lizard egg (unfert.) -->
+  <EggMonitorLizardUnfertilized.label>varanenei (onbev.)</EggMonitorLizardUnfertilized.label>
+  <!-- EN: An unfertilized monitor lizard egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMonitorLizardUnfertilized.description>Een onbevrucht varanenei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggMonitorLizardUnfertilized.description>
+  
+  <!-- EN: peacock egg (fert.) -->
+  <EggPeacockFertilized.label>pauwenei (bev.)</EggPeacockFertilized.label>
+  <!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked. -->
+  <EggPeacockFertilized.description>Een bevrucht pauwenei. Als alles goed gaat, komt er een pauwenkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggPeacockFertilized.description>
+  
+  <!-- EN: peacock egg (unfert.) -->
+  <EggPeacockUnfertilized.label>pauwenei (onbev.)</EggPeacockUnfertilized.label>
+  <!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPeacockUnfertilized.description>Een onbevrucht pauwenei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggPeacockUnfertilized.description>
+  
+  <!-- EN: penguin egg (fert.) -->
+  <EggPenguinFertilized.label>pinguïnei (bev.)</EggPenguinFertilized.label>
+  <!-- EN: A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked. -->
+  <EggPenguinFertilized.description>Een bevrucht pinguïnei. Als alles goed gaat, komt er een pinguïnkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggPenguinFertilized.description>
+  
+  <!-- EN: penguin egg (unfert.) -->
+  <EggPenguinUnfertilized.label>pinguïnei (onbev.)</EggPenguinUnfertilized.label>
+  <!-- EN: An unfertilized penguin egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPenguinUnfertilized.description>Een onbevrucht pinguïnei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggPenguinUnfertilized.description>
+  
+  <!-- EN: quail egg (fert.) -->
+  <EggQuailFertilized.label>kwartelei (bev.)</EggQuailFertilized.label>
+  <!-- EN: A fertilized quail egg. If all goes well, it should hatch into a baby quail. It can be eaten raw, but it's much better cooked. -->
+  <EggQuailFertilized.description>Een bevrucht kwartelei. Als alles goed gaat, komt er een kwartelkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggQuailFertilized.description>
+  
+  <!-- EN: quail egg (unfert.) -->
+  <EggQuailUnfertilized.label>kwartelei (onbev.)</EggQuailUnfertilized.label>
+  <!-- EN: An unfertilized quail egg. It can be eaten raw, but it's much better cooked. -->
+  <EggQuailUnfertilized.description>Een onbevrucht kwartelei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggQuailUnfertilized.description>
+  
+  <!-- EN: sea turtle egg (fert.) -->
+  <EggSeaTurtleFertilized.label>zeeschildpadei (bev.)</EggSeaTurtleFertilized.label>
+  <!-- EN: A fertilized sea turtle egg. If all goes well, it should hatch into a baby sea turtle. It can be eaten raw, but it's much better cooked. -->
+  <EggSeaTurtleFertilized.description>Een bevrucht zeeschildpadei. Als alles goed gaat, komt er een jonge zeeschildpad uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggSeaTurtleFertilized.description>
+  
+  <!-- EN: sea turtle egg (unfert.) -->
+  <EggSeaTurtleUnfertilized.label>zeeschildpadei (onbev.)</EggSeaTurtleUnfertilized.label>
+  <!-- EN: An unfertilized sea turtle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSeaTurtleUnfertilized.description>Een onbevrucht zeeschildpadei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggSeaTurtleUnfertilized.description>
+  
+  <!-- EN: sparrow egg (fert.) -->
+  <EggSparrowFertilized.label>mussenei (bev.)</EggSparrowFertilized.label>
+  <!-- EN: A fertilized sparrow egg. If all goes well, it should hatch into a baby sparrow. It can be eaten raw, but it's much better cooked. -->
+  <EggSparrowFertilized.description>Een bevrucht mussenei. Als alles goed gaat, komt er een mussenkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggSparrowFertilized.description>
+  
+  <!-- EN: sparrow egg (unfert.) -->
+  <EggSparrowUnfertilized.label>mussenei (onbev.)</EggSparrowUnfertilized.label>
+  <!-- EN: An unfertilized sparrow egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSparrowUnfertilized.description>Een onbevrucht mussenei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggSparrowUnfertilized.description>
+  
+  <!-- EN: swan egg (fert.) -->
+  <EggSwanFertilized.label>zwanenei (bev.)</EggSwanFertilized.label>
+  <!-- EN: A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked. -->
+  <EggSwanFertilized.description>Een bevrucht zwanenei. Als alles goed gaat, komt er een zwanenkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggSwanFertilized.description>
+  
+  <!-- EN: swan egg (unfert.) -->
+  <EggSwanUnfertilized.label>zwanenei (onbev.)</EggSwanUnfertilized.label>
+  <!-- EN: An unfertilized swan egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSwanUnfertilized.description>Een onbevrucht zwanenei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggSwanUnfertilized.description>
+  
+  <!-- EN: vulture egg (fert.) -->
+  <EggVultureFertilized.label>gierenei (bev.)</EggVultureFertilized.label>
+  <!-- EN: A fertilized vulture egg. If all goes well, it should hatch into a baby vulture. It can be eaten raw, but it's much better cooked. -->
+  <EggVultureFertilized.description>Een bevrucht gierenei. Als alles goed gaat, komt er een gierkuiken uit. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggVultureFertilized.description>
+  
+  <!-- EN: vulture egg (unfert.) -->
+  <EggVultureUnfertilized.label>gierenei (onbev.)</EggVultureUnfertilized.label>
+  <!-- EN: An unfertilized vulture egg. It can be eaten raw, but it's much better cooked. -->
+  <EggVultureUnfertilized.description>Een onbevrucht gierenei. Het kan rauw gegeten worden, maar is veel lekkerder als het gekookt is.</EggVultureUnfertilized.description>
+  
+  <!-- EN: mastodon wool -->
+  <WoolMastodon.label>mammoetwol</WoolMastodon.label>
+  <!-- EN: Thick shaggy wool from a mastodon. Provides excellent insulation against the cold. -->
+  <WoolMastodon.description>Dikke, harige wol van een mammoet. Biedt uitstekende isolatie tegen de kou.</WoolMastodon.description>
+  
+  <!-- EN: muskox wool -->
+  <WoolMuskox.label>muskusoswol</WoolMuskox.label>
+  <!-- EN: Itchy wool from a muskox. Good at keeping the cold out. -->
+  <WoolMuskox.description>Prikkende wol van een muskusos. Houdt de kou goed buiten.</WoolMuskox.description>
+  
+</LanguageData>

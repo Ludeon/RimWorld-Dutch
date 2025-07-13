@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psilocap hallucinations -->
+  <PsilocapHigh.label>psilokap-hallucinaties</PsilocapHigh.label>
+  <!-- EN: Chemicals from psilocap spores, possibly inhaled from the air, are causing this person to experience subtle hallucinations that distort their perception of reality. -->
+  <PsilocapHigh.description>Chemische stoffen van psilokapsporen, mogelijk ingeademd via de lucht, zorgen ervoor dat deze persoon subtiele hallucinaties krijgt die de waarneming van de werkelijkheid vervormen.</PsilocapHigh.description>
+  <!-- EN: minor -->
+  <PsilocapHigh.stages.minor.label>licht(e)</PsilocapHigh.stages.minor.label>
+  <!-- EN: moderate -->
+  <PsilocapHigh.stages.moderate.label>gemiddeld(e)</PsilocapHigh.stages.moderate.label>
+  <!-- EN: extreme -->
+  <PsilocapHigh.stages.extreme.label>extreem/extreme</PsilocapHigh.stages.extreme.label>
+  
+  <!-- EN: psilocap tolerance -->
+  <PsilocapTolerance.label>psilokap-tolerantie</PsilocapTolerance.label>
+  <!-- EN: An acquired tolerance to psilocap. The more severe this tolerance is, the more psilocap it takes to get the same effect. -->
+  <PsilocapTolerance.description>Een verworven tolerantie voor psilokap. Hoe groter deze tolerantie is, des te meer psilokap er nodig is om hetzelfde effect te bereiken.</PsilocapTolerance.description>
+  <!-- EN: small -->
+  <PsilocapTolerance.stages.small.label>laag/lage</PsilocapTolerance.stages.small.label>
+  <!-- EN: large -->
+  <PsilocapTolerance.stages.large.label>hoog/hoge</PsilocapTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsilocapTolerance.stages.massive.label>enorm(e)</PsilocapTolerance.stages.massive.label>
+  
+</LanguageData>

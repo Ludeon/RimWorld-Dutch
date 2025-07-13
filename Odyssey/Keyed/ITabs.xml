@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+  <!-- EN: do X times -->
+  <FishRepeatMode_RepeatCount>x keer doen</FishRepeatMode_RepeatCount>
+  <!-- EN: do until you have X -->
+  <FishRepeatMode_TargetCount>doen totdat je er x hebt</FishRepeatMode_TargetCount>
+  <!-- EN: do forever -->
+  <FishRepeatMode_Forever>voor altijd doen</FishRepeatMode_Forever>
+  <!-- EN: Fish population -->
+  <FishPopulation>Vispopulatie</FishPopulation>
+  <!-- EN: How many fish are in this body of water. Larger bodies of water have more fish and will recover fish populations faster. -->
+  <FishPopulationDesc>Hoeveel vissen zich in dit water bevinden. Grotere wateren bevatten meer vissen en hun vispopulaties herstellen sneller.</FishPopulationDesc>
+  <!-- EN: Minimum population -->
+  <MinimumPopulation>Minimale populatie</MinimumPopulation>
+  <!-- EN: Colonists won't fish if the fish population is under this limit. Fishing yields are lower if there are less than 300 fish. -->
+  <MinimumPopulationDesc>Kolonisten vissen niet als de vispopulatie onder deze grens ligt. De opbrengst daalt als er minder dan 300 vissen zijn.</MinimumPopulationDesc>
+  <!-- EN: uncommon -->
+  <Uncommon>ongewoon</Uncommon>
+  <!-- EN: When toggled off, colonists will avoid catching this fish. -->
+  <ToggleFishAvoid>Als dit is uitgeschakeld, vermijden kolonisten het vangen van deze vis.</ToggleFishAvoid>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacsuit helmet -->
+  <Apparel_VacsuitHelmet.label>vacuümpakhelm</Apparel_VacsuitHelmet.label>
+  <!-- EN: A helmet that efficiently recycles the user's oxygen, allowing them to breathe in the vacuum of space for hours at a time. The process isn't perfectly efficient, so the user must periodically return to a pressurized environment. -->
+  <Apparel_VacsuitHelmet.description>Een helm die de zuurstof van de drager efficiënt recyclet, waardoor hij urenlang in het luchtledige van de ruimte kan ademen. Het proces verloopt nog niet perfect, dus de drager moet geregeld terugkeren naar een geperste omgeving.</Apparel_VacsuitHelmet.description>
+  
+</LanguageData>

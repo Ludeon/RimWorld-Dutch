@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->An anonymous AI has requested your help dealing with an outlaw named [fugitive_nameDef]. The AI claims [fugitive_nameDef] is wanted for [reason_AI].\n\n[fugitive_nameDef] has stolen a transport pod and has fled to an abandoned orbital platform.\n\nHaving heard rumors of your gravship, the AI requests that you travel to the abandoned platform and kill [fugitive_nameDef]. In return, it will reward you with a gravtech device.\n\nThe AI warns you that [fugitive_nameDef] may be in the company of hostile orbital pirates.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] has sent us a message. A fugitive named [fugitive_nameDef] escaped from [asker_possessive] custody and used a transport pod to flee to an abandoned orbital platform. [fugitive_nameDef] was in custody for [reason].\n\nHaving heard rumors of your gravship, the [asker_faction_leaderTitle] asks that you travel to the abandoned platform and kill [fugitive_nameDef]. If you do so, [asker_nameDef] will reward you with a gravtech device.\n\n[asker_nameDef] warns you that [fugitive_nameDef] may be in the company of hostile orbital pirates.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], requests that you track down and kill a dangerous fugitive known as [fugitive_nameDef]. The fugitive is wanted for [reason_royal].\n\n[fugitive_nameDef] is hiding out on an abandoned orbital platform and may be guarded by orbital pirates. If you kill the fugitive, [asker_nameDef] will reward you with a gravtech device.</li>
+    <li>reason_AI->the destruction of multiple high-level subpersona cores</li>
+    <li>reason_AI->deorbiting an AI satellite</li>
+    <li>reason_AI->crimes on numerous distant planets</li>
+    <li>reason_AI->unlicensed orbital trafficking of psychic artifacts</li>
+    <li>reason_AI->[reason]</li>
+    <li>reason_royal->drunkenly insulting the [asker_royalTitleInCurrentFaction] in a wedding speech</li>
+    <li>reason_royal->attempting to assassinate the [asker_royalTitleInCurrentFaction]</li>
+    <li>reason_royal->accidentally detonating a firefoam pack in an imperial shuttle</li>
+    <li>reason_royal->the improper use of a tornado generator near an imperial settlement</li>
+    <li>reason_royal->trying to orchestrate a rebellion</li>
+    <li>reason_royal->treason</li>
+    <li>reason_royal->[reason]</li>
+    <li>reason->collaborating with a sanguophage cabal</li>
+    <li>reason->trafficking dangerous psychic artifacts</li>
+    <li>reason->grand larceny and multiple counts of corporate sabotage</li>
+    <li>reason->unauthorized genetic experimentation</li>
+    <li>reason->inciting inter-factional conflict</li>
+    <li>reason->drunkenly profaning a peace ritual</li>
+    <li>reason->the destruction of an orbital trade vessel</li>
+  -->
+  <OrbitalFugitive.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Een anonieme AI heeft je hulp gevraagd bij het opsporen van een voortvluchtige genaamd [fugitive_nameDef]. De AI beweert dat [fugitive_nameDef] gezocht wordt voor [reason_AI].\n\n[fugitive_nameDef] heeft een transportpod gestolen en is ontsnapt naar een verlaten orbitale basis.\n\nDe AI heeft geruchten gehoord over je gravschip en vraagt je om naar het verlaten platform te reizen en [fugitive_nameDef] te doden. In ruil daarvoor krijg je een gravtech-apparaat.\n\nDe AI waarschuwt dat [fugitive_nameDef] zich mogelijk in het gezelschap van vijandige orbitale piraten bevindt.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] van [asker_faction_name] heeft ons een bericht gestuurd. Een voortvluchtige genaamd [fugitive_nameDef] is ontsnapt en heeft een transportpod gebruikt om naar een verlaten orbitale basis te vluchten. [fugitive_nameDef] zat vast wegens [reason].\n\nNa geruchten te hebben gehoord over je gravschip, vraagt de [asker_faction_leaderTitle] je om naar het verlaten platform te reizen en [fugitive_nameDef] te doden. Als je dat doet, zal [asker_nameDef] je belonen met een gravtech-apparaat.\n\n[asker_nameDef] waarschuwt dat [fugitive_nameDef] mogelijk in gezelschap is van vijandige orbitale piraten.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], een [asker_royalTitleInCurrentFaction] van [asker_faction_name], vraagt je om een gevaarlijke voortvluchtige genaamd [fugitive_nameDef] op te sporen en te doden. De voortvluchtige wordt gezocht voor [reason_royal].\n\n[fugitive_nameDef] verschuilt zich op een verlaten orbitale basis en wordt mogelijk bewaakt door orbitale piraten. Als je de voortvluchtige doodt, zal [asker_nameDef] je belonen met een gravtech-apparaat.</li>
+    <li>reason_AI->de vernietiging van meerdere subpersonakernen van hoog niveau</li>
+    <li>reason_AI->het uit een baan stoten van een AI-satelliet</li>
+    <li>reason_AI->misdaden op talloze verre planeten</li>
+    <li>reason_AI->illegale orbitale handel in psychische artefacten</li>
+    <li>reason_AI->[reason]</li>
+    <li>reason_royal->het dronken beledigen van [asker_royalTitleInCurrentFaction] tijdens een bruiloftsspeech</li>
+    <li>reason_royal->een poging tot aanslag op [asker_royalTitleInCurrentFaction]</li>
+    <li>reason_royal->het per ongeluk laten ontploffen van een schuimblusser in een keizerlijke shuttle</li>
+    <li>reason_royal->het onoordeelkundig gebruik van een tornadogenerator bij een keizerlijke nederzetting</li>
+    <li>reason_royal->het uitlokken van een opstand</li>
+    <li>reason_royal->verraad</li>
+    <li>reason_royal->[reason]</li>
+    <li>reason->samenwerking met een sanguofage kabal</li>
+    <li>reason->handel in gevaarlijke psychische artefacten</li>
+    <li>reason->diefstal en meerdere gevallen van bedrijfssabotage</li>
+    <li>reason->ongeautoriseerde genetische experimenten</li>
+    <li>reason->het aanzetten tot interfactioneel conflict</li>
+    <li>reason->het dronken ontheiligen van een vredesritueel</li>
+    <li>reason->de vernietiging van een orbitaal handelsvaartuig</li>
+  </OrbitalFugitive.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The Hunt for [fugitive_nameDef]</li>
+    <li>questName->A Bounty for [fugitive_nameDef]</li>
+    <li>questName->[fugitive_nameDef] the [criminal]</li>
+    <li>questName->The Orbital [criminal]</li>
+    <li>criminal->Criminal</li>
+    <li>criminal->Fugitive</li>
+    <li>criminal->Outlaw</li>
+    <li>criminal->Felon</li>
+    <li>criminal->Renegade</li>
+  -->
+  <OrbitalFugitive.questNameRules.rulesStrings>
+    <li>questName->De jacht op [fugitive_nameDef]</li>
+    <li>questName->Een premie voor [fugitive_nameDef]</li>
+    <li>questName->[fugitive_nameDef] de [criminal]</li>
+    <li>questName->De orbitale [criminal]</li>
+    <li>criminal->Crimineel</li>
+    <li>criminal->Voortvluchtige</li>
+    <li>criminal->Bandiet</li>
+    <li>criminal->Misdadiger</li>
+    <li>criminal->Afvallige</li>
+  </OrbitalFugitive.questNameRules.rulesStrings>
+  
+</LanguageData>

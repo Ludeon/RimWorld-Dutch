@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: small chemfuel tank -->
+  <ChemfuelTank.label>kleine chembrandstoftank</ChemfuelTank.label>
+  <!-- EN: A chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <ChemfuelTank.description>Een chembrandstoftank die brandstof levert aan de stuwraketten van een gravschip.</ChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Chembrandstof</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <ChemfuelTank.comps.CompRefuelable.fuelLabel>Chembrandstof</ChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: fuel optimizer -->
+  <FuelOptimizer.label>brandstofoptimalisator</FuelOptimizer.label>
+  <!-- EN: A gravtech unit that allows grav engine lift to coordinate more efficiently with traditional thrusters. It reduces the fuel needed for gravship flight.\n\nA gravship can support two fuel optimizers. -->
+  <FuelOptimizer.description>Een gravtech-eenheid waardoor de heffing van de gravmotor efficiënter samenwerkt met traditionele stuwmotoren en er minder brandstof nodig is voor een gravschipvlucht.\n\nEen gravschip kan twee brandstofoptimalisatoren ondersteunen.</FuelOptimizer.description>
+  
+  <!-- EN: gravcore power cell -->
+  <GravcorePowerCell.label>gravkern-energiecel</GravcorePowerCell.label>
+  <!-- EN: A power generator that passively draws a small amount of energy from gravitational waves passing through the gravship. -->
+  <GravcorePowerCell.description>Een stroomgenerator die passief een kleine hoeveelheid energie uit zwaartekrachtgolven haalt die door het gravschip gaan.</GravcorePowerCell.description>
+  
+  <!-- EN: grav engine -->
+  <GravEngine.label>gravmotor</GravEngine.label>
+  <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nWhen launched, anything on substructure that's connected to the grav engine will be transported to a new map. Launching a gravship will abandon your current map.\n\nGlitterworld engineers use gravships to launch orbital platforms and build skyrippers. They require massive and hyper-specialized facilities to produce, making them a rare sight outside of glitterworlds. -->
+  <GravEngine.description>Het ultratech-hart van een gravschip. De gravmotor genereert lift door de zwaartekracht in een veld om zichzelf heen om te keren en te versterken. Deze motor kan tillen, maar genereert geen voorwaartse stuwkracht. Om te werken heeft hij een groot zwaartekrachtveld in de buurt nodig, zoals een planeet, waardoor hij niet geschikt is voor interplanetaire reizen.\n\nBij lancering wordt alles op de substructuur die met de gravmotor verbonden is, getransporteerd naar een nieuwe kaart. Als je een gravschip lanceert, verlaat je je huidige kaart verlaat.\n\nGlitterwereld-ingenieurs lanceren orbitale platforms en bouwen skyrippers met gravschepen. Er zijn enorme, hypergespecialiseerde faciliteiten nodig om ze te produceren, waardoor ze zeldzaam zijn buiten glitterwerelden.</GravEngine.description>
+  
+  <!-- EN: grav field extender -->
+  <GravFieldExtender.label>gravveld-vergroter</GravFieldExtender.label>
+  <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support. Must be built near a grav engine.\n\nA gravship can support up to six grav field extenders. -->
+  <GravFieldExtender.description>Een ultratech-apparaat dat wordt gebruikt om een gravschip te vergroten. Het vergroot het gebied waarin substructuur kan worden gebouwd en verhoogt de hoeveelheid substructuur die een gravschip kan ondersteunen. Moet nabij een gravmotor worden gebouwd.\n\nEen gravschip kan maximaal zes gravveld-vergroters ondersteunen.</GravFieldExtender.description>
+  
+  <!-- EN: gravship hull -->
+  <GravshipHull.label>gravschipromp</GravshipHull.label>
+  <!-- EN: A strong airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <GravshipHull.description>Een sterke, luchtdichte muur die zuurstoflekken in het vacuüm van de ruimte voorkomt. De muur is direct aangesloten op de onderliggende substructuur en kan dus alleen op een gravschip worden gebouwd.</GravshipHull.description>
+  
+  <!-- EN: gravship shield generator -->
+  <GravshipShieldGenerator.label>schildgenerator voor gravschepen</GravshipShieldGenerator.label>
+  <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support two gravship shield generators. -->
+  <GravshipShieldGenerator.description>Een beschermingsapparaat dat een gravschip kan beschermen. Het moduleert het gravveld om een kortstondig momentum-doorbrekend schild te creëren dat projectielen tegenhoudt. Het werkt tegen normale schoten en mortieren. Degenen binnen het schild kunnen nog wel naar buiten schieten.\n\nMoet opgeladen worden voor gebruik. Eén gravschip kan twee schildgeneratoren voor gravschepen ondersteunen.</GravshipShieldGenerator.description>
+  <!-- EN: activate -->
+  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>activeren</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  
+  <!-- EN: large chemfuel tank -->
+  <LargeChemfuelTank.label>grote chembrandstoftank</LargeChemfuelTank.label>
+  <!-- EN: A massive chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <LargeChemfuelTank.description>Een enorme chembrandstoftank die brandstof levert aan de stuwraketten van een gravschip.</LargeChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Chembrandstof</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <LargeChemfuelTank.comps.CompRefuelable.fuelLabel>Chembrandstof</LargeChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: large thruster -->
+  <LargeThruster.label>grote stuwraket</LargeThruster.label>
+  <!-- EN: An advanced chemfuel thruster with a heat-resistant stellite liner. It greatly increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires stellite blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
+  <LargeThruster.description>Een geavanceerde chembrandstofstuwraket met een hittebestendige vacsteenvoering. Verhoogt het bereik van een gravschip aanzienlijk. Voor stuwraketten is een vrije ruimte nodig zonder grote gebouwen of gravschip-substructuur.\n\nVereist vacsteenblokken, te verkrijgen op orbitale asteroïden.\n\nEen gravschip kan tot zes grote stuwraketten ondersteunen.</LargeThruster.description>
+  
+  <!-- EN: minified thing -->
+  <MinifiedGravEngine.label>geminificeerd ding</MinifiedGravEngine.label>
+  
+  <!-- EN: pilot console -->
+  <PilotConsole.label>besturingsconsole</PilotConsole.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine. -->
+  <PilotConsole.description>Een interface waarmee een gravschip gelanceerd en bestuurd kan worden. Wordt direct aangedreven door de gravmotor.</PilotConsole.description>
+  
+  <!-- EN: pilot subpersona core -->
+  <PilotSubpersonaCore.label>pilootsubpersona-kern</PilotSubpersonaCore.label>
+  <!-- EN: A low-grade subpersona specialized in gravship flight. It reduces the chance of an accident when flying a gravship, though it can't fully account for human error.\n\nA gravship can support up to two pilot subpersona cores. -->
+  <PilotSubpersonaCore.description>Een eenvoudige subpersona, gespecialiseerd in gravschipvluchten. Vermindert de kans op een ongeluk tijdens het vliegen met een gravschip, hoewel je er menselijke fouten niet volledig mee kunt uitsluiten.\n\nEen gravschip kan tot twee pilootsubpersona-kernen ondersteunen.</PilotSubpersonaCore.description>
+  
+  <!-- EN: mechanoid ship chunk -->
+  <ShipChunk_Mech.label>mechanoïde-schipbrok</ShipChunk_Mech.label>
+  <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nDeconstruct it to obtain valuable resources. -->
+  <ShipChunk_Mech.description>Een brokstuk van een mechanoïde-ruimteschip, gemaakt van staal en gravlitepanelen. Het lijkt te zijn losgescheurd door ongecontroleerde krachten die bij terugkeer zijn vrijgekomen, of een of ander wapen.\n\nHaal het uit elkaar om waardevolle grondstoffen te verkrijgen.</ShipChunk_Mech.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <ShipChunk_Mech.comps.CompInspectString.inspectString>Haal uit elkaar voor waardevolle grondstoffen.</ShipChunk_Mech.comps.CompInspectString.inspectString>
+  
+  <!-- EN: signal jammer -->
+  <SignalJammer.label>stoorzender</SignalJammer.label>
+  <!-- EN: A signal emitter that disguises the electromagnetic signature of your gravship, allowing it to approach heavily-defended landing sites. -->
+  <SignalJammer.description>Een signaalzender die de elektromagnetische signatuur van je gravschip maskeert, waardoor je zwaarbeveiligde landingsplaatsen kunt naderen.</SignalJammer.description>
+  
+  <!-- EN: small thruster -->
+  <SmallThruster.label>kleine stuwraket</SmallThruster.label>
+  <!-- EN: A chemfuel thruster that increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nA gravship can support up to four small thrusters. -->
+  <SmallThruster.description>Een chembrandstofstuwraket die het bereik van een gravschip vergroot. Voor stuwraketten is een vrije ruimte nodig zonder grote gebouwen of gravschip-substructuur.\n\nEen gravschip kan maximaal vier kleine stuwraketten ondersteunen.</SmallThruster.description>
+  
+</LanguageData>

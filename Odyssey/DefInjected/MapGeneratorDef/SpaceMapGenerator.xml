@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: asteroid -->
+  <Asteroid.label>asteroïde</Asteroid.label>
+  
+  <!-- EN: basic asteroid -->
+  <AsteroidBasic.label>basisasteroïde</AsteroidBasic.label>
+  
+  <!-- EN: orbital item stash -->
+  <OrbitalItemStash.label>orbitale itemvoorraad</OrbitalItemStash.label>
+  
+  <!-- EN: orbital relay -->
+  <OrbitalRelay.label>orbitaal relais</OrbitalRelay.label>
+  
+  <!-- EN: settlement platform -->
+  <SettlementPlatform.label>nederzettingsplatform</SettlementPlatform.label>
+  
+  <!-- EN: space -->
+  <Space.label>ruimte</Space.label>
+  
+  <!-- EN: space -->
+  <SpacePocket.label>ruimte</SpacePocket.label>
+  
+</LanguageData>

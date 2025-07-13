@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an abandoned orbital platform. You don't detect any signs of life.\n\nYou can break in to obtain the loot inside, but the platform probably has defense systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] de locatie van een verlaten orbitaal platform. Er zijn geen tekenen van leven.\n\nJe kunt inbreken om te plunderen, maar het platform heeft waarschijnlijk verdedigingssystemen.\n\nJe kunt naar orbitale locaties reizen met gravschepen, shuttles of transportpods.</li>
+  </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=3)->[ancientPlatAdj] [platform]</li>
+    <li>questName->[PlaceOutlander] [platform]</li>
+    <li>questName->[platform] [greekLetter]</li>
+    <li>questName->[platAdj] [platform] [RomanNumeral]</li>
+    <li>ancientPlatAdj->abandoned</li>
+    <li>ancientPlatAdj->ancient</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->chronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->vanguard</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->skyforge</li>
+    <li>platAdj->titan</li>
+    <li>platform(p=2)->station</li>
+    <li>platform->platform</li>
+    <li>platform->orbital platform</li>
+    <li>platform->orbital hub</li>
+    <li>platform(p=0.5)->skygate</li>
+    <li>platform(p=0.5)->spacedock</li>
+    <li>platform(p=0.5)->gateway</li>
+    <li>greekLetter->alpha</li>
+    <li>greekLetter->beta</li>
+    <li>greekLetter->theta</li>
+    <li>greekLetter->delta</li>
+    <li>greekLetter->zeta</li>
+    <li>greekLetter->sigma</li>
+    <li>greekLetter->omega</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+    <li>questName(p=3)->[ancientPlatAdj] [platform_neut]</li>
+	<li>questName(p=3)->[ancientPlatAdj_infl] [platform]</li>
+    <li>questName->[PlaceOutlander][platform]</li>
+	<li>questName->[PlaceOutlander][platform_neut]</li>
+    <li>questName->[platform] [greekLetter]</li>
+	<li>questName->[platform_neut] [greekLetter]</li>
+    <li>questName->[platAdj][platform] [RomanNumeral]</li>
+	<li>questName->[platAdj][platform_neut] [RomanNumeral]</li>
+    <li>ancientPlatAdj->verlaten</li>
+	<li>ancientPlatAdj_infl->verlaten</li>
+    <li>ancientPlatAdj->antiek</li>
+    <li>ancientPlatAdj_infl->antieke</li>
+    <li>platAdj->sterrenlicht</li>
+    <li>platAdj->nevel</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclips</li>
+    <li>platAdj->zenit</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->toevluchts</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->kronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaistos</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->voorhoede</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->hemelsmidse</li>
+    <li>platAdj->titanen</li>
+    <li>platform_neut(p=2)->station</li>
+    <li>platform_neut->platform</li>
+    <li>platform_neut->ruimteplatform</li>
+    <li>platform->ruimtehub</li>
+    <li>platform(p=0.5)->hemelpoort</li>
+    <li>platform(p=0.5)->ruimtehaven</li>
+    <li>platform(p=0.5)->sterrenpoort</li>
+    <li>greekLetter->alfa</li>
+    <li>greekLetter->bèta</li>
+    <li>greekLetter->thèta</li>
+    <li>greekLetter->delta</li>
+    <li>greekLetter->zèta</li>
+    <li>greekLetter->sigma</li>
+    <li>greekLetter->omega</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Je hebt ontdekt:</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>Missie verlopen: [resolvedQuestName]</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>Uit onderschepte communicatie blijkt dat het platform door anderen is opgeëist. De missie [resolvedQuestName] is verlopen.</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an asteroid orbiting the planet. It contains significant amounts of [resource], and potentially other resources as well.\n\nOrbital miners steer asteroids into orbit so that they can be mined and the ore sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
+  -->
+  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] de locatie van een asteroïde die rond de planeet draait. Deze bevat aanzienlijke hoeveelheden [resource], en mogelijk ook andere grondstoffen.\n\nOrbitale mijnwerkers sturen asteroïden de baan in zodat ze gemijnd kunnen worden en het erts naar orbitale handelaren verkocht kan worden. Je detecteert geen tekenen van leven van deze asteroïde.\n\nJe kunt de asteroïde bereiken met transportpods, shuttles of een gravschip. Voorzie je kolonisten van voldoende orbitale uitrusting voor vertrek.</li>
+  </OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[resource] Asteroid</li>
+  -->
+  <OpportunitySite_Asteroid.questNameRules.rulesStrings>
+    <li>questName->[resource]asteroïde</li>
+  </OpportunitySite_Asteroid.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Je hebt ontdekt:</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an orbital platform. You detect high levels of mechanoid activity.\n\nYou can scavenge valuables from the platform.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] de locatie van een orbitale platform. Je detecteert hoge niveaus van mechanoïde-activiteit.\n\nJe kunt waardevolle spullen buitmaken van het platform.\n\nJe kunt naar orbitale locaties reizen met gravschepen, shuttles of transportpods.</li>
+  </OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[platAdj] [platform] [designation]</li>
+    <li>questName->[platAdj] [platform]</li>
+    <li>platAdj(p=3)->mechanoid</li>
+    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj->genesis</li>
+    <li>platAdj->synthesis</li>
+    <li>platAdj->assembly</li>
+    <li>platAdj->formation</li>
+    <li>platform->platform</li>
+    <li>platform->station</li>
+    <li>platform->hub</li>
+    <li>designation->[RomanNumeral]</li>
+    <li>designation->[Letter]-[RomanNumeral]</li>
+    <li>mechanoid->scyther</li>
+    <li>mechanoid->lancer</li>
+    <li>mechanoid->centipede</li>
+    <li>mechanoid->cyclops</li>
+  -->
+  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->[platAdj][platform] [designation]</li>
+    <li>questName->[platAdj][platform]</li>
+    <li>platAdj(p=3)->mechanoïde</li>
+    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj->oorsprongs</li>
+    <li>platAdj->synthese</li>
+    <li>platAdj->assemblage</li>
+    <li>platAdj->formatie</li>
+    <li>platform->platform</li>
+    <li>platform->station</li>
+    <li>platform->hub</li>
+    <li>designation->[RomanNumeral]</li>
+    <li>designation->[Letter]-[RomanNumeral]</li>
+    <li>mechanoid->maaier</li>
+    <li>mechanoid->lansier</li>
+    <li>mechanoid->duizendpoot</li>
+    <li>mechanoid->cycloop</li>
+  </OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Je hebt ontdekt:</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>Missie verlopen: [resolvedQuestName]</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>Uit onderschepte communicatie blijkt dat het platform door anderen is opgeëist. De missie [resolvedQuestName] is verlopen.</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] an unusual asteroid orbiting the planet. The asteroid has a hollow core which contains several structures.\n\nYou can break in to obtain the loot inside.\n\nBe warned - the buildings may contain defense systems.</li>
+  -->
+  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] een ongewone asteroïde die rond de planeet draait. De asteroïde heeft een holle kern die verschillende structuren bevat.\n\nJe kunt inbreken om de buit binnen te krijgen.\n\nWees gewaarschuwd - de gebouwen kunnen verdedigingssystemen bevatten.</li>
+  </OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[adjective] [orbital] [stash_noun]</li>
+    <li>questName->[orbital] [stash_noun]</li>
+    <li>adjective->Hidden</li>
+    <li>adjective->Secret</li>
+    <li>orbital->Orbital</li>
+    <li>orbital->Asteroid</li>
+    <li>stash_noun->Stash</li>
+    <li>stash_noun->Cache</li>
+  -->
+  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+    <li>questName->[adjective] [orbital][stash_noun]</li>
+    <li>questName->[orbital][stash_noun]</li>
+    <li>adjective->Verborgen</li>
+    <li>adjective->Geheime</li>
+    <li>orbital->Orbitaal</li>
+    <li>orbital->Asteroïde</li>
+    <li>stash_noun->voorraad</li>
+    <li>stash_noun->cache</li>
+  </OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Je hebt ontdekt:</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the coordinates of a massive piece of wreckage in orbit. It could contain valuable resources. Orbital debris fields are often occupied by hostile scavengers.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] de coördinaten van een enorm wrakstuk in een baan rond de planeet. Het kan waardevolle grondstoffen bevatten. Orbitale puinvelden worden vaak bezet door vijandige plunderaars.\n\nJe kunt naar orbitale locaties reizen met gravschepen, shuttles of transportpods.</li>
+  </OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=2)->the ruins of [platAdj] [platform]</li>
+    <li>questName->[platAdj] [wreckage]</li>
+    <li>questName->[PlaceOutlander] [wreckage]</li>
+    <li>questName->[ruined] [platAdj] [platform]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->chronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->vanguard</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->skyforge</li>
+    <li>platAdj->titan</li>
+    <li>wreckage(p=2)->wreckage</li>
+    <li>wreckage(p=2)->wreck</li>
+    <li>wreckage->orbital ruins</li>
+    <li>wreckage->debris field</li>
+    <li>platform(p=2)->station</li>
+    <li>platform->platform</li>
+    <li>platform(p=0.5)->skygate</li>
+    <li>platform(p=0.5)->spacedock</li>
+    <li>platform(p=0.5)->gateway</li>
+    <li>ruined->ruined</li>
+    <li>ruined->destroyed</li>
+    <li>ruined->scuttled</li>
+    <li>ruined->lost</li>
+    <li>ruined->ravaged</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+    <li>questName(p=2)->de ruïnes van de [platAdj][platform]</li>
+	<li>questName(p=2)->de ruïnes van het [platAdj][platform_neut]</li>
+    <li>questName->[platAdj][wreckage]</li>
+    <li>questName->[PlaceOutlander][wreckage]</li>
+    <li>questName->[ruined_infl] [platAdj][platform]</li>
+	<li>questName->[ruined] [platAdj][platform_neut]</li>
+    <li>platAdj->sterrenlicht</li>
+    <li>platAdj->nevel</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclips</li>
+    <li>platAdj->zenit</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->toevluchts</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->kronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaistos</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->voorhoede</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->hemelsmidse</li>
+    <li>platAdj->titanen</li>
+    <li>wreckage(p=2)->wrakstukken</li>
+    <li>wreckage(p=2)->wrak</li>
+    <li>wreckage->ruimteruïnes</li>
+    <li>wreckage->puinveld</li>
+    <li>platform_neut(p=2)->station</li>
+    <li>platform_neut->platform</li>
+    <li>platform(p=0.5)->hemelpoort</li>
+    <li>platform(p=0.5)->ruimtehaven</li>
+    <li>platform(p=0.5)->sterrenpoort</li>
+    <li>ruined->verwoest</li>
+	<li>ruined_infl->verwoeste</li>
+    <li>ruined->vernietigd</li>
+	<li>ruined_infl->vernietigde</li>
+    <li>ruined->gezonken</li>
+	<li>ruined_infl->gezonken</li>
+    <li>ruined->verloren</li>
+	<li>ruined_infl->verloren</li>
+    <li>ruined->geteisterd</li>
+	<li>ruined_infl->geteisterde</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Je hebt ontdekt:</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>Missie verlopen: [resolvedQuestName]</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the orbital wreck has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>Uit onderschepte communicatie blijkt dat het ruimtewrak door anderen is opgeëist. De missie [resolvedQuestName] is verlopen.</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an orbital satellite. These satellites are unmanned and often incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms.\n\nYou can scavenge valuable technology from the satellites but be warned, satellites are heavily guarded by ancient security systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] de locatie van een ruimtesatelliet. Deze satellieten zijn onbemand en vaak niet geschikt om leven te ondersteunen. Satellieten kunnen voor verschillende doeleinden gebruikt worden, van energieopslag tot wapenplatform.\n\nJe kunt waardevolle technologie verzamelen op de satellieten, maar pas op, want ze worden zwaar bewaakt door oude beveiligingssystemen.\n\nJe kunt naar orbitale locaties reizen met gravschepen, shuttles of transportpods.</li>
+  </OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[PlaceOutlander] [platform]</li>
+    <li>questName->[platAdj] [platform]</li>
+    <li>platAdj(p=4)->orbital</li>
+    <li>platAdj->observation</li>
+    <li>platAdj->network</li>
+    <li>platAdj->imperial</li>
+    <li>platAdj->solar</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->echo</li>
+    <li>platform(p=4)->satellite</li>
+    <li>platform->relay</li>
+    <li>platform->ring</li>
+    <li>platform->satlink</li>
+    <li>platform->sentinel</li>
+    <li>platform->prime</li>
+    <li>platform->beacon</li>
+    <li>platform->bombarder</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_Satellite.questNameRules.rulesStrings>
+    <li>questName->[PlaceOutlander][platform]</li>
+    <li>questName->[platAdj] [platform]</li>
+	<li>questName(p=4)->[platAdj_comp][platform]</li>
+    <li>platAdj(p=4)->orbitale</li>
+    <li>platAdj_comp->observatie</li>
+    <li>platAdj_comp->netwerk</li>
+    <li>platAdj->keizerlijke</li>
+    <li>platAdj_comp->zonne</li>
+    <li>platAdj_comp->sterrenlicht</li>
+    <li>platAdj_comp->nevel</li>
+    <li>platAdj_comp->horizon</li>
+    <li>platAdj_comp->eclips</li>
+    <li>platAdj_comp->zenit</li>
+    <li>platAdj_comp->aurora</li>
+    <li>platAdj_comp->corona</li>
+    <li>platAdj_comp->nova</li>
+    <li>platAdj_comp->eon</li>
+    <li>platAdj_comp->toevluchts</li>
+    <li>platAdj_comp->lumina</li>
+    <li>platAdj_comp->ion</li>
+    <li>platAdj_comp->astralis</li>
+    <li>platAdj_comp->echo</li>
+    <li>platform(p=4)->satelliet</li>
+    <li>platform->relais</li>
+    <li>platform->ring</li>
+    <li>platform->satlink</li>
+    <li>platform->sentinel</li>
+    <li>platform->prime</li>
+    <li>platform->baak</li>
+    <li>platform->bombardeur</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_Satellite.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Je hebt ontdekt:</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>Missie verlopen: [resolvedQuestName]</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Scanner readings indicate the satellite has boosted itself into a higher, unreachable orbit. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>Uit scangegevens blijkt dat de satelliet zichzelf naar een hogere, onbereikbare baan heeft gebracht. De missie [resolvedQuestName] is verlopen.</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

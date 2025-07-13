@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Grav engine -->
+  <!-- EN: Show substructure overlay -->
+  <CommandShowSubstructureOverlay>Substructuur-overlay tonen</CommandShowSubstructureOverlay>
+  <!-- EN: Display valid substructure in blue and invalid substructure in red. -->
+  <CommandShowSubstructureOverlayDesc>Toon geschikte substructuur in blauw en ongeschikte substructuur in rood.</CommandShowSubstructureOverlayDesc>
+  <!-- EN: Inspect {0_labelShort} -->
+  <CommandInspectGravEngine>{0_labelShort} inspecteren</CommandInspectGravEngine>
+  <!-- EN: Choose a colonist to inspect the mysterious grav engine. -->
+  <CommandInspectGravEngineDesc>Kies een kolonist om de mysterieuze gravmotor te inspecteren.</CommandInspectGravEngineDesc>
+  <!-- EN: Choose navigator -->
+  <CommandChooseNavigator>Navigator kiezen</CommandChooseNavigator>
+  <!-- EN: Cannot navigate -->
+  <CannotChooseNavigator>Kan niet navigeren</CannotChooseNavigator>
+
+  <!-- EN: Launch -->
+  <CommandLaunchGravship>Lanceren</CommandLaunchGravship>
+  <!-- EN: Choose a colonist to pilot the gravship. Anything on gravship substructure will be transported to a new map. Your current map will be abandoned. -->
+  <CommandLaunchGravshipDesc>Kies een kolonist om het gravschip te besturen. Alles op de substructuur van het gravschip wordt naar een nieuwe kaart getransporteerd. Je huidige kaart wordt verlaten.</CommandLaunchGravshipDesc>
+
+  <!-- EN: Allow fishing -->
+  <CommandAllowFish>Vissen toestaan</CommandAllowFish>
+  <!-- EN: When disabled, colonists will never fish in this zone. -->
+  <CommandAllowFishDesc>Al deze optie is uitgeschakeld, vissen kolonisten nooit in deze zone.</CommandAllowFishDesc>
+  
+  <!-- EN: Allow removing items -->
+  <CommandAllowRemovingApparel>Verwijderen van items toestaan</CommandAllowRemovingApparel> <!-- text_todo -->
+  <!-- EN: When disabled, haulers won’t remove items from the outfit stand and colonists won’t equip apparel unless ordered to do so. -->
+  <CommandAllowRemovingApparelDesc>Als deze optie is uitgeschakeld, verwijderen dragers geen items van de kledingstandaard en trekken kolonisten geen kleding aan tenzij ze daartoe opdracht krijgen.</CommandAllowRemovingApparelDesc> <!-- text_todo -->
+
+  <!-- EN: No colonist capable of piloting shuttle. Requires minimum piloting ability of 10%. -->
+  <CommandShuttleNoPilot>Geen kolonist is in staat om shuttle te besturen. Vereist minimaal 10% stuurvaardigheid.</CommandShuttleNoPilot>
+
+  <!-- EN: Confirm landing zone -->
+  <ConfirmLandGravship>Landingszone bevestigen</ConfirmLandGravship>
+  <!-- EN: Land your gravship in the landing zone. -->
+  <ConfirmLandGravshipDesc>Breng je gravschip aan de grond in de landingszone.</ConfirmLandGravshipDesc>
+
+  <!-- EN: Refuel from cargo -->
+  <CommandRefuelShuttleFromCargo>Uit lading bijvullen</CommandRefuelShuttleFromCargo>
+  <!-- EN: Refuel the passenger shuttle using chemfuel stored within. -->
+  <CommandRefuelShuttleFromCargoDesc>Vul de passagiersshuttle bij met chembrandstof die aan boord is opgeslagen.</CommandRefuelShuttleFromCargoDesc>
+  <!-- EN: No fuel in caravan. -->
+  <NoFuelInCaravan>Geen brandstof in karavaan.</NoFuelInCaravan>
+  <!-- EN: No fuel in shuttle. -->
+  <NoFuelInShuttle>Geen brandstof in shuttle.</NoFuelInShuttle>
+  <!-- EN: Shuttle is already fully fueled -->
+  <ShuttleFullyFueled>Shuttle is al volgetankt</ShuttleFullyFueled>
+
+  <!-- EN: Seal entrance... -->
+  <SealHatch>Ingang afsluiten...</SealHatch>
+  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
+  <SealHatchDesc>Kies een kolonist om de ingang permanent af te sluiten. Alles of iedereen die achterblijft is voorgoed verloren.</SealHatchDesc>
+
+  <!-- EN: Activate -->
+  <GravshipShieldOrderActivation>Activeren</GravshipShieldOrderActivation>
+  <!-- EN: Deactivate -->
+  <GravshipShieldOrderDeactivation>Deactiveren</GravshipShieldOrderDeactivation>
+  <!-- EN: Order a pawn to activate the gravship shield generator. -->
+  <GravshipShieldOrderActivationDesc>Geef een pion opdracht om de gravschip-schildgenerator te activeren.</GravshipShieldOrderActivationDesc>
+  <!-- EN: Order a pawn to deactivate the gravship shield generator. -->
+  <GravshipShieldOrderDeactivationDesc>Geef een pion opdracht om de gravschip-schildgenerator te deactiveren.</GravshipShieldOrderDeactivationDesc>
+</LanguageData>

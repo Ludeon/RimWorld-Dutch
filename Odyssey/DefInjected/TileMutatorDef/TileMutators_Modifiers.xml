@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal habitat -->
+  <AnimalHabitat.label>dierlijke habitat</AnimalHabitat.label>
+  <!-- EN: A natural habitat for {ANIMALKIND_labelPlural}. They appear in greater numbers here. -->
+  <AnimalHabitat.description>Een natuurlijk leefgebied voor {ANIMALKIND_labelPlural}. Ze komen hier in grotere aantallen voor.</AnimalHabitat.description>
+  
+  <!-- EN: decreased animal life -->
+  <AnimalLife_Decreased.label>minder dierenleven</AnimalLife_Decreased.label>
+  <!-- EN: Animals are less abundant here than normal. -->
+  <AnimalLife_Decreased.description>Dieren komen hier minder voor dan normaal.</AnimalLife_Decreased.description>
+  
+  <!-- EN: increased animal life -->
+  <AnimalLife_Increased.label>meer dierenleven</AnimalLife_Increased.label>
+  <!-- EN: Animals are more abundant here. -->
+  <AnimalLife_Increased.description>Dieren zijn hier talrijker.</AnimalLife_Increased.description>
+  
+  <!-- EN: archean trees -->
+  <ArcheanTrees.label>archeaanbomen</ArcheanTrees.label>
+  <!-- EN: This area contains ancient archean trees. These trees host a special microbial community in their roots which converts nearby terrain into rich soil. Their delicate root system makes it impossible to replant them. -->
+  <ArcheanTrees.description>Dit gebied bevat oude archeaanbomen. De wortels van de boom bevatten speciale microben die de nabijgelegen grond verrijken tot vruchtbare aarde. Door het delicate wortelstelsel kan de boom niet verplant worden.</ArcheanTrees.description>
+  
+  <!-- EN: dry ground -->
+  <DryGround.label>droge grond</DryGround.label>
+  <!-- EN: The ground in this area is drier than normal. There are no small ponds or bodies of water. -->
+  <DryGround.description>De grond in dit gebied is droger dan normaal. Er zijn geen kleine poelen of waterpartijen.</DryGround.description>
+  
+  <!-- EN: decreased fish -->
+  <Fish_Decreased.label>minder vissen</Fish_Decreased.label>
+  <!-- EN: This area has fewer fish than normal. -->
+  <Fish_Decreased.description>In dit gebied zijn minder vissen dan normaal.</Fish_Decreased.description>
+  
+  <!-- EN: increased fish -->
+  <Fish_Increased.label>meer vissen</Fish_Increased.label>
+  <!-- EN: This area has more fish than normal. -->
+  <Fish_Increased.description>In dit gebied zijn meer vissen dan normaal.</Fish_Increased.description>
+  
+  <!-- EN: foggy -->
+  <FoggyMutator.label>mistig</FoggyMutator.label>
+  <!-- EN: Fog is common in this area. -->
+  <FoggyMutator.description>Mist komt vaak voor in dit gebied.</FoggyMutator.description>
+  
+  <!-- EN: junkyard -->
+  <Junkyard.label>vuilnisbelt</Junkyard.label>
+  <!-- EN: An old dumping ground for various kinds of junk. -->
+  <Junkyard.description>Een oude stortplaats voor allerlei soorten afval.</Junkyard.description>
+  
+  <!-- EN: mineral rich -->
+  <MineralRich.label>rijk aan mineralen</MineralRich.label>
+  
+  <!-- EN: obsidian deposits -->
+  <ObsidianDeposits.label>obsidiaanafzettingen</ObsidianDeposits.label>
+  <!-- EN: This area has deposits of volcanic obsidian, which can be mined for obsidian glass. -->
+  <ObsidianDeposits.description>Dit gebied bevat afzettingen van vulkanisch obsidiaan, dat gewonnen kan worden voor obsidiaanglas.</ObsidianDeposits.description>
+  
+  <!-- EN: plant grove -->
+  <PlantGrove.label>plantenbosje</PlantGrove.label>
+  <!-- EN: This area contains a large number of {0}. -->
+  <PlantGrove.description>Dit gebied bevat een groot aantal {0}.</PlantGrove.description>
+  
+  <!-- EN: decreased plant life -->
+  <PlantLife_Decreased.label>minder plantengroei</PlantLife_Decreased.label>
+  <!-- EN: Plant life is less abundant here. -->
+  <PlantLife_Decreased.description>Planten zijn hier minder talrijk.</PlantLife_Decreased.description>
+  
+  <!-- EN: increased plant life -->
+  <PlantLife_Increased.label>meer plantengroei</PlantLife_Increased.label>
+  <!-- EN: Plant life is more abundant here. -->
+  <PlantLife_Increased.description>Planten zijn hier overvloedig aanwezig.</PlantLife_Increased.description>
+  
+  <!-- EN: increased pollution -->
+  <Pollution_Increased.label>meer vervuiling</Pollution_Increased.label>
+  <!-- EN: This area is contaminated with toxic pollutants. -->
+  <Pollution_Increased.description>Dit gebied is vervuild met toxische stoffen.</Pollution_Increased.description>
+  
+  <!-- EN: high geothermal activity -->
+  <SteamGeysers_Increased.label>hoge geothermische activiteit</SteamGeysers_Increased.label>
+  <!-- EN: Steam geysers are more common in this area. -->
+  <SteamGeysers_Increased.description>Stoomgeisers komen hier vaker voor.</SteamGeysers_Increased.description>
+  
+  <!-- EN: sunny -->
+  <SunnyMutator.label>zonnig</SunnyMutator.label>
+  <!-- EN: Clear weather is much more common here. -->
+  <SunnyMutator.description>Helder weer komt hier veel vaker voor.</SunnyMutator.description>
+  
+  <!-- EN: wet climate -->
+  <WetClimate.label>nat klimaat</WetClimate.label>
+  <!-- EN: Precipitation is much more common here. -->
+  <WetClimate.description>Neerslag komt hier veel vaker voor.</WetClimate.description>
+  
+  <!-- EN: wild plants -->
+  <WildPlants.label>wilde planten</WildPlants.label>
+  <!-- EN: When warm enough, this area can grow a large number of {0}. -->
+  <WildPlants.description>Als het warm genoeg is, kunnen in dit gebied veel {0} groeien.</WildPlants.description>
+  
+  <!-- EN: wild plants -->
+  <WildTropicalPlants.label>wilde planten</WildTropicalPlants.label>
+  <!-- EN: This area can grow a large number of {0}s. -->
+  <WildTropicalPlants.description>In dit gebied kunnen veel {0} groeien.</WildTropicalPlants.description>
+  
+  <!-- EN: windy -->
+  <WindyMutator.label>winderig</WindyMutator.label>
+  <!-- EN: Winds are much stronger in this area. -->
+  <WindyMutator.description>Hier waait meer wind.</WindyMutator.description>
+  
+</LanguageData>

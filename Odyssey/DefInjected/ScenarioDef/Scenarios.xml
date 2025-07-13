@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The Gravship -->
+  <TheGravship.label>Het gravschip</TheGravship.label>
+  <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheGravship.description>Je gravschip ligt aangemeerd bij het orbitale relais. Terwijl je bemanning de apparatuur bergt, realiseer je je dat dit geen oude menselijke technologie is – het is een mechanoïde-baken. Het relais komt tot leven en zendt zijn oorlogsalarm uit naar een verre mechhive. Ze zijn nu op jacht naar jou, en ze zullen je uiteindelijk overal vinden, waar je ook heen gaat.\n\nLet op: dit is een moeilijk scenario en wordt niet aanbevolen voor nieuwe spelers.</TheGravship.description>
+  <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheGravship.scenario.description>Je gravschip ligt aangemeerd bij het orbitale relais. Terwijl je bemanning begint met het bergen van de apparatuur, realiseer je je dat dit geen oude menselijke technologie is – het is een mechanoïde-baken. Het relais komt tot leven en zendt zijn oorlogsalarm uit naar een verre mechhive. Ze zijn nu op jacht naar jou, en ze zullen je uiteindelijk overal vinden, waar je ook heen gaat.\n\nLet op: dit is een moeilijk scenario en wordt niet aanbevolen voor nieuwe spelers.</TheGravship.scenario.description>
+  <!-- EN: The Gravship -->
+  <TheGravship.scenario.name>Het gravschip</TheGravship.scenario.name>
+  <!-- EN: You screwed up, and now the mechhive wants you dead. Its terrifying murder machines will arrive soon. Gather the valuable gravlite panels, then use your gravship to flee to a safe location on the planet below.\n\nTo launch the gravship, select the pilot console, then select the launch command.\n\nOn the world map, select ‘view planet' to choose a landing spot on the planet.\n\nFrom now on, wherever you go, the mechanoids will eventually find you. To stop them, you must find and defeat the mechhive itself. -->
+  <TheGravship.scenario.parts.GameStartDialog.text>Je hebt het verpest en nu wil de mechhive je dood hebben. Hun angstaanjagende moordmachines arriveren binnenkort. Verzamel de waardevolle gravlitepanelen en gebruik dan je gravschip om naar een veilige locatie op de planeet beneden te vluchten.\n\nOm het gravschip te lanceren, selecteer je de besturingsconsole en daarna het commando Lanceren.\n\nOp de wereldkaart selecteer je ‘Planeet bekijken’ om een landingszone uit te kiezen.\n\nVanaf nu zullen de mechanoïden je uiteindelijk vinden, waar je ook heengaat. Om ze te stoppen moet je de mechhive zelf vinden en verslaan.</TheGravship.scenario.parts.GameStartDialog.text>
+  <!-- EN: A crew of three hunted by mechanoids. -->
+  <TheGravship.scenario.summary>Een bemanning van drie, opgejaagd door mechanoïden.</TheGravship.scenario.summary>
+  
+</LanguageData>

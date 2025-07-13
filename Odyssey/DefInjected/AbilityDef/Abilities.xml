@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call drop pods -->
+  <CallDropPods.label>droppods oproepen</CallDropPods.label>
+  <!-- EN: Summon drop pods that you can use to travel to another location. -->
+  <CallDropPods.description>Roept droppods op waarmee je naar een andere locatie kunt reizen.</CallDropPods.description>
+  
+  <!-- EN: call mechanoids -->
+  <CallMechanoids.label>mechanoïden oproepen</CallMechanoids.label>
+  <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
+  <CallMechanoids.description>Laat vijandige mechanoïden naar een locatie komen via droppods. Ze vallen alle mensen in de buurt aan - vriend of vijand.</CallMechanoids.description>
+  
+  <!-- EN: deactivate mechanoid -->
+  <DeactivateMechanoid.label>mechanoïde deactiveren</DeactivateMechanoid.label>
+  <!-- EN: Permanently disable a hostile mechanoid. -->
+  <DeactivateMechanoid.description>Schakel een vijandige mechanoïde permanent uit.</DeactivateMechanoid.description>
+  
+  <!-- EN: egg spew -->
+  <EggSpew.label>eizak spuwen</EggSpew.label>
+  <!-- EN: Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them. -->
+  <EggSpew.description>Lanceert een eizak en een straal bijtende brij naar het doelgebied. De brij blijft kleven aan doelwitten en richt brandschade aan.</EggSpew.description>
+  
+  <!-- EN: sludge spew -->
+  <SludgeSpew.label>brij spuwen</SludgeSpew.label>
+  <!-- EN: Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them. -->
+  <SludgeSpew.description>Spuit bijtende brij over het hele doelgebied. De modder blijft kleven aan doelen en richt brandschade aan.</SludgeSpew.description>
+  
+  <!-- EN: terror roar -->
+  <TerrorRoar.label>verschrikkelijke brul</TerrorRoar.label>
+  <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
+  <TerrorRoar.description>Laat een angstaanjagende brul horen die vijandige mensen en dieren in de buurt op de vlucht kan jagen.</TerrorRoar.description>
+  
+  <!-- EN: thrumbo roar -->
+  <ThrumboRoar.label>drumbobrul</ThrumboRoar.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <ThrumboRoar.description>Laat een krachtige brul horen die vijandige mensen en dieren kan laten beven van angst, wat hun loopsnelheid en manipulatievermogen beïnvloedt.</ThrumboRoar.description>
+  
+  <!-- EN: war trumpet -->
+  <WarTrumpet.label>oorlogstrompet</WarTrumpet.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <WarTrumpet.description>Laat een krachtig geluid horen dat vijandige mensen en dieren kan laten beven van angst, wat hun loopsnelheid en manipulatievermogen beïnvloedt.</WarTrumpet.description>
+  
+</LanguageData>

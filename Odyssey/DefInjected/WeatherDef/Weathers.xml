@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blind fog -->
+  <BlindFog.label>dichte mist</BlindFog.label>
+  <!-- EN: A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range. -->
+  <BlindFog.description>Zware mist die de nauwkeurigheid en het bereik van vuurwapens vermindert.</BlindFog.description>
+  <!-- EN: Blind fog -->
+  <BlindFog.letterLabel>Dichte mist</BlindFog.letterLabel>
+  <!-- EN: A thick fog is setting in, dramatically reducing vision. Ranged weapons will be less accurate and their maximum range will be reduced. -->
+  <BlindFog.letterText>Er komt een dichte mist komt opzetten, waardoor het zicht sterk afneemt. Langeafstandswapens zijn minder nauwkeurig en hun maximum bereik wordt kleiner.</BlindFog.letterText>
+  
+  <!-- EN: blizzard -->
+  <Blizzard.label>sneeuwstorm</Blizzard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Blizzard.description>De sneeuw vermindert de nauwkeurigheid van vuurwapens, dooft vuur en vertraagt mensen.</Blizzard.description>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>baan om planeet</Orbit.label>
+  <!-- EN: There is no weather in orbit. -->
+  <Orbit.description>Er is geen weer in een baan om de planeet.</Orbit.description>
+  
+  <!-- EN: overcast -->
+  <Overcast.label>bewolkt</Overcast.label>
+  <!-- EN: Thick clouds obscure the sky, reducing light levels. -->
+  <Overcast.description>Dikke wolken in de lucht zorgen voor minder licht.</Overcast.description>
+  
+  <!-- EN: sandstorm -->
+  <Sandstorm.label>zandstorm</Sandstorm.label>
+  <!-- EN: Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere. -->
+  <Sandstorm.description>Een zandstormen vermindert de nauwkeurigheid van vuurwapens, vertraagt mensen en verspreidt overal zand.</Sandstorm.description>
+  
+  <!-- EN: torrential rain -->
+  <TorrentialRain.label>wolkbreuk</TorrentialRain.label>
+  <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <TorrentialRain.description>Een wolkbreuk veroorzaakt overstromingen. Het vermindert ook de nauwkeurigheid van vuurwapens, dooft vuur en vertraagt mensen.</TorrentialRain.description>
+  <!-- EN: Torrential rain -->
+  <TorrentialRain.letterLabel>Woklbreuk</TorrentialRain.letterLabel>
+  <!-- EN: Heavy rain is beginning to pour from the sky. It will cause temporary flooding around bodies of water. Build barriers to prevent floodwater from spreading. -->
+  <TorrentialRain.letterText>Zware regenval daalt neer vanuit de lucht. Het zal leiden tot tijdelijke overstromingen rond watermassa's. Bouw barrières om te voorkomen dat het vloedwater zich verspreidt.</TorrentialRain.letterText>
+  
+  <!-- EN: tox rain -->
+  <ToxRain.label>gifregen</ToxRain.label>
+  <!-- EN: Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <ToxRain.description>Gifregen maakt wezens ziek door opbouw van gif. Het vermindert ook de nauwkeurigheid van vuurwapens, dooft vuur en vertraagt mensen.</ToxRain.description>
+  <!-- EN: Tox rain -->
+  <ToxRain.letterLabel>Gifregen</ToxRain.letterLabel>
+  <!-- EN: Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof. -->
+  <ToxRain.letterText>Gifregen daalt neer vanuit de lucht. Iedereen die ermee in aanraking komt wordt langzaam ziek. Zorg dat je kolonisten beschut zijn.</ToxRain.letterText>
+  
+  <!-- EN: windy -->
+  <Windy.label>winderig</Windy.label>
+  <!-- EN: Strong winds reduce movement speed. -->
+  <Windy.description>Harde wind vermindert de beweginssnelheid.</Windy.description>
+  
+</LanguageData>

@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator -->
+  <Alligator.label>alligator</Alligator.label>
+  <!-- EN: A large semi-aquatic reptile with a powerful bite. Alligators are slow on land, but deadly in the water. -->
+  <Alligator.description>Een groot semi-aquatisch reptiel met een krachtige beet. Alligators zijn traag op het land, maar dodelijk in het water.</Alligator.description>
+  <!-- EN: left claw -->
+  <Alligator.tools.left_claw.label>linkerklauw</Alligator.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alligator.tools.left_claw.labelNoLocation>klauw</Alligator.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alligator.tools.right_claw.label>rechterklauw</Alligator.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alligator.tools.right_claw.labelNoLocation>klauw</Alligator.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alligator.tools.head.label>kop</Alligator.tools.head.label>
+  
+  <!-- EN: alpha thrumbo -->
+  <AlphaThrumbo.label>alfa-drumbo</AlphaThrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. Alpha thrumbos are even rarer and more dangerous than the typical thrumbo. Their hide is nearly impossible to pierce and their razor-sharp horn is worth more than its weight in gold.\n\nAlpha thrumbos are some of the longest-lived moving creatures in the known universe. Some tribes believe they remember and psychically pass on everything they ever experience to their young, so each one has a memory going back thousands of years. -->
+  <AlphaThrumbo.description>Een gigantisch, sierlijk wezen van onbekende oorsprong. Alfa-drumbo's zijn nog zeldzamer en gevaarlijker dan de gewone drumbo. Hun huid is bijna niet te doorboren en hun vlijmscherpe hoorn is meer waard dan zijn gewicht in goud.\n\nAlfa-drumbo's behoren tot de langstlevende bewegende wezens in het bekende universum. Sommige stammen geloven dat ze alles wat ze meemaken onthouden en psychisch doorgeven aan hun nakomelingen, zodat elk exemplaar herinneringen heeft die duizenden jaren teruggaan.</AlphaThrumbo.description>
+  <!-- EN: horn -->
+  <AlphaThrumbo.tools.horn.label>hoorn</AlphaThrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <AlphaThrumbo.tools.left_foot.label>linkerpoot</AlphaThrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <AlphaThrumbo.tools.left_foot.labelNoLocation>voet</AlphaThrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <AlphaThrumbo.tools.right_foot.label>rechterpoot</AlphaThrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <AlphaThrumbo.tools.right_foot.labelNoLocation>voet</AlphaThrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <AlphaThrumbo.tools.head.label>kop</AlphaThrumbo.tools.head.label>
+  
+  <!-- EN: armadillo -->
+  <Armadillo.label>gordeldier</Armadillo.label>
+  <!-- EN: A small mammal with leathery armor all over its body. It is surprisingly quick for a creature with such stubby legs. -->
+  <Armadillo.description>Een klein zoogdier met een leren pantser over het hele lichaam. Het is verrassend snel voor een dier met zulke korte pootjes.</Armadillo.description>
+  <!-- EN: left claw -->
+  <Armadillo.tools.left_claw.label>linkerklauw</Armadillo.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Armadillo.tools.left_claw.labelNoLocation>klauw</Armadillo.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Armadillo.tools.right_claw.label>rechterklauw</Armadillo.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Armadillo.tools.right_claw.labelNoLocation>klauw</Armadillo.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Armadillo.tools.head.label>kop</Armadillo.tools.head.label>
+  
+  <!-- EN: badger -->
+  <Badger.label>das</Badger.label>
+  <!-- EN: A stocky omnivorous mammal. Badgers are surprisingly tough for their size. -->
+  <Badger.description>Een stevig omnivoor zoogdier. Dassen zijn verrassend taai voor hun formaat.</Badger.description>
+  <!-- EN: left claw -->
+  <Badger.tools.left_claw.label>linkerklauw</Badger.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Badger.tools.left_claw.labelNoLocation>klauw</Badger.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Badger.tools.right_claw.label>rechterklauw</Badger.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Badger.tools.right_claw.labelNoLocation>klauw</Badger.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Badger.tools.head.label>kop</Badger.tools.head.label>
+  
+  <!-- EN: bog hound -->
+  <BogHound.label>moerashond</BogHound.label>
+  <!-- EN: Descended from domesticated dogs, these canines have grown unaccustomed to human company. They're skilled scavengers, able to survive in extremely toxic environments. Bog hounds are harder to tame than their domesticated cousins, and much more dangerous. -->
+  <BogHound.description>Deze honden zijn afkomstig van gedomesticeerde honden, maar zijn niet meer gewend aan contact met mensen. Het zijn geoefende aaseters die kunnen overleven in extreem giftige omgevingen. Moerashonden zijn moeilijker te temmen dan hun getemde verwanten, en veel gevaarlijker.</BogHound.description>
+  <!-- EN: left claw -->
+  <BogHound.tools.left_claw.label>linkerklauw</BogHound.tools.left_claw.label>
+  <!-- EN: claw -->
+  <BogHound.tools.left_claw.labelNoLocation>klauw</BogHound.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <BogHound.tools.right_claw.label>rechterklauw</BogHound.tools.right_claw.label>
+  <!-- EN: claw -->
+  <BogHound.tools.right_claw.labelNoLocation>klauw</BogHound.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <BogHound.tools.head.label>kop</BogHound.tools.head.label>
+  
+  <!-- EN: bullfrog -->
+  <Bullfrog.label>brulkikker</Bullfrog.label>
+  <!-- EN: A large frog known for its loud croak. Bullfrog legs are a delicacy on some planets. -->
+  <Bullfrog.description>Een grote kikker die bekend staat om zijn luide gekwaak. Brulkikkers zijn op sommige planeten een delicatesse.</Bullfrog.description>
+  <!-- EN: head -->
+  <Bullfrog.tools.head.label>kop</Bullfrog.tools.head.label>
+  
+  <!-- EN: scimitar cat -->
+  <Cat_Scimitar.label>sabeltandkat</Cat_Scimitar.label>
+  <!-- EN: A bioengineered predator that resembles its long-extinct namesake. Originally bred to populate iceworld hunting reserves, these animals are now common pets among glitterworld socialites. Their ferocity should not be underestimated. -->
+  <Cat_Scimitar.description>Een genetisch gemodificeerd roofdier dat lijkt op zijn lang uitgestorven naamgever. Deze dieren werden oorspronkelijk gefokt voor jachtreservaten op ijswerelden, maar zijn nu veelvoorkomende huisdieren onder glitterwereldsocialites. Hun felheid mag niet worden onderschat.</Cat_Scimitar.description>
+  <!-- EN: left claw -->
+  <Cat_Scimitar.tools.left_claw.label>linkerklauw</Cat_Scimitar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cat_Scimitar.tools.left_claw.labelNoLocation>klauw</Cat_Scimitar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cat_Scimitar.tools.right_claw.label>rechterklauw</Cat_Scimitar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cat_Scimitar.tools.right_claw.labelNoLocation>klauw</Cat_Scimitar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cat_Scimitar.tools.head.label>kop</Cat_Scimitar.tools.head.label>
+  
+  <!-- EN: colossus toad -->
+  <ColossusToad.label>kolossale pad</ColossusToad.label>
+  <!-- EN: A massive frog bioengineered for industrial farms. While safe to eat, its thick skin secretes an unpleasant slime. -->
+  <ColossusToad.description>Een gigantische kikker, genetisch gemodificeerd voor industriële boerderijen. Hij is te eten, maar zijn dikke huid scheidt een onaangenaam slijm af.</ColossusToad.description>
+  <!-- EN: head -->
+  <ColossusToad.tools.head.label>kop</ColossusToad.tools.head.label>
+  
+  <!-- EN: gorilla -->
+  <Gorilla.label>gorilla</Gorilla.label>
+  <!-- EN: A massive and intelligent great ape. While generally peaceful, gorillas are terrifying when enraged. -->
+  <Gorilla.description>Een massieve, intelligente mensaap. Gorilla's zijn doorgaans vredelievend, maar zeer angstaanjagend als ze boos worden.</Gorilla.description>
+  <!-- EN: left fist -->
+  <Gorilla.tools.left_fist.label>linkervuist</Gorilla.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Gorilla.tools.left_fist.labelNoLocation>vuist</Gorilla.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Gorilla.tools.right_fist.label>rechtervuist</Gorilla.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Gorilla.tools.right_fist.labelNoLocation>vuist</Gorilla.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Gorilla.tools.head.label>kop</Gorilla.tools.head.label>
+  
+  <!-- EN: hippo -->
+  <Hippo.label>nijlpaard</Hippo.label>
+  <!-- EN: An enormous semi-aquatic mammal with short stocky legs. While it is a herbivore, it can attack with devastating force if provoked. Its powerful jaw can crush bone and armor. -->
+  <Hippo.description>Een enorm semi-aquatisch zoogdier met korte, gedrongen poten. Hoewel het een herbivoor is, kan het aanvallen met verwoestende kracht als het wordt uitgedaagd. De krachtige kaken van het dier kunnen botten en harnassen verpletteren.</Hippo.description>
+  <!-- EN: head -->
+  <Hippo.tools.head.label>kop</Hippo.tools.head.label>
+  
+  <!-- EN: lava snail -->
+  <LavaSnail.label>lavaslak</LavaSnail.label>
+  <!-- EN: A large slow-moving mollusk. Originating from the volcanic planet Nuchandus, lava snails were bred as farm animals. Their skin secretes a thick slime that protects them from extreme temperatures. -->
+  <LavaSnail.description>Een groot, traag bewegend weekdier. Oorspronkelijk afkomstig van de vulkanische planeet Nuchandus. Lavaslakken werden gefokt als boerderijdieren. Hun huid scheidt een dik slijm af dat ze beschermt tegen extreme temperaturen.</LavaSnail.description>
+  <!-- EN: head -->
+  <LavaSnail.tools.head.label>kop</LavaSnail.tools.head.label>
+  
+  <!-- EN: mastodon -->
+  <Mastodon.label>mastodont</Mastodon.label>
+  <!-- EN: A massive elephant-like mammal. While briefly extinct, the mastodon now roams countless worlds due its resilience to bitter cold. Its thick hide makes excellent cold-weather clothing. However, hunting the animal is a dangerous proposition even for skilled hunters. -->
+  <Mastodon.description>Een massief zoogdier dat lijkt op een olifant. Hoewel hij kortstondig uitgestorven was, zwerft de mastodont nu over talloze werelden door zijn weerstand tegen ijzige kou. Zijn dikke huid levert uitstekende kleding op voor koude omgevingen. Het jagen op dit dier is echter gevaarlijk, zelfs voor ervaren jagers.</Mastodon.description>
+  <!-- EN: tusk -->
+  <Mastodon.tools.tusk.label>slagtand</Mastodon.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Mastodon.tools.left_foot.label>linkerpoot</Mastodon.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Mastodon.tools.left_foot.labelNoLocation>voet</Mastodon.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Mastodon.tools.right_foot.label>rechterpoot</Mastodon.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Mastodon.tools.right_foot.labelNoLocation>voet</Mastodon.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Mastodon.tools.head.label>kop</Mastodon.tools.head.label>
+  
+  <!-- EN: megavole -->
+  <Megavole.label>megawoelmuis</Megavole.label>
+  <!-- EN: A massive burrowing rodent, bred for its size and strength. It’s almost completely blind but can be surprisingly aggressive when cornered. On some low-tech worlds, these creatures are trained to dig for valuable minerals. -->
+  <Megavole.description>Een enorm, gravend knaagdier, gefokt om zijn grootte en kracht. Het is bijna helemaal blind, maar kan verrassend agressief zijn wanneer het in het nauw wordt gedreven. Op sommige werelden met laag technologieniveau worden deze dieren getraind om naar waardevolle mineralen te graven.</Megavole.description>
+  <!-- EN: left claw -->
+  <Megavole.tools.left_claw.label>linkerklauw</Megavole.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megavole.tools.left_claw.labelNoLocation>klauw</Megavole.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Megavole.tools.right_claw.label>rechterklauw</Megavole.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megavole.tools.right_claw.labelNoLocation>klauw</Megavole.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Megavole.tools.head.label>kop</Megavole.tools.head.label>
+  
+  <!-- EN: mink -->
+  <Mink.label>nerts</Mink.label>
+  <!-- EN: A small semi-aquatic mammal. The high value of its fur has resulted in mink being farmed on numerous planets. -->
+  <Mink.description>Een klein, semi-aquatisch zoogdier. Vanwege de hoge waarde van zijn vacht wordt de nerts op talloze planeten gefokt.</Mink.description>
+  <!-- EN: left claw -->
+  <Mink.tools.left_claw.label>linkerklauw</Mink.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Mink.tools.left_claw.labelNoLocation>klauw</Mink.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Mink.tools.right_claw.label>rechterklauw</Mink.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Mink.tools.right_claw.labelNoLocation>klauw</Mink.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Mink.tools.head.label>kop</Mink.tools.head.label>
+  
+  <!-- EN: monitor lizard -->
+  <MonitorLizard.label>varaan</MonitorLizard.label>
+  <!-- EN: A large venomous lizard. They secrete toxins from venom glands in their lower jaw to neutralize their prey. -->
+  <MonitorLizard.description>Een grote, giftige hagedis. Varanen scheiden gif af via klieren in hun onderkaak om hun prooi te neutraliseren.</MonitorLizard.description>
+  <!-- EN: left claw -->
+  <MonitorLizard.tools.left_claw.label>linkerklauw</MonitorLizard.tools.left_claw.label>
+  <!-- EN: claw -->
+  <MonitorLizard.tools.left_claw.labelNoLocation>klauw</MonitorLizard.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <MonitorLizard.tools.right_claw.label>rechterklauw</MonitorLizard.tools.right_claw.label>
+  <!-- EN: claw -->
+  <MonitorLizard.tools.right_claw.labelNoLocation>klauw</MonitorLizard.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <MonitorLizard.tools.head.label>kop</MonitorLizard.tools.head.label>
+  
+  <!-- EN: moose -->
+  <Moose.label>eland</Moose.label>
+  <!-- EN: One of the largest members of the deer family, adapted to extremely cold climates. Its long legs allow it to travel easily through deep snow. -->
+  <Moose.description>Een van de grootste leden van de hertenfamilie, aangepast aan extreem koud klimaat. De lange benen van de eland stellen hem in staat gemakkelijk door diepe sneeuw te bewegen.</Moose.description>
+  <!-- EN: left hoof -->
+  <Moose.tools.left_hoof.label>linkerhoef</Moose.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Moose.tools.left_hoof.labelNoLocation>hoef</Moose.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Moose.tools.right_hoof.label>rechterhoef</Moose.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Moose.tools.right_hoof.labelNoLocation>hoef</Moose.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Moose.tools.head.label>kop</Moose.tools.head.label>
+  
+  <!-- EN: muskox -->
+  <Muskox.label>muskusos</Muskox.label>
+  <!-- EN: A shaggy hoofed mammal found in colder climates. Muskox wool is known for being scratchy, but offers good protection against the cold. -->
+  <Muskox.description>Een harig hoefdier te vinden in koude klimaten. Muskusoswol kriebelt, maar biedt goede bescherming tegen de kou.</Muskox.description>
+  <!-- EN: left hoof -->
+  <Muskox.tools.left_hoof.label>linkerhoef</Muskox.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muskox.tools.left_hoof.labelNoLocation>hoef</Muskox.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muskox.tools.right_hoof.label>rechterhoef</Muskox.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muskox.tools.right_hoof.labelNoLocation>hoef</Muskox.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Muskox.tools.head.label>kop</Muskox.tools.head.label>
+  
+  <!-- EN: panda -->
+  <Panda.label>panda</Panda.label>
+  <!-- EN: A slow lumbering herbivore. Pandas are admired by many for their clumsy charm, making them common pets on urbworlds. On the rim, pandas are rarely seen outside of captivity. -->
+  <Panda.description>Een trage, logge herbivoor. Panda's worden door velen bewonderd vanwege hun onhandige charme, en zijn populaire huisdieren op urbwerelden. Op de rim worden panda's zelden buiten gevangenschap waargenomen.</Panda.description>
+  <!-- EN: left claw -->
+  <Panda.tools.left_claw.label>linkerklauw</Panda.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panda.tools.left_claw.labelNoLocation>klauw</Panda.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Panda.tools.right_claw.label>rechterklauw</Panda.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panda.tools.right_claw.labelNoLocation>klauw</Panda.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Panda.tools.head.label>kop</Panda.tools.head.label>
+  
+  <!-- EN: porcupine -->
+  <Porcupine.label>stekelvarken</Porcupine.label>
+  <!-- EN: A large rodent. While slow moving, it has a cloak of sharp quills which protect it from predators. -->
+  <Porcupine.description>Een groot knaagdier. Het stekelvarken beweegt langzaam, maar wordt tegen roofdieren beschermd door scherpe stekels.</Porcupine.description>
+  <!-- EN: left claw -->
+  <Porcupine.tools.left_claw.label>linkerklauw</Porcupine.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Porcupine.tools.left_claw.labelNoLocation>klauw</Porcupine.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Porcupine.tools.right_claw.label>rechterklauw</Porcupine.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Porcupine.tools.right_claw.labelNoLocation>klauw</Porcupine.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Porcupine.tools.head.label>kop</Porcupine.tools.head.label>
+  
+  <!-- EN: prairie dog -->
+  <PrairieDog.label>prairiehond</PrairieDog.label>
+  <!-- EN: A burrowing rodent with a short tail and sharp claws used for digging. They are social animals, often living in large colonies. -->
+  <PrairieDog.description>Een gravend knaagdier met een korte staart en scherpe klauwen waarmee hij graaft. Het zijn sociale dieren die vaak in grote kolonies leven.</PrairieDog.description>
+  <!-- EN: left claw -->
+  <PrairieDog.tools.left_claw.label>linkerklauw</PrairieDog.tools.left_claw.label>
+  <!-- EN: claw -->
+  <PrairieDog.tools.left_claw.labelNoLocation>klauw</PrairieDog.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <PrairieDog.tools.right_claw.label>rechterklauw</PrairieDog.tools.right_claw.label>
+  <!-- EN: claw -->
+  <PrairieDog.tools.right_claw.labelNoLocation>klauw</PrairieDog.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <PrairieDog.tools.head.label>kop</PrairieDog.tools.head.label>
+  
+  <!-- EN: tiger -->
+  <Tiger.label>tijger</Tiger.label>
+  <!-- EN: A solitary and dangerous apex predator. Tigers make quick work of their prey, using a mix of stealth and razor-sharp claws. -->
+  <Tiger.description>Een solitair en gevaarlijk toproofdier. Tijgers besluipen hun prooi en gebruiken dan hun vlijmscherpe klauwen om er korte metten mee te maken.</Tiger.description>
+  <!-- EN: left claw -->
+  <Tiger.tools.left_claw.label>linkerklauw</Tiger.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Tiger.tools.left_claw.labelNoLocation>klauw</Tiger.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Tiger.tools.right_claw.label>rechterklauw</Tiger.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Tiger.tools.right_claw.labelNoLocation>klauw</Tiger.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Tiger.tools.head.label>kop</Tiger.tools.head.label>
+  
+  <!-- EN: greatwolf -->
+  <Wolf_Great.label>reuzenwolf</Wolf_Great.label>
+  <!-- EN: A genetically engineered canine modeled on long-extinct dire wolves. These fearsome predators were created as pets for the glitterworld elite. Wild greatwolves now populate many planets, due to their tendency to escape confinement. -->
+  <Wolf_Great.description>Een genetisch gemanipuleerde hondachtige, gemodelleerd naar de lang uitgestorven reuzenwolf. Deze angstaanjagende roofdieren werden als huisdier gecreëerd voor de elite van de glitterwereld. Doordat ze zeer bedreven zijn in het ontsnappen, komen nu op vele planeten roedels wilde reuzenwolven voor.</Wolf_Great.description>
+  <!-- EN: greatwolf meat -->
+  <Wolf_Great.race.meatLabel>reuzenwolfvlees</Wolf_Great.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Great.tools.left_claw.label>linkerklauw</Wolf_Great.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Great.tools.left_claw.labelNoLocation>klauw</Wolf_Great.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Great.tools.right_claw.label>rechterklauw</Wolf_Great.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Great.tools.right_claw.labelNoLocation>klauw</Wolf_Great.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Great.tools.head.label>kop</Wolf_Great.tools.head.label>
+  
+  <!-- EN: wolverine -->
+  <Wolverine.label>veelvraat</Wolverine.label>
+  <!-- EN: A small but ferocious predator. Wolverines are solitary animals that prefer to eat carrion but can kill animals many times their size if needed. -->
+  <Wolverine.description>Een klein maar woest roofdier. Veelvraten zijn solitair en eten het liefst aas, maar als het moet kunnen ze dieren doden die veel groter zijn dan zijzelf.</Wolverine.description>
+  <!-- EN: left claw -->
+  <Wolverine.tools.left_claw.label>linkerklauw</Wolverine.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolverine.tools.left_claw.labelNoLocation>klauw</Wolverine.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolverine.tools.right_claw.label>rechterklauw</Wolverine.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolverine.tools.right_claw.labelNoLocation>klauw</Wolverine.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolverine.tools.head.label>kop</Wolverine.tools.head.label>
+  
+</LanguageData>

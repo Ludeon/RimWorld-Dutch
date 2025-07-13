@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hive queen -->
+  <HiveQueen.label>hivekoningin</HiveQueen.label>
+  <!-- EN: The birth mother of an insect megahive. Under suitable conditions, several distinct insect hives will merge together and produce a hive queen. The queen quickly grows in size, becoming trapped in her own burrow. -->
+  <HiveQueen.description>De moeder van een insectenmegahive. Onder de juiste omstandigheden komen verschillende afzonderlijke insectennesten samen en brengen een hivekoningin voort. De koningin groeit snel in omvang, waardoor ze haar hol niet meer uit kan.</HiveQueen.description>
+  <!-- EN: Hive queen -->
+  <HiveQueen.comps.CompLetterOnRevealed.label>Hivekoningin</HiveQueen.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the center of the nest. It's guarded by a massive insect queen! -->
+  <HiveQueen.comps.CompLetterOnRevealed.text>Je hebt het centrum van het nest ontdekt. Het wordt bewaakt door een enorme insectenkoningin!</HiveQueen.comps.CompLetterOnRevealed.text>
+  <!-- EN: head claw -->
+  <HiveQueen.tools.head_claw.label>kophoorn</HiveQueen.tools.head_claw.label>
+  <!-- EN: head -->
+  <HiveQueen.tools.head.label>kop</HiveQueen.tools.head.label>
+  
+  <!-- EN: larva -->
+  <Larva.label>larve</Larva.label>
+  <!-- EN: The juvenile form of larger bioengineered insects. Larva maintain and expand hives using an acidic secretion. If provoked, they defend themselves by spewing sludge. -->
+  <Larva.description>De nakomelingen van grote, genetisch gemodificeerde insecten. Larven onderhouden en vergroten nesten door middel van een bijtende afscheiding. Ze verdedigen zich door brij te spuwen.</Larva.description>
+  <!-- EN: mandibles -->
+  <Larva.tools.mandibles.label>kaken</Larva.tools.mandibles.label>
+  <!-- EN: head -->
+  <Larva.tools.head.label>kop</Larva.tools.head.label>
+  
+  <!-- EN: locust -->
+  <Locust.label>sprinkhaan</Locust.label>
+  <!-- EN: A bioengineered insect capable of flying short distances. Specialized chemical receptors allow locusts to effectively forage for food. While relatively weak on their own, swarms of locusts can be deadly. -->
+  <Locust.description>Een genetisch gemodificeerd insect dat in staat is korte afstanden te vliegen. Door gespecialiseerde chemische receptoren kunnen sprinkhanen effectief voedsel zoeken. Als individu zijn het vrij zwakke dieren, maar zwermen sprinkhanen kunnen dodelijk zijn.</Locust.description>
+  <!-- EN: mandibles -->
+  <Locust.tools.mandibles.label>kaken</Locust.tools.mandibles.label>
+  <!-- EN: head -->
+  <Locust.tools.head.label>kop</Locust.tools.head.label>
+  
+</LanguageData>

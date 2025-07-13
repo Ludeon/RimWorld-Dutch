@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravship crew -->
+  <GravshipCrew.label>gravschipbemanning</GravshipCrew.label>
+  <!-- EN: The crew of a gravship. -->
+  <GravshipCrew.description>De bemanning van een gravschip.</GravshipCrew.description>
+  <!-- EN: leader -->
+  <GravshipCrew.leaderTitle>leider</GravshipCrew.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <GravshipCrew.messageDefendersAttacking>{0} van {1} vallen je {2} aan.</GravshipCrew.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <GravshipCrew.pawnSingular>kolonist</GravshipCrew.pawnSingular>
+  <!-- EN: colonists -->
+  <GravshipCrew.pawnsPlural>kolonisten</GravshipCrew.pawnsPlural>
+  
+</LanguageData>

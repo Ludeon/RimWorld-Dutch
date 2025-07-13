@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: salvager elite -->
+  <Salvager_Elite.label>eliteberger</Salvager_Elite.label>
+  <!-- EN: salvager elites -->
+  <Salvager_Elite.labelPlural>elitebergers</Salvager_Elite.labelPlural>
+  
+  <!-- EN: salvager pirate -->
+  <Salvager_Pirate.label>piraatberger</Salvager_Pirate.label>
+  
+  <!-- EN: scrapper -->
+  <Salvager_Scrapper.label>sloper</Salvager_Scrapper.label>
+  
+</LanguageData>

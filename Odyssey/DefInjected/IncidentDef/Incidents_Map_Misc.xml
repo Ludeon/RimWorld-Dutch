@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioluminescent spores -->
+  <BioluminescentSpores.label>bioluminescente sporen</BioluminescentSpores.label>
+  <!-- EN: Bioluminescent spores -->
+  <BioluminescentSpores.letterLabel>Bioluminescente sporen</BioluminescentSpores.letterLabel>
+  <!-- EN: Some variety of fungus is blossoming, releasing bioluminescent spores! The spores are strangely beautiful and pose no danger. -->
+  <BioluminescentSpores.letterText>Een bepaalde soort schimmel bloeit op en verspreidt bioluminescente sporen! De sporen zijn op een vreemde manier mooi en vormen geen gevaar.</BioluminescentSpores.letterText>
+  
+  <!-- EN: boomshroom sprout -->
+  <BoomshroomSprout.label>boomzwamuitloper</BoomshroomSprout.label>
+  <!-- EN: Boomshroom sprout -->
+  <BoomshroomSprout.letterLabel>Boomzwamuitloper</BoomshroomSprout.letterLabel>
+  <!-- EN: A cluster of explosive boomshrooms has sprouted nearby!\n\nThese mushrooms only grow in darkness. Once they mature, they can be harvested for chemfuel.\n\nBe careful - mature boomshrooms explode if damaged. -->
+  <BoomshroomSprout.letterText>Een groep explosieve boomzwammen is in de buurt opgekomen!\n\nDeze paddenstoelen groeien alleen in het donker. Zodra ze volgroeid zijn, kunnen ze geoogst worden voor chembrandstof.\n\nWees voorzichtig – volgroeide boomzwammen exploderen als ze beschadigd raken.</BoomshroomSprout.letterText>
+  
+  <!-- EN: drought -->
+  <Drought.label>droogte</Drought.label>
+  <!-- EN: drought -->
+  <Drought.letterLabel>droogte</Drought.letterLabel>
+  
+  <!-- EN: initial drought conditions -->
+  <DroughtInitial.label>voorwaarden voor beginnende droogte</DroughtInitial.label>
+  
+  <!-- EN: gill rot -->
+  <GillRot.label>kieuwrot</GillRot.label>
+  <!-- EN: gill rot -->
+  <GillRot.letterLabel>kieuwrot</GillRot.letterLabel>
+  
+  <!-- EN: lava emergence -->
+  <LavaEmergence.label>lava-opkomst</LavaEmergence.label>
+  
+  <!-- EN: lava flow -->
+  <LavaFlow.label>lavastroom</LavaFlow.label>
+  
+  <!-- EN: orbital debris -->
+  <OrbitalDebris.label>ruimtepuin</OrbitalDebris.label>
+  <!-- EN: Orbital debris -->
+  <OrbitalDebris.letterLabel>Ruimtepuin</OrbitalDebris.letterLabel>
+  <!-- EN: A cloud of orbital debris is hurtling towards your position and will impact within seconds. Get your colonists under a roof. -->
+  <OrbitalDebris.letterText>Een wolk ruimtepuin snelt richting jouw locatie en zal binnen enkele seconden inslaan. Zorg dat je kolonisten onder een dak staan.</OrbitalDebris.letterText>
+  
+  <!-- EN: seasonal flooding -->
+  <SeasonalFlooding.label>seizoensoverstromingen</SeasonalFlooding.label>
+  
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.label>vulkanische as</VolcanicAsh.label>
+  <!-- EN: Volcanic ash -->
+  <VolcanicAsh.letterLabel>Vulkanische as</VolcanicAsh.letterLabel>
+  
+  <!-- EN: volcanic debris -->
+  <VolcanicDebris.label>vulkanisch puin</VolcanicDebris.label>
+  <!-- EN: Volcanic debris -->
+  <VolcanicDebris.letterLabel>Vulkanisch puin</VolcanicDebris.letterLabel>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.letterText>Een nabijgelegen vulkaan barst uit en bestookt de regio met gesmolten lava!</VolcanicDebris.letterText>
+  
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomshroom -->
+  <Boomshroom.label>boomzwam</Boomshroom.label>
+  <!-- EN: These mushrooms produce volatile chemicals as a defensive measure. They can be harvested for chemfuel. However, this must be done with extreme caution, as the mushrooms can explode if they're destroyed.\n\nGlitterworld researchers have used genetic material from boomshrooms to bioengineer a number of chemfuel-producing animals. -->
+  <Boomshroom.description>Deze paddenstoelen produceren vluchtige chemicaliën als verdedigingsmechanisme. Ze kunnen geoogst worden voor chembrandstof. Dit moet echter uiterst voorzichtig gebeuren, want de paddenstoelen kunnen exploderen als ze worden vernietigd.\n\nOnderzoekers uit de glitterwereld hebben met genetisch materiaal van boomzwammen verschillende dieren ontwikkeld die chembrandstof produceren.</Boomshroom.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry_Leafless.label>bessenstruik</Plant_Berry_Leafless.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry_Leafless.description>Een wilde struik die heerlijke bessen oplevert. Je kunt bessen koken, maar je kunt ze ook rauw eten.</Plant_Berry_Leafless.description>
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles_Leafless.label>braamstruiken</Plant_Brambles_Leafless.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles_Leafless.description>Verstrengelde, doornige, houtachtige scheuten met bladeren. Braamstruiken groeien nooit alleen en vertragen iedereen die erdoorheen gaat.</Plant_Brambles_Leafless.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush_Leafless.label>struik</Plant_Bush_Leafless.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush_Leafless.description>Een kleine struik. Doorgaans niet zo spraakzaam.</Plant_Bush_Leafless.description>
+  
+  <!-- EN: fireweed -->
+  <Plant_Fireweed.label>vuurkruid</Plant_Fireweed.label>
+  <!-- EN: A low-lying plant that produces clusters of purple flowers. It is common in alpine environments. -->
+  <Plant_Fireweed.description>Een bodembedekker die trossen paarse bloemen produceert. Komt veel voor in berggebieden.</Plant_Fireweed.description>
+  
+  <!-- EN: magma cactus -->
+  <Plant_MagmaCactus.label>magmacactus</Plant_MagmaCactus.label>
+  <!-- EN: A resilient species of cactus notable for its ability to survive extreme heat. -->
+  <Plant_MagmaCactus.description>Een taaie cactussoort die bekend staat om zijn vermogen om extreme hitte te overleven.</Plant_MagmaCactus.description>
+  
+  <!-- EN: night grass -->
+  <Plant_Nightgrass.label>nachtgras</Plant_Nightgrass.label>
+  <!-- EN: A grass-like fungus that grows as part of a massive mycelium network. -->
+  <Plant_Nightgrass.description>Een grasachtige schimmel die onderdeel uitmaakt van een enorm myceliumnetwerk.</Plant_Nightgrass.description>
+  
+  <!-- EN: night rafflesia -->
+  <Plant_NightRafflesia.label>nachtrafflesia</Plant_NightRafflesia.label>
+  <!-- EN: A distant cousin of the giant rafflesia, this plant has adapted to thrive in dark locations. Its beauty is tempered by a strong stench of musk and rotten eggs. -->
+  <Plant_NightRafflesia.description>Deze verre verwant van de reuzenrafflesia is aangepast om te gedijen op donkere plekken. Zijn schoonheid wordt ietwat ondermijnd door zijn sterke geur van muskus en rotte eieren.</Plant_NightRafflesia.description>
+  
+  <!-- EN: psilocap -->
+  <Plant_Psilocap.label>psilokap</Plant_Psilocap.label>
+  <!-- EN: A fungus that gives off hallucinogenic spores. Standing next to them is enough to produce mild hallucinations. Psilocaps can be harvested and ingested to produce a vivid sensory experience that increases the user's mood. -->
+  <Plant_Psilocap.description>Een schimmel die hallucinogene sporen afgeeft. als je er alleen maar naast staat, kun je al licht gaan hallucineren. Je kunt psilokappen oogsten en opeten om een intense zintuiglijke ervaring te veroorzaken die de stemming verbetert.</Plant_Psilocap.description>
+  
+  <!-- EN: thornvine -->
+  <Plant_Thornvine.label>doornrank</Plant_Thornvine.label>
+  <!-- EN: A prickly vine adapted to living in harsh conditions. -->
+  <Plant_Thornvine.description>Een stekelige rank die is aangepast aan barre omstandigheden.</Plant_Thornvine.description>
+  
+  <!-- EN: snagroot tree -->
+  <Plant_TreeSnagroot.label>klampwortelboom</Plant_TreeSnagroot.label>
+  <!-- EN: A gnarled slow-growing tree, adapted to live in toxic scarlands. When harvested, it yields a meager amount of wood. -->
+  <Plant_TreeSnagroot.description>Een knoestige, langzaam groeiende boom die aangepast is aan het leven in de giftige littekenlanden. Levert bij het oogsten een magere hoeveelheid hout op.</Plant_TreeSnagroot.description>
+  
+  <!-- EN: willowgill -->
+  <Plant_Willowgill.label>wilgentondel</Plant_Willowgill.label>
+  <!-- EN: A tall spindly slow-growing mushroom with gills that droop like a willow tree. It gives off a soft light. -->
+  <Plant_Willowgill.description>Een lange, sprietige, langzaam groeiende paddenstoel met lamellen die hangen als een treurwilg. Heeft een zachte glans.</Plant_Willowgill.description>
+  
+  <!-- EN: yellow grass -->
+  <Plant_YellowGrass.label>geel gras</Plant_YellowGrass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_YellowGrass.description>Wild gras. Groeit overal waar een beetje licht en minimaal vruchtbare grond is.</Plant_YellowGrass.description>
+  
+  <!-- EN: tall yellow grass -->
+  <Plant_YellowTallGrass.label>hoog geel gras</Plant_YellowTallGrass.label>
+  <!-- EN: Wild tall grass that grows in tough thickets. It slows down anyone moving over it. -->
+  <Plant_YellowTallGrass.description>Wild hoog gras dat groeit in dichte struikgewassen. Het vertraagt iedereen die eroverheen loopt.</Plant_YellowTallGrass.description>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned colony -->
+  <AbandonedColonyOutlander.label>verlaten kolonie</AbandonedColonyOutlander.label>
+  <!-- EN: A recently abandoned colony. -->
+  <AbandonedColonyOutlander.description>Een recent verlaten kolonie.</AbandonedColonyOutlander.description>
+  
+  <!-- EN: abandoned colony -->
+  <AbandonedColonyTribal.label>verlaten kolonie</AbandonedColonyTribal.label>
+  <!-- EN: A recently abandoned colony. -->
+  <AbandonedColonyTribal.description>Een recent verlaten kolonie.</AbandonedColonyTribal.description>
+  
+  <!-- EN: ancient heat vent -->
+  <AncientHeatVent.label>oude hitteschacht</AncientHeatVent.label>
+  <!-- EN: Ancient ducts will regularly vent heat from an underground megastructure, dramatically raising the temperature of the surrounding area. -->
+  <AncientHeatVent.description>Oude leidingen voeren regelmatig warmte af uit een ondergrondse megaconstructie, waardoor de temperatuur in het omliggende gebied sterk stijgt.</AncientHeatVent.description>
+  
+  <!-- EN: ancient quarry -->
+  <AncientQuarry.label>oude steengroeve</AncientQuarry.label>
+  <!-- EN: This area was once mined for its natural resources, and the remains of the ancient quarry are still here. -->
+  <AncientQuarry.description>Dit gebied werd ooit afgegraven voor zijn natuurlijke hulpbronnen, en de restanten van de oude steengroeve zijn nog steeds aanwezig.</AncientQuarry.description>
+  
+  <!-- EN: ruins -->
+  <AncientRuins.label>ruïnes</AncientRuins.label>
+  <!-- EN: The remains of an ancient settlement. These ruins may contain a wide variety of possible threats. -->
+  <AncientRuins.description>De resten van een oude nederzetting. Deze ruïnes kunnen allerlei verschillende gevaren bevatten.</AncientRuins.description>
+  
+  <!-- EN: frozen ruins -->
+  <AncientRuins_Frozen.label>bevroren ruïnes</AncientRuins_Frozen.label>
+  <!-- EN: The ruins of an ancient settlement, now encased in solid ice. These ruins may contain untold dangers. -->
+  <AncientRuins_Frozen.description>De ruïnes van een oude nederzetting, nu gehuld in vast ijs. Deze ruïnes kunnen onbekende gevaren bevatten.</AncientRuins_Frozen.description>
+  
+  <!-- EN: ancient smoke vent -->
+  <AncientSmokeVent.label>oude rookschacht</AncientSmokeVent.label>
+  <!-- EN: This area has a number of massive exhaust vents. An ancient mechanism buried deep beneath the earth will occasionally vent large amounts of smoke, blocking out the sun for days at a time. -->
+  <AncientSmokeVent.description>Dit gebied heeft een aantal enorme uitlaatschachten. Een oud mechanisme diep onder de grond stoot af en toe grote hoeveelheden rook uit, die de zon dagenlang verduisteren.</AncientSmokeVent.description>
+  
+  <!-- EN: ancient toxic vent -->
+  <AncientToxVent.label>oude gifschacht</AncientToxVent.label>
+  <!-- EN: Massive toxic vents will regularly spew toxic fallout into the air. The vents connect to an ancient substructure buried deep beneath the earth. -->
+  <AncientToxVent.description>Massieve gifschachten spuwen regelmatig gifdeeltjes de lucht in die giftige neerslag veroorzaken. De schachten zijn verbonden met een oude substructuur diep onder de aarde.</AncientToxVent.description>
+  
+  <!-- EN: ancient uplink -->
+  <AncientUplink.label>oude uplink</AncientUplink.label>
+  <!-- EN: This area contains an uplink used for communication with a low orbit satellite. Hacking the uplink will reveal a hidden location in orbit. -->
+  <AncientUplink.description>Dit gebied bevat een uplink die werd gebruikt voor communicatie met een satelliet in een lage baan om de planeet. Als je de uplink hackt, wordt een verborgen locatie in een baan om de planeet zichtbaar.</AncientUplink.description>
+  
+  <!-- EN: harbor -->
+  <Harbor.label>haven</Harbor.label>
+  <!-- EN: An abandoned coastal settlement. -->
+  <Harbor.description>Een verlaten kustnederzetting.</Harbor.description>
+  
+  <!-- EN: stockpile -->
+  <Stockpile.label>opslagplaats</Stockpile.label>
+  <!-- EN: This area contains an underground stockpile of resources. Be careful, some of the ancient defense systems may still be active. -->
+  <Stockpile.description>Dit gebied bevat een ondergrondse opslagplaats. Wees voorzichtig, sommige oude verdedigingssystemen zijn mogelijk nog actief.</Stockpile.description>
+  
+</LanguageData>

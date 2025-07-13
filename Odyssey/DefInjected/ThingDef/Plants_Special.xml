@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archean seed -->
+  <ArcheanSeed.label>archeaanzaad</ArcheanSeed.label>
+  <!-- EN: The seed of an archean tree. It can be planted to grow an archean tree, which converts nearby terrain into rich soil.\n\nArchean trees were bioengineered to terraform deadworlds and early-stage rimworlds. They are hardy enough to survive in the vacuum of space and produce a small amount of oxygen. The tree's delicate roots prevent it from being replanted. -->
+  <ArcheanSeed.description>Het zaad van een archeaanboom. Het kan geplant worden om een archeaanboom te kweken, die de nabijgelegen grond omzet in vruchtbare aarde.\n\nArcheaanbomen zijn genetisch gemodificeerd om dode werelden en jonge rimwerelden te terraformen. Ze zijn sterk genoeg om te overleven in het vacuüm van de ruimte en produceren een kleine hoeveelheid zuurstof. Door het delicate wortelstelsel kan de boom niet verplant worden.</ArcheanSeed.description>
+  
+  <!-- EN: chopped Archean stump -->
+  <ChoppedStump_Archean.label>archeaanstronk</ChoppedStump_Archean.label>
+  <!-- EN: A stump left behind after an archean tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Archean.description>Een stronk die is achtergebleven nadat een archeaanboom is geveld. De stronk kan verwijderd worden, maar levert zeer weinig bruikbaar hout op. Als hij buiten blijft staan, zal de stronk na verloop van tijd vergaan.</ChoppedStump_Archean.description>
+  
+  <!-- EN: archean tree -->
+  <Plant_TreeArchean.label>archeaanboom</Plant_TreeArchean.label>
+  <!-- EN: A tree bioengineered to terraform deadworlds and early-stage rimworlds. The tree hosts a special microbial community in its roots which enriches nearby terrain into rich soil. The trees are hardy enough to survive in the vacuum of space and produce a small amount of oxygen.\n\nArchean trees are sterile, preventing them from becoming an invasive species after terraforming has been completed. They can only be grown from seeds produced on glitterworld planets. The tree's delicate root system prevents it from being replanted. -->
+  <Plant_TreeArchean.description>Een boom die genetisch is gemodificeerd om dode werelden en vroege rimwerelden te terraformen. De wortels van de boom bevatten speciale microben die de nabijgelegen grond verrijken tot vruchtbare aarde. De bomen zijn sterk genoeg om te overleven in het vacuüm van de ruimte en produceren een kleine hoeveelheid zuurstof.\n\nArcheaanbomen zijn steriel, waardoor ze na terraforming geen invasieve soort worden. Ze kunnen alleen worden gekweekt uit zaden geproduceerd op glitterwereldplaneten. Door het delicate wortelstelsel kan de boom niet verplant worden.</Plant_TreeArchean.description>
+  
+  <!-- EN: smashed Archean stump -->
+  <SmashedStump_Archean.label>verwoeste archeaanstronk</SmashedStump_Archean.label>
+  <!-- EN: The remnants of an archean tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Archean.description>De resten van een archeaanboom die door schade is vernietigd. Heel lelijk. De stronk kan verwijderd worden, maar levert zeer weinig bruikbaar hout op. Als hij buiten blijft staan, zal de stronk na verloop van tijd vergaan.</SmashedStump_Archean.description>
+  
+</LanguageData>

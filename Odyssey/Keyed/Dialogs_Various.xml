@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Grav engine/substructrues -->
+  <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. -->
+  <ConfirmGravEngineLaunch>Weet je zeker dat je wilt lanceren?\n\nJe huidige kaart, evenals alles wat niet op de gravschip-substructuur staat, zal permanent verloren gaan. Het lanceringsproces is destructief, wat betekent dat je niet kunt terugkeren.</ConfirmGravEngineLaunch>
+  <!-- EN: Warning -->
+  <GravEngineWarning>Waarschuwing</GravEngineWarning>
+  <!-- EN: The following people will be left behind -->
+  <PeopleWillBeLeftBehind>De volgende personen worden achtergelaten</PeopleWillBeLeftBehind>
+  <!-- EN: The following will be left behind -->
+  <AnimalsWillBeLeftBehind>De volgende dieren worden achtergelaten</AnimalsWillBeLeftBehind>
+  <!-- EN: The following people and animals from another faction will be taken with you. This will upset their faction, potentially turning them hostile -->
+  <PawnsKidnappedOnGravship>Je zult de volgende mensen en dieren van een andere factie met je meenemen. Dit zal hun factie boos maken en mogelijk vijandig maken</PawnsKidnappedOnGravship>
+  <!-- EN: The following buildings are not fully on the gravship and will be left behind -->
+  <BuildingsWillBeLeftBehind>De volgende gebouwen staan niet volledig op het gravschip en worden achtergelaten</BuildingsWillBeLeftBehind>
+  <!-- EN: Some substructure has invalid placement and will be left behind -->
+  <SubstructureWillBeLeftBehind>Ongeldige plaatsing van substructuur. Substructuur wordt verwijderd</SubstructureWillBeLeftBehind>
+  <!-- EN: Disconnected from grav engine -->
+  <DisconnectedSubstructure>Losgekoppeld van gravmotor</DisconnectedSubstructure>
+  <!-- EN: Under rock roof -->
+  <SubstructureUnderRockRoof>Onder een rotsdak</SubstructureUnderRockRoof>
+  <!-- EN: Out of range -->
+  <SubstructureOutsideFootprint>Buiten bereik</SubstructureOutsideFootprint>
+
+  <!-- EN: {0} has high hopes for your new gravship and wants to christen it with a good name. What should your gravship be called? -->
+  <NamePlayerGravshipMessage>{0} heeft hoge verwachtingen van je nieuwe gravschip en wil het graag een goede naam geven. Hoe wil je je gravschip noemen?</NamePlayerGravshipMessage>
+  <!-- EN: The gravship is now known as {0}. -->
+  <PlayerGravshipGainsName>Het gravschip staat nu bekend als {0}.</PlayerGravshipGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerGravshipNameIsInvalid>Die naam is niet geldig.</PlayerGravshipNameIsInvalid>
+
+  <!-- EN: {0} are hostile. If you land here they will attack you. -->
+  <ConfirmLandOnHostileFactionBase>{0} is vijandig. Als je hier landt, zul je worden aangevallen.</ConfirmLandOnHostileFactionBase>
+  <!-- EN: Landing here will be seen as an aggressive act by {0}. They will become hostile and attack. -->
+  <ConfirmLandOnNeutralFactionBase>Hier landen wordt door {0} als een agressieve daad gezien. Ze zullen vijandig worden en aanvallen.</ConfirmLandOnNeutralFactionBase>
+
+  <!-- EN: Land here anyway? -->
+  <ConfirmLand>Toch hier landen?</ConfirmLand>
+
+  <!-- EN: Orbital locations are dangerous. Make sure you're prepared:\n - Equip your colonists with vacsuits or other advanced armors.\n - Plan your return trip. Living in orbit for extended periods is extremely challenging. -->
+  <OrbitalWarning>Orbitale locaties zijn gevaarlijk. Zorg dat je goed voorbereid bent:\n - Rust je kolonisten uit met vacuüumpakken of andere geavanceerde bepantsering.\n - Plan je terugreis. Langere tijd in een baan om een planeet leven is zeer zwaar.</OrbitalWarning> <!-- text_todo -->
+  <!-- EN: Prepare your gravship for orbit:\n- Use airtight walls and doors.\n- Ensure rooms are well heated and fully roofed.\n- Construct oxygen pumps. -->
+  <OrbitalWarning_Gravship>Bereid je gravschip voor op de ruimte:\n- Gebruik luchtdichte muren en deuren.\n- Zorg dat kamers goed verwarmd en volledig overdekt zijn.\n- Bouw zuurstofpompen.</OrbitalWarning_Gravship> <!-- text_todo -->
+  <!-- EN: Warning -->
+  <OrbitalWarning_Warning>Waarschuwing</OrbitalWarning_Warning> <!-- text_todo -->
+  <!-- EN: Some exterior walls or doors are not airtight. -->
+  <OrbitalWarning_Vacuum>Sommige buitenmuren of deuren zijn niet luchtdicht.</OrbitalWarning_Vacuum> <!-- text_todo -->
+  <!-- EN: No functional heat sources. -->
+  <OrbitalWarning_NoHeatSources>Geen functionerende warmtebronnen.</OrbitalWarning_NoHeatSources> <!-- text_todo -->
+  <!-- EN: Few functional heat sources -->
+  <OrbitalWarning_FewHeatSources>Weinig functionerende warmtebronnen</OrbitalWarning_FewHeatSources> <!-- text_todo -->
+  <!-- EN: No functional oxygen pumps. -->
+  <OrbitalWarning_NoOxygenPumps>Geen functionerende zuurstofpompen.</OrbitalWarning_NoOxygenPumps> <!-- text_todo -->
+  <!-- EN: Few functional oxygen pumps -->
+  <OrbitalWarning_FewOxygenPumps>Weinig functionerende zuurstofpompen</OrbitalWarning_FewOxygenPumps> <!-- text_todo -->
+
+  <!-- EN: The shuttle does not have enough fuel to return from this destination. It may be stranded.\n\nYou currently have {0} fuel but need {1} fuel for a return flight.\n\nAre you sure you want to continue? -->
+  <ConfirmShuttleNotEnoughFuelToReturn>De shuttle heeft niet genoeg brandstof om terug te keren van deze bestemming. Hij kan mogelijk stranden.\n\nJe hebt momenteel {0} brandstof maar hebt {1} brandstof nodig voor een terugreis.\n\nWeet je zeker dat je wilt doorgaan?</ConfirmShuttleNotEnoughFuelToReturn>
+  <!-- EN: Caravan is immobile due to shuttle -->
+  <CaravanMovementSpeedShuttle>Karavaan is immobiel door shuttle</CaravanMovementSpeedShuttle>
+  <!-- EN: Refuel {0}x chemfuel -->
+  <RefuelShuttleCount>Vul bij met {0}x chembrandstof</RefuelShuttleCount>
+  <!-- EN: Zoom range (gravship) {0} -->
+  <ZoomRangeGravshipCutscene>Zoombereik (gravschip) {0}</ZoomRangeGravshipCutscene>
+
+</LanguageData>

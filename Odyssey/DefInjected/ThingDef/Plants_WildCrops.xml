@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wild cotton plant -->
+  <Plant_Cotton_Wild.label>wilde katoenplant</Plant_Cotton_Wild.label>
+  <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
+  <Plant_Cotton_Wild.description>Een plant van gemiddelde grootte die fijne katoenvezels oplevert. Hieruit wordt stof gemaakt.</Plant_Cotton_Wild.description>
+  
+  <!-- EN: wild fibercorn -->
+  <Plant_Fibercorn_Wild.label>wilde vezelmais</Plant_Fibercorn_Wild.label>
+  <!-- EN: An inedible, fibrous plant which produces a small amount of a wood-like substance. -->
+  <Plant_Fibercorn_Wild.description>Een oneetbare, vezelrijke plant die een kleine hoeveelheid houtachtig materiaal produceert.</Plant_Fibercorn_Wild.description>
+  
+  <!-- EN: wild psychoid plant -->
+  <Plant_Psychoid_Wild.label>wilde psychoïdeplant</Plant_Psychoid_Wild.label>
+  <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
+  <Plant_Psychoid_Wild.description>Een lommerrijke plant die de chemische verbinding psychiet maakt. De stof werd oorspronkelijk ontwikkeld als afweermechanisme tegen plantenetende dieren, door ze te overstimuleren en ziek te maken. Het kan worden gewonnen en verfijnd tot verschillende vormen voor recreatief gebruik. Het is verslavend.</Plant_Psychoid_Wild.description>
+  
+  <!-- EN: wild smokeleaf plant -->
+  <Plant_Smokeleaf_Wild.label>wilde rookbladplant</Plant_Smokeleaf_Wild.label>
+  <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
+  <Plant_Smokeleaf_Wild.description>Een lommerrijk gewas dat wordt gekweekt vanwege de psychologische effecten van chemicaliën in de bladeren. Rookbladbladeren kunnen op de handwerkplek tot joints worden gerold. Rookblad zorgt ervoor dat een gebruiker zich ontspannen voelt, maar vermindert de motivatie en kan verslavend zijn.</Plant_Smokeleaf_Wild.description>
+  
+  <!-- EN: wild strawberry plant -->
+  <Plant_Strawberry_Wild.label>wilde aardbeienplant</Plant_Strawberry_Wild.label>
+  <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
+  <Plant_Strawberry_Wild.description>Een lage, struikachtige plant die kwetsbare, maar heerlijke aardbeien oplevert. Hoewel niet zoveel calorieën oplevert als andere gewassen, zijn aardbeien heerlijk. Zelfs rauw.</Plant_Strawberry_Wild.description>
+  
+  <!-- EN: wild tinctoria -->
+  <Plant_Tinctoria_Wild.label>wilde tinctoria</Plant_Tinctoria_Wild.label>
+  <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
+  <Plant_Tinctoria_Wild.description>Een genetisch gemodificeerd, bloemachtig gewas dat een zelf-aanpassende kleurstof afscheidt. Tinctoriakleurstof kan in verschillende kleuren worden omgezet en gebruikt worden om onder andere muren en gebouwen een andere kleur te geven.</Plant_Tinctoria_Wild.description>
+  
+  <!-- EN: wild cocoa tree -->
+  <Plant_TreeCocoa_Wild.label>wilde cacaoboom</Plant_TreeCocoa_Wild.label>
+  <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
+  <Plant_TreeCocoa_Wild.description>Een tropische boom die chocolade produceert. Hij is genetisch gemanipuleerd om zijn eigen product zoeter te maken en kan overleven in iets minder warme klimaten.</Plant_TreeCocoa_Wild.description>
+  
+</LanguageData>

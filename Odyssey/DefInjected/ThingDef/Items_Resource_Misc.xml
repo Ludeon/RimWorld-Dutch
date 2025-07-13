@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravcore -->
+  <Gravcore.label>gravkern</Gravcore.label>
+  <!-- EN: An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be installed in a grav engine to increase lift capacity. -->
+  <Gravcore.description>Een ultratech-apparaat dat een ongestructureerd gravitonenveld genereert. Het is op zichzelf nutteloos, maar kan in een gravmotor worden geïnstalleerd om het draagvermogen te verhogen.</Gravcore.description>
+  
+  <!-- EN: gravlite panel -->
+  <GravlitePanel.label>gravlitepaneel</GravlitePanel.label>
+  <!-- EN: A sheet of advanced polymer used in the construction of gravships. It's lightweight and has a high graviton conductance, making it ideal for gravtech structures.\n\nRequires stellite blocks, which can be obtained from orbital asteroids. -->
+  <GravlitePanel.description>Een plaat van geavanceerd polymeer die wordt gebruikt bij de bouw van gravschepen. Het is licht en heeft een hoge gravitonengeleiding, waardoor het ideaal is voor gravtechconstructies.\n\nVereist vacsteenblokken, die je kunt verkrijgen van orbitale asteroïden.</GravlitePanel.description>
+  
+  <!-- EN: shuttle engine -->
+  <ShuttleEngine.label>shuttlemotor</ShuttleEngine.label>
+  <!-- EN: An engine capable of powering a small shuttle. Shuttle engines can only be manufactured in large specialized factories, making them rare on the rim. -->
+  <ShuttleEngine.description>Een motor die in staat is om een kleine shuttle aan te drijven. Shuttlemotoren kunnen alleen worden vervaardigd in grote gespecialiseerde fabrieken, waardoor ze zeldzaam zijn op de rim.</ShuttleEngine.description>
+  
+</LanguageData>

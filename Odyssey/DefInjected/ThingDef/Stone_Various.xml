@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stellite blocks -->
+  <BlocksStellite.label>vacsteenblokken</BlocksStellite.label>
+  <!-- EN: Blocks of compacted stellite rock harvested from asteroids. -->
+  <BlocksStellite.description>Blokken van samengeperste vacsteenrots gewonnen uit asteroïden.</BlocksStellite.description>
+  
+  <!-- EN: stellite chunk -->
+  <ChunkStellite.label>vacsteenbrok</ChunkStellite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkStellite.description>Een rotsblok dat tot bruikbare stenen blokken kan worden verwerkt.</ChunkStellite.description>
+  
+  <!-- EN: smoothed solid ice -->
+  <SmoothedSolidIce.label>gepolijst massief ijs</SmoothedSolidIce.label>
+  <!-- EN: Solid glacial ice. It can be mined through with relative ease. The polished surface glistens a soft light blue. -->
+  <SmoothedSolidIce.description>Massief gletsjerijs. Kan relatief eenvoudig worden gemijnd. Het gepolijste oppervlak fonkelt lichtblauw.</SmoothedSolidIce.description>
+  
+  <!-- EN: smoothed stellite -->
+  <SmoothedStellite.label>gepolijst vacsteen</SmoothedStellite.label>
+  <!-- EN: Smoothed, compacted rock and dust harvested from asteroids. -->
+  <SmoothedStellite.description>Gepolijste, samengeperste rots en stof gewonnen uit asteroïden.</SmoothedStellite.description>
+  
+  <!-- EN: solid ice -->
+  <SolidIce.label>massief ijs</SolidIce.label>
+  <!-- EN: Solid glacial ice. It can be mined through with relative ease. -->
+  <SolidIce.description>Massief gletsjerijs. Kan relatief eenvoudig worden gemijnd.</SolidIce.description>
+  
+  <!-- EN: stellite -->
+  <Stellite.label>vacsteen</Stellite.label>
+  <!-- EN: Compacted rock and dust harvested from asteroids. -->
+  <Stellite.description>Samengeperste rots en stof, gewonnen uit asteroïden.</Stellite.description>
+  
+</LanguageData>

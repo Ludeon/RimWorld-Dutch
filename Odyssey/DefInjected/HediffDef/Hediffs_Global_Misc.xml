@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grav nausea -->
+  <GravNausea.label>zwaartekrachtmisselijkheid</GravNausea.label>
+  <!-- EN: Intense nausea caused by sudden acceleration or deceleration on a gravship. -->
+  <GravNausea.description>Ernstige misselijkheid veroorzaakt door plotselinge versnelling of vertraging in een gravschip.</GravNausea.description>
+  
+  <!-- EN: thrumbo roar -->
+  <ThrumboRoar.label>drumbobrul</ThrumboRoar.label>
+  <!-- EN: This creature has been shaken by the powerful roar of a thrumbo. -->
+  <ThrumboRoar.description>Dit wezen is geschokt door het krachtige gebrul van een drumbo.</ThrumboRoar.description>
+  
+  <!-- EN: vacuum exposure -->
+  <VacuumExposure.label>vacuümblootstelling</VacuumExposure.label>
+  <!-- EN: This creature is suffering a variety of negative effects caused by exposure to the vacuum of space, including hypoxia and decompression sickness. They will soon die unless they can get to a pressurized area. -->
+  <VacuumExposure.description>Dit wezen lijdt aan verschillende negatieve effecten door blootstelling aan het vacuüm van de ruimte, waaronder hypoxie en decompressieziekte. Als het niet snel een gebied met luchtdruk bereikt, is het gedoemd te sterven.</VacuumExposure.description>
+  <!-- EN: initial -->
+  <VacuumExposure.stages.initial-0.label>miniem(e)</VacuumExposure.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VacuumExposure.stages.initial-1.label>miniem(e)</VacuumExposure.stages.initial-1.label>
+  <!-- EN: mild -->
+  <VacuumExposure.stages.mild.label>mild(e)</VacuumExposure.stages.mild.label>
+  <!-- EN: moderate -->
+  <VacuumExposure.stages.moderate.label>gematigd(e)</VacuumExposure.stages.moderate.label>
+  <!-- EN: extreme -->
+  <VacuumExposure.stages.extreme.label>extreem/extreme</VacuumExposure.stages.extreme.label>
+  
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.label>vulkanische as</VolcanicAsh.label>
+  <!-- EN: Ash from a volcanic eruption. -->
+  <VolcanicAsh.description>As afkomstig van een vulkaanuitbarsting.</VolcanicAsh.description>
+  
+  <!-- EN: war trumpet -->
+  <WarTrumpet.label>oorlogstrompet</WarTrumpet.label>
+  <!-- EN: This creature has been shaken by the powerful trumpeting of a mighty beast. -->
+  <WarTrumpet.description>Dit wezen is geschokt door het krachtige trompetgeschal van een machtig beest.</WarTrumpet.description>
+  
+</LanguageData>

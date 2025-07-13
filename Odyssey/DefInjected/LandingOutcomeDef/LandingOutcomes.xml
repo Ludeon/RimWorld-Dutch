@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grav nausea -->
+  <GravNausea.letterLabel>zwaartekrachtmisselijkheid</GravNausea.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} was forced to do an emergency maneuver, resulting in an intense and prolonged deceleration. The experience has left your colonists feeling extremely nauseous. The effects will quickly fade. -->
+  <GravNausea.letterText>Tijdens de landing van {GRAVSHIP} moest {PILOT_nameDef} een noodmanoeuvre uitvoeren, wat leidde tot een heftig en langdurig afremmingsproces. Je kolonisten voelen zich hierdoor extreem misselijk. De effecten zullen snel verdwijnen.</GravNausea.letterText>
+  
+  <!-- EN: minor gravship crash -->
+  <MinorGravshipCrash.letterLabel>kleine gravschipcrash</MinorGravshipCrash.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} accidentally disengaged the grav engine too early, causing the gravship to free-fall for several feet. Some buildings on the gravship have sustained light damage from the crash. -->
+  <MinorGravshipCrash.letterText>Tijdens de landing van {GRAVSHIP} schakelde {PILOT_nameDef} per ongeluk de gravmotor te vroeg uit, waardoor het gravschip enkele meters vrij viel. Sommige gebouwen op het gravschip hebben lichte schade opgelopen door de crash.</MinorGravshipCrash.letterText>
+  
+  <!-- EN: overheated grav engine -->
+  <OverheatedGravEngine.letterLabel>oververhitte gravmotor</OverheatedGravEngine.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} over-engaged the grav engine, causing it to overheat. The grav engine will take longer than normal to cool down. In the meantime, the gravship can't be launched. -->
+  <OverheatedGravEngine.letterText>Tijdens de landing van {GRAVSHIP} heeft {PILOT_nameDef} de gravmotor te zwaar belast, waardoor deze is oververhit. Het duurt nu langer dan normaal voordat de motor is afgekoeld. In de tussentijd kan het gravschip niet gelanceerd worden.</OverheatedGravEngine.letterText>
+  
+  <!-- EN: thruster breakdown -->
+  <ThrusterBreakdown.letterLabel>stuwraketstoring</ThrusterBreakdown.letterLabel>
+  <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} overheated the ship's thrusters, frying valuable components. The thrusters will need to be repaired before they can be used again. -->
+  <ThrusterBreakdown.letterText>Tijdens de landing van {GRAVSHIP} oververhitte {PILOT_nameDef} de stuwraketten van het schip, waardoor waardevolle componenten zijn doorgebrand. De stuwraketten hebben reparatie nodig voordat ze opnieuw gebruikt kunnen worden.</ThrusterBreakdown.letterText>
+  
+</LanguageData>

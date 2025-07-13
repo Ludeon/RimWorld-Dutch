@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fishing -->
+  <Fishing.label>vissen</Fishing.label>
+  <!-- EN: Place a 'fishing zone' where your hunters will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nHunters with a high animals skill catch more fish faster. -->
+  <Fishing.helpText>Plaats een 'viszone' waar je jagers kunnen vissen. In grotere watermassa's kun je beter vissen.\n\nVissen laat de vispopulatie in een watermassa dalen.\n\nVoorkom overbevissing. Je vangt minder vis als een watermassa minder dan 300 vissen bevat.\n\nJagers met een hoge diervaardigheid vangen sneller meer vissen.</Fishing.helpText>
+  
+  <!-- EN: gravship -->
+  <Gravship.label>gravschip</Gravship.label>
+  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
+  <Gravship.helpText>Bouw een gravschip rondom je gravmotor. Bij lancering neemt het schip de hele structuur mee naar een nieuwe kaart.\n\nHet lanceren van het gravschip vernietigt de huidige kaart.\n\nVoor het lanceren heeft een gravschip het volgende nodig:\n     - Besturingsconsole\n     - Brandstoftanks\n     - Stuwraketten\n\nOnderzoek 'basisgravtech' om ze vrij te spelen.\n\nJe kunt slechts een beperkte hoeveelheid substructuur bouwen. Zoek gravkernen en gravlitepanelen om deze limiet te verhogen.\n\nJe gravmotor zal soms gravtech op de planeet detecteren en markeren op de wereldkaart.</Gravship.helpText>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>baan om planeet</Orbit.label>
+  <!-- EN: On the world map, use the 'view planet' and 'view orbit' buttons to switch between planetary and orbital views.\n\nYou can travel to orbital locations using transport pods, shuttles, or gravships.\n\nColonists need vacsuits or other advanced armor to survive in the vacuum of space.\n\nIf using a gravship, make sure it's well-heated. Build oxygen pumps to maintain breathable air and enclose your ship with airtight walls and doors. Avoid using wood or stone for exterior walls and doors.\n\nPlan your return trip before you launch. Living in orbit for a long time is very challenging. Getting stranded in orbit is deadly. -->
+  <Orbit.helpText>Gebruik op de wereldkaart de knoppen 'Planeet bekijken' en 'Omloopbaan bekijken' om te wisselen tussen het planetaire en orbitale overzicht.\n\nJe kunt naar orbitale locaties reizen met transportpods, shuttles of gravschepen.\n\nKolonisten hebben vacuümpakken of andere geavanceerde bepantsering nodig om te kunnen overleven in het vacuüm van de ruimte.\n\nAls je een gravschip gebruikt, zorg er dan voor dat het goed verwarmd is. Bouw zuurstofpompen om lucht in te kunnen ademen en sluit je schip af met luchtdichte muren en deuren. Gebruik geen hout of steen voor buitenmuren en buitendeuren.\n\nPlan je terugreis voordat je je schip lanceert. Bij langdurig leven in een baan om een planeet komt veel kijken. Als je vast komt te zitten in een baan om de planeet, betekent dat je einde.</Orbit.helpText>
+  
+</LanguageData>

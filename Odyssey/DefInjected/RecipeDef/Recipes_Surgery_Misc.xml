@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: remove porcupine quills -->
+  <RemovePorcupineQuill.label>stekelvarkenstekels verwijderen</RemovePorcupineQuill.label>
+  <!-- EN: Remove porcupine quills. -->
+  <RemovePorcupineQuill.description>Verwijder stekelvarkenstekels.</RemovePorcupineQuill.description>
+  <!-- EN: Removing quills. -->
+  <RemovePorcupineQuill.jobString>Stekels worden verwijderd.</RemovePorcupineQuill.jobString>
+  
+</LanguageData>

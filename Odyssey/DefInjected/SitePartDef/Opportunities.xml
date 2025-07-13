@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: An abandoned orbital platform containing valuable resources. -->
+  <Opportunity_AbandonedPlatform.description>Een verlaten orbitaal platform met waardevolle grondstoffen.</Opportunity_AbandonedPlatform.description>
+  
+  <!-- EN: An orbital platform used to produce mechanoids, controlled by a distant mechhive. -->
+  <Opportunity_MechanoidPlatform.description>Een orbitaal platform dat wordt gebruikt om mechanoïden te produceren, aangestuurd door een verre mechhive.</Opportunity_MechanoidPlatform.description>
+  
+  <!-- EN: The wreckage of an orbital platform containing valuable resources. These wrecks are commonly guarded by orbital pirates. -->
+  <Opportunity_OrbitalWreck.description>Het wrak van een orbitaal platform met waardevolle grondstoffen. Deze wrakken worden vaak bewaakt door orbitale piraten.</Opportunity_OrbitalWreck.description>
+  
+  <!-- EN: survey site -->
+  <Opportunity_SurveySite.label>onderzoekslocatie</Opportunity_SurveySite.label>
+  <!-- EN: The site of a remote surveying operation. -->
+  <Opportunity_SurveySite.description>De locatie van een afgelegen onderzoeksoperatie.</Opportunity_SurveySite.description>
+  
+  <!-- EN: An unmanned satellite incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms. -->
+  <OpportunitySite_Satellite.description>Een onbemande satelliet die geen leven kan ondersteunen. Satellieten kunnen voor verschillende doeleinden gebruikt worden, van energieopslag tot wapenplatform.</OpportunitySite_Satellite.description>
+  
+</LanguageData>

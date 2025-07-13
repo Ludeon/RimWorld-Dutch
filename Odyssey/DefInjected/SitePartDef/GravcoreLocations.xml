@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>verlaten nederzetting</AbandonedSettlement.label>
+  <!-- EN: The gravcore energy signature is coming from somewhere in this settlement. Explore the abandoned buildings to find the gravcore. -->
+  <AbandonedSettlement.description>De gravkern-energiesignatuur komt ergens uit deze nederzetting. Verken de verlaten gebouwen om de gravkern te vinden.</AbandonedSettlement.description>
+  <!-- EN: Contains: Gravcore -->
+  <AbandonedSettlement.mainPartAllThreatsLabel>Bevat: gravkern</AbandonedSettlement.mainPartAllThreatsLabel>
+  
+  <!-- EN: ancient reactor -->
+  <AncientReactor.label>oude reactor</AncientReactor.label>
+  <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is cracked and leaking toxic fallout over the whole region. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
+  <AncientReactor.description>Een oude reactor ligt verscholen in de nabijgelegen ruïnes. De reactor is gescheurd en de hele regio lijdt onder giftige neerslag. Lokaliseer en deactiveer de reactor om een gravkern te bemachtigen en de neerslag te stoppen.</AncientReactor.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientReactor.mainPartAllThreatsLabel>Bevat: gravkern</AncientReactor.mainPartAllThreatsLabel>
+  
+  <!-- EN: ancient stockpile -->
+  <AncientStockpile.label>oude opslagplaats</AncientStockpile.label>
+  <!-- EN: You have detected the energy signature of a gravcore emanating from an ancient underground stockpile. The location is marked on the world map.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
+  <AncientStockpile.description>Je hebt de energiesignatuur van een gravkern gedetecteerd, afkomstig uit een oude ondergrondse opslagplaats. De locatie is gemarkeerd op de wereldkaart.\n\nVerzamel gravkernen en gravlite-panelen om je gravschip groter te maken.</AncientStockpile.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientStockpile.mainPartAllThreatsLabel>Bevat: gravkern</AncientStockpile.mainPartAllThreatsLabel>
+  
+  <!-- EN: crashed mechanoid platform -->
+  <CrashedMechanoidPlatform.label>neergestort mechanoïde-platform</CrashedMechanoidPlatform.label>
+  <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
+  <CrashedMechanoidPlatform.description>De overblijfselen van een orbitaal platform liggen verspreid in de buurt. Wees voorzichtig, het wrak bevat vijandige mechanoïden.\n\nHet gravkern-signaal komt ergens uit de crashlocatie.</CrashedMechanoidPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <CrashedMechanoidPlatform.mainPartAllThreatsLabel>Bevat: gravkern</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: frozen terraformer -->
+  <FrozenTerraformer.label>bevroren terraformer</FrozenTerraformer.label>
+  <!-- EN: You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
+  <FrozenTerraformer.description>Je hebt de energiesignatuur van een gravkern gedetecteerd. De gravkern voorziet een defecte oude terraformer van stroom. Zijn locatie is gemarkeerd op de wereldkaart.\n\nDe terraformer koelt de lokale regio tot gevaarlijk lage temperaturen. Wees voorbereid op koude omstandigheden.\n\nVerzamel gravkernen en gravlite-panelen om je gravschip groter te maken.</FrozenTerraformer.description>
+  <!-- EN: Contains: Gravcore -->
+  <FrozenTerraformer.mainPartAllThreatsLabel>Bevat: gravkern</FrozenTerraformer.mainPartAllThreatsLabel>
+  
+  <!-- EN: cave system -->
+  <InsectLair.label>grottenstelsel</InsectLair.label>
+  <!-- EN: You have detected the energy signature of a gravcore emanating from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nObtain gravcores and gravlite paneling to upgrade your gravship. -->
+  <InsectLair.description>Je hebt de energiesignatuur van een gravkern ontdekt in een grottenstelsel diep onder de grond. De ingang naar het grottenstelsel is gemarkeerd op de wereldkaart.\n\nVerzamel gravkernen en gravlite-bekleding om je gravschip te upgraden.</InsectLair.description>
+  <!-- EN: Contains: Gravcore -->
+  <InsectLair.mainPartAllThreatsLabel>Bevat: gravkern</InsectLair.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechanoid relay -->
+  <MechanoidRelay.label>mechanoïde-relais</MechanoidRelay.label>
+  <!-- EN: The gravcore energy signature is coming from a mechanoid communication relay here. Disassemble it to acquire the gravcore. -->
+  <MechanoidRelay.description>De gravkern-energiesignatuur komt van een mechanoïde-communicatierelais. Demonteer het om de gravkern te verkrijgen.</MechanoidRelay.description>
+  <!-- EN: Contains: Gravcore -->
+  <MechanoidRelay.mainPartAllThreatsLabel>Bevat: gravkern</MechanoidRelay.mainPartAllThreatsLabel>
+  
+  <!-- EN: abandoned orbital platform -->
+  <OrbitalAncientPlatform.label>verlaten orbitaal platform</OrbitalAncientPlatform.label>
+  <!-- EN: You have detected the energy signature of a gravcore.\n\nBe careful - orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <OrbitalAncientPlatform.description>Je hebt de energiesignatuur van een gravkern gedetecteerd.\n\nWees voorzichtig - orbitale locaties zijn extreem gevaarlijk. Zorg ervoor dat je gravschip volledig is afgesloten met luchtdichte muren en rust je kolonisten uit met vacuümpakken. Plan je terugreis, want langdurig verblijf in een baan om de planeet is erg moeilijk.</OrbitalAncientPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <OrbitalAncientPlatform.mainPartAllThreatsLabel>Bevat: gravkern</OrbitalAncientPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechanoid platform -->
+  <OrbitalMechanoidPlatform.label>mechanoïde-platform</OrbitalMechanoidPlatform.label>
+  <!-- EN: You have detected the energy signature of a gravcore on this platform. There is a heavy mechanoid presence.\n\nBe careful, orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <OrbitalMechanoidPlatform.description>Je hebt de energiesignatuur van een gravkern op dit platform gedetecteerd. Er is een grote mechanoïde-aanwezigheid.\n\nWees voorzichtig, orbitale locaties zijn extreem gevaarlijk. Zorg ervoor dat je gravschip volledig is afgesloten met luchtdichte muren en rust je kolonisten uit met vacuümpakken. Plan je terugreis, want langdurig verblijf in een baan is erg moeilijk.</OrbitalMechanoidPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>Bevat: gravkern</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechhive -->
+  <OrbitalMechhive.label>mechhive</OrbitalMechhive.label>
+  <!-- EN: You have detected the mechhive in orbit above the planet. Its location is marked on the world map.\n\nThe mechhive is the center of mechanoid intelligence and directs mechanoids across planet. If shut it down, it will disable mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit. -->
+  <OrbitalMechhive.description>Je hebt de mechhive in een baan rond de planeet gedetecteerd. De locatie staat aangegeven op de wereldkaart.\n\nDe mechhive is het centrum van de mechanoïde-intelligentie en stuurt mechanoïden aan op de hele planeet. Als je hem uitschakelt, worden alle mechanoïden wereldwijd gedeactiveerd. Je zou de mechhive ook in je eigen voordeel kunnen gebruiken.\n\nLet op, mechhives zijn extreem gevaarlijk. Verken eerst andere locaties en zorg dat je voorbereid bent op een lang verblijf in de ruimte.</OrbitalMechhive.description>
+  
+</LanguageData>

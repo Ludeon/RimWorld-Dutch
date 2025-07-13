@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[glacialPlain_adjective] [narrative_name]</li>
+    <li>glacialPlain_adjective(p=2)->glacial</li>
+    <li>glacialPlain_adjective->frigid</li>
+    <li>glacialPlain_adjective->icy</li>
+    <li>glacialPlain_adjective->majestic</li>
+    <li>glacialPlain_adjective->frozen</li>
+    <li>terrain_word->glacier</li>
+    <li>terrain_word(p=0.5)->icefield</li>
+    <li>terrain_word(p=0.5)->icecap</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->glacial plain</li>
+    <li>terrain_word(p=0.3)->stretch</li>
+    <li>terrain_word(p=0.3)->tract</li>
+  -->
+  <NamerGlacialPlain.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[glacialPlain_adjective_infl] [narrative_nameGendered]</li>
+	<li>r_name(p=0.2)->[glacialPlain_adjective] [narrative_nameNeuter]</li>
+    <li>glacialPlain_adjective(p=2)->gletsjerachtig</li>
+	<li>glacialPlain_adjective_infl(p=2)->gletsjerachtige</li>
+    <li>glacialPlain_adjective->ijskoud</li>
+	<li>glacialPlain_adjective_infl->ijskoude</li>
+    <li>glacialPlain_adjective->ijzig</li>
+	<li>glacialPlain_adjective_infl->ijzige</li>
+    <li>glacialPlain_adjective->majestueus</li>
+	<li>glacialPlain_adjective_infl->majestueuze</li>
+    <li>glacialPlain_adjective->bevroren</li>
+	<li>glacialPlain_adjective_infl->bevroren</li>
+    <li>terrain_word->gletsjer</li>
+    <li>terrain_word(p=0.5)->ijsvlakte</li>
+    <li>terrain_word(p=0.5)->ijskap</li>
+    <li>terrain_word(p=0.3)->vlakte</li>
+    <li>terrain_word(p=0.3)->gletsjervlakte</li>
+    <li>terrain_word(p=0.3)->laagte</li>
+    <li>terrain_word(p=0.3)->strook</li>
+  </NamerGlacialPlain.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[glowForest_adjective] [narrative_name]</li>
+    <li>glowForest_adjective(p=2)->fungal</li>
+    <li>glowForest_adjective->blooming</li>
+    <li>glowForest_adjective->dark</li>
+    <li>glowForest_adjective->overgrown</li>
+    <li>glowForest_adjective->gnarled</li>
+    <li>terrain_word(p=3)->glowforest</li>
+    <li>terrain_word->mycelium bed</li>
+    <li>terrain_word->fungal forest</li>
+    <li>terrain_word->darklands</li>
+    <li>terrain_word->dark forest</li>
+  -->
+  <NamerGlowforest.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[glowForest_adjective] [narrative_nameNeuter]</li>
+	<li>r_name(p=0.3)->[glowForest_adjective_infl][narrative_nameGendered]</li>
+    <li>glowForest_adjective(p=2)->schimmelachtig</li>
+	<li>glowForest_adjective_infl->schimmelachtige</li>
+    <li>glowForest_adjective->bloeiend</li>
+	<li>glowForest_adjective_infl->bloeiende</li>
+    <li>glowForest_adjective->donker</li>
+	<li>glowForest_adjective_infl->donkere</li>
+    <li>glowForest_adjective->overwoekerd</li>
+	<li>glowForest_adjective_infl->overwoekerde</li>
+    <li>glowForest_adjective->knoestig</li>
+	<li>glowForest_adjective_infl->knoestige</li>
+    <li>terrain_word_neut(p=3)->gloowoud</li>
+    <li>terrain_word_neut->myceliumbed</li>
+    <li>terrain_word_neut->schimmelbos</li>
+    <li>terrain_word_neut->duisterland</li>
+    <li>terrain_word_neut->donkerwoud</li>
+  </NamerGlowforest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[grasslands_adjective] [narrative_name]</li>
+    <li>grasslands_adjective(p=2)->flat</li>
+    <li>grasslands_adjective->dry</li>
+    <li>grasslands_adjective->windswept</li>
+    <li>grasslands_adjective->rolling</li>
+    <li>grasslands_adjective->endless</li>
+    <li>terrain_word(p=2)->grasslands</li>
+    <li>terrain_word(p=2)->prairie</li>
+    <li>terrain_word(p=2)->plains</li>
+    <li>terrain_word->savanna</li>
+    <li>terrain_word->steppe</li>
+    <li>terrain_word->flats</li>
+  -->
+  <NamerGrasslands.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[grasslands_adjective] [narrative_nameNeuter]</li>
+	<li>r_name(p=0.3)->[grasslands_adjective_infl][narrative_nameGendered]</li>
+    <li>grasslands_adjective(p=2)->vlak</li>
+	<li>grasslands_adjective_infl->vlakke</li>
+    <li>grasslands_adjective->droog</li>
+	<li>grasslands_adjective_infl->droge</li>
+    <li>grasslands_adjective->winderig</li>
+	<li>grasslands_adjective_infl->winderige</li>
+    <li>grasslands_adjective->glooiend</li>
+	<li>grasslands_adjective_infl->glooiende</li>
+    <li>grasslands_adjective->eindeloos</li>
+	<li>grasslands_adjective_infl->eindeloze</li>
+    <li>terrain_word(p=2)->graslanden</li>
+    <li>terrain_word(p=2)->prairie</li>
+    <li>terrain_word(p=2)->vlaktes</li>
+    <li>terrain_word->savanne</li>
+    <li>terrain_word->steppe</li>
+    <li>terrain_word->vlakte</li>
+  </NamerGrasslands.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[lavaField_adjective] [narrative_name]</li>
+    <li>lavaField_adjective(p=2)->volcanic</li>
+    <li>lavaField_adjective->fiery</li>
+    <li>lavaField_adjective->infernal</li>
+    <li>lavaField_adjective->burning</li>
+    <li>lavaField_adjective->blazing</li>
+    <li>terrain_word(p=3)->lava fields</li>
+    <li>terrain_word->rift</li>
+    <li>terrain_word->highland</li>
+    <li>terrain_word->magma plain</li>
+    <li>terrain_word->vent</li>
+    <li>terrain_word->furnace</li>
+    <li>terrain_word->inferno</li>
+    <li>terrain_word->range</li>
+  -->
+  <NamerLavaField.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[lavaField_adjective] [narrative_nameNeuter]</li>
+	<li>r_name(p=0.3)->[lavaField_adjective_infl][narrative_nameGendered]</li>
+    <li>lavaField_adjective(p=2)->vulkanisch</li>
+	<li>lavaField_adjective_infl->vulkanische</li>
+    <li>lavaField_adjective->vurig</li>
+	<li>lavaField_adjective_infl->vurige</li>
+    <li>lavaField_adjective->hels</li>
+	<li>lavaField_adjective_infl->helse</li>
+    <li>lavaField_adjective->brandend</li>
+	<li>lavaField_adjective_infl->brandende</li>
+    <li>lavaField_adjective->gloeiend</li>
+	<li>lavaField_adjective_infl->gloeiende</li>
+    <li>terrain_word(p=3)->lavavelden</li>
+    <li>terrain_word->breuk</li>
+    <li>terrain_word_neut->hoogland</li>
+    <li>terrain_word->magmavlakte</li>
+    <li>terrain_word->schacht</li>
+    <li>terrain_word->warmtehaard</li>
+    <li>terrain_word->inferno</li>
+    <li>terrain_word->keten</li>
+  </NamerLavaField.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->[ruin_adjective] [narrative_name]</li>
+    <li>r_name(p=0.2)->the [narrative_name] [terrain_word]</li>
+    <li>ruin_adjective(p=2)->ruined</li>
+    <li>ruin_adjective->ancient</li>
+    <li>ruin_adjective->old</li>
+    <li>ruin_adjective->shattered</li>
+    <li>ruin_adjective->blighted</li>
+    <li>ruin_adjective->ashen</li>
+    <li>terrain_word(p=6)->ruins</li>
+    <li>terrain_word(p=3)->scarland</li>
+    <li>terrain_word->megastructure</li>
+    <li>terrain_word->wastelands</li>
+    <li>terrain_word->waste</li>
+    <li>terrain_word->barrens</li>
+    <li>terrain_word->vestige</li>
+    <li>terrain_word->toxlands</li>
+    <li>terrain_word->lands</li>
+    <li>terrain_word->bastion</li>
+  -->
+  <NamerScarlands.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[ruin_adjective] [narrative_nameNeuter]</li>
+	<li>r_name(p=0.3)->[ruin_adjective_infl][narrative_nameGendered]</li>
+    <li>r_name(p=0.2)->de [terrain_word] van de [narrative_nameGendered]</li>
+	<li>r_name(p=0.2)->de [terrain_word] van het [narrative_nameNeuter]</li>
+	<li>r_name(p=0.2)->het [terrain_word_neut] van het [narrative_nameNeuter]</li>
+	<li>r_name(p=0.2)->het [terrain_word_neut] van [narrative_nameGendered]</li>
+    <li>ruin_adjective(p=2)->verwoest</li>
+	<li>ruin_adjective_infl(p=2)->verwoeste</li>
+    <li>ruin_adjective->antiek</li>
+	<li>ruin_adjective_infl->antieke</li>
+    <li>ruin_adjective->oud</li>
+	<li>ruin_adjective_infl->oude</li>
+    <li>ruin_adjective->versplinterd</li>
+	<li>ruin_adjective_infl->versplinterde</li>
+    <li>ruin_adjective->vervlogen</li>
+	<li>ruin_adjective_infl->vervlogen</li>
+    <li>ruin_adjective->asgrauw</li>
+	<li>ruin_adjective_infl->asgrauwe</li>
+    <li>terrain_word(p=6)->ruïnes</li>
+    <li>terrain_word_neut(p=3)->littekenland</li>
+    <li>terrain_word->megaconstructie</li>
+    <li>terrain_word->woestenij</li>
+    <li>terrain_word->wildernis</li>
+    <li>terrain_word->leegte</li>
+    <li>terrain_word->overblijfselen</li>
+    <li>terrain_word->toxlanden</li>
+    <li>terrain_word->landen</li>
+    <li>terrain_word_neut->bolwerk</li>
+  </NamerScarlands.rulePack.rulesStrings>
+  
+</LanguageData>

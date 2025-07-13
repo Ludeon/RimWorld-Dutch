@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: new location -->
+  <ResettledRecently.stages.new_location-0.label>nieuwe locatie</ResettledRecently.stages.new_location-0.label>
+  <!-- EN: It's great to be somewhere new. -->
+  <ResettledRecently.stages.new_location-0.description>Het is geweldig om op een nieuwe plek te zijn.</ResettledRecently.stages.new_location-0.description>
+  <!-- EN: new location -->
+  <ResettledRecently.stages.new_location-1.label>nieuwe locatie</ResettledRecently.stages.new_location-1.label>
+  <!-- EN: It's good to be somewhere new. -->
+  <ResettledRecently.stages.new_location-1.description>Het is fijn om op een nieuwe plek te zijn.</ResettledRecently.stages.new_location-1.description>
+  <!-- EN: want new location -->
+  <ResettledRecently.stages.want_new_location-0.label>wil nieuwe locatie</ResettledRecently.stages.want_new_location-0.label>
+  <!-- EN: We've been here long enough. Let's move somewhere new. -->
+  <ResettledRecently.stages.want_new_location-0.description>We zijn hier lang genoeg geweest. Laten we naar een nieuwe plek gaan.</ResettledRecently.stages.want_new_location-0.description>
+  <!-- EN: want new location -->
+  <ResettledRecently.stages.want_new_location-1.label>wil nieuwe locatie</ResettledRecently.stages.want_new_location-1.label>
+  <!-- EN: We've been here too long. We need to move as soon as possible. -->
+  <ResettledRecently.stages.want_new_location-1.description>We zijn hier te lang geweest. We moeten zo snel mogelijk verhuizen.</ResettledRecently.stages.want_new_location-1.description>
+  
+</LanguageData>

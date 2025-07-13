@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Create/review world -->
+  <!-- EN: Landmarks -->
+  <PlanetLandmarkDensity>Herkenningspunten</PlanetLandmarkDensity>
+  <!-- EN: Sparse -->
+  <PlanetLandmarkDensity_Low>Schaars</PlanetLandmarkDensity_Low>
+  <!-- EN: Normal -->
+  <PlanetLandmarkDensity_Normal>Normaal</PlanetLandmarkDensity_Normal>
+  <!-- EN: Crowded -->
+  <PlanetLandmarkDensity_High>Veelvoorkomend</PlanetLandmarkDensity_High>
+  
+  <!-- EN: Preparing for takeoff -->
+  <GeneratingGravship>Wordt voorbereid voor vertrek</GeneratingGravship>
+  <!-- EN: Preparing for landing -->
+  <PreparingForLanding>Wordt voorbereid op de landing</PreparingForLanding>
+
+  <!-- EN: Subject -->
+  <Subject>Onderwerp</Subject>
+
+  <!-- EN: Fishing yield -->
+  <Difficulty_FishingYieldFactor_Label>Visopbrengst</Difficulty_FishingYieldFactor_Label>
+  <!-- EN: Adjust how many fish are caught when fishing. -->
+  <Difficulty_FishingYieldFactor_Info>Bepaal hoeveel vissen worden gevangen tijdens het vissen.</Difficulty_FishingYieldFactor_Info>
+
+  <!-- EN: Disabling {0} will prevent major Odyssey quests from being completable. -->
+  <OdysseyFactionDisabledContentWarning>Het uitschakelen van {0} voorkomt dat grote Odyssee-missies voltooid kunnen worden.</OdysseyFactionDisabledContentWarning> <!-- text_todo -->
+</LanguageData>

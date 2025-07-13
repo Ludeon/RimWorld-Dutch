@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient chemfuel refinery -->
+  <OpportunitySite_AncientChemfuelRefinery.label>oude chembrandstofraffinaderij</OpportunitySite_AncientChemfuelRefinery.label>
+  <!-- EN: An abandoned industrial installation containing large quantities of chemfuel. It may also contain active security systems. -->
+  <OpportunitySite_AncientChemfuelRefinery.description>Een verlaten industriële installatie met grote hoeveelheden chembrandstof. Mogelijk zijn er ook nog actieve beveiligingssystemen aanwezig.</OpportunitySite_AncientChemfuelRefinery.description>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientChemfuelRefinery.approachingReportString>Onderzoek {0}</OpportunitySite_AncientChemfuelRefinery.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientChemfuelRefinery.approachOrderString>Onderzoek {0}</OpportunitySite_AncientChemfuelRefinery.approachOrderString>
+  
+  <!-- EN: ancient garrison -->
+  <OpportunitySite_AncientGarrison.label>oud garnizoen</OpportunitySite_AncientGarrison.label>
+  <!-- EN: A long-abandoned military structure. It may still contain valuable items, as well as active security systems. Use caution while exploring these ruins. -->
+  <OpportunitySite_AncientGarrison.description>Een lang verlaten militaire structuur. Er kunnen nog waardevolle voorwerpen aanwezig zijn, evenals actieve beveiligingssystemen. Wees voorzichtig bij het verkennen van deze ruïnes.</OpportunitySite_AncientGarrison.description>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientGarrison.approachingReportString>Onderzoek {0}</OpportunitySite_AncientGarrison.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientGarrison.approachOrderString>Onderzoek {0}</OpportunitySite_AncientGarrison.approachOrderString>
+  
+  <!-- EN: infested settlement -->
+  <OpportunitySite_AncientInfestedSettlement.label>besmette nederzetting</OpportunitySite_AncientInfestedSettlement.label>
+  <!-- EN: A once-prosperous settlement that's succumb to an insect infestation. It may still contain valuable resources. -->
+  <OpportunitySite_AncientInfestedSettlement.description>Een ooit welvarende nederzetting die ten prooi is gevallen aan een insectenplaag. Misschien zijn er nog waardevolle grondstoffen te vinden.</OpportunitySite_AncientInfestedSettlement.description>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientInfestedSettlement.approachingReportString>Onderzoek {0}</OpportunitySite_AncientInfestedSettlement.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientInfestedSettlement.approachOrderString>Onderzoek {0}</OpportunitySite_AncientInfestedSettlement.approachOrderString>
+  
+  <!-- EN: ancient launch site -->
+  <OpportunitySite_AncientLaunchSite.label>oude lanceerbasis</OpportunitySite_AncientLaunchSite.label>
+  <!-- EN: An abandoned collection of launch pads used to deliver supplies to orbital platforms. It contains working transport pods. -->
+  <OpportunitySite_AncientLaunchSite.description>Verlaten lanceerplatforms die werden gebruikt om voorraden naar orbitale platforms te sturen. Er zijn nog werkende transportpods aanwezig.</OpportunitySite_AncientLaunchSite.description>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientLaunchSite.approachingReportString>Onderzoek {0}</OpportunitySite_AncientLaunchSite.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientLaunchSite.approachOrderString>Onderzoek {0}</OpportunitySite_AncientLaunchSite.approachOrderString>
+  
+  <!-- EN: ancient warehouse -->
+  <OpportunitySite_AncientWarehouse.label>oud magazijn</OpportunitySite_AncientWarehouse.label>
+  <!-- EN: An abandoned warehouse. It still contains valuables. It may also contain active security systems. -->
+  <OpportunitySite_AncientWarehouse.description>Een verlaten opslagloods. Er liggen nog waardevolle spullen. Mogelijk zijn er ook actieve beveiligingssystemen.</OpportunitySite_AncientWarehouse.description>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientWarehouse.approachingReportString>Onderzoek {0}</OpportunitySite_AncientWarehouse.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <OpportunitySite_AncientWarehouse.approachOrderString>Onderzoek {0}</OpportunitySite_AncientWarehouse.approachOrderString>
+  
+</LanguageData>

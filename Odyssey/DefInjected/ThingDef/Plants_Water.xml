@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulrush -->
+  <Plant_Bulrush.label>lisdodde</Plant_Bulrush.label>
+  <!-- EN: A plant commonly found in swamps, recognizable for its brown cigar-shaped top. -->
+  <Plant_Bulrush.description>Een plant die vaak voorkomt in moerassen, herkenbaar aan de bruine sigaarvormige top.</Plant_Bulrush.description>
+  
+  <!-- EN: lily pad -->
+  <Plant_LilyPad.label>waterlelieblad</Plant_LilyPad.label>
+  <!-- EN: A water plant with a broad floating leaf. -->
+  <Plant_LilyPad.description>Een waterplant met een breed drijvend blad.</Plant_LilyPad.description>
+  
+  <!-- EN: lotus -->
+  <Plant_Lotus.label>lotus</Plant_Lotus.label>
+  <!-- EN: An aquatic plant known for its fragrant flowers. -->
+  <Plant_Lotus.description>Een waterplant die bekend staat om zijn geurige bloemen.</Plant_Lotus.description>
+  
+  <!-- EN: reeds -->
+  <Plant_Reeds.label>riet</Plant_Reeds.label>
+  <!-- EN: A tall slender plant that grows in water. -->
+  <Plant_Reeds.description>Een lange, slanke plant die in het water groeit.</Plant_Reeds.description>
+  
+</LanguageData>

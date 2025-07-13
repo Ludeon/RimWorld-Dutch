@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy bridge -->
+  <HeavyBridge.label>zware brug</HeavyBridge.label>
+  <!-- EN: A stronger version of the basic bridge which supports heavy structures on top. You can build a whole colony on water with this. -->
+  <HeavyBridge.description>Een sterkere versie van de gewone brug die zware constructies kan dragen. Hiermee kun je een hele kolonie op het water bouwen.</HeavyBridge.description>
+  
+  <!-- EN: gravship substructure -->
+  <Substructure.label>gravschip-substructuur</Substructure.label>
+  <!-- EN: A lightweight truss structure with flooring on top that forms the deck of a gravship. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine. -->
+  <Substructure.description>Een lichtgewicht vakwerkstructuur met een vloer erbovenop die het dek van een gravschip vormt. Alleen dingen die op deze substructuur staan, kunnen worden opgetild door het levitatieveld van de gravmotor. Deze vloer moet binnen het bereik van een gravmotor worden gebouwd.</Substructure.description>
+  
+</LanguageData>

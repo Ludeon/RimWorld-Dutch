@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic asteroid -->
+  <AsteroidBasic.label>basisasteroïde</AsteroidBasic.label>
+  <!-- EN: A stellite asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidBasic.description>Een vacsteenasteroïde die lang geleden in een baan om de planeet is gesleept als onderdeel van een mijnoperatie. De meeste waardevolle grondstoffen zijn uit deze asteroïde uitgeput.\n\nDeze locatie is bereikbaar met transportpods, shuttles of een gravschip.</AsteroidBasic.description>
+  
+  <!-- EN: asteroid mining site -->
+  <AsteroidMiningSite.label>mijnlocatie op asteroïde</AsteroidMiningSite.label>
+  <!-- EN: A stellite asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidMiningSite.description>Een vacsteenasteroïde die lang geleden in een baan om de planeet is gesleept als onderdeel van een mijnoperatie. Deze asteroïde is slechts gedeeltelijk ontgonnen.\n\nDeze locatie is bereikbaar met transportpods, shuttles of een gravschip.</AsteroidMiningSite.description>
+  
+  <!-- EN: claimable site -->
+  <ClaimableSite.label>claimbare locatie</ClaimableSite.label>
+  
+  <!-- EN: claimable space site -->
+  <ClaimableSpaceSite.label>claimbare ruimtelocatie</ClaimableSpaceSite.label>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSpaceSettlement.label>vernietigde nederzetting</DestroyedSpaceSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSpaceSettlement.description>Een vernietigde nederzetting.</DestroyedSpaceSettlement.description>
+  
+  <!-- EN: gravship -->
+  <Gravship.label>gravschip</Gravship.label>
+  <!-- EN: A gravship in flight. -->
+  <Gravship.description>Een vliegend gravschip.</Gravship.description>
+  
+  <!-- EN: gravship launch -->
+  <GravshipLaunch.label>gravschiplancering</GravshipLaunch.label>
+  <!-- EN: The launch site of a gravship. -->
+  <GravshipLaunch.description>De lanceerbasis van een gravschip.</GravshipLaunch.description>
+  
+  <!-- EN: mechhive -->
+  <Mechhive.label>mechhive</Mechhive.label>
+  
+  <!-- EN: orbital item stash -->
+  <OrbitalItemStash.label>orbitale itemvoorraad</OrbitalItemStash.label>
+  <!-- EN: A stellite asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <OrbitalItemStash.description>Een vacsteenasteroïde die lang geleden in een baan om de planeet is gesleept als onderdeel van een mijnoperatie. De meeste waardevolle grondstoffen zijn al uit deze asteroïde gewonnen.\n\nDeze locatie is bereikbaar met transportpods, shuttles of een gravschip.</OrbitalItemStash.description>
+  
+  <!-- EN: passenger shuttle -->
+  <PassengerShuttle.label>passagiersshuttle</PassengerShuttle.label>
+  <!-- EN: A passenger shuttle in flight. -->
+  <PassengerShuttle.description>Een vliegende passagiersshuttle.</PassengerShuttle.description>
+  
+  <!-- EN: space -->
+  <Space.label>ruimte</Space.label>
+  
+  <!-- EN: orbital settlement -->
+  <SpaceSettlement.label>orbitale nederzetting</SpaceSettlement.label>
+  <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
+  <SpaceSettlement.description>Een orbitaal platform in handen van een andere menselijke factie. Ze stellen bezoek niet op prijs.\n\nDeze platforms hebben automatische langeafstandswapens om inkomende schepen te vernietigen. Alleen een gravschip met stoorzender kan ze veilig benaderen.</SpaceSettlement.description>
+  
+  <!-- EN: space site -->
+  <SpaceSite.label>ruimtelocatie</SpaceSite.label>
+  
+</LanguageData>

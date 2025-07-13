@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>baan</Orbit.label>
+  <!-- EN: Empty space a few hundred kilometers above the surface of the world. -->
+  <Orbit.description>Lege ruimte, een paar honderd kilometer boven het oppervlak van de wereld.</Orbit.description>
+  
+  <!-- EN: space -->
+  <Space.label>ruimte</Space.label>
+  <!-- EN: Empty void. -->
+  <Space.description>Leegte.</Space.description>
+  
+</LanguageData>

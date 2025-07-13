@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Vacuum exposure -->
+  <AlertVacuumExposure>Vacuümblootstelling</AlertVacuumExposure>
+  <!-- EN: These people and animals are suffering from exposure to the vacuum of space:\n{0}\n\nGet them to a pressurized area before they die. -->
+  <AlertVacuumExposureDesc>Deze mensen en dieren lijden aan blootstelling aan het vacuüm van de ruimte:\n{0}\n\nBreng ze naar een durkgebied voordat ze sterven.</AlertVacuumExposureDesc>
+
+  <!-- EN: Mechanoid threat -->
+  <AlertMechanoidThreat>Mechanoïde-dreiging</AlertMechanoidThreat>
+  <!-- EN: A mechhive is conducting scans to determine your location. It will send a massive raid of hostile mechanoids when it locates you.\n\nFlee the map before mechanoids arrive! -->
+  <AlertMechanoidThreatDesc>Een mechhive voert scans uit om je locatie te bepalen. Zodra ze je hebben gevonden, sturen ze een enorme hoeveelheid mechanoïden om je aan te vallen.\n\nVlucht het gebied voordat de mechanoïden arriveren!</AlertMechanoidThreatDesc>
+  <!-- EN: Incoming mechanoids -->
+  <AlertMechanoidThreatCritical>Inkomende mechanoïden</AlertMechanoidThreatCritical>
+  <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
+  <AlertMechanoidThreatCriticalDesc>Een mechhive heeft je locatie ontdekt. Ze blijven vijandige mechanoïden sturen totdat je deze locatie hebt verlaten.</AlertMechanoidThreatCriticalDesc>
+
+  <!-- Mechhive -->
+  <!-- EN: Stabilizers remaining -->
+  <StabilizersRemainingAlertLabel>Resterende stabilisatoren</StabilizersRemainingAlertLabel>
+  <!-- EN: The cerebrex core is currently invulnerable. Find and destroy its stabilizers to gain access to the core. -->
+  <StabilizersRemainingAlertDescription>De cerebrex-kern is momenteel onverwoestbaar. Zoek en vernietig de stabilisatoren om toegang te krijgen tot de kern.</StabilizersRemainingAlertDescription>
+
+  <!-- Relay -->
+  <!-- EN: Stabilizers remaining -->
+  <RelayStabilizersRemainingAlertLabel>Resterende stabilisatoren</RelayStabilizersRemainingAlertLabel>
+  <!-- EN: The relay is currently protected by nearby stabilizers. Destroy or hack them to destabilize it. -->
+  <RelayStabilizersRemainingAlertDescription>Het relais wordt momenteel beschermd door nabijgelegen stabilisatoren. Vernietig of hack deze om het relais te destabiliseren.</RelayStabilizersRemainingAlertDescription>
+
+  <!-- Scanner -->
+  <!-- EN: Protect the scanner -->
+  <SurveyScannerAlertLabel>Bescherm de scanner</SurveyScannerAlertLabel>
+  <!-- EN: Protect the scanner until the surveying operation is complete. -->
+  <SurveyScannerAlertDescription>Bescherm de scanner totdat de onderzoeksoperatie is voltooid.</SurveyScannerAlertDescription>
+  
+</LanguageData>

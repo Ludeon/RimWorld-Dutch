@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacuum resistant -->
+  <VacuumResistance_Partial.label>vacuümresistent</VacuumResistance_Partial.label>
+  <!-- EN: Carriers of this gene have skin that releases a waxy substance when air pressure is low, preventing vacuum burns and allowing them to survive longer when exposed to vacuum. -->
+  <VacuumResistance_Partial.description>De huid van dragers van dit gen scheidt een wasachtige substantie af bij lage luchtdruk, waardoor vacuümverbrandingen worden voorkomen en ze langer kunnen overleven als ze aan vacuüm worden blootgesteld.</VacuumResistance_Partial.description>
+  <!-- EN: vacuum-resistant -->
+  <VacuumResistance_Partial.labelShortAdj>vacuümresistent</VacuumResistance_Partial.labelShortAdj>
+  
+  <!-- EN: breathless -->
+  <VacuumResistance_Total.label>ademloos</VacuumResistance_Total.label>
+  <!-- EN: Carriers of this gene can store concentrated oxygen in their bodies. Their cells consume much less oxygen, meaning they rarely need to breathe. These adaptations make them immune to the harmful effects of space, as well as environmental toxins, tox gas, acidic smog, and rot stink. -->
+  <VacuumResistance_Total.description>Dragers van dit gen kunnen geconcentreerde zuurstof in hun lichaam opslaan. Hun cellen verbruiken veel minder zuurstof, waardoor ze zelden hoeven te ademen. Deze aanpassingen maken hen immuun voor de schadelijke effecten van het heelal, maar ook voor omgevingsgif, gifgas, zure smog en rottingslucht.</VacuumResistance_Total.description>
+  <!-- EN: Tox gas immunity -->
+  <VacuumResistance_Total.customEffectDescriptions.0>Immuniteit tegen gifgas</VacuumResistance_Total.customEffectDescriptions.0>
+  <!-- EN: breathless -->
+  <VacuumResistance_Total.labelShortAdj>ademloos</VacuumResistance_Total.labelShortAdj>
+  
+</LanguageData>

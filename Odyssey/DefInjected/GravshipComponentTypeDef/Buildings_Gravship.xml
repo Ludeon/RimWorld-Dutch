@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: controls -->
+  <Controls.label>besturing</Controls.label>
+  
+  <!-- EN: fuel tank -->
+  <FuelStorage.label>brandstoftank</FuelStorage.label>
+  
+  <!-- EN: power cell -->
+  <PowerCell.label>krachtcel</PowerCell.label>
+  
+  <!-- EN: signal jammer -->
+  <SignalJammer.label>stoorzender</SignalJammer.label>
+  
+  <!-- EN: thruster -->
+  <Thruster.label>stuwraket</Thruster.label>
+  
+</LanguageData>

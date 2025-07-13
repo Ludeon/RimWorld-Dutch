@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioluminescent spores -->
+  <BioluminescentSpores.label>bioluminescente sporen</BioluminescentSpores.label>
+  <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores are strangely beautiful and pose no danger. -->
+  <BioluminescentSpores.description>Een soort schimmel begint te bloeien en geeft bioluminescente sporen af! De sporen zijn vreemd genoeg mooi en vormen geen gevaar.</BioluminescentSpores.description>
+  <!-- EN: The bioluminescent spores are subsiding. -->
+  <BioluminescentSpores.endMessage>De bioluminescente sporen verdwijnen weer.</BioluminescentSpores.endMessage>
+  <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them. -->
+  <BioluminescentSpores.letterText>Een soort schimmel begint te bloeien en geeft bioluminescente sporen af! De sporen vormen geen gevaar en de schitterende gloed zal iedereen die ze zien ziet opvrolijken.</BioluminescentSpores.letterText>
+  
+  <!-- EN: darkened skies -->
+  <DarkenedSkies.label>donkere luchten</DarkenedSkies.label>
+  <!-- EN: Thick black clouds are blocking out the sky and sun. -->
+  <DarkenedSkies.description>Dikke zwarte wolken blokkeren de lucht en de zon.</DarkenedSkies.description>
+  
+  <!-- EN: deep freeze -->
+  <DeepFreeze.label>diepe vrieskou</DeepFreeze.label>
+  <!-- EN: An ancient, mysterious device is dramatically lowering temperatures in the area. -->
+  <DeepFreeze.description>Een oud, mysterieus apparaat verlaagt de temperatuur in de omgeving drastisch.</DeepFreeze.description>
+  <!-- EN: The deep freeze is lifting. -->
+  <DeepFreeze.endMessage>De diepe vrieskou trekt weg.</DeepFreeze.endMessage>
+  
+  <!-- EN: drought -->
+  <Drought.label>droogte</Drought.label>
+  <!-- EN: A prolonged period of low rainfall. Plants will grow slower during a drought. -->
+  <Drought.description>Een langdurige periode met weinig regenval. Planten groeien trager tijdens een droogte.</Drought.description>
+  <!-- EN: The drought is over. -->
+  <Drought.endMessage>De droogte is voorbij.</Drought.endMessage>
+  <!-- EN: Due to a recent lack of rain, a drought has begun. Outdoor plants will grow significantly slower. -->
+  <Drought.letterText>Door een recent gebrek aan regen is droogte ontstaan. Buitenplanten groeien aanzienlijk trager.</Drought.letterText>
+  
+  <!-- EN: initial drought conditions -->
+  <DroughtInitial.label>omstandigheden voor beginnende droogte</DroughtInitial.label>
+  <!-- EN: The initial signs of a drought. If it continues, a full drought will occur. -->
+  <DroughtInitial.description>De eerste tekenen van droogte. Als het aanhoudt, volgt volledige droogte.</DroughtInitial.description>
+  
+  <!-- EN: gill rot -->
+  <GillRot.label>kieuwrot</GillRot.label>
+  <!-- EN: Fish populations are slowly declining due to a parasitic fungus known as gill rot. The fungus is harmless to people. -->
+  <GillRot.description>De visstand neemt langzaam af door een parasitaire schimmel, bekend als kieuwrot. De schimmel is onschadelijk voor mensen.</GillRot.description>
+  <!-- EN: Gill rot is ending. -->
+  <GillRot.endMessage>Kieuwrot verdwijnt.</GillRot.endMessage>
+  <!-- EN: A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive. -->
+  <GillRot.letterText>Een parasitaire schimmel genaamd kieuwrot is opgedoken bij de lokale vispopulaties. De schimmel is onschadelijk voor mensen, maar zorgt ervoor dat de visstand enige tijd gestaag afneemt.\n\nEen lage vispopulatie zorgt voor minder visopbrengst.</GillRot.letterText>
+  
+  <!-- EN: heat vent emissions -->
+  <HeatVentHeat.label>warmteschacht-uitstoot</HeatVentHeat.label>
+  <!-- EN: Heat from a nearby underground vent is raising the temperature in the area. -->
+  <HeatVentHeat.description>Warmte van een nabijgelegen ondergrondse schacht verhoogt de temperatuur in de omgeving.</HeatVentHeat.description>
+  
+  <!-- EN: lava flow -->
+  <LavaFlow.label>lavastroom</LavaFlow.label>
+  <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
+  <LavaFlow.description>Lava stroomt het gebied binnen. Het zal over het laaggelegen vulkanisch gesteente stromen, maar het andere terrein ontzien. Houd je kolonisten weg uit de gevarenzone!</LavaFlow.description>
+  
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.label>vulkanische as</VolcanicAsh.label>
+  <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
+  <VolcanicAsh.description>As van een nabije vulkaanuitbarsting vult de lucht. De zon wordt geblokkeerd en de scherpe lucht prikt in de longen. De aswolk blijft enkele dagen hangen.</VolcanicAsh.description>
+  <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
+  <VolcanicAsh.descriptionFuture>een nabije uitbarsting zorgt gedurende [gameConditionDuration_duration] voor een aswolk boven [map_definite], die de lucht verduistert en ademhalen moeilijker maakt</VolcanicAsh.descriptionFuture>
+  <!-- EN: Most of the ash has settled. -->
+  <VolcanicAsh.endMessage>Het grootste deel van de as is neergedaald.</VolcanicAsh.endMessage>
+  <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
+  <VolcanicAsh.letterText>As van een nabije vulkaanuitbarsting vult de lucht. De zon wordt geblokkeerd en de scherpe lucht prikt in de longen. De aswolk blijft enkele dagen hangen.</VolcanicAsh.letterText>
+  
+  <!-- EN: volcanic debris -->
+  <VolcanicDebris.label>vulkanisch puin</VolcanicDebris.label>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.description>Door een nabije vulkaanuitbarsting wordt de regio bestookt met gesmolten lava!</VolcanicDebris.description>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.letterText>Door een nabije vulkaanuitbarsting wordt de regio bestookt met gesmolten lava!</VolcanicDebris.letterText>
+  
+  <!-- EN: windy -->
+  <WindyGameCondition.label>winderig</WindyGameCondition.label>
+  <!-- EN: Winds are much stronger in this area. -->
+  <WindyGameCondition.description>De wind is hier veel krachtiger.</WindyGameCondition.description>
+  
+</LanguageData>

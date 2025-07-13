@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Catfish escape -->
+  <CatfishEscape.letterLabel>Meerval ontsnapt</CatfishEscape.letterLabel>
+  <!-- EN: While attempting to wrangle a catfish, {PAWN_nameDef} stumbled and lost the slippery fish in the murky waters. -->
+  <CatfishEscape.letterText>Tijdens het vangen van een meerval struikelde {PAWN_nameDef} en raakte de glibberige vis kwijt in het troebele water.</CatfishEscape.letterText>
+  
+  <!-- EN: Catfish spine -->
+  <CatfishSpine.letterLabel>Meervalstekel</CatfishSpine.letterLabel>
+  <!-- EN: While handling a catfish, {PAWN_nameDef} was stung by one of the fish's toxic dorsal spines, causing {PAWN_objective} to drop the fish. -->
+  <CatfishSpine.letterText>{PAWN_nameDef} had een meerval vast en werd gestoken door een van de giftige rugstekels, waardoor de vis viel.</CatfishSpine.letterText>
+  
+  <!-- EN: Dogfish bite -->
+  <DogfishBite.letterLabel>Haaienbeet</DogfishBite.letterLabel>
+  <!-- EN: While reeling in a dogfish, {PAWN_nameDef} was bitten.\n\nThe fish managed to escape. -->
+  <DogfishBite.letterText>Tijdens het binnenhalen van een hondshaai werd {PAWN_nameDef}.\n\nDe vis wist te ontsnappen.</DogfishBite.letterText>
+  
+  <!-- EN: Dogfish escape -->
+  <DogfishEscape.letterLabel>Hondshaai ontsnapt</DogfishEscape.letterLabel>
+  <!-- EN: While reeling in a dogfish, {PAWN_nameDef} nearly bitten by the thrashing creature.\n\nThe fish escaped in the confusion. -->
+  <DogfishEscape.letterText>Bij het binnenhalen van een hondshaai werd {PAWN_nameDef} bijna gebeten door het spartelende dier.\n\nDe vis ontsnapte tijdens de verwarring.</DogfishEscape.letterText>
+  
+  <!-- EN: Flying frostfish -->
+  <FrostfishAttack.letterLabel>Vliegende kousenbandvis</FrostfishAttack.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} was suddenly hit by a frostfish leaping out of the water. This caused {PAWN_objective} to lose {PAWN_possessive} catch. -->
+  <FrostfishAttack.letterText>Tijdens het vissen werd {PAWN_nameDef} plotseling geraakt door een uit het water springende kousenbandvis. De vangst ging verloren.</FrostfishAttack.letterText>
+  
+  <!-- EN: Guppy escape -->
+  <GuppyEscape.letterLabel>Guppy ontsnapt</GuppyEscape.letterLabel>
+  <!-- EN: While attempting to catch a guppy, {PAWN_nameDef} fumbled the small slippery fish, allowing it to escape. -->
+  <GuppyEscape.letterText>Tijdens het vangen van een guppy liet {PAWN_nameDef} de kleine, glibberige vis ontsnappen.</GuppyEscape.letterText>
+  
+  <!-- EN: Marlin attack -->
+  <MarlinAttack.letterLabel>Marlijnaanval</MarlinAttack.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} was attacked by a giant marlin and was skewered by its spear-like snout. The fish escaped. -->
+  <MarlinAttack.letterText>Tijdens het vissen werd {PAWN_nameDef} aangevallen door een gigantische marlijn en gespietst door de speerachtige snuit. De vis ontsnapte.</MarlinAttack.letterText>
+  
+  <!-- EN: Giant fish -->
+  <MarlinEscape.letterLabel>Reuzenvis</MarlinEscape.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} saw the shadow of a massive fish beneath the water. The shadow startled {PAWN_nameDef}, causing {PAWN_objective} to lose {PAWN_possessive} catch. -->
+  <MarlinEscape.letterText>Tijdens het vissen zag {PAWN_nameDef} de schaduw van een gigantische vis onder het water. {PAWN_nameDef} schrok van de schaduw en de vangst ging verloren.</MarlinEscape.letterText>
+  
+  <!-- EN: Piranha attack -->
+  <PiranhaAttack.letterLabel>Piranha-aanval</PiranhaAttack.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} got too close to the water and was attacked by a frenzied school of piranha!\n\nThe fish managed to escape. -->
+  <PiranhaAttack.letterText>Tijdens het vissen kwam {PAWN_nameDef} te dicht bij het water en werd aangevallen door een uitzinnige school piranha's!\n\nDe vis wist te ontsnappen.</PiranhaAttack.letterText>
+  
+  <!-- EN: Piranha bite -->
+  <PiranhaBite.letterLabel>Piranhabeet</PiranhaBite.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} got too close to the water and was bitten by a piranha!\n\nThe fish escaped. -->
+  <PiranhaBite.letterText>Tijdens het vissen kwam {PAWN_nameDef} te dicht bij het water en werd gebeten door een piranha!\n\nDe vis ontsnapte.</PiranhaBite.letterText>
+  
+  <!-- EN: Tuna escape -->
+  <TunaEscape.letterLabel>Tonijn ontsnapt</TunaEscape.letterLabel>
+  <!-- EN: While attempting to reel in a tuna, {PAWN_nameDef}'s line snapped, causing {PAWN_objective} to lose the catch. -->
+  <TunaEscape.letterText>Tijdens het binnenhalen van een tonijn brak de lijn, waardoor {PAWN_nameDef} de vangst verloor.</TunaEscape.letterText>
+  
+</LanguageData>

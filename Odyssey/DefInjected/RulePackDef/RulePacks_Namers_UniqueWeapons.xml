@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_weapon_name(p=2)->[weapon_adjective] [weapon_noun]</li>
+    <li>r_weapon_name(p=0.5)->The [weapon_type] of [badass_concept]</li>
+    <li>r_weapon_name(p=0.5)->The [weapon_adjective] [weapon_type]</li>
+    <li>r_weapon_name(p=0.5)->[badass_concept]'s [weapon_type]</li>
+    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef]'s [weapon_noun]</li>
+    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef]'s [weapon_adjective] [weapon_noun]</li>
+    <li>r_weapon_name(p=0.3)->The [badass_concept] of [ANYPAWN_nameIndef]</li>
+    <li>weapon_noun(p=2)->[weapon_type]</li>
+    <li>weapon_noun->[badass_noun]</li>
+    <li>weapon_noun->[badass_concept]</li>
+    <li>weapon_adjective(p=2)->[trait_adjective]</li>
+    <li>weapon_adjective->[badass_adjective]</li>
+    <li>badass_adjective->grim</li>
+    <li>badass_adjective->eternal</li>
+    <li>badass_adjective->night</li>
+    <li>badass_adjective->grave</li>
+    <li>badass_adjective->exceptional</li>
+    <li>badass_adjective->deadly</li>
+    <li>badass_adjective->infamous</li>
+    <li>badass_adjective->custom</li>
+    <li>badass_adjective->deadly</li>
+    <li>badass_adjective->thunderous</li>
+    <li>badass_adjective->cursed</li>
+    <li>badass_adjective->great</li>
+    <li>badass_noun->reaper</li>
+    <li>badass_noun->end</li>
+    <li>badass_noun->howl</li>
+    <li>badass_noun->tempest</li>
+    <li>badass_noun->phantom</li>
+    <li>badass_noun->widow</li>
+    <li>badass_noun->titan</li>
+    <li>badass_noun->juggernaut</li>
+    <li>badass_noun->serpent</li>
+    <li>badass_noun->anvil</li>
+    <li>badass_noun->killer</li>
+    <li>badass_noun->lover</li>
+    <li>badass_noun->beast</li>
+    <li>badass_noun->fang</li>
+    <li>badass_noun->arm</li>
+    <li>badass_noun->horn</li>
+    <li>badass_concept->justice</li>
+    <li>badass_concept->revenge</li>
+    <li>badass_concept->vengeance</li>
+    <li>badass_concept->pain</li>
+    <li>badass_concept->agony</li>
+    <li>badass_concept->torment</li>
+    <li>badass_concept->legend</li>
+    <li>badass_concept->delight</li>
+    <li>badass_concept->regret</li>
+    <li>badass_concept->pride</li>
+    <li>badass_concept->conceit</li>
+    <li>badass_concept->honor</li>
+    <li>badass_concept->fury</li>
+    <li>badass_concept->reckoning</li>
+    <li>badass_concept->serenity</li>
+    <li>badass_concept->love</li>
+    <li>badass_concept->laughter</li>
+  -->
+  <NamerUniqueWeapon.rulePack.rulesStrings>
+    <li>r_weapon_name(p=2)->[weapon_adjective] [weapon_noun_neut]</li>
+	<li>r_weapon_name(p=2)-> [weapon_adjective_infl] [weapon_noun]</li>
+    <li>r_weapon_name(p=0.5)->De [weapon_noun]van [badass_concept]</li>
+	<li>r_weapon_name(p=0.5)->Het [weapon_noun_neut] van [badass_concept]</li>
+    <li>r_weapon_name(p=0.5)->De [weapon_adjective_infl] [weapon_noun]</li>
+	<li>r_weapon_name(p=0.5)->Het [weapon_adjective_infl] [weapon_noun_neut]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_noun_neut] van [badass_concept]</li>
+	<li>r_weapon_name(p=0.5)->[weapon_noun_neut] van [badass_concept_neut]</li>
+	<li>r_weapon_name(p=0.5)->[weapon_noun] van [badass_concept]</li>
+	<li>r_weapon_name(p=0.5)->[weapon_noun] van [badass_concept_neut]</li>
+    <li>r_weapon_name(p=0.3)->[weapon_noun_neut] van[ANYPAWN_nameIndef]</li>
+	<li>r_weapon_name(p=0.3)->[weapon_noun] van[ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->[weapon_adjective] [weapon_noun_neut] van [ANYPAWN_nameIndef]</li>
+	<li>r_weapon_name(p=0.3)->[weapon_adjective_infl] [weapon_noun] van [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->De [badass_concept] van [ANYPAWN_nameIndef]</li>
+	<li>r_weapon_name(p=0.3)->Het [badass_concept_neut] van [ANYPAWN_nameIndef]</li>
+    <li>weapon_noun(p=2)->[weaponGendered]</li>
+	<li>weapon_noun_neut(p=2)->[weaponNeuter]</li>
+    <li>weapon_noun->[badass_noun]</li>
+	<li>weapon_noun_neut->[badass_noun_neut]</li>
+    <li>weapon_noun->[badass_concept]</li>
+	<li>weapon_noun_neut->[badass_concept_neut]</li>
+    <li>weapon_adjective(p=2)->[trait_adjective]</li>
+    <li>weapon_adjective->[badass_adjective]</li>
+	<li>weapon_adjective_infl->[badass_adjective_infl]</li>
+    <li>badass_adjective->grimmig</li>
+	<li>badass_adjective_infl->grimmige</li>
+    <li>badass_adjective->eeuwig</li>
+	<li>badass_adjective_infl->eeuwige</li>
+    <li>badass_adjective->duister</li>
+	<li>badass_adjective_infl->duistere</li>
+    <li>badass_adjective->zwaar</li>
+	<li>badass_adjective_infl->zware</li>
+    <li>badass_adjective->uitzonderlijk</li>
+	<li>badass_adjective_infl->uitzonderlijke</li>
+    <li>badass_adjective->dodelijk</li>
+	<li>badass_adjective_infl->dodelijke</li>
+    <li>badass_adjective->berucht</li>
+	<li>badass_adjective_infl->beruchte</li>
+    <li>badass_adjective->aangepast</li>
+	<li>badass_adjective_infl->aangepaste</li>
+    <li>badass_adjective->dodelijk</li>
+	<li>badass_adjective_infl->dodelijke</li>
+    <li>badass_adjective->donderend</li>
+	<li>badass_adjective_infl->donderende</li>
+    <li>badass_adjective->vervloekt</li>
+	<li>badass_adjective_infl->vervloekte</li>
+    <li>badass_adjective->groot</li>
+	<li>badass_adjective_infl->grote</li>
+    <li>badass_noun->doder</li>
+    <li>badass_noun_neut->einde</li>
+    <li>badass_noun->brul</li>
+    <li>badass_noun->storm</li>
+    <li>badass_noun_neut->spook</li>
+    <li>badass_noun->weduwe</li>
+    <li>badass_noun->titaan</li>
+    <li>badass_noun->juggernaut</li>
+    <li>badass_noun->slang</li>
+    <li>badass_noun_neut->aambeeld</li>
+    <li>badass_noun->moordenaar</li>
+    <li>badass_noun->minnaar</li>
+    <li>badass_noun_neut->beest</li>
+    <li>badass_noun->hoektand</li>
+    <li>badass_noun->arm</li>
+    <li>badass_noun->hoorn</li>
+    <li>badass_concept->gerechtigheid</li>
+    <li>badass_concept->wraak</li>
+    <li>badass_concept->vergelding</li>
+    <li>badass_concept->pijn</li>
+    <li>badass_concept_neut->leed</li>
+    <li>badass_concept->kwelling</li>
+    <li>badass_concept->legende</li>
+    <li>badass_concept_neut->genot</li>
+    <li>badass_concept->spijt</li>
+    <li>badass_concept->trots</li>
+    <li>badass_concept->ijdelheid</li>
+    <li>badass_concept->eer</li>
+    <li>badass_concept->woede</li>
+    <li>badass_concept->afrekening</li>
+    <li>badass_concept->kalmte</li>
+    <li>badass_concept->liefde</li>
+    <li>badass_concept_neut->gelach</li>
+  </NamerUniqueWeapon.rulePack.rulesStrings>
+  
+</LanguageData>

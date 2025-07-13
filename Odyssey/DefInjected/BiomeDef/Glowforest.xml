@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glowforest -->
+  <Glowforest.label>gloowoud</Glowforest.label>
+  <!-- EN: Geysers spew out massive sulfur clouds that cast the region into permanent darkness. Huge fungal colonies bloom in the dark, fed by the nutrients that the geysers bring to the surface. These areas are alluring and dangerous. -->
+  <Glowforest.description>Geisers spuwen enorme zwavelwolken uit die het gebied in permanente duisternis hullen. In het donker bloeien gigantische schimmelkolonies, gevoed door de voedingsstoffen die de geisers naar het oppervlak brengen. Deze gebieden zijn even aantrekkelijk als gevaarlijk.</Glowforest.description>
+  <!-- EN: Large sulfur spouts permanently darken the skies in glowforests, making it hard to grow most crops. -->
+  <Glowforest.settleWarning>De lucht in gloowouden wordt permanent verduisterd door de uitgebraakte zwavel, waardoor het lastig is om de meeste gewassen te verbouwen.</Glowforest.settleWarning>
+  
+</LanguageData>

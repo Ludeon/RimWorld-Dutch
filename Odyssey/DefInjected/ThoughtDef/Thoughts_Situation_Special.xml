@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioluminescent spores -->
+  <BioluminescentSpores.stages.bioluminescent_spores.label>bioluminescente sporen</BioluminescentSpores.stages.bioluminescent_spores.label>
+  <!-- EN: They're absolutely magical. -->
+  <BioluminescentSpores.stages.bioluminescent_spores.description>Ze zijn echt magisch.</BioluminescentSpores.stages.bioluminescent_spores.description>
+  
+  <!-- EN: grav nausea -->
+  <GravNausea.stages.grav_nausea.label>zwaartekrachtmisselijkheid</GravNausea.stages.grav_nausea.label>
+  <!-- EN: The world is spinning. I think I'm gonna throw up. -->
+  <GravNausea.stages.grav_nausea.description>De wereld draait. Ik denk dat ik moet overgeven.</GravNausea.stages.grav_nausea.description>
+  
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.stages.volcanic_ash.label>vulkanische as</VolcanicAsh.stages.volcanic_ash.label>
+  <!-- EN: This stuff burns to breathe in. -->
+  <VolcanicAsh.stages.volcanic_ash.description>Dit spul brandt als je het inademt.</VolcanicAsh.stages.volcanic_ash.description>
+  
+</LanguageData>

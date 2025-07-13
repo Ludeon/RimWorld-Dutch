@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hunter drone -->
+  <Drone_Hunter.label>jagerdrone</Drone_Hunter.label>
+  <!-- EN: hunter drones -->
+  <Drone_Hunter.labelPlural>jagerdrones</Drone_Hunter.labelPlural>
+  
+  <!-- EN: sentry drone -->
+  <Drone_Sentry.label>wachtdrone</Drone_Sentry.label>
+  <!-- EN: sentry drones -->
+  <Drone_Sentry.labelPlural>wachtdrones</Drone_Sentry.labelPlural>
+  
+  <!-- EN: wasp -->
+  <Drone_Wasp.label>wesp</Drone_Wasp.label>
+  <!-- EN: wasps -->
+  <Drone_Wasp.labelPlural>wespen</Drone_Wasp.labelPlural>
+  
+</LanguageData>
